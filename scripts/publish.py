@@ -40,6 +40,11 @@ DATA_JS_TO   = 'const NEWS_BASE = "news";'
 APP_JS_FROM = 'import { renderAdmin, leaveAdmin } from "./admin.js";'
 APP_JS_TO   = 'const renderAdmin = () => {}; const leaveAdmin = () => {};'
 
+# index.html 의 admin(톱니) 버튼: 공개에서 숨김. button element 자체는 DOM에 남기되
+# hidden 속성 + display:none 으로 화면 노출·클릭 모두 차단.
+INDEX_HTML_ADMIN_FROM = '<button class="icon-btn" data-action="open-admin" aria-label="관리" title="관리 (#/admin)">'
+INDEX_HTML_ADMIN_TO   = '<button class="icon-btn" data-action="open-admin" aria-label="관리" title="관리 (#/admin)" hidden style="display:none" aria-hidden="true">'
+
 
 class TransformError(RuntimeError):
     pass
@@ -98,6 +103,7 @@ def _replace_exact_once(path: Path, old: str, new: str) -> None:
 def transform_assets(worktree: Path) -> None:
     _replace_exact_once(worktree / "assets" / "data.js", DATA_JS_FROM, DATA_JS_TO)
     _replace_exact_once(worktree / "assets" / "app.js", APP_JS_FROM, APP_JS_TO)
+    _replace_exact_once(worktree / "index.html", INDEX_HTML_ADMIN_FROM, INDEX_HTML_ADMIN_TO)
 
 
 def copy_news(repo_root: Path, worktree: Path) -> None:
