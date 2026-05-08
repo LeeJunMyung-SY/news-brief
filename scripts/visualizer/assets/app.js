@@ -1246,8 +1246,22 @@ function attachGlobalListeners() {
 }
 
 function navigateDate(dir) {
-  if (state.view === "weekly") return;
   // dir < 0 (`[`): older. dir > 0 (`]`): newer.
+  if (state.view === "weekly") {
+    // weekly view: 이전/다음 주로 이동 (publish-visualizer Cycle #2 weekly-view-period-picker)
+    const weeks = (state.manifest.weekly || []).map((w) => w.week);
+    if (!weeks.length) return;
+    const cur = state.weekly?.frontmatter?.iso_week;
+    const idx = weeks.indexOf(cur);
+    if (idx < 0) return;
+    // weeks 는 newest-first → older = idx+1, newer = idx-1
+    const targetIdx = idx + (dir < 0 ? +1 : -1);
+    if (targetIdx >= 0 && targetIdx < weeks.length) {
+      setHash(["weekly", weeks[targetIdx]]);
+    }
+    return;
+  }
+  // daily view
   // availableDates() is newest-first, so older = next in array.
   const target = adjacentDate(state.date, dir < 0 ? +1 : -1);
   if (target) setHash([target], { topic: state.selectedTopics, tag: state.activeTags });
@@ -1260,6 +1274,28 @@ function goToLatest() {
 function openCalendar() {
   const input = $("#calendar-input");
   if (!input) return;
+
+  if (state.view === "weekly") {
+    // weekly view: input type 을 "week" 로 전환해 주(period) 단위 셀렉터로 동작
+    const weeks = (state.manifest.weekly || []).map((w) => w.week);
+    if (!weeks.length) return;
+    input.type = "week";
+    // weeks 는 newest-first
+    input.min = weeks[weeks.length - 1];
+    input.max = weeks[0];
+    input.value = state.weekly?.frontmatter?.iso_week || weeks[0];
+    input.onchange = () => {
+      const v = input.value; // "YYYY-Www"
+      if ((state.manifest.weekly || []).some((w) => w.week === v)) {
+        setHash(["weekly", v]);
+      }
+    };
+    input.showPicker?.();
+    return;
+  }
+
+  // daily view
+  input.type = "date";
   const dates = availableDates();
   if (dates.length) {
     input.min = dates[dates.length - 1];
