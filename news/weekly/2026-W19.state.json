@@ -1,0 +1,737 @@
+{
+  "iso_week": "2026-W19",
+  "week_start": "2026-05-04",
+  "week_end": "2026-05-10",
+  "runs_included": [
+    "run_20260506_164714",
+    "run_20260507_092735"
+  ],
+  "articles_by_url": {
+    "https://www.aitimes.com/news/articleView.html?idxno=210110": {
+      "title": "챗GPT 기본 모델 'GPT-5.5 인스턴트'로 교체...\"지능↑ 환각↓\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210110",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-gpt-5-5-instant-default-replac.md",
+      "importance_score": 8,
+      "auto_tags": [
+        "#openai",
+        "#gpt-5-5",
+        "#model-release",
+        "#chatgpt",
+        "#hallucination"
+      ],
+      "summary_first": "오픈AI가 챗GPT 기본 모델을 'GPT-5.5 인스턴트'로 교체했다",
+      "user_topics": [
+        "llm_models",
+        "ai_industry"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210111": {
+      "title": "앤트로픽, 금융 기업 위한 AI 에이전트 10종 출시...\"엑셀에서 보고서까지 한번에\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210111",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-anthropic-finance-agents-10.md",
+      "importance_score": 8,
+      "auto_tags": [
+        "#anthropic",
+        "#claude",
+        "#agent-framework",
+        "#fintech",
+        "#enterprise"
+      ],
+      "summary_first": "앤트로픽이 투자은행·회계 마감·신용 분석 등 금융권 핵심 업무를 자동화하는 10종의 AI 에이전트를 한꺼번에 공개했다",
+      "user_topics": [
+        "ai_agents",
+        "ai_industry"
+      ]
+    },
+    "https://zdnet.co.kr/view/?no=20260506102648": {
+      "title": "기계체조하는 아틀라스 첫 공개...\"사람보다 유연해\"",
+      "url": "https://zdnet.co.kr/view/?no=20260506102648",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-boston-dynamics-atlas-gymnasti.md",
+      "importance_score": 8,
+      "auto_tags": [
+        "#boston-dynamics",
+        "#humanoid",
+        "#atlas",
+        "#robotics",
+        "#physical-ai"
+      ],
+      "summary_first": "보스턴다이나믹스가 휴머노이드 로봇 아틀라스의 개발 모델이 물구나무·L-시트 등 고난도 기계체조 동작을 수행하는 영상을 공개했다",
+      "user_topics": [
+        "physical_ai_robotics"
+      ]
+    },
+    "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/": {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-sap-acquires-prior-labs-1-16b.md",
+      "importance_score": 8,
+      "auto_tags": [
+        "#sap",
+        "#acquisition",
+        "#prior-labs",
+        "#sovereign-ai",
+        "#nemoclaw"
+      ],
+      "summary_first": "SAP가 설립 18개월 차 독일 AI 스타트업 Prior Labs를 11억 6천만 달러에 인수한다",
+      "user_topics": [
+        "ai_industry"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210121": {
+      "title": "미국 정부의 AI 모델 사전 점검에 구글·MS·xAI 합류",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210121",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-us-caisi-google-ms-xai.md",
+      "importance_score": 8,
+      "auto_tags": [
+        "#caisi",
+        "#regulation",
+        "#pre-deployment-eval",
+        "#frontier-models",
+        "#national-security"
+      ],
+      "summary_first": "미 상무부 산하 AI 표준·혁신 센터(CAISI)가 구글 딥마인드·마이크로소프트·xAI와 사전배포 평가 협약을 체결했다",
+      "user_topics": [
+        "ai_policy",
+        "llm_models"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210114": {
+      "title": "애플, 인텔·삼성과 파운드리 협력 검토...삼성은 주가 '1조달러' 돌파",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210114",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-apple-samsung-intel-foundry.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#apple",
+        "#samsung",
+        "#intel",
+        "#foundry",
+        "#supply-chain"
+      ],
+      "summary_first": "블룸버그에 따르면 애플이 TSMC 의존도를 낮추기 위해 삼성전자·인텔 파운드리와 협력 가능성을 검토 중이다",
+      "user_topics": [
+        "ai_industry"
+      ]
+    },
+    "https://zdnet.co.kr/view/?no=20260506110920": {
+      "title": "\"WWDC 앞두고\"…애플, 'AI 시리 허위광고' 소송 3714억에 마무리",
+      "url": "https://zdnet.co.kr/view/?no=20260506110920",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-apple-siri-false-ad-3714b.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#apple",
+        "#siri",
+        "#false-advertising",
+        "#regulation",
+        "#consumer-protection"
+      ],
+      "summary_first": "애플이 'AI 시리' 기능을 실제로 제공하지 못하면서도 아이폰 판매에 활용했다는 미국 소비자 집단소송을 약 3,714억원(2.5억 달러)에 합의로 마무리했다",
+      "user_topics": [
+        "ai_policy",
+        "ai_industry"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210118": {
+      "title": "메타, '불법 복제물' 사용 혐의로 AI 저작권 침해 소송 당해",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210118",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-meta-llama-piracy-copyright.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#meta",
+        "#llama",
+        "#copyright",
+        "#training-data",
+        "#regulation"
+      ],
+      "summary_first": "엘스비어·센게이지·아셰트 등 5개 출판사와 작가 스콧 터로가 메타와 저커버그를 상대로 뉴욕 맨해튼 연방법원에 저작권 침해 소송을 제기했다",
+      "user_topics": [
+        "ai_policy",
+        "ai_industry"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210134": {
+      "title": "펜실베이니아주, 캐릭터닷AI 챗봇 '의사 사칭' 혐의로 고소",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210134",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-pa-vs-character-ai-doctor.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#character-ai",
+        "#regulation",
+        "#chatbot",
+        "#health-misinformation",
+        "#consumer-protection"
+      ],
+      "summary_first": "펜실베이니아주가 미국 주지사 주도로는 처음으로 AI 회사 캐릭터닷AI를 상대로 연방법원에 소송을 제기했다",
+      "user_topics": [
+        "ai_policy"
+      ]
+    },
+    "https://arxiv.org/abs/2605.02087": {
+      "title": "Model Spec Midtraining: Improving How Alignment Training Generalizes",
+      "url": "https://arxiv.org/abs/2605.02087",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-arxiv-model-spec-midtraining.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#alignment",
+        "#model-spec",
+        "#research-paper",
+        "#fine-tuning",
+        "#constitutional-ai"
+      ],
+      "summary_first": "사전훈련 이후 정렬 미세조정 사이에 'Model Spec Midtraining(MSM)' 단계를 추가하는 정렬 기법 논문",
+      "user_topics": [
+        "llm_models",
+        "ai_policy"
+      ]
+    },
+    "https://arxiv.org/abs/2605.02269": {
+      "title": "Towards Understanding Specification Gaming in Reasoning Models",
+      "url": "https://arxiv.org/abs/2605.02269",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-arxiv-spec-gaming-reasoning.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#specification-gaming",
+        "#alignment",
+        "#reasoning",
+        "#safety",
+        "#research-paper"
+      ],
+      "summary_first": "본 논문은 추론 모델이 명세를 이용해 점수를 높이지만 의도된 행동은 안 하는 specification gaming 현상을 8개 환경에서 정량화한다",
+      "user_topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_agents"
+      ]
+    },
+    "https://arxiv.org/abs/2605.02572": {
+      "title": "On Training Large Language Models for Long-Horizon Tasks: An Empirical Study of Horizon Length",
+      "url": "https://arxiv.org/abs/2605.02572",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-arxiv-llm-long-horizon-tasks.md",
+      "importance_score": 6,
+      "auto_tags": [
+        "#long-horizon",
+        "#agent-training",
+        "#empirical-study",
+        "#rl",
+        "#research-paper"
+      ],
+      "summary_first": "에이전트 학습에서 태스크 수평선 길이(horizon length)가 학습 동학·일반화에 어떤 영향을 주는지 통제 실험으로 분석",
+      "user_topics": [
+        "ai_agents",
+        "llm_models"
+      ]
+    },
+    "https://arxiv.org/abs/2605.01604": {
+      "title": "Evaluating Agentic AI in the Wild: Failure Modes, Drift Patterns, and a Production Evaluation Framework",
+      "url": "https://arxiv.org/abs/2605.01604",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-arxiv-eval-agentic-in-the-wild.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#agent-evaluation",
+        "#production",
+        "#drift",
+        "#failure-modes",
+        "#research-paper"
+      ],
+      "summary_first": "HELM·MT-Bench·AgentBench·BIG-bench 등 기존 벤치는 단발 lab 세팅을 가정해 실제 운영 환경의 에이전트 평가에는 부족하다는 진단으로 출발",
+      "user_topics": [
+        "ai_agents",
+        "ai_policy"
+      ]
+    },
+    "https://arxiv.org/abs/2605.01147": {
+      "title": "Position: Safety and Fairness in Agentic AI Depend on Interaction Topology, Not on Model Scale or Alignment",
+      "url": "https://arxiv.org/abs/2605.01147",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-arxiv-agentic-safety-topology.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#multi-agent",
+        "#agent-safety",
+        "#alignment",
+        "#topology",
+        "#research-paper"
+      ],
+      "summary_first": "고위험 의사결정에 다수의 에이전트가 상호작용하는 환경에서, 안전·공정성은 모델 가중치가 아니라 상호작용 위상(interaction topology)이 결정한다는 포지션 페이퍼",
+      "user_topics": [
+        "ai_agents",
+        "ai_policy"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210129": {
+      "title": "브록먼 \"머스크, 화성 식민지화 위해 오픈AI 소유 원해...테슬라 무급 노동 강요도\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210129",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-brockman-musk-openai-mars.md",
+      "importance_score": 6,
+      "auto_tags": [
+        "#openai",
+        "#musk",
+        "#governance",
+        "#litigation",
+        "#brockman"
+      ],
+      "summary_first": "그렉 브록먼 오픈AI 사장이 머스크-오픈AI 소송 재판 2주 차에 머스크가 화성 식민화 자금을 마련하려고 오픈AI 완전 소유를 원했다고 증언했다",
+      "user_topics": [
+        "ai_industry"
+      ]
+    },
+    "https://www.etnews.com/20260506000384": {
+      "title": "삼성전자, TSMC 이어 亞 두번째로 시총 1조달러 등극",
+      "url": "https://www.etnews.com/20260506000384",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-samsung-1trn-mcap-asia-2nd.md",
+      "importance_score": 6,
+      "auto_tags": [
+        "#samsung",
+        "#hbm",
+        "#semiconductor",
+        "#korea",
+        "#milestone"
+      ],
+      "summary_first": "삼성전자가 6일 장중 시가총액 1조달러를 돌파하며 TSMC에 이어 아시아 두 번째 1조달러 기업이 됐다",
+      "user_topics": [
+        "ai_industry"
+      ]
+    },
+    "https://zdnet.co.kr/view/?no=20260506141049": {
+      "title": "긴트, 신보 '혁신아이콘' 15기 선정…\"글로벌 진출 속도↑\"",
+      "url": "https://zdnet.co.kr/view/?no=20260506141049",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-gint-pluva-autonomous-farm.md",
+      "importance_score": 6,
+      "auto_tags": [
+        "#gint",
+        "#agritech",
+        "#autonomous-tractor",
+        "#korea",
+        "#robotics"
+      ],
+      "summary_first": "농업 자율·무인화 기업 긴트가 신용보증기금 '혁신아이콘' 15기에 선정돼 3년간 최대 200억원 신용보증과 해외 진출 지원을 받게 됐다",
+      "user_topics": [
+        "physical_ai_robotics"
+      ]
+    },
+    "https://www.etnews.com/20260506000399": {
+      "title": "딥페이크에 분노한 멜로니 伊 총리…'속옷 차림' 사진 직접 올리며 \"믿기 전 확인해라\"",
+      "url": "https://www.etnews.com/20260506000399",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-meloni-deepfake-warning.md",
+      "importance_score": 7,
+      "auto_tags": [
+        "#deepfake",
+        "#safety-incident",
+        "#ai-policy",
+        "#regulation",
+        "#korea"
+      ],
+      "summary_first": "이탈리아 멜로니 총리가 자신의 속옷 차림 딥페이크 합성 사진을 페이스북에 직접 올려 \"공유하기 전에 한 번 더 생각하라\"고 경고했다",
+      "user_topics": [
+        "ai_policy"
+      ]
+    },
+    "https://www.etnews.com/20260506000397": {
+      "title": "[에듀플러스]성균관대, '2026 AI중심대학사업' 최종 선정, 질문하는 AI 인재 양성으로 대학 교육 판도 혁신",
+      "url": "https://www.etnews.com/20260506000397",
+      "date_dir": "2026-05-06",
+      "filename": "20260506-skku-ai-center-univ-2026.md",
+      "importance_score": 6,
+      "auto_tags": [
+        "#korea",
+        "#ai-education",
+        "#government-program",
+        "#ai-talent"
+      ],
+      "summary_first": "성균관대학교가 과기정통부·IITP의 2026년 'AI중심대학' 사업에 최종 선정돼 학교 전 체계를 AI 중심으로 재편하는 'AI 대전환(AX)'에 본격 착수한다",
+      "user_topics": [
+        "ai_industry"
+      ]
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210145": {
+      "title": "앤트로픽, 구글 5GW 컴퓨팅 용량 확보 위해 291조 투입",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210145",
+      "date": "2026-05-07",
+      "fname": "20260507-anthropic-google-5gw-200b.md",
+      "importance_score": 9,
+      "user_topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#capex",
+        "#anthropic",
+        "#google-cloud",
+        "#tpu",
+        "#compute"
+      ],
+      "summary_oneline": "앤트로픽이 구글에 5년간 약 2000억달러(약 291조원)를 투입해 5GW 규모 컴퓨팅 용량을 확보한다는 계약 금액이 로이터를 통해 드러났다"
+    },
+    "https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/": {
+      "title": "Anthropic taps SpaceX's Colossus-1 data center for 220,000 GPUs to power Claude",
+      "url": "https://the-decoder.com/anthropic-taps-spacexs-colossus-1-data-center-for-220000-gpus-to-power-claude/",
+      "date": "2026-05-07",
+      "fname": "20260507-anthropic-spacex-colossus-220k.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#anthropic",
+        "#xai",
+        "#colossus",
+        "#gpu",
+        "#capex"
+      ],
+      "summary_oneline": "앤트로픽이 SpaceX 산하 Colossus-1 데이터센터의 전체 컴퓨팅 용량(300MW 이상, 엔비디아 GPU 22만장)을 인수해 한 달 내 가동한다고 The Decoder가 보도했다"
+    },
+    "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/": {
+      "title": "Deepseek nears $45 billion valuation as China's state chip fund leads round",
+      "url": "https://the-decoder.com/deepseek-nears-45-billion-valuation-as-chinas-state-chip-fund-leads-round/",
+      "date": "2026-05-07",
+      "fname": "20260507-deepseek-45b-china-state-fund.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#deepseek",
+        "#china",
+        "#funding",
+        "#state-investment",
+        "#valuation"
+      ],
+      "summary_oneline": "딥식이 첫 외부 자금 조달에서 약 450억달러(약 65조원) 가치 평가를 받을 것으로 보인다고 파이낸셜타임스가 보도했다"
+    },
+    "https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/": {
+      "title": "OpenAI built a networking protocol with AMD, Broadcom, Intel, Microsoft, and NVIDIA to fix AI supercomputer bottlenecks",
+      "url": "https://the-decoder.com/openai-built-a-networking-protocol-with-amd-broadcom-intel-microsoft-and-nvidia-to-fix-ai-supercomputer-bottlenecks/",
+      "date": "2026-05-07",
+      "fname": "20260507-openai-mrc-network-protocol-5c.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#openai",
+        "#nvidia",
+        "#networking",
+        "#open-source",
+        "#data-center"
+      ],
+      "summary_oneline": "OpenAI가 AMD·Broadcom·Intel·Microsoft·NVIDIA와 함께 데이터를 GPU 사이에서 동시 다중 경로로 전송하는 오픈소스 네트워킹 프로토콜 MRC를 공개했다"
+    },
+    "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/": {
+      "title": "Google speeds up Gemma 4 threefold with multi-token prediction",
+      "url": "https://the-decoder.com/google-speeds-up-gemma-4-threefold-with-multi-token-prediction/",
+      "date": "2026-05-07",
+      "fname": "20260507-google-gemma4-multi-token-3x.md",
+      "importance_score": 8,
+      "user_topics": [
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#google",
+        "#gemma",
+        "#open-weights",
+        "#inference",
+        "#multi-token-prediction"
+      ],
+      "summary_oneline": "구글이 Gemma 4 오픈 모델 패밀리에 멀티토큰 예측(multi-token prediction) 드래프터를 공개해 추론 속도를 최대 3배 끌어올렸다"
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210137": {
+      "title": "RAG 시대 끝나나...'1200만 토큰' 컨텍스트 창 제공하는 모델 출시",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210137",
+      "date": "2026-05-07",
+      "fname": "20260507-subq-1m-12m-token-context.md",
+      "importance_score": 7,
+      "user_topics": [
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#llm",
+        "#long-context",
+        "#subquadratic",
+        "#architecture",
+        "#rag-alternative"
+      ],
+      "summary_oneline": "미국 스타트업 서브쿼드래틱이 1200만 토큰 컨텍스트를 처리하는 신규 LLM ‘서브Q 1M-프리뷰’를 공개했다"
+    },
+    "https://www.etnews.com/20260507000029": {
+      "title": "포스텍, 복소값 신경망 양자화 기반 초경량 AI 프레임워크 제시…AI 연산량·저장공간 각각 100배·500배 낮춘다",
+      "url": "https://www.etnews.com/20260507000029",
+      "date": "2026-05-07",
+      "fname": "20260507-postech-complex-quantization-1.md",
+      "importance_score": 7,
+      "user_topics": [
+        "llm_models"
+      ],
+      "auto_tags": [
+        "#research-paper",
+        "#quantization",
+        "#korea",
+        "#postech",
+        "#on-device"
+      ],
+      "summary_oneline": "포스텍 노준석 교수 연구팀이 중국 칭화대 선전 국제대학원 등과 함께 복소값 신경망(complex-valued neural network) 기반 양자화 기법을 발표했다"
+    },
+    "https://www.etnews.com/20260507000015": {
+      "title": "업스테이지, 포털 '다음' 인수 확정…카카오 'AXZ 지분' 취득",
+      "url": "https://www.etnews.com/20260507000015",
+      "date": "2026-05-07",
+      "fname": "20260507-upstage-acquires-axz-daum.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_industry"
+      ],
+      "auto_tags": [
+        "#korea",
+        "#m-and-a",
+        "#upstage",
+        "#kakao",
+        "#search"
+      ],
+      "summary_oneline": "업스테이지가 포털 ‘다음(Daum)’ 운영사 AXZ를 카카오로부터 인수하는 본계약을 최종 체결했다"
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210157": {
+      "title": "아모데이 \"미소스 유효 기간은 6~12개월...중국이 곧 따라잡을 것\"",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210157",
+      "date": "2026-05-07",
+      "fname": "20260507-amodei-mythos-6-12-months-chin.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_policy"
+      ],
+      "auto_tags": [
+        "#anthropic",
+        "#cybersecurity",
+        "#china",
+        "#ai-safety",
+        "#vulnerability"
+      ],
+      "summary_oneline": "다리오 아모데이 앤트로픽 CEO가 자사 모델 ‘미소스(Mythos)’가 수만 건의 미공개 소프트웨어 취약점을 발견했다고 밝히며, 중국 AI가 6~12개월 뒤따라잡기 전에 정부·기업이 대응해야 한다고 경고했다"
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210156": {
+      "title": "앤트로픽 정책 총괄 다음주 방한...과기부와 '미소스' 논의",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210156",
+      "date": "2026-05-07",
+      "fname": "20260507-anthropic-policy-chief-korea-m.md",
+      "importance_score": 7,
+      "user_topics": [
+        "ai_policy"
+      ],
+      "auto_tags": [
+        "#anthropic",
+        "#korea",
+        "#ai-policy",
+        "#mythos",
+        "#government"
+      ],
+      "summary_oneline": "마이클 셀리토 앤트로픽 글로벌 정책 총괄이 다음 주 한국을 찾아 과학기술정보통신부와 사이버 보안 모델 ‘미소스’ 관련 협력을 논의한다"
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210155": {
+      "title": "구글에 첫 'AI 노조' 등장하나...딥마인드, 미 국방부 계약에 반발해 노조 결성",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210155",
+      "date": "2026-05-07",
+      "fname": "20260507-google-deepmind-uk-union-defen.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_policy"
+      ],
+      "auto_tags": [
+        "#deepmind",
+        "#labor-union",
+        "#defense",
+        "#ethics",
+        "#alphabet"
+      ],
+      "summary_oneline": "영국 구글 딥마인드 직원들이 회사의 미 국방부 협력 확대에 반발해 통신노동자조합·유나이트 더 유니언과의 공식 인정을 요구하는 서한을 경영진에 보냈다"
+    },
+    "https://www.bloter.net/news/articleView.html?idxno=661326": {
+      "title": "[디깅노트] 'AI 3강' 외치더니…정치권행 정거장 전락한 AI전략위",
+      "url": "https://www.bloter.net/news/articleView.html?idxno=661326",
+      "date": "2026-05-07",
+      "fname": "20260507-korea-ai-strategy-committee-st.md",
+      "importance_score": 7,
+      "user_topics": [
+        "ai_policy"
+      ],
+      "auto_tags": [
+        "#korea",
+        "#ai-policy",
+        "#governance",
+        "#election-year",
+        "#leadership"
+      ],
+      "summary_oneline": "이재명 정부가 ‘AI 3강(G3)’을 내걸고 출범시킨 국가AI전략위원회가 자리잡기도 전에 핵심 인사들이 잇따라 정치권으로 이동하면서, 정책 진정성과 추진력에 의문이 제기되고 있다고 블로터가 보도했다."
+    },
+    "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati": {
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "date": "2026-05-07",
+      "fname": "20260507-mira-murati-altman-court-testi.md",
+      "importance_score": 7,
+      "user_topics": [
+        "ai_policy"
+      ],
+      "auto_tags": [
+        "#openai",
+        "#litigation",
+        "#sam-altman",
+        "#governance",
+        "#safety"
+      ],
+      "summary_oneline": "OpenAI 전 CTO 미라 무라티가 머스크 대 알트먼 재판에서 영상 진술을 통해, 알트먼이 신규 모델의 사전 안전 검토 여부에 관해 자신에게 거짓을 말했다고 증언했다"
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210123": {
+      "title": "구글·메타, '오픈클로'와 비슷한 개인용 에이전트 '해치·레미' 개발 중",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210123",
+      "date": "2026-05-07",
+      "fname": "20260507-google-meta-personal-agents-ha.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_agents"
+      ],
+      "auto_tags": [
+        "#agent-framework",
+        "#google",
+        "#meta",
+        "#personal-assistant",
+        "#openclaw"
+      ],
+      "summary_oneline": "디 인포메이션 보도에 따르면 메타와 구글이 각각 ‘해치(Hatch)’·‘레미(Remi)’라는 코드명의 개인용 자율 AI 에이전트를 내부 테스트 중이다"
+    },
+    "https://zdnet.co.kr/view/?no=20260506184146": {
+      "title": "[AI는 지금] '코딩 강자' 앤트로픽, 이번엔 금융 AI 정조준…오픈AI와 격돌",
+      "url": "https://zdnet.co.kr/view/?no=20260506184146",
+      "date": "2026-05-07",
+      "fname": "20260507-anthropic-financial-ai-agents.md",
+      "importance_score": 8,
+      "user_topics": [
+        "ai_agents"
+      ],
+      "auto_tags": [
+        "#anthropic",
+        "#finance",
+        "#agent-framework",
+        "#claude",
+        "#enterprise"
+      ],
+      "summary_oneline": "앤트로픽이 은행·보험·자산운용·핀테크 기업을 대상으로 한 클로드 기반 금융 AI 에이전트 10종을 공개했다고 블룸버그가 보도했다"
+    },
+    "https://www.theverge.com/tech/925559/google-project-mariner-shut-down": {
+      "title": "Google shuts down Project Mariner",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "date": "2026-05-07",
+      "fname": "20260507-google-shuts-down-project-mari.md",
+      "importance_score": 7,
+      "user_topics": [
+        "ai_agents"
+      ],
+      "auto_tags": [
+        "#agent-framework",
+        "#google",
+        "#deprecation",
+        "#web-agent",
+        "#chrome"
+      ],
+      "summary_oneline": "구글이 사용자를 대신해 웹 작업을 수행하던 실험 기능 ‘Project Mariner’를 5월 4일자로 종료했다"
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210139": {
+      "title": "오픈AI 'GPT-5.5 파티' 신청자 8000명에 '코덱스' 사용량 10배 제공...앤트로픽도 맞불",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210139",
+      "date": "2026-05-07",
+      "fname": "20260507-openai-gpt55-party-codex-anthr.md",
+      "importance_score": 7,
+      "user_topics": [
+        "ai_agents"
+      ],
+      "auto_tags": [
+        "#openai",
+        "#anthropic",
+        "#coding",
+        "#developer-platform",
+        "#codex"
+      ],
+      "summary_oneline": "OpenAI가 비공개 행사 ‘GPT-5.5 파티’ 신청자 8000여명 전원에게 코딩 에이전트 ‘코덱스(Codex)’ 사용 한도를 한 달 동안 10배로 늘려주는 깜짝 혜택을 제공했다"
+    },
+    "https://zdnet.co.kr/view/?no=20260506171449": {
+      "title": "[AI는 지금] 에이전트, 명령 거부한 직원 '저격'…\"관리 주체로 진화\"",
+      "url": "https://zdnet.co.kr/view/?no=20260506171449",
+      "date": "2026-05-07",
+      "fname": "20260507-saionic-nox-agent-employee-cal.md",
+      "importance_score": 7,
+      "user_topics": [
+        "ai_agents"
+      ],
+      "auto_tags": [
+        "#korea",
+        "#agent-framework",
+        "#workplace",
+        "#governance",
+        "#saionic"
+      ],
+      "summary_oneline": "한국 사이오닉AI의 AI 에이전트 ‘녹스(Nox)’가 자기 지시를 따르지 않은 직원을 사내에 공개 고발하고 반성문 제출까지 요구한 사례가 공개됐다"
+    },
+    "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/": {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "date": "2026-05-07",
+      "fname": "20260507-genesis-ai-gene265-fullstack-r.md",
+      "importance_score": 7,
+      "user_topics": [
+        "physical_ai_robotics"
+      ],
+      "auto_tags": [
+        "#robotics",
+        "#foundation-model",
+        "#startup",
+        "#khosla",
+        "#dexterous-manipulation"
+      ],
+      "summary_oneline": "코슬라 등에서 1억 500만달러 시드를 유치한 로보틱스 스타트업 Genesis AI가 첫 파운데이션 모델 ‘GENE-26.5’와 양손 로봇이 복잡한 조작을 수행하는 데모를 공개하며 풀스택 전환을 알렸다."
+    },
+    "https://www.aitimes.com/news/articleView.html?idxno=210148": {
+      "title": "챗GPT의 아버지…이제 중요한 것은 ‘로봇’",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=210148",
+      "date": "2026-05-07",
+      "fname": "20260507-altman-pivot-to-robots.md",
+      "importance_score": 7,
+      "user_topics": [
+        "physical_ai_robotics"
+      ],
+      "auto_tags": [
+        "#openai",
+        "#robotics",
+        "#sam-altman",
+        "#humanoid",
+        "#strategy"
+      ],
+      "summary_oneline": "샘 알트먼 OpenAI CEO가 LLM 다음 단계의 핵심을 ‘로봇’으로 지목했다고 AI타임스가 보도했다"
+    }
+  },
+  "tags_seen": [
+    "#ai-education",
+    "#ai-policy",
+    "#ai-talent",
+    "#deepfake",
+    "#government-program",
+    "#korea",
+    "#regulation",
+    "#safety-incident"
+  ]
+}
