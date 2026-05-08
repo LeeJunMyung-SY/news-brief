@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-05-08T06:43:25+00:00",
+  "generated_at": "2026-05-08T07:44:07+00:00",
   "latest_date": "2026-05-08",
+  "topics": [
+    {
+      "key": "llm_models",
+      "label": "Large Language Models and Foundation Models"
+    },
+    {
+      "key": "ai_agents",
+      "label": "AI Agents and Autonomous Systems"
+    },
+    {
+      "key": "ai_policy",
+      "label": "AI Policy, Regulation and Safety"
+    },
+    {
+      "key": "ai_industry",
+      "label": "AI Industry and Business"
+    },
+    {
+      "key": "physical_ai_robotics",
+      "label": "Physical Ai Robotics"
+    },
+    {
+      "key": "ai_compute_energy",
+      "label": "Ai Compute Energy"
+    },
+    {
+      "key": "금융회사 AI",
+      "label": "국내외 금융회사 AI"
+    }
+  ],
   "daily": [
     {
       "date": "2026-05-08",
@@ -214,7 +244,7 @@
       "file": "2026-W19.md",
       "week_start": "2026-05-04",
       "week_end": "2026-05-10",
-      "total_selected_this_week": 100
+      "total_selected_this_week": 98
     },
     {
       "week": "2026-W18",
