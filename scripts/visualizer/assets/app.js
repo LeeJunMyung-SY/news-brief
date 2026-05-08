@@ -58,6 +58,30 @@ function applyTopicsFromManifest(manifest) {
     SECTION_LABEL_TO_TOPIC[String(label).toLowerCase()] = t.key;
   }
 }
+
+// styles.css 에 --topic-{key}-fg/bg 가 정의된 토픽들. 그 외는 hash hue 자동 색.
+const KNOWN_STYLED_TOPICS = new Set(["llm_models", "ai_agents", "ai_policy", "ai_industry"]);
+
+function _topicHueFromKey(key) {
+  let h = 0;
+  const s = String(key);
+  for (let i = 0; i < s.length; i++) h = ((h * 31) + s.charCodeAt(i)) | 0;
+  return ((h % 360) + 360) % 360;
+}
+
+function setTopicColor(el, key) {
+  // 카드/사이드바/회차 섹션 등에서 호출. styles.css 정의 토픽은 그대로, 신규 토픽은 hash hue.
+  if (!key || key === "default" || KNOWN_STYLED_TOPICS.has(key)) {
+    el.style.setProperty("--topic-fg", `var(--topic-${key || "default"}-fg)`);
+    return;
+  }
+  const hue = _topicHueFromKey(key);
+  // light-dark() 로 다크/라이트 자동 분기 (Chrome/Edge/Safari TP/Firefox 120+ 지원, root 의 color-scheme 정의됨)
+  el.style.setProperty(
+    "--topic-fg",
+    `light-dark(hsl(${hue} 60% 42%), hsl(${hue} 75% 78%))`,
+  );
+}
 // Best-effort fuzzy: strip parens count to match.
 function topicForLabel(label) {
   if (!label) return null;
@@ -306,7 +330,7 @@ function renderSidebarInto(root) {
     TOPIC_ORDER.forEach((key) => {
       const btn = document.createElement("button");
       btn.className = "topic-option";
-      btn.style.setProperty("--topic-fg", `var(--topic-${key}-fg)`);
+      setTopicColor(btn, key);
       const isActive = state.selectedTopics.has(key);
       btn.setAttribute("aria-pressed", isActive ? "true" : "false");
       btn.innerHTML = `
@@ -541,7 +565,7 @@ function renderMain() {
       const topicKey = topicForLabel(sec.label);
       const sectionEl = document.createElement("section");
       sectionEl.className = "topic-section";
-      sectionEl.style.setProperty("--topic-fg", `var(--topic-${topicKey || "default"}-fg)`);
+      setTopicColor(sectionEl, topicKey);
       const head = document.createElement("div");
       head.className = "section-head";
       head.innerHTML = `<h2>${escapeHtml(stripCount(sec.label))}</h2><span class="count">${sec.articles.length}</span>`;
@@ -726,7 +750,7 @@ function filterSections(sections) {
 function buildArticleCard(article, topicKey, { badge = "", articleDate = null } = {}) {
   const card = document.createElement("article");
   card.className = "card has-topic";
-  card.style.setProperty("--topic-fg", `var(--topic-${topicKey || "default"}-fg)`);
+  setTopicColor(card, topicKey);
   card.dataset.articleFile = article.articleFile || "";
   if (articleDate) card.dataset.articleDate = articleDate;
 
@@ -1003,7 +1027,7 @@ function renderWeekly() {
         null;
       const sectionEl = document.createElement("section");
       sectionEl.className = "topic-section";
-      sectionEl.style.setProperty("--topic-fg", `var(--topic-${topicKey || "default"}-fg)`);
+      setTopicColor(sectionEl, topicKey);
       const head = document.createElement("div");
       head.className = "section-head";
       head.innerHTML = `<h2>${escapeHtml(sec.label)}</h2><span class="count">${sec.articles.length}</span>`;
