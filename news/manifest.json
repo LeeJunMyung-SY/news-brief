@@ -1,0 +1,222 @@
+{
+  "generated_at": "2026-05-07T23:16:57+00:00",
+  "latest_date": "2026-05-08",
+  "daily": [
+    {
+      "date": "2026-05-08",
+      "runs": [
+        {
+          "time": "08:16",
+          "file": "digest_0816.md",
+          "selected": 19,
+          "new": 176
+        }
+      ]
+    },
+    {
+      "date": "2026-05-07",
+      "runs": [
+        {
+          "time": "09:27",
+          "file": "digest_0927.md",
+          "selected": 20,
+          "new": 141
+        },
+        {
+          "time": "10:44",
+          "file": "digest_1044.md",
+          "selected": 3,
+          "new": 70
+        },
+        {
+          "time": "15:35",
+          "file": "digest_1535.md",
+          "selected": 17,
+          "new": 413
+        }
+      ]
+    },
+    {
+      "date": "2026-05-06",
+      "runs": [
+        {
+          "time": "08:00",
+          "file": "digest_0800.md",
+          "selected": 20,
+          "new": 196
+        },
+        {
+          "time": "16:12",
+          "file": "digest_1612.md",
+          "selected": 18,
+          "new": 742
+        },
+        {
+          "time": "16:47",
+          "file": "digest_1647.md",
+          "selected": 2,
+          "new": 25
+        }
+      ]
+    },
+    {
+      "date": "2026-05-04",
+      "runs": [
+        {
+          "time": "08:00",
+          "file": "digest_0800.md",
+          "selected": 20,
+          "new": 252
+        },
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 15,
+          "new": 344
+        }
+      ]
+    },
+    {
+      "date": "2026-04-30",
+      "runs": [
+        {
+          "time": "08:00",
+          "file": "digest_0800.md",
+          "selected": 16,
+          "new": 187
+        },
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 12,
+          "new": 355
+        }
+      ]
+    },
+    {
+      "date": "2026-04-29",
+      "runs": [
+        {
+          "time": "08:00",
+          "file": "digest_0800.md",
+          "selected": 16,
+          "new": 195
+        },
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 8,
+          "new": 670
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "runs": [
+        {
+          "time": "08:00",
+          "file": "digest_0800.md",
+          "selected": 20,
+          "new": 210
+        },
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 4,
+          "new": 91
+        }
+      ]
+    },
+    {
+      "date": "2026-04-27",
+      "runs": [
+        {
+          "time": "08:00",
+          "file": "digest_0800.md",
+          "selected": 20,
+          "new": 134
+        },
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 19,
+          "new": 431
+        }
+      ]
+    },
+    {
+      "date": "2026-04-23",
+      "runs": [
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 9,
+          "new": 68
+        }
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "runs": [
+        {
+          "time": "08:55",
+          "file": "digest_0855.md",
+          "selected": 11,
+          "new": 39
+        },
+        {
+          "time": "12:00",
+          "file": "digest_1200.md",
+          "selected": 19,
+          "new": 331,
+          "note": "arXiv CS.AI 전용 회차"
+        }
+      ]
+    },
+    {
+      "date": "2026-04-21",
+      "runs": [
+        {
+          "time": "00:00",
+          "file": "digest_0000.md",
+          "selected": 7,
+          "new": 19
+        }
+      ]
+    },
+    {
+      "date": "2026-04-20",
+      "runs": [
+        {
+          "time": "06:00",
+          "file": "digest_0600.md",
+          "selected": 14,
+          "new": 1335
+        }
+      ]
+    }
+  ],
+  "weekly": [
+    {
+      "week": "2026-W19",
+      "file": "2026-W19.md",
+      "week_start": "2026-05-04",
+      "week_end": "2026-05-10",
+      "total_selected_this_week": 120
+    },
+    {
+      "week": "2026-W18",
+      "file": "2026-W18.md",
+      "week_start": "2026-04-27",
+      "week_end": "2026-05-03",
+      "total_selected_this_week": 115
+    },
+    {
+      "week": "2026-W17",
+      "file": "2026-W17.md",
+      "week_start": "2026-04-20",
+      "week_end": "2026-04-26",
+      "total_selected_this_week": 79
+    }
+  ]
+}

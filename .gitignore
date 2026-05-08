@@ -1,0 +1,40 @@
+# Python
+**/__pycache__/
+*.pyc
+*.pyo
+
+# State / cache / temp
+tmp/
+logs/
+seen_urls.txt
+*.log
+.env
+.env.*
+
+# PDCA 산출물 (로컬 전용 — 외부 노출 차단)
+docs/
+
+# Editor / IDE
+.claude/
+.bkit/
+
+# 운영 데이터 (publish-visualizer Plan §6.2 비공개 분류)
+feedback/
+topics/
+config/
+
+# 운영 스크립트 (PC 로컬 전용, 외부 노출 금지)
+scripts/visualizer/server.py
+scripts/visualizer/*.ps1
+
+# 내부 기획문서 (visualizer 자체의 PDCA 산출물)
+scripts/visualizer/PLAN.md
+scripts/visualizer/DESIGN.md
+scripts/visualizer/REVIEW.md
+
+# gh-pages worktree (git이 별도 관리하지만 main 인덱스 진입 명시 차단)
+.publish/
+
+# Windows
+Thumbs.db
+desktop.ini
