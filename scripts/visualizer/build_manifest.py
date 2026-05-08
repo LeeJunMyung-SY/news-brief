@@ -24,6 +24,7 @@ except Exception:  # noqa: BLE001
 REPO_ROOT = Path(__file__).resolve().parents[2]
 NEWS_DIR = REPO_ROOT / "news"
 MANIFEST_PATH = NEWS_DIR / "manifest.json"
+CONFIG_PATH = REPO_ROOT / "config" / "config.yaml"
 
 DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 WEEK_FILE_RE = re.compile(r"^(\d{4})-W(\d{2})\.md$")
@@ -182,6 +183,33 @@ def collect_daily() -> list[dict]:
     return daily
 
 
+def collect_topics() -> list[dict]:
+    """config.yaml 의 topics 섹션에서 [{key, label}] 추출.
+
+    visualizer 의 토픽 사이드바·필터·라벨이 hardcode 가 아닌 manifest 기반으로
+    동작하도록 한다. description 같은 운영 메타는 외부 노출 회피를 위해 제외.
+    """
+    if not CONFIG_PATH.exists() or not HAVE_YAML:
+        return []
+    try:
+        data = yaml.safe_load(CONFIG_PATH.read_text(encoding="utf-8")) or {}
+    except Exception:
+        return []
+    raw = data.get("topics") or []
+    out: list[dict] = []
+    for t in raw:
+        if not isinstance(t, dict):
+            continue
+        key = t.get("name") or t.get("key")
+        if not key:
+            continue
+        out.append({
+            "key": str(key),
+            "label": str(t.get("label") or key),
+        })
+    return out
+
+
 def collect_weekly() -> list[dict]:
     weekly_dir = NEWS_DIR / "weekly"
     if not weekly_dir.exists():
@@ -212,9 +240,11 @@ def main() -> int:
         return 1
     daily = collect_daily()
     weekly = collect_weekly()
+    topics = collect_topics()
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "latest_date": daily[0]["date"] if daily else None,
+        "topics": topics,
         "daily": daily,
         "weekly": weekly,
     }

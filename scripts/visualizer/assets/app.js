@@ -3,6 +3,7 @@ import { renderMarkdown, escapeHtml } from "./parser.js";
 import { renderAdmin, leaveAdmin } from "./admin.js";
 
 // ─────────── Constants ───────────
+// 부트스트랩 시 manifest.topics 로 채워짐. manifest 부재/구버전은 아래 fallback 유지.
 const TOPIC_ORDER = ["llm_models", "ai_agents", "ai_policy", "ai_industry"];
 const TOPIC_LABELS = {
   llm_models: "LLM Models",
@@ -19,6 +20,44 @@ const TOPIC_LONG_LABELS = {
 const SECTION_LABEL_TO_TOPIC = Object.fromEntries(
   Object.entries(TOPIC_LONG_LABELS).map(([k, v]) => [v.toLowerCase(), k])
 );
+
+// short label 단축 사전: 영어 4단어+ 라벨에 한해 익숙한 단축 사용. 그 외 long 그대로.
+const SHORT_LABEL_OVERRIDES = {
+  "Large Language Models and Foundation Models": "LLM Models",
+  "AI Agents and Autonomous Systems": "AI Agents",
+  "AI Policy, Regulation and Safety": "AI Policy",
+  "AI Industry and Business": "AI Industry",
+  "Physical Ai Robotics": "Physical AI",
+  "Ai Compute Energy": "AI Compute",
+};
+
+function shortenTopicLabel(label) {
+  if (!label) return label;
+  if (SHORT_LABEL_OVERRIDES[label]) return SHORT_LABEL_OVERRIDES[label];
+  // 영어 5단어 이상이면 첫 2단어. 그 외(한국어/짧은 라벨) 그대로.
+  const words = label.split(/\s+/);
+  if (words.length >= 5 && /^[A-Za-z0-9 ,.&'-]+$/.test(label)) {
+    return words.slice(0, 2).join(" ");
+  }
+  return label;
+}
+
+function applyTopicsFromManifest(manifest) {
+  const topics = Array.isArray(manifest?.topics) ? manifest.topics : null;
+  if (!topics || topics.length === 0) return; // fallback 하드코드 유지
+  TOPIC_ORDER.length = 0;
+  for (const k of Object.keys(TOPIC_LABELS)) delete TOPIC_LABELS[k];
+  for (const k of Object.keys(TOPIC_LONG_LABELS)) delete TOPIC_LONG_LABELS[k];
+  for (const k of Object.keys(SECTION_LABEL_TO_TOPIC)) delete SECTION_LABEL_TO_TOPIC[k];
+  for (const t of topics) {
+    if (!t || !t.key) continue;
+    const label = t.label || t.key;
+    TOPIC_ORDER.push(t.key);
+    TOPIC_LABELS[t.key] = shortenTopicLabel(label);
+    TOPIC_LONG_LABELS[t.key] = label;
+    SECTION_LABEL_TO_TOPIC[String(label).toLowerCase()] = t.key;
+  }
+}
 // Best-effort fuzzy: strip parens count to match.
 function topicForLabel(label) {
   if (!label) return null;
@@ -139,6 +178,8 @@ async function bootstrap() {
     showFatalError(err);
     return;
   }
+  // manifest.topics 가 있으면 hardcode TOPIC_* 를 덮어씀 (admin 변경 자동 반영)
+  applyTopicsFromManifest(state.manifest);
   // Hash → state
   await routeFromHash();
   window.addEventListener("hashchange", routeFromHash);
