@@ -78,6 +78,9 @@ def copy_assets(repo_root: Path, worktree: Path) -> None:
     dst_assets.mkdir(parents=True, exist_ok=True)
     for fname in ASSETS_WHITELIST:
         shutil.copy2(src_vis / "assets" / fname, dst_assets / fname)
+    # .nojekyll: GitHub Pages 의 Jekyll 빌드 비활성화.
+    # 없으면 news/**/*.md 가 마크다운으로 처리되어 raw fetch URL 이 404 가 됨.
+    (worktree / ".nojekyll").write_text("", encoding="utf-8")
     # admin.js, server.py, *.ps1, build_manifest.py, README.md, PLAN/DESIGN/REVIEW.md 의도적 미복사
 
 
