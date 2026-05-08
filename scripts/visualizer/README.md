@@ -112,3 +112,62 @@ scripts/visualizer/
 ```
 
 `news/`는 read-only로만 사용합니다 (manifest.json만 추가).
+
+---
+
+## 외부 공개 운영 (publish-visualizer)
+
+routine 종료 후 `scripts/publish.py` 가 자동으로 `gh-pages` 브랜치를 갱신해 GitHub Pages 공개 사이트로 반영합니다.
+
+**공개 URL**: <https://leejunmyung-sy.github.io/news-brief/>
+
+### 자동 흐름
+
+```
+finalize.py 종료
+  → scripts/visualizer/build_manifest.py (manifest 갱신)
+  → scripts/publish.py
+       1. .publish/ 워크트리 ensure (gh-pages 브랜치)
+       2. .git 제외 staging 정리
+       3. 화이트리스트 복사: index.html, assets/{app,data,parser}.js, styles.css
+       4. transform: data.js NEWS_BASE → "news", app.js admin import → stub
+       5. news/ 전체 동기화
+       6. 변경 있으면 commit + push gh-pages
+  → GitHub Pages CDN 1~3분 내 반영
+```
+
+publish 실패는 routine 자체를 중단시키지 않습니다 (`logs/run_log.jsonl` 의 `publish_error` 필드로 기록).
+
+### publish.py exit code
+
+| Code | 의미 |
+|---|---|
+| 0 | 정상 (또는 변경 없음 skip) |
+| 10 | git push 실패 (자격증명/네트워크) |
+| 11 | transform 패턴 미발견 또는 다중 발견 — visualizer 코드 변경으로 패턴 깨졌을 가능성 |
+| 12 | worktree 생성 실패 |
+| 13 | `news/manifest.json` 부재 — finalize.py 미완료 의심 |
+
+### 수동 실행
+
+```
+python scripts/publish.py
+```
+
+routine 외부에서도 동일하게 멱등 동작합니다.
+
+### 누출 점검 (gh-pages 파일 트리에 비공개 자산 부재 확인)
+
+```
+git ls-tree -r gh-pages --name-only | grep -E '(feedback/|admin\.js|server\.py|\.ps1$|topics/|config/|docs/|__pycache__|\.env|\.claude|build_manifest|PLAN\.md|DESIGN\.md|REVIEW\.md|routine/|validate\.py|migrate_)'
+```
+
+출력이 비어 있어야 합니다.
+
+### 비공개로 유지되는 항목 (`.gitignore` + 화이트리스트 이중 차단)
+
+- `feedback/`, `topics/`, `config/`, `tmp/`, `logs/`, `seen_urls.txt`
+- `scripts/visualizer/server.py`, `*.ps1`, `admin.js`, `build_manifest.py`, `PLAN.md`, `DESIGN.md`, `REVIEW.md`, `README.md` (이 파일)
+- `scripts/routine/`, `scripts/validate.py`, `scripts/migrate_*.py`
+- `docs/` (PDCA 산출물)
+- `.env`, `.claude/`, `.bkit/`
