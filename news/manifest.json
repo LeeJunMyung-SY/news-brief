@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T04:15:26+00:00",
+  "generated_at": "2026-05-08T04:20:39+00:00",
   "latest_date": "2026-05-08",
   "daily": [
     {
@@ -22,6 +22,12 @@
           "file": "digest_1315.md",
           "selected": 1,
           "new": 12
+        },
+        {
+          "time": "13:20",
+          "file": "digest_1320.md",
+          "selected": 0,
+          "new": 0
         }
       ]
     },
