@@ -82,8 +82,17 @@ export async function peekArticleFrontmatter(date, articleFile) {
 }
 
 export async function loadWeekly(file) {
-  const path = `${NEWS_BASE}/weekly/${file}`;
-  const text = await fetchText(path);
+  // weekly md 는 routine 매 사이클마다 갱신 (토픽 섹션 재생성) → manifest 와
+  // 동일하게 캐시 회피. sessionStorage 캐시에 갇혀 stale 본문이 영구 사용되는 문제 방지.
+  const path = `${NEWS_BASE}/weekly/${file}?t=${Date.now()}`;
+  const res = await fetch(path, { cache: "no-store" });
+  if (!res.ok) {
+    const err = new Error(`weekly ${res.status} for ${path}`);
+    err.status = res.status;
+    err.path = path;
+    throw err;
+  }
+  const text = await res.text();
   const { frontmatter, body } = parseFrontmatter(text);
   return { file, frontmatter, body };
 }
