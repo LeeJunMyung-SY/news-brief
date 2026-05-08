@@ -326,22 +326,111 @@ def update_index_md(date_str: str, time_str: str, digest_filename: str, selected
     index_path.write_text("\n".join(fm + body), encoding="utf-8")
 
 
+def _parse_article_frontmatter(text: str) -> dict:
+    """기사 마크다운의 YAML frontmatter 파싱."""
+    if not text.startswith("---"):
+        return {}
+    parts = text.split("---", 2)
+    if len(parts) < 3:
+        return {}
+    try:
+        import yaml as _y
+        return _y.safe_load(parts[1]) or {}
+    except Exception:
+        return {}
+
+
+def _week_dates_from_runs(runs: list[str]) -> list[str]:
+    """run_YYYYMMDD_HHMMSS 리스트에서 unique 날짜(YYYY-MM-DD) 추출."""
+    dates: set[str] = set()
+    for r in runs:
+        m = re.match(r"run_(\d{8})_", r)
+        if m:
+            ymd = m.group(1)
+            dates.add(f"{ymd[:4]}-{ymd[4:6]}-{ymd[6:8]}")
+    return sorted(dates)
+
+
+def _gather_week_articles_8plus(runs_included: list[str]) -> list[tuple[str, str, dict]]:
+    """주간에 포함된 날짜의 importance >= 8 기사 수집. (date, slug, frontmatter) 튜플."""
+    out: list[tuple[str, str, dict]] = []
+    seen: set[str] = set()
+    for d in _week_dates_from_runs(runs_included):
+        adir = C.NEWS_DIR / d / "articles"
+        if not adir.exists():
+            continue
+        for af in sorted(adir.glob("*.md")):
+            if af.stem in seen:
+                continue
+            try:
+                fm = _parse_article_frontmatter(af.read_text(encoding="utf-8"))
+                if int(fm.get("importance_score", 0) or 0) >= 8:
+                    out.append((d, af.stem, fm))
+                    seen.add(af.stem)
+            except Exception:
+                continue
+    return out
+
+
+def _build_topic_sections(articles_8plus: list[tuple[str, str, dict]], cfg: dict) -> list[str]:
+    """토픽별로 그룹화한 weekly 본문 라인 생성 (8+ 없으면 빈 리스트)."""
+    by_topic: dict[str, list[tuple[str, str, dict]]] = {}
+    for d, slug, fm in articles_8plus:
+        for t in fm.get("user_topics", []) or []:
+            by_topic.setdefault(t, []).append((d, slug, fm))
+    if not by_topic:
+        return []
+    lines: list[str] = ["## 이번 주 주요 이슈 (importance 8+)", ""]
+    for t in sorted(by_topic.keys()):
+        label = topic_label(cfg, t)
+        lines.append(f"### {label}")
+        for d, slug, fm in by_topic[t]:
+            title = str(fm.get("title", slug) or slug)
+            url = str(fm.get("url", "") or "")
+            score = fm.get("importance_score", 0)
+            tags = " ".join(fm.get("auto_tags", []) or [])
+            reasoning = str(fm.get("importance_reasoning", "") or "").strip()
+            one_line = ""
+            if reasoning:
+                for sep in (". ", ".\n", "다. ", "다.\n"):
+                    if sep in reasoning:
+                        head = reasoning.split(sep, 1)[0]
+                        one_line = head + sep.strip()
+                        break
+                if not one_line:
+                    one_line = reasoning
+            lines.append(
+                f"- **{title}** ([상세](../{d}/articles/{slug}.md)) — `score {score}` "
+                f"`{tags}` — [🔗원문]({url})"
+            )
+            if one_line:
+                lines.append(f"  > {one_line}")
+        lines.append("")
+    return lines
+
+
 def update_weekly_md(date_kst: _dt.datetime, run_id: str, selected: list[tuple[dict, dict]],
                     digest_filename: str, time_str: str) -> str:
-    """주간 롤업 머지. ISO 주차 파일명 반환."""
+    """주간 롤업 머지. ISO 주차 파일명 반환.
+
+    설계 (publish-visualizer Cycle #2 weekly-body-restore):
+    - frontmatter (runs_included, topic_counts) 갱신
+    - body 구성: # 헤더 → ## 회차 인덱스 → ## 이번 주 주요 이슈 (자동 재생성) → ## 주간 핵심 테마 (보존)
+    - 토픽 섹션은 runs_included 의 모든 날짜에서 importance>=8 article 을 매번 재구성 (결정론, 멱등)
+    - 주간 핵심 테마는 사용자/LLM 작성 영역으로 그대로 보존
+    """
     iso_year, iso_week, _ = date_kst.isocalendar()
     iso_week_str = f"{iso_year}-W{iso_week:02d}"
     weekly_path = C.WEEKLY_DIR / f"{iso_week_str}.md"
     weekly_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # 기존 파일이 있으면 보존, 없으면 새로 생성
     week_start = date_kst.date() - _dt.timedelta(days=date_kst.weekday())
     week_end = week_start + _dt.timedelta(days=6)
     date_str = date_kst.strftime("%Y-%m-%d")
 
     existing_runs: list[str] = []
-    existing_topic_counts: dict[str, int] = {}
-    existing_runs_today_block: list[str] = []
+    runs_today_block: list[str] = []
+    preserved_theme_lines: list[str] = []
     if weekly_path.exists():
         text = weekly_path.read_text(encoding="utf-8")
         if text.startswith("---"):
@@ -351,14 +440,6 @@ def update_weekly_md(date_kst: _dt.datetime, run_id: str, selected: list[tuple[d
                     s = line.strip()
                     if s.startswith("- run_"):
                         existing_runs.append(s.lstrip("- "))
-                    if ":" in s and not s.startswith("-"):
-                        k, v = s.split(":", 1)
-                        if k.strip() in {"llm_models", "ai_agents", "ai_policy", "ai_industry", "physical_ai_robotics"}:
-                            try:
-                                existing_topic_counts[k.strip()] = int(v.strip())
-                            except ValueError:
-                                pass
-                # body 내 회차 인덱스 보존
                 body_text = parts[2]
                 in_run_idx = False
                 for line in body_text.splitlines():
@@ -368,42 +449,68 @@ def update_weekly_md(date_kst: _dt.datetime, run_id: str, selected: list[tuple[d
                     if in_run_idx:
                         if line.startswith("## "):
                             in_run_idx = False
-                            continue
-                        existing_runs_today_block.append(line)
+                        else:
+                            runs_today_block.append(line)
+                idx = body_text.find("## 주간 핵심 테마")
+                if idx >= 0:
+                    preserved_theme_lines = body_text[idx:].splitlines()
 
     runs_included = list(dict.fromkeys(existing_runs + [run_id]))
 
-    # 토픽 카운트 갱신
-    topic_counts = dict(existing_topic_counts)
-    for _, e in selected:
-        for t in e.get("user_topics", []):
-            topic_counts[t] = topic_counts.get(t, 0) + 1
+    # 토픽 카운트 (frontmatter용) — 전체 주간 article 기준 재계산
+    topic_counts: dict[str, int] = {}
+    for d in _week_dates_from_runs(runs_included):
+        adir = C.NEWS_DIR / d / "articles"
+        if adir.exists():
+            for af in adir.glob("*.md"):
+                try:
+                    fm = _parse_article_frontmatter(af.read_text(encoding="utf-8"))
+                except Exception:
+                    continue
+                for t in fm.get("user_topics", []) or []:
+                    topic_counts[t] = topic_counts.get(t, 0) + 1
     total_this_week = sum(topic_counts.values())
 
-    fm = ["---",
-          f'iso_week: "{iso_week_str}"',
-          f'week_start: "{week_start.isoformat()}"',
-          f'week_end: "{week_end.isoformat()}"',
-          "runs_included:"]
+    cfg = C.load_config()
+    articles_8plus = _gather_week_articles_8plus(runs_included)
+    topic_section_lines = _build_topic_sections(articles_8plus, cfg)
+
+    fm_lines = ["---",
+                f'iso_week: "{iso_week_str}"',
+                f'week_start: "{week_start.isoformat()}"',
+                f'week_end: "{week_end.isoformat()}"',
+                "runs_included:"]
     for r in runs_included:
-        fm.append(f"  - {r}")
-    fm.append(f"total_selected_this_week: {total_this_week}")
+        fm_lines.append(f"  - {r}")
+    fm_lines.append(f"total_selected_this_week: {total_this_week}")
     if topic_counts:
-        fm.append("topic_counts:")
+        fm_lines.append("topic_counts:")
         for k in sorted(topic_counts):
-            fm.append(f"  {k}: {topic_counts[k]}")
-    fm.extend(["---", ""])
+            fm_lines.append(f"  {k}: {topic_counts[k]}")
+    fm_lines.extend(["---", ""])
 
-    body = [f"# 주간 AI 뉴스 — {iso_week_str} ({week_start.strftime('%m-%d')} ~ {week_end.strftime('%m-%d')})", "",
-            "## 회차 인덱스", ""]
-    body.extend(existing_runs_today_block or [])
-    # 이번 회차 항목 추가 (날짜별 그룹은 단순화해 회차 라인만 추가)
-    new_run_line = f"- **{date_str}** ({time_str[:2]}:{time_str[2:]} 회차) — {len(selected)}개 선별 ([digest](../{date_str}/{digest_filename}))"
-    if new_run_line not in body:
-        body.append(new_run_line)
-    body.append("")
+    new_run_line = (
+        f"- **{date_str}** ({time_str[:2]}:{time_str[2:]} 회차) — "
+        f"{len(selected)}개 선별 ([digest](../{date_str}/{digest_filename}))"
+    )
+    runs_block = [ln for ln in runs_today_block if ln.strip()]  # 빈 라인 제거
+    if new_run_line not in runs_block:
+        runs_block.append(new_run_line)
 
-    weekly_path.write_text("\n".join(fm + body), encoding="utf-8")
+    body = [
+        f"# 주간 AI 뉴스 — {iso_week_str} ({week_start.strftime('%m-%d')} ~ {week_end.strftime('%m-%d')})",
+        "",
+        "## 회차 인덱스",
+        "",
+        *runs_block,
+        "",
+    ]
+    if topic_section_lines:
+        body.extend(topic_section_lines)
+    if preserved_theme_lines:
+        body.extend(preserved_theme_lines)
+
+    weekly_path.write_text("\n".join(fm_lines + body), encoding="utf-8")
     return iso_week_str
 
 
