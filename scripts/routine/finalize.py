@@ -326,6 +326,68 @@ def update_index_md(date_str: str, time_str: str, digest_filename: str, selected
     index_path.write_text("\n".join(fm + body), encoding="utf-8")
 
 
+_INTRA_DAY_DEDUP_THRESHOLD = 0.5
+
+
+def _normalize_tokens(text: str) -> set[str]:
+    """제목·요약을 어절(2자 이상)+소문자 토큰 셋으로."""
+    s = (text or "").lower()
+    s = re.sub(r"[^a-z0-9가-힣\s]", " ", s)
+    return {t for t in s.split() if len(t) >= 2}
+
+
+def _jaccard(a: set, b: set) -> float:
+    if not a or not b:
+        return 0.0
+    return len(a & b) / len(a | b)
+
+
+def _filter_intra_day_duplicates(selected: list[tuple[dict, dict]], date_str: str,
+                                 threshold: float = _INTRA_DAY_DEDUP_THRESHOLD
+                                 ) -> tuple[list[tuple[dict, dict]], list[tuple[str, str, float]]]:
+    """같은 날(news/{date}/articles/) 기존 기사와 토큰 유사도 비교해 의미 중복 제거.
+
+    같은 routine 사이클을 같은 날 여러 번 돌렸을 때 다른 매체의 동일 사건 기사가
+    중복 selection 되는 문제를 해결.
+
+    Returns: (kept, dropped) — dropped 는 (url, title, max_similarity).
+    """
+    adir = C.NEWS_DIR / date_str / "articles"
+    if not adir.exists():
+        return selected, []
+
+    prev_token_sets: list[set[str]] = []
+    for af in adir.glob("*.md"):
+        try:
+            fm = _parse_article_frontmatter(af.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        title = str(fm.get("title", "") or "")
+        # title 만 비교: 어휘 분산을 피해 Jaccard 안정성 확보
+        ts = _normalize_tokens(title)
+        if ts:
+            prev_token_sets.append(ts)
+
+    if not prev_token_sets:
+        return selected, []
+
+    kept: list[tuple[dict, dict]] = []
+    dropped: list[tuple[str, str, float]] = []
+    for a, e in selected:
+        title = str(a.get("title", "") or "")
+        new_tokens = _normalize_tokens(title)
+        max_sim = 0.0
+        for pt in prev_token_sets:
+            sim = _jaccard(new_tokens, pt)
+            if sim > max_sim:
+                max_sim = sim
+        if max_sim >= threshold:
+            dropped.append((str(a.get("url", "") or ""), title, max_sim))
+        else:
+            kept.append((a, e))
+    return kept, dropped
+
+
 def _parse_article_frontmatter(text: str) -> dict:
     """기사 마크다운의 YAML frontmatter 파싱."""
     if not text.startswith("---"):
@@ -568,6 +630,13 @@ def main() -> int:
     time_str = now_kst.strftime("%H%M")
     run_id = C.make_run_id(now_kst)
 
+    # intra-day dedup: 같은 날 기존 article 과 토큰 유사도 비교 (publish-visualizer Cycle #2)
+    selected, intra_day_dropped = _filter_intra_day_duplicates(selected, date_str)
+    if intra_day_dropped:
+        print(f"   intra-day dedup: {len(intra_day_dropped)} 건 제거 (Jaccard≥{_INTRA_DAY_DEDUP_THRESHOLD})")
+        for url, title, sim in intra_day_dropped:
+            print(f"      [sim={sim:.2f}] {title[:60]}")
+
     # 회차 윈도우
     last_run_at = C.read_last_run_at(default_hours=cfg["filtering"].get("max_age_hours", 48))
     run_window_to = C.utc_now().isoformat()
@@ -689,6 +758,12 @@ def main() -> int:
         log_entry["manifest_error"] = manifest_error
     if publish_error:
         log_entry["publish_error"] = publish_error
+    if intra_day_dropped:
+        log_entry["intra_day_duplicates_removed"] = len(intra_day_dropped)
+        log_entry["intra_day_duplicates"] = [
+            {"url": u, "title": t[:80], "similarity": round(s, 3)}
+            for u, t, s in intra_day_dropped
+        ]
     C.write_run_log(log_entry)
 
     # last_run.json
