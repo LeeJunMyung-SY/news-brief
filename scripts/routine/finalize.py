@@ -44,6 +44,7 @@ evaluations.json 형식:
   - logs/last_run.json 갱신
   - scripts/validate.py --news 호출
   - scripts/visualizer/build_manifest.py 호출
+  - scripts/publish.py 호출 (gh-pages 갱신, 실패해도 routine은 정상 종료)
   - topics/suggested_topics.md 갱신 (emerging_topics 있을 때)
 
 이 스크립트는 LLM 도구를 호출하지 않는다. 오직 결정론적 변환만 수행.
@@ -534,6 +535,22 @@ def main() -> int:
     else:
         print("   manifest 갱신 OK")
 
+    # publish.py — gh-pages 갱신 (실패해도 routine은 정상 종료, FR-07)
+    publish_error = None
+    try:
+        result = subprocess.run(
+            [sys.executable, str(C.PROJECT_ROOT / "scripts" / "publish.py")],
+            capture_output=True, text=True, timeout=120, encoding="utf-8", errors="replace",
+        )
+        if result.returncode != 0:
+            publish_error = f"exit {result.returncode}: {result.stderr[:200]}"
+    except Exception as e:
+        publish_error = str(e)
+    if publish_error:
+        print(f"   ⚠️  publish 실패 (routine 계속): {publish_error}")
+    else:
+        print("   publish OK")
+
     # run_log
     log_entry = {
         "run_id": run_id,
@@ -563,6 +580,8 @@ def main() -> int:
         log_entry["validation_errors"] = validate_errors
     if manifest_error:
         log_entry["manifest_error"] = manifest_error
+    if publish_error:
+        log_entry["publish_error"] = publish_error
     C.write_run_log(log_entry)
 
     # last_run.json
