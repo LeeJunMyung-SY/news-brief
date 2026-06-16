@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T04:11:16+00:00",
-  "latest_date": "2026-06-15",
+  "generated_at": "2026-06-16T04:00:59+00:00",
+  "latest_date": "2026-06-16",
   "topics": [
     {
       "key": "llm_models",
@@ -29,9 +29,24 @@
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI"
+    },
+    {
+      "key": "physical_ai",
+      "label": "Physical Ai"
     }
   ],
   "daily": [
+    {
+      "date": "2026-06-16",
+      "runs": [
+        {
+          "time": "13:00",
+          "file": "digest_1300.md",
+          "selected": 16,
+          "new": 189
+        }
+      ]
+    },
     {
       "date": "2026-06-15",
       "runs": [
@@ -579,7 +594,7 @@
       "file": "2026-W25.md",
       "week_start": "2026-06-15",
       "week_end": "2026-06-21",
-      "total_selected_this_week": 52
+      "total_selected_this_week": 82
     },
     {
       "week": "2026-W23",
