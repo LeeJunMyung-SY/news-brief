@@ -1,8 +1,19 @@
 {
-  "generated_at": "2026-06-18T03:16:27+00:00",
-  "latest_date": "2026-06-18",
+  "generated_at": "2026-06-22T00:52:32+00:00",
+  "latest_date": "2026-06-22",
   "topics": [],
   "daily": [
+    {
+      "date": "2026-06-22",
+      "runs": [
+        {
+          "time": "09:52",
+          "file": "digest_0952.md",
+          "selected": 13,
+          "new": 262
+        }
+      ]
+    },
     {
       "date": "2026-06-18",
       "runs": [
@@ -584,6 +595,13 @@
     }
   ],
   "weekly": [
+    {
+      "week": "2026-W26",
+      "file": "2026-W26.md",
+      "week_start": "2026-06-22",
+      "week_end": "2026-06-28",
+      "total_selected_this_week": 0
+    },
     {
       "week": "2026-W25",
       "file": "2026-W25.md",
