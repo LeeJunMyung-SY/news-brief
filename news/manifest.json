@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T00:52:32+00:00",
+  "generated_at": "2026-06-22T04:04:46+00:00",
   "latest_date": "2026-06-22",
   "topics": [],
   "daily": [
@@ -11,6 +11,12 @@
           "file": "digest_0952.md",
           "selected": 13,
           "new": 262
+        },
+        {
+          "time": "13:04",
+          "file": "digest_1304.md",
+          "selected": 7,
+          "new": 1066
         }
       ]
     },
