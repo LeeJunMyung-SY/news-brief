@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T23:20:21+00:00",
+  "generated_at": "2026-06-23T04:17:31+00:00",
   "latest_date": "2026-06-23",
   "topics": [
     {
@@ -44,6 +44,12 @@
           "file": "digest_0820.md",
           "selected": 12,
           "new": 139
+        },
+        {
+          "time": "13:17",
+          "file": "digest_1317.md",
+          "selected": 5,
+          "new": 97
         }
       ]
     },
@@ -656,7 +662,7 @@
       "file": "2026-W26.md",
       "week_start": "2026-06-22",
       "week_end": "2026-06-28",
-      "total_selected_this_week": 74
+      "total_selected_this_week": 82
     },
     {
       "week": "2026-W25",
