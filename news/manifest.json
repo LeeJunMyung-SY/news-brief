@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T07:15:30+00:00",
-  "latest_date": "2026-07-05",
+  "generated_at": "2026-07-05T23:18:21+00:00",
+  "latest_date": "2026-07-06",
   "topics": [
     {
       "key": "llm_models",
@@ -36,6 +36,17 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-06",
+      "runs": [
+        {
+          "time": "08:18",
+          "file": "digest_0818.md",
+          "selected": 11,
+          "new": 80
+        }
+      ]
+    },
     {
       "date": "2026-07-05",
       "runs": [
@@ -869,6 +880,13 @@
     }
   ],
   "weekly": [
+    {
+      "week": "2026-W28",
+      "file": "2026-W28.md",
+      "week_start": "2026-07-06",
+      "week_end": "2026-07-12",
+      "total_selected_this_week": 13
+    },
     {
       "week": "2026-W27",
       "file": "2026-W27.md",
