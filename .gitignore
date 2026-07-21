@@ -26,6 +26,8 @@ config/
 # 운영 스크립트 (PC 로컬 전용, 외부 노출 금지)
 scripts/visualizer/server.py
 scripts/visualizer/*.ps1
+scripts/visualizer/*.bat
+scripts/visualizer/*.vbs
 
 # 내부 기획문서 (visualizer 자체의 PDCA 산출물)
 scripts/visualizer/PLAN.md
