@@ -81,12 +81,12 @@ export async function peekArticleFrontmatter(date, articleFile) {
   }
 }
 
-export async function loadThemeIndex() {
+export async function loadTopicIndex() {
   // manifest 와 동일하게 캐시 회피 — 회차마다 재생성되는 파일.
-  const path = `${NEWS_BASE}/theme_index.json?t=${Date.now()}`;
+  const path = `${NEWS_BASE}/topic_index.json?t=${Date.now()}`;
   const res = await fetch(path, { cache: "no-store" });
   if (!res.ok) {
-    const err = new Error(`theme_index.json ${res.status}`);
+    const err = new Error(`topic_index.json ${res.status}`);
     err.status = res.status;
     err.path = path;
     throw err;
@@ -94,9 +94,9 @@ export async function loadThemeIndex() {
   return res.json();
 }
 
-export async function loadThemeBrief(key) {
-  // 토픽별 동향 요약 md. 아직 생성되지 않은 테마는 null (페이지는 기사 목록만 표시).
-  const path = `${NEWS_BASE}/themes/${encodeURIComponent(key)}.md?t=${Date.now()}`;
+export async function loadTopicBrief(key) {
+  // 토픽별 동향 요약 md. 아직 생성되지 않은 토픽은 null (페이지는 기사 목록만 표시).
+  const path = `${NEWS_BASE}/topics/${encodeURIComponent(key)}.md?t=${Date.now()}`;
   try {
     const res = await fetch(path, { cache: "no-store" });
     if (!res.ok) return null;

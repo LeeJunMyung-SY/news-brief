@@ -24,7 +24,7 @@ except Exception:  # noqa: BLE001
 REPO_ROOT = Path(__file__).resolve().parents[2]
 NEWS_DIR = REPO_ROOT / "news"
 MANIFEST_PATH = NEWS_DIR / "manifest.json"
-THEME_INDEX_PATH = NEWS_DIR / "theme_index.json"
+TOPIC_INDEX_PATH = NEWS_DIR / "topic_index.json"
 CONFIG_PATH = REPO_ROOT / "config" / "config.yaml"
 
 DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -211,8 +211,8 @@ def collect_topics() -> list[dict]:
     return out
 
 
-def collect_theme_index(topics: list[dict]) -> dict:
-    """news/*/articles/*.md frontmatter 전수 스캔 → 토픽(=테마)별 기사 인덱스.
+def collect_topic_index(topics: list[dict]) -> dict:
+    """news/*/articles/*.md frontmatter 전수 스캔 → 토픽별 기사 인덱스.
 
     Returns:
       {
@@ -310,10 +310,10 @@ def main() -> int:
     daily = collect_daily()
     weekly = collect_weekly()
     topics = collect_topics()
-    theme_index = collect_theme_index(topics)
+    topic_index = collect_topic_index(topics)
 
     # manifest.topics 에 count 부여 (뷰어 네비 배지용)
-    counts = {t["key"]: t["count"] for t in theme_index["topics"]}
+    counts = {t["key"]: t["count"] for t in topic_index["topics"]}
     for t in topics:
         t["count"] = counts.get(t["key"], 0)
 
@@ -328,22 +328,22 @@ def main() -> int:
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    theme_payload = {
+    topic_payload = {
         "generated_at": payload["generated_at"],
-        **theme_index,
+        **topic_index,
     }
-    THEME_INDEX_PATH.write_text(
-        json.dumps(theme_payload, ensure_ascii=False, indent=2) + "\n",
+    TOPIC_INDEX_PATH.write_text(
+        json.dumps(topic_payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
-    total_indexed = sum(t["count"] for t in theme_index["topics"])
+    total_indexed = sum(t["count"] for t in topic_index["topics"])
     print(
         f"wrote {MANIFEST_PATH.relative_to(REPO_ROOT)} "
         f"(daily={len(daily)}, weekly={len(weekly)})"
     )
     print(
-        f"wrote {THEME_INDEX_PATH.relative_to(REPO_ROOT)} "
-        f"(topics={len(theme_index['topics'])}, article-links={total_indexed})"
+        f"wrote {TOPIC_INDEX_PATH.relative_to(REPO_ROOT)} "
+        f"(topics={len(topic_index['topics'])}, article-links={total_indexed})"
     )
     return 0
 
