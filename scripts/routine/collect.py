@@ -27,9 +27,27 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from routine import common as C  # noqa: E402
 
 
+def _make_ssl_context():
+    """certifi 가 설치돼 있으면 그 CA 번들 사용.
+
+    일부 피드(rss.arxiv.org)가 시스템 기본 CA 체인으로는
+    CERTIFICATE_VERIFY_FAILED 로 실패하는 문제 대응. certifi 부재 시 None
+    (urllib 기본 컨텍스트) — PyYAML 과 동일한 선택적 의존성 패턴.
+    """
+    try:
+        import certifi
+        import ssl
+        return ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        return None
+
+
+_SSL_CTX = _make_ssl_context()
+
+
 def fetch_rss(url: str, timeout: int = 15) -> str:
     req = urllib.request.Request(url, headers={"User-Agent": "AI-News-Brief/1.0"})
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
+    with urllib.request.urlopen(req, timeout=timeout, context=_SSL_CTX) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
 

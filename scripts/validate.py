@@ -14,6 +14,7 @@ PostToolUse Hook 및 개발 단계에서 구조/파일 유효성을 자동 확�
 import sys
 import io
 import os
+import re
 import argparse
 
 # Windows cp949 환경에서 UTF-8 출력 강제
@@ -259,13 +260,21 @@ def check_rss_feeds():
     print(f"  {len(urls)}개 피드 전체를 테스트합니다...")
     test_urls = urls
 
+    # certifi 가 있으면 그 CA 번들 사용 (collect.py 와 동일 — rss.arxiv.org SSL 대응)
+    try:
+        import ssl
+        import certifi
+        ssl_ctx = ssl.create_default_context(cafile=certifi.where())
+    except ImportError:
+        ssl_ctx = None
+
     for url in test_urls:
         try:
             req = urllib.request.Request(
                 url,
                 headers={"User-Agent": "AI-News-Brief/1.0 (validation test)"},
             )
-            with urllib.request.urlopen(req, timeout=10) as resp:
+            with urllib.request.urlopen(req, timeout=10, context=ssl_ctx) as resp:
                 status = resp.getcode()
                 content_type = resp.headers.get("Content-Type", "")
                 if status == 200:
@@ -385,9 +394,10 @@ def check_news_output():
     section("news/ 출력 구조 검증")
     news_dir = PROJECT_ROOT / "news"
 
+    # 날짜 형식(YYYY-MM-DD) 폴더만 대상 — weekly/, themes/ 등 비날짜 폴더 제외
     date_folders = sorted(
         [d for d in news_dir.iterdir()
-         if d.is_dir() and d.name != "weekly"],
+         if d.is_dir() and re.match(r"^\d{4}-\d{2}-\d{2}$", d.name)],
         reverse=True,
     )
 
