@@ -256,8 +256,8 @@ def check_rss_feeds():
         warn("테스트할 RSS URL 없음")
         return 0
 
-    print(f"  {len(urls)}개 피드 중 첫 2개만 테스트합니다...")
-    test_urls = urls[:2]
+    print(f"  {len(urls)}개 피드 전체를 테스트합니다...")
+    test_urls = urls
 
     for url in test_urls:
         try:

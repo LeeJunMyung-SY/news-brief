@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import datetime as _dt
 import json
+import re
 import sys
 import urllib.error
 import urllib.request
@@ -67,6 +68,37 @@ def parse_rss(xml_content: str, source_name: str, lang: str) -> list[dict]:
     return articles
 
 
+def _compile_keyword_patterns(keywords_raw: str) -> list[re.Pattern]:
+    """피드별 keywords (콤마 구분 문자열) → 정규식 리스트.
+
+    ASCII 키워드는 단어 경계(\\b) 매칭 — 'AI'가 'KAIST'/'said'에 오매칭되는 것 방지.
+    한글 등 비ASCII 키워드는 단순 부분 문자열 매칭.
+    """
+    pats: list[re.Pattern] = []
+    for kw in str(keywords_raw or "").split(","):
+        kw = kw.strip()
+        if not kw:
+            continue
+        if all(ord(c) < 128 for c in kw):
+            pats.append(re.compile(r"\b" + re.escape(kw) + r"\b", re.IGNORECASE))
+        else:
+            pats.append(re.compile(re.escape(kw), re.IGNORECASE))
+    return pats
+
+
+def filter_by_keywords(articles: list[dict], keywords_raw: str) -> list[dict]:
+    """title+summary에 키워드가 하나라도 포함된 기사만 유지. keywords 미설정 시 전체 통과."""
+    pats = _compile_keyword_patterns(keywords_raw)
+    if not pats:
+        return articles
+    kept: list[dict] = []
+    for a in articles:
+        haystack = f"{a.get('title', '')} {a.get('summary', '')}"
+        if any(p.search(haystack) for p in pats):
+            kept.append(a)
+    return kept
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="routine collect — RSS + dedup + age cut")
     parser.add_argument("--include-external", help="external.json 경로 (WebFetch/WebSearch 결과)")
@@ -83,6 +115,11 @@ def main() -> int:
             if p.exists():
                 p.unlink()
                 print(f"   🧹 cleaned stale: tmp/state/{stale}")
+        # batch 분할 evaluation 잔재 청소 (CLAUDE_CODE_MAX_OUTPUT_TOKENS 대응)
+        state_dir = C.state_path("evaluations.json").parent
+        for bp in state_dir.glob("evaluations_batch_*.json"):
+            bp.unlink()
+            print(f"   🧹 cleaned stale: tmp/state/{bp.name}")
 
     cfg = C.load_config()
     feeds = cfg["sources"]["rss_feeds"]
@@ -94,8 +131,14 @@ def main() -> int:
         try:
             xml_content = fetch_rss(feed["url"])
             items = parse_rss(xml_content, feed["name"], feed.get("lang", "en"))
-            raw.extend(items)
-            print(f"   ✅  {feed['name']:20s} {len(items):3d} items")
+            if feed.get("keywords"):
+                before = len(items)
+                items = filter_by_keywords(items, feed["keywords"])
+                raw.extend(items)
+                print(f"   ✅  {feed['name']:20s} {len(items):3d} items (키워드 필터: {before} → {len(items)})")
+            else:
+                raw.extend(items)
+                print(f"   ✅  {feed['name']:20s} {len(items):3d} items")
         except urllib.error.URLError as e:
             print(f"   ❌  {feed['name']:20s} fetch failed: {e.reason}")
             feed_failures.append({"source": feed["name"], "url": feed["url"],

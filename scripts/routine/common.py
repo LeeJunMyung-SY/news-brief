@@ -153,6 +153,8 @@ def load_config() -> dict:
                 cur_feed["url"] = stripped.split("url:", 1)[1].strip()
             elif stripped.startswith("lang:"):
                 cur_feed["lang"] = stripped.split("lang:", 1)[1].strip()
+            elif stripped.startswith("keywords:"):
+                cur_feed["keywords"] = stripped.split("keywords:", 1)[1].strip()
             continue
 
         if in_fallback and stripped.startswith("- "):
