@@ -342,31 +342,69 @@ def _jaccard(a: set, b: set) -> float:
     return len(a & b) / len(a | b)
 
 
-def _filter_intra_day_duplicates(selected: list[tuple[dict, dict]], date_str: str,
-                                 threshold: float = _INTRA_DAY_DEDUP_THRESHOLD
-                                 ) -> tuple[list[tuple[dict, dict]], list[tuple[str, str, float]]]:
-    """같은 날(news/{date}/articles/) 기존 기사와 토큰 유사도 비교해 의미 중복 제거.
+def _dedup_within_selection(selected: list[tuple[dict, dict]],
+                            threshold: float = _INTRA_DAY_DEDUP_THRESHOLD
+                            ) -> tuple[list[tuple[dict, dict]], list[tuple[str, str, float]]]:
+    """같은 회차 선별분 **내부**의 의미 중복 제거 (토픽 교차 포함).
 
-    같은 routine 사이클을 같은 날 여러 번 돌렸을 때 다른 매체의 동일 사건 기사가
-    중복 selection 되는 문제를 해결.
+    같은 사건을 다른 매체가 보도해 서로 다른 토픽으로 selection 된 경우,
+    기존 intra-day dedup(기저장 기사와만 비교)으로는 잡히지 않던 중복을 해결.
+    제목 토큰 Jaccard ≥ threshold 페어는 importance 높은 쪽만 유지
+    (동률이면 published_at 최신 우선).
 
     Returns: (kept, dropped) — dropped 는 (url, title, max_similarity).
     """
-    adir = C.NEWS_DIR / date_str / "articles"
-    if not adir.exists():
-        return selected, []
+    def rank_key(pair: tuple[dict, dict]):
+        a, e = pair
+        return (int(e.get("importance_score", 0)), a.get("published_at", ""))
 
+    ranked = sorted(selected, key=rank_key, reverse=True)
+    kept: list[tuple[dict, dict]] = []
+    kept_tokens: list[set[str]] = []
+    dropped: list[tuple[str, str, float]] = []
+    for a, e in ranked:
+        toks = _normalize_tokens(str(a.get("title", "") or ""))
+        max_sim = 0.0
+        for t in kept_tokens:
+            sim = _jaccard(toks, t)
+            if sim > max_sim:
+                max_sim = sim
+        if max_sim >= threshold:
+            dropped.append((str(a.get("url", "") or ""), str(a.get("title", "") or ""), max_sim))
+        else:
+            kept.append((a, e))
+            kept_tokens.append(toks)
+    return kept, dropped
+
+
+def _filter_recent_duplicates(selected: list[tuple[dict, dict]], date_str: str,
+                              lookback_days: int = 1,
+                              threshold: float = _INTRA_DAY_DEDUP_THRESHOLD
+                              ) -> tuple[list[tuple[dict, dict]], list[tuple[str, str, float]]]:
+    """최근 lookback_days일(당일 포함) 기존 기사와 토큰 유사도 비교해 의미 중복 제거.
+
+    같은 routine 사이클을 여러 번 돌렸을 때, 또는 전일 보도된 사건을 다음 날
+    다른 매체가 재보도했을 때의 중복 selection 을 해결.
+    (기존 intra-day dedup 의 lookback 확장 — config filtering.dedup_lookback_days)
+
+    Returns: (kept, dropped) — dropped 는 (url, title, max_similarity).
+    """
+    base = _dt.date.fromisoformat(date_str)
     prev_token_sets: list[set[str]] = []
-    for af in adir.glob("*.md"):
-        try:
-            fm = _parse_article_frontmatter(af.read_text(encoding="utf-8"))
-        except Exception:
+    for i in range(max(1, lookback_days)):
+        adir = C.NEWS_DIR / (base - _dt.timedelta(days=i)).isoformat() / "articles"
+        if not adir.exists():
             continue
-        title = str(fm.get("title", "") or "")
-        # title 만 비교: 어휘 분산을 피해 Jaccard 안정성 확보
-        ts = _normalize_tokens(title)
-        if ts:
-            prev_token_sets.append(ts)
+        for af in adir.glob("*.md"):
+            try:
+                fm = _parse_article_frontmatter(af.read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            title = str(fm.get("title", "") or "")
+            # title 만 비교: 어휘 분산을 피해 Jaccard 안정성 확보
+            ts = _normalize_tokens(title)
+            if ts:
+                prev_token_sets.append(ts)
 
     if not prev_token_sets:
         return selected, []
@@ -576,6 +614,74 @@ def update_weekly_md(date_kst: _dt.datetime, run_id: str, selected: list[tuple[d
     return iso_week_str
 
 
+_THEME_BRIEF_MAX_ENTRIES = 7
+
+
+def update_theme_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, cfg: dict) -> int:
+    """agent 의 topic_briefs → news/themes/<key>.md 회차별 동향 요약 관리.
+
+    파일 구조: frontmatter(topic/label/updated_at/run_id) + '# <label> — 동향 요약' +
+    '### YYYY-MM-DD HH:MM' 블록들 (최신이 위, 최근 _THEME_BRIEF_MAX_ENTRIES 개 유지).
+    같은 stamp 블록이 이미 있으면 교체 (같은 회차 재실행 멱등성).
+    """
+    if not topic_briefs:
+        return 0
+    themes_dir = C.NEWS_DIR / "themes"
+    themes_dir.mkdir(parents=True, exist_ok=True)
+    stamp = now_kst.strftime("%Y-%m-%d %H:%M")
+    written = 0
+    for key, brief in topic_briefs.items():
+        text = str(brief or "").strip()
+        if not text:
+            continue
+        safe_name = str(key).replace("/", "_").replace("\\", "_")
+        path = themes_dir / f"{safe_name}.md"
+
+        # 기존 '### <stamp>' 블록 파싱
+        entries: list[tuple[str, str]] = []  # (stamp, body_text)
+        if path.exists():
+            old = path.read_text(encoding="utf-8")
+            body = old.split("---", 2)[2] if old.startswith("---") and len(old.split("---", 2)) >= 3 else old
+            cur_stamp: str | None = None
+            cur_lines: list[str] = []
+            for line in body.splitlines():
+                m = re.match(r"^###\s+(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\s*$", line)
+                if m:
+                    if cur_stamp:
+                        entries.append((cur_stamp, "\n".join(cur_lines).strip()))
+                    cur_stamp = m.group(1)
+                    cur_lines = []
+                elif cur_stamp is not None:
+                    cur_lines.append(line)
+            if cur_stamp:
+                entries.append((cur_stamp, "\n".join(cur_lines).strip()))
+
+        entries = [(s, b) for s, b in entries if s != stamp]  # 같은 회차 재실행 시 교체
+        entries.insert(0, (stamp, text))
+        entries = entries[:_THEME_BRIEF_MAX_ENTRIES]
+
+        label = topic_label(cfg, str(key))
+        lines = [
+            "---",
+            f'topic: "{key}"',
+            f'label: "{label}"',
+            f'updated_at: "{stamp}"',
+            f'run_id: "{run_id}"',
+            "---",
+            "",
+            f"# {label} — 동향 요약",
+            "",
+        ]
+        for s, b in entries:
+            lines.append(f"### {s}")
+            lines.append("")
+            lines.append(b)
+            lines.append("")
+        path.write_text("\n".join(lines), encoding="utf-8")
+        written += 1
+    return written
+
+
 def update_suggested_topics(emerging: list[dict], run_id: str, date_str: str) -> None:
     if not emerging:
         return
@@ -604,6 +710,79 @@ def update_suggested_topics(emerging: list[dict], run_id: str, date_str: str) ->
         f.write("\n".join(appended) + "\n")
 
 
+def _load_evaluations() -> dict | None:
+    """단일 evaluations.json 우선, 없으면 evaluations_batch_*.json 머지.
+
+    배치 머지 규칙:
+      - articles: 모든 배치의 articles 를 url 기준 dedup 하며 concat (선등장 우선)
+      - emerging_topics: name 기준 머지 — count 합산, article_urls union
+      - topic_briefs: 토픽 key 기준 첫 등장 우선
+      - filter_criteria_version / active_topics: 첫 배치 값 채택
+    """
+    eval_path = C.state_path("evaluations.json")
+    if eval_path.exists():
+        return C.read_json(eval_path)
+
+    state_dir = eval_path.parent
+    batch_paths = sorted(state_dir.glob("evaluations_batch_*.json"))
+    if not batch_paths:
+        return None
+
+    merged: dict = {
+        "filter_criteria_version": "v1",
+        "active_topics": [],
+        "articles": [],
+        "emerging_topics": [],
+        "topic_briefs": {},
+    }
+    seen_urls: set[str] = set()
+    emerging_by_name: dict[str, dict] = {}
+    first = True
+    for bp in batch_paths:
+        try:
+            data = C.read_json(bp)
+        except Exception as e:
+            print(f"   ⚠️  배치 로드 실패 {bp.name}: {e}")
+            continue
+        if first:
+            merged["filter_criteria_version"] = data.get("filter_criteria_version", "v1")
+            merged["active_topics"] = list(data.get("active_topics", []) or [])
+            first = False
+        for art in data.get("articles", []) or []:
+            url = art.get("url")
+            if not url or url in seen_urls:
+                continue
+            seen_urls.add(url)
+            merged["articles"].append(art)
+        for bk, bv in (data.get("topic_briefs") or {}).items():
+            if bk and bv and bk not in merged["topic_briefs"]:
+                merged["topic_briefs"][bk] = bv
+        for et in data.get("emerging_topics", []) or []:
+            name = et.get("name")
+            if not name:
+                continue
+            cur = emerging_by_name.get(name)
+            if cur is None:
+                emerging_by_name[name] = {
+                    "name": name,
+                    "description": et.get("description", ""),
+                    "keywords": list(et.get("keywords", []) or []),
+                    "article_urls": list(et.get("article_urls", []) or []),
+                    "count": int(et.get("count", 0) or 0),
+                }
+            else:
+                cur["count"] += int(et.get("count", 0) or 0)
+                for u in et.get("article_urls", []) or []:
+                    if u not in cur["article_urls"]:
+                        cur["article_urls"].append(u)
+                for k in et.get("keywords", []) or []:
+                    if k not in cur["keywords"]:
+                        cur["keywords"].append(k)
+    merged["emerging_topics"] = list(emerging_by_name.values())
+    print(f"   🧩 evaluations 머지: {len(batch_paths)} 배치 → {len(merged['articles'])} articles")
+    return merged
+
+
 def main() -> int:
     print("📦 routine/finalize.py 시작")
     cfg = C.load_config()
@@ -614,11 +793,10 @@ def main() -> int:
 
     raw_summary = C.read_json(C.state_path("raw_summary.json"))
 
-    eval_path = C.state_path("evaluations.json")
-    if not eval_path.exists():
-        print("❌ tmp/state/evaluations.json 없음 — agent가 평가 단계를 수행했는지 확인")
+    evaluations_data = _load_evaluations()
+    if evaluations_data is None:
+        print("❌ tmp/state/evaluations.json (또는 evaluations_batch_*.json) 없음 — agent가 평가 단계를 수행했는지 확인")
         return 1
-    evaluations_data = C.read_json(eval_path)
     evaluations: list[dict] = evaluations_data.get("articles", [])
     emerging: list[dict] = evaluations_data.get("emerging_topics", [])
 
@@ -630,10 +808,18 @@ def main() -> int:
     time_str = now_kst.strftime("%H%M")
     run_id = C.make_run_id(now_kst)
 
-    # intra-day dedup: 같은 날 기존 article 과 토큰 유사도 비교 (publish-visualizer Cycle #2)
-    selected, intra_day_dropped = _filter_intra_day_duplicates(selected, date_str)
+    # 회차 내 dedup: 같은 회차 선별분끼리 비교 — 토픽이 달라도 같은 사건이면 하나만 유지
+    selected, intra_run_dropped = _dedup_within_selection(selected)
+    if intra_run_dropped:
+        print(f"   intra-run dedup: {len(intra_run_dropped)} 건 제거 (Jaccard≥{_INTRA_DAY_DEDUP_THRESHOLD})")
+        for url, title, sim in intra_run_dropped:
+            print(f"      [sim={sim:.2f}] {title[:60]}")
+
+    # recent-days dedup: 최근 N일(당일 포함) 기존 article 과 토큰 유사도 비교
+    dedup_lookback = int(cfg["filtering"].get("dedup_lookback_days", 2))
+    selected, intra_day_dropped = _filter_recent_duplicates(selected, date_str, dedup_lookback)
     if intra_day_dropped:
-        print(f"   intra-day dedup: {len(intra_day_dropped)} 건 제거 (Jaccard≥{_INTRA_DAY_DEDUP_THRESHOLD})")
+        print(f"   recent-days dedup: {len(intra_day_dropped)} 건 제거 (lookback={dedup_lookback}일, Jaccard≥{_INTRA_DAY_DEDUP_THRESHOLD})")
         for url, title, sim in intra_day_dropped:
             print(f"      [sim={sim:.2f}] {title[:60]}")
 
@@ -680,6 +866,12 @@ def main() -> int:
     update_suggested_topics(emerging, run_id, date_str)
     if emerging:
         print(f"   suggested_topics 갱신: {len(emerging)} 신규 토픽")
+
+    # theme briefs (토픽별 동향 요약 — agent topic_briefs)
+    briefs: dict = evaluations_data.get("topic_briefs") or {}
+    n_briefs = update_theme_briefs(briefs, run_id, now_kst, cfg)
+    if n_briefs:
+        print(f"   theme briefs: {n_briefs}개 토픽 갱신 → news/themes/")
 
     # validate.py 호출
     validate_errors = 0
@@ -758,6 +950,12 @@ def main() -> int:
         log_entry["manifest_error"] = manifest_error
     if publish_error:
         log_entry["publish_error"] = publish_error
+    if intra_run_dropped:
+        log_entry["intra_run_duplicates_removed"] = len(intra_run_dropped)
+        log_entry["intra_run_duplicates"] = [
+            {"url": u, "title": t[:80], "similarity": round(s, 3)}
+            for u, t, s in intra_run_dropped
+        ]
     if intra_day_dropped:
         log_entry["intra_day_duplicates_removed"] = len(intra_day_dropped)
         log_entry["intra_day_duplicates"] = [
