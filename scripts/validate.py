@@ -394,7 +394,7 @@ def check_news_output():
     section("news/ 출력 구조 검증")
     news_dir = PROJECT_ROOT / "news"
 
-    # 날짜 형식(YYYY-MM-DD) 폴더만 대상 — weekly/, themes/ 등 비날짜 폴더 제외
+    # 날짜 형식(YYYY-MM-DD) 폴더만 대상 — weekly/, topics/ 등 비날짜 폴더 제외
     date_folders = sorted(
         [d for d in news_dir.iterdir()
          if d.is_dir() and re.match(r"^\d{4}-\d{2}-\d{2}$", d.name)],

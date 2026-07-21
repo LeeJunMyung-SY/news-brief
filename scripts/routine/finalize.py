@@ -614,20 +614,20 @@ def update_weekly_md(date_kst: _dt.datetime, run_id: str, selected: list[tuple[d
     return iso_week_str
 
 
-_THEME_BRIEF_MAX_ENTRIES = 7
+_TOPIC_BRIEF_MAX_ENTRIES = 7
 
 
-def update_theme_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, cfg: dict) -> int:
-    """agent 의 topic_briefs → news/themes/<key>.md 회차별 동향 요약 관리.
+def update_topic_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, cfg: dict) -> int:
+    """agent 의 topic_briefs → news/topics/<key>.md 회차별 동향 요약 관리.
 
     파일 구조: frontmatter(topic/label/updated_at/run_id) + '# <label> — 동향 요약' +
-    '### YYYY-MM-DD HH:MM' 블록들 (최신이 위, 최근 _THEME_BRIEF_MAX_ENTRIES 개 유지).
+    '### YYYY-MM-DD HH:MM' 블록들 (최신이 위, 최근 _TOPIC_BRIEF_MAX_ENTRIES 개 유지).
     같은 stamp 블록이 이미 있으면 교체 (같은 회차 재실행 멱등성).
     """
     if not topic_briefs:
         return 0
-    themes_dir = C.NEWS_DIR / "themes"
-    themes_dir.mkdir(parents=True, exist_ok=True)
+    topics_dir = C.NEWS_DIR / "topics"
+    topics_dir.mkdir(parents=True, exist_ok=True)
     stamp = now_kst.strftime("%Y-%m-%d %H:%M")
     written = 0
     for key, brief in topic_briefs.items():
@@ -635,7 +635,7 @@ def update_theme_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, 
         if not text:
             continue
         safe_name = str(key).replace("/", "_").replace("\\", "_")
-        path = themes_dir / f"{safe_name}.md"
+        path = topics_dir / f"{safe_name}.md"
 
         # 기존 '### <stamp>' 블록 파싱
         entries: list[tuple[str, str]] = []  # (stamp, body_text)
@@ -658,7 +658,7 @@ def update_theme_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, 
 
         entries = [(s, b) for s, b in entries if s != stamp]  # 같은 회차 재실행 시 교체
         entries.insert(0, (stamp, text))
-        entries = entries[:_THEME_BRIEF_MAX_ENTRIES]
+        entries = entries[:_TOPIC_BRIEF_MAX_ENTRIES]
 
         label = topic_label(cfg, str(key))
         lines = [
@@ -867,11 +867,11 @@ def main() -> int:
     if emerging:
         print(f"   suggested_topics 갱신: {len(emerging)} 신규 토픽")
 
-    # theme briefs (토픽별 동향 요약 — agent topic_briefs)
+    # topic briefs (토픽별 동향 요약 — agent topic_briefs)
     briefs: dict = evaluations_data.get("topic_briefs") or {}
-    n_briefs = update_theme_briefs(briefs, run_id, now_kst, cfg)
+    n_briefs = update_topic_briefs(briefs, run_id, now_kst, cfg)
     if n_briefs:
-        print(f"   theme briefs: {n_briefs}개 토픽 갱신 → news/themes/")
+        print(f"   topic briefs: {n_briefs}개 토픽 갱신 → news/topics/")
 
     # validate.py 호출
     validate_errors = 0
