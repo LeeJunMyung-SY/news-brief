@@ -1,4 +1,4 @@
-import { loadManifest, loadDigest, loadArticle, loadWeekly, loadThemeIndex, loadThemeBrief, peekArticleFrontmatter } from "./data.js";
+import { loadManifest, loadDigest, loadArticle, loadWeekly, loadTopicIndex, loadTopicBrief, peekArticleFrontmatter } from "./data.js";
 import { renderMarkdown, escapeHtml } from "./parser.js";
 const renderAdmin = () => {}; const leaveAdmin = () => {};
 
@@ -102,14 +102,14 @@ const THEME_CYCLE = ["auto", "dark", "light"];
 // ─────────── State ───────────
 const state = {
   manifest: null,
-  view: "daily",            // 'daily' | 'weekly' | 'themes' | 'theme' | 'admin'
+  view: "daily",            // 'daily' | 'weekly' | 'topics' | 'topic' | 'admin'
   date: null,
   digests: [],              // all runs of the day, merged for display
   weekly: null,
   weeklySections: null,     // [{ label, articles: [{ title, articleFile, sourceUrl, summary, tags, dateBadge, topicKey, importance }] }]
-  themeIndex: null,         // news/theme_index.json — { topics: [{key,label,count,latest_date}], articles: {key: [...]} }
-  themeKey: null,           // 현재 열람 중인 테마(=토픽) key
-  themeBrief: null,         // news/themes/<key>.md — { frontmatter, body } | null
+  topicIndex: null,         // news/topic_index.json — { topics: [{key,label,count,latest_date}], articles: {key: [...]} }
+  topicKey: null,           // 현재 열람 중인 토픽 key
+  topicBrief: null,         // news/topics/<key>.md — { frontmatter, body } | null
   selectedTopics: new Set(),
   activeTags: new Set(),
   tagQuery: "",
@@ -239,20 +239,21 @@ async function routeFromHash() {
     state.date = null;
     if (!weekId) return showEmpty("주간 디지스트가 없습니다.");
     await openWeekly(weekId);
-  } else if (head === "themes") {
-    state.view = "themes";
+  } else if (head === "topics" || head === "themes") {
+    // "themes" 는 구 URL 하위 호환 alias
+    state.view = "topics";
     state.date = null;
-    await openThemesList();
-  } else if (head === "theme") {
-    // #/theme/<key> — key 는 한글·공백 가능 (URL 인코딩됨)
+    await openTopicsList();
+  } else if (head === "topic" || head === "theme") {
+    // #/topic/<key> — key 는 한글·공백 가능 (URL 인코딩됨). "theme" 는 구 URL alias.
     const key = decodeURIComponent(parts.slice(1).join("/"));
-    state.view = "theme";
+    state.view = "topic";
     state.date = null;
     if (!key) {
-      setHash(["themes"], { replace: true });
+      setHash(["topics"], { replace: true });
       return;
     }
-    await openThemeDetail(key);
+    await openTopicDetail(key);
   } else if (head === "article") {
     // #/article/<date>/<articleFile-no-md>
     const date = parts[1];
@@ -289,10 +290,10 @@ function renderHeader() {
   }
   const dateLabel = state.view === "weekly"
     ? state.weekly?.frontmatter?.iso_week || "주간"
-    : state.view === "themes"
-    ? "테마"
-    : state.view === "theme"
-    ? (TOPIC_LABELS[state.themeKey] || state.themeKey || "테마")
+    : state.view === "topics"
+    ? "토픽"
+    : state.view === "topic"
+    ? (TOPIC_LABELS[state.topicKey] || state.topicKey || "토픽")
     : (state.date || "—");
   setText(bind("current-date"), dateLabel);
   const sub = bind("current-run");
@@ -303,8 +304,8 @@ function renderHeader() {
   } else if (state.view === "weekly") {
     const fm = state.weekly?.frontmatter || {};
     sub.textContent = fm.week_start && fm.week_end ? `${fm.week_start} ~ ${fm.week_end}` : "";
-  } else if (state.view === "theme") {
-    const t = (state.themeIndex?.topics || []).find((x) => x.key === state.themeKey);
+  } else if (state.view === "topic") {
+    const t = (state.topicIndex?.topics || []).find((x) => x.key === state.topicKey);
     sub.textContent = t ? `${t.count}건 누적` : "";
   } else {
     sub.textContent = "";
@@ -313,10 +314,10 @@ function renderHeader() {
 
 function renderViewToggle() {
   $$('.seg').forEach((btn) => {
-    // In admin mode neither tab is selected. 테마 상세(view=theme)는 "테마" 탭 활성.
+    // In admin mode neither tab is selected. 토픽 상세(view=topic)는 "토픽" 탭 활성.
     const active = state.view !== "admin" &&
       (btn.dataset.view === state.view ||
-        (btn.dataset.view === "themes" && state.view === "theme"));
+        (btn.dataset.view === "topics" && state.view === "topic"));
     btn.setAttribute("aria-selected", active ? "true" : "false");
   });
 }
@@ -416,9 +417,9 @@ function buildTagChip(rawTag, removable) {
 }
 
 function toggleTopic(key) {
-  // 테마 뷰에서는 사이드바 토픽 = 테마 네비게이션으로 동작.
-  if (state.view === "themes" || state.view === "theme") {
-    setHash(["theme", encodeURIComponent(key)], { tag: state.activeTags });
+  // 토픽 뷰에서는 사이드바 토픽 = 토픽 네비게이션으로 동작.
+  if (state.view === "topics" || state.view === "topic") {
+    setHash(["topic", encodeURIComponent(key)], { tag: state.activeTags });
     return;
   }
   if (state.selectedTopics.has(key)) state.selectedTopics.delete(key);
@@ -451,8 +452,8 @@ function clearFilters() {
 
 function countArticlesByTopic() {
   const counts = { llm_models: 0, ai_agents: 0, ai_policy: 0, ai_industry: 0 };
-  if (state.view === "themes" || state.view === "theme") {
-    (state.themeIndex?.topics || []).forEach((t) => { counts[t.key] = t.count; });
+  if (state.view === "topics" || state.view === "topic") {
+    (state.topicIndex?.topics || []).forEach((t) => { counts[t.key] = t.count; });
     return counts;
   }
   if (state.view === "weekly") {
@@ -483,10 +484,10 @@ function topPopularTags(limit) {
   };
   if (state.view === "weekly") {
     state.weeklySections?.forEach((sec) => sec.articles.forEach((a) => collect(a.tags)));
-  } else if (state.view === "theme") {
-    (state.themeIndex?.articles?.[state.themeKey] || []).forEach((a) => collect(a.tags));
-  } else if (state.view === "themes") {
-    // 테마 목록에서는 태그 제안 생략
+  } else if (state.view === "topic") {
+    (state.topicIndex?.articles?.[state.topicKey] || []).forEach((a) => collect(a.tags));
+  } else if (state.view === "topics") {
+    // 토픽 목록에서는 태그 제안 생략
   } else {
     mergedSections().forEach((sec) => sec.articles.forEach((a) => collect(a.tags)));
   }
@@ -562,8 +563,8 @@ function mergedSections() {
 
 function renderMain() {
   if (state.view === "weekly") return renderWeekly();
-  if (state.view === "themes") return renderThemesList();
-  if (state.view === "theme") return renderThemeDetail();
+  if (state.view === "topics") return renderTopicsList();
+  if (state.view === "topic") return renderTopicDetail();
   const root = bind("content");
   if (!state.digests.length) return;
 
@@ -1121,23 +1122,23 @@ function hydrateWeeklyImportance(root) {
   });
 }
 
-// ─────────── Theme (토픽=테마 집계) render ───────────
-async function openThemesList() {
+// ─────────── Topic (토픽 집계) render ───────────
+async function openTopicsList() {
   showSkeleton();
   try {
-    state.themeIndex = await loadThemeIndex();
+    state.topicIndex = await loadTopicIndex();
   } catch (err) {
     console.error(err);
     showFatalError(err);
     return;
   }
-  renderThemesList();
+  renderTopicsList();
 }
 
-function renderThemesList() {
+function renderTopicsList() {
   const root = bind("content");
   if (!root) return;
-  const topics = (state.themeIndex?.topics || []).filter((t) => t.count > 0);
+  const topics = (state.topicIndex?.topics || []).filter((t) => t.count > 0);
   root.innerHTML = "";
 
   const total = topics.reduce((n, t) => n + t.count, 0);
@@ -1145,11 +1146,11 @@ function renderThemesList() {
   meta.className = "meta-card";
   meta.innerHTML = `
     <div class="head">
-      <div class="title">테마별 모아보기</div>
+      <div class="title">토픽별 모아보기</div>
       <div class="note">토픽 단위 누적 아카이브</div>
     </div>
     <div class="stats-line">
-      <span><strong>${topics.length}</strong> 테마</span>
+      <span><strong>${topics.length}</strong> 토픽</span>
       <span class="sep">·</span>
       <span><strong>${total.toLocaleString()}</strong> 기사 링크</span>
     </div>
@@ -1157,22 +1158,22 @@ function renderThemesList() {
   root.appendChild(meta);
 
   if (!topics.length) {
-    root.appendChild(emptyEl("테마 인덱스가 비어 있습니다. build_manifest.py 실행 후 새로고침하세요.", false));
+    root.appendChild(emptyEl("토픽 인덱스가 비어 있습니다. build_manifest.py 실행 후 새로고침하세요.", false));
     return;
   }
 
   const grid = document.createElement("div");
-  grid.className = "theme-grid";
+  grid.className = "topic-grid";
   topics.forEach((t) => {
     const card = document.createElement("a");
-    card.className = "card theme-card has-topic";
+    card.className = "card topic-card has-topic";
     setTopicColor(card, t.key);
-    card.href = `#/theme/${encodeURIComponent(t.key)}`;
+    card.href = `#/topic/${encodeURIComponent(t.key)}`;
     card.innerHTML = `
       <div class="card-head">
         <h3 class="card-title">${escapeHtml(TOPIC_LONG_LABELS[t.key] || t.label || t.key)}</h3>
       </div>
-      <div class="theme-card-stats">
+      <div class="topic-card-stats">
         <span class="count">${t.count}</span>
         <span class="sub">건 누적 · 최근 ${escapeHtml(t.latest_date || "—")}</span>
       </div>
@@ -1182,23 +1183,23 @@ function renderThemesList() {
   root.appendChild(grid);
 }
 
-async function openThemeDetail(key) {
+async function openTopicDetail(key) {
   showSkeleton();
   try {
-    if (!state.themeIndex) state.themeIndex = await loadThemeIndex();
-    state.themeKey = key;
-    state.themeBrief = await loadThemeBrief(key); // 없으면 null (기사 목록만 표시)
+    if (!state.topicIndex) state.topicIndex = await loadTopicIndex();
+    state.topicKey = key;
+    state.topicBrief = await loadTopicBrief(key); // 없으면 null (기사 목록만 표시)
   } catch (err) {
     console.error(err);
     showFatalError(err);
     return;
   }
-  renderThemeDetail();
+  renderTopicDetail();
   renderHeader();
   renderSidebar();
 }
 
-function themeArticlePassesFilters(it) {
+function topicArticlePassesFilters(it) {
   const tagSet = new Set([...state.activeTags].map((t) => t.toLowerCase()));
   const tagSubstr = state.tagQuery.trim().toLowerCase().replace(/^#+/, "");
   const tags = (it.tags || []).map((t) => String(t).replace(/^#+/, "").toLowerCase());
@@ -1207,12 +1208,12 @@ function themeArticlePassesFilters(it) {
   return true;
 }
 
-function renderThemeDetail() {
+function renderTopicDetail() {
   const root = bind("content");
   if (!root) return;
-  const key = state.themeKey;
-  const entry = (state.themeIndex?.topics || []).find((t) => t.key === key);
-  const items = state.themeIndex?.articles?.[key] || [];
+  const key = state.topicKey;
+  const entry = (state.topicIndex?.topics || []).find((t) => t.key === key);
+  const items = state.topicIndex?.articles?.[key] || [];
   root.innerHTML = "";
 
   const label = TOPIC_LONG_LABELS[key] || entry?.label || key;
@@ -1223,7 +1224,7 @@ function renderThemeDetail() {
   meta.innerHTML = `
     <div class="head">
       <div class="title">${escapeHtml(label)}</div>
-      <div class="note"><a href="#/themes" class="link-btn">← 테마 목록</a></div>
+      <div class="note"><a href="#/topics" class="link-btn">← 토픽 목록</a></div>
     </div>
     <div class="stats-line">
       <span><strong>${items.length}</strong> 기사</span>
@@ -1233,18 +1234,18 @@ function renderThemeDetail() {
   `;
   root.appendChild(meta);
 
-  // 종합 동향 (agent topic_briefs → news/themes/<key>.md). H1은 메타카드와 중복이라 제거.
-  if (state.themeBrief?.body) {
+  // 종합 동향 (agent topic_briefs → news/topics/<key>.md). H1은 메타카드와 중복이라 제거.
+  if (state.topicBrief?.body) {
     const briefEl = document.createElement("section");
-    briefEl.className = "theme-bullet prose-ko theme-brief";
-    const md = state.themeBrief.body.replace(/^#\s+.*$/m, "").trim();
+    briefEl.className = "theme-bullet prose-ko topic-brief";
+    const md = state.topicBrief.body.replace(/^#\s+.*$/m, "").trim();
     briefEl.innerHTML = `<h2>종합 동향</h2>` + renderMarkdown(md);
     root.appendChild(briefEl);
   }
 
-  const filtered = items.filter(themeArticlePassesFilters);
+  const filtered = items.filter(topicArticlePassesFilters);
   if (!filtered.length) {
-    root.appendChild(emptyEl(items.length ? "필터 조건에 맞는 기사가 없습니다." : "아직 이 테마로 분류된 기사가 없습니다. 다음 회차부터 축적됩니다.", items.length > 0));
+    root.appendChild(emptyEl(items.length ? "필터 조건에 맞는 기사가 없습니다." : "아직 이 토픽으로 분류된 기사가 없습니다. 다음 회차부터 축적됩니다.", items.length > 0));
     bindArticleLinks(root);
     return;
   }
@@ -1273,7 +1274,7 @@ function renderThemeDetail() {
         summary: "",
         tags: it.tags || [],
       }, key, { badge: it.source || "", articleDate: it.date });
-      // importance 는 theme_index 에 이미 있으므로 즉시 채움 (frontmatter fetch 불필요)
+      // importance 는 topic_index 에 이미 있으므로 즉시 채움 (frontmatter fetch 불필요)
       if (it.importance != null) {
         const slot = card.querySelector("[data-importance-slot]");
         if (slot) {
@@ -1501,8 +1502,8 @@ function attachGlobalListeners() {
         const week = state.manifest.weekly?.[0]?.week;
         if (!week) return;
         setHash(["weekly", week]);
-      } else if (view === "themes") {
-        setHash(["themes"]);
+      } else if (view === "topics") {
+        setHash(["topics"]);
       } else {
         setHash([state.date || state.manifest.latest_date]);
       }
@@ -1527,7 +1528,7 @@ function attachGlobalListeners() {
 
 function navigateDate(dir) {
   // dir < 0 (`[`): older. dir > 0 (`]`): newer.
-  if (state.view === "themes" || state.view === "theme" || state.view === "admin") return;
+  if (state.view === "topics" || state.view === "topic" || state.view === "admin") return;
   if (state.view === "weekly") {
     // weekly view: 이전/다음 주로 이동 (publish-visualizer Cycle #2 weekly-view-period-picker)
     const weeks = (state.manifest.weekly || []).map((w) => w.week);
@@ -1555,7 +1556,7 @@ function goToLatest() {
 function openCalendar() {
   const input = $("#calendar-input");
   if (!input) return;
-  if (state.view === "themes" || state.view === "theme" || state.view === "admin") return;
+  if (state.view === "topics" || state.view === "topic" || state.view === "admin") return;
 
   if (state.view === "weekly") {
     // weekly view: input type 을 "week" 로 전환해 주(period) 단위 셀렉터로 동작

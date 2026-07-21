@@ -600,38 +600,38 @@ input, select, textarea { font: inherit; color: inherit; }
 }
 .theme-bullet h2 { margin-top: 0; }
 
-/* ─────────── Theme (토픽=테마) 집계 뷰 ─────────── */
-.theme-grid {
+/* ─────────── Topic (토픽) 집계 뷰 ─────────── */
+.topic-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
   gap: 10px;
   margin-top: 12px;
 }
-.theme-card {
+.topic-card {
   display: block;
   text-decoration: none;
   color: inherit;
 }
-.theme-card .card-title { font-size: 14px; }
-.theme-card-stats {
+.topic-card .card-title { font-size: 14px; }
+.topic-card-stats {
   display: flex;
   align-items: baseline;
   gap: 4px;
   margin-top: 8px;
 }
-.theme-card-stats .count {
+.topic-card-stats .count {
   font-size: 20px;
   font-weight: 650;
   color: var(--topic-fg, var(--text-primary));
 }
-.theme-card-stats .sub { font-size: 12px; color: var(--text-secondary); }
-.theme-brief h3 {
+.topic-card-stats .sub { font-size: 12px; color: var(--text-secondary); }
+.topic-brief h3 {
   font-size: 12px;
   color: var(--text-secondary);
   font-weight: 600;
   margin: 10px 0 2px;
 }
-.theme-brief h3 + p { margin-top: 2px; }
+.topic-brief h3 + p { margin-top: 2px; }
 
 /* ─────────── Drawer (mobile filters) ─────────── */
 .drawer-backdrop {
