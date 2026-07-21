@@ -17,6 +17,7 @@ docs/
 # Editor / IDE
 .claude/
 .bkit/
+.omc/
 
 # 운영 데이터 (publish-visualizer Plan §6.2 비공개 분류)
 feedback/
