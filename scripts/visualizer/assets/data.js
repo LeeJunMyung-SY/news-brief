@@ -81,6 +81,33 @@ export async function peekArticleFrontmatter(date, articleFile) {
   }
 }
 
+export async function loadThemeIndex() {
+  // manifest 와 동일하게 캐시 회피 — 회차마다 재생성되는 파일.
+  const path = `${NEWS_BASE}/theme_index.json?t=${Date.now()}`;
+  const res = await fetch(path, { cache: "no-store" });
+  if (!res.ok) {
+    const err = new Error(`theme_index.json ${res.status}`);
+    err.status = res.status;
+    err.path = path;
+    throw err;
+  }
+  return res.json();
+}
+
+export async function loadThemeBrief(key) {
+  // 토픽별 동향 요약 md. 아직 생성되지 않은 테마는 null (페이지는 기사 목록만 표시).
+  const path = `${NEWS_BASE}/themes/${encodeURIComponent(key)}.md?t=${Date.now()}`;
+  try {
+    const res = await fetch(path, { cache: "no-store" });
+    if (!res.ok) return null;
+    const text = await res.text();
+    const { frontmatter, body } = parseFrontmatter(text);
+    return { frontmatter, body };
+  } catch {
+    return null;
+  }
+}
+
 export async function loadWeekly(file) {
   // weekly md 는 routine 매 사이클마다 갱신 (토픽 섹션 재생성) → manifest 와
   // 동일하게 캐시 회피. sessionStorage 캐시에 갇혀 stale 본문이 영구 사용되는 문제 방지.

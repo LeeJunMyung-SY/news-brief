@@ -520,6 +520,7 @@ function renderFeeds(body, saveBtn) {
         { key: "name", label: "name" },
         { key: "url",  label: "url" },
         { key: "lang", label: "lang", placeholder: "ko 또는 en" },
+        { key: "keywords", label: "keywords", placeholder: "AI 필터 키워드 (콤마 구분, 비우면 전체 수집)" },
       ].forEach((f) => {
         const row = document.createElement("div");
         row.className = "row";

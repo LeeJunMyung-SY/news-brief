@@ -24,6 +24,7 @@ except Exception:  # noqa: BLE001
 REPO_ROOT = Path(__file__).resolve().parents[2]
 NEWS_DIR = REPO_ROOT / "news"
 MANIFEST_PATH = NEWS_DIR / "manifest.json"
+THEME_INDEX_PATH = NEWS_DIR / "theme_index.json"
 CONFIG_PATH = REPO_ROOT / "config" / "config.yaml"
 
 DATE_DIR_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -210,6 +211,74 @@ def collect_topics() -> list[dict]:
     return out
 
 
+def collect_theme_index(topics: list[dict]) -> dict:
+    """news/*/articles/*.md frontmatter 전수 스캔 → 토픽(=테마)별 기사 인덱스.
+
+    Returns:
+      {
+        "topics": [{key, label, count, latest_date}],   # config 토픽 순서 우선
+        "articles": {key: [{date, file, title, importance, tags, source}]}
+      }
+
+    비고: config 에 없는 과거 토픽 key(기사 frontmatter 에만 남은 것)도 뒤에 포함해
+    아카이브 열람이 끊기지 않게 한다. description 은 기존 방침대로 비노출.
+    """
+    articles_by_topic: dict[str, list[dict]] = {}
+    for entry in sorted(NEWS_DIR.iterdir()):
+        if not entry.is_dir() or not DATE_DIR_RE.match(entry.name):
+            continue
+        adir = entry / "articles"
+        if not adir.is_dir():
+            continue
+        for path in sorted(adir.glob("*.md")):
+            try:
+                meta, _ = split_frontmatter(path.read_text(encoding="utf-8"))
+            except OSError as exc:
+                print(f"[warn] cannot read {path}: {exc}", file=sys.stderr)
+                continue
+            user_topics = meta.get("user_topics") or []
+            if not isinstance(user_topics, list):
+                continue
+            item = {
+                "date": entry.name,
+                "file": path.name,
+                "title": meta.get("title"),
+                "importance": meta.get("importance_score"),
+                "tags": meta.get("auto_tags") or [],
+                "source": meta.get("source"),
+                "url": meta.get("url"),
+            }
+            for t in user_topics:
+                key = str(t)
+                if key:
+                    articles_by_topic.setdefault(key, []).append(item)
+
+    # 날짜 desc → importance desc 정렬
+    for items in articles_by_topic.values():
+        items.sort(key=lambda x: (x["date"], x.get("importance") or 0), reverse=True)
+
+    known = {t["key"] for t in topics}
+    topics_out: list[dict] = []
+    for t in topics:
+        items = articles_by_topic.get(t["key"], [])
+        topics_out.append({
+            "key": t["key"],
+            "label": t["label"],
+            "count": len(items),
+            "latest_date": items[0]["date"] if items else None,
+        })
+    for key in sorted(articles_by_topic):
+        if key not in known:
+            items = articles_by_topic[key]
+            topics_out.append({
+                "key": key,
+                "label": key,
+                "count": len(items),
+                "latest_date": items[0]["date"],
+            })
+    return {"topics": topics_out, "articles": articles_by_topic}
+
+
 def collect_weekly() -> list[dict]:
     weekly_dir = NEWS_DIR / "weekly"
     if not weekly_dir.exists():
@@ -241,6 +310,13 @@ def main() -> int:
     daily = collect_daily()
     weekly = collect_weekly()
     topics = collect_topics()
+    theme_index = collect_theme_index(topics)
+
+    # manifest.topics 에 count 부여 (뷰어 네비 배지용)
+    counts = {t["key"]: t["count"] for t in theme_index["topics"]}
+    for t in topics:
+        t["count"] = counts.get(t["key"], 0)
+
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "latest_date": daily[0]["date"] if daily else None,
@@ -252,9 +328,22 @@ def main() -> int:
         json.dumps(payload, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
     )
+    theme_payload = {
+        "generated_at": payload["generated_at"],
+        **theme_index,
+    }
+    THEME_INDEX_PATH.write_text(
+        json.dumps(theme_payload, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    total_indexed = sum(t["count"] for t in theme_index["topics"])
     print(
         f"wrote {MANIFEST_PATH.relative_to(REPO_ROOT)} "
         f"(daily={len(daily)}, weekly={len(weekly)})"
+    )
+    print(
+        f"wrote {THEME_INDEX_PATH.relative_to(REPO_ROOT)} "
+        f"(topics={len(theme_index['topics'])}, article-links={total_indexed})"
     )
     return 0
 

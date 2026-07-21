@@ -1,37 +1,887 @@
 {
-  "generated_at": "2026-05-08T07:44:07+00:00",
-  "latest_date": "2026-05-08",
+  "generated_at": "2026-07-21T07:08:51+00:00",
+  "latest_date": "2026-07-21",
   "topics": [
     {
       "key": "llm_models",
-      "label": "Large Language Models and Foundation Models"
+      "label": "Large Language Models and Foundation Models",
+      "count": 392
     },
     {
       "key": "ai_agents",
-      "label": "AI Agents and Autonomous Systems"
+      "label": "AI Agents and Autonomous Systems",
+      "count": 399
     },
     {
       "key": "ai_policy",
-      "label": "AI Policy, Regulation and Safety"
+      "label": "AI Policy, Regulation and Safety",
+      "count": 425
     },
     {
       "key": "ai_industry",
-      "label": "AI Industry and Business"
+      "label": "AI Industry and Business",
+      "count": 878
     },
     {
       "key": "physical_ai_robotics",
-      "label": "Physical Ai Robotics"
+      "label": "Physical Ai Robotics",
+      "count": 134
     },
     {
       "key": "ai_compute_energy",
-      "label": "Ai Compute Energy"
+      "label": "Ai Compute Energy",
+      "count": 186
     },
     {
       "key": "금융회사 AI",
-      "label": "국내외 금융회사 AI"
+      "label": "국내외 금융회사 AI",
+      "count": 55
+    },
+    {
+      "key": "physical_ai",
+      "label": "Physical Ai",
+      "count": 41
     }
   ],
   "daily": [
+    {
+      "date": "2026-07-21",
+      "runs": [
+        {
+          "time": "08:28",
+          "file": "digest_0828.md",
+          "selected": 15,
+          "new": 134
+        },
+        {
+          "time": "12:20",
+          "file": "digest_1220.md",
+          "selected": 11,
+          "new": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "runs": [
+        {
+          "time": "08:40",
+          "file": "digest_0840.md",
+          "selected": 20,
+          "new": 276
+        },
+        {
+          "time": "12:18",
+          "file": "digest_1218.md",
+          "selected": 4,
+          "new": 99
+        },
+        {
+          "time": "16:19",
+          "file": "digest_1619.md",
+          "selected": 8,
+          "new": 108
+        }
+      ]
+    },
+    {
+      "date": "2026-07-14",
+      "runs": [
+        {
+          "time": "08:26",
+          "file": "digest_0826.md",
+          "selected": 13,
+          "new": 144
+        },
+        {
+          "time": "12:19",
+          "file": "digest_1219.md",
+          "selected": 7,
+          "new": 92
+        },
+        {
+          "time": "16:22",
+          "file": "digest_1622.md",
+          "selected": 6,
+          "new": 99
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "runs": [
+        {
+          "time": "08:17",
+          "file": "digest_0817.md",
+          "selected": 7,
+          "new": 61
+        },
+        {
+          "time": "12:20",
+          "file": "digest_1220.md",
+          "selected": 7,
+          "new": 101
+        },
+        {
+          "time": "16:19",
+          "file": "digest_1619.md",
+          "selected": 10,
+          "new": 92
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "runs": [
+        {
+          "time": "08:16",
+          "file": "digest_0816.md",
+          "selected": 8,
+          "new": 54
+        },
+        {
+          "time": "12:18",
+          "file": "digest_1218.md",
+          "selected": 7,
+          "new": 77
+        },
+        {
+          "time": "16:17",
+          "file": "digest_1617.md",
+          "selected": 5,
+          "new": 65
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "runs": [
+        {
+          "time": "08:21",
+          "file": "digest_0821.md",
+          "selected": 17,
+          "new": 119
+        },
+        {
+          "time": "12:17",
+          "file": "digest_1217.md",
+          "selected": 8,
+          "new": 53
+        },
+        {
+          "time": "16:11",
+          "file": "digest_1611.md",
+          "selected": 5,
+          "new": 10
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "runs": [
+        {
+          "time": "08:26",
+          "file": "digest_0826.md",
+          "selected": 15,
+          "new": 158
+        },
+        {
+          "time": "12:19",
+          "file": "digest_1219.md",
+          "selected": 5,
+          "new": 93
+        },
+        {
+          "time": "16:20",
+          "file": "digest_1620.md",
+          "selected": 5,
+          "new": 103
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "runs": [
+        {
+          "time": "08:28",
+          "file": "digest_0828.md",
+          "selected": 16,
+          "new": 150
+        },
+        {
+          "time": "13:38",
+          "file": "digest_1338.md",
+          "selected": 3,
+          "new": 99
+        },
+        {
+          "time": "16:21",
+          "file": "digest_1621.md",
+          "selected": 6,
+          "new": 99
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "runs": [
+        {
+          "time": "08:33",
+          "file": "digest_0833.md",
+          "selected": 15,
+          "new": 254
+        },
+        {
+          "time": "12:22",
+          "file": "digest_1222.md",
+          "selected": 7,
+          "new": 100
+        },
+        {
+          "time": "16:23",
+          "file": "digest_1623.md",
+          "selected": 6,
+          "new": 105
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "runs": [
+        {
+          "time": "08:18",
+          "file": "digest_0818.md",
+          "selected": 11,
+          "new": 80
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "runs": [
+        {
+          "time": "08:15",
+          "file": "digest_0815.md",
+          "selected": 7,
+          "new": 47
+        },
+        {
+          "time": "12:17",
+          "file": "digest_1217.md",
+          "selected": 6,
+          "new": 68
+        },
+        {
+          "time": "16:15",
+          "file": "digest_1615.md",
+          "selected": 4,
+          "new": 58
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "runs": [
+        {
+          "time": "08:19",
+          "file": "digest_0819.md",
+          "selected": 12,
+          "new": 114
+        },
+        {
+          "time": "12:13",
+          "file": "digest_1213.md",
+          "selected": 4,
+          "new": 43
+        },
+        {
+          "time": "16:10",
+          "file": "digest_1610.md",
+          "selected": 3,
+          "new": 17
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "runs": [
+        {
+          "time": "10:05",
+          "file": "digest_1005.md",
+          "selected": 12,
+          "new": 165
+        },
+        {
+          "time": "13:13",
+          "file": "digest_1313.md",
+          "selected": 6,
+          "new": 101
+        },
+        {
+          "time": "16:30",
+          "file": "digest_1630.md",
+          "selected": 7,
+          "new": 91
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "runs": [
+        {
+          "time": "08:25",
+          "file": "digest_0825.md",
+          "selected": 11,
+          "new": 130
+        },
+        {
+          "time": "12:21",
+          "file": "digest_1221.md",
+          "selected": 4,
+          "new": 100
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "runs": [
+        {
+          "time": "08:22",
+          "file": "digest_0822.md",
+          "selected": 13,
+          "new": 150
+        },
+        {
+          "time": "13:13",
+          "file": "digest_1313.md",
+          "selected": 7,
+          "new": 118
+        },
+        {
+          "time": "16:27",
+          "file": "digest_1627.md",
+          "selected": 11,
+          "new": 93
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "runs": [
+        {
+          "time": "08:44",
+          "file": "digest_0844.md",
+          "selected": 15,
+          "new": 214
+        },
+        {
+          "time": "13:08",
+          "file": "digest_1308.md",
+          "selected": 3,
+          "new": 108
+        },
+        {
+          "time": "16:21",
+          "file": "digest_1621.md",
+          "selected": 5,
+          "new": 95
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "runs": [
+        {
+          "time": "10:23",
+          "file": "digest_1023.md",
+          "selected": 13,
+          "new": 227
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "runs": [
+        {
+          "time": "08:22",
+          "file": "digest_0822.md",
+          "selected": 18,
+          "new": 129
+        },
+        {
+          "time": "13:25",
+          "file": "digest_1325.md",
+          "selected": 12,
+          "new": 104
+        },
+        {
+          "time": "16:22",
+          "file": "digest_1622.md",
+          "selected": 7,
+          "new": 100
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "runs": [
+        {
+          "time": "09:00",
+          "file": "digest_0900.md",
+          "selected": 14,
+          "new": 148
+        },
+        {
+          "time": "13:28",
+          "file": "digest_1328.md",
+          "selected": 6,
+          "new": 112
+        },
+        {
+          "time": "16:29",
+          "file": "digest_1629.md",
+          "selected": 11,
+          "new": 97
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "runs": [
+        {
+          "time": "08:20",
+          "file": "digest_0820.md",
+          "selected": 13,
+          "new": 181
+        },
+        {
+          "time": "13:05",
+          "file": "digest_1305.md",
+          "selected": 5,
+          "new": 115
+        },
+        {
+          "time": "16:21",
+          "file": "digest_1621.md",
+          "selected": 10,
+          "new": 87
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "runs": [
+        {
+          "time": "08:20",
+          "file": "digest_0820.md",
+          "selected": 12,
+          "new": 139
+        },
+        {
+          "time": "13:17",
+          "file": "digest_1317.md",
+          "selected": 5,
+          "new": 97
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "runs": [
+        {
+          "time": "09:52",
+          "file": "digest_0952.md",
+          "selected": 13,
+          "new": 262
+        },
+        {
+          "time": "13:04",
+          "file": "digest_1304.md",
+          "selected": 7,
+          "new": 1066
+        },
+        {
+          "time": "16:22",
+          "file": "digest_1622.md",
+          "selected": 12,
+          "new": 94
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "runs": [
+        {
+          "time": "08:14",
+          "file": "digest_0814.md",
+          "selected": 18,
+          "new": 219
+        },
+        {
+          "time": "12:16",
+          "file": "digest_1216.md",
+          "selected": 6,
+          "new": 84
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "runs": [
+        {
+          "time": "08:45",
+          "file": "digest_0845.md",
+          "selected": 14,
+          "new": 192
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "runs": [
+        {
+          "time": "13:00",
+          "file": "digest_1300.md",
+          "selected": 16,
+          "new": 189
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "runs": [
+        {
+          "time": "10:27",
+          "file": "digest_1027.md",
+          "selected": 23,
+          "new": 287
+        },
+        {
+          "time": "13:11",
+          "file": "digest_1311.md",
+          "selected": 5,
+          "new": 90
+        }
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "runs": [
+        {
+          "time": "08:05",
+          "file": "digest_0805.md",
+          "selected": 20,
+          "new": 632
+        },
+        {
+          "time": "08:13",
+          "file": "digest_0813.md",
+          "selected": 8,
+          "new": 632
+        },
+        {
+          "time": "08:16",
+          "file": "digest_0816.md",
+          "selected": 0,
+          "new": 4
+        },
+        {
+          "time": "13:09",
+          "file": "digest_1309.md",
+          "selected": 2,
+          "new": 62
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "runs": [
+        {
+          "time": "08:18",
+          "file": "digest_0818.md",
+          "selected": 23,
+          "new": 506
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "runs": [
+        {
+          "time": "10:59",
+          "file": "digest_1059.md",
+          "selected": 20,
+          "new": 227
+        },
+        {
+          "time": "12:16",
+          "file": "digest_1216.md",
+          "selected": 4,
+          "new": 75
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "runs": [
+        {
+          "time": "09:34",
+          "file": "digest_0934.md",
+          "selected": 19,
+          "new": 691
+        },
+        {
+          "time": "12:18",
+          "file": "digest_1218.md",
+          "selected": 8,
+          "new": 95
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "runs": [
+        {
+          "time": "08:48",
+          "file": "digest_0848.md",
+          "selected": 23,
+          "new": 588
+        },
+        {
+          "time": "08:51",
+          "file": "digest_0851.md",
+          "selected": 0,
+          "new": 15
+        },
+        {
+          "time": "13:17",
+          "file": "digest_1317.md",
+          "selected": 10,
+          "new": 86
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "runs": [
+        {
+          "time": "08:43",
+          "file": "digest_0843.md",
+          "selected": 24,
+          "new": 851
+        },
+        {
+          "time": "12:17",
+          "file": "digest_1217.md",
+          "selected": 7,
+          "new": 99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "runs": [
+        {
+          "time": "07:04",
+          "file": "digest_0704.md",
+          "selected": 23,
+          "new": 480
+        },
+        {
+          "time": "07:17",
+          "file": "digest_0717.md",
+          "selected": 9,
+          "new": 480
+        },
+        {
+          "time": "08:13",
+          "file": "digest_0813.md",
+          "selected": 1,
+          "new": 7
+        },
+        {
+          "time": "12:18",
+          "file": "digest_1218.md",
+          "selected": 9,
+          "new": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "runs": [
+        {
+          "time": "12:34",
+          "file": "digest_1234.md",
+          "selected": 19,
+          "new": 538
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "runs": [
+        {
+          "time": "09:17",
+          "file": "digest_0917.md",
+          "selected": 21,
+          "new": 597
+        },
+        {
+          "time": "12:15",
+          "file": "digest_1215.md",
+          "selected": 6,
+          "new": 95
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "runs": [
+        {
+          "time": "08:57",
+          "file": "digest_0857.md",
+          "selected": 19,
+          "new": 219
+        },
+        {
+          "time": "12:15",
+          "file": "digest_1215.md",
+          "selected": 10,
+          "new": 918
+        }
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "runs": [
+        {
+          "time": "09:02",
+          "file": "digest_0902.md",
+          "selected": 16,
+          "new": 472
+        },
+        {
+          "time": "12:21",
+          "file": "digest_1221.md",
+          "selected": 7,
+          "new": 105
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "runs": [
+        {
+          "time": "09:04",
+          "file": "digest_0904.md",
+          "selected": 21,
+          "new": 238
+        },
+        {
+          "time": "12:18",
+          "file": "digest_1218.md",
+          "selected": 7,
+          "new": 93
+        }
+      ]
+    },
+    {
+      "date": "2026-05-15",
+      "runs": [
+        {
+          "time": "08:35",
+          "file": "digest_0835.md",
+          "selected": 20,
+          "new": 574
+        },
+        {
+          "time": "12:20",
+          "file": "digest_1220.md",
+          "selected": 8,
+          "new": 99
+        }
+      ]
+    },
+    {
+      "date": "2026-05-14",
+      "runs": [
+        {
+          "time": "08:24",
+          "file": "digest_0824.md",
+          "selected": 26,
+          "new": 684
+        },
+        {
+          "time": "12:19",
+          "file": "digest_1219.md",
+          "selected": 7,
+          "new": 112
+        }
+      ]
+    },
+    {
+      "date": "2026-05-13",
+      "runs": [
+        {
+          "time": "08:39",
+          "file": "digest_0839.md",
+          "selected": 17,
+          "new": 1171
+        },
+        {
+          "time": "12:16",
+          "file": "digest_1216.md",
+          "selected": 6,
+          "new": 111
+        }
+      ]
+    },
+    {
+      "date": "2026-05-12",
+      "runs": [
+        {
+          "time": "08:30",
+          "file": "digest_0830.md",
+          "selected": 15,
+          "new": 621
+        },
+        {
+          "time": "12:16",
+          "file": "digest_1216.md",
+          "selected": 4,
+          "new": 115
+        }
+      ]
+    },
+    {
+      "date": "2026-05-11",
+      "runs": [
+        {
+          "time": "08:19",
+          "file": "digest_0819.md",
+          "selected": 15,
+          "new": 109
+        },
+        {
+          "time": "12:16",
+          "file": "digest_1216.md",
+          "selected": 7,
+          "new": 100
+        }
+      ]
+    },
+    {
+      "date": "2026-05-10",
+      "runs": [
+        {
+          "time": "12:20",
+          "file": "digest_1220.md",
+          "selected": 20,
+          "new": 706
+        }
+      ]
+    },
     {
       "date": "2026-05-08",
       "runs": [
@@ -240,11 +1090,81 @@
   ],
   "weekly": [
     {
+      "week": "2026-W30",
+      "file": "2026-W30.md",
+      "week_start": "2026-07-20",
+      "week_end": "2026-07-26",
+      "total_selected_this_week": 147
+    },
+    {
+      "week": "2026-W29",
+      "file": "2026-W29.md",
+      "week_start": "2026-07-13",
+      "week_end": "2026-07-19",
+      "total_selected_this_week": 93
+    },
+    {
+      "week": "2026-W28",
+      "file": "2026-W28.md",
+      "week_start": "2026-07-06",
+      "week_end": "2026-07-12",
+      "total_selected_this_week": 213
+    },
+    {
+      "week": "2026-W27",
+      "file": "2026-W27.md",
+      "week_start": "2026-06-29",
+      "week_end": "2026-07-05",
+      "total_selected_this_week": 226
+    },
+    {
+      "week": "2026-W26",
+      "file": "2026-W26.md",
+      "week_start": "2026-06-22",
+      "week_end": "2026-06-28",
+      "total_selected_this_week": 230
+    },
+    {
+      "week": "2026-W25",
+      "file": "2026-W25.md",
+      "week_start": "2026-06-15",
+      "week_end": "2026-06-21",
+      "total_selected_this_week": 0
+    },
+    {
+      "week": "2026-W23",
+      "file": "2026-W23.md",
+      "week_start": "2026-06-01",
+      "week_end": "2026-06-07",
+      "total_selected_this_week": 115
+    },
+    {
+      "week": "2026-W22",
+      "file": "2026-W22.md",
+      "week_start": "2026-05-25",
+      "week_end": "2026-05-31",
+      "total_selected_this_week": 264
+    },
+    {
+      "week": "2026-W21",
+      "file": "2026-W21.md",
+      "week_start": "2026-05-18",
+      "week_end": "2026-05-24",
+      "total_selected_this_week": 245
+    },
+    {
+      "week": "2026-W20",
+      "file": "2026-W20.md",
+      "week_start": "2026-05-11",
+      "week_end": "2026-05-17",
+      "total_selected_this_week": 266
+    },
+    {
       "week": "2026-W19",
       "file": "2026-W19.md",
       "week_start": "2026-05-04",
       "week_end": "2026-05-10",
-      "total_selected_this_week": 98
+      "total_selected_this_week": 139
     },
     {
       "week": "2026-W18",
