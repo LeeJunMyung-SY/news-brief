@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-21T08:39:09+00:00",
+  "generated_at": "2026-07-21T23:43:32+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 401,
-      "latest_date": "2026-07-21"
+      "count": 407,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 404,
-      "latest_date": "2026-07-21"
+      "count": 410,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 433,
-      "latest_date": "2026-07-21"
+      "count": 440,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 896,
-      "latest_date": "2026-07-21"
+      "count": 916,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 136,
-      "latest_date": "2026-07-21"
+      "count": 141,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 191,
-      "latest_date": "2026-07-21"
+      "count": 196,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 60,
-      "latest_date": "2026-07-21"
+      "count": 68,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 43,
-      "latest_date": "2026-07-21"
+      "count": 48,
+      "latest_date": "2026-07-22"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,94 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-22",
+        "file": "20260722-the-fed-rang-the-ala.md",
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#security",
+          "#safety-incident",
+          "#central-bank"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-capital-one-open-sou.md",
+        "title": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#open-source",
+          "#agent-framework",
+          "#security",
+          "#ai-adoption"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48126/capital-one-open-sources-vulnhunter-an-ai-security-tool-that-thinks-like-a-hacker?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-london-stock-exchang.md",
+        "title": "London Stock Exchange to launch new trading venue LSE 24",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#agentic-trading",
+          "#market-infrastructure",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110461/london-stock-exchange-to-launch-new-trading-venue-lse-24?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-natural-raises-30-mi.md",
+        "title": "Natural raises $30 million to build AI agent payments stack",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#payments",
+          "#agent-framework",
+          "#fintech",
+          "#agentic-commerce"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48127/natural-raises-30-million-to-build-ai-agent-payments-stack?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-공공-업무플랫폼-온ai-확산-속도-삼.md",
+        "title": "공공 업무플랫폼 '온AI' 확산 속도…삼성SDS·네이버, 47개 기관 놓고 경쟁",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#enterprise-ai",
+          "#korea",
+          "#competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260721000259"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-applied-intuition-피지.md",
+        "title": "Applied Intuition, 피지컬 AI를 위한 에이전틱 플랫폼 &apos;Dana&apos; 론칭",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#physical-ai",
+          "#autonomous",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721231013"
+      },
       {
         "date": "2026-07-21",
         "file": "20260721-safety-and-alignment.md",
@@ -5946,6 +6034,92 @@
     ],
     "llm_models": [
       {
+        "date": "2026-07-22",
+        "file": "20260722-the-fed-rang-the-ala.md",
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#security",
+          "#safety-incident",
+          "#central-bank"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-ai는-지금-딥시크-키미-뜨자-동시에.md",
+        "title": "[AI는 지금] 딥시크·키미 뜨자 美·中 동시에 빗장…AI 패권 전쟁 확전",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#export-control",
+          "#open-weights",
+          "#geopolitics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721163403"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-us-threatens-sanctio.md",
+        "title": "US threatens sanctions against Chinese AI models over IP theft",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#sanctions",
+          "#us-china",
+          "#open-weights"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-단독-업스테이지-핵심-ai-개발자-영.md",
+        "title": "[단독] 업스테이지 '핵심 AI 개발자 영입, 1인당 100억 쓴다'",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#talent-war",
+          "#korea",
+          "#investment"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072176151"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-문샷-키미-k3-파장에-앤트로픽-오픈.md",
+        "title": "'문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발'",
+        "importance": 8,
+        "tags": [
+          "#valuation",
+          "#china-ai",
+          "#investment",
+          "#semiconductor"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212975"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-키미-k3-터지자-상장-당긴다-문샷-.md",
+        "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
+        "importance": 8,
+        "tags": [
+          "#ipo",
+          "#valuation",
+          "#china-ai",
+          "#open-weights"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721190432"
+      },
+      {
         "date": "2026-07-21",
         "file": "20260721-safety-and-alignment.md",
         "title": "Safety and alignment in an era of long-horizon models",
@@ -11758,6 +11932,108 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-07-22",
+        "file": "20260722-the-fed-rang-the-ala.md",
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#security",
+          "#safety-incident",
+          "#central-bank"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-ai는-지금-딥시크-키미-뜨자-동시에.md",
+        "title": "[AI는 지금] 딥시크·키미 뜨자 美·中 동시에 빗장…AI 패권 전쟁 확전",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#export-control",
+          "#open-weights",
+          "#geopolitics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721163403"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-london-stock-exchang.md",
+        "title": "London Stock Exchange to launch new trading venue LSE 24",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#agentic-trading",
+          "#market-infrastructure",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110461/london-stock-exchange-to-launch-new-trading-venue-lse-24?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-microsoft-and-mistra.md",
+        "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#datacenter",
+          "#sovereign-ai"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-us-threatens-sanctio.md",
+        "title": "US threatens sanctions against Chinese AI models over IP theft",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#sanctions",
+          "#us-china",
+          "#open-weights"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-공공-업무플랫폼-온ai-확산-속도-삼.md",
+        "title": "공공 업무플랫폼 '온AI' 확산 속도…삼성SDS·네이버, 47개 기관 놓고 경쟁",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#enterprise-ai",
+          "#korea",
+          "#competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260721000259"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
+        "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
+        "importance": 7,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#supply-chain",
+          "#us-china",
+          "#monetization"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072176121"
+      },
       {
         "date": "2026-07-21",
         "file": "20260721-anthropic-s-landmark.md",
@@ -18033,6 +18309,295 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-07-22",
+        "file": "20260722-the-fed-rang-the-ala.md",
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#security",
+          "#safety-incident",
+          "#central-bank"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-오픈ai-ipo-앞두고-상장금융사-c.md",
+        "title": "오픈AI, IPO 앞두고 상장금융사 CEO 2명 이사로 영입",
+        "importance": 9,
+        "tags": [
+          "#ipo",
+          "#org-change",
+          "#finance",
+          "#governance",
+          "#openai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000005"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-ai는-지금-딥시크-키미-뜨자-동시에.md",
+        "title": "[AI는 지금] 딥시크·키미 뜨자 美·中 동시에 빗장…AI 패권 전쟁 확전",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#export-control",
+          "#open-weights",
+          "#geopolitics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721163403"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-capital-one-open-sou.md",
+        "title": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#open-source",
+          "#agent-framework",
+          "#security",
+          "#ai-adoption"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48126/capital-one-open-sources-vulnhunter-an-ai-security-tool-that-thinks-like-a-hacker?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-london-stock-exchang.md",
+        "title": "London Stock Exchange to launch new trading venue LSE 24",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#agentic-trading",
+          "#market-infrastructure",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110461/london-stock-exchange-to-launch-new-trading-venue-lse-24?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-microsoft-and-mistra.md",
+        "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#datacenter",
+          "#sovereign-ai"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-natural-raises-30-mi.md",
+        "title": "Natural raises $30 million to build AI agent payments stack",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#payments",
+          "#agent-framework",
+          "#fintech",
+          "#agentic-commerce"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48127/natural-raises-30-million-to-build-ai-agent-payments-stack?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-us-threatens-sanctio.md",
+        "title": "US threatens sanctions against Chinese AI models over IP theft",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#sanctions",
+          "#us-china",
+          "#open-weights"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-공공-업무플랫폼-온ai-확산-속도-삼.md",
+        "title": "공공 업무플랫폼 '온AI' 확산 속도…삼성SDS·네이버, 47개 기관 놓고 경쟁",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#enterprise-ai",
+          "#korea",
+          "#competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260721000259"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-단독-업스테이지-핵심-ai-개발자-영.md",
+        "title": "[단독] 업스테이지 '핵심 AI 개발자 영입, 1인당 100억 쓴다'",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#talent-war",
+          "#korea",
+          "#investment"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072176151"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-문샷-키미-k3-파장에-앤트로픽-오픈.md",
+        "title": "'문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발'",
+        "importance": 8,
+        "tags": [
+          "#valuation",
+          "#china-ai",
+          "#investment",
+          "#semiconductor"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212975"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성전자-로봇-전담-rx-사업부-신설.md",
+        "title": "삼성전자, 로봇 전담 'RX 사업부' 신설...B2B·B2C 동시 공략한다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#robotics",
+          "#humanoid",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213000"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-에브리봇-삼성노블라이프와-시니어-케어.md",
+        "title": "에브리봇, 삼성노블라이프와 시니어 케어로봇 실증 착수",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#robotics",
+          "#senior-care",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721155550"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-키미-k3-터지자-상장-당긴다-문샷-.md",
+        "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
+        "importance": 8,
+        "tags": [
+          "#ipo",
+          "#valuation",
+          "#china-ai",
+          "#open-weights"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721190432"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-applied-intuition-피지.md",
+        "title": "Applied Intuition, 피지컬 AI를 위한 에이전틱 플랫폼 &apos;Dana&apos; 론칭",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#physical-ai",
+          "#autonomous",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721231013"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-data-centers-expecte.md",
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#infrastructure",
+          "#forecast"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼현-로봇-액추에이터-양산-속도-낸다.md",
+        "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#supply-chain",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260721000246"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
+        "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
+        "importance": 7,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#supply-chain",
+          "#us-china",
+          "#monetization"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072176121"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-이재용-최태원-이해진-젠슨-황-미국서.md",
+        "title": "이재용·최태원·이해진·젠슨 황, 미국서 뭉친다…'AI 어벤져스' 집결",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#semiconductor",
+          "#korea",
+          "#investment"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072280467"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-칩에서-서버-랙-단위로-ai-공급망-.md",
+        "title": "칩에서 '서버 랙' 단위로…AI 공급망 판도 바뀐다",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#datacenter",
+          "#supply-chain",
+          "#infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072175981"
+      },
       {
         "date": "2026-07-21",
         "file": "20260721-anthropic-s-landmark.md",
@@ -31052,6 +31617,79 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-07-22",
+        "file": "20260722-삼성전자-로봇-전담-rx-사업부-신설.md",
+        "title": "삼성전자, 로봇 전담 'RX 사업부' 신설...B2B·B2C 동시 공략한다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#robotics",
+          "#humanoid",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213000"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-에브리봇-삼성노블라이프와-시니어-케어.md",
+        "title": "에브리봇, 삼성노블라이프와 시니어 케어로봇 실증 착수",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#robotics",
+          "#senior-care",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721155550"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-applied-intuition-피지.md",
+        "title": "Applied Intuition, 피지컬 AI를 위한 에이전틱 플랫폼 &apos;Dana&apos; 론칭",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#physical-ai",
+          "#autonomous",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721231013"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼현-로봇-액추에이터-양산-속도-낸다.md",
+        "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#supply-chain",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260721000246"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
+        "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
+        "importance": 7,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#supply-chain",
+          "#us-china",
+          "#monetization"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072176121"
+      },
+      {
         "date": "2026-07-21",
         "file": "20260721-삼성전자-rx사업추진실-신설-노태문-.md",
         "title": "삼성전자, 'RX사업추진실' 신설…노태문 대표가 직접 지휘",
@@ -33042,6 +33680,76 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-07-22",
+        "file": "20260722-microsoft-and-mistra.md",
+        "title": "Microsoft and Mistral strike multi-billion-dollar deal to build AI infrastructure across Europe",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#datacenter",
+          "#sovereign-ai"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsoft-and-mistral-strike-multi-billion-dollar-deal-to-build-ai-infrastructure-across-europe/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-문샷-키미-k3-파장에-앤트로픽-오픈.md",
+        "title": "'문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발'",
+        "importance": 8,
+        "tags": [
+          "#valuation",
+          "#china-ai",
+          "#investment",
+          "#semiconductor"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212975"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-data-centers-expecte.md",
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#infrastructure",
+          "#forecast"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-이재용-최태원-이해진-젠슨-황-미국서.md",
+        "title": "이재용·최태원·이해진·젠슨 황, 미국서 뭉친다…'AI 어벤져스' 집결",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#semiconductor",
+          "#korea",
+          "#investment"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072280467"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-칩에서-서버-랙-단위로-ai-공급망-.md",
+        "title": "칩에서 '서버 랙' 단위로…AI 공급망 판도 바뀐다",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#datacenter",
+          "#supply-chain",
+          "#infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072175981"
+      },
       {
         "date": "2026-07-21",
         "file": "20260721-ms-애저-클라우드에-amd-헬리오스.md",
@@ -35822,6 +36530,123 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-07-22",
+        "file": "20260722-the-fed-rang-the-ala.md",
+        "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#security",
+          "#safety-incident",
+          "#central-bank"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-오픈ai-ipo-앞두고-상장금융사-c.md",
+        "title": "오픈AI, IPO 앞두고 상장금융사 CEO 2명 이사로 영입",
+        "importance": 9,
+        "tags": [
+          "#ipo",
+          "#org-change",
+          "#finance",
+          "#governance",
+          "#openai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000005"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-capital-one-open-sou.md",
+        "title": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#open-source",
+          "#agent-framework",
+          "#security",
+          "#ai-adoption"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48126/capital-one-open-sources-vulnhunter-an-ai-security-tool-that-thinks-like-a-hacker?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-london-stock-exchang.md",
+        "title": "London Stock Exchange to launch new trading venue LSE 24",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#agentic-trading",
+          "#market-infrastructure",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110461/london-stock-exchange-to-launch-new-trading-venue-lse-24?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-natural-raises-30-mi.md",
+        "title": "Natural raises $30 million to build AI agent payments stack",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#payments",
+          "#agent-framework",
+          "#fintech",
+          "#agentic-commerce"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48127/natural-raises-30-million-to-build-ai-agent-payments-stack?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-문샷-키미-k3-파장에-앤트로픽-오픈.md",
+        "title": "'문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발'",
+        "importance": 8,
+        "tags": [
+          "#valuation",
+          "#china-ai",
+          "#investment",
+          "#semiconductor"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212975"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-에브리봇-삼성노블라이프와-시니어-케어.md",
+        "title": "에브리봇, 삼성노블라이프와 시니어 케어로봇 실증 착수",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#robotics",
+          "#senior-care",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721155550"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-키미-k3-터지자-상장-당긴다-문샷-.md",
+        "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
+        "importance": 8,
+        "tags": [
+          "#ipo",
+          "#valuation",
+          "#china-ai",
+          "#open-weights"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721190432"
+      },
+      {
         "date": "2026-07-21",
         "file": "20260721-가트너-생성-ai-모델-지출-117-.md",
         "title": "가트너 '생성 AI 모델 지출 117% 급증... AI 비용 통제·ROI 검증이 승패 갈라'",
@@ -36700,6 +37525,79 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성전자-로봇-전담-rx-사업부-신설.md",
+        "title": "삼성전자, 로봇 전담 'RX 사업부' 신설...B2B·B2C 동시 공략한다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#robotics",
+          "#humanoid",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213000"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-에브리봇-삼성노블라이프와-시니어-케어.md",
+        "title": "에브리봇, 삼성노블라이프와 시니어 케어로봇 실증 착수",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#robotics",
+          "#senior-care",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721155550"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-applied-intuition-피지.md",
+        "title": "Applied Intuition, 피지컬 AI를 위한 에이전틱 플랫폼 &apos;Dana&apos; 론칭",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#physical-ai",
+          "#autonomous",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721231013"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼현-로봇-액추에이터-양산-속도-낸다.md",
+        "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#supply-chain",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260721000246"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
+        "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
+        "importance": 7,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#supply-chain",
+          "#us-china",
+          "#monetization"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072176121"
+      },
       {
         "date": "2026-07-21",
         "file": "20260721-삼성전자-rx사업추진실-신설-노태문-.md",
