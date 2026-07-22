@@ -1,11 +1,15 @@
 ---
 topic: "llm_models"
 label: "Large Language Models and Foundation Models"
-updated_at: "2026-07-22 08:43"
-run_id: "run_20260722_084328"
+updated_at: "2026-07-22 12:20"
+run_id: "run_20260722_122020"
 ---
 
 # Large Language Models and Foundation Models — 동향 요약
+
+### 2026-07-22 12:20
+
+모델 자체의 성능 경쟁보다 '어떤 모델을 언제 쓸 것인가'를 다루는 계층이 사업화되고 있다. 카페24가 120여개 생성형 AI 모델을 단일 API로 묶어 작업 유형과 비용에 따라 자동 배정하는 LLM 라우터를 선보인 것이 대표적이다. 챗GPT·클로드·제미나이·딥시크를 병행 사용하는 멀티호밍이 일반화되면서, 특정 모델 종속을 피하고 작업별 성능·단가를 최적화하는 것이 기업 AI 조달의 새로운 과제로 부상했다.
 
 ### 2026-07-22 08:43
 

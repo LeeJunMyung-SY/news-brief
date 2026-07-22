@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-21T23:43:32+00:00",
+  "generated_at": "2026-07-22T03:20:23+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 407,
+      "count": 408,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 410,
+      "count": 414,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 440,
+      "count": 443,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 916,
+      "count": 928,
       "latest_date": "2026-07-22"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 141,
+      "count": 144,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 196,
+      "count": 198,
       "latest_date": "2026-07-22"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 68,
+      "count": 70,
       "latest_date": "2026-07-22"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 48,
+      "count": 51,
       "latest_date": "2026-07-22"
     },
     {
@@ -152,6 +152,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-증권사-mts도-ai-경쟁-맞춤형-투.md",
+        "title": "증권사 MTS도 'AI 경쟁'…맞춤형 투자 정보 서비스 살펴보니",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#finance",
+          "#ai-adoption",
+          "#personalization",
+          "#mts"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026072281126"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-applied-intuition-피지.md",
         "title": "Applied Intuition, 피지컬 AI를 위한 에이전틱 플랫폼 &apos;Dana&apos; 론칭",
         "importance": 7,
@@ -163,6 +178,51 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260721231013"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-사줘-295억원-자금조달-에이전틱-커.md",
+        "title": "사줘, 295억원 자금조달...'에이전틱 커머스 인프라 구현'",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#agentic-commerce",
+          "#startup",
+          "#cross-border",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722103852"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-카페24-llm-라우터-로-ai-자동.md",
+        "title": "카페24, 'LLM 라우터'로 AI 자동 선택 시대 연다",
+        "importance": 7,
+        "tags": [
+          "#llm-router",
+          "#multi-model",
+          "#enterprise-ai",
+          "#cost-optimization",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668614"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-메디팔-대한미용성형레이저의학회와-병의.md",
+        "title": "메디팔, 대한미용성형레이저의학회와 '병의원 특화 AI 에이전트 서비스' 공급 협력",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#healthcare-ai",
+          "#partnership",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607228441i"
       },
       {
         "date": "2026-07-21",
@@ -6120,6 +6180,21 @@
         "url": "https://zdnet.co.kr/view/?no=20260721190432"
       },
       {
+        "date": "2026-07-22",
+        "file": "20260722-카페24-llm-라우터-로-ai-자동.md",
+        "title": "카페24, 'LLM 라우터'로 AI 자동 선택 시대 연다",
+        "importance": 7,
+        "tags": [
+          "#llm-router",
+          "#multi-model",
+          "#enterprise-ai",
+          "#cost-optimization",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668614"
+      },
+      {
         "date": "2026-07-21",
         "file": "20260721-safety-and-alignment.md",
         "title": "Safety and alignment in an era of long-horizon models",
@@ -11964,6 +12039,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-kdi-10년-후-ai로-연간-일자리.md",
+        "title": "KDI '10년 후 AI로 연간 일자리 25.6만개 감소…생산성은 향상'",
+        "importance": 8,
+        "tags": [
+          "#labor-market",
+          "#ai-adoption",
+          "#org-change",
+          "#productivity",
+          "#korea-policy"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722075400002"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-london-stock-exchang.md",
         "title": "London Stock Exchange to launch new trading venue LSE 24",
         "importance": 8,
@@ -12021,6 +12111,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
+        "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
+        "importance": 7,
+        "tags": [
+          "#korea-policy",
+          "#datacenter",
+          "#semiconductor",
+          "#physical-ai",
+          "#public-sector"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
         "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
         "importance": 7,
@@ -12033,6 +12138,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026072176121"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-유미-s-픽-ai-추격-빨라지는데-정.md",
+        "title": "[유미's 픽] 中 AI 추격 빨라지는데…韓·美 정책 수장 공백에 '비상'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#org-change",
+          "#korea-policy",
+          "#us-china",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721114404"
       },
       {
         "date": "2026-07-21",
@@ -18371,6 +18491,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-kdi-10년-후-ai로-연간-일자리.md",
+        "title": "KDI '10년 후 AI로 연간 일자리 25.6만개 감소…생산성은 향상'",
+        "importance": 8,
+        "tags": [
+          "#labor-market",
+          "#ai-adoption",
+          "#org-change",
+          "#productivity",
+          "#korea-policy"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722075400002"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-london-stock-exchang.md",
         "title": "London Stock Exchange to launch new trading venue LSE 24",
         "importance": 8,
@@ -18500,6 +18635,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-증권사-mts도-ai-경쟁-맞춤형-투.md",
+        "title": "증권사 MTS도 'AI 경쟁'…맞춤형 투자 정보 서비스 살펴보니",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#finance",
+          "#ai-adoption",
+          "#personalization",
+          "#mts"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026072281126"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-키미-k3-터지자-상장-당긴다-문샷-.md",
         "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
         "importance": 8,
@@ -18542,6 +18692,36 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
+        "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
+        "importance": 7,
+        "tags": [
+          "#korea-policy",
+          "#datacenter",
+          "#semiconductor",
+          "#physical-ai",
+          "#public-sector"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-사줘-295억원-자금조달-에이전틱-커.md",
+        "title": "사줘, 295억원 자금조달...'에이전틱 커머스 인프라 구현'",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#agentic-commerce",
+          "#startup",
+          "#cross-border",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722103852"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-삼현-로봇-액추에이터-양산-속도-낸다.md",
         "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
         "importance": 7,
@@ -18557,6 +18737,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-아직-신용카드-사용자-7-뿐-ai-기.md",
+        "title": "'아직 신용카드 사용자 7% 뿐'…AI 기술로 인도 뚫은 K핀테크",
+        "importance": 7,
+        "tags": [
+          "#fintech",
+          "#finance",
+          "#credit-scoring",
+          "#global-expansion",
+          "#ai-adoption"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607228725i"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
         "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
         "importance": 7,
@@ -18569,6 +18764,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026072176121"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-유미-s-픽-ai-추격-빨라지는데-정.md",
+        "title": "[유미's 픽] 中 AI 추격 빨라지는데…韓·美 정책 수장 공백에 '비상'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#org-change",
+          "#korea-policy",
+          "#us-china",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721114404"
       },
       {
         "date": "2026-07-22",
@@ -18597,6 +18807,96 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026072175981"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-카페24-llm-라우터-로-ai-자동.md",
+        "title": "카페24, 'LLM 라우터'로 AI 자동 선택 시대 연다",
+        "importance": 7,
+        "tags": [
+          "#llm-router",
+          "#multi-model",
+          "#enterprise-ai",
+          "#cost-optimization",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668614"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-현장-ai는-기술일-뿐-기업은-비즈니.md",
+        "title": "[현장] 'AI는 기술일 뿐…기업은 비즈니스 가치부터 따져야'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#ax-strategy",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722102108"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-these-japanese-ai-wi.md",
+        "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
+        "importance": 6,
+        "tags": [
+          "#supply-chain",
+          "#datacenter",
+          "#japan",
+          "#materials",
+          "#investment"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-뉴로메카-협동로봇-디아이씨-자동화-프.md",
+        "title": "뉴로메카 협동로봇, 디아이씨 자동화 프로젝트 파트너로 선정",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#robotics",
+          "#manufacturing",
+          "#partnership",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722094535"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-메디팔-대한미용성형레이저의학회와-병의.md",
+        "title": "메디팔, 대한미용성형레이저의학회와 '병의원 특화 AI 에이전트 서비스' 공급 협력",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#healthcare-ai",
+          "#partnership",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607228441i"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성-lg-oled-영토-확장-경쟁-.md",
+        "title": "삼성·LG, OLED 영토 확장 경쟁…휴머노이드부터 미래차까지 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#display",
+          "#ai-interface",
+          "#supply-chain",
+          "#mobility"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668616"
       },
       {
         "date": "2026-07-21",
@@ -31661,6 +31961,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
+        "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
+        "importance": 7,
+        "tags": [
+          "#korea-policy",
+          "#datacenter",
+          "#semiconductor",
+          "#physical-ai",
+          "#public-sector"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-삼현-로봇-액추에이터-양산-속도-낸다.md",
         "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
         "importance": 7,
@@ -31688,6 +32003,36 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026072176121"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-뉴로메카-협동로봇-디아이씨-자동화-프.md",
+        "title": "뉴로메카 협동로봇, 디아이씨 자동화 프로젝트 파트너로 선정",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#robotics",
+          "#manufacturing",
+          "#partnership",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722094535"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성-lg-oled-영토-확장-경쟁-.md",
+        "title": "삼성·LG, OLED 영토 확장 경쟁…휴머노이드부터 미래차까지 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#display",
+          "#ai-interface",
+          "#supply-chain",
+          "#mobility"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668616"
       },
       {
         "date": "2026-07-21",
@@ -33724,6 +34069,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
+        "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
+        "importance": 7,
+        "tags": [
+          "#korea-policy",
+          "#datacenter",
+          "#semiconductor",
+          "#physical-ai",
+          "#public-sector"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-이재용-최태원-이해진-젠슨-황-미국서.md",
         "title": "이재용·최태원·이해진·젠슨 황, 미국서 뭉친다…'AI 어벤져스' 집결",
         "importance": 7,
@@ -33749,6 +34109,21 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026072175981"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-these-japanese-ai-wi.md",
+        "title": "These Japanese AI winners don’t make chips. They make toilets, glass fiber and seasoning",
+        "importance": 6,
+        "tags": [
+          "#supply-chain",
+          "#datacenter",
+          "#japan",
+          "#materials",
+          "#investment"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html"
       },
       {
         "date": "2026-07-21",
@@ -36634,6 +37009,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-증권사-mts도-ai-경쟁-맞춤형-투.md",
+        "title": "증권사 MTS도 'AI 경쟁'…맞춤형 투자 정보 서비스 살펴보니",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#finance",
+          "#ai-adoption",
+          "#personalization",
+          "#mts"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026072281126"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-키미-k3-터지자-상장-당긴다-문샷-.md",
         "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
         "importance": 8,
@@ -36645,6 +37035,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260721190432"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-아직-신용카드-사용자-7-뿐-ai-기.md",
+        "title": "'아직 신용카드 사용자 7% 뿐'…AI 기술로 인도 뚫은 K핀테크",
+        "importance": 7,
+        "tags": [
+          "#fintech",
+          "#finance",
+          "#credit-scoring",
+          "#global-expansion",
+          "#ai-adoption"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607228725i"
       },
       {
         "date": "2026-07-21",
@@ -37570,6 +37975,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
+        "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
+        "importance": 7,
+        "tags": [
+          "#korea-policy",
+          "#datacenter",
+          "#semiconductor",
+          "#physical-ai",
+          "#public-sector"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-삼현-로봇-액추에이터-양산-속도-낸다.md",
         "title": "삼현, 로봇 액추에이터 양산 속도 낸다…이르면 내년 1분기 양산",
         "importance": 7,
@@ -37597,6 +38017,36 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026072176121"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-뉴로메카-협동로봇-디아이씨-자동화-프.md",
+        "title": "뉴로메카 협동로봇, 디아이씨 자동화 프로젝트 파트너로 선정",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#robotics",
+          "#manufacturing",
+          "#partnership",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722094535"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성-lg-oled-영토-확장-경쟁-.md",
+        "title": "삼성·LG, OLED 영토 확장 경쟁…휴머노이드부터 미래차까지 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#display",
+          "#ai-interface",
+          "#supply-chain",
+          "#mobility"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668616"
       },
       {
         "date": "2026-07-21",
