@@ -1,11 +1,15 @@
 ---
 topic: "ai_agents"
 label: "AI Agents and Autonomous Systems"
-updated_at: "2026-07-22 16:23"
-run_id: "run_20260722_162346"
+updated_at: "2026-07-23 08:27"
+run_id: "run_20260723_082743"
 ---
 
 # AI Agents and Autonomous Systems — 동향 요약
+
+### 2026-07-23 08:27
+
+에이전트가 제품·업무의 진입점으로 자리잡는 흐름이 뚜렷하다. OpenAI의 코딩 에이전트 Codex와 ChatGPT Work 활성 사용자가 1주 만에 200만 늘어 1000만을 돌파했고, 삼성 갤럭시 Z8은 제미나이 기반 에이전트형 AI로 40여 개 앱을 자동 실행한다. 중국 빅테크는 'AI 오피스' 진입점 경쟁을, ServiceNow는 폭주하는 에이전트를 위한 킬스위치를 내세우는 등 에이전트 운영·통제가 새 화두다.
 
 ### 2026-07-22 16:23
 

@@ -1,11 +1,15 @@
 ---
 topic: "ai_compute_energy"
 label: "Ai Compute Energy"
-updated_at: "2026-07-22 16:23"
-run_id: "run_20260722_162346"
+updated_at: "2026-07-23 08:27"
+run_id: "run_20260723_082743"
 ---
 
 # Ai Compute Energy — 동향 요약
+
+### 2026-07-23 08:27
+
+이번 회차의 최대 이슈는 AMD가 Anthropic에 최대 50억 달러를 투자하고 Anthropic이 2GW 규모 MI450 GPU를 배치하기로 한 대형 컴퓨트 딜로, 엔비디아 독주에 대한 실질적 대항 구도가 형성됐다. 동시에 OpenAI는 조지아 'Project Camellia'로 3.2GW 전력을 확보하고 지출 규모가 7500억 달러까지 불어났으며, 국내에서도 LGU+·LS일렉트릭이 AIDC 전력 인프라 협력에 나섰다. 미국 전력사 200곳은 AI발 전기요금 인상 우려에 소비자 보호 서약에 서명해, AI 전력 조달과 비용 배분이 정책·전략 의제로 굳어지고 있다.
 
 ### 2026-07-22 16:23
 

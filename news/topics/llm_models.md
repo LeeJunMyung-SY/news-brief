@@ -1,11 +1,15 @@
 ---
 topic: "llm_models"
 label: "Large Language Models and Foundation Models"
-updated_at: "2026-07-22 16:23"
-run_id: "run_20260722_162346"
+updated_at: "2026-07-23 08:27"
+run_id: "run_20260723_082743"
 ---
 
 # Large Language Models and Foundation Models — 동향 요약
+
+### 2026-07-23 08:27
+
+모델 경쟁은 오픈웨이트로 무게가 실렸다. 중국 문샷AI의 '키미 K3'가 사이버보안 취약점 탐지에서 오픈소스 최강 성능을 보이며 'K3 쇼크' 논쟁을 촉발했고, 풀사이드가 대형 모델을 앞서는 오픈소스 코딩 모델 '라구나 S 2.1'을 공개했다. 머스크는 2조 파라미터 차세대 모델을 예고했고, Cisco는 소형 오픈 보안 모델로 GPT-5.5를 능가한다고 주장하는 등 '작고 특화된 오픈모델' 흐름이 강해지고 있다.
 
 ### 2026-07-22 16:23
 

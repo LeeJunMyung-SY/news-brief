@@ -1,11 +1,15 @@
 ---
 topic: "ai_policy"
 label: "AI Policy, Regulation and Safety"
-updated_at: "2026-07-22 16:23"
-run_id: "run_20260722_162346"
+updated_at: "2026-07-23 08:27"
+run_id: "run_20260723_082743"
 ---
 
 # AI Policy, Regulation and Safety — 동향 요약
+
+### 2026-07-23 08:27
+
+규제·거버넌스 축에서는 중국 오픈모델을 둘러싼 미국의 압박이 핵심이다. 백악관은 문샷의 Anthropic Fable 증류 의혹을 제기하고 재무부가 제재를 위협했으며, 미 국무부는 각국에 '소버린 AI 대신 미국 AI를 쓰라'는 외교 지침을 내렸다. 국내에서는 정부가 사이버보안 특화 독자 AI 파운데이션 모델 개발과 AI 플랫폼 자율규제 원칙 마련에 착수했고, Anthropic의 $1.5B 저작권 합의 등 AI 법적 리스크도 부각됐다.
 
 ### 2026-07-22 16:23
 

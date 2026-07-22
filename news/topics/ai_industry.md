@@ -1,11 +1,15 @@
 ---
 topic: "ai_industry"
 label: "AI Industry and Business"
-updated_at: "2026-07-22 16:23"
-run_id: "run_20260722_162346"
+updated_at: "2026-07-23 08:27"
+run_id: "run_20260723_082743"
 ---
 
 # AI Industry and Business — 동향 요약
+
+### 2026-07-23 08:27
+
+빅테크 실적과 대형 자본 이동이 두드러진 회차다. 구글은 클라우드 호조로 막대한 AI 투자를 정당화했고, OpenAI 지출은 7500억 달러 규모로 확대, Anthropic은 47억 달러 매출 런레이트를 기록하며 AMD·삼성(미스트랄) 등과의 자본 결합이 이어졌다. 반면 Monday.com·Amazon AGI 조직은 감원에 나서며 'AI 집중을 위한 구조조정'이 본격화됐고, 문샷AI는 8월 홍콩 IPO를 앞당기는 등 자본시장 이벤트도 활발하다.
 
 ### 2026-07-22 16:23
 

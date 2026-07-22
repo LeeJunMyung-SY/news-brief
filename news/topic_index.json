@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-22T07:23:50+00:00",
+  "generated_at": "2026-07-22T23:27:47+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 415,
-      "latest_date": "2026-07-22"
+      "count": 417,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 420,
-      "latest_date": "2026-07-22"
+      "count": 424,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 451,
-      "latest_date": "2026-07-22"
+      "count": 456,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 945,
-      "latest_date": "2026-07-22"
+      "count": 953,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 145,
-      "latest_date": "2026-07-22"
+      "count": 146,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 203,
-      "latest_date": "2026-07-22"
+      "count": 208,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 75,
-      "latest_date": "2026-07-22"
+      "count": 80,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 52,
-      "latest_date": "2026-07-22"
+      "count": 53,
+      "latest_date": "2026-07-23"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,65 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-23",
+        "file": "20260723-openai-claims-respon.md",
+        "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#cybersecurity",
+          "#openai",
+          "#autonomous-agent",
+          "#zero-day"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-servicenow-ceo-defen.md",
+        "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
+        "importance": 6,
+        "tags": [
+          "#ai-agents",
+          "#enterprise-ai",
+          "#governance",
+          "#servicenow",
+          "#kill-switch"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-오픈ai-코덱스-챗gpt-워크-사용자.md",
+        "title": "오픈AI, '코덱스·챗GPT 워크' 사용자 1000만 돌파...일주일 만에 200만 추가",
+        "importance": 6,
+        "tags": [
+          "#ai-agents",
+          "#openai",
+          "#adoption",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213027"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-테크-차이나-텐센트-알리바바-바이트댄.md",
+        "title": "[테크 차이나] 텐센트·알리바바·바이트댄스, AI 오피스 전면전…경쟁 핵심은 '모델' 아닌 '업무 진입점'",
+        "importance": 6,
+        "tags": [
+          "#ai-agents",
+          "#china",
+          "#enterprise-ai",
+          "#productivity",
+          "#platform"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000268"
+      },
       {
         "date": "2026-07-22",
         "file": "20260722-the-fed-rang-the-ala.md",
@@ -6184,6 +6243,35 @@
     ],
     "llm_models": [
       {
+        "date": "2026-07-23",
+        "file": "20260723-treasury-threatens-s.md",
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#china",
+          "#sanctions",
+          "#open-weights",
+          "#geopolitics"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-cisco-bets-its-small.md",
+        "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
+        "importance": 6,
+        "tags": [
+          "#open-source",
+          "#cybersecurity",
+          "#small-models",
+          "#cisco"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/"
+      },
+      {
         "date": "2026-07-22",
         "file": "20260722-the-fed-rang-the-ala.md",
         "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
@@ -12200,6 +12288,81 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-07-23",
+        "file": "20260723-anthropic-s-1-5b-pir.md",
+        "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+        "importance": 7,
+        "tags": [
+          "#copyright",
+          "#legal",
+          "#anthropic",
+          "#regulation"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-anthropic-to-support.md",
+        "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#anthropic",
+          "#sandbox",
+          "#fca",
+          "#claude"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48131/anthropic-to-support-ai-tests-in-fcas-supercharged-sandbox?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-openai-claims-respon.md",
+        "title": "OpenAI claims responsibility for the Hugging Face hack after its own models escaped a test sandbox",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#cybersecurity",
+          "#openai",
+          "#autonomous-agent",
+          "#zero-day"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-claims-responsibility-for-the-hugging-face-hack-after-its-own-models-escaped-a-test-sandbox/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-treasury-threatens-s.md",
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#china",
+          "#sanctions",
+          "#open-weights",
+          "#geopolitics"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-소버린-ai-하지-말고-우리-ai만-.md",
+        "title": "美 '소버린 AI 하지 말고 우리 AI만 써라'…외교 전문에 지시",
+        "importance": 6,
+        "tags": [
+          "#geopolitics",
+          "#sovereign-ai",
+          "#us",
+          "#regulation",
+          "#diplomacy"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607220358i"
+      },
       {
         "date": "2026-07-22",
         "file": "20260722-the-fed-rang-the-ala.md",
@@ -18741,6 +18904,123 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-07-23",
+        "file": "20260723-amd-commits-up-to-5-.md",
+        "title": "AMD commits up to $5 billion to  Anthropic",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#gpu",
+          "#amd",
+          "#anthropic",
+          "#ai-infrastructure"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-bank-of-america-embe.md",
+        "title": "Bank of America embeds generative AI into customer service tools",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#generative-ai",
+          "#ai-adoption",
+          "#customer-service",
+          "#roi-case"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48133/bank-of-america-embeds-generative-ai-into-customer-service-tools?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-google-justifies-its.md",
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#cloud",
+          "#google",
+          "#monetization"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-openai-s-ai-spending.md",
+        "title": "OpenAI’s AI spending spree has ballooned to $750B",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#openai",
+          "#ai-infrastructure",
+          "#datacenter"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-samsung-deepens-its-.md",
+        "title": "Samsung deepens its AI empire with a potential billion-euro stake in Europe's hottest AI startup",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#samsung",
+          "#mistral",
+          "#strategic-stake"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/samsung-deepens-its-ai-empire-with-a-potential-billion-euro-stake-in-europes-hottest-ai-startup/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-포티투마루-예금보험공사-공공-ax-플.md",
+        "title": "포티투마루, 예금보험공사 공공 AX 플랫폼 구축한다",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#public-sector",
+          "#chatbot",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213029"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-travis-kalanick-s-ro.md",
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#robotics",
+          "#a16z",
+          "#industrial-ai"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-테크-차이나-텐센트-알리바바-바이트댄.md",
+        "title": "[테크 차이나] 텐센트·알리바바·바이트댄스, AI 오피스 전면전…경쟁 핵심은 '모델' 아닌 '업무 진입점'",
+        "importance": 6,
+        "tags": [
+          "#ai-agents",
+          "#china",
+          "#enterprise-ai",
+          "#productivity",
+          "#platform"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000268"
+      },
       {
         "date": "2026-07-22",
         "file": "20260722-the-fed-rang-the-ala.md",
@@ -32481,6 +32761,20 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-07-23",
+        "file": "20260723-travis-kalanick-s-ro.md",
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#robotics",
+          "#a16z",
+          "#industrial-ai"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+      },
+      {
         "date": "2026-07-22",
         "file": "20260722-삼성전자-로봇-전담-rx-사업부-신설.md",
         "title": "삼성전자, 로봇 전담 'RX 사업부' 신설...B2B·B2C 동시 공략한다",
@@ -34604,6 +34898,78 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-07-23",
+        "file": "20260723-amd-commits-up-to-5-.md",
+        "title": "AMD commits up to $5 billion to  Anthropic",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#gpu",
+          "#amd",
+          "#anthropic",
+          "#ai-infrastructure"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-openai-s-ai-spending.md",
+        "title": "OpenAI’s AI spending spree has ballooned to $750B",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#openai",
+          "#ai-infrastructure",
+          "#datacenter"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-openai-s-project-cam.md",
+        "title": "OpenAI's 'Project Camellia' in Georgia secures a massive 3.2-gigawatt power deal through 2032",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#openai",
+          "#power-deal"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openais-project-camellia-in-georgia-secures-a-massive-3-2-gigawatt-power-deal-through-2032/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-lgu-ls일렉트릭-차세대-aidc-.md",
+        "title": "LGU+·LS일렉트릭, 차세대 AIDC 전력 인프라 혁신 이끈다",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#partnership",
+          "#korea",
+          "#aidc"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213061"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-utility-companies-pr.md",
+        "title": "Utility companies promise to spare us from AI’s energy bill",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#regulation",
+          "#electricity"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump"
+      },
       {
         "date": "2026-07-22",
         "file": "20260722-microsoft-and-mistra.md",
@@ -37557,6 +37923,83 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-07-23",
+        "file": "20260723-anthropic-to-support.md",
+        "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#anthropic",
+          "#sandbox",
+          "#fca",
+          "#claude"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48131/anthropic-to-support-ai-tests-in-fcas-supercharged-sandbox?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-bank-of-america-embe.md",
+        "title": "Bank of America embeds generative AI into customer service tools",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#generative-ai",
+          "#ai-adoption",
+          "#customer-service",
+          "#roi-case"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48133/bank-of-america-embeds-generative-ai-into-customer-service-tools?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-국민-사외이사로-정윤경-성대-교수-추.md",
+        "title": "국민銀 사외이사로 정윤경 성대 교수 추천",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#board",
+          "#ai-governance"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12104516"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-포티투마루-예금보험공사-공공-ax-플.md",
+        "title": "포티투마루, 예금보험공사 공공 AX 플랫폼 구축한다",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#public-sector",
+          "#chatbot",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213029"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-norway-advisory-and-.md",
+        "title": "Norway advisory and audit firm BDO selects Strise as AML technology provider",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#aml",
+          "#compliance",
+          "#ai-adoption",
+          "#regtech"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110472/norway-advisory-and-audit-firm-bdo-selects-strise-as-aml-technology-provider?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
         "date": "2026-07-22",
         "file": "20260722-the-fed-rang-the-ala.md",
         "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
@@ -38658,6 +39101,20 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-07-23",
+        "file": "20260723-travis-kalanick-s-ro.md",
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#robotics",
+          "#a16z",
+          "#industrial-ai"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+      },
       {
         "date": "2026-07-22",
         "file": "20260722-삼성전자-로봇-전담-rx-사업부-신설.md",
