@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-22T03:20:23+00:00",
+  "generated_at": "2026-07-22T07:23:50+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 408,
+      "count": 415,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 414,
+      "count": 420,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 443,
+      "count": 451,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 928,
+      "count": 945,
       "latest_date": "2026-07-22"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 144,
+      "count": 145,
       "latest_date": "2026-07-22"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 198,
+      "count": 203,
       "latest_date": "2026-07-22"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 70,
+      "count": 75,
       "latest_date": "2026-07-22"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 51,
+      "count": 52,
       "latest_date": "2026-07-22"
     },
     {
@@ -90,6 +90,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/21/fed-mythos-ai-cybersecurity-banks-project-glasswing.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-허깅페이스를-해킹한-것은-오픈ai-모.md",
+        "title": "허깅페이스를 해킹한 것은  오픈AI 모델...'격리망 뚫고 첫 자율 공격 성공'",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#cybersecurity",
+          "#frontier-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213033"
       },
       {
         "date": "2026-07-22",
@@ -152,6 +167,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구글-제미나이-3-6-플래시-공개-코.md",
+        "title": "구글, '제미나이 3.6 플래시' 공개...코딩 대신 'AI 에이전트'에 올인",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#agent-framework",
+          "#token-efficiency",
+          "#enterprise-ai",
+          "#roadmap"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213022"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-증권사-mts도-ai-경쟁-맞춤형-투.md",
         "title": "증권사 MTS도 'AI 경쟁'…맞춤형 투자 정보 서비스 살펴보니",
         "importance": 8,
@@ -181,6 +211,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구글도-사이버-보안-전용-모델-첫-출.md",
+        "title": "구글도 사이버 보안 전용 모델 첫 출시...'미소스의 가성비 대안'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#cybersecurity",
+          "#pricing",
+          "#enterprise-ai",
+          "#vendor-competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213023"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-사줘-295억원-자금조달-에이전틱-커.md",
         "title": "사줘, 295억원 자금조달...'에이전틱 커머스 인프라 구현'",
         "importance": 7,
@@ -193,6 +238,51 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260722103852"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-알트먼-다음주-워싱턴서-차세대-모델-.md",
+        "title": "알트먼, 다음주 워싱턴서 '차세대 모델' 브리핑...'업무 기능 특화'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#model-release",
+          "#government-relations",
+          "#future-of-work"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213025"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-유미-s-픽-유라클-돈-되는-ai-로.md",
+        "title": "[유미's 픽] 유라클, '돈 되는 AI'로 승부…금융권 폐쇄망 시장 정조준",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#finance",
+          "#on-premise",
+          "#monetization",
+          "#coding",
+          "#air-gap"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722121322"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-카카오톡-외부-연동-확장-에이전트-a.md",
+        "title": "카카오톡, 외부 연동 확장…'에이전트 AI 플랫폼' 전환 속도",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#platform",
+          "#partnership",
+          "#monetization",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000277"
       },
       {
         "date": "2026-07-22",
@@ -6110,6 +6200,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-허깅페이스를-해킹한-것은-오픈ai-모.md",
+        "title": "허깅페이스를 해킹한 것은  오픈AI 모델...'격리망 뚫고 첫 자율 공격 성공'",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#cybersecurity",
+          "#frontier-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213033"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-ai는-지금-딥시크-키미-뜨자-동시에.md",
         "title": "[AI는 지금] 딥시크·키미 뜨자 美·中 동시에 빗장…AI 패권 전쟁 확전",
         "importance": 8,
@@ -6125,6 +6230,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-ms-미스트랄-투자로-소버린-ai-지.md",
+        "title": "MS, 미스트랄 투자로 ‘소버린 AI’ 지원… 오픈AI·앤트로픽 의존도 낮춘다",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#sovereign-ai",
+          "#investment",
+          "#enterprise-ai",
+          "#multi-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213035"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-us-threatens-sanctio.md",
         "title": "US threatens sanctions against Chinese AI models over IP theft",
         "importance": 8,
@@ -6136,6 +6256,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-구글-제미나이-3-6-플래시-공개-코.md",
+        "title": "구글, '제미나이 3.6 플래시' 공개...코딩 대신 'AI 에이전트'에 올인",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#agent-framework",
+          "#token-efficiency",
+          "#enterprise-ai",
+          "#roadmap"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213022"
       },
       {
         "date": "2026-07-22",
@@ -6167,6 +6302,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-미-재무부-중국-ai-무단-증류-혐의.md",
+        "title": "미 재무부, 중국 AI '무단 증류' 혐의 조사...'미국 모델 워터마크 다수 발견'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#geopolitics",
+          "#open-weights",
+          "#ip-rights",
+          "#sanctions"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213034"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-키미-k3-터지자-상장-당긴다-문샷-.md",
         "title": "키미 K3 터지자 상장 당긴다…문샷, 6개월 내 홍콩 증시 노크",
         "importance": 8,
@@ -6178,6 +6328,49 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260721190432"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-구글도-사이버-보안-전용-모델-첫-출.md",
+        "title": "구글도 사이버 보안 전용 모델 첫 출시...'미소스의 가성비 대안'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#cybersecurity",
+          "#pricing",
+          "#enterprise-ai",
+          "#vendor-competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213023"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-알트먼-다음주-워싱턴서-차세대-모델-.md",
+        "title": "알트먼, 다음주 워싱턴서 '차세대 모델' 브리핑...'업무 기능 특화'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#model-release",
+          "#government-relations",
+          "#future-of-work"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213025"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-와이즈앱-한국인-스마트폰-이용자-10.md",
+        "title": "와이즈앱 '한국인 스마트폰 이용자 10명 중 9명이 생성 AI 앱 설치'",
+        "importance": 7,
+        "tags": [
+          "#market-data",
+          "#consumer-ai",
+          "#korea-market",
+          "#adoption-rate"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213037"
       },
       {
         "date": "2026-07-22",
@@ -12024,6 +12217,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-허깅페이스를-해킹한-것은-오픈ai-모.md",
+        "title": "허깅페이스를 해킹한 것은  오픈AI 모델...'격리망 뚫고 첫 자율 공격 성공'",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#cybersecurity",
+          "#frontier-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213033"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-ai는-지금-딥시크-키미-뜨자-동시에.md",
         "title": "[AI는 지금] 딥시크·키미 뜨자 美·中 동시에 빗장…AI 패권 전쟁 확전",
         "importance": 8,
@@ -12082,6 +12290,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-ms-미스트랄-투자로-소버린-ai-지.md",
+        "title": "MS, 미스트랄 투자로 ‘소버린 AI’ 지원… 오픈AI·앤트로픽 의존도 낮춘다",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#sovereign-ai",
+          "#investment",
+          "#enterprise-ai",
+          "#multi-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213035"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-us-threatens-sanctio.md",
         "title": "US threatens sanctions against Chinese AI models over IP theft",
         "importance": 8,
@@ -12111,6 +12334,81 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-미-재무부-중국-ai-무단-증류-혐의.md",
+        "title": "미 재무부, 중국 AI '무단 증류' 혐의 조사...'미국 모델 워터마크 다수 발견'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#geopolitics",
+          "#open-weights",
+          "#ip-rights",
+          "#sanctions"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213034"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-오픈ai-상장-앞두고-금융권-ceo-.md",
+        "title": "오픈AI, 상장 앞두고 금융권 CEO 영입…이사회 무게 싣는다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#ipo",
+          "#governance",
+          "#banking",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722141709"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-trump-s-push-for-ame.md",
+        "title": "Trump's push for American-made AI chips hits TSMC's margins",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#geopolitics",
+          "#supply-chain",
+          "#regulation",
+          "#foundry"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-과기정통부-ai-플랫폼기업과-ai-시.md",
+        "title": "과기정통부, AI·플랫폼기업과 'AI 시대에 맞는 자율규제' 시동",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#self-regulation",
+          "#governance",
+          "#platform",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000222"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-과기정통부-내년-ai-신약-개발에-2.md",
+        "title": "과기정통부, 내년 AI 신약 개발에 2500억 투입…개발기간 90% 단축",
+        "importance": 7,
+        "tags": [
+          "#government-funding",
+          "#healthcare-ai",
+          "#rnd",
+          "#autonomous-lab",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000221"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
         "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
         "importance": 7,
@@ -12123,6 +12421,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-알트먼-다음주-워싱턴서-차세대-모델-.md",
+        "title": "알트먼, 다음주 워싱턴서 '차세대 모델' 브리핑...'업무 기능 특화'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#model-release",
+          "#government-relations",
+          "#future-of-work"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213025"
       },
       {
         "date": "2026-07-22",
@@ -18461,6 +18773,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-허깅페이스를-해킹한-것은-오픈ai-모.md",
+        "title": "허깅페이스를 해킹한 것은  오픈AI 모델...'격리망 뚫고 첫 자율 공격 성공'",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#cybersecurity",
+          "#frontier-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213033"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-ai는-지금-딥시크-키미-뜨자-동시에.md",
         "title": "[AI는 지금] 딥시크·키미 뜨자 美·中 동시에 빗장…AI 패권 전쟁 확전",
         "importance": 8,
@@ -18534,6 +18861,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-ms-미스트랄-투자로-소버린-ai-지.md",
+        "title": "MS, 미스트랄 투자로 ‘소버린 AI’ 지원… 오픈AI·앤트로픽 의존도 낮춘다",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#sovereign-ai",
+          "#investment",
+          "#enterprise-ai",
+          "#multi-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213035"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-natural-raises-30-mi.md",
         "title": "Natural raises $30 million to build AI agent payments stack",
         "importance": 8,
@@ -18578,6 +18920,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-구글-제미나이-3-6-플래시-공개-코.md",
+        "title": "구글, '제미나이 3.6 플래시' 공개...코딩 대신 'AI 에이전트'에 올인",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#agent-framework",
+          "#token-efficiency",
+          "#enterprise-ai",
+          "#roadmap"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213022"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-단독-업스테이지-핵심-ai-개발자-영.md",
         "title": "[단독] 업스테이지 '핵심 AI 개발자 영입, 1인당 100억 쓴다'",
         "importance": 8,
@@ -18603,6 +18960,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=212975"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-미-재무부-중국-ai-무단-증류-혐의.md",
+        "title": "미 재무부, 중국 AI '무단 증류' 혐의 조사...'미국 모델 워터마크 다수 발견'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#geopolitics",
+          "#open-weights",
+          "#ip-rights",
+          "#sanctions"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213034"
       },
       {
         "date": "2026-07-22",
@@ -18632,6 +19004,35 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260721155550"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-엔비디아-에이전트-맞춤형-베라-cpu.md",
+        "title": "엔비디아, 에이전트 맞춤형 '베라 CPU' 세부 정보 공개...'6월부터 출하 중'",
+        "importance": 8,
+        "tags": [
+          "#ai-infrastructure",
+          "#semiconductor",
+          "#enterprise-ai",
+          "#vendor-strategy"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213044"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-오픈ai-상장-앞두고-금융권-ceo-.md",
+        "title": "오픈AI, 상장 앞두고 금융권 CEO 영입…이사회 무게 싣는다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#ipo",
+          "#governance",
+          "#banking",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722141709"
       },
       {
         "date": "2026-07-22",
@@ -18692,6 +19093,81 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-trump-s-push-for-ame.md",
+        "title": "Trump's push for American-made AI chips hits TSMC's margins",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#geopolitics",
+          "#supply-chain",
+          "#regulation",
+          "#foundry"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-tsmc-ai-비용-쇼크-내년부터-칩.md",
+        "title": "TSMC發 AI 비용 쇼크…'내년부터 칩 위탁생산 가격 10% 인상'",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#pricing",
+          "#supply-chain",
+          "#cost-inflation",
+          "#foundry"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072291477"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-과기정통부-ai-플랫폼기업과-ai-시.md",
+        "title": "과기정통부, AI·플랫폼기업과 'AI 시대에 맞는 자율규제' 시동",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#self-regulation",
+          "#governance",
+          "#platform",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000222"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-과기정통부-내년-ai-신약-개발에-2.md",
+        "title": "과기정통부, 내년 AI 신약 개발에 2500억 투입…개발기간 90% 단축",
+        "importance": 7,
+        "tags": [
+          "#government-funding",
+          "#healthcare-ai",
+          "#rnd",
+          "#autonomous-lab",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000221"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-구글도-사이버-보안-전용-모델-첫-출.md",
+        "title": "구글도 사이버 보안 전용 모델 첫 출시...'미소스의 가성비 대안'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#cybersecurity",
+          "#pricing",
+          "#enterprise-ai",
+          "#vendor-competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213023"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
         "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
         "importance": 7,
@@ -18719,6 +19195,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260722103852"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성-sk-네이버-미국서-젠슨-황-만.md",
+        "title": "삼성·SK·네이버, 미국서 젠슨 황 만난다…AI·반도체 동맹 강화",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#semiconductor",
+          "#hbm",
+          "#korea-market"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213041"
       },
       {
         "date": "2026-07-22",
@@ -18752,6 +19242,34 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-알트먼-다음주-워싱턴서-차세대-모델-.md",
+        "title": "알트먼, 다음주 워싱턴서 '차세대 모델' 브리핑...'업무 기능 특화'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#model-release",
+          "#government-relations",
+          "#future-of-work"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213025"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-와이즈앱-한국인-스마트폰-이용자-10.md",
+        "title": "와이즈앱 '한국인 스마트폰 이용자 10명 중 9명이 생성 AI 앱 설치'",
+        "importance": 7,
+        "tags": [
+          "#market-data",
+          "#consumer-ai",
+          "#korea-market",
+          "#adoption-rate"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213037"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-웨이모-중국산-반값-로보택시-운행-시.md",
         "title": "美 웨이모, 중국산 '반값 로보택시' 운행 시작",
         "importance": 7,
@@ -18782,6 +19300,22 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-유미-s-픽-유라클-돈-되는-ai-로.md",
+        "title": "[유미's 픽] 유라클, '돈 되는 AI'로 승부…금융권 폐쇄망 시장 정조준",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#finance",
+          "#on-premise",
+          "#monetization",
+          "#coding",
+          "#air-gap"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722121322"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-이재용-최태원-이해진-젠슨-황-미국서.md",
         "title": "이재용·최태원·이해진·젠슨 황, 미국서 뭉친다…'AI 어벤져스' 집결",
         "importance": 7,
@@ -18807,6 +19341,21 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026072175981"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-카카오톡-외부-연동-확장-에이전트-a.md",
+        "title": "카카오톡, 외부 연동 확장…'에이전트 AI 플랫폼' 전환 속도",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#platform",
+          "#partnership",
+          "#monetization",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000277"
       },
       {
         "date": "2026-07-22",
@@ -18882,6 +19431,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202607228441i"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-부울경-제조업체-63-스마트-제조-걸.md",
+        "title": "부울경 제조업체 63% 스마트 제조 '걸음마'…AX 전환 시급",
+        "importance": 6,
+        "tags": [
+          "#manufacturing",
+          "#ax",
+          "#market-data",
+          "#smart-factory",
+          "#korea-market"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722026800051"
       },
       {
         "date": "2026-07-22",
@@ -32021,6 +32585,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-부울경-제조업체-63-스마트-제조-걸.md",
+        "title": "부울경 제조업체 63% 스마트 제조 '걸음마'…AX 전환 시급",
+        "importance": 6,
+        "tags": [
+          "#manufacturing",
+          "#ax",
+          "#market-data",
+          "#smart-factory",
+          "#korea-market"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722026800051"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-삼성-lg-oled-영토-확장-경쟁-.md",
         "title": "삼성·LG, OLED 영토 확장 경쟁…휴머노이드부터 미래차까지 [현장+]",
         "importance": 6,
@@ -34041,6 +34620,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-ms-미스트랄-투자로-소버린-ai-지.md",
+        "title": "MS, 미스트랄 투자로 ‘소버린 AI’ 지원… 오픈AI·앤트로픽 의존도 낮춘다",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#sovereign-ai",
+          "#investment",
+          "#enterprise-ai",
+          "#multi-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213035"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-문샷-키미-k3-파장에-앤트로픽-오픈.md",
         "title": "'문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발'",
         "importance": 8,
@@ -34052,6 +34646,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=212975"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-엔비디아-에이전트-맞춤형-베라-cpu.md",
+        "title": "엔비디아, 에이전트 맞춤형 '베라 CPU' 세부 정보 공개...'6월부터 출하 중'",
+        "importance": 8,
+        "tags": [
+          "#ai-infrastructure",
+          "#semiconductor",
+          "#enterprise-ai",
+          "#vendor-strategy"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213044"
       },
       {
         "date": "2026-07-22",
@@ -34069,6 +34677,36 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-trump-s-push-for-ame.md",
+        "title": "Trump's push for American-made AI chips hits TSMC's margins",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#geopolitics",
+          "#supply-chain",
+          "#regulation",
+          "#foundry"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/trump-pressure-ai-chips-us-tsmc-margins.html"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-tsmc-ai-비용-쇼크-내년부터-칩.md",
+        "title": "TSMC發 AI 비용 쇼크…'내년부터 칩 위탁생산 가격 10% 인상'",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#pricing",
+          "#supply-chain",
+          "#cost-inflation",
+          "#foundry"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072291477"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-구윤철-3대-메가프로젝트-성공-위해-.md",
         "title": "구윤철 '3대 메가프로젝트 성공 위해 국책硏 합동 연구지원'",
         "importance": 7,
@@ -34081,6 +34719,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260722063100002"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-삼성-sk-네이버-미국서-젠슨-황-만.md",
+        "title": "삼성·SK·네이버, 미국서 젠슨 황 만난다…AI·반도체 동맹 강화",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#semiconductor",
+          "#hbm",
+          "#korea-market"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213041"
       },
       {
         "date": "2026-07-22",
@@ -36936,6 +37588,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-허깅페이스를-해킹한-것은-오픈ai-모.md",
+        "title": "허깅페이스를 해킹한 것은  오픈AI 모델...'격리망 뚫고 첫 자율 공격 성공'",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#cybersecurity",
+          "#frontier-model"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213033"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-capital-one-open-sou.md",
         "title": "Capital One open sources VulnHunter, an AI security tool that thinks like a hacker",
         "importance": 8,
@@ -37009,6 +37676,21 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-오픈ai-상장-앞두고-금융권-ceo-.md",
+        "title": "오픈AI, 상장 앞두고 금융권 CEO 영입…이사회 무게 싣는다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#ipo",
+          "#governance",
+          "#banking",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722141709"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-증권사-mts도-ai-경쟁-맞춤형-투.md",
         "title": "증권사 MTS도 'AI 경쟁'…맞춤형 투자 정보 서비스 살펴보니",
         "importance": 8,
@@ -37038,6 +37720,36 @@
       },
       {
         "date": "2026-07-22",
+        "file": "20260722-과기정통부-ai-플랫폼기업과-ai-시.md",
+        "title": "과기정통부, AI·플랫폼기업과 'AI 시대에 맞는 자율규제' 시동",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#self-regulation",
+          "#governance",
+          "#platform",
+          "#korea-market"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260722000222"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-구글도-사이버-보안-전용-모델-첫-출.md",
+        "title": "구글도 사이버 보안 전용 모델 첫 출시...'미소스의 가성비 대안'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#cybersecurity",
+          "#pricing",
+          "#enterprise-ai",
+          "#vendor-competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213023"
+      },
+      {
+        "date": "2026-07-22",
         "file": "20260722-아직-신용카드-사용자-7-뿐-ai-기.md",
         "title": "'아직 신용카드 사용자 7% 뿐'…AI 기술로 인도 뚫은 K핀테크",
         "importance": 7,
@@ -37050,6 +37762,22 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/202607228725i"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-유미-s-픽-유라클-돈-되는-ai-로.md",
+        "title": "[유미's 픽] 유라클, '돈 되는 AI'로 승부…금융권 폐쇄망 시장 정조준",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#finance",
+          "#on-premise",
+          "#monetization",
+          "#coding",
+          "#air-gap"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260722121322"
       },
       {
         "date": "2026-07-21",
@@ -38032,6 +38760,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260722094535"
+      },
+      {
+        "date": "2026-07-22",
+        "file": "20260722-부울경-제조업체-63-스마트-제조-걸.md",
+        "title": "부울경 제조업체 63% 스마트 제조 '걸음마'…AX 전환 시급",
+        "importance": 6,
+        "tags": [
+          "#manufacturing",
+          "#ax",
+          "#market-data",
+          "#smart-factory",
+          "#korea-market"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722026800051"
       },
       {
         "date": "2026-07-22",
