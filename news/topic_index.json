@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-22T23:27:47+00:00",
+  "generated_at": "2026-07-23T03:23:28+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 417,
+      "count": 418,
       "latest_date": "2026-07-23"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 424,
+      "count": 426,
       "latest_date": "2026-07-23"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 456,
+      "count": 458,
       "latest_date": "2026-07-23"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 953,
+      "count": 958,
       "latest_date": "2026-07-23"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 146,
+      "count": 149,
       "latest_date": "2026-07-23"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 208,
+      "count": 211,
       "latest_date": "2026-07-23"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 80,
+      "count": 81,
       "latest_date": "2026-07-23"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 53,
+      "count": 57,
       "latest_date": "2026-07-23"
     },
     {
@@ -93,6 +93,21 @@
       },
       {
         "date": "2026-07-23",
+        "file": "20260723-신호철-카카오페이증권-대표-3년-내-.md",
+        "title": "신호철 카카오페이증권 대표 “3년 내 2000만 투자 시대 연다…K-주식 세계화”",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#securities",
+          "#ai-agent",
+          "#robo-advisor",
+          "#monetization"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12105285"
+      },
+      {
+        "date": "2026-07-23",
         "file": "20260723-servicenow-ceo-defen.md",
         "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents",
         "importance": 6,
@@ -105,6 +120,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-갤럭시-z8-언팩-ai는-인프라-8억.md",
+        "title": "[갤럭시 Z8 언팩] 'AI는 인프라'…8억명 품는 에이전틱 AI",
+        "importance": 6,
+        "tags": [
+          "#samsung",
+          "#agentic-ai",
+          "#on-device-ai",
+          "#galaxy-ai",
+          "#scale"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668706"
       },
       {
         "date": "2026-07-23",
@@ -6272,6 +6302,21 @@
         "url": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/"
       },
       {
+        "date": "2026-07-23",
+        "file": "20260723-과기부-미소스-gpt-잡을-국산-ai.md",
+        "title": "과기부 “미소스·GPT 잡을 국산 AI 보안 모델 개발 본격화”",
+        "importance": 6,
+        "tags": [
+          "#foundation-model",
+          "#cybersecurity",
+          "#open-source",
+          "#gov-policy",
+          "#sovereign-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213073"
+      },
+      {
         "date": "2026-07-22",
         "file": "20260722-the-fed-rang-the-ala.md",
         "title": "The Fed rang the alarm about Anthropic's Mythos AI model — but had to go months without it",
@@ -12350,6 +12395,21 @@
       },
       {
         "date": "2026-07-23",
+        "file": "20260723-과기부-미소스-gpt-잡을-국산-ai.md",
+        "title": "과기부 “미소스·GPT 잡을 국산 AI 보안 모델 개발 본격화”",
+        "importance": 6,
+        "tags": [
+          "#foundation-model",
+          "#cybersecurity",
+          "#open-source",
+          "#gov-policy",
+          "#sovereign-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213073"
+      },
+      {
+        "date": "2026-07-23",
         "file": "20260723-소버린-ai-하지-말고-우리-ai만-.md",
         "title": "美 '소버린 AI 하지 말고 우리 AI만 써라'…외교 전문에 지시",
         "importance": 6,
@@ -12362,6 +12422,21 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/202607220358i"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-유미-s-픽-중국-ai로-내수-살린다.md",
+        "title": "[유미's 픽] 중국, AI로 내수 살린다…스마트폰·로봇·관광까지 'AI+소비' 시동",
+        "importance": 6,
+        "tags": [
+          "#china",
+          "#ai-policy",
+          "#monetization",
+          "#consumer-ai",
+          "#industrial-policy"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721171726"
       },
       {
         "date": "2026-07-22",
@@ -18994,6 +19069,35 @@
       },
       {
         "date": "2026-07-23",
+        "file": "20260723-alphabet-and-tesla-t.md",
+        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
+        "importance": 6,
+        "tags": [
+          "#alphabet",
+          "#tesla",
+          "#ai-capex",
+          "#earnings",
+          "#investor-sentiment"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-ibm-ai-인프라-투자-확산에-실적.md",
+        "title": "IBM, AI 인프라 투자 확산에 실적 부진…연간 성장률 전망도 낮췄다",
+        "importance": 6,
+        "tags": [
+          "#ibm",
+          "#earnings",
+          "#enterprise-ai",
+          "#infrastructure-shift"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723083613"
+      },
+      {
+        "date": "2026-07-23",
         "file": "20260723-travis-kalanick-s-ro.md",
         "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
         "importance": 6,
@@ -19005,6 +19109,51 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-갤럭시-z8-언팩-ai는-인프라-8억.md",
+        "title": "[갤럭시 Z8 언팩] 'AI는 인프라'…8억명 품는 에이전틱 AI",
+        "importance": 6,
+        "tags": [
+          "#samsung",
+          "#agentic-ai",
+          "#on-device-ai",
+          "#galaxy-ai",
+          "#scale"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668706"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-유미-s-픽-중국-ai로-내수-살린다.md",
+        "title": "[유미's 픽] 중국, AI로 내수 살린다…스마트폰·로봇·관광까지 'AI+소비' 시동",
+        "importance": 6,
+        "tags": [
+          "#china",
+          "#ai-policy",
+          "#monetization",
+          "#consumer-ai",
+          "#industrial-policy"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260721171726"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-테슬라-fsd-시대-북미-신차-55-.md",
+        "title": "[테슬라 FSD 시대] 북미 신차 55% FSD 구독…AI 수익화 속도",
+        "importance": 6,
+        "tags": [
+          "#tesla",
+          "#autonomous-driving",
+          "#fsd",
+          "#monetization",
+          "#physical-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668720"
       },
       {
         "date": "2026-07-23",
@@ -32775,6 +32924,51 @@
         "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
       },
       {
+        "date": "2026-07-23",
+        "file": "20260723-아이벡스-과기부-오픈소스-과제-주관기.md",
+        "title": "아이벡스, 과기부 오픈소스 과제 주관기관 선정",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#manufacturing",
+          "#automation",
+          "#open-source"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723103246"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-켄타우로스-로봇-세계-첫-공개-그리스.md",
+        "title": "中, '켄타우로스 로봇' 세계 첫 공개…'그리스 신화 속 상상이 현실로'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#physical-ai",
+          "#china",
+          "#waic"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723091055"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-항만을-거대한-로봇으로-진해신항-피지.md",
+        "title": "'항만을 거대한 로봇으로'…진해신항 '피지컬 AI 모델' 만든다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#port",
+          "#automation",
+          "#gov-project",
+          "#robotics"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722176600051"
+      },
+      {
         "date": "2026-07-22",
         "file": "20260722-삼성전자-로봇-전담-rx-사업부-신설.md",
         "title": "삼성전자, 로봇 전담 'RX 사업부' 신설...B2B·B2C 동시 공략한다",
@@ -34958,6 +35152,20 @@
       },
       {
         "date": "2026-07-23",
+        "file": "20260723-ls일렉-2분기-영업익-1785억-전.md",
+        "title": "LS일렉, 2분기 영업익 1785억·전년비 64.4%↑…분기 사상 최대",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#earnings",
+          "#ai-infra"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723105035"
+      },
+      {
+        "date": "2026-07-23",
         "file": "20260723-utility-companies-pr.md",
         "title": "Utility companies promise to spare us from AI’s energy bill",
         "importance": 6,
@@ -34969,6 +35177,35 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-삼성전기-또-mlcc-수주-잭팟-올해.md",
+        "title": "삼성전기, 또 MLCC 수주 잭팟…올해 누적 2.2조 돌파",
+        "importance": 6,
+        "tags": [
+          "#ai-server",
+          "#mlcc",
+          "#supply-chain",
+          "#components"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668712"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-엘리스그룹-gpu-npu-기반-산업단.md",
+        "title": "엘리스그룹, GPU·NPU 기반 산업단지 엣지 AIDC 구축 참여",
+        "importance": 6,
+        "tags": [
+          "#edge-ai",
+          "#datacenter",
+          "#npu",
+          "#smart-manufacturing",
+          "#ai-infra"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000236"
       },
       {
         "date": "2026-07-22",
@@ -37971,6 +38208,21 @@
       },
       {
         "date": "2026-07-23",
+        "file": "20260723-신호철-카카오페이증권-대표-3년-내-.md",
+        "title": "신호철 카카오페이증권 대표 “3년 내 2000만 투자 시대 연다…K-주식 세계화”",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#securities",
+          "#ai-agent",
+          "#robo-advisor",
+          "#monetization"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12105285"
+      },
+      {
+        "date": "2026-07-23",
         "file": "20260723-포티투마루-예금보험공사-공공-ax-플.md",
         "title": "포티투마루, 예금보험공사 공공 AX 플랫폼 구축한다",
         "importance": 7,
@@ -39114,6 +39366,66 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-아이벡스-과기부-오픈소스-과제-주관기.md",
+        "title": "아이벡스, 과기부 오픈소스 과제 주관기관 선정",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#manufacturing",
+          "#automation",
+          "#open-source"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723103246"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-켄타우로스-로봇-세계-첫-공개-그리스.md",
+        "title": "中, '켄타우로스 로봇' 세계 첫 공개…'그리스 신화 속 상상이 현실로'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#physical-ai",
+          "#china",
+          "#waic"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723091055"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-테슬라-fsd-시대-북미-신차-55-.md",
+        "title": "[테슬라 FSD 시대] 북미 신차 55% FSD 구독…AI 수익화 속도",
+        "importance": 6,
+        "tags": [
+          "#tesla",
+          "#autonomous-driving",
+          "#fsd",
+          "#monetization",
+          "#physical-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668720"
+      },
+      {
+        "date": "2026-07-23",
+        "file": "20260723-항만을-거대한-로봇으로-진해신항-피지.md",
+        "title": "'항만을 거대한 로봇으로'…진해신항 '피지컬 AI 모델' 만든다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#port",
+          "#automation",
+          "#gov-project",
+          "#robotics"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260722176600051"
       },
       {
         "date": "2026-07-22",
