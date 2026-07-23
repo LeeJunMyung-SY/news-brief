@@ -1,11 +1,15 @@
 ---
 topic: "llm_models"
 label: "Large Language Models and Foundation Models"
-updated_at: "2026-07-23 08:27"
-run_id: "run_20260723_082743"
+updated_at: "2026-07-23 18:39"
+run_id: "run_20260723_183939"
 ---
 
 # Large Language Models and Foundation Models — 동향 요약
+
+### 2026-07-23 18:39
+
+국내 오픈웨이트 모델 경쟁이 '독자 AI 파운데이션 모델(독파모)' 2차 평가를 앞두고 가열됐다. 업스테이지가 250B MoE 구조의 '솔라 오픈 2'를 허깅페이스에 전면 공개하며 에이전트·한국어 성능을 크게 끌어올렸고, SKT의 5190억 파라미터 'A.X K1'은 국산 NPU(리벨리온)에서 구동에 성공했다. 상업적 활용이 자유로운 오픈웨이트 전략이 국내 AI 자립 경쟁의 축으로 부상하고 있다.
 
 ### 2026-07-23 08:27
 
