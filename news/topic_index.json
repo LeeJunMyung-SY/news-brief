@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-23T09:39:42+00:00",
+  "generated_at": "2026-07-23T23:22:46+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 420,
-      "latest_date": "2026-07-23"
+      "count": 425,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 431,
-      "latest_date": "2026-07-23"
+      "count": 436,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 462,
-      "latest_date": "2026-07-23"
+      "count": 469,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 971,
-      "latest_date": "2026-07-23"
+      "count": 987,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 151,
-      "latest_date": "2026-07-23"
+      "count": 154,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 216,
-      "latest_date": "2026-07-23"
+      "count": 222,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 85,
-      "latest_date": "2026-07-23"
+      "count": 90,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 59,
-      "latest_date": "2026-07-23"
+      "count": 62,
+      "latest_date": "2026-07-24"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,81 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-24",
+        "file": "20260724-one-tampered-chatgpt.md",
+        "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#security",
+          "#governance",
+          "#prompt-injection"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-openai-s-hugging-fac.md",
+        "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#regulation",
+          "#legislation",
+          "#governance",
+          "#agent-framework"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-과도한-가드레일로-미국-모델-무용지물.md",
+        "title": "'과도한 가드레일로 미국 모델 무용지물'…허깅페이스,해킹 분석에 지푸 사용",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#guardrails",
+          "#open-weights",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-aegisai-founded-by-f.md",
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#security",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#phishing"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-turnstile-extends-qu.md",
+        "title": "Turnstile extends Quote-to-Cash platform to AI agents",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#finance",
+          "#automation",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110481/turnstile-extends-quote-to-cash-platform-to-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
       {
         "date": "2026-07-23",
         "file": "20260723-gpu-2장으로-고성능-에이전트-구동.md",
@@ -6348,6 +6423,82 @@
     ],
     "llm_models": [
       {
+        "date": "2026-07-24",
+        "file": "20260724-google-ceo-pichai-sa.md",
+        "title": "Google CEO Pichai says Gemini's next leap depends on building 'much larger base models'",
+        "importance": 8,
+        "tags": [
+          "#capex",
+          "#cloud",
+          "#earnings",
+          "#datacenter",
+          "#google"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-moonshot-ai-accessed.md",
+        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#export-control",
+          "#china-ai",
+          "#nvidia",
+          "#supply-chain",
+          "#us-policy"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-openai-is-making-big.md",
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#healthcare-ai",
+          "#regulation",
+          "#enterprise-ai",
+          "#data-privacy"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-과도한-가드레일로-미국-모델-무용지물.md",
+        "title": "'과도한 가드레일로 미국 모델 무용지물'…허깅페이스,해킹 분석에 지푸 사용",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#guardrails",
+          "#open-weights",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중국산-ai-차단-말라-미국-스타트업.md",
+        "title": "'중국산 AI 차단 말라'…미국 스타트업 200곳, 트럼프 행정부에 호소",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#china-ai",
+          "#us-policy",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213101"
+      },
+      {
         "date": "2026-07-23",
         "file": "20260723-gpu-2장으로-고성능-에이전트-구동.md",
         "title": "“GPU 2장으로 고성능 에이전트 구동”…업스테이지 ‘솔라 오픈 2’ 공개",
@@ -12438,6 +12589,112 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-07-24",
+        "file": "20260724-moonshot-ai-accessed.md",
+        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#export-control",
+          "#china-ai",
+          "#nvidia",
+          "#supply-chain",
+          "#us-policy"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-one-tampered-chatgpt.md",
+        "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#security",
+          "#governance",
+          "#prompt-injection"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-openai-s-hugging-fac.md",
+        "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#regulation",
+          "#legislation",
+          "#governance",
+          "#agent-framework"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-openai-is-making-big.md",
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#healthcare-ai",
+          "#regulation",
+          "#enterprise-ai",
+          "#data-privacy"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-과도한-가드레일로-미국-모델-무용지물.md",
+        "title": "'과도한 가드레일로 미국 모델 무용지물'…허깅페이스,해킹 분석에 지푸 사용",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#guardrails",
+          "#open-weights",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중국산-ai-차단-말라-미국-스타트업.md",
+        "title": "'중국산 AI 차단 말라'…미국 스타트업 200곳, 트럼프 행정부에 호소",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#china-ai",
+          "#us-policy",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213101"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중기부-국내-첫-스마트제조기술산업-특.md",
+        "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
+        "importance": 6,
+        "tags": [
+          "#government-policy",
+          "#smart-manufacturing",
+          "#industrial-ai",
+          "#korea",
+          "#statistics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723222405"
+      },
       {
         "date": "2026-07-23",
         "file": "20260723-anthropic-s-1-5b-pir.md",
@@ -19142,6 +19399,249 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-07-24",
+        "file": "20260724-google-ceo-pichai-sa.md",
+        "title": "Google CEO Pichai says Gemini's next leap depends on building 'much larger base models'",
+        "importance": 8,
+        "tags": [
+          "#capex",
+          "#cloud",
+          "#earnings",
+          "#datacenter",
+          "#google"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-moonshot-ai-accessed.md",
+        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#export-control",
+          "#china-ai",
+          "#nvidia",
+          "#supply-chain",
+          "#us-policy"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-openai-s-hugging-fac.md",
+        "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#regulation",
+          "#legislation",
+          "#governance",
+          "#agent-framework"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-skt-aidc-전담-법인-sk하이퍼.md",
+        "title": "SKT, AIDC 전담 법인 'SK하이퍼' 신설…수장에 정석근 CTO",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#datacenter",
+          "#korea",
+          "#investment",
+          "#ai-infrastructure"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668813"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-메타도-엔비디아도-빚투-경쟁하듯-ai.md",
+        "title": "메타도 엔비디아도 '빚투'…경쟁하듯 'AI 베팅', 빅테크 현금이 마른다",
+        "importance": 8,
+        "tags": [
+          "#capex",
+          "#corporate-bond",
+          "#datacenter",
+          "#financial-risk",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000459"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-300조-쏟아붓는다-알파벳-한마디에-.md",
+        "title": "'300조 쏟아붓는다'…알파벳 한마디에 삼성·SK 웃었다",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#semiconductor",
+          "#korea",
+          "#stock-market",
+          "#memory"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607231925165859"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-intel-s-stock-jumps-.md",
+        "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#semiconductor",
+          "#ai-chip",
+          "#intel",
+          "#supply-chain"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-openai-is-making-big.md",
+        "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#healthcare-ai",
+          "#regulation",
+          "#enterprise-ai",
+          "#data-privacy"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-과도한-가드레일로-미국-모델-무용지물.md",
+        "title": "'과도한 가드레일로 미국 모델 무용지물'…허깅페이스,해킹 분석에 지푸 사용",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#guardrails",
+          "#open-weights",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-단독-젠슨-황-손잡은-서울대-최초-피.md",
+        "title": "[단독] 젠슨 황 손잡은 서울대, 亞 최초 '피지컬AI 조인트 랩' 추진",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#physical-ai",
+          "#robotics",
+          "#korea",
+          "#nvidia",
+          "#research-collaboration"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607232809i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-인텔리빅스-고속도로-cctv-4000.md",
+        "title": "인텔리빅스, 고속도로 CCTV 4000대에 AI 관제 적용",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#computer-vision",
+          "#npu",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000457"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중국산-ai-차단-말라-미국-스타트업.md",
+        "title": "'중국산 AI 차단 말라'…미국 스타트업 200곳, 트럼프 행정부에 호소",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#china-ai",
+          "#us-policy",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213101"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-aegisai-founded-by-f.md",
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#security",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#phishing"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-jpmorgan-report-find.md",
+        "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#asset-management",
+          "#thematic-investing",
+          "#jpmorgan",
+          "#finance"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-turnstile-extends-qu.md",
+        "title": "Turnstile extends Quote-to-Cash platform to AI agents",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#finance",
+          "#automation",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110481/turnstile-extends-quote-to-cash-platform-to-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중기부-국내-첫-스마트제조기술산업-특.md",
+        "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
+        "importance": 6,
+        "tags": [
+          "#government-policy",
+          "#smart-manufacturing",
+          "#industrial-ai",
+          "#korea",
+          "#statistics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723222405"
+      },
       {
         "date": "2026-07-23",
         "file": "20260723-amd-commits-up-to-5-.md",
@@ -33265,6 +33765,53 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-07-24",
+        "file": "20260724-단독-젠슨-황-손잡은-서울대-최초-피.md",
+        "title": "[단독] 젠슨 황 손잡은 서울대, 亞 최초 '피지컬AI 조인트 랩' 추진",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#physical-ai",
+          "#robotics",
+          "#korea",
+          "#nvidia",
+          "#research-collaboration"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607232809i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-인텔리빅스-고속도로-cctv-4000.md",
+        "title": "인텔리빅스, 고속도로 CCTV 4000대에 AI 관제 적용",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#computer-vision",
+          "#npu",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000457"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중기부-국내-첫-스마트제조기술산업-특.md",
+        "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
+        "importance": 6,
+        "tags": [
+          "#government-policy",
+          "#smart-manufacturing",
+          "#industrial-ai",
+          "#korea",
+          "#statistics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723222405"
+      },
+      {
         "date": "2026-07-23",
         "file": "20260723-네이버-일본-대형-복합빌딩에-1784.md",
         "title": "네이버, 일본 대형 복합빌딩에 ‘1784 스마트빌딩 기술 솔루션’ 첫 수출",
@@ -35477,6 +36024,97 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-07-24",
+        "file": "20260724-google-ceo-pichai-sa.md",
+        "title": "Google CEO Pichai says Gemini's next leap depends on building 'much larger base models'",
+        "importance": 8,
+        "tags": [
+          "#capex",
+          "#cloud",
+          "#earnings",
+          "#datacenter",
+          "#google"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-moonshot-ai-accessed.md",
+        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#export-control",
+          "#china-ai",
+          "#nvidia",
+          "#supply-chain",
+          "#us-policy"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-skt-aidc-전담-법인-sk하이퍼.md",
+        "title": "SKT, AIDC 전담 법인 'SK하이퍼' 신설…수장에 정석근 CTO",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#datacenter",
+          "#korea",
+          "#investment",
+          "#ai-infrastructure"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668813"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-메타도-엔비디아도-빚투-경쟁하듯-ai.md",
+        "title": "메타도 엔비디아도 '빚투'…경쟁하듯 'AI 베팅', 빅테크 현금이 마른다",
+        "importance": 8,
+        "tags": [
+          "#capex",
+          "#corporate-bond",
+          "#datacenter",
+          "#financial-risk",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000459"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-300조-쏟아붓는다-알파벳-한마디에-.md",
+        "title": "'300조 쏟아붓는다'…알파벳 한마디에 삼성·SK 웃었다",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#semiconductor",
+          "#korea",
+          "#stock-market",
+          "#memory"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607231925165859"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-intel-s-stock-jumps-.md",
+        "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#semiconductor",
+          "#ai-chip",
+          "#intel",
+          "#supply-chain"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html"
+      },
       {
         "date": "2026-07-23",
         "file": "20260723-amd-commits-up-to-5-.md",
@@ -38619,6 +39257,81 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-07-24",
+        "file": "20260724-one-tampered-chatgpt.md",
+        "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#security",
+          "#governance",
+          "#prompt-injection"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-메타도-엔비디아도-빚투-경쟁하듯-ai.md",
+        "title": "메타도 엔비디아도 '빚투'…경쟁하듯 'AI 베팅', 빅테크 현금이 마른다",
+        "importance": 8,
+        "tags": [
+          "#capex",
+          "#corporate-bond",
+          "#datacenter",
+          "#financial-risk",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000459"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-300조-쏟아붓는다-알파벳-한마디에-.md",
+        "title": "'300조 쏟아붓는다'…알파벳 한마디에 삼성·SK 웃었다",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#semiconductor",
+          "#korea",
+          "#stock-market",
+          "#memory"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607231925165859"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-jpmorgan-report-find.md",
+        "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#asset-management",
+          "#thematic-investing",
+          "#jpmorgan",
+          "#finance"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/jpmorgan-dramatic-jump-in-ai-etfs-despite-rough-quarter.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-turnstile-extends-qu.md",
+        "title": "Turnstile extends Quote-to-Cash platform to AI agents",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#finance",
+          "#automation",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110481/turnstile-extends-quote-to-cash-platform-to-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
         "date": "2026-07-23",
         "file": "20260723-anthropic-to-support.md",
         "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
@@ -39872,6 +40585,53 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-07-24",
+        "file": "20260724-단독-젠슨-황-손잡은-서울대-최초-피.md",
+        "title": "[단독] 젠슨 황 손잡은 서울대, 亞 최초 '피지컬AI 조인트 랩' 추진",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#physical-ai",
+          "#robotics",
+          "#korea",
+          "#nvidia",
+          "#research-collaboration"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607232809i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-인텔리빅스-고속도로-cctv-4000.md",
+        "title": "인텔리빅스, 고속도로 CCTV 4000대에 AI 관제 적용",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#computer-vision",
+          "#npu",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260723000457"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-중기부-국내-첫-스마트제조기술산업-특.md",
+        "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
+        "importance": 6,
+        "tags": [
+          "#government-policy",
+          "#smart-manufacturing",
+          "#industrial-ai",
+          "#korea",
+          "#statistics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723222405"
+      },
       {
         "date": "2026-07-23",
         "file": "20260723-네이버-일본-대형-복합빌딩에-1784.md",
