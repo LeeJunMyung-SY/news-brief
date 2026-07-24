@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-24T03:22:07+00:00",
+  "generated_at": "2026-07-24T07:40:02+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 429,
+      "count": 432,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 443,
+      "count": 445,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 474,
+      "count": 476,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1003,
+      "count": 1014,
       "latest_date": "2026-07-24"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 156,
+      "count": 159,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 227,
+      "count": 231,
       "latest_date": "2026-07-24"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 92,
+      "count": 93,
       "latest_date": "2026-07-24"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 64,
+      "count": 67,
       "latest_date": "2026-07-24"
     },
     {
@@ -183,6 +183,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-더존비즈온-개발-조직-전체에-클로드-.md",
+        "title": "더존비즈온, 개발 조직 전체에 '클로드' 지원…'AX 퍼스트무버' 전략 가속화",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#claude",
+          "#roi-case",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000272"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-딥핑소스-국내-리테일-매장-1000개.md",
         "title": "딥핑소스, 국내 리테일 매장 1000개 자율 운영 나선다",
         "importance": 7,
@@ -195,6 +210,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260724094221"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-젠스파크-ai-워크스페이스-6-0-과.md",
+        "title": "젠스파크, 'AI 워크스페이스 6.0'과 한국 진출…“3년간 1억달러 투자”",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#enterprise-ai",
+          "#investment",
+          "#korea-entry",
+          "#productivity"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000283"
       },
       {
         "date": "2026-07-24",
@@ -6575,6 +6605,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-ms-mai-이미지-2-5-프로-등-.md",
+        "title": "MS, 'MAI-이미지-2.5-프로' 등 출시...'오픈AI 모델 본격 대체'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#microsoft",
+          "#enterprise-ai",
+          "#vertical-integration",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213132"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-openai-is-making-big.md",
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "importance": 7,
@@ -6617,6 +6662,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-앤트로픽-클로드-오퍼스-5-출시-임박.md",
+        "title": "앤트로픽 '클로드 오퍼스 5' 출시 임박…개발 도구·버텍스서 정황 포착",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#anthropic",
+          "#claude",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213127"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-오픈ai-미국서-챗gpt-헬스-출시-.md",
+        "title": "오픈AI, 미국서 '챗GPT 헬스' 출시…의료기록 연동 맞춤형 상담 지원",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#healthcare-ai",
+          "#product-launch",
+          "#openai",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213134"
       },
       {
         "date": "2026-07-24",
@@ -12802,6 +12876,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-오픈ai-해킹-파장에-백악관-주시-미.md",
+        "title": "오픈AI 해킹 파장에 백악관 주시...미 의회 'AI 킬 스위치' 법안 발의",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#ai-safety",
+          "#safety-incident",
+          "#legislation",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213128"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-amazon-cracks-down-o.md",
         "title": "Amazon cracks down on use of AI images by sellers after New York law",
         "importance": 7,
@@ -12889,6 +12978,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213101"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-eu-구글에-안드로이드-개방-명령-이.md",
+        "title": "EU, 구글에 안드로이드 개방 명령 이어 1.5조 ‘벌금 폭탄’",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#antitrust",
+          "#google",
+          "#eu",
+          "#dma"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213137"
       },
       {
         "date": "2026-07-24",
@@ -19807,6 +19911,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-ms-mai-이미지-2-5-프로-등-.md",
+        "title": "MS, 'MAI-이미지-2.5-프로' 등 출시...'오픈AI 모델 본격 대체'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#microsoft",
+          "#enterprise-ai",
+          "#vertical-integration",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213132"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-openai-is-making-big.md",
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "importance": 7,
@@ -19913,6 +20032,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-더존비즈온-개발-조직-전체에-클로드-.md",
+        "title": "더존비즈온, 개발 조직 전체에 '클로드' 지원…'AX 퍼스트무버' 전략 가속화",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#claude",
+          "#roi-case",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000272"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-딥핑소스-국내-리테일-매장-1000개.md",
         "title": "딥핑소스, 국내 리테일 매장 1000개 자율 운영 나선다",
         "importance": 7,
@@ -19925,6 +20059,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260724094221"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-오픈ai-미국서-챗gpt-헬스-출시-.md",
+        "title": "오픈AI, 미국서 '챗GPT 헬스' 출시…의료기록 연동 맞춤형 상담 지원",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#healthcare-ai",
+          "#product-launch",
+          "#openai",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213134"
       },
       {
         "date": "2026-07-24",
@@ -19959,6 +20108,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-젠스파크-ai-워크스페이스-6-0-과.md",
+        "title": "젠스파크, 'AI 워크스페이스 6.0'과 한국 진출…“3년간 1억달러 투자”",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#enterprise-ai",
+          "#investment",
+          "#korea-entry",
+          "#productivity"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000283"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-중국산-ai-차단-말라-미국-스타트업.md",
         "title": "'중국산 AI 차단 말라'…미국 스타트업 200곳, 트럼프 행정부에 호소",
         "importance": 7,
@@ -19986,6 +20150,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-eu-구글에-안드로이드-개방-명령-이.md",
+        "title": "EU, 구글에 안드로이드 개방 명령 이어 1.5조 ‘벌금 폭탄’",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#antitrust",
+          "#google",
+          "#eu",
+          "#dma"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213137"
       },
       {
         "date": "2026-07-24",
@@ -20019,6 +20198,35 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-구글의-변신-ai-인프라-기업-이-되.md",
+        "title": "구글의 변신?…'AI 인프라 기업'이 되고 있다",
+        "importance": 6,
+        "tags": [
+          "#google",
+          "#ai-infrastructure",
+          "#datacenter",
+          "#strategy"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607232445i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-노타-amd-로보틱스-생태계-합류-작.md",
+        "title": "노타, AMD 로보틱스 생태계 합류...'작지만 똑똑한 로봇 AI 만든다'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#partnership",
+          "#korea-startup",
+          "#edge-ai",
+          "#model-optimization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213125"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-단독-엔비디아-해군-ai-장교-육성한.md",
         "title": "[단독] 엔비디아, 美 해군 AI 장교 육성한다…슈퍼컴 기증",
         "importance": 6,
@@ -20031,6 +20239,66 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026072438146"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-데이터브릭스-ms와-전략적-파트너십-.md",
+        "title": "데이터브릭스, MS와 전략적 파트너십 확대…기업용 AI 혁신 위한 협력 강화",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#cloud",
+          "#data-platform",
+          "#microsoft"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000286"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-메가존클라우드-아크릴과-손잡고-ai-.md",
+        "title": "메가존클라우드, 아크릴과 손잡고 AI 인프라 사업 확대",
+        "importance": 6,
+        "tags": [
+          "#ai-infrastructure",
+          "#gpu",
+          "#partnership",
+          "#cloud",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000276"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-브룩필드-자본에-엔비디아-칩까지-네이.md",
+        "title": "브룩필드 자본에 엔비디아 칩까지…네이버, AI 인프라株로 다시 뜬다",
+        "importance": 6,
+        "tags": [
+          "#naver",
+          "#ai-infrastructure",
+          "#nvidia",
+          "#investment",
+          "#korea"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607244285i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-블랙스톤-ai-투자-빛났다-aum-1.md",
+        "title": "블랙스톤, AI 투자 빛났다…AUM 1조3500억달러 '사상 최대'",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#private-equity",
+          "#ai-infrastructure",
+          "#finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668910"
       },
       {
         "date": "2026-07-24",
@@ -34293,6 +34561,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-노타-amd-로보틱스-생태계-합류-작.md",
+        "title": "노타, AMD 로보틱스 생태계 합류...'작지만 똑똑한 로봇 AI 만든다'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#partnership",
+          "#korea-startup",
+          "#edge-ai",
+          "#model-optimization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213125"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-어닝쇼크-테슬라-주가-14-급락-ai.md",
         "title": "'어닝쇼크' 테슬라, 주가 14% 급락…AI 신사업도 '기대 이하'",
         "importance": 6,
@@ -34305,6 +34588,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260724085253"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-엔비디아-gpu-최초로-달-표면-달린.md",
+        "title": "엔비디아 GPU, 최초로 달 표면 달린다...달 탐사 로버에 '젯슨' 탑재",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#nvidia",
+          "#edge-ai",
+          "#space"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213136"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-인티그리트-휴머노이드-피지컬-ai에이.md",
+        "title": "인티그리트, '휴머노이드 피지컬 AI에이전트 통합 플랫폼' 공개",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#humanoid",
+          "#robotics",
+          "#korea",
+          "#edge-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724131000"
       },
       {
         "date": "2026-07-24",
@@ -36657,6 +36970,20 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-구글의-변신-ai-인프라-기업-이-되.md",
+        "title": "구글의 변신?…'AI 인프라 기업'이 되고 있다",
+        "importance": 6,
+        "tags": [
+          "#google",
+          "#ai-infrastructure",
+          "#datacenter",
+          "#strategy"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607232445i"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-단독-엔비디아-해군-ai-장교-육성한.md",
         "title": "[단독] 엔비디아, 美 해군 AI 장교 육성한다…슈퍼컴 기증",
         "importance": 6,
@@ -36669,6 +36996,51 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026072438146"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-메가존클라우드-아크릴과-손잡고-ai-.md",
+        "title": "메가존클라우드, 아크릴과 손잡고 AI 인프라 사업 확대",
+        "importance": 6,
+        "tags": [
+          "#ai-infrastructure",
+          "#gpu",
+          "#partnership",
+          "#cloud",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000276"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-브룩필드-자본에-엔비디아-칩까지-네이.md",
+        "title": "브룩필드 자본에 엔비디아 칩까지…네이버, AI 인프라株로 다시 뜬다",
+        "importance": 6,
+        "tags": [
+          "#naver",
+          "#ai-infrastructure",
+          "#nvidia",
+          "#investment",
+          "#korea"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607244285i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-블랙스톤-ai-투자-빛났다-aum-1.md",
+        "title": "블랙스톤, AI 투자 빛났다…AUM 1조3500억달러 '사상 최대'",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#private-equity",
+          "#ai-infrastructure",
+          "#finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668910"
       },
       {
         "date": "2026-07-24",
@@ -39947,6 +40319,21 @@
         "url": "https://www.finextra.com/pressarticle/110481/turnstile-extends-quote-to-cash-platform-to-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
+        "date": "2026-07-24",
+        "file": "20260724-블랙스톤-ai-투자-빛났다-aum-1.md",
+        "title": "블랙스톤, AI 투자 빛났다…AUM 1조3500억달러 '사상 최대'",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#private-equity",
+          "#ai-infrastructure",
+          "#finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668910"
+      },
+      {
         "date": "2026-07-23",
         "file": "20260723-anthropic-to-support.md",
         "title": "Anthropic to support AI tests in FCA's Supercharged Sandbox",
@@ -41249,6 +41636,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-노타-amd-로보틱스-생태계-합류-작.md",
+        "title": "노타, AMD 로보틱스 생태계 합류...'작지만 똑똑한 로봇 AI 만든다'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#partnership",
+          "#korea-startup",
+          "#edge-ai",
+          "#model-optimization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213125"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-어닝쇼크-테슬라-주가-14-급락-ai.md",
         "title": "'어닝쇼크' 테슬라, 주가 14% 급락…AI 신사업도 '기대 이하'",
         "importance": 6,
@@ -41261,6 +41663,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260724085253"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-엔비디아-gpu-최초로-달-표면-달린.md",
+        "title": "엔비디아 GPU, 최초로 달 표면 달린다...달 탐사 로버에 '젯슨' 탑재",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#nvidia",
+          "#edge-ai",
+          "#space"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213136"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-인티그리트-휴머노이드-피지컬-ai에이.md",
+        "title": "인티그리트, '휴머노이드 피지컬 AI에이전트 통합 플랫폼' 공개",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#humanoid",
+          "#robotics",
+          "#korea",
+          "#edge-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724131000"
       },
       {
         "date": "2026-07-24",

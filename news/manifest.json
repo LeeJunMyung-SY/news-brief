@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-07-24T03:22:07+00:00",
+  "generated_at": "2026-07-24T07:40:02+00:00",
   "latest_date": "2026-07-24",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 429
+      "count": 432
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 443
+      "count": 445
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 474
+      "count": 476
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1003
+      "count": 1014
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 156
+      "count": 159
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 227
+      "count": 231
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 92
+      "count": 93
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 64
+      "count": 67
     }
   ],
   "daily": [
@@ -58,6 +58,12 @@
           "file": "digest_1222.md",
           "selected": 16,
           "new": 320
+        },
+        {
+          "time": "16:39",
+          "file": "digest_1639.md",
+          "selected": 15,
+          "new": 428
         }
       ]
     },
@@ -1163,7 +1169,7 @@
       "file": "2026-W30.md",
       "week_start": "2026-07-20",
       "week_end": "2026-07-26",
-      "total_selected_this_week": 525
+      "total_selected_this_week": 554
     },
     {
       "week": "2026-W29",
