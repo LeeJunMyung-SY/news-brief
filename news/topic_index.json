@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-23T23:22:46+00:00",
+  "generated_at": "2026-07-24T03:22:07+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 425,
+      "count": 429,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 436,
+      "count": 443,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 469,
+      "count": 474,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 987,
+      "count": 1003,
       "latest_date": "2026-07-24"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 154,
+      "count": 156,
       "latest_date": "2026-07-24"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 222,
+      "count": 227,
       "latest_date": "2026-07-24"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 90,
+      "count": 92,
       "latest_date": "2026-07-24"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 62,
+      "count": 64,
       "latest_date": "2026-07-24"
     },
     {
@@ -108,6 +108,51 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-데이터브릭스-ms-ai-동맹-2030.md",
+        "title": "데이터브릭스-MS, 'AI 동맹' 2030년까지 연장…'데이터 통합 강화'",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#data-platform",
+          "#governance",
+          "#agent-framework"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724095611"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-kaist-엔비디아-ai공동연구소-설.md",
+        "title": "KAIST-엔비디아, AI공동연구소 설립…”컴퓨팅 자원 740억 규모 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#korea-ai",
+          "#talent",
+          "#gpu-infra"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213123"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-게시판-코빗-챗gpt-클로드-연동-a.md",
+        "title": "[게시판] 코빗, 챗GPT·클로드 연동 'AI 에이전트 트레이딩' 지원",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#finance",
+          "#crypto",
+          "#ai-adoption",
+          "#mcp"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260724036700002"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-과도한-가드레일로-미국-모델-무용지물.md",
         "title": "'과도한 가드레일로 미국 모델 무용지물'…허깅페이스,해킹 분석에 지푸 사용",
         "importance": 7,
@@ -120,6 +165,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-단독-삼성-mx-sw-검증조직-슬림화.md",
+        "title": "[단독] 삼성 MX, SW 검증조직 슬림화…AX發 인력 효율화 신호탄",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#ai-adoption",
+          "#workforce",
+          "#automation",
+          "#samsung"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668869"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-딥핑소스-국내-리테일-매장-1000개.md",
+        "title": "딥핑소스, 국내 리테일 매장 1000개 자율 운영 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#retail-ai",
+          "#robotics",
+          "#roi-case",
+          "#gov-project"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724094221"
       },
       {
         "date": "2026-07-24",
@@ -150,6 +225,36 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/110481/turnstile-extends-quote-to-cash-platform-to-ai-agents?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-앤트로픽-클로드-음성-모드-고도화-실.md",
+        "title": "앤트로픽, '클로드 음성 모드' 고도화…'실제 업무까지 수행'",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#voice-ai",
+          "#agent-framework",
+          "#productivity",
+          "#anthropic"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724085356"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-유미-s-픽-ai-투자-부담에-가려졌.md",
+        "title": "[유미's 픽] 'AI 투자 부담에 가려졌다'…오라클, AI 에이전트 타고 재평가 받을까",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-adoption",
+          "#datacenter",
+          "#valuation",
+          "#erp"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723141232"
       },
       {
         "date": "2026-07-23",
@@ -6455,6 +6560,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-kaist-엔비디아-ai공동연구소-설.md",
+        "title": "KAIST-엔비디아, AI공동연구소 설립…”컴퓨팅 자원 740억 규모 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#korea-ai",
+          "#talent",
+          "#gpu-infra"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213123"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-openai-is-making-big.md",
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "importance": 7,
@@ -6467,6 +6587,21 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-u-s-other-nations-ba.md",
+        "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+        "importance": 7,
+        "tags": [
+          "#open-source",
+          "#regulation",
+          "#geopolitics",
+          "#open-weights",
+          "#standards"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
       },
       {
         "date": "2026-07-24",
@@ -6485,6 +6620,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-오픈ai-챗gpt-헬스-미국-전역으로.md",
+        "title": "오픈AI, '챗GPT 헬스' 미국 전역으로 확대",
+        "importance": 7,
+        "tags": [
+          "#healthcare-ai",
+          "#product-launch",
+          "#openai",
+          "#data-integration",
+          "#regulated-industry"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724092606"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-중국산-ai-차단-말라-미국-스타트업.md",
         "title": "'중국산 AI 차단 말라'…미국 스타트업 200곳, 트럼프 행정부에 호소",
         "importance": 7,
@@ -6497,6 +6647,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213101"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-앤트로픽-클로드-음성-모드-고도화-실.md",
+        "title": "앤트로픽, '클로드 음성 모드' 고도화…'실제 업무까지 수행'",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#voice-ai",
+          "#agent-framework",
+          "#productivity",
+          "#anthropic"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724085356"
       },
       {
         "date": "2026-07-23",
@@ -12637,6 +12802,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-amazon-cracks-down-o.md",
+        "title": "Amazon cracks down on use of AI images by sellers after New York law",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#genai-disclosure",
+          "#e-commerce",
+          "#compliance",
+          "#synthetic-media"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-openai-is-making-big.md",
         "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "importance": 7,
@@ -12649,6 +12829,21 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-u-s-other-nations-ba.md",
+        "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+        "importance": 7,
+        "tags": [
+          "#open-source",
+          "#regulation",
+          "#geopolitics",
+          "#open-weights",
+          "#standards"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
       },
       {
         "date": "2026-07-24",
@@ -12667,6 +12862,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-오픈ai-챗gpt-헬스-미국-전역으로.md",
+        "title": "오픈AI, '챗GPT 헬스' 미국 전역으로 확대",
+        "importance": 7,
+        "tags": [
+          "#healthcare-ai",
+          "#product-launch",
+          "#openai",
+          "#data-integration",
+          "#regulated-industry"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724092606"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-중국산-ai-차단-말라-미국-스타트업.md",
         "title": "'중국산 AI 차단 말라'…미국 스타트업 200곳, 트럼프 행정부에 호소",
         "importance": 7,
@@ -12682,6 +12892,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-단독-엔비디아-해군-ai-장교-육성한.md",
+        "title": "[단독] 엔비디아, 美 해군 AI 장교 육성한다…슈퍼컴 기증",
+        "importance": 6,
+        "tags": [
+          "#defense-ai",
+          "#gpu-infra",
+          "#talent",
+          "#nvidia",
+          "#partnership"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072438146"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-중기부-국내-첫-스마트제조기술산업-특.md",
         "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
         "importance": 6,
@@ -12694,6 +12919,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260723222405"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-지역-국립대병원-빅5급-으로-키운다.md",
+        "title": "지역 국립대병원 '빅5급'으로 키운다",
+        "importance": 6,
+        "tags": [
+          "#healthcare-ai",
+          "#public-sector",
+          "#ai-adoption",
+          "#policy",
+          "#shared-infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000029"
       },
       {
         "date": "2026-07-23",
@@ -19447,6 +19687,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-skt-ai-데이터센터-전문-sk하이.md",
+        "title": "SKT, AI 데이터센터 전문 ‘SK하이퍼’ 신설…7500억 출자",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#org-change",
+          "#ai-infrastructure",
+          "#telco"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213122"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-skt-aidc-전담-법인-sk하이퍼.md",
         "title": "SKT, AIDC 전담 법인 'SK하이퍼' 신설…수장에 정석근 CTO",
         "importance": 8,
@@ -19459,6 +19714,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=668813"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-데이터브릭스-ms-ai-동맹-2030.md",
+        "title": "데이터브릭스-MS, 'AI 동맹' 2030년까지 연장…'데이터 통합 강화'",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#data-platform",
+          "#governance",
+          "#agent-framework"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724095611"
       },
       {
         "date": "2026-07-24",
@@ -19492,6 +19762,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-amazon-cracks-down-o.md",
+        "title": "Amazon cracks down on use of AI images by sellers after New York law",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#genai-disclosure",
+          "#e-commerce",
+          "#compliance",
+          "#synthetic-media"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/23/amazon-makes-sellers-label-ai-generated-people-in-images-after-ny-law.html"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-intel-s-stock-jumps-.md",
         "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
         "importance": 7,
@@ -19504,6 +19789,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-kaist-엔비디아-ai공동연구소-설.md",
+        "title": "KAIST-엔비디아, AI공동연구소 설립…”컴퓨팅 자원 740억 규모 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#korea-ai",
+          "#talent",
+          "#gpu-infra"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213123"
       },
       {
         "date": "2026-07-24",
@@ -19522,6 +19822,36 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-u-s-other-nations-ba.md",
+        "title": "U.S., other nations back open-source AI with 'strong security' at China summit",
+        "importance": 7,
+        "tags": [
+          "#open-source",
+          "#regulation",
+          "#geopolitics",
+          "#open-weights",
+          "#standards"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/24/china-ai-open-source-apec.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-게시판-코빗-챗gpt-클로드-연동-a.md",
+        "title": "[게시판] 코빗, 챗GPT·클로드 연동 'AI 에이전트 트레이딩' 지원",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#finance",
+          "#crypto",
+          "#ai-adoption",
+          "#mcp"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260724036700002"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-과도한-가드레일로-미국-모델-무용지물.md",
         "title": "'과도한 가드레일로 미국 모델 무용지물'…허깅페이스,해킹 분석에 지푸 사용",
         "importance": 7,
@@ -19534,6 +19864,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213088"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-교보증권-생성형-ai-기반-전사-교육.md",
+        "title": "교보증권, 생성형 AI 기반 전사 교육…디지털 역량 강화",
+        "importance": 7,
+        "tags": [
+          "#securities",
+          "#ai-training",
+          "#org-change",
+          "#ai-adoption",
+          "#finance"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12106477"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-단독-삼성-mx-sw-검증조직-슬림화.md",
+        "title": "[단독] 삼성 MX, SW 검증조직 슬림화…AX發 인력 효율화 신호탄",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#ai-adoption",
+          "#workforce",
+          "#automation",
+          "#samsung"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=668869"
       },
       {
         "date": "2026-07-24",
@@ -19550,6 +19910,36 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202607232809i"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-딥핑소스-국내-리테일-매장-1000개.md",
+        "title": "딥핑소스, 국내 리테일 매장 1000개 자율 운영 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#retail-ai",
+          "#robotics",
+          "#roi-case",
+          "#gov-project"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724094221"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-오픈ai-챗gpt-헬스-미국-전역으로.md",
+        "title": "오픈AI, '챗GPT 헬스' 미국 전역으로 확대",
+        "importance": 7,
+        "tags": [
+          "#healthcare-ai",
+          "#product-launch",
+          "#openai",
+          "#data-integration",
+          "#regulated-industry"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724092606"
       },
       {
         "date": "2026-07-24",
@@ -19629,6 +20019,66 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-단독-엔비디아-해군-ai-장교-육성한.md",
+        "title": "[단독] 엔비디아, 美 해군 AI 장교 육성한다…슈퍼컴 기증",
+        "importance": 6,
+        "tags": [
+          "#defense-ai",
+          "#gpu-infra",
+          "#talent",
+          "#nvidia",
+          "#partnership"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072438146"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-앤트로픽-클로드-음성-모드-고도화-실.md",
+        "title": "앤트로픽, '클로드 음성 모드' 고도화…'실제 업무까지 수행'",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#voice-ai",
+          "#agent-framework",
+          "#productivity",
+          "#anthropic"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724085356"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-어닝쇼크-테슬라-주가-14-급락-ai.md",
+        "title": "'어닝쇼크' 테슬라, 주가 14% 급락…AI 신사업도 '기대 이하'",
+        "importance": 6,
+        "tags": [
+          "#earnings",
+          "#humanoid",
+          "#autonomous-driving",
+          "#tesla",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724085253"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-유미-s-픽-ai-투자-부담에-가려졌.md",
+        "title": "[유미's 픽] 'AI 투자 부담에 가려졌다'…오라클, AI 에이전트 타고 재평가 받을까",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-adoption",
+          "#datacenter",
+          "#valuation",
+          "#erp"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723141232"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-중기부-국내-첫-스마트제조기술산업-특.md",
         "title": "중기부, 국내 첫 스마트제조기술산업 특수분류 제정",
         "importance": 6,
@@ -19641,6 +20091,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260723222405"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-지역-국립대병원-빅5급-으로-키운다.md",
+        "title": "지역 국립대병원 '빅5급'으로 키운다",
+        "importance": 6,
+        "tags": [
+          "#healthcare-ai",
+          "#public-sector",
+          "#ai-adoption",
+          "#policy",
+          "#shared-infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260724000029"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-통신-3사-ai-데이터센터-메가프로젝.md",
+        "title": "통신 3사 'AI 데이터센터' 메가프로젝트 본격화…증시 달굴 수혜주는?",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#telco",
+          "#investment",
+          "#supply-chain",
+          "#ai-infrastructure"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607243784i"
       },
       {
         "date": "2026-07-23",
@@ -33782,6 +34262,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-딥핑소스-국내-리테일-매장-1000개.md",
+        "title": "딥핑소스, 국내 리테일 매장 1000개 자율 운영 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#retail-ai",
+          "#robotics",
+          "#roi-case",
+          "#gov-project"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724094221"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-인텔리빅스-고속도로-cctv-4000.md",
         "title": "인텔리빅스, 고속도로 CCTV 4000대에 AI 관제 적용",
         "importance": 7,
@@ -33795,6 +34290,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260723000457"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-어닝쇼크-테슬라-주가-14-급락-ai.md",
+        "title": "'어닝쇼크' 테슬라, 주가 14% 급락…AI 신사업도 '기대 이하'",
+        "importance": 6,
+        "tags": [
+          "#earnings",
+          "#humanoid",
+          "#autonomous-driving",
+          "#tesla",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724085253"
       },
       {
         "date": "2026-07-24",
@@ -36057,6 +36567,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-skt-ai-데이터센터-전문-sk하이.md",
+        "title": "SKT, AI 데이터센터 전문 ‘SK하이퍼’ 신설…7500억 출자",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#org-change",
+          "#ai-infrastructure",
+          "#telco"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213122"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-skt-aidc-전담-법인-sk하이퍼.md",
         "title": "SKT, AIDC 전담 법인 'SK하이퍼' 신설…수장에 정석근 CTO",
         "importance": 8,
@@ -36114,6 +36639,66 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-kaist-엔비디아-ai공동연구소-설.md",
+        "title": "KAIST-엔비디아, AI공동연구소 설립…”컴퓨팅 자원 740억 규모 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#korea-ai",
+          "#talent",
+          "#gpu-infra"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213123"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-단독-엔비디아-해군-ai-장교-육성한.md",
+        "title": "[단독] 엔비디아, 美 해군 AI 장교 육성한다…슈퍼컴 기증",
+        "importance": 6,
+        "tags": [
+          "#defense-ai",
+          "#gpu-infra",
+          "#talent",
+          "#nvidia",
+          "#partnership"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072438146"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-유미-s-픽-ai-투자-부담에-가려졌.md",
+        "title": "[유미's 픽] 'AI 투자 부담에 가려졌다'…오라클, AI 에이전트 타고 재평가 받을까",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-adoption",
+          "#datacenter",
+          "#valuation",
+          "#erp"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260723141232"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-통신-3사-ai-데이터센터-메가프로젝.md",
+        "title": "통신 3사 'AI 데이터센터' 메가프로젝트 본격화…증시 달굴 수혜주는?",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#telco",
+          "#investment",
+          "#supply-chain",
+          "#ai-infrastructure"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607243784i"
       },
       {
         "date": "2026-07-23",
@@ -39303,6 +39888,36 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-게시판-코빗-챗gpt-클로드-연동-a.md",
+        "title": "[게시판] 코빗, 챗GPT·클로드 연동 'AI 에이전트 트레이딩' 지원",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#finance",
+          "#crypto",
+          "#ai-adoption",
+          "#mcp"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260724036700002"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-교보증권-생성형-ai-기반-전사-교육.md",
+        "title": "교보증권, 생성형 AI 기반 전사 교육…디지털 역량 강화",
+        "importance": 7,
+        "tags": [
+          "#securities",
+          "#ai-training",
+          "#org-change",
+          "#ai-adoption",
+          "#finance"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12106477"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-jpmorgan-report-find.md",
         "title": "JPMorgan report finds dramatic jump in AI-themed ETFs — despite rough quarter",
         "importance": 6,
@@ -40603,6 +41218,21 @@
       },
       {
         "date": "2026-07-24",
+        "file": "20260724-딥핑소스-국내-리테일-매장-1000개.md",
+        "title": "딥핑소스, 국내 리테일 매장 1000개 자율 운영 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#retail-ai",
+          "#robotics",
+          "#roi-case",
+          "#gov-project"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724094221"
+      },
+      {
+        "date": "2026-07-24",
         "file": "20260724-인텔리빅스-고속도로-cctv-4000.md",
         "title": "인텔리빅스, 고속도로 CCTV 4000대에 AI 관제 적용",
         "importance": 7,
@@ -40616,6 +41246,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260723000457"
+      },
+      {
+        "date": "2026-07-24",
+        "file": "20260724-어닝쇼크-테슬라-주가-14-급락-ai.md",
+        "title": "'어닝쇼크' 테슬라, 주가 14% 급락…AI 신사업도 '기대 이하'",
+        "importance": 6,
+        "tags": [
+          "#earnings",
+          "#humanoid",
+          "#autonomous-driving",
+          "#tesla",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260724085253"
       },
       {
         "date": "2026-07-24",
