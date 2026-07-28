@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-28T03:22:12+00:00",
+  "generated_at": "2026-07-28T07:22:15+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 438,
+      "count": 444,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 452,
+      "count": 458,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 484,
+      "count": 489,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1030,
+      "count": 1046,
       "latest_date": "2026-07-28"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 162,
+      "count": 165,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 238,
+      "count": 245,
       "latest_date": "2026-07-28"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 102,
+      "count": 107,
       "latest_date": "2026-07-28"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 72,
+      "count": 76,
       "latest_date": "2026-07-28"
     },
     {
@@ -78,6 +78,22 @@
     "ai_agents": [
       {
         "date": "2026-07-28",
+        "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
+        "title": "[AI TCO 함정①] 토큰 비용이 전부 아냐…기업 예산 갉아먹는 '데이터 통합'",
+        "importance": 8,
+        "tags": [
+          "#tco",
+          "#enterprise-ai",
+          "#rag",
+          "#cost-management",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103506"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-kb금융-제미나이로-데이터분석-고객챗.md",
         "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
         "importance": 8,
@@ -90,6 +106,66 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260728103222"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-딥서치-업스테이지-금융기관-ax-지원.md",
+        "title": "딥서치-업스테이지, 금융기관 AX 지원 협력",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#partnership",
+          "#agent-framework",
+          "#ai-adoption",
+          "#securities",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000328"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ms-보안-특화-mai-사이버-1-플.md",
+        "title": "MS, 보안 특화 'MAI-사이버-1-플래시' 공개...'앤트로픽·오픈AI 능가'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#agent-framework",
+          "#security",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213245"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-라이너-ai-검색-에이전트-삼성물산-.md",
+        "title": "라이너 “AI 검색 에이전트, 삼성물산 빌딩 플랫폼에 결합…부동산 의사결정 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#smart-building",
+          "#ai-adoption",
+          "#real-estate"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213248"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-한컴-20만-고객에-ai-얹는다-에이.md",
+        "title": "한컴, 20만 고객에 AI 얹는다…'에이전틱 OS'로 재평가 노려",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#monetization",
+          "#legacy-transformation",
+          "#saas"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607280126i"
       },
       {
         "date": "2026-07-28",
@@ -148,6 +224,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669060"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-마키나락스-한화시스템과-제조-ax-파.md",
+        "title": "마키나락스, 한화시스템과 제조 AX 파트너십 체결...영남권 TF 구성",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#manufacturing-ai",
+          "#agent-framework",
+          "#org-change",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213251"
       },
       {
         "date": "2026-07-28",
@@ -6689,6 +6780,35 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-문샷-키미-k3-모델-가중치-공개-인.md",
+        "title": "문샷, '키미 K3' 모델 가중치 공개...인프라 3종도 오픈소스로",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#open-source",
+          "#model-release",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213242"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-엔비디아-수츠케버의-ssi에-7조-투.md",
+        "title": "엔비디아, 수츠케버의 SSI에 7조 투자...'컴퓨팅 10배 확대'",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#gpu",
+          "#frontier-lab"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213249"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-moonshot-ai-releases.md",
         "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
         "importance": 7,
@@ -6700,6 +6820,49 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ms-보안-특화-mai-사이버-1-플.md",
+        "title": "MS, 보안 특화 'MAI-사이버-1-플래시' 공개...'앤트로픽·오픈AI 능가'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#agent-framework",
+          "#security",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213245"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-다글로-품은-lg-그램-인터넷-없이도.md",
+        "title": "'다글로' 품은 LG 그램…인터넷 없이도 AI 받아쓰기·회의록 작성",
+        "importance": 7,
+        "tags": [
+          "#on-device",
+          "#partnership",
+          "#stt",
+          "#enterprise-ai",
+          "#privacy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000252"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-중국-미국의-ai-증류-조사-제재-움.md",
+        "title": "중국, 미국의 'AI 증류' 조사·제재 움직임에 '모든 대응 조치' 보복 경고",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#export-control",
+          "#model-distillation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213255"
       },
       {
         "date": "2026-07-28",
@@ -6728,6 +6891,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213239"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-김경진의-ai전략노트-33-변곡점에서.md",
+        "title": "[김경진의 AI전략노트]〈33〉변곡점에서 새로운 질서가 탄생한다",
+        "importance": 6,
+        "tags": [
+          "#china-ai",
+          "#semiconductor",
+          "#humanoid",
+          "#opinion",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000142"
       },
       {
         "date": "2026-07-28",
@@ -13016,6 +13194,36 @@
     "ai_policy": [
       {
         "date": "2026-07-28",
+        "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
+        "title": "웨이모, 서울 서초구에 법인 설립…사업목적에 ‘자율주행 운수’",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#market-entry",
+          "#partnership",
+          "#mobility",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669182"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-cxmt가-쏘아-올린-공-sk하이닉스.md",
+        "title": "CXMT가 쏘아 올린 공…SK하이닉스, 中 우시 팹 투자 기조 바뀌나",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#supply-chain",
+          "#export-control",
+          "#china"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669155"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-nvidia-microsoft-lau.md",
         "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "importance": 7,
@@ -13042,6 +13250,20 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-중국-미국의-ai-증류-조사-제재-움.md",
+        "title": "중국, 미국의 'AI 증류' 조사·제재 움직임에 '모든 대응 조치' 보복 경고",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#export-control",
+          "#model-distillation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213255"
       },
       {
         "date": "2026-07-28",
@@ -13112,6 +13334,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260728095511"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-긴급-공공-보안진단-하-ai-활용-넓.md",
+        "title": "[긴급 공공 보안진단]〈하〉AI 활용 넓히고 보안은 강화…N2SF 전환 속도내야",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#security",
+          "#public-sector",
+          "#network-separation",
+          "#cloud"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000240"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-김경진의-ai전략노트-33-변곡점에서.md",
+        "title": "[김경진의 AI전략노트]〈33〉변곡점에서 새로운 질서가 탄생한다",
+        "importance": 6,
+        "tags": [
+          "#china-ai",
+          "#semiconductor",
+          "#humanoid",
+          "#opinion",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000142"
       },
       {
         "date": "2026-07-28",
@@ -20044,6 +20296,22 @@
     "ai_industry": [
       {
         "date": "2026-07-28",
+        "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
+        "title": "[AI TCO 함정①] 토큰 비용이 전부 아냐…기업 예산 갉아먹는 '데이터 통합'",
+        "importance": 8,
+        "tags": [
+          "#tco",
+          "#enterprise-ai",
+          "#rag",
+          "#cost-management",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103506"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-anthropic-releases-o.md",
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
         "importance": 8,
@@ -20088,6 +20356,81 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-딥서치-업스테이지-금융기관-ax-지원.md",
+        "title": "딥서치-업스테이지, 금융기관 AX 지원 협력",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#partnership",
+          "#agent-framework",
+          "#ai-adoption",
+          "#securities",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000328"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-문샷-키미-k3-모델-가중치-공개-인.md",
+        "title": "문샷, '키미 K3' 모델 가중치 공개...인프라 3종도 오픈소스로",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#open-source",
+          "#model-release",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213242"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-엔비디아-수츠케버의-ssi에-7조-투.md",
+        "title": "엔비디아, 수츠케버의 SSI에 7조 투자...'컴퓨팅 10배 확대'",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#gpu",
+          "#frontier-lab"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213249"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
+        "title": "웨이모, 서울 서초구에 법인 설립…사업목적에 ‘자율주행 운수’",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#market-entry",
+          "#partnership",
+          "#mobility",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669182"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ai-반도체-유니콘-ipo-속도조절-.md",
+        "title": "AI 반도체 유니콘, IPO 속도조절…내실 먼저 다져 기업 가치 더 높인다",
+        "importance": 7,
+        "tags": [
+          "#ai-chip",
+          "#ipo",
+          "#investment",
+          "#semiconductor",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000257"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-ai는-지금-오픈ai-떠난-두뇌-에-.md",
         "title": "[AI는 지금] 오픈AI 떠난 '두뇌'에 베팅…엔비디아, 차세대 AI 주역 선점",
         "importance": 7,
@@ -20117,6 +20460,35 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-cxmt가-쏘아-올린-공-sk하이닉스.md",
+        "title": "CXMT가 쏘아 올린 공…SK하이닉스, 中 우시 팹 투자 기조 바뀌나",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#supply-chain",
+          "#export-control",
+          "#china"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669155"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ifa-역대-최대-규모-휴머노이드-집.md",
+        "title": "IFA 역대 최대 규모 휴머노이드 집결...“볼거리 넘어 '실용'으로”",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#commercialization",
+          "#exhibition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000210"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-moonshot-ai-releases.md",
         "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
         "importance": 7,
@@ -20128,6 +20500,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ms-보안-특화-mai-사이버-1-플.md",
+        "title": "MS, 보안 특화 'MAI-사이버-1-플래시' 공개...'앤트로픽·오픈AI 능가'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#agent-framework",
+          "#security",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213245"
       },
       {
         "date": "2026-07-28",
@@ -20190,6 +20576,36 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-다글로-품은-lg-그램-인터넷-없이도.md",
+        "title": "'다글로' 품은 LG 그램…인터넷 없이도 AI 받아쓰기·회의록 작성",
+        "importance": 7,
+        "tags": [
+          "#on-device",
+          "#partnership",
+          "#stt",
+          "#enterprise-ai",
+          "#privacy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000252"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-라이너-ai-검색-에이전트-삼성물산-.md",
+        "title": "라이너 “AI 검색 에이전트, 삼성물산 빌딩 플랫폼에 결합…부동산 의사결정 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#smart-building",
+          "#ai-adoption",
+          "#real-estate"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213248"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-소부장-온에어-lg이노텍-tdk와-a.md",
         "title": "[소부장 온에어]LG이노텍, 日 TDK와 AI 맞손…로봇 눈·피부 제작",
         "importance": 7,
@@ -20205,6 +20621,20 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-애플-시가총액-1위-복귀-엔비디아는-.md",
+        "title": "애플, 시가총액 1위 복귀…엔비디아는 'AI 순환 투자' 우려로 5% 하락",
+        "importance": 7,
+        "tags": [
+          "#market-correction",
+          "#ai-bubble",
+          "#circular-investment",
+          "#semiconductor"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213265"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-엔비디아-오픈ai-10gw-데이터센터.md",
         "title": "엔비디아, 오픈AI '10GW 데이터센터' 구축에 365조 금융 보증 추진",
         "importance": 7,
@@ -20217,6 +20647,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213196"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-중국-미국의-ai-증류-조사-제재-움.md",
+        "title": "중국, 미국의 'AI 증류' 조사·제재 움직임에 '모든 대응 조치' 보복 경고",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#export-control",
+          "#model-distillation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213255"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-한컴-20만-고객에-ai-얹는다-에이.md",
+        "title": "한컴, 20만 고객에 AI 얹는다…'에이전틱 OS'로 재평가 노려",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#monetization",
+          "#legacy-transformation",
+          "#saas"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607280126i"
       },
       {
         "date": "2026-07-28",
@@ -20248,6 +20707,21 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-김경진의-ai전략노트-33-변곡점에서.md",
+        "title": "[김경진의 AI전략노트]〈33〉변곡점에서 새로운 질서가 탄생한다",
+        "importance": 6,
+        "tags": [
+          "#china-ai",
+          "#semiconductor",
+          "#humanoid",
+          "#opinion",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000142"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-네이버-엔비디아-빅딜-해부-ai-인프.md",
         "title": "[네이버·엔비디아 빅딜 해부]② AI 인프라 승부처는 '커머스 플랫폼'",
         "importance": 6,
@@ -20260,6 +20734,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669060"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-마키나락스-한화시스템과-제조-ax-파.md",
+        "title": "마키나락스, 한화시스템과 제조 AX 파트너십 체결...영남권 TF 구성",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#manufacturing-ai",
+          "#agent-framework",
+          "#org-change",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213251"
       },
       {
         "date": "2026-07-28",
@@ -35047,6 +35536,35 @@
     "physical_ai_robotics": [
       {
         "date": "2026-07-28",
+        "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
+        "title": "웨이모, 서울 서초구에 법인 설립…사업목적에 ‘자율주행 운수’",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#market-entry",
+          "#partnership",
+          "#mobility",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669182"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ifa-역대-최대-규모-휴머노이드-집.md",
+        "title": "IFA 역대 최대 규모 휴머노이드 집결...“볼거리 넘어 '실용'으로”",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#commercialization",
+          "#exhibition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000210"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-소부장-온에어-lg이노텍-tdk와-a.md",
         "title": "[소부장 온에어]LG이노텍, 日 TDK와 AI 맞손…로봇 눈·피부 제작",
         "importance": 7,
@@ -35073,6 +35591,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-김경진의-ai전략노트-33-변곡점에서.md",
+        "title": "[김경진의 AI전략노트]〈33〉변곡점에서 새로운 질서가 탄생한다",
+        "importance": 6,
+        "tags": [
+          "#china-ai",
+          "#semiconductor",
+          "#humanoid",
+          "#opinion",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000142"
       },
       {
         "date": "2026-07-28",
@@ -37427,6 +37960,81 @@
     "ai_compute_energy": [
       {
         "date": "2026-07-28",
+        "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
+        "title": "[AI TCO 함정①] 토큰 비용이 전부 아냐…기업 예산 갉아먹는 '데이터 통합'",
+        "importance": 8,
+        "tags": [
+          "#tco",
+          "#enterprise-ai",
+          "#rag",
+          "#cost-management",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103506"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-문샷-키미-k3-모델-가중치-공개-인.md",
+        "title": "문샷, '키미 K3' 모델 가중치 공개...인프라 3종도 오픈소스로",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#open-source",
+          "#model-release",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213242"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-엔비디아-수츠케버의-ssi에-7조-투.md",
+        "title": "엔비디아, 수츠케버의 SSI에 7조 투자...'컴퓨팅 10배 확대'",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#gpu",
+          "#frontier-lab"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213249"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ai-반도체-유니콘-ipo-속도조절-.md",
+        "title": "AI 반도체 유니콘, IPO 속도조절…내실 먼저 다져 기업 가치 더 높인다",
+        "importance": 7,
+        "tags": [
+          "#ai-chip",
+          "#ipo",
+          "#investment",
+          "#semiconductor",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000257"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-cxmt가-쏘아-올린-공-sk하이닉스.md",
+        "title": "CXMT가 쏘아 올린 공…SK하이닉스, 中 우시 팹 투자 기조 바뀌나",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#supply-chain",
+          "#export-control",
+          "#china"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669155"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-nvidia-and-openai-in.md",
         "title": "Nvidia and OpenAI in talks for up to $250 billion backstop to fund AI infrastructure plans",
         "importance": 7,
@@ -37439,6 +38047,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/27/nvidia-and-openai-in-talks-for-up-to-250-billion-dollar-ai-backstop.html"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-애플-시가총액-1위-복귀-엔비디아는-.md",
+        "title": "애플, 시가총액 1위 복귀…엔비디아는 'AI 순환 투자' 우려로 5% 하락",
+        "importance": 7,
+        "tags": [
+          "#market-correction",
+          "#ai-bubble",
+          "#circular-investment",
+          "#semiconductor"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213265"
       },
       {
         "date": "2026-07-28",
@@ -37469,6 +38091,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213207"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-김경진의-ai전략노트-33-변곡점에서.md",
+        "title": "[김경진의 AI전략노트]〈33〉변곡점에서 새로운 질서가 탄생한다",
+        "importance": 6,
+        "tags": [
+          "#china-ai",
+          "#semiconductor",
+          "#humanoid",
+          "#opinion",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000142"
       },
       {
         "date": "2026-07-28",
@@ -40896,6 +41533,22 @@
     "금융회사 AI": [
       {
         "date": "2026-07-28",
+        "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
+        "title": "[AI TCO 함정①] 토큰 비용이 전부 아냐…기업 예산 갉아먹는 '데이터 통합'",
+        "importance": 8,
+        "tags": [
+          "#tco",
+          "#enterprise-ai",
+          "#rag",
+          "#cost-management",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103506"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-kb금융-제미나이로-데이터분석-고객챗.md",
         "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
         "importance": 8,
@@ -40911,6 +41564,22 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-딥서치-업스테이지-금융기관-ax-지원.md",
+        "title": "딥서치-업스테이지, 금융기관 AX 지원 협력",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#partnership",
+          "#agent-framework",
+          "#ai-adoption",
+          "#securities",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000328"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-bc카드-금융권-최초-자체-개발-ai.md",
         "title": "BC카드, 금융권 최초 자체 개발 AI 플랫폼 오픈소스 공개",
         "importance": 7,
@@ -40922,6 +41591,37 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260728056300002"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-kb손해보험-법무법인-태평양-스몰티켓.md",
+        "title": "KB손해보험, 법무법인 태평양·스몰티켓과 중대재해 예방 협약",
+        "importance": 7,
+        "tags": [
+          "#insurance",
+          "#finance",
+          "#ai-adoption",
+          "#partnership",
+          "#insurtech",
+          "#safety"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12109488"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-극단-기후시-자산가치-4-5-기후-리.md",
+        "title": "'극단 기후시 자산가치 4.5%↓'…기후 리스크 대응 나선 삼성생명",
+        "importance": 7,
+        "tags": [
+          "#insurance",
+          "#finance",
+          "#climate-risk",
+          "#risk-modeling",
+          "#data-analytics"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669167"
       },
       {
         "date": "2026-07-28",
@@ -40980,6 +41680,21 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12108643"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-긴급-공공-보안진단-하-ai-활용-넓.md",
+        "title": "[긴급 공공 보안진단]〈하〉AI 활용 넓히고 보안은 강화…N2SF 전환 속도내야",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#security",
+          "#public-sector",
+          "#network-separation",
+          "#cloud"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000240"
       },
       {
         "date": "2026-07-28",
@@ -42401,6 +43116,50 @@
     "physical_ai": [
       {
         "date": "2026-07-28",
+        "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
+        "title": "웨이모, 서울 서초구에 법인 설립…사업목적에 ‘자율주행 운수’",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#market-entry",
+          "#partnership",
+          "#mobility",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669182"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ifa-역대-최대-규모-휴머노이드-집.md",
+        "title": "IFA 역대 최대 규모 휴머노이드 집결...“볼거리 넘어 '실용'으로”",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#commercialization",
+          "#exhibition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000210"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-라이너-ai-검색-에이전트-삼성물산-.md",
+        "title": "라이너 “AI 검색 에이전트, 삼성물산 빌딩 플랫폼에 결합…부동산 의사결정 지원”",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agent-framework",
+          "#smart-building",
+          "#ai-adoption",
+          "#real-estate"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213248"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-소부장-온에어-lg이노텍-tdk와-a.md",
         "title": "[소부장 온에어]LG이노텍, 日 TDK와 AI 맞손…로봇 눈·피부 제작",
         "importance": 7,
@@ -42456,6 +43215,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260728105941"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-마키나락스-한화시스템과-제조-ax-파.md",
+        "title": "마키나락스, 한화시스템과 제조 AX 파트너십 체결...영남권 TF 구성",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#manufacturing-ai",
+          "#agent-framework",
+          "#org-change",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213251"
       },
       {
         "date": "2026-07-28",
