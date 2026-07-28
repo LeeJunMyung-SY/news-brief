@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-28T07:22:15+00:00",
+  "generated_at": "2026-07-28T23:32:04+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 444,
-      "latest_date": "2026-07-28"
+      "count": 449,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 458,
-      "latest_date": "2026-07-28"
+      "count": 463,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 489,
-      "latest_date": "2026-07-28"
+      "count": 497,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1046,
-      "latest_date": "2026-07-28"
+      "count": 1066,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 165,
-      "latest_date": "2026-07-28"
+      "count": 167,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 245,
-      "latest_date": "2026-07-28"
+      "count": 253,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 107,
-      "latest_date": "2026-07-28"
+      "count": 117,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 76,
-      "latest_date": "2026-07-28"
+      "count": 80,
+      "latest_date": "2026-07-29"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,77 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-29",
+        "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
+        "title": "KB금융, 구글과 손잡고 전사적 AI 플랫폼 구축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#cloud"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12109698"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-corpay-introduces-ag.md",
+        "title": "Corpay introduces agent card capability",
+        "importance": 7,
+        "tags": [
+          "#agentic-commerce",
+          "#payments",
+          "#agent-framework",
+          "#monetization"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110512/corpay-introduces-agent-card-capability?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-dxc와-일레븐랩스-엔터프라이즈-ai.md",
+        "title": "DXC와 일레븐랩스, 엔터프라이즈 AI 및 음성 혁신 확장을 위한 전략적 파트너십 발표",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#voice",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728231002"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-we-now-have-a-better.md",
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "importance": 6,
+        "tags": [
+          "#safety-incident",
+          "#security",
+          "#zero-day",
+          "#agent-security"
+        ],
+        "source": "Ars Technica Tech",
+        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-공고-올리면-ai가-인재-찾아-입사제.md",
+        "title": "“공고 올리면 AI가 인재 찾아 입사제안”…사람인, 후불형 채용 업그레이드",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#hr-tech",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000005"
+      },
       {
         "date": "2026-07-28",
         "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
@@ -6750,6 +6821,77 @@
     ],
     "llm_models": [
       {
+        "date": "2026-07-29",
+        "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
+        "title": "KB금융, 구글과 손잡고 전사적 AI 플랫폼 구축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#cloud"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12109698"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-만나보니-ai-승부처는-버티컬ai-금.md",
+        "title": "[만나보니] 'AI 승부처는 버티컬AI…금융AI 국가대표 키워야'",
+        "importance": 8,
+        "tags": [
+          "#vertical-ai",
+          "#finance",
+          "#banking",
+          "#ai-strategy"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728144800017"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-anthropic-says-its-m.md",
+        "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#reasoning",
+          "#cryptography",
+          "#frontier-model"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-사티아-나델라-ms-ceo-특정-ai.md",
+        "title": "사티아 나델라 MS CEO '특정 AI 모델 의존하는 기업, 살아남기 어렵다'",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#vendor-lockin",
+          "#data-sovereignty",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728165704"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-카카오-카나나-경량-언어모델-4종-오.md",
+        "title": "카카오, '카나나' 경량 언어모델 4종 오픈소스 공개…스마트폰서 구동 가능",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#open-source",
+          "#on-device",
+          "#korean-llm"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728172730"
+      },
+      {
         "date": "2026-07-28",
         "file": "20260728-anthropic-releases-o.md",
         "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
@@ -13192,6 +13334,118 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-07-29",
+        "file": "20260729-만나보니-ai-승부처는-버티컬ai-금.md",
+        "title": "[만나보니] 'AI 승부처는 버티컬AI…금융AI 국가대표 키워야'",
+        "importance": 8,
+        "tags": [
+          "#vertical-ai",
+          "#finance",
+          "#banking",
+          "#ai-strategy"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728144800017"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-ai-leaders-sign-stat.md",
+        "title": "AI leaders sign statement asking the government to do something about automated AI",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#ai-governance",
+          "#frontier-model",
+          "#org-change"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-anthropic-says-its-m.md",
+        "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#reasoning",
+          "#cryptography",
+          "#frontier-model"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-data-centers-may-fac.md",
+        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#regulation",
+          "#infrastructure"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-spp-launches-ai-gove.md",
+        "title": "SPP launches AI governance framework for pensions industry",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#regulation",
+          "#pension",
+          "#compliance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48160/spp-launches-ai-governance-framework-for-pensions-industry?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-we-now-have-a-better.md",
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "importance": 6,
+        "tags": [
+          "#safety-incident",
+          "#security",
+          "#zero-day",
+          "#agent-security"
+        ],
+        "source": "Ars Technica Tech",
+        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
+        "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#infrastructure",
+          "#public-sector",
+          "#networking"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728193650"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-정부-cctv-1만8000대-ai-전.md",
+        "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#npu",
+          "#ai-adoption",
+          "#edge-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
       {
         "date": "2026-07-28",
         "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
@@ -20294,6 +20548,287 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-07-29",
+        "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
+        "title": "KB금융, 구글과 손잡고 전사적 AI 플랫폼 구축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#cloud"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12109698"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-tech-jobs-go-as-visa.md",
+        "title": "Tech jobs go as Visa cuts workforce by 7%",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#layoff",
+          "#payments",
+          "#ai-adoption"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48161/tech-jobs-go-as-visa-cuts-workforce-by-7?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-네이버-엔비디아-빅딜-해부-자금-고객.md",
+        "title": "[네이버·엔비디아 빅딜 해부]⑤ 자금·고객·전력…성패 가를 3대 변수",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#infrastructure-finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669160"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-만나보니-ai-승부처는-버티컬ai-금.md",
+        "title": "[만나보니] 'AI 승부처는 버티컬AI…금융AI 국가대표 키워야'",
+        "importance": 8,
+        "tags": [
+          "#vertical-ai",
+          "#finance",
+          "#banking",
+          "#ai-strategy"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728144800017"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-메타-블랙록-80-지분-합작사-세워-.md",
+        "title": "메타, '블랙록 80% 지분' 합작사 세워 20조원 AI데이터센터 구축",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#infrastructure-finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000009"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-ai-leaders-sign-stat.md",
+        "title": "AI leaders sign statement asking the government to do something about automated AI",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#ai-governance",
+          "#frontier-model",
+          "#org-change"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-ai-빚투-경쟁에-빅테크간-자금-돌려.md",
+        "title": "AI 빚투 경쟁에 빅테크간 자금 돌려막기…시장 임계점 왔나",
+        "importance": 7,
+        "tags": [
+          "#circular-financing",
+          "#market",
+          "#debt",
+          "#risk-management"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026072812851"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-anthropic-says-its-m.md",
+        "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#reasoning",
+          "#cryptography",
+          "#frontier-model"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-corpay-introduces-ag.md",
+        "title": "Corpay introduces agent card capability",
+        "importance": 7,
+        "tags": [
+          "#agentic-commerce",
+          "#payments",
+          "#agent-framework",
+          "#monetization"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110512/corpay-introduces-agent-card-capability?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-data-centers-may-fac.md",
+        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#regulation",
+          "#infrastructure"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-sk하이닉스-2분기-영업익-60조원-.md",
+        "title": "SK하이닉스, 2분기 영업익 60조원 '역대 최대'…HBM4 양산 확대",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#hbm",
+          "#semiconductor",
+          "#datacenter"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000010"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-단독-ai-에너지-인프라-투자-기업-.md",
+        "title": "[단독] 美 'AI 에너지 인프라' 투자…韓기업, 발전소 턴키 수주 가능성",
+        "importance": 7,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#export",
+          "#infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072813151"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-사티아-나델라-ms-ceo-특정-ai.md",
+        "title": "사티아 나델라 MS CEO '특정 AI 모델 의존하는 기업, 살아남기 어렵다'",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#vendor-lockin",
+          "#data-sovereignty",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728165704"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-신세계아이앤씨-비전-ai로-국내외-리.md",
+        "title": "신세계아이앤씨, 비전 AI로 국내외 리테일 AX 시장 공략 본격화",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#retail",
+          "#vision-ai",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000405"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-카카오-카나나-경량-언어모델-4종-오.md",
+        "title": "카카오, '카나나' 경량 언어모델 4종 오픈소스 공개…스마트폰서 구동 가능",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#open-source",
+          "#on-device",
+          "#korean-llm"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728172730"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-dxc와-일레븐랩스-엔터프라이즈-ai.md",
+        "title": "DXC와 일레븐랩스, 엔터프라이즈 AI 및 음성 혁신 확장을 위한 전략적 파트너십 발표",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#voice",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728231002"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-공고-올리면-ai가-인재-찾아-입사제.md",
+        "title": "“공고 올리면 AI가 인재 찾아 입사제안”…사람인, 후불형 채용 업그레이드",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#hr-tech",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000005"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
+        "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#infrastructure",
+          "#public-sector",
+          "#networking"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728193650"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-정부-cctv-1만8000대-ai-전.md",
+        "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#npu",
+          "#ai-adoption",
+          "#edge-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-허정수칼럼-현대차-노조-아틀라스를-이.md",
+        "title": "[허정수칼럼] 현대차 노조, 아틀라스를 이길 수 있나",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#labor",
+          "#org-change"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669257"
+      },
       {
         "date": "2026-07-28",
         "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
@@ -35535,6 +36070,34 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-07-29",
+        "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
+        "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#infrastructure",
+          "#public-sector",
+          "#networking"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728193650"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-허정수칼럼-현대차-노조-아틀라스를-이.md",
+        "title": "[허정수칼럼] 현대차 노조, 아틀라스를 이길 수 있나",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#labor",
+          "#org-change"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669257"
+      },
+      {
         "date": "2026-07-28",
         "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
         "title": "웨이모, 서울 서초구에 법인 설립…사업목적에 ‘자율주행 운수’",
@@ -37958,6 +38521,118 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-07-29",
+        "file": "20260729-네이버-엔비디아-빅딜-해부-자금-고객.md",
+        "title": "[네이버·엔비디아 빅딜 해부]⑤ 자금·고객·전력…성패 가를 3대 변수",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#infrastructure-finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669160"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-메타-블랙록-80-지분-합작사-세워-.md",
+        "title": "메타, '블랙록 80% 지분' 합작사 세워 20조원 AI데이터센터 구축",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#infrastructure-finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000009"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-ai-빚투-경쟁에-빅테크간-자금-돌려.md",
+        "title": "AI 빚투 경쟁에 빅테크간 자금 돌려막기…시장 임계점 왔나",
+        "importance": 7,
+        "tags": [
+          "#circular-financing",
+          "#market",
+          "#debt",
+          "#risk-management"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026072812851"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-data-centers-may-fac.md",
+        "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#regulation",
+          "#infrastructure"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-sk하이닉스-2분기-영업익-60조원-.md",
+        "title": "SK하이닉스, 2분기 영업익 60조원 '역대 최대'…HBM4 양산 확대",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#hbm",
+          "#semiconductor",
+          "#datacenter"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000010"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-단독-ai-에너지-인프라-투자-기업-.md",
+        "title": "[단독] 美 'AI 에너지 인프라' 투자…韓기업, 발전소 턴키 수주 가능성",
+        "importance": 7,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#export",
+          "#infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026072813151"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
+        "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#infrastructure",
+          "#public-sector",
+          "#networking"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728193650"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-정부-cctv-1만8000대-ai-전.md",
+        "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#npu",
+          "#ai-adoption",
+          "#edge-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
       {
         "date": "2026-07-28",
         "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
@@ -41532,6 +42207,147 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-07-29",
+        "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
+        "title": "KB금융, 구글과 손잡고 전사적 AI 플랫폼 구축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#cloud"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12109698"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-tech-jobs-go-as-visa.md",
+        "title": "Tech jobs go as Visa cuts workforce by 7%",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#layoff",
+          "#payments",
+          "#ai-adoption"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48161/tech-jobs-go-as-visa-cuts-workforce-by-7?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-네이버-엔비디아-빅딜-해부-자금-고객.md",
+        "title": "[네이버·엔비디아 빅딜 해부]⑤ 자금·고객·전력…성패 가를 3대 변수",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#infrastructure-finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669160"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-만나보니-ai-승부처는-버티컬ai-금.md",
+        "title": "[만나보니] 'AI 승부처는 버티컬AI…금융AI 국가대표 키워야'",
+        "importance": 8,
+        "tags": [
+          "#vertical-ai",
+          "#finance",
+          "#banking",
+          "#ai-strategy"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728144800017"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-메타-블랙록-80-지분-합작사-세워-.md",
+        "title": "메타, '블랙록 80% 지분' 합작사 세워 20조원 AI데이터센터 구축",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#infrastructure-finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000009"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-ai-빚투-경쟁에-빅테크간-자금-돌려.md",
+        "title": "AI 빚투 경쟁에 빅테크간 자금 돌려막기…시장 임계점 왔나",
+        "importance": 7,
+        "tags": [
+          "#circular-financing",
+          "#market",
+          "#debt",
+          "#risk-management"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026072812851"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-anthropic-says-its-m.md",
+        "title": "Anthropic says its Mythos model found vulnerabilities in cryptographic algorithms that secure the internet",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#reasoning",
+          "#cryptography",
+          "#frontier-model"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-corpay-introduces-ag.md",
+        "title": "Corpay introduces agent card capability",
+        "importance": 7,
+        "tags": [
+          "#agentic-commerce",
+          "#payments",
+          "#agent-framework",
+          "#monetization"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110512/corpay-introduces-agent-card-capability?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-spp-launches-ai-gove.md",
+        "title": "SPP launches AI governance framework for pensions industry",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#regulation",
+          "#pension",
+          "#compliance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48160/spp-launches-ai-governance-framework-for-pensions-industry?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-사티아-나델라-ms-ceo-특정-ai.md",
+        "title": "사티아 나델라 MS CEO '특정 AI 모델 의존하는 기업, 살아남기 어렵다'",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#vendor-lockin",
+          "#data-sovereignty",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728165704"
+      },
+      {
         "date": "2026-07-28",
         "file": "20260728-ai-tco-함정-토큰-비용이-전부-.md",
         "title": "[AI TCO 함정①] 토큰 비용이 전부 아냐…기업 예산 갉아먹는 '데이터 통합'",
@@ -43114,6 +43930,62 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-07-29",
+        "file": "20260729-신세계아이앤씨-비전-ai로-국내외-리.md",
+        "title": "신세계아이앤씨, 비전 AI로 국내외 리테일 AX 시장 공략 본격화",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#retail",
+          "#vision-ai",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260728000405"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
+        "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#infrastructure",
+          "#public-sector",
+          "#networking"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728193650"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-정부-cctv-1만8000대-ai-전.md",
+        "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#npu",
+          "#ai-adoption",
+          "#edge-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-허정수칼럼-현대차-노조-아틀라스를-이.md",
+        "title": "[허정수칼럼] 현대차 노조, 아틀라스를 이길 수 있나",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#labor",
+          "#org-change"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669257"
+      },
       {
         "date": "2026-07-28",
         "file": "20260728-웨이모-서울-서초구에-법인-설립-사업.md",
