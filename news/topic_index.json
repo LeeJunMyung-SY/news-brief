@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-28T00:01:09+00:00",
+  "generated_at": "2026-07-28T03:22:12+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 437,
+      "count": 438,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 450,
+      "count": 452,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 482,
+      "count": 484,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1022,
+      "count": 1030,
       "latest_date": "2026-07-28"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 161,
+      "count": 162,
       "latest_date": "2026-07-28"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 236,
+      "count": 238,
       "latest_date": "2026-07-28"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 99,
+      "count": 102,
       "latest_date": "2026-07-28"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 70,
+      "count": 72,
       "latest_date": "2026-07-28"
     },
     {
@@ -76,6 +76,35 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-28",
+        "file": "20260728-kb금융-제미나이로-데이터분석-고객챗.md",
+        "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#partnership",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103222"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ai가-칩-설계부터-검증까지-엔비디아.md",
+        "title": "'AI가 칩 설계부터 검증까지'…엔비디아, 엔지니어링 에이전트 고도화",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#nvidia",
+          "#simulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728111319"
+      },
       {
         "date": "2026-07-28",
         "file": "20260728-meta-is-making-its-a.md",
@@ -6688,6 +6717,20 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-국산-ai모델-이제-국민이-직접-평가.md",
+        "title": "국산 AI모델, 이제 국민이 직접 평가…”독파모 평가단 200명 공모”",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#foundation-model",
+          "#korea",
+          "#benchmark"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213239"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-딥시크-넘어-키미-쇼크-중국-ai-굴.md",
         "title": "딥시크 넘어 '키미 쇼크'…중국 AI 굴기, 미국 바짝 추격",
         "importance": 6,
@@ -13002,6 +13045,20 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-anthropic-s-dario-am.md",
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#regulation",
+          "#us-china",
+          "#enterprise-ai"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-delhi-high-court-han.md",
         "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
         "importance": 6,
@@ -13041,6 +13098,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/us-reportedly-favors-selective-bans-over-blanket-restrictions-on-chinese-open-weight-models-citing-security-concerns/"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-국방-ai-군사비밀-데이터까지-활용-.md",
+        "title": "국방 AI, 군사비밀 데이터까지 활용…전군 플랫폼 새로 짠다",
+        "importance": 6,
+        "tags": [
+          "#public-ai",
+          "#defense",
+          "#ai-adoption",
+          "#data-governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728095511"
       },
       {
         "date": "2026-07-28",
@@ -19987,6 +20058,21 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-kb금융-제미나이로-데이터분석-고객챗.md",
+        "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#partnership",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103222"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-why-china-is-giving-.md",
         "title": "Why China is giving away its best AI models",
         "importance": 8,
@@ -19999,6 +20085,35 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-ai는-지금-오픈ai-떠난-두뇌-에-.md",
+        "title": "[AI는 지금] 오픈AI 떠난 '두뇌'에 베팅…엔비디아, 차세대 AI 주역 선점",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#nvidia",
+          "#ssi",
+          "#compute",
+          "#talent"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103720"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-bc카드-금융권-최초-자체-개발-ai.md",
+        "title": "BC카드, 금융권 최초 자체 개발 AI 플랫폼 오픈소스 공개",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#open-source",
+          "#enterprise-ai"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728056300002"
       },
       {
         "date": "2026-07-28",
@@ -20060,6 +20175,36 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-검토-시간-12일-5분-아모레퍼시픽-.md",
+        "title": "검토 시간 12일→5분…아모레퍼시픽, AI 특화 플랫폼 ‘레몬’ 구축",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#roi-case",
+          "#enterprise-ai",
+          "#partnership",
+          "#rag"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728095654"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-소부장-온에어-lg이노텍-tdk와-a.md",
+        "title": "[소부장 온에어]LG이노텍, 日 TDK와 AI 맞손…로봇 눈·피부 제작",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#partnership",
+          "#sensor",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669118"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-엔비디아-오픈ai-10gw-데이터센터.md",
         "title": "엔비디아, 오픈AI '10GW 데이터센터' 구축에 365조 금융 보증 추진",
         "importance": 7,
@@ -20075,6 +20220,34 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-anthropic-s-dario-am.md",
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#regulation",
+          "#us-china",
+          "#enterprise-ai"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-국산-ai모델-이제-국민이-직접-평가.md",
+        "title": "국산 AI모델, 이제 국민이 직접 평가…”독파모 평가단 200명 공모”",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#foundation-model",
+          "#korea",
+          "#benchmark"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213239"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-네이버-엔비디아-빅딜-해부-ai-인프.md",
         "title": "[네이버·엔비디아 빅딜 해부]② AI 인프라 승부처는 '커머스 플랫폼'",
         "importance": 6,
@@ -20087,6 +20260,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669060"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-엔비디아-순환-금융-우려-amd-sk.md",
+        "title": "엔비디아發 '순환 금융' 우려…AMD·SK하이닉스까지 동반 하락",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#openai",
+          "#investment",
+          "#datacenter",
+          "#risk"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728083549"
       },
       {
         "date": "2026-07-24",
@@ -34859,6 +35047,21 @@
     "physical_ai_robotics": [
       {
         "date": "2026-07-28",
+        "file": "20260728-소부장-온에어-lg이노텍-tdk와-a.md",
+        "title": "[소부장 온에어]LG이노텍, 日 TDK와 AI 맞손…로봇 눈·피부 제작",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#partnership",
+          "#sensor",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669118"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-enigma-raises-71m-to.md",
         "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
         "importance": 6,
@@ -37283,6 +37486,20 @@
       },
       {
         "date": "2026-07-28",
+        "file": "20260728-메타-가스발전-확대-속-re100-서.md",
+        "title": "메타, 가스발전 확대 속 'RE100'서 이탈",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#big-tech",
+          "#sustainability"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213233"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-배경훈-ai인프라-민간투자-뒷받침-규.md",
         "title": "배경훈 'AI인프라 민간투자 뒷받침…규제혁신 아끼지 않겠다'",
         "importance": 6,
@@ -37295,6 +37512,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260727173825"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-엔비디아-순환-금융-우려-amd-sk.md",
+        "title": "엔비디아發 '순환 금융' 우려…AMD·SK하이닉스까지 동반 하락",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#openai",
+          "#investment",
+          "#datacenter",
+          "#risk"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728083549"
       },
       {
         "date": "2026-07-24",
@@ -40664,6 +40896,35 @@
     "금융회사 AI": [
       {
         "date": "2026-07-28",
+        "file": "20260728-kb금융-제미나이로-데이터분석-고객챗.md",
+        "title": "KB금융, 제미나이로 데이터분석·고객챗봇 개발",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#partnership",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728103222"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-bc카드-금융권-최초-자체-개발-ai.md",
+        "title": "BC카드, 금융권 최초 자체 개발 AI 플랫폼 오픈소스 공개",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#open-source",
+          "#enterprise-ai"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728056300002"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-ai-채택-안-하는-것이-금융-산업-.md",
         "title": "“AI 채택 안 하는 것이 韓 금융 산업 최대 리스크”",
         "importance": 6,
@@ -40749,6 +41010,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260727097700051"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-이집-맛집이네-금융사-단골된-해커들-.md",
+        "title": "“이집 맛집이네”…韓금융사 단골된 해커들, AI 무기까지 장착했다 [기자24시]",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#security",
+          "#ai-threat",
+          "#fraud"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12109144"
       },
       {
         "date": "2026-07-24",
@@ -42126,6 +42401,21 @@
     "physical_ai": [
       {
         "date": "2026-07-28",
+        "file": "20260728-소부장-온에어-lg이노텍-tdk와-a.md",
+        "title": "[소부장 온에어]LG이노텍, 日 TDK와 AI 맞손…로봇 눈·피부 제작",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#partnership",
+          "#sensor",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669118"
+      },
+      {
+        "date": "2026-07-28",
         "file": "20260728-enigma-raises-71m-to.md",
         "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
         "importance": 6,
@@ -42152,6 +42442,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213187"
+      },
+      {
+        "date": "2026-07-28",
+        "file": "20260728-국토부-제주서-k-uam-초기-상용화.md",
+        "title": "국토부, 제주서 K-UAM 초기 상용화 서비스 모델 첫선",
+        "importance": 6,
+        "tags": [
+          "#uam",
+          "#mobility",
+          "#commercialization",
+          "#public-service"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260728105941"
       },
       {
         "date": "2026-07-28",
