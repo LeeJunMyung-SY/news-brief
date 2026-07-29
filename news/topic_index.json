@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-28T23:32:04+00:00",
+  "generated_at": "2026-07-29T03:21:47+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 449,
+      "count": 452,
       "latest_date": "2026-07-29"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 463,
+      "count": 468,
       "latest_date": "2026-07-29"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 497,
+      "count": 500,
       "latest_date": "2026-07-29"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1066,
+      "count": 1080,
       "latest_date": "2026-07-29"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 167,
+      "count": 168,
       "latest_date": "2026-07-29"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 253,
+      "count": 259,
       "latest_date": "2026-07-29"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 117,
+      "count": 121,
       "latest_date": "2026-07-29"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 80,
+      "count": 81,
       "latest_date": "2026-07-29"
     },
     {
@@ -90,6 +90,37 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12109698"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-cyera-agrees-to-acqu.md",
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#ai-agents",
+          "#security",
+          "#enterprise-ai",
+          "#identity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-비자-스테이블코인-ai-에이전틱-결제.md",
+        "title": "비자, 스테이블코인·AI 에이전틱 결제 동시 베팅",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#agentic-commerce",
+          "#stablecoin",
+          "#payments",
+          "#monetization"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12110195"
       },
       {
         "date": "2026-07-29",
@@ -146,6 +177,51 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260729000005"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-애플-시리ai-로-스마트홈-혁명-이끈.md",
+        "title": "애플, '시리AI'로 스마트홈 혁명 이끈다",
+        "importance": 6,
+        "tags": [
+          "#voice-assistant",
+          "#smart-home",
+          "#product-launch",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729082957"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-정부-고용서비스-상담-중심-전환-행정.md",
+        "title": "정부, 고용서비스 상담 중심 전환…행정업무는 AI 자동화 추진(종합)",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#automation",
+          "#org-change",
+          "#workforce"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728127151530"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-페르소나ai-에티버스이피에이-피지컬a.md",
+        "title": "페르소나AI·에티버스이피에이, 피지컬AI 기반 하이퍼오토메이션 사업 맞손…AI·로봇·5G 융합 기술 본격화",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#ai-agents",
+          "#robotics",
+          "#partnership",
+          "#public-sector",
+          "#5g"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000171"
       },
       {
         "date": "2026-07-28",
@@ -6837,6 +6913,22 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-sk텔레콤-독파모-2차-모델-공개-제.md",
+        "title": "SK텔레콤, 독파모 2차 모델 공개…제조·국방·바이오 투입",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#sovereign-ai",
+          "#korea-ai",
+          "#enterprise-ai",
+          "#reasoning"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000187"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-만나보니-ai-승부처는-버티컬ai-금.md",
         "title": "[만나보니] 'AI 승부처는 버티컬AI…금융AI 국가대표 키워야'",
         "importance": 8,
@@ -6890,6 +6982,35 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260728172730"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-삼성서울병원-의료ai-의사국가고시서-.md",
+        "title": "삼성서울병원 의료AI, 의사국가고시서 세계 최고점 기록",
+        "importance": 6,
+        "tags": [
+          "#healthcare-ai",
+          "#benchmark",
+          "#vertical-ai",
+          "#ai-adoption"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607292046i"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-크래프톤-한국어-1위-음성-ai-공개.md",
+        "title": "크래프톤, 한국어 1위 음성 AI 공개…'말하는 AI 캐릭터' 구현 속도",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#voice-ai",
+          "#korea-ai",
+          "#multimodal"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729092703"
       },
       {
         "date": "2026-07-28",
@@ -13336,6 +13457,22 @@
     "ai_policy": [
       {
         "date": "2026-07-29",
+        "file": "20260729-금융-it-외주-사고-시-이사회-최종.md",
+        "title": "금융 IT 외주 사고 시 이사회 최종 책임…금감원, '제3자 IT리스크 가이드라인' 마련",
+        "importance": 9,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#governance",
+          "#third-party-risk",
+          "#cloud",
+          "#compliance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000111"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-만나보니-ai-승부처는-버티컬ai-금.md",
         "title": "[만나보니] 'AI 승부처는 버티컬AI…금융AI 국가대표 키워야'",
         "importance": 8,
@@ -13434,6 +13571,21 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-싱가포르-중앙은행-ai-투자-둔화-땐.md",
+        "title": "싱가포르 중앙은행, 'AI 투자 둔화 땐 세계 성장·금융시장 충격'",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#macro",
+          "#central-bank",
+          "#risk",
+          "#finance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607292032i"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-정부-cctv-1만8000대-ai-전.md",
         "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
         "importance": 6,
@@ -13445,6 +13597,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-정부-고용서비스-상담-중심-전환-행정.md",
+        "title": "정부, 고용서비스 상담 중심 전환…행정업무는 AI 자동화 추진(종합)",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#automation",
+          "#org-change",
+          "#workforce"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260728127151530"
       },
       {
         "date": "2026-07-28",
@@ -20565,6 +20732,37 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-cyera-agrees-to-acqu.md",
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#ai-agents",
+          "#security",
+          "#enterprise-ai",
+          "#identity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-sk텔레콤-독파모-2차-모델-공개-제.md",
+        "title": "SK텔레콤, 독파모 2차 모델 공개…제조·국방·바이오 투입",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#sovereign-ai",
+          "#korea-ai",
+          "#enterprise-ai",
+          "#reasoning"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000187"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-tech-jobs-go-as-visa.md",
         "title": "Tech jobs go as Visa cuts workforce by 7%",
         "importance": 8,
@@ -20618,6 +20816,37 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260729000009"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-메타-블랙록과-데이터센터-단지-구축에.md",
+        "title": "메타, 블랙록과 ‘데이터센터 단지’ 구축에 20조원 투입",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#ai-infra",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729084440"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-비자-스테이블코인-ai-에이전틱-결제.md",
+        "title": "비자, 스테이블코인·AI 에이전틱 결제 동시 베팅",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#agentic-commerce",
+          "#stablecoin",
+          "#payments",
+          "#monetization"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12110195"
       },
       {
         "date": "2026-07-29",
@@ -20705,6 +20934,66 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-sk하이닉스-hbm4-321단-낸드로.md",
+        "title": "SK하이닉스, HBM4·321단 낸드로 올해 영업이익 200兆 넘본다",
+        "importance": 7,
+        "tags": [
+          "#hbm",
+          "#semiconductor",
+          "#earnings",
+          "#ai-infra",
+          "#supply-shortage"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669317"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-sk하이닉스-올해-설비투자-40조원-.md",
+        "title": "SK하이닉스, 올해 설비투자 40조원 후반 예상…생산능력 확대 '고삐'",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#hbm",
+          "#semiconductor",
+          "#ai-infra",
+          "#investment"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729083227"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-게시판-bc카드-몽고db와-ai데이터.md",
+        "title": "[게시판] BC카드, 몽고DB와 AI데이터 플랫폼 구축 '맞손'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#partnership",
+          "#data-platform",
+          "#enterprise-ai"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260729058100002"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-단독-ai-붐에-mlcc-품귀-삼성전.md",
+        "title": "[단독]AI 붐에 MLCC 품귀…삼성전기, 8월부터 공급가 30% 인상",
+        "importance": 7,
+        "tags": [
+          "#supply-shortage",
+          "#pricing",
+          "#components",
+          "#ai-infra",
+          "#semiconductor"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669302"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-단독-ai-에너지-인프라-투자-기업-.md",
         "title": "[단독] 美 'AI 에너지 인프라' 투자…韓기업, 발전소 턴키 수주 가능성",
         "importance": 7,
@@ -20789,6 +21078,21 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-디노티시아-stx엔진-방산-aidc-.md",
+        "title": "디노티시아-STX엔진, 방산 AIDC 구축 MOU",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#partnership",
+          "#defense-ai",
+          "#ai-infra",
+          "#network-separation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729091110"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
         "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
         "importance": 6,
@@ -20803,6 +21107,49 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-삼성서울병원-의료ai-의사국가고시서-.md",
+        "title": "삼성서울병원 의료AI, 의사국가고시서 세계 최고점 기록",
+        "importance": 6,
+        "tags": [
+          "#healthcare-ai",
+          "#benchmark",
+          "#vertical-ai",
+          "#ai-adoption"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607292046i"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-싱가포르-중앙은행-ai-투자-둔화-땐.md",
+        "title": "싱가포르 중앙은행, 'AI 투자 둔화 땐 세계 성장·금융시장 충격'",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#macro",
+          "#central-bank",
+          "#risk",
+          "#finance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607292032i"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-애플-시리ai-로-스마트홈-혁명-이끈.md",
+        "title": "애플, '시리AI'로 스마트홈 혁명 이끈다",
+        "importance": 6,
+        "tags": [
+          "#voice-assistant",
+          "#smart-home",
+          "#product-launch",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729082957"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-정부-cctv-1만8000대-ai-전.md",
         "title": "정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입",
         "importance": 6,
@@ -20814,6 +21161,37 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-크래프톤-한국어-1위-음성-ai-공개.md",
+        "title": "크래프톤, 한국어 1위 음성 AI 공개…'말하는 AI 캐릭터' 구현 속도",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#voice-ai",
+          "#korea-ai",
+          "#multimodal"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729092703"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-페르소나ai-에티버스이피에이-피지컬a.md",
+        "title": "페르소나AI·에티버스이피에이, 피지컬AI 기반 하이퍼오토메이션 사업 맞손…AI·로봇·5G 융합 기술 본격화",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#ai-agents",
+          "#robotics",
+          "#partnership",
+          "#public-sector",
+          "#5g"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000171"
       },
       {
         "date": "2026-07-29",
@@ -36085,6 +36463,22 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-페르소나ai-에티버스이피에이-피지컬a.md",
+        "title": "페르소나AI·에티버스이피에이, 피지컬AI 기반 하이퍼오토메이션 사업 맞손…AI·로봇·5G 융합 기술 본격화",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#ai-agents",
+          "#robotics",
+          "#partnership",
+          "#public-sector",
+          "#5g"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000171"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-허정수칼럼-현대차-노조-아틀라스를-이.md",
         "title": "[허정수칼럼] 현대차 노조, 아틀라스를 이길 수 있나",
         "importance": 6,
@@ -38551,6 +38945,21 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-메타-블랙록과-데이터센터-단지-구축에.md",
+        "title": "메타, 블랙록과 ‘데이터센터 단지’ 구축에 20조원 투입",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#partnership",
+          "#ai-infra",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729084440"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-ai-빚투-경쟁에-빅테크간-자금-돌려.md",
         "title": "AI 빚투 경쟁에 빅테크간 자금 돌려막기…시장 임계점 왔나",
         "importance": 7,
@@ -38593,6 +39002,51 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-sk하이닉스-hbm4-321단-낸드로.md",
+        "title": "SK하이닉스, HBM4·321단 낸드로 올해 영업이익 200兆 넘본다",
+        "importance": 7,
+        "tags": [
+          "#hbm",
+          "#semiconductor",
+          "#earnings",
+          "#ai-infra",
+          "#supply-shortage"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669317"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-sk하이닉스-올해-설비투자-40조원-.md",
+        "title": "SK하이닉스, 올해 설비투자 40조원 후반 예상…생산능력 확대 '고삐'",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#hbm",
+          "#semiconductor",
+          "#ai-infra",
+          "#investment"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729083227"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-단독-ai-붐에-mlcc-품귀-삼성전.md",
+        "title": "[단독]AI 붐에 MLCC 품귀…삼성전기, 8월부터 공급가 30% 인상",
+        "importance": 7,
+        "tags": [
+          "#supply-shortage",
+          "#pricing",
+          "#components",
+          "#ai-infra",
+          "#semiconductor"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669302"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-단독-ai-에너지-인프라-투자-기업-.md",
         "title": "[단독] 美 'AI 에너지 인프라' 투자…韓기업, 발전소 턴키 수주 가능성",
         "importance": 7,
@@ -38607,6 +39061,21 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-디노티시아-stx엔진-방산-aidc-.md",
+        "title": "디노티시아-STX엔진, 방산 AIDC 구축 MOU",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#partnership",
+          "#defense-ai",
+          "#ai-infra",
+          "#network-separation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729091110"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-박세웅-원장-피지컬-ai에-사활-초혁.md",
         "title": "박세웅 원장 '피지컬 AI에 사활…초혁신 경제 핵심 역할할 것'",
         "importance": 6,
@@ -38618,6 +39087,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260728193650"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-싱가포르-중앙은행-ai-투자-둔화-땐.md",
+        "title": "싱가포르 중앙은행, 'AI 투자 둔화 땐 세계 성장·금융시장 충격'",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#macro",
+          "#central-bank",
+          "#risk",
+          "#finance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607292032i"
       },
       {
         "date": "2026-07-29",
@@ -42223,6 +42707,22 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-금융-it-외주-사고-시-이사회-최종.md",
+        "title": "금융 IT 외주 사고 시 이사회 최종 책임…금감원, '제3자 IT리스크 가이드라인' 마련",
+        "importance": 9,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#governance",
+          "#third-party-risk",
+          "#cloud",
+          "#compliance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000111"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-tech-jobs-go-as-visa.md",
         "title": "Tech jobs go as Visa cuts workforce by 7%",
         "importance": 8,
@@ -42276,6 +42776,22 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260729000009"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-비자-스테이블코인-ai-에이전틱-결제.md",
+        "title": "비자, 스테이블코인·AI 에이전틱 결제 동시 베팅",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#agentic-commerce",
+          "#stablecoin",
+          "#payments",
+          "#monetization"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12110195"
       },
       {
         "date": "2026-07-29",
@@ -42335,6 +42851,21 @@
       },
       {
         "date": "2026-07-29",
+        "file": "20260729-게시판-bc카드-몽고db와-ai데이터.md",
+        "title": "[게시판] BC카드, 몽고DB와 AI데이터 플랫폼 구축 '맞손'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#partnership",
+          "#data-platform",
+          "#enterprise-ai"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260729058100002"
+      },
+      {
+        "date": "2026-07-29",
         "file": "20260729-사티아-나델라-ms-ceo-특정-ai.md",
         "title": "사티아 나델라 MS CEO '특정 AI 모델 의존하는 기업, 살아남기 어렵다'",
         "importance": 7,
@@ -42346,6 +42877,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260728165704"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-싱가포르-중앙은행-ai-투자-둔화-땐.md",
+        "title": "싱가포르 중앙은행, 'AI 투자 둔화 땐 세계 성장·금융시장 충격'",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#macro",
+          "#central-bank",
+          "#risk",
+          "#finance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607292032i"
       },
       {
         "date": "2026-07-28",
@@ -43971,6 +44517,22 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213272"
+      },
+      {
+        "date": "2026-07-29",
+        "file": "20260729-페르소나ai-에티버스이피에이-피지컬a.md",
+        "title": "페르소나AI·에티버스이피에이, 피지컬AI 기반 하이퍼오토메이션 사업 맞손…AI·로봇·5G 융합 기술 본격화",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#ai-agents",
+          "#robotics",
+          "#partnership",
+          "#public-sector",
+          "#5g"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000171"
       },
       {
         "date": "2026-07-29",
