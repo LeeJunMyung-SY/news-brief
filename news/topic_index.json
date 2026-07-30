@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-29T07:20:29+00:00",
+  "generated_at": "2026-07-30T00:21:12+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 457,
-      "latest_date": "2026-07-29"
+      "count": 462,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 474,
-      "latest_date": "2026-07-29"
+      "count": 481,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 505,
-      "latest_date": "2026-07-29"
+      "count": 512,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1100,
-      "latest_date": "2026-07-29"
+      "count": 1118,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 172,
-      "latest_date": "2026-07-29"
+      "count": 175,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 267,
-      "latest_date": "2026-07-29"
+      "count": 272,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 123,
-      "latest_date": "2026-07-29"
+      "count": 129,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 86,
-      "latest_date": "2026-07-29"
+      "count": 89,
+      "latest_date": "2026-07-30"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,108 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-30",
+        "file": "20260730-mcp-핵심-구조-전면-개편-ai-에.md",
+        "title": "MCP 핵심 구조 전면 개편...'AI 에이전트 대규모 프로덕션 시대 진입'",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#open-standard",
+          "#security"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213307"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ms-ai가-이끈-깜짝-실적-애저-첫.md",
+        "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#monetization",
+          "#enterprise-ai",
+          "#microsoft",
+          "#cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730082650"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-openai-admits-its-au.md",
+        "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#zero-day",
+          "#credential-theft",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-mythos-uncovers-cryp.md",
+        "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#cryptography",
+          "#research-automation",
+          "#anthropic"
+        ],
+        "source": "Ars Technica Tech",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-zuckerberg-says-meta.md",
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#meta",
+          "#monetization",
+          "#b2b"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-고숙련자-노하우-디지털화-포스코dx-.md",
+        "title": "'고숙련자 노하우 디지털화'…포스코DX, 제조 AI 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#knowledge-management",
+          "#physical-ai",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072937581"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-버그-탐지-넘어-암호-분석까지-미소스.md",
+        "title": "버그 탐지 넘어 암호 분석까지…'미소스', 알고리즘 취약점 찾았다",
+        "importance": 6,
+        "tags": [
+          "#cryptography",
+          "#security",
+          "#research-paper",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213293"
+      },
       {
         "date": "2026-07-29",
         "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
@@ -6987,6 +7089,78 @@
     ],
     "llm_models": [
       {
+        "date": "2026-07-30",
+        "file": "20260730-mythos-uncovers-cryp.md",
+        "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#cryptography",
+          "#research-automation",
+          "#anthropic"
+        ],
+        "source": "Ars Technica Tech",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-the-u-s-wants-asia-t.md",
+        "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+        "importance": 7,
+        "tags": [
+          "#geopolitics",
+          "#china",
+          "#open-weights",
+          "#pricing",
+          "#market-share"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-아마존-자체-ai-모델-노바-재정비-.md",
+        "title": "아마존, 자체 AI 모델 '노바' 재정비…외부 인재 중심으로 재개발",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#model-roadmap",
+          "#amazon",
+          "#strategy",
+          "#deprecation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000005"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-버그-탐지-넘어-암호-분석까지-미소스.md",
+        "title": "버그 탐지 넘어 암호 분석까지…'미소스', 알고리즘 취약점 찾았다",
+        "importance": 6,
+        "tags": [
+          "#cryptography",
+          "#security",
+          "#research-paper",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213293"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-키미-k3-페이블-5와-게임-개발-맞.md",
+        "title": "키미 K3, 페이블 5와 게임 개발 맞대결…'비용 낮추고 성능은 필적'",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#benchmark",
+          "#cost-optimization",
+          "#coding"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213312"
+      },
+      {
         "date": "2026-07-29",
         "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
         "title": "KB금융, 구글과 손잡고 전사적 AI 플랫폼 구축",
@@ -13619,6 +13793,111 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-07-30",
+        "file": "20260730-openai-admits-its-au.md",
+        "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#zero-day",
+          "#credential-theft",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-singapore-s-central-.md",
+        "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#banking",
+          "#cyber-risk",
+          "#central-bank",
+          "#governance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-대체-불가-토큰-수출국-목표-민-관-.md",
+        "title": "'대체 불가 토큰 수출국 목표'...민·관  주도 'AIDC 얼라이언스' 공식 출범",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#national-strategy",
+          "#partnership",
+          "#korea",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213310"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-pwc-has-allegedly-pu.md",
+        "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+        "importance": 7,
+        "tags": [
+          "#ai-governance",
+          "#hallucination",
+          "#professional-services",
+          "#quality-control"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-sam-altman-to-meet-w.md",
+        "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#policy",
+          "#us-government",
+          "#openai",
+          "#lobbying"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-the-u-s-wants-asia-t.md",
+        "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+        "importance": 7,
+        "tags": [
+          "#geopolitics",
+          "#china",
+          "#open-weights",
+          "#pricing",
+          "#market-share"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-대규모-aidc-구축-시동-정재헌-생.md",
+        "title": "대규모 AIDC 구축 시동…정재헌, 생태계 구심점 역할 맡는다[현장+]",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#national-strategy",
+          "#partnership",
+          "#telecom",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669361"
+      },
       {
         "date": "2026-07-29",
         "file": "20260729-금융-it-외주-사고-시-이사회-최종.md",
@@ -20954,6 +21233,273 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-07-30",
+        "file": "20260730-mcp-핵심-구조-전면-개편-ai-에.md",
+        "title": "MCP 핵심 구조 전면 개편...'AI 에이전트 대규모 프로덕션 시대 진입'",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#open-standard",
+          "#security"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213307"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ms-ai가-이끈-깜짝-실적-애저-첫.md",
+        "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#monetization",
+          "#enterprise-ai",
+          "#microsoft",
+          "#cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730082650"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-openai-admits-its-au.md",
+        "title": "OpenAI admits its autonomous AI models also compromised credentials on other platforms during security eval",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#zero-day",
+          "#credential-theft",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-admits-its-autonomous-ai-models-also-compromised-credentials-on-other-platforms-during-security-eval/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-singapore-s-central-.md",
+        "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#banking",
+          "#cyber-risk",
+          "#central-bank",
+          "#governance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-게시판-한컴위드-nh농협손해보험에-a.md",
+        "title": "[게시판] 한컴위드, NH농협손해보험에 AI 안면인증 솔루션 도입 등 단신",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#insurance",
+          "#banking",
+          "#ekyc",
+          "#deepfake"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213313"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-대체-불가-토큰-수출국-목표-민-관-.md",
+        "title": "'대체 불가 토큰 수출국 목표'...민·관  주도 'AIDC 얼라이언스' 공식 출범",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#national-strategy",
+          "#partnership",
+          "#korea",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213310"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-mythos-uncovers-cryp.md",
+        "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#cryptography",
+          "#research-automation",
+          "#anthropic"
+        ],
+        "source": "Ars Technica Tech",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-pwc-has-allegedly-pu.md",
+        "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+        "importance": 7,
+        "tags": [
+          "#ai-governance",
+          "#hallucination",
+          "#professional-services",
+          "#quality-control"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-sam-altman-to-meet-w.md",
+        "title": "Sam Altman to meet with White House's Wiles this week ahead of AI framework deadline",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#policy",
+          "#us-government",
+          "#openai",
+          "#lobbying"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/29/altman-white-house-wiles-ai-framework.html"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-the-u-s-wants-asia-t.md",
+        "title": "The U.S. wants Asia to use its AI — but China dominates cheaper models",
+        "importance": 7,
+        "tags": [
+          "#geopolitics",
+          "#china",
+          "#open-weights",
+          "#pricing",
+          "#market-share"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/us-wants-asia-to-use-its-ai-but-china-dominates-cheaper-models.html"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-zuckerberg-says-meta.md",
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#meta",
+          "#monetization",
+          "#b2b"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-고숙련자-노하우-디지털화-포스코dx-.md",
+        "title": "'고숙련자 노하우 디지털화'…포스코DX, 제조 AI 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#knowledge-management",
+          "#physical-ai",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072937581"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-대규모-aidc-구축-시동-정재헌-생.md",
+        "title": "대규모 AIDC 구축 시동…정재헌, 생태계 구심점 역할 맡는다[현장+]",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#national-strategy",
+          "#partnership",
+          "#telecom",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669361"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-롯데하이마트-에프알티로보틱스와-ai-.md",
+        "title": "롯데하이마트, 에프알티로보틱스와 'AI 웨어러블 로봇' 실증 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#robotics",
+          "#logistics",
+          "#partnership",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000446"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-메타-ai-투자에-현금-다-썼다-영업.md",
+        "title": "메타, AI 투자에 현금 다 썼다…영업익 감소에 주가 10% 급락",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#capex",
+          "#meta",
+          "#investor-sentiment"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607304484i"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-아마존-자체-ai-모델-노바-재정비-.md",
+        "title": "아마존, 자체 AI 모델 '노바' 재정비…외부 인재 중심으로 재개발",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#model-roadmap",
+          "#amazon",
+          "#strategy",
+          "#deprecation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000005"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-유니트리-바퀴-달린-4족-로봇-공개-.md",
+        "title": "유니트리, 바퀴 달린 4족 로봇 공개…시속 21.6km에 80cm 장애물 넘는다",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#physical-ai",
+          "#china",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729211117"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-키미-k3-페이블-5와-게임-개발-맞.md",
+        "title": "키미 K3, 페이블 5와 게임 개발 맞대결…'비용 낮추고 성능은 필적'",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#benchmark",
+          "#cost-optimization",
+          "#coding"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213312"
+      },
       {
         "date": "2026-07-29",
         "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
@@ -36986,6 +37532,51 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-07-30",
+        "file": "20260730-고숙련자-노하우-디지털화-포스코dx-.md",
+        "title": "'고숙련자 노하우 디지털화'…포스코DX, 제조 AI 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#knowledge-management",
+          "#physical-ai",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072937581"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-롯데하이마트-에프알티로보틱스와-ai-.md",
+        "title": "롯데하이마트, 에프알티로보틱스와 'AI 웨어러블 로봇' 실증 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#robotics",
+          "#logistics",
+          "#partnership",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000446"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-유니트리-바퀴-달린-4족-로봇-공개-.md",
+        "title": "유니트리, 바퀴 달린 4족 로봇 공개…시속 21.6km에 80cm 장애물 넘는다",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#physical-ai",
+          "#china",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729211117"
+      },
+      {
         "date": "2026-07-29",
         "file": "20260729-미국-중국산-휴머노이드-로봇-인버터-.md",
         "title": "미국, 중국산 휴머노이드 로봇·인버터 수입 금지...'AI·전력망 안보 위협'",
@@ -39513,6 +40104,79 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ms-ai가-이끈-깜짝-실적-애저-첫.md",
+        "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#monetization",
+          "#enterprise-ai",
+          "#microsoft",
+          "#cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730082650"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-대체-불가-토큰-수출국-목표-민-관-.md",
+        "title": "'대체 불가 토큰 수출국 목표'...민·관  주도 'AIDC 얼라이언스' 공식 출범",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#national-strategy",
+          "#partnership",
+          "#korea",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213310"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-zuckerberg-says-meta.md",
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#meta",
+          "#monetization",
+          "#b2b"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-대규모-aidc-구축-시동-정재헌-생.md",
+        "title": "대규모 AIDC 구축 시동…정재헌, 생태계 구심점 역할 맡는다[현장+]",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#national-strategy",
+          "#partnership",
+          "#telecom",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669361"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-메타-ai-투자에-현금-다-썼다-영업.md",
+        "title": "메타, AI 투자에 현금 다 썼다…영업익 감소에 주가 10% 급락",
+        "importance": 7,
+        "tags": [
+          "#earnings",
+          "#capex",
+          "#meta",
+          "#investor-sentiment"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607304484i"
+      },
       {
         "date": "2026-07-29",
         "file": "20260729-엔비디아-텍사스-73조-초대형-데이터.md",
@@ -43409,6 +44073,95 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-07-30",
+        "file": "20260730-mcp-핵심-구조-전면-개편-ai-에.md",
+        "title": "MCP 핵심 구조 전면 개편...'AI 에이전트 대규모 프로덕션 시대 진입'",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#open-standard",
+          "#security"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213307"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-singapore-s-central-.md",
+        "title": "Singapore's central bank convenes AI-Driven Cyber and Technology Risk Taskforce",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#banking",
+          "#cyber-risk",
+          "#central-bank",
+          "#governance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48163/singapores-central-bank-convenes-ai-driven-cyber-and-technology-risk-taskforce?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-게시판-한컴위드-nh농협손해보험에-a.md",
+        "title": "[게시판] 한컴위드, NH농협손해보험에 AI 안면인증 솔루션 도입 등 단신",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#insurance",
+          "#banking",
+          "#ekyc",
+          "#deepfake"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213313"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-mythos-uncovers-cryp.md",
+        "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#cryptography",
+          "#research-automation",
+          "#anthropic"
+        ],
+        "source": "Ars Technica Tech",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-pwc-has-allegedly-pu.md",
+        "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
+        "importance": 7,
+        "tags": [
+          "#ai-governance",
+          "#hallucination",
+          "#professional-services",
+          "#quality-control"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/pwc-has-allegedly-published-ai-generated-reports-containing-false-or-fabricated-sources/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-버그-탐지-넘어-암호-분석까지-미소스.md",
+        "title": "버그 탐지 넘어 암호 분석까지…'미소스', 알고리즘 취약점 찾았다",
+        "importance": 6,
+        "tags": [
+          "#cryptography",
+          "#security",
+          "#research-paper",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213293"
+      },
+      {
         "date": "2026-07-29",
         "file": "20260729-kb금융-구글과-손잡고-전사적-ai-.md",
         "title": "KB금융, 구글과 손잡고 전사적 AI 플랫폼 구축",
@@ -45224,6 +45977,51 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-07-30",
+        "file": "20260730-고숙련자-노하우-디지털화-포스코dx-.md",
+        "title": "'고숙련자 노하우 디지털화'…포스코DX, 제조 AI 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#knowledge-management",
+          "#physical-ai",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026072937581"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-롯데하이마트-에프알티로보틱스와-ai-.md",
+        "title": "롯데하이마트, 에프알티로보틱스와 'AI 웨어러블 로봇' 실증 나선다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#robotics",
+          "#logistics",
+          "#partnership",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260729000446"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-유니트리-바퀴-달린-4족-로봇-공개-.md",
+        "title": "유니트리, 바퀴 달린 4족 로봇 공개…시속 21.6km에 80cm 장애물 넘는다",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#physical-ai",
+          "#china",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260729211117"
+      },
       {
         "date": "2026-07-29",
         "file": "20260729-미국-중국산-휴머노이드-로봇-인버터-.md",
