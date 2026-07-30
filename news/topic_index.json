@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-30T03:22:13+00:00",
+  "generated_at": "2026-07-30T07:51:52+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 466,
+      "count": 471,
       "latest_date": "2026-07-30"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 486,
+      "count": 497,
       "latest_date": "2026-07-30"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 516,
+      "count": 523,
       "latest_date": "2026-07-30"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1133,
+      "count": 1154,
       "latest_date": "2026-07-30"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 178,
+      "count": 181,
       "latest_date": "2026-07-30"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 278,
+      "count": 283,
       "latest_date": "2026-07-30"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 135,
+      "count": 142,
       "latest_date": "2026-07-30"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 92,
+      "count": 95,
       "latest_date": "2026-07-30"
     },
     {
@@ -76,6 +76,70 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-30",
+        "file": "20260730-문페이-챗gpt-클로드서-예약-쇼핑-.md",
+        "title": "문페이 '챗GPT·클로드서 예약·쇼핑·결제 지원'",
+        "importance": 9,
+        "tags": [
+          "#agentic-payments",
+          "#finance",
+          "#product-launch",
+          "#stablecoin",
+          "#security",
+          "#mcp"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730142929"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
+        "title": "[컨콜] 이준희 삼성SDS 대표 'AI 인프라 800MW까지 확대…풀스택 성장 가속'",
+        "importance": 9,
+        "tags": [
+          "#datacenter",
+          "#ai-infrastructure",
+          "#finance",
+          "#korea",
+          "#strategy",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730143111"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-한국-기업-ai-활용-미국-일본-앞섰.md",
+        "title": "한국 기업, AI 활용 미국·일본 앞섰지만…'결과물 믿기 어렵다'",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#korea",
+          "#survey",
+          "#governance",
+          "#roi-case",
+          "#trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730134519"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai가-주식-투자-코치해준다-라이너-.md",
+        "title": "'AI가 주식 투자 코치해준다'...라이너, 투자 리서치 AI 에이전트 출시",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#korea",
+          "#investment-research",
+          "#product-launch",
+          "#hallucination"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213345"
+      },
       {
         "date": "2026-07-30",
         "file": "20260730-mcp-핵심-구조-전면-개편-ai-에.md",
@@ -139,6 +203,22 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-리걸테크-레고라-서울-사무소-개설-한.md",
+        "title": "'리걸테크' 레고라, 서울 사무소 개설…한국 법률 AI 시장 공략",
+        "importance": 8,
+        "tags": [
+          "#legaltech",
+          "#ai-adoption",
+          "#korea",
+          "#market-entry",
+          "#enterprise-ai",
+          "#localization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730135150"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-삼성sds-ai-인프라부터-에이전트까.md",
         "title": "삼성SDS, AI 인프라부터 에이전트까지…'풀스택 AI' 성과 가시화",
         "importance": 8,
@@ -155,6 +235,21 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-알트먼-미-의회-백악관-연쇄-방문-통.md",
+        "title": "알트먼, 미 의회·백악관 연쇄 방문... '통제 벗어난 AI 에이전트' 규제 논의",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#openai",
+          "#agent-risk",
+          "#safety-incident",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213331"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-잠든-사이-업무-척척-구글-제미나이-.md",
         "title": "잠든 사이 업무 척척…구글, '제미나이 스파크' 국내 출시",
         "importance": 8,
@@ -167,6 +262,68 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730095359"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-피지컬-에이전틱ai-띄운-포스코dx-.md",
+        "title": "피지컬·에이전틱AI 띄운 포스코DX, 하반기 반등할까",
+        "importance": 8,
+        "tags": [
+          "#physical-ai",
+          "#agentic-ai",
+          "#manufacturing",
+          "#korea",
+          "#monetization",
+          "#ai-adoption"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669464"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai-리더스-스노우플레이크-미-중-데.md",
+        "title": "[AI 리더스] 스노우플레이크 '미·중 데이터 표준 경쟁…한국도 설계 나서야'",
+        "importance": 7,
+        "tags": [
+          "#data-standard",
+          "#open-source",
+          "#us-china",
+          "#semantic-layer",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730131752"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai가-drm-해제하고-수-분-만에-.md",
+        "title": "AI가 DRM 해제하고 수 분 만에 새 사이트...AI 불법스트리밍 대응 시급",
+        "importance": 7,
+        "tags": [
+          "#ai-misuse",
+          "#copyright",
+          "#security",
+          "#korea",
+          "#content-piracy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000324"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-apex-accounting.md",
+        "title": "APEX-Accounting",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#accounting",
+          "#finance",
+          "#enterprise-ai",
+          "#automation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.27189"
       },
       {
         "date": "2026-07-30",
@@ -225,6 +382,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202607304904i"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-gpt-red-automated-re.md",
+        "title": "GPT-Red: Automated Red Teaming via Self-Play at Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#red-teaming",
+          "#prompt-injection",
+          "#safety",
+          "#openai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.26115"
       },
       {
         "date": "2026-07-30",
@@ -7167,6 +7339,21 @@
     "llm_models": [
       {
         "date": "2026-07-30",
+        "file": "20260730-문샷ai-35억-달러-투자-유치-키미.md",
+        "title": "문샷AI, 35억 달러 투자 유치…'키미 K3' 흥행 효과",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#china",
+          "#moonshot",
+          "#valuation",
+          "#ipo"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730141639"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-잠든-사이-업무-척척-구글-제미나이-.md",
         "title": "잠든 사이 업무 척척…구글, '제미나이 스파크' 국내 출시",
         "importance": 8,
@@ -7179,6 +7366,22 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730095359"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-apex-accounting.md",
+        "title": "APEX-Accounting",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#accounting",
+          "#finance",
+          "#enterprise-ai",
+          "#automation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.27189"
       },
       {
         "date": "2026-07-30",
@@ -7241,6 +7444,35 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-오픈ai-연구자-10만명에-첨단-ai.md",
+        "title": "오픈AI, 연구자 10만명에 '첨단 AI' 푼다…한국 17개 기관 포함",
+        "importance": 7,
+        "tags": [
+          "#openai",
+          "#academia",
+          "#ecosystem",
+          "#korea",
+          "#science-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730140155"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-챗gpt-주간-활성-사용자-10억명-.md",
+        "title": "‘챗GPT’ 주간 활성 사용자 10억명 눈앞...7개월 늦었지만 성장세 유지",
+        "importance": 7,
+        "tags": [
+          "#openai",
+          "#user-growth",
+          "#adoption",
+          "#market-metrics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213327"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-ai가-스스로-숨은-약점-찾는다-ka.md",
         "title": "'AI가 스스로 숨은 약점 찾는다'…KAIST, 공격 유형 7배 늘린 검증 기술 개발",
         "importance": 6,
@@ -7253,6 +7485,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202607304904i"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-gpt-red-automated-re.md",
+        "title": "GPT-Red: Automated Red Teaming via Self-Play at Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#red-teaming",
+          "#prompt-injection",
+          "#safety",
+          "#openai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.26115"
       },
       {
         "date": "2026-07-30",
@@ -13978,6 +14225,81 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-알트먼-미-의회-백악관-연쇄-방문-통.md",
+        "title": "알트먼, 미 의회·백악관 연쇄 방문... '통제 벗어난 AI 에이전트' 규제 논의",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#openai",
+          "#agent-risk",
+          "#safety-incident",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213331"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-챗gpt-로블록스-eu-최고-수준-규.md",
+        "title": "챗GPT·로블록스, EU 최고 수준 규제 받는다...이르면 8월 '특별 관리 대상' 지정",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#dsa",
+          "#openai",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213355"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-2000억-상한-피한-kt-유출-규모.md",
+        "title": "2000억 상한 피한 KT…'유출 규모·사후 노력'으로 과징금 감경",
+        "importance": 7,
+        "tags": [
+          "#privacy",
+          "#regulation",
+          "#korea",
+          "#penalty",
+          "#security-incident"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669486"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai-리더스-스노우플레이크-미-중-데.md",
+        "title": "[AI 리더스] 스노우플레이크 '미·중 데이터 표준 경쟁…한국도 설계 나서야'",
+        "importance": 7,
+        "tags": [
+          "#data-standard",
+          "#open-source",
+          "#us-china",
+          "#semantic-layer",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730131752"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai가-drm-해제하고-수-분-만에-.md",
+        "title": "AI가 DRM 해제하고 수 분 만에 새 사이트...AI 불법스트리밍 대응 시급",
+        "importance": 7,
+        "tags": [
+          "#ai-misuse",
+          "#copyright",
+          "#security",
+          "#korea",
+          "#content-piracy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000324"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-pwc-has-allegedly-pu.md",
         "title": "PwC has allegedly published AI-generated reports containing false or fabricated sources",
         "importance": 7,
@@ -14053,6 +14375,21 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-중국-미국-휴머노이드-수입-제한에-보.md",
+        "title": "중국, 미국 휴머노이드 수입 제한에 '보복' 경고...기술 갈등 격화",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#us-china",
+          "#trade-regulation",
+          "#robotics",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213341"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-ai가-스스로-숨은-약점-찾는다-ka.md",
         "title": "'AI가 스스로 숨은 약점 찾는다'…KAIST, 공격 유형 7배 늘린 검증 기술 개발",
         "importance": 6,
@@ -14065,6 +14402,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202607304904i"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-gpt-red-automated-re.md",
+        "title": "GPT-Red: Automated Red Teaming via Self-Play at Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#red-teaming",
+          "#prompt-injection",
+          "#safety",
+          "#openai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.26115"
       },
       {
         "date": "2026-07-30",
@@ -21448,6 +21800,70 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-문페이-챗gpt-클로드서-예약-쇼핑-.md",
+        "title": "문페이 '챗GPT·클로드서 예약·쇼핑·결제 지원'",
+        "importance": 9,
+        "tags": [
+          "#agentic-payments",
+          "#finance",
+          "#product-launch",
+          "#stablecoin",
+          "#security",
+          "#mcp"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730142929"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
+        "title": "[컨콜] 이준희 삼성SDS 대표 'AI 인프라 800MW까지 확대…풀스택 성장 가속'",
+        "importance": 9,
+        "tags": [
+          "#datacenter",
+          "#ai-infrastructure",
+          "#finance",
+          "#korea",
+          "#strategy",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730143111"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-한국-기업-ai-활용-미국-일본-앞섰.md",
+        "title": "한국 기업, AI 활용 미국·일본 앞섰지만…'결과물 믿기 어렵다'",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#korea",
+          "#survey",
+          "#governance",
+          "#roi-case",
+          "#trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730134519"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai가-주식-투자-코치해준다-라이너-.md",
+        "title": "'AI가 주식 투자 코치해준다'...라이너, 투자 리서치 AI 에이전트 출시",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#korea",
+          "#investment-research",
+          "#product-launch",
+          "#hallucination"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213345"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-mcp-핵심-구조-전면-개편-ai-에.md",
         "title": "MCP 핵심 구조 전면 개편...'AI 에이전트 대규모 프로덕션 시대 진입'",
         "importance": 8,
@@ -21556,6 +21972,22 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-리걸테크-레고라-서울-사무소-개설-한.md",
+        "title": "'리걸테크' 레고라, 서울 사무소 개설…한국 법률 AI 시장 공략",
+        "importance": 8,
+        "tags": [
+          "#legaltech",
+          "#ai-adoption",
+          "#korea",
+          "#market-entry",
+          "#enterprise-ai",
+          "#localization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730135150"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-메타-2분기-역대-최대-매출-에도-주.md",
         "title": "메타, 2분기 '역대 최대 매출'에도 주가 11% 급락…AI 투자 폭증에 현금흐름 '바닥'",
         "importance": 8,
@@ -21568,6 +22000,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213324"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-문샷ai-35억-달러-투자-유치-키미.md",
+        "title": "문샷AI, 35억 달러 투자 유치…'키미 K3' 흥행 효과",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#china",
+          "#moonshot",
+          "#valuation",
+          "#ipo"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730141639"
       },
       {
         "date": "2026-07-30",
@@ -21587,6 +22034,53 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-삼성sds-직접투자-지분투자-dbo-.md",
+        "title": "삼성SDS, '직접투자·지분투자·DBO'로 AIDC 사업 다각화",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#ai-infrastructure",
+          "#business-model",
+          "#korea",
+          "#capex"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669468"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-삼성전자-반도체로-벌고-모바일서-첫-.md",
+        "title": "삼성전자, 반도체로 벌고 모바일서 첫 적자…메모리 호황의 역설",
+        "importance": 8,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#samsung",
+          "#korea",
+          "#earnings",
+          "#supply-shortage",
+          "#hbm"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669471"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-알트먼-미-의회-백악관-연쇄-방문-통.md",
+        "title": "알트먼, 미 의회·백악관 연쇄 방문... '통제 벗어난 AI 에이전트' 규제 논의",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#openai",
+          "#agent-risk",
+          "#safety-incident",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213331"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-잠든-사이-업무-척척-구글-제미나이-.md",
         "title": "잠든 사이 업무 척척…구글, '제미나이 스파크' 국내 출시",
         "importance": 8,
@@ -21599,6 +22093,69 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730095359"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-챗gpt-로블록스-eu-최고-수준-규.md",
+        "title": "챗GPT·로블록스, EU 최고 수준 규제 받는다...이르면 8월 '특별 관리 대상' 지정",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#dsa",
+          "#openai",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213355"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-컨콜-삼성sds-하반기-공공-금융-a.md",
+        "title": "[컨콜] 삼성SDS '하반기 공공·금융 AX 확대…IT서비스 영업이익률 12% 회복 목표'",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#earnings",
+          "#korea",
+          "#public-sector",
+          "#gpuaas"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730144617"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-피지컬-에이전틱ai-띄운-포스코dx-.md",
+        "title": "피지컬·에이전틱AI 띄운 포스코DX, 하반기 반등할까",
+        "importance": 8,
+        "tags": [
+          "#physical-ai",
+          "#agentic-ai",
+          "#manufacturing",
+          "#korea",
+          "#monetization",
+          "#ai-adoption"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669464"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-학력-나이-안본다-sk하이닉스-ai-.md",
+        "title": "'학력·나이 안본다'...SK하이닉스, AI 맞춤형 대규모 채용 시작",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#hiring",
+          "#korea",
+          "#semiconductor",
+          "#talent",
+          "#hr-transformation"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607301507001601"
       },
       {
         "date": "2026-07-30",
@@ -21617,6 +22174,67 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-ai-리더스-스노우플레이크-미-중-데.md",
+        "title": "[AI 리더스] 스노우플레이크 '미·중 데이터 표준 경쟁…한국도 설계 나서야'",
+        "importance": 7,
+        "tags": [
+          "#data-standard",
+          "#open-source",
+          "#us-china",
+          "#semantic-layer",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730131752"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai-열-식히는-아주대-388억원-들.md",
+        "title": "AI 열 식히는 아주대…388억원 들여 데이터센터 전력 잡기",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#cooling",
+          "#public-funding",
+          "#korea",
+          "#carbon-neutral"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000401"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai가-drm-해제하고-수-분-만에-.md",
+        "title": "AI가 DRM 해제하고 수 분 만에 새 사이트...AI 불법스트리밍 대응 시급",
+        "importance": 7,
+        "tags": [
+          "#ai-misuse",
+          "#copyright",
+          "#security",
+          "#korea",
+          "#content-piracy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000324"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-apex-accounting.md",
+        "title": "APEX-Accounting",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#accounting",
+          "#finance",
+          "#enterprise-ai",
+          "#automation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.27189"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-mythos-uncovers-cryp.md",
         "title": "Mythos uncovers crypto weaknesses that went unknown for years",
         "importance": 7,
@@ -21628,6 +22246,21 @@
         ],
         "source": "Ars Technica Tech",
         "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-nc-ai-씨메스로보틱스와-피지컬-a.md",
+        "title": "NC AI, 씨메스로보틱스와 피지컬 AI 상용화 속도",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#physical-ai",
+          "#robotics",
+          "#korea",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730144744"
       },
       {
         "date": "2026-07-30",
@@ -21838,6 +22471,50 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260730000005"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-오픈ai-연구자-10만명에-첨단-ai.md",
+        "title": "오픈AI, 연구자 10만명에 '첨단 AI' 푼다…한국 17개 기관 포함",
+        "importance": 7,
+        "tags": [
+          "#openai",
+          "#academia",
+          "#ecosystem",
+          "#korea",
+          "#science-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730140155"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-중국-미국-휴머노이드-수입-제한에-보.md",
+        "title": "중국, 미국 휴머노이드 수입 제한에 '보복' 경고...기술 갈등 격화",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#us-china",
+          "#trade-regulation",
+          "#robotics",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213341"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-챗gpt-주간-활성-사용자-10억명-.md",
+        "title": "‘챗GPT’ 주간 활성 사용자 10억명 눈앞...7개월 늦었지만 성장세 유지",
+        "importance": 7,
+        "tags": [
+          "#openai",
+          "#user-growth",
+          "#adoption",
+          "#market-metrics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213327"
       },
       {
         "date": "2026-07-30",
@@ -37960,6 +38637,22 @@
     "physical_ai_robotics": [
       {
         "date": "2026-07-30",
+        "file": "20260730-피지컬-에이전틱ai-띄운-포스코dx-.md",
+        "title": "피지컬·에이전틱AI 띄운 포스코DX, 하반기 반등할까",
+        "importance": 8,
+        "tags": [
+          "#physical-ai",
+          "#agentic-ai",
+          "#manufacturing",
+          "#korea",
+          "#monetization",
+          "#ai-adoption"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669464"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-현대차그룹-엔비디아-출신-권정현-부사.md",
         "title": "현대차그룹, 엔비디아 출신 권정현 부사장 영입…자율주행 개발 총괄",
         "importance": 8,
@@ -37972,6 +38665,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730103613"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-nc-ai-씨메스로보틱스와-피지컬-a.md",
+        "title": "NC AI, 씨메스로보틱스와 피지컬 AI 상용화 속도",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#physical-ai",
+          "#robotics",
+          "#korea",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730144744"
       },
       {
         "date": "2026-07-30",
@@ -38003,6 +38711,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260729000446"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-중국-미국-휴머노이드-수입-제한에-보.md",
+        "title": "중국, 미국 휴머노이드 수입 제한에 '보복' 경고...기술 갈등 격화",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#us-china",
+          "#trade-regulation",
+          "#robotics",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213341"
       },
       {
         "date": "2026-07-30",
@@ -40592,6 +41315,22 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
+        "title": "[컨콜] 이준희 삼성SDS 대표 'AI 인프라 800MW까지 확대…풀스택 성장 가속'",
+        "importance": 9,
+        "tags": [
+          "#datacenter",
+          "#ai-infrastructure",
+          "#finance",
+          "#korea",
+          "#strategy",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730143111"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-ms-ai가-이끈-깜짝-실적-애저-첫.md",
         "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러",
         "importance": 8,
@@ -40650,6 +41389,69 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730111702"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-삼성sds-직접투자-지분투자-dbo-.md",
+        "title": "삼성SDS, '직접투자·지분투자·DBO'로 AIDC 사업 다각화",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#ai-infrastructure",
+          "#business-model",
+          "#korea",
+          "#capex"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669468"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-삼성전자-반도체로-벌고-모바일서-첫-.md",
+        "title": "삼성전자, 반도체로 벌고 모바일서 첫 적자…메모리 호황의 역설",
+        "importance": 8,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#samsung",
+          "#korea",
+          "#earnings",
+          "#supply-shortage",
+          "#hbm"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669471"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-컨콜-삼성sds-하반기-공공-금융-a.md",
+        "title": "[컨콜] 삼성SDS '하반기 공공·금융 AX 확대…IT서비스 영업이익률 12% 회복 목표'",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#earnings",
+          "#korea",
+          "#public-sector",
+          "#gpuaas"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730144617"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai-열-식히는-아주대-388억원-들.md",
+        "title": "AI 열 식히는 아주대…388억원 들여 데이터센터 전력 잡기",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#cooling",
+          "#public-funding",
+          "#korea",
+          "#carbon-neutral"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000401"
       },
       {
         "date": "2026-07-30",
@@ -44636,6 +45438,70 @@
     "금융회사 AI": [
       {
         "date": "2026-07-30",
+        "file": "20260730-문페이-챗gpt-클로드서-예약-쇼핑-.md",
+        "title": "문페이 '챗GPT·클로드서 예약·쇼핑·결제 지원'",
+        "importance": 9,
+        "tags": [
+          "#agentic-payments",
+          "#finance",
+          "#product-launch",
+          "#stablecoin",
+          "#security",
+          "#mcp"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730142929"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
+        "title": "[컨콜] 이준희 삼성SDS 대표 'AI 인프라 800MW까지 확대…풀스택 성장 가속'",
+        "importance": 9,
+        "tags": [
+          "#datacenter",
+          "#ai-infrastructure",
+          "#finance",
+          "#korea",
+          "#strategy",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730143111"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-한국-기업-ai-활용-미국-일본-앞섰.md",
+        "title": "한국 기업, AI 활용 미국·일본 앞섰지만…'결과물 믿기 어렵다'",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#korea",
+          "#survey",
+          "#governance",
+          "#roi-case",
+          "#trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730134519"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-ai가-주식-투자-코치해준다-라이너-.md",
+        "title": "'AI가 주식 투자 코치해준다'...라이너, 투자 리서치 AI 에이전트 출시",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#korea",
+          "#investment-research",
+          "#product-launch",
+          "#hallucination"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213345"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-mcp-핵심-구조-전면-개편-ai-에.md",
         "title": "MCP 핵심 구조 전면 개편...'AI 에이전트 대규모 프로덕션 시대 진입'",
         "importance": 8,
@@ -44699,6 +45565,22 @@
       },
       {
         "date": "2026-07-30",
+        "file": "20260730-리걸테크-레고라-서울-사무소-개설-한.md",
+        "title": "'리걸테크' 레고라, 서울 사무소 개설…한국 법률 AI 시장 공략",
+        "importance": 8,
+        "tags": [
+          "#legaltech",
+          "#ai-adoption",
+          "#korea",
+          "#market-entry",
+          "#enterprise-ai",
+          "#localization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730135150"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-삼성sds-ai-인프라부터-에이전트까.md",
         "title": "삼성SDS, AI 인프라부터 에이전트까지…'풀스택 AI' 성과 가시화",
         "importance": 8,
@@ -44712,6 +45594,38 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730111702"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-컨콜-삼성sds-하반기-공공-금융-a.md",
+        "title": "[컨콜] 삼성SDS '하반기 공공·금융 AX 확대…IT서비스 영업이익률 12% 회복 목표'",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#earnings",
+          "#korea",
+          "#public-sector",
+          "#gpuaas"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730144617"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-apex-accounting.md",
+        "title": "APEX-Accounting",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#accounting",
+          "#finance",
+          "#enterprise-ai",
+          "#automation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2607.27189"
       },
       {
         "date": "2026-07-30",
@@ -46636,6 +47550,22 @@
     "physical_ai": [
       {
         "date": "2026-07-30",
+        "file": "20260730-피지컬-에이전틱ai-띄운-포스코dx-.md",
+        "title": "피지컬·에이전틱AI 띄운 포스코DX, 하반기 반등할까",
+        "importance": 8,
+        "tags": [
+          "#physical-ai",
+          "#agentic-ai",
+          "#manufacturing",
+          "#korea",
+          "#monetization",
+          "#ai-adoption"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669464"
+      },
+      {
+        "date": "2026-07-30",
         "file": "20260730-현대차그룹-엔비디아-출신-권정현-부사.md",
         "title": "현대차그룹, 엔비디아 출신 권정현 부사장 영입…자율주행 개발 총괄",
         "importance": 8,
@@ -46648,6 +47578,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730103613"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-nc-ai-씨메스로보틱스와-피지컬-a.md",
+        "title": "NC AI, 씨메스로보틱스와 피지컬 AI 상용화 속도",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#physical-ai",
+          "#robotics",
+          "#korea",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730144744"
       },
       {
         "date": "2026-07-30",
@@ -46679,6 +47624,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260729000446"
+      },
+      {
+        "date": "2026-07-30",
+        "file": "20260730-중국-미국-휴머노이드-수입-제한에-보.md",
+        "title": "중국, 미국 휴머노이드 수입 제한에 '보복' 경고...기술 갈등 격화",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#us-china",
+          "#trade-regulation",
+          "#robotics",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213341"
       },
       {
         "date": "2026-07-30",
