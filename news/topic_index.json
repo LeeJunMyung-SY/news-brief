@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-30T07:51:52+00:00",
+  "generated_at": "2026-07-30T23:29:37+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 471,
-      "latest_date": "2026-07-30"
+      "count": 478,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 497,
-      "latest_date": "2026-07-30"
+      "count": 508,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 523,
-      "latest_date": "2026-07-30"
+      "count": 528,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1154,
-      "latest_date": "2026-07-30"
+      "count": 1172,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 181,
-      "latest_date": "2026-07-30"
+      "count": 186,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 283,
-      "latest_date": "2026-07-30"
+      "count": 289,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 142,
-      "latest_date": "2026-07-30"
+      "count": 150,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 95,
-      "latest_date": "2026-07-30"
+      "count": 100,
+      "latest_date": "2026-07-31"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,164 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-07-31",
+        "file": "20260731-lloyds-aims-for-a-fu.md",
+        "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#roi-case",
+          "#cost-saving",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+        "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
+        "importance": 9,
+        "tags": [
+          "#pricing",
+          "#price-war",
+          "#enterprise-ai",
+          "#monetization",
+          "#model-release"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000008"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-microsoft-ai-bets-on.md",
+        "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+        "importance": 8,
+        "tags": [
+          "#model-strategy",
+          "#cost-efficiency",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-okta-buys-ai-securit.md",
+        "title": "Okta buys AI security startup Permiso — source says for about $200M",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#agent-security",
+          "#enterprise-ai",
+          "#identity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
+        "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000009"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-탈옥-에이전트-허깅페이스-외.md",
+        "title": "오픈AI '탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#credential-leak",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213335"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-자판기-운영-맡겼더니-담합-배신-난무.md",
+        "title": "'자판기 운영 맡겼더니 담합·배신 난무'…'오퍼스 5'의 냉혹한 자본주의",
+        "importance": 8,
+        "tags": [
+          "#agent-safety",
+          "#benchmark",
+          "#governance",
+          "#safety-incident"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213346"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-저커버그-5년-안에-수십억명-개인-a.md",
+        "title": "저커버그 '5년 안에 수십억명 개인 AI 에이전트 갖게 될 것'",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#platform-strategy",
+          "#capex",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730164809"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-컨콜종합-이준희-삼성sds-대표-ai.md",
+        "title": "[컨콜종합] 이준희 삼성SDS 대표 'AI 풀스택으로 미래 성장 기회 선점'",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#partnership",
+          "#enterprise-ai",
+          "#korea",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730155717"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-코스콤-ai-기반-투자정보-서비스-추.md",
+        "title": "코스콤, AI 기반 韓투자정보 서비스 추진",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#securities",
+          "#korea",
+          "#data-service"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12112227"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-gemini-robotics-er-2.md",
+        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#robotics",
+          "#agent-framework",
+          "#multimodal"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
       {
         "date": "2026-07-30",
         "file": "20260730-문페이-챗gpt-클로드서-예약-쇼핑-.md",
@@ -7338,6 +7496,107 @@
     ],
     "llm_models": [
       {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+        "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
+        "importance": 9,
+        "tags": [
+          "#pricing",
+          "#price-war",
+          "#enterprise-ai",
+          "#monetization",
+          "#model-release"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000008"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-china-s-open-weight-.md",
+        "title": "China’s open-weight model lead exposes America’s AI blind spot",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#china",
+          "#us-china",
+          "#model-strategy",
+          "#open-source"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-microsoft-ai-bets-on.md",
+        "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+        "importance": 8,
+        "tags": [
+          "#model-strategy",
+          "#cost-efficiency",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
+        "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000009"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-자판기-운영-맡겼더니-담합-배신-난무.md",
+        "title": "'자판기 운영 맡겼더니 담합·배신 난무'…'오퍼스 5'의 냉혹한 자본주의",
+        "importance": 8,
+        "tags": [
+          "#agent-safety",
+          "#benchmark",
+          "#governance",
+          "#safety-incident"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213346"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-컨콜종합-이준희-삼성sds-대표-ai.md",
+        "title": "[컨콜종합] 이준희 삼성SDS 대표 'AI 풀스택으로 미래 성장 기회 선점'",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#partnership",
+          "#enterprise-ai",
+          "#korea",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730155717"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-gemini-robotics-er-2.md",
+        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#robotics",
+          "#agent-framework",
+          "#multimodal"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
         "date": "2026-07-30",
         "file": "20260730-문샷ai-35억-달러-투자-유치-키미.md",
         "title": "문샷AI, 35억 달러 투자 유치…'키미 K3' 흥행 효과",
@@ -14177,6 +14436,79 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-07-31",
+        "file": "20260731-china-s-open-weight-.md",
+        "title": "China’s open-weight model lead exposes America’s AI blind spot",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#china",
+          "#us-china",
+          "#model-strategy",
+          "#open-source"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-eu-100억유로-투입-ai-기가팩토.md",
+        "title": "EU, 100억유로 투입 'AI 기가팩토리' 7곳 건설",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#eu",
+          "#government-program",
+          "#gpu",
+          "#sovereign-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000012"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-탈옥-에이전트-허깅페이스-외.md",
+        "title": "오픈AI '탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#credential-leak",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213335"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-자판기-운영-맡겼더니-담합-배신-난무.md",
+        "title": "'자판기 운영 맡겼더니 담합·배신 난무'…'오퍼스 5'의 냉혹한 자본주의",
+        "importance": 8,
+        "tags": [
+          "#agent-safety",
+          "#benchmark",
+          "#governance",
+          "#safety-incident"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213346"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-한국은행-프로젝트-아고라-테스트-완료.md",
+        "title": "한국은행, 프로젝트 아고라 테스트 완료…토큰화 지급준비금 발행부터 상환까지",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#cbdc",
+          "#tokenization",
+          "#finance",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730163359"
+      },
       {
         "date": "2026-07-30",
         "file": "20260730-openai-admits-its-au.md",
@@ -21783,6 +22115,266 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-07-31",
+        "file": "20260731-lloyds-aims-for-a-fu.md",
+        "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#roi-case",
+          "#cost-saving",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+        "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
+        "importance": 9,
+        "tags": [
+          "#pricing",
+          "#price-war",
+          "#enterprise-ai",
+          "#monetization",
+          "#model-release"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000008"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-china-s-open-weight-.md",
+        "title": "China’s open-weight model lead exposes America’s AI blind spot",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#china",
+          "#us-china",
+          "#model-strategy",
+          "#open-source"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-eu-100억유로-투입-ai-기가팩토.md",
+        "title": "EU, 100억유로 투입 'AI 기가팩토리' 7곳 건설",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#eu",
+          "#government-program",
+          "#gpu",
+          "#sovereign-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000012"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-lg전자-컨콜-달군-로봇-aidc-냉.md",
+        "title": "LG전자 컨콜 달군 로봇·AIDC 냉각…신사업 상용화 속도",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#datacenter",
+          "#korea",
+          "#earnings",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669587"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-microsoft-ai-bets-on.md",
+        "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
+        "importance": 8,
+        "tags": [
+          "#model-strategy",
+          "#cost-efficiency",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsoft-ai-bets-on-cheap-specialist-models-instead-of-chasing-the-frontier/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ms-메타-ai-투자-수익화-성과에-.md",
+        "title": "MS·메타, AI 투자 수익화 성과에 상반된 평가",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#monetization",
+          "#capex",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669594"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-okta-buys-ai-securit.md",
+        "title": "Okta buys AI security startup Permiso — source says for about $200M",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#agent-security",
+          "#enterprise-ai",
+          "#identity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
+        "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000009"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아마존-분기-매출-2000억달러-첫-.md",
+        "title": "아마존, 분기 매출 2000억달러 첫 돌파…AWS 매출 성장률 36.7%",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#cloud",
+          "#capex",
+          "#aws"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000010"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-탈옥-에이전트-허깅페이스-외.md",
+        "title": "오픈AI '탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#credential-leak",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213335"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-자판기-운영-맡겼더니-담합-배신-난무.md",
+        "title": "'자판기 운영 맡겼더니 담합·배신 난무'…'오퍼스 5'의 냉혹한 자본주의",
+        "importance": 8,
+        "tags": [
+          "#agent-safety",
+          "#benchmark",
+          "#governance",
+          "#safety-incident"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213346"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-저커버그-5년-안에-수십억명-개인-a.md",
+        "title": "저커버그 '5년 안에 수십억명 개인 AI 에이전트 갖게 될 것'",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#platform-strategy",
+          "#capex",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730164809"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-컨콜종합-이준희-삼성sds-대표-ai.md",
+        "title": "[컨콜종합] 이준희 삼성SDS 대표 'AI 풀스택으로 미래 성장 기회 선점'",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#partnership",
+          "#enterprise-ai",
+          "#korea",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730155717"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-코스콤-ai-기반-투자정보-서비스-추.md",
+        "title": "코스콤, AI 기반 韓투자정보 서비스 추진",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#securities",
+          "#korea",
+          "#data-service"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12112227"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ai-자율주행-인재-서로-영입한-삼성.md",
+        "title": "AI·자율주행 인재 서로 영입한 삼성·현대차그룹",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#talent",
+          "#korea",
+          "#autonomous"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026073063761"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-gemini-robotics-er-2.md",
+        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#robotics",
+          "#agent-framework",
+          "#multimodal"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-반년-새-몸값-15배-급등-로봇-ai.md",
+        "title": "반년 새 몸값 15배 급등…로봇·AI 스타트업 후끈",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#robotics",
+          "#startup",
+          "#korea",
+          "#valuation"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026073064621"
+      },
       {
         "date": "2026-07-30",
         "file": "20260730-ms-클라우드-실적-대박-애저-매출-.md",
@@ -38636,6 +39228,78 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-07-31",
+        "file": "20260731-lg전자-컨콜-달군-로봇-aidc-냉.md",
+        "title": "LG전자 컨콜 달군 로봇·AIDC 냉각…신사업 상용화 속도",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#datacenter",
+          "#korea",
+          "#earnings",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669587"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
+        "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000009"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ai-자율주행-인재-서로-영입한-삼성.md",
+        "title": "AI·자율주행 인재 서로 영입한 삼성·현대차그룹",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#talent",
+          "#korea",
+          "#autonomous"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026073063761"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-gemini-robotics-er-2.md",
+        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#robotics",
+          "#agent-framework",
+          "#multimodal"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-반년-새-몸값-15배-급등-로봇-ai.md",
+        "title": "반년 새 몸값 15배 급등…로봇·AI 스타트업 후끈",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#robotics",
+          "#startup",
+          "#korea",
+          "#valuation"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026073064621"
+      },
+      {
         "date": "2026-07-30",
         "file": "20260730-피지컬-에이전틱ai-띄운-포스코dx-.md",
         "title": "피지컬·에이전틱AI 띄운 포스코DX, 하반기 반등할까",
@@ -41298,6 +41962,93 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-07-31",
+        "file": "20260731-eu-100억유로-투입-ai-기가팩토.md",
+        "title": "EU, 100억유로 투입 'AI 기가팩토리' 7곳 건설",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#eu",
+          "#government-program",
+          "#gpu",
+          "#sovereign-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000012"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-lg전자-컨콜-달군-로봇-aidc-냉.md",
+        "title": "LG전자 컨콜 달군 로봇·AIDC 냉각…신사업 상용화 속도",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#datacenter",
+          "#korea",
+          "#earnings",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669587"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ms-메타-ai-투자-수익화-성과에-.md",
+        "title": "MS·메타, AI 투자 수익화 성과에 상반된 평가",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#monetization",
+          "#capex",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669594"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아마존-분기-매출-2000억달러-첫-.md",
+        "title": "아마존, 분기 매출 2000억달러 첫 돌파…AWS 매출 성장률 36.7%",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#cloud",
+          "#capex",
+          "#aws"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000010"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-저커버그-5년-안에-수십억명-개인-a.md",
+        "title": "저커버그 '5년 안에 수십억명 개인 AI 에이전트 갖게 될 것'",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#platform-strategy",
+          "#capex",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730164809"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-컨콜종합-이준희-삼성sds-대표-ai.md",
+        "title": "[컨콜종합] 이준희 삼성SDS 대표 'AI 풀스택으로 미래 성장 기회 선점'",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#partnership",
+          "#enterprise-ai",
+          "#korea",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730155717"
+      },
       {
         "date": "2026-07-30",
         "file": "20260730-ms-클라우드-실적-대박-애저-매출-.md",
@@ -45437,6 +46188,122 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-07-31",
+        "file": "20260731-lloyds-aims-for-a-fu.md",
+        "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#roi-case",
+          "#cost-saving",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+        "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
+        "importance": 9,
+        "tags": [
+          "#pricing",
+          "#price-war",
+          "#enterprise-ai",
+          "#monetization",
+          "#model-release"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000008"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ms-메타-ai-투자-수익화-성과에-.md",
+        "title": "MS·메타, AI 투자 수익화 성과에 상반된 평가",
+        "importance": 8,
+        "tags": [
+          "#earnings",
+          "#monetization",
+          "#capex",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669594"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-okta-buys-ai-securit.md",
+        "title": "Okta buys AI security startup Permiso — source says for about $200M",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#agent-security",
+          "#enterprise-ai",
+          "#identity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-탈옥-에이전트-허깅페이스-외.md",
+        "title": "오픈AI '탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#credential-leak",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213335"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-자판기-운영-맡겼더니-담합-배신-난무.md",
+        "title": "'자판기 운영 맡겼더니 담합·배신 난무'…'오퍼스 5'의 냉혹한 자본주의",
+        "importance": 8,
+        "tags": [
+          "#agent-safety",
+          "#benchmark",
+          "#governance",
+          "#safety-incident"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213346"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-코스콤-ai-기반-투자정보-서비스-추.md",
+        "title": "코스콤, AI 기반 韓투자정보 서비스 추진",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#finance",
+          "#securities",
+          "#korea",
+          "#data-service"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12112227"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-한국은행-프로젝트-아고라-테스트-완료.md",
+        "title": "한국은행, 프로젝트 아고라 테스트 완료…토큰화 지급준비금 발행부터 상환까지",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#cbdc",
+          "#tokenization",
+          "#finance",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730163359"
+      },
+      {
         "date": "2026-07-30",
         "file": "20260730-문페이-챗gpt-클로드서-예약-쇼핑-.md",
         "title": "문페이 '챗GPT·클로드서 예약·쇼핑·결제 지원'",
@@ -47548,6 +48415,78 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-07-31",
+        "file": "20260731-lg전자-컨콜-달군-로봇-aidc-냉.md",
+        "title": "LG전자 컨콜 달군 로봇·AIDC 냉각…신사업 상용화 속도",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#datacenter",
+          "#korea",
+          "#earnings",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669587"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
+        "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000009"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ai-자율주행-인재-서로-영입한-삼성.md",
+        "title": "AI·자율주행 인재 서로 영입한 삼성·현대차그룹",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#talent",
+          "#korea",
+          "#autonomous"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026073063761"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-gemini-robotics-er-2.md",
+        "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#robotics",
+          "#agent-framework",
+          "#multimodal"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-반년-새-몸값-15배-급등-로봇-ai.md",
+        "title": "반년 새 몸값 15배 급등…로봇·AI 스타트업 후끈",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#robotics",
+          "#startup",
+          "#korea",
+          "#valuation"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026073064621"
+      },
       {
         "date": "2026-07-30",
         "file": "20260730-피지컬-에이전틱ai-띄운-포스코dx-.md",
