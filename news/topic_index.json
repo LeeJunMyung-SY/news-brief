@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-31T03:19:13+00:00",
+  "generated_at": "2026-07-31T07:19:42+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 480,
+      "count": 481,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 512,
+      "count": 514,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 534,
+      "count": 539,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1189,
+      "count": 1203,
       "latest_date": "2026-07-31"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 190,
+      "count": 195,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 294,
+      "count": 299,
       "latest_date": "2026-07-31"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 155,
+      "count": 157,
       "latest_date": "2026-07-31"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 105,
+      "count": 110,
       "latest_date": "2026-07-31"
     },
     {
@@ -90,6 +90,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48169/lloyds-aims-for-a-further-2-billion-in-cost-savings-with-ai-to-the-fore?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-오픈ai-gpt-5-6-라인업-가격-.md",
+        "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
+        "importance": 9,
+        "tags": [
+          "#model-release",
+          "#pricing",
+          "#enterprise-ai",
+          "#monetization",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213381"
       },
       {
         "date": "2026-07-31",
@@ -263,6 +278,21 @@
         ],
         "source": "Google DeepMind",
         "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-nc-ai-494억-규모-정부-에이전.md",
+        "title": "NC AI, 494억 규모 정부 '에이전틱 AI' 사업 주관사 선정",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#government-rnd",
+          "#enterprise-ai",
+          "#automation",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213394"
       },
       {
         "date": "2026-07-31",
@@ -7557,6 +7587,21 @@
     "llm_models": [
       {
         "date": "2026-07-31",
+        "file": "20260731-오픈ai-gpt-5-6-라인업-가격-.md",
+        "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
+        "importance": 9,
+        "tags": [
+          "#model-release",
+          "#pricing",
+          "#enterprise-ai",
+          "#monetization",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213381"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
         "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
         "importance": 9,
@@ -14588,6 +14633,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-eu-ai-기가팩토리-7곳-확정-총-.md",
+        "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#eu",
+          "#sovereign-ai",
+          "#investment",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213382"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-국내-최대-기록-경신-lg-7500억.md",
         "title": "'국내 최대 기록 경신'...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
         "importance": 8,
@@ -14600,6 +14660,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213379"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아마존-죽스-미국-최초로-운전대-없는.md",
+        "title": "아마존 죽스, 미국 최초로 '운전대 없는' 유료 로보택시 유료 운행 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization",
+          "#robotaxi",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213395"
       },
       {
         "date": "2026-07-31",
@@ -14661,6 +14736,35 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-단독-바이두-국내-합작사-설립-추진-.md",
+        "title": "[단독] 中 바이두, 국내 합작사 설립 추진…걸음마 단계 韓 로보택시 '선점' 노린다",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#china",
+          "#joint-venture",
+          "#market-entry"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607317753i"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-해고보다-무서운-임금-동결-ai가-가.md",
+        "title": "'해고보다 무서운 임금 동결'... AI가 가져온 진짜 위협은 '소득 감소'",
+        "importance": 7,
+        "tags": [
+          "#future-of-work",
+          "#labor-market",
+          "#research-paper",
+          "#org-change"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213406"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-ts-카카오모빌리티-모빌리티-데이터-.md",
         "title": "TS·카카오모빌리티, 모빌리티 데이터 공유…자율주행·교통안전 협력 확대",
         "importance": 6,
@@ -14688,6 +14792,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000183"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-한국형-국부펀드-뜬다-매년-6천억-신.md",
+        "title": "한국형 국부펀드 뜬다...매년 6천억 신산업 투자",
+        "importance": 6,
+        "tags": [
+          "#sovereign-fund",
+          "#investment",
+          "#government-policy",
+          "#finance",
+          "#korea"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12113361"
       },
       {
         "date": "2026-07-30",
@@ -22312,6 +22431,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-오픈ai-gpt-5-6-라인업-가격-.md",
+        "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
+        "importance": 9,
+        "tags": [
+          "#model-release",
+          "#pricing",
+          "#enterprise-ai",
+          "#monetization",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213381"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
         "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
         "importance": 9,
@@ -22339,6 +22473,21 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202607310831260589"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ai-투자도-실적-증명-시대-ms가-.md",
+        "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#roi-case",
+          "#earnings",
+          "#capex",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213396"
       },
       {
         "date": "2026-07-31",
@@ -22384,6 +22533,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000012"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-eu-ai-기가팩토리-7곳-확정-총-.md",
+        "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#eu",
+          "#sovereign-ai",
+          "#investment",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213382"
       },
       {
         "date": "2026-07-31",
@@ -22459,6 +22623,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-구글-앤트로픽에-초대형-금융-보증-2.md",
+        "title": "구글, 앤트로픽에 초대형 금융 보증...'21조 데이터센터 세운다'",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#project-finance",
+          "#investment",
+          "#partnership",
+          "#banking"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213404"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-국내-최대-기록-경신-lg-7500억.md",
         "title": "'국내 최대 기록 경신'...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
         "importance": 8,
@@ -22499,6 +22678,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000010"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아마존-죽스-미국-최초로-운전대-없는.md",
+        "title": "아마존 죽스, 미국 최초로 '운전대 없는' 유료 로보택시 유료 운행 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization",
+          "#robotaxi",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213395"
       },
       {
         "date": "2026-07-31",
@@ -22632,6 +22826,36 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-lg-cns-상반기-매출-2-8조-달.md",
+        "title": "LG CNS, 상반기 매출 2.8조 달성...'AI·클라우드가 59% 차지'",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#roi-case",
+          "#enterprise-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213393"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-nc-ai-494억-규모-정부-에이전.md",
+        "title": "NC AI, 494억 규모 정부 '에이전틱 AI' 사업 주관사 선정",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#government-rnd",
+          "#enterprise-ai",
+          "#automation",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213394"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-같은-호황-다른-승부수-전력-빅3-3.md",
         "title": "'같은 호황, 다른 승부수'…전력 빅3, 30조 일감 속 3색 셈법",
         "importance": 7,
@@ -22644,6 +22868,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669623"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-단독-바이두-국내-합작사-설립-추진-.md",
+        "title": "[단독] 中 바이두, 국내 합작사 설립 추진…걸음마 단계 韓 로보택시 '선점' 노린다",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#china",
+          "#joint-venture",
+          "#market-entry"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607317753i"
       },
       {
         "date": "2026-07-31",
@@ -22674,6 +22913,21 @@
         ],
         "source": "한국경제 금융",
         "url": "https://www.hankyung.com/article/202607317343i"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아마존-aws-37-급성장-ai-투자.md",
+        "title": "아마존, AWS 37% 급성장…'AI 투자 회의론' 잠재우고 주가 9% 급등",
+        "importance": 7,
+        "tags": [
+          "#cloud",
+          "#earnings",
+          "#monetization",
+          "#capex",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213391"
       },
       {
         "date": "2026-07-31",
@@ -22722,6 +22976,35 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-해고보다-무서운-임금-동결-ai가-가.md",
+        "title": "'해고보다 무서운 임금 동결'... AI가 가져온 진짜 위협은 '소득 감소'",
+        "importance": 7,
+        "tags": [
+          "#future-of-work",
+          "#labor-market",
+          "#research-paper",
+          "#org-change"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213406"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-휴머노이드-1위-유니트리-ipo-초읽.md",
+        "title": "'휴머노이드 1위' 유니트리, IPO 초읽기…내달 10일 청약",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#humanoid",
+          "#robotics",
+          "#china",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000261"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-catl-전기차-넘어-ai-전력망-배.md",
         "title": "CATL, 전기차 넘어 AI·전력망 배터리 승부수",
         "importance": 6,
@@ -22767,6 +23050,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-딥엑스-kt-세솔과-국산-npu-기반.md",
+        "title": "딥엑스, KT·세솔과 국산 NPU 기반 '온디바이스 AIoT 사업' 협력",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#edge-ai",
+          "#npu",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213399"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-서울시-민선-9기-ai-예측행정-본격.md",
         "title": "서울시, 민선 9기 AI 예측행정 본격화…“위험·수요 미리 예측”",
         "importance": 6,
@@ -22779,6 +23077,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000183"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-선임-200일-박민우-현대차-avp본.md",
+        "title": "'선임 200일' 박민우 현대차 AVP본부장, 자율주행은 이제부터",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#org-change",
+          "#automotive",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669642"
       },
       {
         "date": "2026-07-31",
@@ -22809,6 +23121,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260730000284"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-한국형-국부펀드-뜬다-매년-6천억-신.md",
+        "title": "한국형 국부펀드 뜬다...매년 6천억 신산업 투자",
+        "importance": 6,
+        "tags": [
+          "#sovereign-fund",
+          "#investment",
+          "#government-policy",
+          "#finance",
+          "#korea"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12113361"
       },
       {
         "date": "2026-07-30",
@@ -39693,6 +40020,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-아마존-죽스-미국-최초로-운전대-없는.md",
+        "title": "아마존 죽스, 미국 최초로 '운전대 없는' 유료 로보택시 유료 운행 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization",
+          "#robotaxi",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213395"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-운전대-페달없는-아마존-죽스-로봇택시.md",
         "title": "운전대·페달없는 아마존 '죽스', 美 로봇택시 상업운행 첫 승인",
         "importance": 8,
@@ -39736,6 +40078,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-단독-바이두-국내-합작사-설립-추진-.md",
+        "title": "[단독] 中 바이두, 국내 합작사 설립 추진…걸음마 단계 韓 로보택시 '선점' 노린다",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#china",
+          "#joint-venture",
+          "#market-entry"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607317753i"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-반년-새-몸값-15배-급등-로봇-ai.md",
         "title": "반년 새 몸값 15배 급등…로봇·AI 스타트업 후끈",
         "importance": 7,
@@ -39766,6 +40123,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-휴머노이드-1위-유니트리-ipo-초읽.md",
+        "title": "'휴머노이드 1위' 유니트리, IPO 초읽기…내달 10일 청약",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#humanoid",
+          "#robotics",
+          "#china",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000261"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-ts-카카오모빌리티-모빌리티-데이터-.md",
         "title": "TS·카카오모빌리티, 모빌리티 데이터 공유…자율주행·교통안전 협력 확대",
         "importance": 6,
@@ -39778,6 +40150,35 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000152"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-딥엑스-kt-세솔과-국산-npu-기반.md",
+        "title": "딥엑스, KT·세솔과 국산 NPU 기반 '온디바이스 AIoT 사업' 협력",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#edge-ai",
+          "#npu",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213399"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-선임-200일-박민우-현대차-avp본.md",
+        "title": "'선임 200일' 박민우 현대차 AVP본부장, 자율주행은 이제부터",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#org-change",
+          "#automotive",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669642"
       },
       {
         "date": "2026-07-31",
@@ -42474,6 +42875,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-ai-투자도-실적-증명-시대-ms가-.md",
+        "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#roi-case",
+          "#earnings",
+          "#capex",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213396"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-eu-100억유로-투입-ai-기가팩토.md",
         "title": "EU, 100억유로 투입 'AI 기가팩토리' 7곳 건설",
         "importance": 8,
@@ -42486,6 +42902,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000012"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-eu-ai-기가팩토리-7곳-확정-총-.md",
+        "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#eu",
+          "#sovereign-ai",
+          "#investment",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213382"
       },
       {
         "date": "2026-07-31",
@@ -42515,6 +42946,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669594"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-구글-앤트로픽에-초대형-금융-보증-2.md",
+        "title": "구글, 앤트로픽에 초대형 금융 보증...'21조 데이터센터 세운다'",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#project-finance",
+          "#investment",
+          "#partnership",
+          "#banking"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213404"
       },
       {
         "date": "2026-07-31",
@@ -42576,6 +43022,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-lg-cns-상반기-매출-2-8조-달.md",
+        "title": "LG CNS, 상반기 매출 2.8조 달성...'AI·클라우드가 59% 차지'",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#roi-case",
+          "#enterprise-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213393"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-같은-호황-다른-승부수-전력-빅3-3.md",
         "title": "'같은 호황, 다른 승부수'…전력 빅3, 30조 일감 속 3색 셈법",
         "importance": 7,
@@ -42588,6 +43049,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669623"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아마존-aws-37-급성장-ai-투자.md",
+        "title": "아마존, AWS 37% 급성장…'AI 투자 회의론' 잠재우고 주가 9% 급등",
+        "importance": 7,
+        "tags": [
+          "#cloud",
+          "#earnings",
+          "#monetization",
+          "#capex",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213391"
       },
       {
         "date": "2026-07-31",
@@ -46832,6 +47308,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-구글-앤트로픽에-초대형-금융-보증-2.md",
+        "title": "구글, 앤트로픽에 초대형 금융 보증...'21조 데이터센터 세운다'",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#project-finance",
+          "#investment",
+          "#partnership",
+          "#banking"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213404"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-오픈ai-탈옥-에이전트-허깅페이스-외.md",
         "title": "오픈AI '탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인'",
         "importance": 8,
@@ -46947,6 +47438,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669617"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-한국형-국부펀드-뜬다-매년-6천억-신.md",
+        "title": "한국형 국부펀드 뜬다...매년 6천억 신산업 투자",
+        "importance": 6,
+        "tags": [
+          "#sovereign-fund",
+          "#investment",
+          "#government-policy",
+          "#finance",
+          "#korea"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12113361"
       },
       {
         "date": "2026-07-30",
@@ -49091,6 +49597,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-아마존-죽스-미국-최초로-운전대-없는.md",
+        "title": "아마존 죽스, 미국 최초로 '운전대 없는' 유료 로보택시 유료 운행 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization",
+          "#robotaxi",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213395"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-운전대-페달없는-아마존-죽스-로봇택시.md",
         "title": "운전대·페달없는 아마존 '죽스', 美 로봇택시 상업운행 첫 승인",
         "importance": 8,
@@ -49134,6 +49655,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-단독-바이두-국내-합작사-설립-추진-.md",
+        "title": "[단독] 中 바이두, 국내 합작사 설립 추진…걸음마 단계 韓 로보택시 '선점' 노린다",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#china",
+          "#joint-venture",
+          "#market-entry"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202607317753i"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-반년-새-몸값-15배-급등-로봇-ai.md",
         "title": "반년 새 몸값 15배 급등…로봇·AI 스타트업 후끈",
         "importance": 7,
@@ -49164,6 +49700,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-휴머노이드-1위-유니트리-ipo-초읽.md",
+        "title": "'휴머노이드 1위' 유니트리, IPO 초읽기…내달 10일 청약",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#humanoid",
+          "#robotics",
+          "#china",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000261"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-kt-딥엑스-세솔-npu-활용-차세대.md",
         "title": "KT-딥엑스-세솔, NPU 활용 차세대 AI 엣지 박스 개발 맞손",
         "importance": 6,
@@ -49191,6 +49742,35 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260731000152"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-딥엑스-kt-세솔과-국산-npu-기반.md",
+        "title": "딥엑스, KT·세솔과 국산 NPU 기반 '온디바이스 AIoT 사업' 협력",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#edge-ai",
+          "#npu",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213399"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-선임-200일-박민우-현대차-avp본.md",
+        "title": "'선임 200일' 박민우 현대차 AVP본부장, 자율주행은 이제부터",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#org-change",
+          "#automotive",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669642"
       },
       {
         "date": "2026-07-31",
