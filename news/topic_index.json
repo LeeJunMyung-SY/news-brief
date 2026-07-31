@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-07-30T23:29:37+00:00",
+  "generated_at": "2026-07-31T03:19:13+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 478,
+      "count": 480,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 508,
+      "count": 512,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 528,
+      "count": 534,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1172,
+      "count": 1189,
       "latest_date": "2026-07-31"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 186,
+      "count": 190,
       "latest_date": "2026-07-31"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 289,
+      "count": 294,
       "latest_date": "2026-07-31"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 150,
+      "count": 155,
       "latest_date": "2026-07-31"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 100,
+      "count": 105,
       "latest_date": "2026-07-31"
     },
     {
@@ -108,6 +108,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-anthropic-says-its-o.md",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#regulation",
+          "#enterprise-ai",
+          "#red-teaming"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-microsoft-ai-bets-on.md",
         "title": "Microsoft AI bets on cheap specialist models instead of chasing the frontier",
         "importance": 8,
@@ -133,6 +148,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-tim-cook-sees-apple-.md",
+        "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#on-device-ai",
+          "#hybrid-cloud",
+          "#apple",
+          "#subscription"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html"
       },
       {
         "date": "2026-07-31",
@@ -233,6 +263,36 @@
         ],
         "source": "Google DeepMind",
         "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-포스코인터-글로벌-사업-확대-dx-실.md",
+        "title": "포스코인터, 글로벌 사업 확대 'DX 실증' 전진기지 구축",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#digital-transformation",
+          "#trade-finance",
+          "#blockchain",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669617"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-테크-차이나-ai-게임-동반자-시장-.md",
+        "title": "[테크 차이나] AI 게임 동반자 시장 본격 개화…게임 경험 혁신 넘어 차세대 플랫폼 경쟁으로",
+        "importance": 6,
+        "tags": [
+          "#gaming",
+          "#agent-product",
+          "#china",
+          "#new-business-model",
+          "#platform-competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000284"
       },
       {
         "date": "2026-07-30",
@@ -7541,6 +7601,36 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-tim-cook-sees-apple-.md",
+        "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#on-device-ai",
+          "#hybrid-cloud",
+          "#apple",
+          "#subscription"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-국내-최대-기록-경신-lg-7500억.md",
+        "title": "'국내 최대 기록 경신'...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#sovereign-ai",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213379"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
         "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
         "importance": 8,
@@ -14438,6 +14528,36 @@
     "ai_policy": [
       {
         "date": "2026-07-31",
+        "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
+        "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자",
+        "importance": 8,
+        "tags": [
+          "#sovereign-fund",
+          "#ai-investment",
+          "#government-policy",
+          "#semiconductor",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607310831260589"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-anthropic-says-its-o.md",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#regulation",
+          "#enterprise-ai",
+          "#red-teaming"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-china-s-open-weight-.md",
         "title": "China’s open-weight model lead exposes America’s AI blind spot",
         "importance": 8,
@@ -14468,6 +14588,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-국내-최대-기록-경신-lg-7500억.md",
+        "title": "'국내 최대 기록 경신'...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#sovereign-ai",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213379"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-오픈ai-탈옥-에이전트-허깅페이스-외.md",
         "title": "오픈AI '탈옥 에이전트, 허깅페이스 외 4개 외부 서비스 계정 추가 침투 확인'",
         "importance": 8,
@@ -14479,6 +14614,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213335"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-운전대-페달없는-아마존-죽스-로봇택시.md",
+        "title": "운전대·페달없는 아마존 '죽스', 美 로봇택시 상업운행 첫 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#robotaxi",
+          "#commercialization",
+          "#amazon"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000150"
       },
       {
         "date": "2026-07-31",
@@ -14508,6 +14658,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730163359"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ts-카카오모빌리티-모빌리티-데이터-.md",
+        "title": "TS·카카오모빌리티, 모빌리티 데이터 공유…자율주행·교통안전 협력 확대",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#autonomous-driving",
+          "#data-sharing",
+          "#public-private",
+          "#mobility"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000152"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-서울시-민선-9기-ai-예측행정-본격.md",
+        "title": "서울시, 민선 9기 AI 예측행정 본격화…“위험·수요 미리 예측”",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#predictive-analytics",
+          "#smart-city",
+          "#data-strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000183"
       },
       {
         "date": "2026-07-30",
@@ -22147,6 +22327,36 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
+        "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자",
+        "importance": 8,
+        "tags": [
+          "#sovereign-fund",
+          "#ai-investment",
+          "#government-policy",
+          "#semiconductor",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607310831260589"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-anthropic-says-its-o.md",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#regulation",
+          "#enterprise-ai",
+          "#red-teaming"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-china-s-open-weight-.md",
         "title": "China’s open-weight model lead exposes America’s AI blind spot",
         "importance": 8,
@@ -22234,6 +22444,36 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-tim-cook-sees-apple-.md",
+        "title": "Tim Cook sees Apple's hybrid AI strategy as a 'competitive weapon'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#on-device-ai",
+          "#hybrid-cloud",
+          "#apple",
+          "#subscription"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/30/tim-cook-sees-apples-hybrid-ai-strategy-as-a-competitive-weapon-.html"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-국내-최대-기록-경신-lg-7500억.md",
+        "title": "'국내 최대 기록 경신'...LG, 7500억 매개변수 'K-엑사원 2.0' 공개",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#sovereign-ai",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213379"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-로봇-전신제어-구현-구글-제미나이-로.md",
         "title": "로봇 전신제어 구현…구글, '제미나이 로보틱스2' 공개",
         "importance": 8,
@@ -22273,6 +22513,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213335"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-운전대-페달없는-아마존-죽스-로봇택시.md",
+        "title": "운전대·페달없는 아마존 '죽스', 美 로봇택시 상업운행 첫 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#robotaxi",
+          "#commercialization",
+          "#amazon"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000150"
       },
       {
         "date": "2026-07-31",
@@ -22334,6 +22589,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-ai-대장주라고-다-같지-않다-ab-.md",
+        "title": "“AI 대장주라고 다 같지 않다”…AB “내년 빅테크 잉여현금흐름 마이너스 전환”",
+        "importance": 7,
+        "tags": [
+          "#ai-capex",
+          "#hyperscaler",
+          "#free-cash-flow",
+          "#investment-outlook",
+          "#asset-management"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12113097"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-ai-자율주행-인재-서로-영입한-삼성.md",
         "title": "AI·자율주행 인재 서로 영입한 삼성·현대차그룹",
         "importance": 7,
@@ -22362,6 +22632,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-같은-호황-다른-승부수-전력-빅3-3.md",
+        "title": "'같은 호황, 다른 승부수'…전력 빅3, 30조 일감 속 3색 셈법",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#supply-chain",
+          "#super-cycle",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669623"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-반년-새-몸값-15배-급등-로봇-ai.md",
         "title": "반년 새 몸값 15배 급등…로봇·AI 스타트업 후끈",
         "importance": 7,
@@ -22374,6 +22659,156 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026073064621"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-수익률-439-헤지펀드도-ai-급락-.md",
+        "title": "'수익률 439%' 헤지펀드도 AI 급락 못 버텨…시타델에 자산 매각",
+        "importance": 7,
+        "tags": [
+          "#hedge-fund",
+          "#ai-bubble",
+          "#risk-management",
+          "#asset-sale",
+          "#finance"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607317343i"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아파트-시세-대출부터-경제지표까지-네.md",
+        "title": "아파트 시세·대출부터 경제지표까지…네이버, 금융 검색 고도화",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#search",
+          "#naver",
+          "#customer-channel"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731063000017"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-테크스냅-skt-피지컬-ai-스타트업.md",
+        "title": "[테크스냅] SKT, 피지컬 AI 스타트업과 로보틱스 생태계 간담회",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#ecosystem",
+          "#partnership",
+          "#skt"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731045700017"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-포스코인터-글로벌-사업-확대-dx-실.md",
+        "title": "포스코인터, 글로벌 사업 확대 'DX 실증' 전진기지 구축",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#digital-transformation",
+          "#trade-finance",
+          "#blockchain",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669617"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-catl-전기차-넘어-ai-전력망-배.md",
+        "title": "CATL, 전기차 넘어 AI·전력망 배터리 승부수",
+        "importance": 6,
+        "tags": [
+          "#battery",
+          "#datacenter",
+          "#energy-storage",
+          "#china",
+          "#new-business"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607317031i"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-kt-딥엑스-세솔-npu-활용-차세대.md",
+        "title": "KT-딥엑스-세솔, NPU 활용 차세대 AI 엣지 박스 개발 맞손",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#on-device-ai",
+          "#npu",
+          "#edge-computing",
+          "#aiot"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000178"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ts-카카오모빌리티-모빌리티-데이터-.md",
+        "title": "TS·카카오모빌리티, 모빌리티 데이터 공유…자율주행·교통안전 협력 확대",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#autonomous-driving",
+          "#data-sharing",
+          "#public-private",
+          "#mobility"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000152"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-서울시-민선-9기-ai-예측행정-본격.md",
+        "title": "서울시, 민선 9기 AI 예측행정 본격화…“위험·수요 미리 예측”",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#predictive-analytics",
+          "#smart-city",
+          "#data-strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000183"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아우토크립트-일렉트로비트-협력-sdv.md",
+        "title": "아우토크립트, 일렉트로비트 협력…SDV 통합 솔루션 새 먹거리",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#sdv",
+          "#automotive",
+          "#cybersecurity",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669610"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-테크-차이나-ai-게임-동반자-시장-.md",
+        "title": "[테크 차이나] AI 게임 동반자 시장 본격 개화…게임 경험 혁신 넘어 차세대 플랫폼 경쟁으로",
+        "importance": 6,
+        "tags": [
+          "#gaming",
+          "#agent-product",
+          "#china",
+          "#new-business-model",
+          "#platform-competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260730000284"
       },
       {
         "date": "2026-07-30",
@@ -39258,6 +39693,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-운전대-페달없는-아마존-죽스-로봇택시.md",
+        "title": "운전대·페달없는 아마존 '죽스', 美 로봇택시 상업운행 첫 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#robotaxi",
+          "#commercialization",
+          "#amazon"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000150"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-ai-자율주행-인재-서로-영입한-삼성.md",
         "title": "AI·자율주행 인재 서로 영입한 삼성·현대차그룹",
         "importance": 7,
@@ -39298,6 +39748,51 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026073064621"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-테크스냅-skt-피지컬-ai-스타트업.md",
+        "title": "[테크스냅] SKT, 피지컬 AI 스타트업과 로보틱스 생태계 간담회",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#ecosystem",
+          "#partnership",
+          "#skt"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731045700017"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ts-카카오모빌리티-모빌리티-데이터-.md",
+        "title": "TS·카카오모빌리티, 모빌리티 데이터 공유…자율주행·교통안전 협력 확대",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#autonomous-driving",
+          "#data-sharing",
+          "#public-private",
+          "#mobility"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000152"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아우토크립트-일렉트로비트-협력-sdv.md",
+        "title": "아우토크립트, 일렉트로비트 협력…SDV 통합 솔루션 새 먹거리",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#sdv",
+          "#automotive",
+          "#cybersecurity",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669610"
       },
       {
         "date": "2026-07-30",
@@ -41964,6 +42459,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-07-31",
+        "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
+        "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자",
+        "importance": 8,
+        "tags": [
+          "#sovereign-fund",
+          "#ai-investment",
+          "#government-policy",
+          "#semiconductor",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607310831260589"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-eu-100억유로-투입-ai-기가팩토.md",
         "title": "EU, 100억유로 투입 'AI 기가팩토리' 7곳 건설",
         "importance": 8,
@@ -42048,6 +42558,66 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730155717"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ai-대장주라고-다-같지-않다-ab-.md",
+        "title": "“AI 대장주라고 다 같지 않다”…AB “내년 빅테크 잉여현금흐름 마이너스 전환”",
+        "importance": 7,
+        "tags": [
+          "#ai-capex",
+          "#hyperscaler",
+          "#free-cash-flow",
+          "#investment-outlook",
+          "#asset-management"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12113097"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-같은-호황-다른-승부수-전력-빅3-3.md",
+        "title": "'같은 호황, 다른 승부수'…전력 빅3, 30조 일감 속 3색 셈법",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#supply-chain",
+          "#super-cycle",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669623"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-catl-전기차-넘어-ai-전력망-배.md",
+        "title": "CATL, 전기차 넘어 AI·전력망 배터리 승부수",
+        "importance": 6,
+        "tags": [
+          "#battery",
+          "#datacenter",
+          "#energy-storage",
+          "#china",
+          "#new-business"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607317031i"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-kt-딥엑스-세솔-npu-활용-차세대.md",
+        "title": "KT-딥엑스-세솔, NPU 활용 차세대 AI 엣지 박스 개발 맞손",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#on-device-ai",
+          "#npu",
+          "#edge-computing",
+          "#aiot"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000178"
       },
       {
         "date": "2026-07-30",
@@ -46219,6 +46789,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
+        "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자",
+        "importance": 8,
+        "tags": [
+          "#sovereign-fund",
+          "#ai-investment",
+          "#government-policy",
+          "#semiconductor",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202607310831260589"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-ms-메타-ai-투자-수익화-성과에-.md",
         "title": "MS·메타, AI 투자 수익화 성과에 상반된 평가",
         "importance": 8,
@@ -46302,6 +46887,66 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260730163359"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ai-대장주라고-다-같지-않다-ab-.md",
+        "title": "“AI 대장주라고 다 같지 않다”…AB “내년 빅테크 잉여현금흐름 마이너스 전환”",
+        "importance": 7,
+        "tags": [
+          "#ai-capex",
+          "#hyperscaler",
+          "#free-cash-flow",
+          "#investment-outlook",
+          "#asset-management"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12113097"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-수익률-439-헤지펀드도-ai-급락-.md",
+        "title": "'수익률 439%' 헤지펀드도 AI 급락 못 버텨…시타델에 자산 매각",
+        "importance": 7,
+        "tags": [
+          "#hedge-fund",
+          "#ai-bubble",
+          "#risk-management",
+          "#asset-sale",
+          "#finance"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202607317343i"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아파트-시세-대출부터-경제지표까지-네.md",
+        "title": "아파트 시세·대출부터 경제지표까지…네이버, 금융 검색 고도화",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#ai-adoption",
+          "#search",
+          "#naver",
+          "#customer-channel"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731063000017"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-포스코인터-글로벌-사업-확대-dx-실.md",
+        "title": "포스코인터, 글로벌 사업 확대 'DX 실증' 전진기지 구축",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#digital-transformation",
+          "#trade-finance",
+          "#blockchain",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669617"
       },
       {
         "date": "2026-07-30",
@@ -48446,6 +49091,21 @@
       },
       {
         "date": "2026-07-31",
+        "file": "20260731-운전대-페달없는-아마존-죽스-로봇택시.md",
+        "title": "운전대·페달없는 아마존 '죽스', 美 로봇택시 상업운행 첫 승인",
+        "importance": 8,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#robotaxi",
+          "#commercialization",
+          "#amazon"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000150"
+      },
+      {
+        "date": "2026-07-31",
         "file": "20260731-ai-자율주행-인재-서로-영입한-삼성.md",
         "title": "AI·자율주행 인재 서로 영입한 삼성·현대차그룹",
         "importance": 7,
@@ -48486,6 +49146,66 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026073064621"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-테크스냅-skt-피지컬-ai-스타트업.md",
+        "title": "[테크스냅] SKT, 피지컬 AI 스타트업과 로보틱스 생태계 간담회",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#ecosystem",
+          "#partnership",
+          "#skt"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731045700017"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-kt-딥엑스-세솔-npu-활용-차세대.md",
+        "title": "KT-딥엑스-세솔, NPU 활용 차세대 AI 엣지 박스 개발 맞손",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#on-device-ai",
+          "#npu",
+          "#edge-computing",
+          "#aiot"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000178"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-ts-카카오모빌리티-모빌리티-데이터-.md",
+        "title": "TS·카카오모빌리티, 모빌리티 데이터 공유…자율주행·교통안전 협력 확대",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#autonomous-driving",
+          "#data-sharing",
+          "#public-private",
+          "#mobility"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260731000152"
+      },
+      {
+        "date": "2026-07-31",
+        "file": "20260731-아우토크립트-일렉트로비트-협력-sdv.md",
+        "title": "아우토크립트, 일렉트로비트 협력…SDV 통합 솔루션 새 먹거리",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#sdv",
+          "#automotive",
+          "#cybersecurity",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669610"
       },
       {
         "date": "2026-07-30",
