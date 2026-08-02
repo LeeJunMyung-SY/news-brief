@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-07-31T07:19:42+00:00",
+  "generated_at": "2026-08-02T23:31:15+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 481,
-      "latest_date": "2026-07-31"
+      "count": 487,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 514,
-      "latest_date": "2026-07-31"
+      "count": 522,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 539,
-      "latest_date": "2026-07-31"
+      "count": 545,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1203,
-      "latest_date": "2026-07-31"
+      "count": 1223,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 195,
-      "latest_date": "2026-07-31"
+      "count": 200,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 299,
-      "latest_date": "2026-07-31"
+      "count": 304,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 157,
-      "latest_date": "2026-07-31"
+      "count": 163,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 110,
-      "latest_date": "2026-07-31"
+      "count": 117,
+      "latest_date": "2026-08-03"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,123 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+        "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
+        "importance": 9,
+        "tags": [
+          "#monetization",
+          "#pricing",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213439"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-is-cj메조-애들리-는-어떻게.md",
+        "title": "[AI IS] CJ메조 '애들리'는 어떻게 광고 성과 23% 높였나",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#marketing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669755"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-연동-규격-mcp-전면-개편-대.md",
+        "title": "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#architecture",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260801122235"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai프리즘-ai가-바꾼-개발자-채용-.md",
+        "title": "[AI프리즘] AI가 바꾼 개발자 채용…주니어부터 줄었다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#hiring",
+          "#coding",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731106900017"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-openai-presence-want.md",
+        "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+        "importance": 8,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
+        "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#cost-management",
+          "#finops",
+          "#enterprise-ai",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-앤트로픽-클로드-격리-테스트-중-인터.md",
+        "title": "앤트로픽 '클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213428"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-안전성-신원-관리이자-운영-거버.md",
+        "title": "'AI 안전성, 신원 관리이자 운영 거버넌스 문제'",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-security",
+          "#identity-management",
+          "#risk-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802144530"
+      },
       {
         "date": "2026-07-31",
         "file": "20260731-lloyds-aims-for-a-fu.md",
@@ -7586,6 +7703,93 @@
     ],
     "llm_models": [
       {
+        "date": "2026-08-03",
+        "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
+        "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#cloud",
+          "#openai",
+          "#amazon"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213448"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+        "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
+        "importance": 9,
+        "tags": [
+          "#monetization",
+          "#pricing",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213439"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-연동-규격-mcp-전면-개편-대.md",
+        "title": "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#architecture",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260801122235"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-openai-presence-want.md",
+        "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+        "importance": 8,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-구글-휴머노이드-전신-제어-ai-제미.md",
+        "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213392"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-오픈ai-차세대-모델-아스트라-수학-.md",
+        "title": "오픈AI 차세대 모델 '아스트라', 수학·컴퓨터 과학 10대 난제 해결",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#reasoning",
+          "#research-paper",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213443"
+      },
+      {
         "date": "2026-07-31",
         "file": "20260731-오픈ai-gpt-5-6-라인업-가격-.md",
         "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
@@ -14571,6 +14775,94 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-eu-8월부터-ai-챗봇-딥페이크-표.md",
+        "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…'AI 라벨링' 규제 본격화",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#labeling"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213450"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-앤트로픽-클로드-격리-테스트-중-인터.md",
+        "title": "앤트로픽 '클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213428"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-고속도로-엔비디아-amd-손잡은.md",
+        "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+        "importance": 7,
+        "tags": [
+          "#infrastructure",
+          "#gpu",
+          "#npu",
+          "#korea",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802083652"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-안전성-신원-관리이자-운영-거버.md",
+        "title": "'AI 안전성, 신원 관리이자 운영 거버넌스 문제'",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-security",
+          "#identity-management",
+          "#risk-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802144530"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단독-로보택시-빈틈-바이두-국내-합작.md",
+        "title": "[단독] 韓 로보택시 '빈틈'…中바이두, 국내 합작법인 추진",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#partnership",
+          "#china",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026073185521"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
+        "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#wearable",
+          "#subsidy",
+          "#china",
+          "#silver-economy"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
       {
         "date": "2026-07-31",
         "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
@@ -22414,6 +22706,298 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
+        "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#cloud",
+          "#openai",
+          "#amazon"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213448"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+        "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
+        "importance": 9,
+        "tags": [
+          "#monetization",
+          "#pricing",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213439"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-is-cj메조-애들리-는-어떻게.md",
+        "title": "[AI IS] CJ메조 '애들리'는 어떻게 광고 성과 23% 높였나",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#marketing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669755"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-연동-규격-mcp-전면-개편-대.md",
+        "title": "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#architecture",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260801122235"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai프리즘-ai가-바꾼-개발자-채용-.md",
+        "title": "[AI프리즘] AI가 바꾼 개발자 채용…주니어부터 줄었다",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#hiring",
+          "#coding",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260731106900017"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-eu-8월부터-ai-챗봇-딥페이크-표.md",
+        "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…'AI 라벨링' 규제 본격화",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#labeling"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213450"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-openai-presence-want.md",
+        "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
+        "importance": 8,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#monetization"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-presence-wants-to-make-ai-agents-production-ready-for-businesses/"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-구글-휴머노이드-전신-제어-ai-제미.md",
+        "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213392"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
+        "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#cost-management",
+          "#finops",
+          "#enterprise-ai",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-앤트로픽-클로드-격리-테스트-중-인터.md",
+        "title": "앤트로픽 '클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213428"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-오픈ai-차세대-모델-아스트라-수학-.md",
+        "title": "오픈AI 차세대 모델 '아스트라', 수학·컴퓨터 과학 10대 난제 해결",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#reasoning",
+          "#research-paper",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213443"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-고속도로-엔비디아-amd-손잡은.md",
+        "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+        "importance": 7,
+        "tags": [
+          "#infrastructure",
+          "#gpu",
+          "#npu",
+          "#korea",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802083652"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-안전성-신원-관리이자-운영-거버.md",
+        "title": "'AI 안전성, 신원 관리이자 운영 거버넌스 문제'",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-security",
+          "#identity-management",
+          "#risk-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802144530"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-dwindling-cash-and-s.md",
+        "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#memory",
+          "#market-risk",
+          "#datacenter",
+          "#earnings"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-skt-피지컬-ai-스타트업-8곳과-.md",
+        "title": "SKT, 피지컬 AI 스타트업 8곳과 로보틱스 협업",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#robotics",
+          "#korea",
+          "#ecosystem"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026073186181"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단독-로보택시-빈틈-바이두-국내-합작.md",
+        "title": "[단독] 韓 로보택시 '빈틈'…中바이두, 국내 합작법인 추진",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#partnership",
+          "#china",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026073185521"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
+        "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#wearable",
+          "#subsidy",
+          "#china",
+          "#silver-economy"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-컨퍼런스콜-리뷰-lg-cns-이유있는.md",
+        "title": "[컨퍼런스콜 리뷰] LG CNS, 이유있는 수익성 악화…AI 투자 확대",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#earnings",
+          "#korea",
+          "#physical-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669444"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-2분기-영업익-늘린-에스원-ai-로봇.md",
+        "title": "2분기 영업익 늘린 에스원…AI·로봇 확장 채비",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#robotics",
+          "#new-business",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669472"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-카카오-강남-자율주행택시-석달만에-결.md",
+        "title": "카카오 강남 자율주행택시, 석달만에 결제 1천건 돌파",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080201231"
+      },
       {
         "date": "2026-07-31",
         "file": "20260731-lloyds-aims-for-a-fu.md",
@@ -39990,6 +40574,77 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-08-03",
+        "file": "20260803-구글-휴머노이드-전신-제어-ai-제미.md",
+        "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213392"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-skt-피지컬-ai-스타트업-8곳과-.md",
+        "title": "SKT, 피지컬 AI 스타트업 8곳과 로보틱스 협업",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#robotics",
+          "#korea",
+          "#ecosystem"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026073186181"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
+        "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#wearable",
+          "#subsidy",
+          "#china",
+          "#silver-economy"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-2분기-영업익-늘린-에스원-ai-로봇.md",
+        "title": "2분기 영업익 늘린 에스원…AI·로봇 확장 채비",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#robotics",
+          "#new-business",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669472"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-카카오-강남-자율주행택시-석달만에-결.md",
+        "title": "카카오 강남 자율주행택시, 석달만에 결제 1천건 돌파",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080201231"
+      },
+      {
         "date": "2026-07-31",
         "file": "20260731-lg전자-컨콜-달군-로봇-aidc-냉.md",
         "title": "LG전자 컨콜 달군 로봇·AIDC 냉각…신사업 상용화 속도",
@@ -42858,6 +43513,81 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
+        "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#cloud",
+          "#openai",
+          "#amazon"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213448"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+        "title": "“저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표",
+        "importance": 9,
+        "tags": [
+          "#monetization",
+          "#pricing",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213439"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
+        "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#cost-management",
+          "#finops",
+          "#enterprise-ai",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-고속도로-엔비디아-amd-손잡은.md",
+        "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+        "importance": 7,
+        "tags": [
+          "#infrastructure",
+          "#gpu",
+          "#npu",
+          "#korea",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802083652"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-dwindling-cash-and-s.md",
+        "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#memory",
+          "#market-risk",
+          "#datacenter",
+          "#earnings"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html"
+      },
       {
         "date": "2026-07-31",
         "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
@@ -47234,6 +47964,95 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-08-03",
+        "file": "20260803-ai-연동-규격-mcp-전면-개편-대.md",
+        "title": "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#enterprise-ai",
+          "#architecture",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260801122235"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-eu-8월부터-ai-챗봇-딥페이크-표.md",
+        "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…'AI 라벨링' 규제 본격화",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#labeling"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213450"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
+        "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#cost-management",
+          "#finops",
+          "#enterprise-ai",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-안전성-신원-관리이자-운영-거버.md",
+        "title": "'AI 안전성, 신원 관리이자 운영 거버넌스 문제'",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-security",
+          "#identity-management",
+          "#risk-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260802144530"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-dwindling-cash-and-s.md",
+        "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#memory",
+          "#market-risk",
+          "#datacenter",
+          "#earnings"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-컨퍼런스콜-리뷰-lg-cns-이유있는.md",
+        "title": "[컨퍼런스콜 리뷰] LG CNS, 이유있는 수익성 악화…AI 투자 확대",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#earnings",
+          "#korea",
+          "#physical-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669444"
+      },
+      {
         "date": "2026-07-31",
         "file": "20260731-lloyds-aims-for-a-fu.md",
         "title": "Lloyds aims for a further £2 billion in cost savings with AI to the fore",
@@ -49566,6 +50385,107 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-구글-휴머노이드-전신-제어-ai-제미.md",
+        "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
+        "importance": 8,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#model-release",
+          "#google"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213392"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-skt-피지컬-ai-스타트업-8곳과-.md",
+        "title": "SKT, 피지컬 AI 스타트업 8곳과 로보틱스 협업",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#robotics",
+          "#korea",
+          "#ecosystem"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026073186181"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-단독-로보택시-빈틈-바이두-국내-합작.md",
+        "title": "[단독] 韓 로보택시 '빈틈'…中바이두, 국내 합작법인 추진",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#partnership",
+          "#china",
+          "#korea"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026073185521"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
+        "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#wearable",
+          "#subsidy",
+          "#china",
+          "#silver-economy"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-컨퍼런스콜-리뷰-lg-cns-이유있는.md",
+        "title": "[컨퍼런스콜 리뷰] LG CNS, 이유있는 수익성 악화…AI 투자 확대",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#earnings",
+          "#korea",
+          "#physical-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669444"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-2분기-영업익-늘린-에스원-ai-로봇.md",
+        "title": "2분기 영업익 늘린 에스원…AI·로봇 확장 채비",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#robotics",
+          "#new-business",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669472"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-카카오-강남-자율주행택시-석달만에-결.md",
+        "title": "카카오 강남 자율주행택시, 석달만에 결제 1천건 돌파",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080201231"
+      },
       {
         "date": "2026-07-31",
         "file": "20260731-lg전자-컨콜-달군-로봇-aidc-냉.md",
