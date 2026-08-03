@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-02T23:31:15+00:00",
+  "generated_at": "2026-08-03T03:24:02+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 487,
+      "count": 489,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 522,
+      "count": 527,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 545,
+      "count": 550,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1223,
+      "count": 1237,
       "latest_date": "2026-08-03"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 200,
+      "count": 203,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 304,
+      "count": 306,
       "latest_date": "2026-08-03"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 163,
+      "count": 168,
       "latest_date": "2026-08-03"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 117,
+      "count": 122,
       "latest_date": "2026-08-03"
     },
     {
@@ -76,6 +76,36 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-신한은행-감정평가서-ai-점검-에이전.md",
+        "title": "신한은행, 감정평가서 AI 점검 에이전트 도입…업무 시간 70% 단축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#roi-case",
+          "#finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000194"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-신한투자-ai에이전트-독립부서-신설-.md",
+        "title": "신한투자, 'AI에이전트 독립부서' 신설…'국내 금융사중 처음'",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#agent-framework",
+          "#securities",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803047500008"
+      },
       {
         "date": "2026-08-03",
         "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
@@ -138,6 +168,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-eu-챗봇-딥페이크에-ai-생성-표시.md",
+        "title": "EU, 챗봇·딥페이크에 ‘AI 생성’ 표시 의무…위반시 매출 3% 과징금",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#deepfake"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803084304"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-openai-presence-want.md",
         "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
         "importance": 8,
@@ -181,6 +226,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-케이뱅크-사내-개발에-자율형-ai-도.md",
+        "title": "케이뱅크, 사내 개발에 자율형 AI 도입…통합 플랫폼으로 확대",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#coding",
+          "#agent-framework",
+          "#developer-productivity"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803034200002"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-ai-안전성-신원-관리이자-운영-거버.md",
         "title": "'AI 안전성, 신원 관리이자 운영 거버넌스 문제'",
         "importance": 7,
@@ -192,6 +252,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260802144530"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-코난테크-서연이화-제조-ai-에이전트.md",
+        "title": "코난테크, 서연이화 '제조 AI 에이전트' 파트너 낙점",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#manufacturing",
+          "#enterprise-ai",
+          "#multi-agent"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803100504"
       },
       {
         "date": "2026-07-31",
@@ -7704,6 +7779,21 @@
     "llm_models": [
       {
         "date": "2026-08-03",
+        "file": "20260803-신한은행-감정평가서-ai-점검-에이전.md",
+        "title": "신한은행, 감정평가서 AI 점검 에이전트 도입…업무 시간 70% 단축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#roi-case",
+          "#finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000194"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
         "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
         "importance": 9,
@@ -7788,6 +7878,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213443"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-케이뱅크-사내-개발에-자율형-ai-도.md",
+        "title": "케이뱅크, 사내 개발에 자율형 AI 도입…통합 플랫폼으로 확대",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#coding",
+          "#agent-framework",
+          "#developer-productivity"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803034200002"
       },
       {
         "date": "2026-07-31",
@@ -14792,6 +14897,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-eu-챗봇-딥페이크에-ai-생성-표시.md",
+        "title": "EU, 챗봇·딥페이크에 ‘AI 생성’ 표시 의무…위반시 매출 3% 과징금",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#deepfake"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803084304"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-앤트로픽-클로드-격리-테스트-중-인터.md",
         "title": "앤트로픽 '클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹'",
         "importance": 8,
@@ -14862,6 +14982,63 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai-교육부터-창업까지-잇는다-정부-.md",
+        "title": "AI 교육부터 창업까지 잇는다…정부, '모두의 AI 성장사다리' 출범",
+        "importance": 6,
+        "tags": [
+          "#ai-policy",
+          "#public-sector",
+          "#talent",
+          "#regional-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803080911"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai가-읽는-3차원-지도-만든다-도시.md",
+        "title": "AI가 읽는 3차원 지도 만든다…도시·물류·재난안전 활용 확대",
+        "importance": 6,
+        "tags": [
+          "#ai-policy",
+          "#spatial-data",
+          "#public-sector",
+          "#logistics",
+          "#digital-twin"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803042100003"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-메가특구-주52시간-제외-비정규직-4.md",
+        "title": "메가특구 '주52시간 제외·비정규직 4년허용' 가능성에 勞 '노동개악, 대결의 길 가게 될 것'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#labor",
+          "#ai-policy",
+          "#special-zone"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608031036227688"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-셀렉트스타-ai-신뢰성-평가-분야-최.md",
+        "title": "셀렉트스타, AI 신뢰성 평가 분야 최초 코스닥 상장 도전",
+        "importance": 6,
+        "tags": [
+          "#ai-trust",
+          "#ipo",
+          "#ai-governance",
+          "#evaluation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803094657"
       },
       {
         "date": "2026-07-31",
@@ -22708,6 +22885,51 @@
     "ai_industry": [
       {
         "date": "2026-08-03",
+        "file": "20260803-네이버-ai-팩토리-엔비디아-브룩필드.md",
+        "title": "네이버 AI 팩토리, 엔비디아·브룩필드 맞손…GPU 확보·재무부담 분산",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#partnership",
+          "#gpu",
+          "#infrastructure-finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669823"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-신한은행-감정평가서-ai-점검-에이전.md",
+        "title": "신한은행, 감정평가서 AI 점검 에이전트 도입…업무 시간 70% 단축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#roi-case",
+          "#finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000194"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-신한투자-ai에이전트-독립부서-신설-.md",
+        "title": "신한투자, 'AI에이전트 독립부서' 신설…'국내 금융사중 처음'",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#agent-framework",
+          "#securities",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803047500008"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
         "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
         "importance": 9,
@@ -22798,6 +23020,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-eu-챗봇-딥페이크에-ai-생성-표시.md",
+        "title": "EU, 챗봇·딥페이크에 ‘AI 생성’ 표시 의무…위반시 매출 3% 과징금",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#deepfake"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803084304"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-openai-presence-want.md",
         "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
         "importance": 8,
@@ -22866,6 +23103,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213443"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-케이뱅크-사내-개발에-자율형-ai-도.md",
+        "title": "케이뱅크, 사내 개발에 자율형 AI 도입…통합 플랫폼으로 확대",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#coding",
+          "#agent-framework",
+          "#developer-productivity"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803034200002"
       },
       {
         "date": "2026-08-03",
@@ -22942,6 +23194,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-로보티즈-휴머노이드-ai-사피엔스-코.md",
+        "title": "로보티즈, 휴머노이드 'AI 사피엔스' 코드 전체 공개",
+        "importance": 7,
+        "tags": [
+          "#open-source",
+          "#humanoid",
+          "#robotics",
+          "#ecosystem",
+          "#sim2real"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803091554"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
         "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
         "importance": 7,
@@ -22972,6 +23239,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-코난테크-서연이화-제조-ai-에이전트.md",
+        "title": "코난테크, 서연이화 '제조 AI 에이전트' 파트너 낙점",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#manufacturing",
+          "#enterprise-ai",
+          "#multi-agent"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803100504"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-2분기-영업익-늘린-에스원-ai-로봇.md",
         "title": "2분기 영업익 늘린 에스원…AI·로봇 확장 채비",
         "importance": 6,
@@ -22986,6 +23268,92 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-ai-교육부터-창업까지-잇는다-정부-.md",
+        "title": "AI 교육부터 창업까지 잇는다…정부, '모두의 AI 성장사다리' 출범",
+        "importance": 6,
+        "tags": [
+          "#ai-policy",
+          "#public-sector",
+          "#talent",
+          "#regional-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803080911"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai가-읽는-3차원-지도-만든다-도시.md",
+        "title": "AI가 읽는 3차원 지도 만든다…도시·물류·재난안전 활용 확대",
+        "importance": 6,
+        "tags": [
+          "#ai-policy",
+          "#spatial-data",
+          "#public-sector",
+          "#logistics",
+          "#digital-twin"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803042100003"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-sk-ax-제조-ax-공략-속도-현지.md",
+        "title": "SK AX, 美 제조 AX 공략 속도…현지 OT 솔루션 확보 잰걸음",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#partnership",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730180144"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-메가특구-주52시간-제외-비정규직-4.md",
+        "title": "메가특구 '주52시간 제외·비정규직 4년허용' 가능성에 勞 '노동개악, 대결의 길 가게 될 것'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#labor",
+          "#ai-policy",
+          "#special-zone"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608031036227688"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-삼전-현대차-25-씩-담았다-피지컬-.md",
+        "title": "삼전·현대차 25%씩 담았다…피지컬 AI 투자 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#physical-ai",
+          "#investment",
+          "#asset-management",
+          "#robotics"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607318444i"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-셀렉트스타-ai-신뢰성-평가-분야-최.md",
+        "title": "셀렉트스타, AI 신뢰성 평가 분야 최초 코스닥 상장 도전",
+        "importance": 6,
+        "tags": [
+          "#ai-trust",
+          "#ipo",
+          "#ai-governance",
+          "#evaluation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803094657"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-카카오-강남-자율주행택시-석달만에-결.md",
         "title": "카카오 강남 자율주행택시, 석달만에 결제 1천건 돌파",
         "importance": 6,
@@ -22997,6 +23365,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026080201231"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-파산신청-9년만에-제2의-키옥시아-재.md",
+        "title": "파산신청 9년만에 ‘제2의 키옥시아’ 재평가…AI 덕보는 美원전기업",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#nuclear",
+          "#ipo",
+          "#investment"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12114812"
       },
       {
         "date": "2026-07-31",
@@ -40603,6 +40986,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-로보티즈-휴머노이드-ai-사피엔스-코.md",
+        "title": "로보티즈, 휴머노이드 'AI 사피엔스' 코드 전체 공개",
+        "importance": 7,
+        "tags": [
+          "#open-source",
+          "#humanoid",
+          "#robotics",
+          "#ecosystem",
+          "#sim2real"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803091554"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
         "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
         "importance": 7,
@@ -40629,6 +41027,36 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669472"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai가-읽는-3차원-지도-만든다-도시.md",
+        "title": "AI가 읽는 3차원 지도 만든다…도시·물류·재난안전 활용 확대",
+        "importance": 6,
+        "tags": [
+          "#ai-policy",
+          "#spatial-data",
+          "#public-sector",
+          "#logistics",
+          "#digital-twin"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803042100003"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-삼전-현대차-25-씩-담았다-피지컬-.md",
+        "title": "삼전·현대차 25%씩 담았다…피지컬 AI 투자 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#physical-ai",
+          "#investment",
+          "#asset-management",
+          "#robotics"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607318444i"
       },
       {
         "date": "2026-08-03",
@@ -43515,6 +43943,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-08-03",
+        "file": "20260803-네이버-ai-팩토리-엔비디아-브룩필드.md",
+        "title": "네이버 AI 팩토리, 엔비디아·브룩필드 맞손…GPU 확보·재무부담 분산",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#partnership",
+          "#gpu",
+          "#infrastructure-finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669823"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
         "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
         "importance": 9,
@@ -43587,6 +44030,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-파산신청-9년만에-제2의-키옥시아-재.md",
+        "title": "파산신청 9년만에 ‘제2의 키옥시아’ 재평가…AI 덕보는 美원전기업",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#nuclear",
+          "#ipo",
+          "#investment"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12114812"
       },
       {
         "date": "2026-07-31",
@@ -47965,6 +48423,36 @@
     "금융회사 AI": [
       {
         "date": "2026-08-03",
+        "file": "20260803-신한은행-감정평가서-ai-점검-에이전.md",
+        "title": "신한은행, 감정평가서 AI 점검 에이전트 도입…업무 시간 70% 단축",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#roi-case",
+          "#finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000194"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-신한투자-ai에이전트-독립부서-신설-.md",
+        "title": "신한투자, 'AI에이전트 독립부서' 신설…'국내 금융사중 처음'",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#agent-framework",
+          "#securities",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803047500008"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-ai-연동-규격-mcp-전면-개편-대.md",
         "title": "AI 연동 규격 'MCP' 전면 개편…대기업 도입 쉬워진다",
         "importance": 8,
@@ -47995,6 +48483,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-eu-챗봇-딥페이크에-ai-생성-표시.md",
+        "title": "EU, 챗봇·딥페이크에 ‘AI 생성’ 표시 의무…위반시 매출 3% 과징금",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#eu-ai-act",
+          "#compliance",
+          "#transparency",
+          "#deepfake"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803084304"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
         "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
         "importance": 8,
@@ -48007,6 +48510,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-케이뱅크-사내-개발에-자율형-ai-도.md",
+        "title": "케이뱅크, 사내 개발에 자율형 AI 도입…통합 플랫폼으로 확대",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#coding",
+          "#agent-framework",
+          "#developer-productivity"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803034200002"
       },
       {
         "date": "2026-08-03",
@@ -48051,6 +48569,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669444"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-삼전-현대차-25-씩-담았다-피지컬-.md",
+        "title": "삼전·현대차 25%씩 담았다…피지컬 AI 투자 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#physical-ai",
+          "#investment",
+          "#asset-management",
+          "#robotics"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607318444i"
       },
       {
         "date": "2026-07-31",
@@ -50430,6 +50963,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-로보티즈-휴머노이드-ai-사피엔스-코.md",
+        "title": "로보티즈, 휴머노이드 'AI 사피엔스' 코드 전체 공개",
+        "importance": 7,
+        "tags": [
+          "#open-source",
+          "#humanoid",
+          "#robotics",
+          "#ecosystem",
+          "#sim2real"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803091554"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
         "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
         "importance": 7,
@@ -50460,6 +51008,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-코난테크-서연이화-제조-ai-에이전트.md",
+        "title": "코난테크, 서연이화 '제조 AI 에이전트' 파트너 낙점",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#manufacturing",
+          "#enterprise-ai",
+          "#multi-agent"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803100504"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-2분기-영업익-늘린-에스원-ai-로봇.md",
         "title": "2분기 영업익 늘린 에스원…AI·로봇 확장 채비",
         "importance": 6,
@@ -50471,6 +51034,50 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669472"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai가-읽는-3차원-지도-만든다-도시.md",
+        "title": "AI가 읽는 3차원 지도 만든다…도시·물류·재난안전 활용 확대",
+        "importance": 6,
+        "tags": [
+          "#ai-policy",
+          "#spatial-data",
+          "#public-sector",
+          "#logistics",
+          "#digital-twin"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803042100003"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-sk-ax-제조-ax-공략-속도-현지.md",
+        "title": "SK AX, 美 제조 AX 공략 속도…현지 OT 솔루션 확보 잰걸음",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#partnership",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260730180144"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-삼전-현대차-25-씩-담았다-피지컬-.md",
+        "title": "삼전·현대차 25%씩 담았다…피지컬 AI 투자 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#physical-ai",
+          "#investment",
+          "#asset-management",
+          "#robotics"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202607318444i"
       },
       {
         "date": "2026-08-03",
