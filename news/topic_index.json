@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-03T03:24:02+00:00",
+  "generated_at": "2026-08-03T07:48:01+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 489,
+      "count": 493,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 527,
+      "count": 534,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 550,
+      "count": 555,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1237,
+      "count": 1253,
       "latest_date": "2026-08-03"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 203,
+      "count": 206,
       "latest_date": "2026-08-03"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 306,
+      "count": 313,
       "latest_date": "2026-08-03"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 168,
+      "count": 173,
       "latest_date": "2026-08-03"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 122,
+      "count": 125,
       "latest_date": "2026-08-03"
     },
     {
@@ -76,6 +76,22 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-03",
+        "file": "20260803-신한투자증권-국내-금융사-최초-ai-.md",
+        "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설",
+        "importance": 10,
+        "tags": [
+          "#finance",
+          "#securities",
+          "#org-change",
+          "#agent-framework",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026080317876"
+      },
       {
         "date": "2026-08-03",
         "file": "20260803-신한은행-감정평가서-ai-점검-에이전.md",
@@ -153,6 +169,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-ai는-지금-오픈ai-해킹-사고에-샘.md",
+        "title": "[AI는 지금] 오픈AI 해킹 사고에 샘 알트먼도 긴장…'AI 속도 조절 필요'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#regulation",
+          "#openai",
+          "#governance",
+          "#agent-safety"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803141004"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-ai프리즘-ai가-바꾼-개발자-채용-.md",
         "title": "[AI프리즘] AI가 바꾼 개발자 채용…주니어부터 줄었다",
         "importance": 8,
@@ -180,6 +211,22 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803084304"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-generative-ai-in-act.md",
+        "title": "Generative AI in Action: Field Experimental Evidence from Alibaba's Customer Service Operations",
+        "importance": 8,
+        "tags": [
+          "#research-paper",
+          "#ai-adoption",
+          "#roi-case",
+          "#enterprise-ai",
+          "#customer-service",
+          "#field-experiment"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2603.29888"
       },
       {
         "date": "2026-08-03",
@@ -255,6 +302,52 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-ai가-임무-짜고-무인정이-기뢰-탐색.md",
+        "title": "AI가 임무 짜고 무인정이 기뢰 탐색…한화시스템, 해상전 시연",
+        "importance": 7,
+        "tags": [
+          "#defense",
+          "#physical-ai",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803144248"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-compiled-ai-determin.md",
+        "title": "Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#determinism",
+          "#compliance",
+          "#cost-analysis"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2604.05150"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-챗gpt로-3주-만에-취약점-50개-.md",
+        "title": "챗GPT로 3주 만에 취약점 50개 적발…애플, AI 시대 버그 바운티 '과부하'",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#ai-adoption",
+          "#org-change",
+          "#safety-incident",
+          "#workflow"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213467"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-코난테크-서연이화-제조-ai-에이전트.md",
         "title": "코난테크, 서연이화 '제조 AI 에이전트' 파트너 낙점",
         "importance": 7,
@@ -267,6 +360,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803100504"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-웹페이지-유튜브도-바로-분석-오픈ai.md",
+        "title": "'웹페이지·유튜브도 바로 분석'…오픈AI, 챗GPT 브라우저 기능 강화",
+        "importance": 6,
+        "tags": [
+          "#openai",
+          "#product-launch",
+          "#browser",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213465"
       },
       {
         "date": "2026-07-31",
@@ -7895,6 +8002,65 @@
         "url": "https://www.yna.co.kr/view/AKR20260803034200002"
       },
       {
+        "date": "2026-08-03",
+        "file": "20260803-et단상-피지컬-ai-시대-우리-모델.md",
+        "title": "[ET단상] 피지컬 AI 시대, 우리 모델은 무엇을 준비해야 하나",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#foundation-model",
+          "#korea",
+          "#strategy",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000126"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-리벨리온-국산-npu-최초-공공-cc.md",
+        "title": "리벨리온, 국산 NPU 최초 공공 CCTV 전환 사례 구축",
+        "importance": 7,
+        "tags": [
+          "#npu",
+          "#korea",
+          "#public-sector",
+          "#ai-adoption",
+          "#semiconductor"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803110032"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-챗gpt로-3주-만에-취약점-50개-.md",
+        "title": "챗GPT로 3주 만에 취약점 50개 적발…애플, AI 시대 버그 바운티 '과부하'",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#ai-adoption",
+          "#org-change",
+          "#safety-incident",
+          "#workflow"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213467"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-웹페이지-유튜브도-바로-분석-오픈ai.md",
+        "title": "'웹페이지·유튜브도 바로 분석'…오픈AI, 챗GPT 브라우저 기능 강화",
+        "importance": 6,
+        "tags": [
+          "#openai",
+          "#product-launch",
+          "#browser",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213465"
+      },
+      {
         "date": "2026-07-31",
         "file": "20260731-오픈ai-gpt-5-6-라인업-가격-.md",
         "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
@@ -14882,6 +15048,37 @@
     "ai_policy": [
       {
         "date": "2026-08-03",
+        "file": "20260803-et시론-ai시대-금융보안-분리-에서.md",
+        "title": "[ET시론] AI시대 금융보안 '분리'에서 '책임 있는 연결'로",
+        "importance": 9,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#regulation",
+          "#security",
+          "#ai-adoption",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000046"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai는-지금-오픈ai-해킹-사고에-샘.md",
+        "title": "[AI는 지금] 오픈AI 해킹 사고에 샘 알트먼도 긴장…'AI 속도 조절 필요'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#regulation",
+          "#openai",
+          "#governance",
+          "#agent-safety"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803141004"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-eu-8월부터-ai-챗봇-딥페이크-표.md",
         "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…'AI 라벨링' 규제 본격화",
         "importance": 8,
@@ -14909,6 +15106,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803084304"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-국가-ai-컴퓨팅센터-전남-해남서-첫.md",
+        "title": "'국가 AI 컴퓨팅센터' 전남 해남서 첫 삽...내년부터 일부 공급",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#korea-policy",
+          "#gpu",
+          "#investment",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213480"
       },
       {
         "date": "2026-08-03",
@@ -14982,6 +15194,36 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-스페이스xai-콜로서스-미허가-가스터.md",
+        "title": "스페이스XAI, '콜로서스' 미허가 가스터빈 69대 철거...1.2GW 청정 발전소로 전환",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#energy",
+          "#esg",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213470"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-장성에-ai-데이터센터-구축-반도체-.md",
+        "title": "장성에 AI 데이터센터 구축…'반도체 거점 도약'",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#korea",
+          "#investment",
+          "#partnership",
+          "#semiconductor"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803109100054"
       },
       {
         "date": "2026-08-03",
@@ -22885,6 +23127,22 @@
     "ai_industry": [
       {
         "date": "2026-08-03",
+        "file": "20260803-신한투자증권-국내-금융사-최초-ai-.md",
+        "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설",
+        "importance": 10,
+        "tags": [
+          "#finance",
+          "#securities",
+          "#org-change",
+          "#agent-framework",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026080317876"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-네이버-ai-팩토리-엔비디아-브룩필드.md",
         "title": "네이버 AI 팩토리, 엔비디아·브룩필드 맞손…GPU 확보·재무부담 분산",
         "importance": 9,
@@ -22897,6 +23155,22 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669823"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-네이버-엔비디아-브룩필드-연계-ai-.md",
+        "title": "네이버, 엔비디아·브룩필드 연계 'AI 팩토리' 계약 구조 공개",
+        "importance": 9,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#datacenter",
+          "#gpu",
+          "#project-finance",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213463"
       },
       {
         "date": "2026-08-03",
@@ -22960,6 +23234,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-7월-d램-낸드-가격-역대-최고-3분.md",
+        "title": "7월 D램·낸드 가격 역대 최고…'3분기 PC용 D램값 최대 20%↑'",
+        "importance": 8,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#pricing",
+          "#supply-chain",
+          "#cost-analysis"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803098100003"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-ai-is-cj메조-애들리-는-어떻게.md",
         "title": "[AI IS] CJ메조 '애들리'는 어떻게 광고 성과 23% 높였나",
         "importance": 8,
@@ -22987,6 +23276,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260801122235"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-ai는-지금-오픈ai-해킹-사고에-샘.md",
+        "title": "[AI는 지금] 오픈AI 해킹 사고에 샘 알트먼도 긴장…'AI 속도 조절 필요'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#regulation",
+          "#openai",
+          "#governance",
+          "#agent-safety"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803141004"
       },
       {
         "date": "2026-08-03",
@@ -23035,6 +23339,22 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-generative-ai-in-act.md",
+        "title": "Generative AI in Action: Field Experimental Evidence from Alibaba's Customer Service Operations",
+        "importance": 8,
+        "tags": [
+          "#research-paper",
+          "#ai-adoption",
+          "#roi-case",
+          "#enterprise-ai",
+          "#customer-service",
+          "#field-experiment"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2603.29888"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-openai-presence-want.md",
         "title": "OpenAI Presence wants to make AI agents production-ready for businesses",
         "importance": 8,
@@ -23063,6 +23383,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-국가-ai-컴퓨팅센터-전남-해남서-첫.md",
+        "title": "'국가 AI 컴퓨팅센터' 전남 해남서 첫 삽...내년부터 일부 공급",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#korea-policy",
+          "#gpu",
+          "#investment",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213480"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
         "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
         "importance": 8,
@@ -23075,6 +23410,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-빅테크-ai-수익화-해법으로-클라우드.md",
+        "title": "빅테크 AI 수익화 해법으로 '클라우드' 주목…'과잉 투자 우려 일소'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#cloud",
+          "#earnings",
+          "#datacenter",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213473"
       },
       {
         "date": "2026-08-03",
@@ -23150,6 +23500,37 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-ai가-임무-짜고-무인정이-기뢰-탐색.md",
+        "title": "AI가 임무 짜고 무인정이 기뢰 탐색…한화시스템, 해상전 시연",
+        "importance": 7,
+        "tags": [
+          "#defense",
+          "#physical-ai",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803144248"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-compiled-ai-determin.md",
+        "title": "Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#determinism",
+          "#compliance",
+          "#cost-analysis"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2604.05150"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-dwindling-cash-and-s.md",
         "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
         "importance": 7,
@@ -23209,6 +23590,21 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-리벨리온-국산-npu-최초-공공-cc.md",
+        "title": "리벨리온, 국산 NPU 최초 공공 CCTV 전환 사례 구축",
+        "importance": 7,
+        "tags": [
+          "#npu",
+          "#korea",
+          "#public-sector",
+          "#ai-adoption",
+          "#semiconductor"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803110032"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-상하이-입는-로봇-구매-지원-피지컬a.md",
         "title": "中 상하이, '입는 로봇' 구매 지원…피지컬AI 시장 키운다",
         "importance": 7,
@@ -23221,6 +23617,66 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-스페이스xai-콜로서스-미허가-가스터.md",
+        "title": "스페이스XAI, '콜로서스' 미허가 가스터빈 69대 철거...1.2GW 청정 발전소로 전환",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#energy",
+          "#esg",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213470"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-장성에-ai-데이터센터-구축-반도체-.md",
+        "title": "장성에 AI 데이터센터 구축…'반도체 거점 도약'",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#korea",
+          "#investment",
+          "#partnership",
+          "#semiconductor"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803109100054"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-중국-vc-3년-한파-깨고-50조-투.md",
+        "title": "중국 VC, 3년 한파 깨고 50조 투자 총력전...AI·로봇이 부활 이끈다",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#venture-capital",
+          "#china",
+          "#robotics",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213468"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-챗gpt로-3주-만에-취약점-50개-.md",
+        "title": "챗GPT로 3주 만에 취약점 50개 적발…애플, AI 시대 버그 바운티 '과부하'",
+        "importance": 7,
+        "tags": [
+          "#security",
+          "#ai-adoption",
+          "#org-change",
+          "#safety-incident",
+          "#workflow"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213467"
       },
       {
         "date": "2026-08-03",
@@ -23265,6 +23721,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669472"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-8월-주식시장-전망-ai-10년-사이.md",
+        "title": "8월 주식시장 전망…AI 10년 사이클, '큰 그림'으로 조망해야",
+        "importance": 6,
+        "tags": [
+          "#market-outlook",
+          "#investment",
+          "#finance",
+          "#strategy"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202608031293i"
       },
       {
         "date": "2026-08-03",
@@ -23351,6 +23821,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803094657"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-웹페이지-유튜브도-바로-분석-오픈ai.md",
+        "title": "'웹페이지·유튜브도 바로 분석'…오픈AI, 챗GPT 브라우저 기능 강화",
+        "importance": 6,
+        "tags": [
+          "#openai",
+          "#product-launch",
+          "#browser",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213465"
       },
       {
         "date": "2026-08-03",
@@ -40972,6 +41456,36 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-ai가-임무-짜고-무인정이-기뢰-탐색.md",
+        "title": "AI가 임무 짜고 무인정이 기뢰 탐색…한화시스템, 해상전 시연",
+        "importance": 7,
+        "tags": [
+          "#defense",
+          "#physical-ai",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803144248"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-et단상-피지컬-ai-시대-우리-모델.md",
+        "title": "[ET단상] 피지컬 AI 시대, 우리 모델은 무엇을 준비해야 하나",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#foundation-model",
+          "#korea",
+          "#strategy",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000126"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-skt-피지컬-ai-스타트업-8곳과-.md",
         "title": "SKT, 피지컬 AI 스타트업 8곳과 로보틱스 협업",
         "importance": 7,
@@ -41013,6 +41527,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-중국-vc-3년-한파-깨고-50조-투.md",
+        "title": "중국 VC, 3년 한파 깨고 50조 투자 총력전...AI·로봇이 부활 이끈다",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#venture-capital",
+          "#china",
+          "#robotics",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213468"
       },
       {
         "date": "2026-08-03",
@@ -43958,6 +44487,22 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-네이버-엔비디아-브룩필드-연계-ai-.md",
+        "title": "네이버, 엔비디아·브룩필드 연계 'AI 팩토리' 계약 구조 공개",
+        "importance": 9,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#datacenter",
+          "#gpu",
+          "#project-finance",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213463"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
         "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
         "importance": 9,
@@ -43988,6 +44533,36 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-7월-d램-낸드-가격-역대-최고-3분.md",
+        "title": "7월 D램·낸드 가격 역대 최고…'3분기 PC용 D램값 최대 20%↑'",
+        "importance": 8,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#pricing",
+          "#supply-chain",
+          "#cost-analysis"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803098100003"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-국가-ai-컴퓨팅센터-전남-해남서-첫.md",
+        "title": "'국가 AI 컴퓨팅센터' 전남 해남서 첫 삽...내년부터 일부 공급",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#korea-policy",
+          "#gpu",
+          "#investment",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213480"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-단순-실수가-26억-손실로-아마존-a.md",
         "title": "'단순 실수가 26억 손실로'…아마존, AI 도입 중 예산 860% 폭증",
         "importance": 8,
@@ -44000,6 +44575,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213403"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-빅테크-ai-수익화-해법으로-클라우드.md",
+        "title": "빅테크 AI 수익화 해법으로 '클라우드' 주목…'과잉 투자 우려 일소'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#cloud",
+          "#earnings",
+          "#datacenter",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213473"
       },
       {
         "date": "2026-08-03",
@@ -44030,6 +44620,51 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-리벨리온-국산-npu-최초-공공-cc.md",
+        "title": "리벨리온, 국산 NPU 최초 공공 CCTV 전환 사례 구축",
+        "importance": 7,
+        "tags": [
+          "#npu",
+          "#korea",
+          "#public-sector",
+          "#ai-adoption",
+          "#semiconductor"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803110032"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-스페이스xai-콜로서스-미허가-가스터.md",
+        "title": "스페이스XAI, '콜로서스' 미허가 가스터빈 69대 철거...1.2GW 청정 발전소로 전환",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#energy",
+          "#esg",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213470"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-장성에-ai-데이터센터-구축-반도체-.md",
+        "title": "장성에 AI 데이터센터 구축…'반도체 거점 도약'",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#korea",
+          "#investment",
+          "#partnership",
+          "#semiconductor"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260803109100054"
       },
       {
         "date": "2026-08-03",
@@ -48423,6 +49058,54 @@
     "금융회사 AI": [
       {
         "date": "2026-08-03",
+        "file": "20260803-신한투자증권-국내-금융사-최초-ai-.md",
+        "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설",
+        "importance": 10,
+        "tags": [
+          "#finance",
+          "#securities",
+          "#org-change",
+          "#agent-framework",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026080317876"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-et시론-ai시대-금융보안-분리-에서.md",
+        "title": "[ET시론] AI시대 금융보안 '분리'에서 '책임 있는 연결'로",
+        "importance": 9,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#regulation",
+          "#security",
+          "#ai-adoption",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000046"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-네이버-엔비디아-브룩필드-연계-ai-.md",
+        "title": "네이버, 엔비디아·브룩필드 연계 'AI 팩토리' 계약 구조 공개",
+        "importance": 9,
+        "tags": [
+          "#partnership",
+          "#investment",
+          "#datacenter",
+          "#gpu",
+          "#project-finance",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213463"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-신한은행-감정평가서-ai-점검-에이전.md",
         "title": "신한은행, 감정평가서 AI 점검 에이전트 도입…업무 시간 70% 단축",
         "importance": 9,
@@ -48542,6 +49225,22 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-compiled-ai-determin.md",
+        "title": "Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#determinism",
+          "#compliance",
+          "#cost-analysis"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2604.05150"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-dwindling-cash-and-s.md",
         "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
         "importance": 7,
@@ -48569,6 +49268,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669444"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-8월-주식시장-전망-ai-10년-사이.md",
+        "title": "8월 주식시장 전망…AI 10년 사이클, '큰 그림'으로 조망해야",
+        "importance": 6,
+        "tags": [
+          "#market-outlook",
+          "#investment",
+          "#finance",
+          "#strategy"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202608031293i"
       },
       {
         "date": "2026-08-03",
@@ -50934,6 +51647,36 @@
       },
       {
         "date": "2026-08-03",
+        "file": "20260803-ai가-임무-짜고-무인정이-기뢰-탐색.md",
+        "title": "AI가 임무 짜고 무인정이 기뢰 탐색…한화시스템, 해상전 시연",
+        "importance": 7,
+        "tags": [
+          "#defense",
+          "#physical-ai",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803144248"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-et단상-피지컬-ai-시대-우리-모델.md",
+        "title": "[ET단상] 피지컬 AI 시대, 우리 모델은 무엇을 준비해야 하나",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#foundation-model",
+          "#korea",
+          "#strategy",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260803000126"
+      },
+      {
+        "date": "2026-08-03",
         "file": "20260803-skt-피지컬-ai-스타트업-8곳과-.md",
         "title": "SKT, 피지컬 AI 스타트업 8곳과 로보틱스 협업",
         "importance": 7,
@@ -50990,6 +51733,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669633"
+      },
+      {
+        "date": "2026-08-03",
+        "file": "20260803-중국-vc-3년-한파-깨고-50조-투.md",
+        "title": "중국 VC, 3년 한파 깨고 50조 투자 총력전...AI·로봇이 부활 이끈다",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#venture-capital",
+          "#china",
+          "#robotics",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213468"
       },
       {
         "date": "2026-08-03",
