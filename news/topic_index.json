@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-03T23:28:26+00:00",
+  "generated_at": "2026-08-04T03:20:56+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 500,
+      "count": 505,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 542,
+      "count": 547,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 561,
+      "count": 564,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1273,
+      "count": 1285,
       "latest_date": "2026-08-04"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 211,
+      "count": 213,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 319,
+      "count": 322,
       "latest_date": "2026-08-04"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 179,
+      "count": 182,
       "latest_date": "2026-08-04"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 130,
+      "count": 132,
       "latest_date": "2026-08-04"
     },
     {
@@ -109,6 +109,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
+        "title": "[AI는 지금] '105분의 1 가격'…딥시크, 하네스로 AI 에이전트 판 흔든다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#open-source",
+          "#pricing",
+          "#tool-use",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804090446"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-alibaba-s-open-weigh.md",
         "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
         "importance": 8,
@@ -121,6 +136,66 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-민간-시장-통했다-팔란티어-2분기-영.md",
+        "title": "美 민간 시장 통했다…팔란티어, 2분기 영업익 3배↑",
+        "importance": 8,
+        "tags": [
+          "#enterprise-ai",
+          "#monetization",
+          "#roi-case",
+          "#earnings",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804084659"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
+        "title": "알리바바, '큐원 3.8 맥스' 공개…키미 K3와 맞대결",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#moe",
+          "#multimodal",
+          "#long-context",
+          "#coding"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803180656"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-우리은행-ai-기반-자산관리-시스템-.md",
+        "title": "우리은행, AI 기반 자산관리 시스템 'WM V.I.P.' 가동…AX 영업 혁신",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#wealth-management",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000143"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-우리은행-생성형-ai-결합한-상담-챗.md",
+        "title": "우리은행, 생성형 AI 결합한 상담 챗봇 만든다…내년 오픈",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#generative-ai",
+          "#chatbot",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804079600002"
       },
       {
         "date": "2026-08-04",
@@ -8006,6 +8081,21 @@
     "llm_models": [
       {
         "date": "2026-08-04",
+        "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
+        "title": "[AI는 지금] '105분의 1 가격'…딥시크, 하네스로 AI 에이전트 판 흔든다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#open-source",
+          "#pricing",
+          "#tool-use",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804090446"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-alibaba-s-open-weigh.md",
         "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
         "importance": 8,
@@ -8036,6 +8126,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
+        "title": "개방형 국산 AI 출격…국가대표 4사4색 전략은",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#model-release",
+          "#sovereign-ai",
+          "#public-policy",
+          "#open-source"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804100005"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-네이버-ai팩토리-밑그림-공개-100.md",
         "title": "네이버, AI팩토리 밑그림 공개…'100% 출자' 자회사 설립한다",
         "importance": 8,
@@ -8048,6 +8153,36 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026080323671"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
+        "title": "알리바바, '큐원 3.8 맥스' 공개…키미 K3와 맞대결",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#moe",
+          "#multimodal",
+          "#long-context",
+          "#coding"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803180656"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-우리은행-생성형-ai-결합한-상담-챗.md",
+        "title": "우리은행, 생성형 AI 결합한 상담 챗봇 만든다…내년 오픈",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#generative-ai",
+          "#chatbot",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804079600002"
       },
       {
         "date": "2026-08-04",
@@ -8107,6 +8242,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213492"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-시스트란-국방-방산-특화-온프레미스-.md",
+        "title": "시스트란, 국방·방산 특화 온프레미스 AI 솔루션으로 고보안 시장 공략",
+        "importance": 6,
+        "tags": [
+          "#on-premise",
+          "#enterprise-ai",
+          "#defense",
+          "#slm",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804104358"
       },
       {
         "date": "2026-08-03",
@@ -15287,6 +15437,36 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
+        "title": "개방형 국산 AI 출격…국가대표 4사4색 전략은",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#model-release",
+          "#sovereign-ai",
+          "#public-policy",
+          "#open-source"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804100005"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-활용-음악도-저작권료-받는-길-.md",
+        "title": "AI 활용 음악도 저작권료 받는 길 열렸다…음저협 새 기준 시행",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#copyright",
+          "#generative-ai",
+          "#content",
+          "#compliance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804056100005"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-trump-s-ai-protectio.md",
         "title": "Trump’s AI protectionism has come for robotics",
         "importance": 7,
@@ -15329,6 +15509,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803165045"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-새만금-현대차-ai-로봇-클러스터-예.md",
+        "title": "새만금 현대차 AI·로봇 클러스터 예정 구역, 종합보세구역 지정",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#manufacturing",
+          "#public-policy",
+          "#investment",
+          "#cluster"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804044000002"
       },
       {
         "date": "2026-08-04",
@@ -23487,6 +23682,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
+        "title": "[AI는 지금] '105분의 1 가격'…딥시크, 하네스로 AI 에이전트 판 흔든다",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#open-source",
+          "#pricing",
+          "#tool-use",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804090446"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-alibaba-s-open-weigh.md",
         "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
         "importance": 8,
@@ -23517,6 +23727,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
+        "title": "개방형 국산 AI 출격…국가대표 4사4색 전략은",
+        "importance": 8,
+        "tags": [
+          "#open-weights",
+          "#model-release",
+          "#sovereign-ai",
+          "#public-policy",
+          "#open-source"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804100005"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-네이버-ai팩토리-밑그림-공개-100.md",
         "title": "네이버, AI팩토리 밑그림 공개…'100% 출자' 자회사 설립한다",
         "importance": 8,
@@ -23529,6 +23754,66 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026080323671"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-민간-시장-통했다-팔란티어-2분기-영.md",
+        "title": "美 민간 시장 통했다…팔란티어, 2분기 영업익 3배↑",
+        "importance": 8,
+        "tags": [
+          "#enterprise-ai",
+          "#monetization",
+          "#roi-case",
+          "#earnings",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804084659"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
+        "title": "알리바바, '큐원 3.8 맥스' 공개…키미 K3와 맞대결",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#moe",
+          "#multimodal",
+          "#long-context",
+          "#coding"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260803180656"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-우리은행-ai-기반-자산관리-시스템-.md",
+        "title": "우리은행, AI 기반 자산관리 시스템 'WM V.I.P.' 가동…AX 영업 혁신",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#wealth-management",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000143"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-우리은행-생성형-ai-결합한-상담-챗.md",
+        "title": "우리은행, 생성형 AI 결합한 상담 챗봇 만든다…내년 오픈",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#generative-ai",
+          "#chatbot",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804079600002"
       },
       {
         "date": "2026-08-04",
@@ -23559,6 +23844,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260804000002"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-활용-음악도-저작권료-받는-길-.md",
+        "title": "AI 활용 음악도 저작권료 받는 길 열렸다…음저협 새 기준 시행",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#copyright",
+          "#generative-ai",
+          "#content",
+          "#compliance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804056100005"
       },
       {
         "date": "2026-08-04",
@@ -23637,6 +23937,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-새만금-현대차-ai-로봇-클러스터-예.md",
+        "title": "새만금 현대차 AI·로봇 클러스터 예정 구역, 종합보세구역 지정",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#manufacturing",
+          "#public-policy",
+          "#investment",
+          "#cluster"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804044000002"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-시간당-4만원-휴머노이드가-집-찾아가.md",
         "title": "“시간당 4만원”…휴머노이드가 집 찾아가 청소해준다",
         "importance": 7,
@@ -23697,6 +24012,35 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-et특징주-네이버-ai-팩토리-기대감.md",
+        "title": "[ET특징주] 네이버, AI 팩토리 기대감에 주가 9%↑",
+        "importance": 6,
+        "tags": [
+          "#ai-infrastructure",
+          "#datacenter",
+          "#nvidia",
+          "#investment",
+          "#gpu"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000139"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-gmi-cloud-글로벌-ai-인프라.md",
+        "title": "GMI Cloud, 글로벌 AI 인프라 확장에 힘입어 ARR 전년 대비 8배 성장 달성",
+        "importance": 6,
+        "tags": [
+          "#gpu-cloud",
+          "#monetization",
+          "#ai-infrastructure",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804111003"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-구글이-로봇을-제어하는-방법-제미나이.md",
         "title": "구글이 로봇을 제어하는 방법… ‘제미나이 로보틱스2’ 공개",
         "importance": 6,
@@ -23708,6 +24052,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213492"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-국제-신평사-무디스-sk하이닉스-신용.md",
+        "title": "국제 신평사 무디스, SK하이닉스 신용등급 첫 A등급대로 상향",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#credit-rating",
+          "#hbm",
+          "#ai-infrastructure",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804041400008"
       },
       {
         "date": "2026-08-04",
@@ -23723,6 +24082,21 @@
         ],
         "source": "한국경제 금융",
         "url": "https://www.hankyung.com/article/202608042867i"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-시스트란-국방-방산-특화-온프레미스-.md",
+        "title": "시스트란, 국방·방산 특화 온프레미스 AI 솔루션으로 고보안 시장 공략",
+        "importance": 6,
+        "tags": [
+          "#on-premise",
+          "#enterprise-ai",
+          "#defense",
+          "#slm",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804104358"
       },
       {
         "date": "2026-08-04",
@@ -42071,6 +42445,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-새만금-현대차-ai-로봇-클러스터-예.md",
+        "title": "새만금 현대차 AI·로봇 클러스터 예정 구역, 종합보세구역 지정",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#manufacturing",
+          "#public-policy",
+          "#investment",
+          "#cluster"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804044000002"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-시간당-4만원-휴머노이드가-집-찾아가.md",
         "title": "“시간당 4만원”…휴머노이드가 집 찾아가 청소해준다",
         "importance": 7,
@@ -42098,6 +42487,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260803000184"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-904만원-냈는데-감감-테슬라-fsd.md",
+        "title": "904만원 냈는데 감감…테슬라 'FSD 라이트' 불만 확산",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#customer-trust",
+          "#ota",
+          "#safety-incident",
+          "#commercialization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669894"
       },
       {
         "date": "2026-08-04",
@@ -45217,6 +45621,50 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669896"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-et특징주-네이버-ai-팩토리-기대감.md",
+        "title": "[ET특징주] 네이버, AI 팩토리 기대감에 주가 9%↑",
+        "importance": 6,
+        "tags": [
+          "#ai-infrastructure",
+          "#datacenter",
+          "#nvidia",
+          "#investment",
+          "#gpu"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000139"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-gmi-cloud-글로벌-ai-인프라.md",
+        "title": "GMI Cloud, 글로벌 AI 인프라 확장에 힘입어 ARR 전년 대비 8배 성장 달성",
+        "importance": 6,
+        "tags": [
+          "#gpu-cloud",
+          "#monetization",
+          "#ai-infrastructure",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804111003"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-국제-신평사-무디스-sk하이닉스-신용.md",
+        "title": "국제 신평사 무디스, SK하이닉스 신용등급 첫 A등급대로 상향",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#credit-rating",
+          "#hbm",
+          "#ai-infrastructure",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804041400008"
       },
       {
         "date": "2026-08-04",
@@ -49882,6 +50330,36 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-우리은행-ai-기반-자산관리-시스템-.md",
+        "title": "우리은행, AI 기반 자산관리 시스템 'WM V.I.P.' 가동…AX 영업 혁신",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#wealth-management",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000143"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-우리은행-생성형-ai-결합한-상담-챗.md",
+        "title": "우리은행, 생성형 AI 결합한 상담 챗봇 만든다…내년 오픈",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#generative-ai",
+          "#chatbot",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804079600002"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-티오리-우리금융그룹에-ai-모의해킹-.md",
         "title": "티오리, 우리금융그룹에 AI 모의해킹 '진트 웹' 공급",
         "importance": 8,
@@ -49924,6 +50402,21 @@
         ],
         "source": "한국경제 금융",
         "url": "https://www.hankyung.com/article/202608042867i"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-신한-슈퍼sol-출시-한-달-만에-월.md",
+        "title": "신한 슈퍼SOL, 출시 한 달 만에 월간 활성 이용자 수 1100만명 돌파",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#super-app",
+          "#roi-case",
+          "#digital-transformation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000145"
       },
       {
         "date": "2026-08-03",
@@ -52517,6 +53010,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-새만금-현대차-ai-로봇-클러스터-예.md",
+        "title": "새만금 현대차 AI·로봇 클러스터 예정 구역, 종합보세구역 지정",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#manufacturing",
+          "#public-policy",
+          "#investment",
+          "#cluster"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804044000002"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-시간당-4만원-휴머노이드가-집-찾아가.md",
         "title": "“시간당 4만원”…휴머노이드가 집 찾아가 청소해준다",
         "importance": 7,
@@ -52544,6 +53052,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260803000184"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-904만원-냈는데-감감-테슬라-fsd.md",
+        "title": "904만원 냈는데 감감…테슬라 'FSD 라이트' 불만 확산",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#customer-trust",
+          "#ota",
+          "#safety-incident",
+          "#commercialization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669894"
       },
       {
         "date": "2026-08-04",
