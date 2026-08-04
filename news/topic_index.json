@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-08-04T07:22:22+00:00",
+  "generated_at": "2026-08-04T23:45:50+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 510,
-      "latest_date": "2026-08-04"
+      "count": 515,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 555,
-      "latest_date": "2026-08-04"
+      "count": 561,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 571,
-      "latest_date": "2026-08-04"
+      "count": 582,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1302,
-      "latest_date": "2026-08-04"
+      "count": 1321,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 218,
-      "latest_date": "2026-08-04"
+      "count": 223,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 329,
-      "latest_date": "2026-08-04"
+      "count": 335,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 184,
-      "latest_date": "2026-08-04"
+      "count": 189,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 137,
-      "latest_date": "2026-08-04"
+      "count": 142,
+      "latest_date": "2026-08-05"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,99 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-05",
+        "file": "20260805-cibc-launches-platfo.md",
+        "title": "CIBC launches platform to take on advisors' administrative work",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#workflow-automation",
+          "#agent-framework",
+          "#wealth-management"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48191/cibc-launches-platform-to-take-on-advisors-administrative-work?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-sumsub-and-sumvin-en.md",
+        "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
+        "importance": 8,
+        "tags": [
+          "#agentic-commerce",
+          "#kyc",
+          "#identity",
+          "#payments",
+          "#partnership",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-webull-expands-ai-po.md",
+        "title": "Webull expands AI-powered investing ecosystem",
+        "importance": 8,
+        "tags": [
+          "#mcp",
+          "#agent-framework",
+          "#securities",
+          "#finance",
+          "#product-launch",
+          "#api-economy"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110566/webull-expands-ai-powered-investing-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+        "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 '일하는 AI 본격화'",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670006"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-동남아-우버-그랩-ai-썼더니-배송-.md",
+        "title": "동남아 우버 그랩 'AI 썼더니 배송 30% 빨라졌다'",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#monetization",
+          "#operational-efficiency",
+          "#platform"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804203155"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-국가대표-ai-두번째-생존-게임-시작.md",
+        "title": "국가대표 AI ‘두번째 생존 게임’ 시작…에이전트 역량에 걸렸다",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#model-release",
+          "#agent-framework",
+          "#korea",
+          "#public-policy"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116449"
+      },
       {
         "date": "2026-08-04",
         "file": "20260804-bbva-call-centre-sta.md",
@@ -8200,6 +8293,79 @@
     ],
     "llm_models": [
       {
+        "date": "2026-08-05",
+        "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+        "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 '일하는 AI 본격화'",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670006"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-open-weight-ai-model.md",
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "importance": 7,
+        "tags": [
+          "#open-weights",
+          "#safety-incident",
+          "#governance",
+          "#model-release"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-silicon-valley-s-rif.md",
+        "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#geopolitics",
+          "#trade-policy"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-국가대표-ai-두번째-생존-게임-시작.md",
+        "title": "국가대표 AI ‘두번째 생존 게임’ 시작…에이전트 역량에 걸렸다",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#model-release",
+          "#agent-framework",
+          "#korea",
+          "#public-policy"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116449"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-안광섭-ai-진테제-벤치마크-점수-3.md",
+        "title": "[안광섭 AI 진테제] 벤치마크 점수 3점에 30배 비용 내야하나",
+        "importance": 7,
+        "tags": [
+          "#pricing",
+          "#china-ai",
+          "#cost-optimization",
+          "#model-release",
+          "#benchmark"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804234048"
+      },
+      {
         "date": "2026-08-04",
         "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
         "title": "[AI는 지금] '105분의 1 가격'…딥시크, 하네스로 AI 에이전트 판 흔든다",
@@ -15614,6 +15780,167 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-08-05",
+        "file": "20260805-sumsub-and-sumvin-en.md",
+        "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
+        "importance": 8,
+        "tags": [
+          "#agentic-commerce",
+          "#kyc",
+          "#identity",
+          "#payments",
+          "#partnership",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+        "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 '일하는 AI 본격화'",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670006"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
+        "title": "산업부 'AI 전환 사업장, 생산성 30% 증가'",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#manufacturing",
+          "#public-policy",
+          "#operational-efficiency"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116546"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-open-weight-ai-model.md",
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "importance": 7,
+        "tags": [
+          "#open-weights",
+          "#safety-incident",
+          "#governance",
+          "#model-release"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-silicon-valley-s-rif.md",
+        "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#geopolitics",
+          "#trade-policy"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-texas-says-data-cent.md",
+        "title": "Texas says data centers must pass an audit before connecting to the grid",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#energy",
+          "#ai-infrastructure"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-과기정통부-신한금융-취약계층-ai-역.md",
+        "title": "과기정통부·신한금융 '취약계층 AI 역량 강화'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#ai-literacy",
+          "#partnership",
+          "#esg"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116434"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-국가대표-ai-두번째-생존-게임-시작.md",
+        "title": "국가대표 AI ‘두번째 생존 게임’ 시작…에이전트 역량에 걸렸다",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#model-release",
+          "#agent-framework",
+          "#korea",
+          "#public-policy"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116449"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-the-download-us-robo.md",
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#trade-policy"
+        ],
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-메가특구법-연내-제정-주52시간-특례.md",
+        "title": "메가특구법 연내 제정… 주52시간 특례 막판 조율",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#public-policy",
+          "#physical-ai",
+          "#korea",
+          "#investment"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-쏘카-자율주행-렌터카-생태계-구축-나.md",
+        "title": "쏘카, 자율주행 렌터카 생태계 구축 나선다…교통연구원·렌터카연합회와 맞손",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#regulation",
+          "#mobility"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804174931"
+      },
       {
         "date": "2026-08-04",
         "file": "20260804-anthropic-openai-amo.md",
@@ -23932,6 +24259,287 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-08-05",
+        "file": "20260805-anthropic-locks-in-1.md",
+        "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#datacenter",
+          "#investment",
+          "#ai-infrastructure"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-cibc-launches-platfo.md",
+        "title": "CIBC launches platform to take on advisors' administrative work",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#workflow-automation",
+          "#agent-framework",
+          "#wealth-management"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48191/cibc-launches-platform-to-take-on-advisors-administrative-work?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-google-moves-billion.md",
+        "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+        "importance": 8,
+        "tags": [
+          "#structured-finance",
+          "#datacenter",
+          "#partnership",
+          "#investment",
+          "#risk-transfer"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-sumsub-and-sumvin-en.md",
+        "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
+        "importance": 8,
+        "tags": [
+          "#agentic-commerce",
+          "#kyc",
+          "#identity",
+          "#payments",
+          "#partnership",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-webull-expands-ai-po.md",
+        "title": "Webull expands AI-powered investing ecosystem",
+        "importance": 8,
+        "tags": [
+          "#mcp",
+          "#agent-framework",
+          "#securities",
+          "#finance",
+          "#product-launch",
+          "#api-economy"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110566/webull-expands-ai-powered-investing-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+        "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 '일하는 AI 본격화'",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670006"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-동남아-우버-그랩-ai-썼더니-배송-.md",
+        "title": "동남아 우버 그랩 'AI 썼더니 배송 30% 빨라졌다'",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#monetization",
+          "#operational-efficiency",
+          "#platform"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804203155"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
+        "title": "산업부 'AI 전환 사업장, 생산성 30% 증가'",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#manufacturing",
+          "#public-policy",
+          "#operational-efficiency"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116546"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-amd-데이터센터-매출-2배-급증-2.md",
+        "title": "AMD, 데이터센터 매출 2배 급증…2분기 사상 최대 매출",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#earnings",
+          "#datacenter",
+          "#ai-infrastructure",
+          "#competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000004"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-open-weight-ai-model.md",
+        "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+        "importance": 7,
+        "tags": [
+          "#open-weights",
+          "#safety-incident",
+          "#governance",
+          "#model-release"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-silicon-valley-s-rif.md",
+        "title": "Silicon Valley’s rift over open source pushes back contemplated White House bans on Chinese AI",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#geopolitics",
+          "#trade-policy"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/silicon-valleys-rift-over-open-source-pushes-back-contemplated-white-house-bans-on-chinese-ai/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-texas-says-data-cent.md",
+        "title": "Texas says data centers must pass an audit before connecting to the grid",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#energy",
+          "#ai-infrastructure"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-국가대표-ai-두번째-생존-게임-시작.md",
+        "title": "국가대표 AI ‘두번째 생존 게임’ 시작…에이전트 역량에 걸렸다",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#model-release",
+          "#agent-framework",
+          "#korea",
+          "#public-policy"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116449"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-삼성전자-hbm5-대비-성능-최대-8.md",
+        "title": "삼성전자, HBM5 대비 성능 최대 8배 'zHBM' 공개",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#hbm",
+          "#product-launch",
+          "#ai-infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000003"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-안광섭-ai-진테제-벤치마크-점수-3.md",
+        "title": "[안광섭 AI 진테제] 벤치마크 점수 3점에 30배 비용 내야하나",
+        "importance": 7,
+        "tags": [
+          "#pricing",
+          "#china-ai",
+          "#cost-optimization",
+          "#model-release",
+          "#benchmark"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804234048"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-the-download-us-robo.md",
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#trade-policy"
+        ],
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-독일-애자일-로봇-올해-매출-2배-성.md",
+        "title": "독일 애자일 로봇, 올해 매출 2배 성장 전망… '2~3년 내 흑자 전환'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#monetization",
+          "#roi-case",
+          "#manufacturing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213521"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-메가특구법-연내-제정-주52시간-특례.md",
+        "title": "메가특구법 연내 제정… 주52시간 특례 막판 조율",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#public-policy",
+          "#physical-ai",
+          "#korea",
+          "#investment"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-쏘카-자율주행-렌터카-생태계-구축-나.md",
+        "title": "쏘카, 자율주행 렌터카 생태계 구축 나선다…교통연구원·렌터카연합회와 맞손",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#regulation",
+          "#mobility"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804174931"
+      },
       {
         "date": "2026-08-04",
         "file": "20260804-bbva-call-centre-sta.md",
@@ -42981,6 +43589,78 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-08-05",
+        "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
+        "title": "산업부 'AI 전환 사업장, 생산성 30% 증가'",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#manufacturing",
+          "#public-policy",
+          "#operational-efficiency"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116546"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-the-download-us-robo.md",
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#trade-policy"
+        ],
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-독일-애자일-로봇-올해-매출-2배-성.md",
+        "title": "독일 애자일 로봇, 올해 매출 2배 성장 전망… '2~3년 내 흑자 전환'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#monetization",
+          "#roi-case",
+          "#manufacturing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213521"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-메가특구법-연내-제정-주52시간-특례.md",
+        "title": "메가특구법 연내 제정… 주52시간 특례 막판 조율",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#public-policy",
+          "#physical-ai",
+          "#korea",
+          "#investment"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-쏘카-자율주행-렌터카-생태계-구축-나.md",
+        "title": "쏘카, 자율주행 렌터카 생태계 구축 나선다…교통연구원·렌터카연합회와 맞손",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#regulation",
+          "#mobility"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804174931"
+      },
+      {
         "date": "2026-08-04",
         "file": "20260804-로봇-수입금지-중장기-반사이익-기대.md",
         "title": "美, 中로봇 수입금지…'韓, 중장기 반사이익 기대'",
@@ -46189,6 +46869,94 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-08-05",
+        "file": "20260805-anthropic-locks-in-1.md",
+        "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#datacenter",
+          "#investment",
+          "#ai-infrastructure"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-locks-in-10-billion-of-compute-from-volta-a-cloud-startup-that-didnt-exist-six-months-ago/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-google-moves-billion.md",
+        "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+        "importance": 8,
+        "tags": [
+          "#structured-finance",
+          "#datacenter",
+          "#partnership",
+          "#investment",
+          "#risk-transfer"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-amd-데이터센터-매출-2배-급증-2.md",
+        "title": "AMD, 데이터센터 매출 2배 급증…2분기 사상 최대 매출",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#earnings",
+          "#datacenter",
+          "#ai-infrastructure",
+          "#competition"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000004"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-texas-says-data-cent.md",
+        "title": "Texas says data centers must pass an audit before connecting to the grid",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#energy",
+          "#ai-infrastructure"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-삼성전자-hbm5-대비-성능-최대-8.md",
+        "title": "삼성전자, HBM5 대비 성능 최대 8배 'zHBM' 공개",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#hbm",
+          "#product-launch",
+          "#ai-infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000003"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-메가특구법-연내-제정-주52시간-특례.md",
+        "title": "메가특구법 연내 제정… 주52시간 특례 막판 조율",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#public-policy",
+          "#physical-ai",
+          "#korea",
+          "#investment"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041817468540"
+      },
       {
         "date": "2026-08-04",
         "file": "20260804-alibaba-s-open-weigh.md",
@@ -51014,6 +51782,84 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-08-05",
+        "file": "20260805-cibc-launches-platfo.md",
+        "title": "CIBC launches platform to take on advisors' administrative work",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#workflow-automation",
+          "#agent-framework",
+          "#wealth-management"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48191/cibc-launches-platform-to-take-on-advisors-administrative-work?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-google-moves-billion.md",
+        "title": "Google moves billions in Anthropic chip risk off its balance sheet",
+        "importance": 8,
+        "tags": [
+          "#structured-finance",
+          "#datacenter",
+          "#partnership",
+          "#investment",
+          "#risk-transfer"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-moves-billions-in-anthropic-chip-risk-off-its-balance-sheet/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-sumsub-and-sumvin-en.md",
+        "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
+        "importance": 8,
+        "tags": [
+          "#agentic-commerce",
+          "#kyc",
+          "#identity",
+          "#payments",
+          "#partnership",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110563/sumsub-and-sumvin-enalbe-ai-agents-to-transact-using-verified-human-identity?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-webull-expands-ai-po.md",
+        "title": "Webull expands AI-powered investing ecosystem",
+        "importance": 8,
+        "tags": [
+          "#mcp",
+          "#agent-framework",
+          "#securities",
+          "#finance",
+          "#product-launch",
+          "#api-economy"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110566/webull-expands-ai-powered-investing-ecosystem?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-과기정통부-신한금융-취약계층-ai-역.md",
+        "title": "과기정통부·신한금융 '취약계층 AI 역량 강화'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#ai-literacy",
+          "#partnership",
+          "#esg"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116434"
+      },
+      {
         "date": "2026-08-04",
         "file": "20260804-bbva-call-centre-sta.md",
         "title": "BBVA call centre staff develop and deploy AI agents to speed up response times",
@@ -53754,6 +54600,78 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-08-05",
+        "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
+        "title": "산업부 'AI 전환 사업장, 생산성 30% 증가'",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#manufacturing",
+          "#public-policy",
+          "#operational-efficiency"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12116546"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-the-download-us-robo.md",
+        "title": "The Download: US robot restrictions, and ICE’s DNA grab",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#trade-policy"
+        ],
+        "source": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-독일-애자일-로봇-올해-매출-2배-성.md",
+        "title": "독일 애자일 로봇, 올해 매출 2배 성장 전망… '2~3년 내 흑자 전환'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#monetization",
+          "#roi-case",
+          "#manufacturing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213521"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-메가특구법-연내-제정-주52시간-특례.md",
+        "title": "메가특구법 연내 제정… 주52시간 특례 막판 조율",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#public-policy",
+          "#physical-ai",
+          "#korea",
+          "#investment"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-쏘카-자율주행-렌터카-생태계-구축-나.md",
+        "title": "쏘카, 자율주행 렌터카 생태계 구축 나선다…교통연구원·렌터카연합회와 맞손",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#regulation",
+          "#mobility"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804174931"
+      },
       {
         "date": "2026-08-04",
         "file": "20260804-로봇-수입금지-중장기-반사이익-기대.md",
