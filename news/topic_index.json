@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-04T03:20:56+00:00",
+  "generated_at": "2026-08-04T07:22:22+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 505,
+      "count": 510,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 547,
+      "count": 555,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 564,
+      "count": 571,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1285,
+      "count": 1302,
       "latest_date": "2026-08-04"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 213,
+      "count": 218,
       "latest_date": "2026-08-04"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 322,
+      "count": 329,
       "latest_date": "2026-08-04"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 182,
+      "count": 184,
       "latest_date": "2026-08-04"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 132,
+      "count": 137,
       "latest_date": "2026-08-04"
     },
     {
@@ -139,6 +139,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-독파모-2차-평가-개막-skt-lg-.md",
+        "title": "독파모 2차 평가 개막...SKT·LG·업스테이지·모티프 ‘4파전’",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#korea",
+          "#benchmark",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213512"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-민간-시장-통했다-팔란티어-2분기-영.md",
         "title": "美 민간 시장 통했다…팔란티어, 2분기 영업익 3배↑",
         "importance": 8,
@@ -166,6 +181,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803180656"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-여기어때-구글클라우드와-전사-ai-에.md",
+        "title": "여기어때, 구글클라우드와 전사 AI 에이전트 플랫폼 'YAPP' 구축",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#cloud",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804142147"
       },
       {
         "date": "2026-08-04",
@@ -229,6 +259,36 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-ai-is-helping-grab-s.md",
+        "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
+        "importance": 7,
+        "tags": [
+          "#roi-case",
+          "#enterprise-ai",
+          "#monetization",
+          "#earnings",
+          "#productivity"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-코딩-에이전트-엔비디아-cuda.md",
+        "title": "AI 코딩 에이전트, 엔비디아 'CUDA' 장벽 넘는다... 10시간 만에 호환 SW 개발",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#gpu",
+          "#vendor-lockin",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213508"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-aws-is-helping-vibe-.md",
         "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
         "importance": 7,
@@ -256,6 +316,66 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48186/google-in-india-embeds-ai-into-google-pay?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-오픈ai-컴투스와-세계-첫-게임-개발.md",
+        "title": "오픈AI, 컴투스와 세계 첫 게임 개발 행사…왜 한국인가",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#partnership",
+          "#korea",
+          "#gaming"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804113116"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-agentic-coding-in-th.md",
+        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-framework",
+          "#coding",
+          "#infrastructure",
+          "#benchmark"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00101"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-can-llm-agents-price.md",
+        "title": "Can LLM Agents Price Competitively? A Dynamic Multi-Attribute Auction Benchmark for Agentic Commerce",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agentic-commerce",
+          "#benchmark",
+          "#pricing",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00102"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-findeepindicator-ben.md",
+        "title": "FinDeepIndicator: Benchmarking Deep Research Agents in End-to-End Financial Indicator Construction",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#agent-framework",
+          "#benchmark",
+          "#deep-research"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00764"
       },
       {
         "date": "2026-08-04",
@@ -8156,6 +8276,36 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-독파모-2차-평가-개막-skt-lg-.md",
+        "title": "독파모 2차 평가 개막...SKT·LG·업스테이지·모티프 ‘4파전’",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#korea",
+          "#benchmark",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213512"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-백악관-주요-ai-기업-실무자-소집-.md",
+        "title": "백악관, 주요 AI 기업 실무자 소집...‘자발적 감독 방안’ 최종 검토",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#governance",
+          "#safety-incident",
+          "#frontier-model",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213503"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
         "title": "알리바바, '큐원 3.8 맥스' 공개…키미 K3와 맞대결",
         "importance": 8,
@@ -8231,6 +8381,36 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-agentic-coding-in-th.md",
+        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-framework",
+          "#coding",
+          "#infrastructure",
+          "#benchmark"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00101"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-can-llm-agents-price.md",
+        "title": "Can LLM Agents Price Competitively? A Dynamic Multi-Attribute Auction Benchmark for Agentic Commerce",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agentic-commerce",
+          "#benchmark",
+          "#pricing",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00102"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-구글이-로봇을-제어하는-방법-제미나이.md",
         "title": "구글이 로봇을 제어하는 방법… ‘제미나이 로보틱스2’ 공개",
         "importance": 6,
@@ -8257,6 +8437,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260804104358"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-유재수의-특이점-singularity.md",
+        "title": "[유재수의 특이점(Singularity) 시대] 〈12〉소버린 AI 전략, 어떻게 이해하고 어떤 방식으로 추구돼야 하나?",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#strategy",
+          "#governance",
+          "#industrial-policy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000107"
       },
       {
         "date": "2026-08-03",
@@ -15452,6 +15646,81 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-독파모-2차-평가-개막-skt-lg-.md",
+        "title": "독파모 2차 평가 개막...SKT·LG·업스테이지·모티프 ‘4파전’",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#korea",
+          "#benchmark",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213512"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-로봇-수입금지-중장기-반사이익-기대.md",
+        "title": "美, 中로봇 수입금지…'韓, 중장기 반사이익 기대'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#geopolitics",
+          "#humanoid"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804140653"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-백악관-주요-ai-기업-실무자-소집-.md",
+        "title": "백악관, 주요 AI 기업 실무자 소집...‘자발적 감독 방안’ 최종 검토",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#governance",
+          "#safety-incident",
+          "#frontier-model",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213503"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-디지털-사각지대-없앤다-과기부-.md",
+        "title": "AI·디지털 사각지대 없앤다…과기부·신한금융 협력",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#partnership",
+          "#public-sector",
+          "#digital-inclusion"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804043800017"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-정부사업-모델-gpu-한-곳에-.md",
+        "title": "'AI 정부사업·모델·GPU 한 곳에'...과기정통부, 원스톱 포털 AX360° 개설",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#gpu",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213518"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-ai-활용-음악도-저작권료-받는-길-.md",
         "title": "AI 활용 음악도 저작권료 받는 길 열렸다…음저협 새 기준 시행",
         "importance": 7,
@@ -15512,6 +15781,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-기후부-전력-용수로-ai혁명-뒷받침-.md",
+        "title": "기후부 '전력·용수로 AI혁명 뒷받침'…김성환 'NDC, 재생속도에 달려'",
+        "importance": 7,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#regulation",
+          "#public-sector",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041144154027"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-새만금-현대차-ai-로봇-클러스터-예.md",
         "title": "새만금 현대차 AI·로봇 클러스터 예정 구역, 종합보세구역 지정",
         "importance": 7,
@@ -15554,6 +15838,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260803000184"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-유재수의-특이점-singularity.md",
+        "title": "[유재수의 특이점(Singularity) 시대] 〈12〉소버린 AI 전략, 어떻게 이해하고 어떤 방식으로 추구돼야 하나?",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#strategy",
+          "#governance",
+          "#industrial-policy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000107"
       },
       {
         "date": "2026-08-03",
@@ -23727,6 +24025,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-sk하이닉스-hbm-다음-hbf-표준.md",
+        "title": "SK하이닉스, HBM 다음 'HBF' 표준화 성공 …AI 낸드 시장 선점",
+        "importance": 8,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#standardization",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669926"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
         "title": "개방형 국산 AI 출격…국가대표 4사4색 전략은",
         "importance": 8,
@@ -23757,6 +24070,36 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-독파모-2차-평가-개막-skt-lg-.md",
+        "title": "독파모 2차 평가 개막...SKT·LG·업스테이지·모티프 ‘4파전’",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#korea",
+          "#benchmark",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213512"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-로봇-수입금지-중장기-반사이익-기대.md",
+        "title": "美, 中로봇 수입금지…'韓, 중장기 반사이익 기대'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#geopolitics",
+          "#humanoid"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804140653"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-민간-시장-통했다-팔란티어-2분기-영.md",
         "title": "美 민간 시장 통했다…팔란티어, 2분기 영업익 3배↑",
         "importance": 8,
@@ -23772,6 +24115,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-백악관-주요-ai-기업-실무자-소집-.md",
+        "title": "백악관, 주요 AI 기업 실무자 소집...‘자발적 감독 방안’ 최종 검토",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#governance",
+          "#safety-incident",
+          "#frontier-model",
+          "#compliance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213503"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
         "title": "알리바바, '큐원 3.8 맥스' 공개…키미 K3와 맞대결",
         "importance": 8,
@@ -23784,6 +24142,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803180656"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-여기어때-구글클라우드와-전사-ai-에.md",
+        "title": "여기어때, 구글클라우드와 전사 AI 에이전트 플랫폼 'YAPP' 구축",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#cloud",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804142147"
       },
       {
         "date": "2026-08-04",
@@ -23817,6 +24190,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-제조업-ax-효과-생산성-30-불량률.md",
+        "title": "제조업 AX 효과, 생산성 30% ↑ 불량률 15% ↓",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#manufacturing",
+          "#ai-adoption",
+          "#public-sector",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804133115"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-티오리-우리금융그룹에-ai-모의해킹-.md",
         "title": "티오리, 우리금융그룹에 AI 모의해킹 '진트 웹' 공급",
         "importance": 8,
@@ -23844,6 +24232,51 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260804000002"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-is-helping-grab-s.md",
+        "title": "AI is helping Grab ship products more than 30% faster, CFO says, as company raises forecasts",
+        "importance": 7,
+        "tags": [
+          "#roi-case",
+          "#enterprise-ai",
+          "#monetization",
+          "#earnings",
+          "#productivity"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/04/grab-earnings-ai-forecast-cfo-.html"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-정부사업-모델-gpu-한-곳에-.md",
+        "title": "'AI 정부사업·모델·GPU 한 곳에'...과기정통부, 원스톱 포털 AX360° 개설",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#gpu",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213518"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-코딩-에이전트-엔비디아-cuda.md",
+        "title": "AI 코딩 에이전트, 엔비디아 'CUDA' 장벽 넘는다... 10시간 만에 호환 SW 개발",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#gpu",
+          "#vendor-lockin",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213508"
       },
       {
         "date": "2026-08-04",
@@ -23892,6 +24325,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-lg전자-ai홈-soc-풀-라인업-국.md",
+        "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
+        "importance": 7,
+        "tags": [
+          "#on-device-ai",
+          "#semiconductor",
+          "#supply-chain",
+          "#consumer-ai",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000178"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-trump-s-ai-protectio.md",
         "title": "Trump’s AI protectionism has come for robotics",
         "importance": 7,
@@ -23934,6 +24382,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260803165045"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-기후부-전력-용수로-ai혁명-뒷받침-.md",
+        "title": "기후부 '전력·용수로 AI혁명 뒷받침'…김성환 'NDC, 재생속도에 달려'",
+        "importance": 7,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#regulation",
+          "#public-sector",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041144154027"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-마키나락스-hd한국조선해양-용접-로봇.md",
+        "title": "마키나락스, HD한국조선해양 용접 로봇에 AI 이상탐지 솔루션 탑재",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#anomaly-detection",
+          "#robotics",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213499"
       },
       {
         "date": "2026-08-04",
@@ -23982,6 +24460,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-오픈ai-컴투스와-세계-첫-게임-개발.md",
+        "title": "오픈AI, 컴투스와 세계 첫 게임 개발 행사…왜 한국인가",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#partnership",
+          "#korea",
+          "#gaming"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804113116"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-중국-군사-연구진-미국-ai-모델로-.md",
         "title": "중국 군사 연구진, 미국 AI 모델로 국방 시스템 학습 정황 확인",
         "importance": 7,
@@ -24009,6 +24502,36 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260803000184"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-agentic-coding-in-th.md",
+        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-framework",
+          "#coding",
+          "#infrastructure",
+          "#benchmark"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00101"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-can-llm-agents-price.md",
+        "title": "Can LLM Agents Price Competitively? A Dynamic Multi-Attribute Auction Benchmark for Agentic Commerce",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agentic-commerce",
+          "#benchmark",
+          "#pricing",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00102"
       },
       {
         "date": "2026-08-04",
@@ -24085,6 +24608,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-소부장-인사이트-로봇-두뇌부터-손발까.md",
+        "title": "[소부장 인사이트] 로봇 두뇌부터 손발까지…피지컬 AI 연합군 구축해야",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#foundation-model",
+          "#manufacturing",
+          "#strategy",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000071"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-시스트란-국방-방산-특화-온프레미스-.md",
         "title": "시스트란, 국방·방산 특화 온프레미스 AI 솔루션으로 고보안 시장 공략",
         "importance": 6,
@@ -24097,6 +24635,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260804104358"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-유재수의-특이점-singularity.md",
+        "title": "[유재수의 특이점(Singularity) 시대] 〈12〉소버린 AI 전략, 어떻게 이해하고 어떤 방식으로 추구돼야 하나?",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#strategy",
+          "#governance",
+          "#industrial-policy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000107"
       },
       {
         "date": "2026-08-04",
@@ -42430,6 +42982,51 @@
     "physical_ai_robotics": [
       {
         "date": "2026-08-04",
+        "file": "20260804-로봇-수입금지-중장기-반사이익-기대.md",
+        "title": "美, 中로봇 수입금지…'韓, 중장기 반사이익 기대'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#geopolitics",
+          "#humanoid"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804140653"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-제조업-ax-효과-생산성-30-불량률.md",
+        "title": "제조업 AX 효과, 생산성 30% ↑ 불량률 15% ↓",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#manufacturing",
+          "#ai-adoption",
+          "#public-sector",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804133115"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-lg전자-ai홈-soc-풀-라인업-국.md",
+        "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
+        "importance": 7,
+        "tags": [
+          "#on-device-ai",
+          "#semiconductor",
+          "#supply-chain",
+          "#consumer-ai",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000178"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-trump-s-ai-protectio.md",
         "title": "Trump’s AI protectionism has come for robotics",
         "importance": 7,
@@ -42442,6 +43039,21 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-마키나락스-hd한국조선해양-용접-로봇.md",
+        "title": "마키나락스, HD한국조선해양 용접 로봇에 AI 이상탐지 솔루션 탑재",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#anomaly-detection",
+          "#robotics",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213499"
       },
       {
         "date": "2026-08-04",
@@ -42516,6 +43128,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213492"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-소부장-인사이트-로봇-두뇌부터-손발까.md",
+        "title": "[소부장 인사이트] 로봇 두뇌부터 손발까지…피지컬 AI 연합군 구축해야",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#foundation-model",
+          "#manufacturing",
+          "#strategy",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000071"
       },
       {
         "date": "2026-08-04",
@@ -45579,6 +46206,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-sk하이닉스-hbm-다음-hbf-표준.md",
+        "title": "SK하이닉스, HBM 다음 'HBF' 표준화 성공 …AI 낸드 시장 선점",
+        "importance": 8,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#standardization",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669926"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-네이버-ai팩토리-밑그림-공개-100.md",
         "title": "네이버, AI팩토리 밑그림 공개…'100% 출자' 자회사 설립한다",
         "importance": 8,
@@ -45591,6 +46233,51 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026080323671"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-정부사업-모델-gpu-한-곳에-.md",
+        "title": "'AI 정부사업·모델·GPU 한 곳에'...과기정통부, 원스톱 포털 AX360° 개설",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#gpu",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213518"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-ai-코딩-에이전트-엔비디아-cuda.md",
+        "title": "AI 코딩 에이전트, 엔비디아 'CUDA' 장벽 넘는다... 10시간 만에 호환 SW 개발",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#gpu",
+          "#vendor-lockin",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213508"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-lg전자-ai홈-soc-풀-라인업-국.md",
+        "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
+        "importance": 7,
+        "tags": [
+          "#on-device-ai",
+          "#semiconductor",
+          "#supply-chain",
+          "#consumer-ai",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000178"
       },
       {
         "date": "2026-08-04",
@@ -45609,6 +46296,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-기후부-전력-용수로-ai혁명-뒷받침-.md",
+        "title": "기후부 '전력·용수로 AI혁명 뒷받침'…김성환 'NDC, 재생속도에 달려'",
+        "importance": 7,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#regulation",
+          "#public-sector",
+          "#korea"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608041144154027"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-아마존-시총-3조달러-첫-돌파-ai-.md",
         "title": "아마존, 시총 3조달러 첫 돌파…'AI 승자' 재평가",
         "importance": 7,
@@ -45621,6 +46323,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=669896"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-agentic-coding-in-th.md",
+        "title": "Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-framework",
+          "#coding",
+          "#infrastructure",
+          "#benchmark"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00101"
       },
       {
         "date": "2026-08-04",
@@ -45680,6 +46397,20 @@
         ],
         "source": "한국경제 금융",
         "url": "https://www.hankyung.com/article/202608042867i"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-유재수의-특이점-singularity.md",
+        "title": "[유재수의 특이점(Singularity) 시대] 〈12〉소버린 AI 전략, 어떻게 이해하고 어떤 방식으로 추구돼야 하나?",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#strategy",
+          "#governance",
+          "#industrial-policy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000107"
       },
       {
         "date": "2026-08-04",
@@ -50375,6 +51106,21 @@
       },
       {
         "date": "2026-08-04",
+        "file": "20260804-ai-디지털-사각지대-없앤다-과기부-.md",
+        "title": "AI·디지털 사각지대 없앤다…과기부·신한금융 협력",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#partnership",
+          "#public-sector",
+          "#digital-inclusion"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260804043800017"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-google-in-india-embe.md",
         "title": "Google in India embeds AI into Google Pay",
         "importance": 7,
@@ -50387,6 +51133,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48186/google-in-india-embeds-ai-into-google-pay?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-findeepindicator-ben.md",
+        "title": "FinDeepIndicator: Benchmarking Deep Research Agents in End-to-End Financial Indicator Construction",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#agent-framework",
+          "#benchmark",
+          "#deep-research"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.00764"
       },
       {
         "date": "2026-08-04",
@@ -52995,6 +53756,51 @@
     "physical_ai": [
       {
         "date": "2026-08-04",
+        "file": "20260804-로봇-수입금지-중장기-반사이익-기대.md",
+        "title": "美, 中로봇 수입금지…'韓, 중장기 반사이익 기대'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#robotics",
+          "#supply-chain",
+          "#geopolitics",
+          "#humanoid"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804140653"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-제조업-ax-효과-생산성-30-불량률.md",
+        "title": "제조업 AX 효과, 생산성 30% ↑ 불량률 15% ↓",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#manufacturing",
+          "#ai-adoption",
+          "#public-sector",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260804133115"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-lg전자-ai홈-soc-풀-라인업-국.md",
+        "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
+        "importance": 7,
+        "tags": [
+          "#on-device-ai",
+          "#semiconductor",
+          "#supply-chain",
+          "#consumer-ai",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000178"
+      },
+      {
+        "date": "2026-08-04",
         "file": "20260804-trump-s-ai-protectio.md",
         "title": "Trump’s AI protectionism has come for robotics",
         "importance": 7,
@@ -53007,6 +53813,21 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-마키나락스-hd한국조선해양-용접-로봇.md",
+        "title": "마키나락스, HD한국조선해양 용접 로봇에 AI 이상탐지 솔루션 탑재",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#anomaly-detection",
+          "#robotics",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213499"
       },
       {
         "date": "2026-08-04",
@@ -53081,6 +53902,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213492"
+      },
+      {
+        "date": "2026-08-04",
+        "file": "20260804-소부장-인사이트-로봇-두뇌부터-손발까.md",
+        "title": "[소부장 인사이트] 로봇 두뇌부터 손발까지…피지컬 AI 연합군 구축해야",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#foundation-model",
+          "#manufacturing",
+          "#strategy",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260804000071"
       },
       {
         "date": "2026-08-04",
