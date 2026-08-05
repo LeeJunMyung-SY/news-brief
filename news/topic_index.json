@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-05T03:22:17+00:00",
+  "generated_at": "2026-08-05T07:21:41+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 516,
+      "count": 519,
       "latest_date": "2026-08-05"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 562,
+      "count": 565,
       "latest_date": "2026-08-05"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 584,
+      "count": 590,
       "latest_date": "2026-08-05"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1330,
+      "count": 1341,
       "latest_date": "2026-08-05"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 223,
+      "count": 226,
       "latest_date": "2026-08-05"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 340,
+      "count": 344,
       "latest_date": "2026-08-05"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 193,
+      "count": 195,
       "latest_date": "2026-08-05"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 142,
+      "count": 147,
       "latest_date": "2026-08-05"
     },
     {
@@ -76,6 +76,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-05",
+        "file": "20260805-ai가-가짜-신분으로-사람까지-속여-.md",
+        "title": "'AI가 가짜 신분으로 사람까지 속여'...영국 AISI, 에이전트 기만 보고",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#social-engineering",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213552"
+      },
       {
         "date": "2026-08-05",
         "file": "20260805-cibc-launches-platfo.md",
@@ -153,6 +168,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260804203155"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
+        "title": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#legal-ai",
+          "#chatgpt-enterprise",
+          "#knowledge-work"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213569"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+        "title": "LG 엑사원, 中企 제조현장 '전파'…대기업과 협력사 AI 상생 시동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#exaone",
+          "#agent-framework",
+          "#sme"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000130"
       },
       {
         "date": "2026-08-05",
@@ -8324,6 +8369,21 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+        "title": "LG 엑사원, 中企 제조현장 '전파'…대기업과 협력사 AI 상생 시동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#exaone",
+          "#agent-framework",
+          "#sme"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000130"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-open-weight-ai-model.md",
         "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
         "importance": 7,
@@ -8382,6 +8442,21 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-코히어가-한국에-별도법인-설립하는-이.md",
+        "title": "코히어가 한국에 별도법인 설립하는 이유 '아태 확장 시험대'[현장+]",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#market-entry",
+          "#cohere",
+          "#partnership",
+          "#apac"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670042"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-방미통위-방송영상-ai-학습데이터-1.md",
         "title": "방미통위, 방송영상 AI 학습데이터 117만건 공개",
         "importance": 6,
@@ -8394,6 +8469,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260805061700017"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-성능은-미국-추격했지만-안전장치는-무.md",
+        "title": "'성능은 미국 추격했지만 안전장치는 무방비'…'GLM-5.2' AI 안전성 경고",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#ai-safety",
+          "#china-ai",
+          "#model-evaluation",
+          "#risk-management"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213574"
       },
       {
         "date": "2026-08-04",
@@ -15812,6 +15902,21 @@
     "ai_policy": [
       {
         "date": "2026-08-05",
+        "file": "20260805-ai가-가짜-신분으로-사람까지-속여-.md",
+        "title": "'AI가 가짜 신분으로 사람까지 속여'...영국 AISI, 에이전트 기만 보고",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#governance",
+          "#social-engineering",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213552"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-sumsub-and-sumvin-en.md",
         "title": "Sumsub and Sumvin enalbe AI agents to transact using verified human identity",
         "importance": 8,
@@ -15855,6 +15960,36 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12116546"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-우정사업본부-산은과-1조원-규모-ai.md",
+        "title": "우정사업본부, 산은과 1조원 규모 'AI 인프라 펀드' 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-fund",
+          "#datacenter",
+          "#public-finance",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000212"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-텍사스-전력망-붕괴-우려에-데이터센터.md",
+        "title": "텍사스, 전력망 붕괴 우려에 데이터센터 1800곳 승인 중단",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#power-grid",
+          "#permitting",
+          "#ai-infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213564"
       },
       {
         "date": "2026-08-05",
@@ -15944,6 +16079,21 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-하태경-보험연수원-ai-합작법인-금융.md",
+        "title": "하태경 '보험연수원 AI 합작법인, 금융위 반대로 좌초'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#insurance",
+          "#regulation",
+          "#joint-venture",
+          "#governance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260805098500002"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-the-download-us-robo.md",
         "title": "The Download: US robot restrictions, and ICE’s DNA grab",
         "importance": 6,
@@ -15955,6 +16105,21 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-tta-제조-특화-ax-인증-서비스-.md",
+        "title": "TTA, 제조 특화 AX 인증 서비스 시행",
+        "importance": 6,
+        "tags": [
+          "#certification",
+          "#manufacturing-ai",
+          "#standardization",
+          "#ax",
+          "#quality-assurance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805134907"
       },
       {
         "date": "2026-08-05",
@@ -15985,6 +16150,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260805061700017"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-성능은-미국-추격했지만-안전장치는-무.md",
+        "title": "'성능은 미국 추격했지만 안전장치는 무방비'…'GLM-5.2' AI 안전성 경고",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#ai-safety",
+          "#china-ai",
+          "#model-evaluation",
+          "#risk-management"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213574"
       },
       {
         "date": "2026-08-05",
@@ -24427,6 +24607,21 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
+        "title": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#legal-ai",
+          "#chatgpt-enterprise",
+          "#knowledge-work"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213569"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
         "title": "산업부 'AI 전환 사업장, 생산성 30% 증가'",
         "importance": 8,
@@ -24439,6 +24634,21 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12116546"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-앤트로픽-신생-클라우드-스타트업-볼타.md",
+        "title": "앤트로픽, 신생 클라우드 스타트업 볼타와 14조 규모 컴퓨팅 계약",
+        "importance": 8,
+        "tags": [
+          "#compute-deal",
+          "#neocloud",
+          "#datacenter",
+          "#partnership",
+          "#capex"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213557"
       },
       {
         "date": "2026-08-05",
@@ -24455,6 +24665,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805093817"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-우정사업본부-산은과-1조원-규모-ai.md",
+        "title": "우정사업본부, 산은과 1조원 규모 'AI 인프라 펀드' 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-fund",
+          "#datacenter",
+          "#public-finance",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000212"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-텍사스-전력망-붕괴-우려에-데이터센터.md",
+        "title": "텍사스, 전력망 붕괴 우려에 데이터센터 1800곳 승인 중단",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#power-grid",
+          "#permitting",
+          "#ai-infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213564"
       },
       {
         "date": "2026-08-05",
@@ -24485,6 +24725,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805093504"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+        "title": "LG 엑사원, 中企 제조현장 '전파'…대기업과 협력사 AI 상생 시동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#exaone",
+          "#agent-framework",
+          "#sme"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000130"
       },
       {
         "date": "2026-08-05",
@@ -24589,6 +24844,21 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-삼성-비밀병기-휴머노이드가-움직인다-.md",
+        "title": "삼성 '비밀병기' 휴머노이드가 움직인다...데이터·제조기술·자본 통합",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#samsung",
+          "#physical-ai",
+          "#manufacturing-data"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805115457"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-삼성전자-hbm-배치-구조-혁신-3d.md",
         "title": "삼성전자, HBM 배치 구조 혁신…3D 아키텍처 'zHBM' 첫 선",
         "importance": 7,
@@ -24648,6 +24918,51 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-유럽에-한국-반도체-깔린다-퓨리오사a.md",
+        "title": "'유럽에 한국 반도체 깔린다'...퓨리오사AI, 스웨덴 AI 데이터센터 사업 참여",
+        "importance": 7,
+        "tags": [
+          "#ai-chip",
+          "#datacenter",
+          "#partnership",
+          "#inference",
+          "#global-expansion"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213566"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-코히어가-한국에-별도법인-설립하는-이.md",
+        "title": "코히어가 한국에 별도법인 설립하는 이유 '아태 확장 시험대'[현장+]",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#market-entry",
+          "#cohere",
+          "#partnership",
+          "#apac"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670042"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-hd현대-군함-조선소에-스마트-용접-.md",
+        "title": "HD현대, 美 군함 조선소에 '스마트 용접' 기술 이식",
+        "importance": 6,
+        "tags": [
+          "#smart-factory",
+          "#robotics",
+          "#manufacturing-ai",
+          "#defense",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805141143"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-the-download-us-robo.md",
         "title": "The Download: US robot restrictions, and ICE’s DNA grab",
         "importance": 6,
@@ -24659,6 +24974,21 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-tta-제조-특화-ax-인증-서비스-.md",
+        "title": "TTA, 제조 특화 AX 인증 서비스 시행",
+        "importance": 6,
+        "tags": [
+          "#certification",
+          "#manufacturing-ai",
+          "#standardization",
+          "#ax",
+          "#quality-assurance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805134907"
       },
       {
         "date": "2026-08-05",
@@ -24688,6 +25018,21 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-보스턴다이내믹스-해부-5년-순손실-1.md",
+        "title": "[보스턴다이내믹스 大해부]① '5년 순손실 1조7558억' 처음 공개하는 성적표",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#financials",
+          "#boston-dynamics",
+          "#hyundai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669956"
       },
       {
         "date": "2026-08-05",
@@ -43799,6 +44144,36 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-삼성-비밀병기-휴머노이드가-움직인다-.md",
+        "title": "삼성 '비밀병기' 휴머노이드가 움직인다...데이터·제조기술·자본 통합",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#samsung",
+          "#physical-ai",
+          "#manufacturing-data"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805115457"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-hd현대-군함-조선소에-스마트-용접-.md",
+        "title": "HD현대, 美 군함 조선소에 '스마트 용접' 기술 이식",
+        "importance": 6,
+        "tags": [
+          "#smart-factory",
+          "#robotics",
+          "#manufacturing-ai",
+          "#defense",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805141143"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-the-download-us-robo.md",
         "title": "The Download: US robot restrictions, and ICE’s DNA grab",
         "importance": 6,
@@ -43839,6 +44214,21 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-보스턴다이내믹스-해부-5년-순손실-1.md",
+        "title": "[보스턴다이내믹스 大해부]① '5년 순손실 1조7558억' 처음 공개하는 성적표",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#financials",
+          "#boston-dynamics",
+          "#hyundai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669956"
       },
       {
         "date": "2026-08-05",
@@ -47094,6 +47484,51 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-앤트로픽-신생-클라우드-스타트업-볼타.md",
+        "title": "앤트로픽, 신생 클라우드 스타트업 볼타와 14조 규모 컴퓨팅 계약",
+        "importance": 8,
+        "tags": [
+          "#compute-deal",
+          "#neocloud",
+          "#datacenter",
+          "#partnership",
+          "#capex"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213557"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-우정사업본부-산은과-1조원-규모-ai.md",
+        "title": "우정사업본부, 산은과 1조원 규모 'AI 인프라 펀드' 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-fund",
+          "#datacenter",
+          "#public-finance",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000212"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-텍사스-전력망-붕괴-우려에-데이터센터.md",
+        "title": "텍사스, 전력망 붕괴 우려에 데이터센터 1800곳 승인 중단",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#regulation",
+          "#power-grid",
+          "#permitting",
+          "#ai-infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213564"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-amd-데이터센터-매출-2배-급증-2.md",
         "title": "AMD, 데이터센터 매출 2배 급증…2분기 사상 최대 매출",
         "importance": 7,
@@ -47194,6 +47629,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805085734"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-유럽에-한국-반도체-깔린다-퓨리오사a.md",
+        "title": "'유럽에 한국 반도체 깔린다'...퓨리오사AI, 스웨덴 AI 데이터센터 사업 참여",
+        "importance": 7,
+        "tags": [
+          "#ai-chip",
+          "#datacenter",
+          "#partnership",
+          "#inference",
+          "#global-expansion"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213566"
       },
       {
         "date": "2026-08-05",
@@ -52130,6 +52580,21 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-우정사업본부-산은과-1조원-규모-ai.md",
+        "title": "우정사업본부, 산은과 1조원 규모 'AI 인프라 펀드' 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-fund",
+          "#datacenter",
+          "#public-finance",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000212"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-과기정통부-신한금융-취약계층-ai-역.md",
         "title": "과기정통부·신한금융 '취약계층 AI 역량 강화'",
         "importance": 7,
@@ -52142,6 +52607,21 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12116434"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-하태경-보험연수원-ai-합작법인-금융.md",
+        "title": "하태경 '보험연수원 AI 합작법인, 금융위 반대로 좌초'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#insurance",
+          "#regulation",
+          "#joint-venture",
+          "#governance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260805098500002"
       },
       {
         "date": "2026-08-05",
@@ -54947,6 +55427,51 @@
       },
       {
         "date": "2026-08-05",
+        "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+        "title": "LG 엑사원, 中企 제조현장 '전파'…대기업과 협력사 AI 상생 시동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#exaone",
+          "#agent-framework",
+          "#sme"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260805000130"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-삼성-비밀병기-휴머노이드가-움직인다-.md",
+        "title": "삼성 '비밀병기' 휴머노이드가 움직인다...데이터·제조기술·자본 통합",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#samsung",
+          "#physical-ai",
+          "#manufacturing-data"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805115457"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-hd현대-군함-조선소에-스마트-용접-.md",
+        "title": "HD현대, 美 군함 조선소에 '스마트 용접' 기술 이식",
+        "importance": 6,
+        "tags": [
+          "#smart-factory",
+          "#robotics",
+          "#manufacturing-ai",
+          "#defense",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805141143"
+      },
+      {
+        "date": "2026-08-05",
         "file": "20260805-the-download-us-robo.md",
         "title": "The Download: US robot restrictions, and ICE’s DNA grab",
         "importance": 6,
@@ -54958,6 +55483,21 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-tta-제조-특화-ax-인증-서비스-.md",
+        "title": "TTA, 제조 특화 AX 인증 서비스 시행",
+        "importance": 6,
+        "tags": [
+          "#certification",
+          "#manufacturing-ai",
+          "#standardization",
+          "#ax",
+          "#quality-assurance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805134907"
       },
       {
         "date": "2026-08-05",
@@ -54987,6 +55527,21 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608041817468540"
+      },
+      {
+        "date": "2026-08-05",
+        "file": "20260805-보스턴다이내믹스-해부-5년-순손실-1.md",
+        "title": "[보스턴다이내믹스 大해부]① '5년 순손실 1조7558억' 처음 공개하는 성적표",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robotics",
+          "#financials",
+          "#boston-dynamics",
+          "#hyundai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=669956"
       },
       {
         "date": "2026-08-05",
