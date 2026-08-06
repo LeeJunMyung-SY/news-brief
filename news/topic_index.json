@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-06T00:17:31+00:00",
+  "generated_at": "2026-08-06T03:22:32+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 524,
+      "count": 528,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 572,
+      "count": 578,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 597,
+      "count": 603,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1360,
+      "count": 1375,
       "latest_date": "2026-08-06"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 226,
-      "latest_date": "2026-08-05"
+      "count": 230,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 349,
+      "count": 354,
       "latest_date": "2026-08-06"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 200,
+      "count": 201,
       "latest_date": "2026-08-06"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 148,
+      "count": 153,
       "latest_date": "2026-08-06"
     },
     {
@@ -78,6 +78,21 @@
     "ai_agents": [
       {
         "date": "2026-08-06",
+        "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
+        "title": "KG스틸, SKT 독자 AI모델로 설비 오류 대응 30% 줄였다",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#on-premise",
+          "#manufacturing",
+          "#sovereign-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805230711"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-us-appeals-court-all.md",
         "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
         "importance": 8,
@@ -89,6 +104,36 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-메타-코딩-에이전트-뮤즈-코드-공개-.md",
+        "title": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#model-release",
+          "#enterprise-ai",
+          "#meta"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213590"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-카카오-ai-수익화-내년부터-카톡서-.md",
+        "title": "카카오 'AI 수익화 내년부터...카톡서 '쿠팡이츠' 음식주문·결제 추진'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#agent-commerce",
+          "#partnership",
+          "#kakao",
+          "#on-device-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806094507"
       },
       {
         "date": "2026-08-06",
@@ -104,6 +149,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805205651"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-cj제일제당-식품업계-최초-ai-플랫.md",
+        "title": "CJ제일제당, 식품업계 최초 AI 플랫폼 개발…신제품 개발 지원",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#product-development",
+          "#food-industry",
+          "#in-house-platform"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806058400030"
       },
       {
         "date": "2026-08-06",
@@ -150,6 +210,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
+        "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-risk",
+          "#governance",
+          "#cybersecurity",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090222"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-조원철-법제처장-ai-기반-법제행정-.md",
         "title": "조원철 법제처장 'AI 기반 법제행정 혁신 추진'...법령비서·AI 검색 고도화 본격화",
         "importance": 7,
@@ -162,6 +237,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805172252"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-카카오-ai-에이전트-마켓플레이스-만.md",
+        "title": "카카오, AI 에이전트 마켓플레이스 만든다…과기정통부 사업 수주",
+        "importance": 7,
+        "tags": [
+          "#agent-marketplace",
+          "#gov-project",
+          "#ecosystem",
+          "#kakao",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000176"
       },
       {
         "date": "2026-08-06",
@@ -8470,6 +8560,36 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
+        "title": "KG스틸, SKT 독자 AI모델로 설비 오류 대응 30% 줄였다",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#on-premise",
+          "#manufacturing",
+          "#sovereign-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805230711"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-메타-코딩-에이전트-뮤즈-코드-공개-.md",
+        "title": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#model-release",
+          "#enterprise-ai",
+          "#meta"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213590"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-코히어-한국-법인-설립-소버린-ai로.md",
         "title": "코히어, 한국 법인 설립…'소버린 AI로 비용까지 줄인다'",
         "importance": 8,
@@ -8482,6 +8602,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213578"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
+        "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-risk",
+          "#governance",
+          "#cybersecurity",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090222"
       },
       {
         "date": "2026-08-06",
@@ -8526,6 +8661,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805205738"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-추론하며-스스로-학습하는-ai-skt.md",
+        "title": "'추론하며 스스로 학습하는 AI…SKT 'A.X K2' 경쟁력 키운다'",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#reasoning",
+          "#research-partnership",
+          "#skt",
+          "#test-time-compute"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806092353"
       },
       {
         "date": "2026-08-05",
@@ -16121,6 +16271,36 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-개인정보위-ai-시대-개인정보-제도-.md",
+        "title": "개인정보위, AI 시대 개인정보 제도 개선 착수…국민제안 접수",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#privacy",
+          "#governance",
+          "#compliance",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000161"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
+        "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-risk",
+          "#governance",
+          "#cybersecurity",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090222"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
         "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
         "importance": 7,
@@ -16161,6 +16341,66 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805172252"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-카카오-ai-에이전트-마켓플레이스-만.md",
+        "title": "카카오, AI 에이전트 마켓플레이스 만든다…과기정통부 사업 수주",
+        "importance": 7,
+        "tags": [
+          "#agent-marketplace",
+          "#gov-project",
+          "#ecosystem",
+          "#kakao",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000176"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-포항-ai센터에-6천억-투자-영광-배.md",
+        "title": "포항 AI센터에 6천억 투자…영광 배터리시설엔 1천800억 투입",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#gpu",
+          "#regional-development",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806040400002"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-과기정통부-자율주행차-국제표준화-주도.md",
+        "title": "과기정통부, 자율주행차 국제표준화 주도한다…SDV 표준 제정",
+        "importance": 6,
+        "tags": [
+          "#standardization",
+          "#autonomous-driving",
+          "#sdv",
+          "#regulation",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000053"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-재경차관-메가프로젝트-뒷받침할-소부장.md",
+        "title": "재경차관 '메가프로젝트 뒷받침할 소부장…경쟁력 최고수준으로'",
+        "importance": 6,
+        "tags": [
+          "#industrial-policy",
+          "#supply-chain",
+          "#physical-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806063200002"
       },
       {
         "date": "2026-08-06",
@@ -24835,6 +25075,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
+        "title": "KG스틸, SKT 독자 AI모델로 설비 오류 대응 30% 줄였다",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#on-premise",
+          "#manufacturing",
+          "#sovereign-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805230711"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-skt-2분기-aidc-매출-92-급.md",
         "title": "SKT 2분기 AIDC 매출 92% 급증...'선수요 확보·직접투자 최소 원칙'",
         "importance": 8,
@@ -24864,6 +25119,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-메타-코딩-에이전트-뮤즈-코드-공개-.md",
+        "title": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#model-release",
+          "#enterprise-ai",
+          "#meta"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213590"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-우본-산업은행과-1조원-규모-ai인프.md",
         "title": "우본, 산업은행과 1조원 규모 AI인프라 펀드 조성",
         "importance": 8,
@@ -24876,6 +25146,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805135709"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-카카오-ai-수익화-내년부터-카톡서-.md",
+        "title": "카카오 'AI 수익화 내년부터...카톡서 '쿠팡이츠' 음식주문·결제 추진'",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#agent-commerce",
+          "#partnership",
+          "#kakao",
+          "#on-device-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806094507"
       },
       {
         "date": "2026-08-06",
@@ -24906,6 +25191,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805205651"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-cj제일제당-식품업계-최초-ai-플랫.md",
+        "title": "CJ제일제당, 식품업계 최초 AI 플랫폼 개발…신제품 개발 지원",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#product-development",
+          "#food-industry",
+          "#in-house-platform"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806058400030"
       },
       {
         "date": "2026-08-06",
@@ -24952,6 +25252,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-sk-1조3600억-달러-ai-투자-.md",
+        "title": "'SK 1조3600억 달러 AI 투자, 아태 기술 지형 재편”",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#semiconductor",
+          "#ai-factory",
+          "#sk",
+          "#datacenter"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806102422"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-spacex-s-ambitious-c.md",
         "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
         "importance": 7,
@@ -24966,6 +25281,36 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-개인정보위-ai-시대-개인정보-제도-.md",
+        "title": "개인정보위, AI 시대 개인정보 제도 개선 착수…국민제안 접수",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#privacy",
+          "#governance",
+          "#compliance",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000161"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
+        "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-risk",
+          "#governance",
+          "#cybersecurity",
+          "#meta"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090222"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
         "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
         "importance": 7,
@@ -24977,6 +25322,21 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-우버-딜리버리히어로-품어-100개-시.md",
+        "title": "우버 '딜리버리히어로 품어 100개 시장 진출...자율주행 14조원 투자'",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#autonomous-driving",
+          "#investment",
+          "#platform-strategy",
+          "#uber"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090512"
       },
       {
         "date": "2026-08-06",
@@ -25006,6 +25366,51 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805172252"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-카카오-ai-에이전트-마켓플레이스-만.md",
+        "title": "카카오, AI 에이전트 마켓플레이스 만든다…과기정통부 사업 수주",
+        "importance": 7,
+        "tags": [
+          "#agent-marketplace",
+          "#gov-project",
+          "#ecosystem",
+          "#kakao",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000176"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-포항-ai센터에-6천억-투자-영광-배.md",
+        "title": "포항 AI센터에 6천억 투자…영광 배터리시설엔 1천800억 투입",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#gpu",
+          "#regional-development",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806040400002"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-dl이앤씨-ai-활용-예방-보호-중심.md",
+        "title": "DL이앤씨, AI 활용 예방·보호 중심 안전 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#safety",
+          "#construction",
+          "#computer-vision",
+          "#risk-management"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806038200003"
       },
       {
         "date": "2026-08-06",
@@ -25039,6 +25444,35 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-이동형-데이터센터-며칠-만에-뚝딱-런.md",
+        "title": "이동형 데이터센터, 며칠 만에 뚝딱…런웨어 '소닉 추론 포드' 공개",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#inference",
+          "#modular-infra",
+          "#gpu-cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806100424"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-재경차관-메가프로젝트-뒷받침할-소부장.md",
+        "title": "재경차관 '메가프로젝트 뒷받침할 소부장…경쟁력 최고수준으로'",
+        "importance": 6,
+        "tags": [
+          "#industrial-policy",
+          "#supply-chain",
+          "#physical-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806063200002"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-중국-ai-막으면-미국-기업이-연-1.md",
         "title": "'중국 AI 막으면 미국 기업이 연 17조 원 더 낸다'…조지아공대 추산",
         "importance": 6,
@@ -25050,6 +25484,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805205738"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-추론하며-스스로-학습하는-ai-skt.md",
+        "title": "'추론하며 스스로 학습하는 AI…SKT 'A.X K2' 경쟁력 키운다'",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#reasoning",
+          "#research-partnership",
+          "#skt",
+          "#test-time-compute"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806092353"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-코인-침체에-발목-잡힌-갤럭시-ai-.md",
+        "title": "코인 침체에 발목 잡힌 갤럭시, ‘AI 데이터센터’로 승부",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#pivot",
+          "#gpu-cloud",
+          "#monetization",
+          "#crypto"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12118894"
       },
       {
         "date": "2026-08-05",
@@ -44681,6 +45145,66 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-08-06",
+        "file": "20260806-우버-딜리버리히어로-품어-100개-시.md",
+        "title": "우버 '딜리버리히어로 품어 100개 시장 진출...자율주행 14조원 투자'",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#autonomous-driving",
+          "#investment",
+          "#platform-strategy",
+          "#uber"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090512"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-dl이앤씨-ai-활용-예방-보호-중심.md",
+        "title": "DL이앤씨, AI 활용 예방·보호 중심 안전 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#safety",
+          "#construction",
+          "#computer-vision",
+          "#risk-management"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806038200003"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-과기정통부-자율주행차-국제표준화-주도.md",
+        "title": "과기정통부, 자율주행차 국제표준화 주도한다…SDV 표준 제정",
+        "importance": 6,
+        "tags": [
+          "#standardization",
+          "#autonomous-driving",
+          "#sdv",
+          "#regulation",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000053"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-재경차관-메가프로젝트-뒷받침할-소부장.md",
+        "title": "재경차관 '메가프로젝트 뒷받침할 소부장…경쟁력 최고수준으로'",
+        "importance": 6,
+        "tags": [
+          "#industrial-policy",
+          "#supply-chain",
+          "#physical-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806063200002"
+      },
+      {
         "date": "2026-08-05",
         "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
         "title": "산업부 'AI 전환 사업장, 생산성 30% 증가'",
@@ -48068,6 +48592,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-sk-1조3600억-달러-ai-투자-.md",
+        "title": "'SK 1조3600억 달러 AI 투자, 아태 기술 지형 재편”",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#semiconductor",
+          "#ai-factory",
+          "#sk",
+          "#datacenter"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806102422"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-spacex-s-ambitious-c.md",
         "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
         "importance": 7,
@@ -48079,6 +48618,65 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-포항-ai센터에-6천억-투자-영광-배.md",
+        "title": "포항 AI센터에 6천억 투자…영광 배터리시설엔 1천800억 투입",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#investment",
+          "#gpu",
+          "#regional-development",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806040400002"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-이동형-데이터센터-며칠-만에-뚝딱-런.md",
+        "title": "이동형 데이터센터, 며칠 만에 뚝딱…런웨어 '소닉 추론 포드' 공개",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#inference",
+          "#modular-infra",
+          "#gpu-cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806100424"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-재경차관-메가프로젝트-뒷받침할-소부장.md",
+        "title": "재경차관 '메가프로젝트 뒷받침할 소부장…경쟁력 최고수준으로'",
+        "importance": 6,
+        "tags": [
+          "#industrial-policy",
+          "#supply-chain",
+          "#physical-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806063200002"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-코인-침체에-발목-잡힌-갤럭시-ai-.md",
+        "title": "코인 침체에 발목 잡힌 갤럭시, ‘AI 데이터센터’로 승부",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#pivot",
+          "#gpu-cloud",
+          "#monetization",
+          "#crypto"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12118894"
       },
       {
         "date": "2026-08-05",
@@ -53202,6 +53800,21 @@
         "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
+        "date": "2026-08-06",
+        "file": "20260806-개인정보위-ai-시대-개인정보-제도-.md",
+        "title": "개인정보위, AI 시대 개인정보 제도 개선 착수…국민제안 접수",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#privacy",
+          "#governance",
+          "#compliance",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000161"
+      },
+      {
         "date": "2026-08-05",
         "file": "20260805-cibc-launches-platfo.md",
         "title": "CIBC launches platform to take on advisors' administrative work",
@@ -56114,6 +56727,21 @@
     "physical_ai": [
       {
         "date": "2026-08-06",
+        "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
+        "title": "KG스틸, SKT 독자 AI모델로 설비 오류 대응 30% 줄였다",
+        "importance": 8,
+        "tags": [
+          "#roi-case",
+          "#ai-adoption",
+          "#on-premise",
+          "#manufacturing",
+          "#sovereign-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805230711"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
         "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
         "importance": 7,
@@ -56125,6 +56753,66 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-우버-딜리버리히어로-품어-100개-시.md",
+        "title": "우버 '딜리버리히어로 품어 100개 시장 진출...자율주행 14조원 투자'",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#autonomous-driving",
+          "#investment",
+          "#platform-strategy",
+          "#uber"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806090512"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-dl이앤씨-ai-활용-예방-보호-중심.md",
+        "title": "DL이앤씨, AI 활용 예방·보호 중심 안전 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#safety",
+          "#construction",
+          "#computer-vision",
+          "#risk-management"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806038200003"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-과기정통부-자율주행차-국제표준화-주도.md",
+        "title": "과기정통부, 자율주행차 국제표준화 주도한다…SDV 표준 제정",
+        "importance": 6,
+        "tags": [
+          "#standardization",
+          "#autonomous-driving",
+          "#sdv",
+          "#regulation",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000053"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-재경차관-메가프로젝트-뒷받침할-소부장.md",
+        "title": "재경차관 '메가프로젝트 뒷받침할 소부장…경쟁력 최고수준으로'",
+        "importance": 6,
+        "tags": [
+          "#industrial-policy",
+          "#supply-chain",
+          "#physical-ai",
+          "#datacenter",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260806063200002"
       },
       {
         "date": "2026-08-05",
