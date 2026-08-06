@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-08-05T07:21:41+00:00",
+  "generated_at": "2026-08-06T00:17:31+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 519,
-      "latest_date": "2026-08-05"
+      "count": 524,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 565,
-      "latest_date": "2026-08-05"
+      "count": 572,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 590,
-      "latest_date": "2026-08-05"
+      "count": 597,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1341,
-      "latest_date": "2026-08-05"
+      "count": 1360,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "physical_ai_robotics",
@@ -34,20 +34,20 @@
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 344,
-      "latest_date": "2026-08-05"
+      "count": 349,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 195,
-      "latest_date": "2026-08-05"
+      "count": 200,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 147,
-      "latest_date": "2026-08-05"
+      "count": 148,
+      "latest_date": "2026-08-06"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,108 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-06",
+        "file": "20260806-us-appeals-court-all.md",
+        "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#agentic-commerce",
+          "#litigation",
+          "#precedent"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-ai-에이전트가-10시간-만에-cud.md",
+        "title": "AI 에이전트가 10시간 만에 CUDA 대체 소프트웨어 만들었다",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#nvidia",
+          "#vendor-lock-in",
+          "#migration"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805205651"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-fiserv-and-stuut-par.md",
+        "title": "Fiserv and Stuut partner to bring agentic AI to enterprise receivables",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agentic-ai",
+          "#payments",
+          "#b2b",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-meta-launches-muse-c.md",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#enterprise-ai",
+          "#competition"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-shopify-says-ai-sear.md",
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "importance": 7,
+        "tags": [
+          "#roi-case",
+          "#ai-search",
+          "#ecommerce",
+          "#monetization"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-조원철-법제처장-ai-기반-법제행정-.md",
+        "title": "조원철 법제처장 'AI 기반 법제행정 혁신 추진'...법령비서·AI 검색 고도화 본격화",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#legaltech",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805172252"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-microsoft-ai-exec-te.md",
+        "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#coding",
+          "#cost-efficiency",
+          "#model-strategy",
+          "#microsoft"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html"
+      },
       {
         "date": "2026-08-05",
         "file": "20260805-ai가-가짜-신분으로-사람까지-속여-.md",
@@ -8353,6 +8455,79 @@
     ],
     "llm_models": [
       {
+        "date": "2026-08-06",
+        "file": "20260806-google-deepmind-lose.md",
+        "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#google",
+          "#talent-war",
+          "#leadership"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-코히어-한국-법인-설립-소버린-ai로.md",
+        "title": "코히어, 한국 법인 설립…'소버린 AI로 비용까지 줄인다'",
+        "importance": 8,
+        "tags": [
+          "#market-entry",
+          "#sovereign-ai",
+          "#enterprise-ai",
+          "#korea",
+          "#cost-efficiency"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213578"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-microsoft-ai-exec-te.md",
+        "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#coding",
+          "#cost-efficiency",
+          "#model-strategy",
+          "#microsoft"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-위버스-제미나이-기반-위버스-ai-베.md",
+        "title": "위버스, 제미나이 기반 '위버스 AI' 베타 출시",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#gemini",
+          "#search",
+          "#commerce",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805155040"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-중국-ai-막으면-미국-기업이-연-1.md",
+        "title": "'중국 AI 막으면 미국 기업이 연 17조 원 더 낸다'…조지아공대 추산",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#cost-efficiency",
+          "#regulation",
+          "#us-china"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805205738"
+      },
+      {
         "date": "2026-08-05",
         "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
         "title": "독파모 2차 모델 공개 SKT…김태윤 개발 총괄 '일하는 AI 본격화'",
@@ -15900,6 +16075,107 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-08-06",
+        "file": "20260806-jamie-dimon-recruits.md",
+        "title": "Jamie Dimon recruits bank and IT leaders to tackle AI risks",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#governance",
+          "#risk-management",
+          "#finance",
+          "#org-change"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48202/jamie-dimon-recruits-bank-and-it-leaders-to-tackle-ai-risks?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-us-appeals-court-all.md",
+        "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#agentic-commerce",
+          "#litigation",
+          "#precedent"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-코히어-한국-법인-설립-소버린-ai로.md",
+        "title": "코히어, 한국 법인 설립…'소버린 AI로 비용까지 줄인다'",
+        "importance": 8,
+        "tags": [
+          "#market-entry",
+          "#sovereign-ai",
+          "#enterprise-ai",
+          "#korea",
+          "#cost-efficiency"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213578"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
+        "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
+        "importance": 7,
+        "tags": [
+          "#policy",
+          "#industrial-ai",
+          "#korea",
+          "#transformation"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-이재명-대통령-부처별-ai-결국-통합.md",
+        "title": "이재명 대통령 '부처별 AI, 결국 통합하게 될 것'",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#regulation",
+          "#korea",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805184930"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-조원철-법제처장-ai-기반-법제행정-.md",
+        "title": "조원철 법제처장 'AI 기반 법제행정 혁신 추진'...법령비서·AI 검색 고도화 본격화",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#legaltech",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805172252"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-중국-ai-막으면-미국-기업이-연-1.md",
+        "title": "'중국 AI 막으면 미국 기업이 연 17조 원 더 낸다'…조지아공대 추산",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#cost-efficiency",
+          "#regulation",
+          "#us-china"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805205738"
+      },
       {
         "date": "2026-08-05",
         "file": "20260805-ai가-가짜-신분으로-사람까지-속여-.md",
@@ -24498,6 +24774,283 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-08-06",
+        "file": "20260806-rabobank-to-invest-2.md",
+        "title": "Rabobank to invest €2 billion in building IT framework for AI",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#investment",
+          "#data-platform",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48194/rabobank-to-invest-2-billion-in-building-it-framework-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-구글-앤트로픽-tpu-공급-위해-사상.md",
+        "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#structured-finance",
+          "#partnership",
+          "#tpu"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213565"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-google-deepmind-lose.md",
+        "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#google",
+          "#talent-war",
+          "#leadership"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-jamie-dimon-recruits.md",
+        "title": "Jamie Dimon recruits bank and IT leaders to tackle AI risks",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#governance",
+          "#risk-management",
+          "#finance",
+          "#org-change"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48202/jamie-dimon-recruits-bank-and-it-leaders-to-tackle-ai-risks?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-skt-2분기-aidc-매출-92-급.md",
+        "title": "SKT 2분기 AIDC 매출 92% 급증...'선수요 확보·직접투자 최소 원칙'",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#roi-case",
+          "#korea",
+          "#capex",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213541"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-us-appeals-court-all.md",
+        "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#agentic-commerce",
+          "#litigation",
+          "#precedent"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-우본-산업은행과-1조원-규모-ai인프.md",
+        "title": "우본, 산업은행과 1조원 규모 AI인프라 펀드 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#finance",
+          "#datacenter",
+          "#korea",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805135709"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-코히어-한국-법인-설립-소버린-ai로.md",
+        "title": "코히어, 한국 법인 설립…'소버린 AI로 비용까지 줄인다'",
+        "importance": 8,
+        "tags": [
+          "#market-entry",
+          "#sovereign-ai",
+          "#enterprise-ai",
+          "#korea",
+          "#cost-efficiency"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213578"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-ai-에이전트가-10시간-만에-cud.md",
+        "title": "AI 에이전트가 10시간 만에 CUDA 대체 소프트웨어 만들었다",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#nvidia",
+          "#vendor-lock-in",
+          "#migration"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805205651"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-fiserv-and-stuut-par.md",
+        "title": "Fiserv and Stuut partner to bring agentic AI to enterprise receivables",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agentic-ai",
+          "#payments",
+          "#b2b",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-meta-launches-muse-c.md",
+        "title": "Meta launches Muse Code, an AI agent for large code bases",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#enterprise-ai",
+          "#competition"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-shopify-says-ai-sear.md",
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "importance": 7,
+        "tags": [
+          "#roi-case",
+          "#ai-search",
+          "#ecommerce",
+          "#monetization"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-spacex-s-ambitious-c.md",
+        "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+        "importance": 7,
+        "tags": [
+          "#gpu-supply",
+          "#datacenter",
+          "#capex",
+          "#nvidia"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
+        "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
+        "importance": 7,
+        "tags": [
+          "#policy",
+          "#industrial-ai",
+          "#korea",
+          "#transformation"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-이재명-대통령-부처별-ai-결국-통합.md",
+        "title": "이재명 대통령 '부처별 AI, 결국 통합하게 될 것'",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#regulation",
+          "#korea",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805184930"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-조원철-법제처장-ai-기반-법제행정-.md",
+        "title": "조원철 법제처장 'AI 기반 법제행정 혁신 추진'...법령비서·AI 검색 고도화 본격화",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#legaltech",
+          "#agent-framework",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805172252"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-microsoft-ai-exec-te.md",
+        "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#coding",
+          "#cost-efficiency",
+          "#model-strategy",
+          "#microsoft"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-위버스-제미나이-기반-위버스-ai-베.md",
+        "title": "위버스, 제미나이 기반 '위버스 AI' 베타 출시",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#gemini",
+          "#search",
+          "#commerce",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805155040"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-중국-ai-막으면-미국-기업이-연-1.md",
+        "title": "'중국 AI 막으면 미국 기업이 연 17조 원 더 낸다'…조지아공대 추산",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#cost-efficiency",
+          "#regulation",
+          "#us-china"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805205738"
+      },
       {
         "date": "2026-08-05",
         "file": "20260805-anthropic-locks-in-1.md",
@@ -47454,6 +48007,80 @@
     ],
     "ai_compute_energy": [
       {
+        "date": "2026-08-06",
+        "file": "20260806-구글-앤트로픽-tpu-공급-위해-사상.md",
+        "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#structured-finance",
+          "#partnership",
+          "#tpu"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213565"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-skt-2분기-aidc-매출-92-급.md",
+        "title": "SKT 2분기 AIDC 매출 92% 급증...'선수요 확보·직접투자 최소 원칙'",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#roi-case",
+          "#korea",
+          "#capex",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213541"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-우본-산업은행과-1조원-규모-ai인프.md",
+        "title": "우본, 산업은행과 1조원 규모 AI인프라 펀드 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#finance",
+          "#datacenter",
+          "#korea",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805135709"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-ai-에이전트가-10시간-만에-cud.md",
+        "title": "AI 에이전트가 10시간 만에 CUDA 대체 소프트웨어 만들었다",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#nvidia",
+          "#vendor-lock-in",
+          "#migration"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805205651"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-spacex-s-ambitious-c.md",
+        "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+        "importance": 7,
+        "tags": [
+          "#gpu-supply",
+          "#datacenter",
+          "#capex",
+          "#nvidia"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/"
+      },
+      {
         "date": "2026-08-05",
         "file": "20260805-anthropic-locks-in-1.md",
         "title": "Anthropic locks in $10 billion of compute from Volta, a cloud startup that didn't exist six months ago",
@@ -52500,6 +53127,81 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-08-06",
+        "file": "20260806-rabobank-to-invest-2.md",
+        "title": "Rabobank to invest €2 billion in building IT framework for AI",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#investment",
+          "#data-platform",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48194/rabobank-to-invest-2-billion-in-building-it-framework-for-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-구글-앤트로픽-tpu-공급-위해-사상.md",
+        "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#structured-finance",
+          "#partnership",
+          "#tpu"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213565"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-jamie-dimon-recruits.md",
+        "title": "Jamie Dimon recruits bank and IT leaders to tackle AI risks",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#governance",
+          "#risk-management",
+          "#finance",
+          "#org-change"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48202/jamie-dimon-recruits-bank-and-it-leaders-to-tackle-ai-risks?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-우본-산업은행과-1조원-규모-ai인프.md",
+        "title": "우본, 산업은행과 1조원 규모 AI인프라 펀드 조성",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#finance",
+          "#datacenter",
+          "#korea",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260805135709"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-fiserv-and-stuut-par.md",
+        "title": "Fiserv and Stuut partner to bring agentic AI to enterprise receivables",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#agentic-ai",
+          "#payments",
+          "#b2b",
+          "#finance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
         "date": "2026-08-05",
         "file": "20260805-cibc-launches-platfo.md",
         "title": "CIBC launches platform to take on advisors' administrative work",
@@ -55410,6 +56112,20 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-08-06",
+        "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
+        "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
+        "importance": 7,
+        "tags": [
+          "#policy",
+          "#industrial-ai",
+          "#korea",
+          "#transformation"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202608060828068737"
+      },
       {
         "date": "2026-08-05",
         "file": "20260805-산업부-ai-전환-사업장-생산성-30.md",
