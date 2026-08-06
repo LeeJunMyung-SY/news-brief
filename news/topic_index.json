@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-08-06T03:22:32+00:00",
+  "generated_at": "2026-08-06T07:36:01+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 528,
+      "count": 533,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 578,
+      "count": 587,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 603,
+      "count": 608,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1375,
+      "count": 1391,
       "latest_date": "2026-08-06"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 230,
+      "count": 233,
       "latest_date": "2026-08-06"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 354,
+      "count": 360,
       "latest_date": "2026-08-06"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 201,
+      "count": 204,
       "latest_date": "2026-08-06"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 153,
+      "count": 156,
       "latest_date": "2026-08-06"
     },
     {
@@ -78,6 +78,21 @@
     "ai_agents": [
       {
         "date": "2026-08-06",
+        "file": "20260806-카카오-카톡서-쿠팡이츠-주문-결제까지.md",
+        "title": "카카오, 카톡서 쿠팡이츠 주문·결제까지…'에이전틱 AI' 생태계 확장",
+        "importance": 9,
+        "tags": [
+          "#agentic-ai",
+          "#partnership",
+          "#ai-adoption",
+          "#monetization",
+          "#platform"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213612"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
         "title": "KG스틸, SKT 독자 AI모델로 설비 오류 대응 30% 줄였다",
         "importance": 8,
@@ -104,6 +119,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-구글-떠난-제프-딘-과학-연구-자동화.md",
+        "title": "구글 떠난 제프 딘, 과학 연구 자동화 스타트업 설립...'RSI 구축 목표'",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#startup",
+          "#talent-war",
+          "#research-automation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213599"
       },
       {
         "date": "2026-08-06",
@@ -210,6 +239,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-구글-코딩-강화-위해-스타트업-메카나.md",
+        "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 2조 인수 논의",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#acqui-hire",
+          "#coding",
+          "#licensing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213606"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
         "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
         "importance": 7,
@@ -222,6 +265,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260806090222"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-메타도-사이버-보안-테스트-중-무단-.md",
+        "title": "메타도 사이버 보안 테스트 중 무단 외부 접속...'격리망 구성 오류 탓'",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#sandbox",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213602"
       },
       {
         "date": "2026-08-06",
@@ -240,6 +297,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-직원-7000명이-직접-써보고-고쳐-.md",
+        "title": "'직원 7000명이 직접 써보고 고쳐'… 메타의 AI 코딩 성능 향상 비결",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#coding",
+          "#enterprise-ai",
+          "#org-change",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213614"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-카카오-ai-에이전트-마켓플레이스-만.md",
         "title": "카카오, AI 에이전트 마켓플레이스 만든다…과기정통부 사업 수주",
         "importance": 7,
@@ -252,6 +324,62 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260806000176"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-euroexec-frontier-la.md",
+        "title": "EuroExec: Frontier Language Models Fall Short of Expert Judgment on European Executive Decision Tasks",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#decision-making",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04549"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-finprobench-evaluati.md",
+        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#finance",
+          "#agent-evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04077"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-finreportbench-measu.md",
+        "title": "FinReportBench: Measuring and Improving Institution-Grade Financial Report Generation",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#finance",
+          "#report-generation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04374"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-finrpt-dataset-evalu.md",
+        "title": "FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#securities",
+          "#multi-agent"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2511.07322"
       },
       {
         "date": "2026-08-06",
@@ -8546,6 +8674,20 @@
     "llm_models": [
       {
         "date": "2026-08-06",
+        "file": "20260806-구글-ai-리더십-재편-허사비스-수석.md",
+        "title": "구글 AI 리더십 재편…허사비스 수석과학자로·딥마인드는 상용화 집중",
+        "importance": 9,
+        "tags": [
+          "#org-change",
+          "#leadership",
+          "#big-tech",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213594"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-google-deepmind-lose.md",
         "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
         "importance": 8,
@@ -8605,6 +8747,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-google-is-expanding-.md",
+        "title": "Google is expanding its AI empire — and losing the people who built it",
+        "importance": 7,
+        "tags": [
+          "#big-tech",
+          "#org-change",
+          "#cloud",
+          "#talent-war"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
         "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
         "importance": 7,
@@ -8617,6 +8773,48 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260806090222"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-엔비디아-자율주행용-vla-모델-알파.md",
+        "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#autonomous-driving",
+          "#open-weights",
+          "#vla"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213616"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-euroexec-frontier-la.md",
+        "title": "EuroExec: Frontier Language Models Fall Short of Expert Judgment on European Executive Decision Tasks",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#decision-making",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04549"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-finreportbench-measu.md",
+        "title": "FinReportBench: Measuring and Improving Institution-Grade Financial Report Generation",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#finance",
+          "#report-generation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04374"
       },
       {
         "date": "2026-08-06",
@@ -16256,6 +16454,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-아마존-죽스-라스베이거스서-운전대-없.md",
+        "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
+        "importance": 8,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213618"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-코히어-한국-법인-설립-소버린-ai로.md",
         "title": "코히어, 한국 법인 설립…'소버린 AI로 비용까지 줄인다'",
         "importance": 8,
@@ -16268,6 +16480,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213578"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-ai수석-전략위-리더-공백-장기화-글.md",
+        "title": "AI수석·전략위 리더 공백 장기화…“글로벌 3강 구심점 부재”",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#government",
+          "#korea",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000307"
       },
       {
         "date": "2026-08-06",
@@ -16301,6 +16527,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-메타도-사이버-보안-테스트-중-무단-.md",
+        "title": "메타도 사이버 보안 테스트 중 무단 외부 접속...'격리망 구성 오류 탓'",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#sandbox",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213602"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
         "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
         "importance": 7,
@@ -16312,6 +16552,20 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-삼성-sk하이닉스-중국산-반도체-장비.md",
+        "title": "'삼성·SK하이닉스,  중국산 반도체 장비 시험 평가'...양사는 공식 부인",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#supply-chain",
+          "#export-control",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213608"
       },
       {
         "date": "2026-08-06",
@@ -16371,6 +16625,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260806040400002"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-ai-데이터센터-특수라더니-25-관세.md",
+        "title": "AI 데이터센터 특수라더니…美 25% 관세에 韓 전선업계 '빨간불'",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#tariff",
+          "#supply-chain",
+          "#korea"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608068587i"
       },
       {
         "date": "2026-08-06",
@@ -25031,6 +25299,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-구글-ai-리더십-재편-허사비스-수석.md",
+        "title": "구글 AI 리더십 재편…허사비스 수석과학자로·딥마인드는 상용화 집중",
+        "importance": 9,
+        "tags": [
+          "#org-change",
+          "#leadership",
+          "#big-tech",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213594"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-구글-앤트로픽-tpu-공급-위해-사상.md",
         "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
         "importance": 9,
@@ -25043,6 +25325,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213565"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-카카오-카톡서-쿠팡이츠-주문-결제까지.md",
+        "title": "카카오, 카톡서 쿠팡이츠 주문·결제까지…'에이전틱 AI' 생태계 확장",
+        "importance": 9,
+        "tags": [
+          "#agentic-ai",
+          "#partnership",
+          "#ai-adoption",
+          "#monetization",
+          "#platform"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213612"
       },
       {
         "date": "2026-08-06",
@@ -25119,6 +25416,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-구글-떠난-제프-딘-과학-연구-자동화.md",
+        "title": "구글 떠난 제프 딘, 과학 연구 자동화 스타트업 설립...'RSI 구축 목표'",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#startup",
+          "#talent-war",
+          "#research-automation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213599"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-메타-코딩-에이전트-뮤즈-코드-공개-.md",
         "title": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화",
         "importance": 8,
@@ -25131,6 +25442,34 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213590"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-아마존-죽스-라스베이거스서-운전대-없.md",
+        "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
+        "importance": 8,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213618"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-앤트로픽-클로드-전용-ai-칩-자체-.md",
+        "title": "앤트로픽, '클로드' 전용 AI 칩 자체 개발 공식화…실리콘 팀 구축 착수",
+        "importance": 8,
+        "tags": [
+          "#custom-silicon",
+          "#ai-infra",
+          "#vertical-integration",
+          "#org-change"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213600"
       },
       {
         "date": "2026-08-06",
@@ -25194,6 +25533,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-ai수석-전략위-리더-공백-장기화-글.md",
+        "title": "AI수석·전략위 리더 공백 장기화…“글로벌 3강 구심점 부재”",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#government",
+          "#korea",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000307"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-cj제일제당-식품업계-최초-ai-플랫.md",
         "title": "CJ제일제당, 식품업계 최초 AI 플랫폼 개발…신제품 개발 지원",
         "importance": 7,
@@ -25221,6 +25574,34 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/110583/fiserv-and-stuut-partner-to-bring-agentic-ai-to-enterprise-receivables?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-google-is-expanding-.md",
+        "title": "Google is expanding its AI empire — and losing the people who built it",
+        "importance": 7,
+        "tags": [
+          "#big-tech",
+          "#org-change",
+          "#cloud",
+          "#talent-war"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-lgu-aidc에-2조-투자-외부-조.md",
+        "title": "LGU+, AIDC에 2조 투자…“외부 조달 없이 단계적 확장”",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#capex",
+          "#ai-infra",
+          "#telco"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000339"
       },
       {
         "date": "2026-08-06",
@@ -25296,6 +25677,34 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-구글-코딩-강화-위해-스타트업-메카나.md",
+        "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 2조 인수 논의",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#acqui-hire",
+          "#coding",
+          "#licensing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213606"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-머스크-엔비디아-칩만-사용-선언에-휘.md",
+        "title": "머스크 '엔비디아 칩만 사용' 선언에 휘청...AMD, 리사 수 발언에 반등",
+        "importance": 7,
+        "tags": [
+          "#gpu",
+          "#ai-infra",
+          "#procurement",
+          "#market-reaction"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213610"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-메타-ai도-인터넷-접속해-외부-시스.md",
         "title": "메타 AI도 인터넷 접속해 외부 시스템 침입…시험 환경 설정 오류",
         "importance": 7,
@@ -25322,6 +25731,34 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-삼성-sk하이닉스-중국산-반도체-장비.md",
+        "title": "'삼성·SK하이닉스,  중국산 반도체 장비 시험 평가'...양사는 공식 부인",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#supply-chain",
+          "#export-control",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213608"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-엔비디아-자율주행용-vla-모델-알파.md",
+        "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#autonomous-driving",
+          "#open-weights",
+          "#vla"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213616"
       },
       {
         "date": "2026-08-06",
@@ -25369,6 +25806,21 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-직원-7000명이-직접-써보고-고쳐-.md",
+        "title": "'직원 7000명이 직접 써보고 고쳐'… 메타의 AI 코딩 성능 향상 비결",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#coding",
+          "#enterprise-ai",
+          "#org-change",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213614"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-카카오-ai-에이전트-마켓플레이스-만.md",
         "title": "카카오, AI 에이전트 마켓플레이스 만든다…과기정통부 사업 수주",
         "importance": 7,
@@ -25399,6 +25851,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-ai-데이터센터-특수라더니-25-관세.md",
+        "title": "AI 데이터센터 특수라더니…美 25% 관세에 韓 전선업계 '빨간불'",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#tariff",
+          "#supply-chain",
+          "#korea"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608068587i"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-dl이앤씨-ai-활용-예방-보호-중심.md",
         "title": "DL이앤씨, AI 활용 예방·보호 중심 안전 생태계 구축",
         "importance": 6,
@@ -25414,6 +25880,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-euroexec-frontier-la.md",
+        "title": "EuroExec: Frontier Language Models Fall Short of Expert Judgment on European Executive Decision Tasks",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#decision-making",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04549"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-microsoft-ai-exec-te.md",
         "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part of efficiency push",
         "importance": 6,
@@ -25426,6 +25906,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/08/05/microsoft-makes-openai-gpt-5point6-sol-default-in-github-copilot-for-staff.html"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-니어스랩-ai-자율비행-드론으로-ip.md",
+        "title": "니어스랩, AI 자율비행 드론으로 IPO '출사표' [현장+]",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#drone",
+          "#physical-ai",
+          "#commercialization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670207"
       },
       {
         "date": "2026-08-06",
@@ -45146,6 +45640,34 @@
     "physical_ai_robotics": [
       {
         "date": "2026-08-06",
+        "file": "20260806-아마존-죽스-라스베이거스서-운전대-없.md",
+        "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
+        "importance": 8,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213618"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-엔비디아-자율주행용-vla-모델-알파.md",
+        "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#autonomous-driving",
+          "#open-weights",
+          "#vla"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213616"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-우버-딜리버리히어로-품어-100개-시.md",
         "title": "우버 '딜리버리히어로 품어 100개 시장 진출...자율주행 14조원 투자'",
         "importance": 7,
@@ -45188,6 +45710,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260806000053"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-니어스랩-ai-자율비행-드론으로-ip.md",
+        "title": "니어스랩, AI 자율비행 드론으로 IPO '출사표' [현장+]",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#drone",
+          "#physical-ai",
+          "#commercialization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670207"
       },
       {
         "date": "2026-08-06",
@@ -48562,6 +49098,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-앤트로픽-클로드-전용-ai-칩-자체-.md",
+        "title": "앤트로픽, '클로드' 전용 AI 칩 자체 개발 공식화…실리콘 팀 구축 착수",
+        "importance": 8,
+        "tags": [
+          "#custom-silicon",
+          "#ai-infra",
+          "#vertical-integration",
+          "#org-change"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213600"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-우본-산업은행과-1조원-규모-ai인프.md",
         "title": "우본, 산업은행과 1조원 규모 AI인프라 펀드 조성",
         "importance": 8,
@@ -48589,6 +49139,34 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260805205651"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-google-is-expanding-.md",
+        "title": "Google is expanding its AI empire — and losing the people who built it",
+        "importance": 7,
+        "tags": [
+          "#big-tech",
+          "#org-change",
+          "#cloud",
+          "#talent-war"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/05/google-is-expanding-its-ai-empire-and-losing-the-people-who-built-it.html"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-lgu-aidc에-2조-투자-외부-조.md",
+        "title": "LGU+, AIDC에 2조 투자…“외부 조달 없이 단계적 확장”",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#capex",
+          "#ai-infra",
+          "#telco"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000339"
       },
       {
         "date": "2026-08-06",
@@ -48621,6 +49199,34 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-머스크-엔비디아-칩만-사용-선언에-휘.md",
+        "title": "머스크 '엔비디아 칩만 사용' 선언에 휘청...AMD, 리사 수 발언에 반등",
+        "importance": 7,
+        "tags": [
+          "#gpu",
+          "#ai-infra",
+          "#procurement",
+          "#market-reaction"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213610"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-삼성-sk하이닉스-중국산-반도체-장비.md",
+        "title": "'삼성·SK하이닉스,  중국산 반도체 장비 시험 평가'...양사는 공식 부인",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#supply-chain",
+          "#export-control",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213608"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-포항-ai센터에-6천억-투자-영광-배.md",
         "title": "포항 AI센터에 6천억 투자…영광 배터리시설엔 1천800억 투입",
         "importance": 7,
@@ -48633,6 +49239,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260806040400002"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-ai-데이터센터-특수라더니-25-관세.md",
+        "title": "AI 데이터센터 특수라더니…美 25% 관세에 韓 전선업계 '빨간불'",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#tariff",
+          "#supply-chain",
+          "#korea"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608068587i"
       },
       {
         "date": "2026-08-06",
@@ -53815,6 +54435,48 @@
         "url": "https://www.etnews.com/20260806000161"
       },
       {
+        "date": "2026-08-06",
+        "file": "20260806-finprobench-evaluati.md",
+        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#finance",
+          "#agent-evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04077"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-finreportbench-measu.md",
+        "title": "FinReportBench: Measuring and Improving Institution-Grade Financial Report Generation",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#finance",
+          "#report-generation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.04374"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-finrpt-dataset-evalu.md",
+        "title": "FinRpt: Dataset, Evaluation System and LLM-based Multi-agent Framework for Equity Research Report Generation",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#securities",
+          "#multi-agent"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2511.07322"
+      },
+      {
         "date": "2026-08-05",
         "file": "20260805-cibc-launches-platfo.md",
         "title": "CIBC launches platform to take on advisors' administrative work",
@@ -56742,6 +57404,20 @@
       },
       {
         "date": "2026-08-06",
+        "file": "20260806-아마존-죽스-라스베이거스서-운전대-없.md",
+        "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
+        "importance": 8,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213618"
+      },
+      {
+        "date": "2026-08-06",
         "file": "20260806-반도체-넘어-전-산업-ai-전환-정부.md",
         "title": "반도체 넘어 전 산업 AI 전환…정부, 경제구조 혁신 시동",
         "importance": 7,
@@ -56753,6 +57429,20 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202608060828068737"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-엔비디아-자율주행용-vla-모델-알파.md",
+        "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#autonomous-driving",
+          "#open-weights",
+          "#vla"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213616"
       },
       {
         "date": "2026-08-06",
@@ -56798,6 +57488,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260806000053"
+      },
+      {
+        "date": "2026-08-06",
+        "file": "20260806-니어스랩-ai-자율비행-드론으로-ip.md",
+        "title": "니어스랩, AI 자율비행 드론으로 IPO '출사표' [현장+]",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#drone",
+          "#physical-ai",
+          "#commercialization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670207"
       },
       {
         "date": "2026-08-06",
