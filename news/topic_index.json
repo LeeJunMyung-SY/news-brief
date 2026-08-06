@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-08-06T07:36:01+00:00",
+  "generated_at": "2026-08-06T23:30:40+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 533,
-      "latest_date": "2026-08-06"
+      "count": 539,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 587,
-      "latest_date": "2026-08-06"
+      "count": 593,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 608,
-      "latest_date": "2026-08-06"
+      "count": 613,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 1391,
-      "latest_date": "2026-08-06"
+      "count": 1411,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 233,
-      "latest_date": "2026-08-06"
+      "count": 238,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 360,
-      "latest_date": "2026-08-06"
+      "count": 365,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 204,
-      "latest_date": "2026-08-06"
+      "count": 210,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 156,
-      "latest_date": "2026-08-06"
+      "count": 161,
+      "latest_date": "2026-08-07"
     },
     {
       "key": "ai_hardware",
@@ -76,6 +76,96 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-07",
+        "file": "20260807-openai-reportedly-sl.md",
+        "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#openai",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ai-kill-switch-bill-.md",
+        "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#legislation",
+          "#safety-incident",
+          "#kill-switch",
+          "#governance"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ex-nubank-cto-raises.md",
+        "title": "Ex-Nubank CTO raises $85m for AI-native wealth advisory platform",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#wealth-management",
+          "#finance",
+          "#ai-native",
+          "#fintech"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48205/ex-nubank-cto-raises-85m-for-ai-native-wealth-advisory-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-scotiabank-equips-em.md",
+        "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#knowledge-management",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
+        "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...'자체 시스템 먼저 해킹·정보 공유까지'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#blackhat",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213624"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-카카오-쿠팡이츠-손잡고-ai-수익화-.md",
+        "title": "카카오, '쿠팡이츠' 손잡고 AI 수익화 시동",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#agentic-commerce",
+          "#kakao",
+          "#partnership",
+          "#b2c-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670240"
+      },
       {
         "date": "2026-08-06",
         "file": "20260806-카카오-카톡서-쿠팡이츠-주문-결제까지.md",
@@ -8673,6 +8763,95 @@
     ],
     "llm_models": [
       {
+        "date": "2026-08-07",
+        "file": "20260807-abn-amro-signs-front.md",
+        "title": "ABN Amro signs frontier AI deal with Mistral AI",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#frontier-model",
+          "#mistral"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-amd-buys-chip-startu.md",
+        "title": "AMD buys chip startup that hardwires AI models into its silicon",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#ai-chip",
+          "#amd",
+          "#inference",
+          "#hardware"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-improving-gpt-5-6-so.md",
+        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#monetization",
+          "#enterprise-ai",
+          "#openai"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-microsoft-s-ai-reven.md",
+        "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#microsoft",
+          "#openai",
+          "#vendor-lock-in",
+          "#revenue"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-the-messy-politics-b.md",
+        "title": "The messy politics behind Google’s big AI shakeup",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#google",
+          "#deepmind",
+          "#leadership",
+          "#talent-war"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-딥시크-초저가-정책-접나-ai-서비스.md",
+        "title": "딥시크, 초저가 정책 접나…AI 서비스 가격 '대폭' 인상 예고",
+        "importance": 8,
+        "tags": [
+          "#pricing",
+          "#monetization",
+          "#deepseek",
+          "#china-ai",
+          "#cost-structure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213632"
+      },
+      {
         "date": "2026-08-06",
         "file": "20260806-구글-ai-리더십-재편-허사비스-수석.md",
         "title": "구글 AI 리더십 재편…허사비스 수석과학자로·딥마인드는 상용화 집중",
@@ -16423,6 +16602,81 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-08-07",
+        "file": "20260807-openai-reportedly-sl.md",
+        "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#openai",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ai-kill-switch-bill-.md",
+        "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#legislation",
+          "#safety-incident",
+          "#kill-switch",
+          "#governance"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
+        "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...'자체 시스템 먼저 해킹·정보 공유까지'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#blackhat",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213624"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국산-npu-확산에-600억원-투입-.md",
+        "title": "국산 NPU 확산에 600억원 투입…피지컬AI 실증 본격화",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#npu",
+          "#government-project",
+          "#robotics",
+          "#on-device"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806183150"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-오픈ai-법무부에-46억원-낸다-미국.md",
+        "title": "오픈AI, 美 법무부에 46억원 낸다…'미국인 대신 비자 소지자 우대'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#hiring",
+          "#compliance",
+          "#openai",
+          "#settlement"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806203633"
+      },
       {
         "date": "2026-08-06",
         "file": "20260806-jamie-dimon-recruits.md",
@@ -25282,6 +25536,305 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-08-07",
+        "file": "20260807-abn-amro-signs-front.md",
+        "title": "ABN Amro signs frontier AI deal with Mistral AI",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#frontier-model",
+          "#mistral"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-openai-reportedly-sl.md",
+        "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#openai",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ai-kill-switch-bill-.md",
+        "title": "'AI Kill Switch' bill needs to be passed this year amid ongoing rogue agent hacks, Rep. Lieu says",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#legislation",
+          "#safety-incident",
+          "#kill-switch",
+          "#governance"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/06/ai-kill-switch-bill-openai-anthropic-meta.html"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-amd-buys-chip-startu.md",
+        "title": "AMD buys chip startup that hardwires AI models into its silicon",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#ai-chip",
+          "#amd",
+          "#inference",
+          "#hardware"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-banco-sabadell-puts-.md",
+        "title": "Banco Sabadell puts AI at the centre of business overhaul",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#banking",
+          "#ai-adoption",
+          "#transformation",
+          "#relationship-banking"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110595/banco-sabadell-puts-ai-at-the-centre-of-business-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ex-nubank-cto-raises.md",
+        "title": "Ex-Nubank CTO raises $85m for AI-native wealth advisory platform",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#wealth-management",
+          "#finance",
+          "#ai-native",
+          "#fintech"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48205/ex-nubank-cto-raises-85m-for-ai-native-wealth-advisory-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-improving-gpt-5-6-so.md",
+        "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+        "importance": 8,
+        "tags": [
+          "#model-release",
+          "#monetization",
+          "#enterprise-ai",
+          "#openai"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-microsoft-s-ai-reven.md",
+        "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#microsoft",
+          "#openai",
+          "#vendor-lock-in",
+          "#revenue"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-scotiabank-equips-em.md",
+        "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#knowledge-management",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-the-messy-politics-b.md",
+        "title": "The messy politics behind Google’s big AI shakeup",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#google",
+          "#deepmind",
+          "#leadership",
+          "#talent-war"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-딥시크-초저가-정책-접나-ai-서비스.md",
+        "title": "딥시크, 초저가 정책 접나…AI 서비스 가격 '대폭' 인상 예고",
+        "importance": 8,
+        "tags": [
+          "#pricing",
+          "#monetization",
+          "#deepseek",
+          "#china-ai",
+          "#cost-structure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213632"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-스페이스x-테슬라-텍사스-테라팹-건설.md",
+        "title": "스페이스X·테슬라, 텍사스 테라팹 건설 초기에 168억달러 투자",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-chip",
+          "#vertical-integration",
+          "#datacenter",
+          "#tesla"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670307"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
+        "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...'자체 시스템 먼저 해킹·정보 공유까지'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#blackhat",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213624"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-카카오-쿠팡이츠-손잡고-ai-수익화-.md",
+        "title": "카카오, '쿠팡이츠' 손잡고 AI 수익화 시동",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#agentic-commerce",
+          "#kakao",
+          "#partnership",
+          "#b2c-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670240"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
+        "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#lg",
+          "#nvidia",
+          "#ai-infrastructure",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000414"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국산-npu-확산에-600억원-투입-.md",
+        "title": "국산 NPU 확산에 600억원 투입…피지컬AI 실증 본격화",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#npu",
+          "#government-project",
+          "#robotics",
+          "#on-device"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806183150"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-오픈ai-법무부에-46억원-낸다-미국.md",
+        "title": "오픈AI, 美 법무부에 46억원 낸다…'미국인 대신 비자 소지자 우대'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#hiring",
+          "#compliance",
+          "#openai",
+          "#settlement"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806203633"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-니어스랩-코스닥-출사표-국내-1호-피.md",
+        "title": "니어스랩, 코스닥 출사표...'국내 1호 피지컬 AI 드론으로 방산 시장 공략'",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#physical-ai",
+          "#drone",
+          "#defense",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213635"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-포항을-제조-ax-글로벌-거점으로-포.md",
+        "title": "“포항을 '제조 AX' 글로벌 거점으로”…포항TP, 한·중 '피지컬 AI' 글로벌 협력 속도",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#partnership",
+          "#manufacturing",
+          "#regional-cluster",
+          "#china-cooperation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000394"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-하태진-버넥트-대표-제조-ax-열쇠는.md",
+        "title": "하태진 버넥트 대표 '제조 AX 열쇠는 AI 안경…안전·로봇까지 확장'",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#xr",
+          "#b2b",
+          "#smart-glasses"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213579"
+      },
       {
         "date": "2026-08-06",
         "file": "20260806-rabobank-to-invest-2.md",
@@ -45639,6 +46192,81 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-08-07",
+        "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
+        "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#lg",
+          "#nvidia",
+          "#ai-infrastructure",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000414"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국산-npu-확산에-600억원-투입-.md",
+        "title": "국산 NPU 확산에 600억원 투입…피지컬AI 실증 본격화",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#npu",
+          "#government-project",
+          "#robotics",
+          "#on-device"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806183150"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-니어스랩-코스닥-출사표-국내-1호-피.md",
+        "title": "니어스랩, 코스닥 출사표...'국내 1호 피지컬 AI 드론으로 방산 시장 공략'",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#physical-ai",
+          "#drone",
+          "#defense",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213635"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-포항을-제조-ax-글로벌-거점으로-포.md",
+        "title": "“포항을 '제조 AX' 글로벌 거점으로”…포항TP, 한·중 '피지컬 AI' 글로벌 협력 속도",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#partnership",
+          "#manufacturing",
+          "#regional-cluster",
+          "#china-cooperation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000394"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-하태진-버넥트-대표-제조-ax-열쇠는.md",
+        "title": "하태진 버넥트 대표 '제조 AX 열쇠는 AI 안경…안전·로봇까지 확장'",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#xr",
+          "#b2b",
+          "#smart-glasses"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213579"
+      },
+      {
         "date": "2026-08-06",
         "file": "20260806-아마존-죽스-라스베이거스서-운전대-없.md",
         "title": "아마존 죽스, 라스베이거스서 '운전대 없는' 로보택시 첫 유료 운행 개시",
@@ -49066,6 +49694,81 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-08-07",
+        "file": "20260807-amd-buys-chip-startu.md",
+        "title": "AMD buys chip startup that hardwires AI models into its silicon",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#ai-chip",
+          "#amd",
+          "#inference",
+          "#hardware"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-딥시크-초저가-정책-접나-ai-서비스.md",
+        "title": "딥시크, 초저가 정책 접나…AI 서비스 가격 '대폭' 인상 예고",
+        "importance": 8,
+        "tags": [
+          "#pricing",
+          "#monetization",
+          "#deepseek",
+          "#china-ai",
+          "#cost-structure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213632"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-스페이스x-테슬라-텍사스-테라팹-건설.md",
+        "title": "스페이스X·테슬라, 텍사스 테라팹 건설 초기에 168억달러 투자",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-chip",
+          "#vertical-integration",
+          "#datacenter",
+          "#tesla"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670307"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
+        "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#lg",
+          "#nvidia",
+          "#ai-infrastructure",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000414"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국산-npu-확산에-600억원-투입-.md",
+        "title": "국산 NPU 확산에 600억원 투입…피지컬AI 실증 본격화",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#npu",
+          "#government-project",
+          "#robotics",
+          "#on-device"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806183150"
+      },
       {
         "date": "2026-08-06",
         "file": "20260806-구글-앤트로픽-tpu-공급-위해-사상.md",
@@ -54345,6 +55048,96 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-08-07",
+        "file": "20260807-abn-amro-signs-front.md",
+        "title": "ABN Amro signs frontier AI deal with Mistral AI",
+        "importance": 9,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#partnership",
+          "#frontier-model",
+          "#mistral"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48203/abn-amro-signs-frontier-ai-deal-with-mistral-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-openai-reportedly-sl.md",
+        "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+        "importance": 9,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#openai",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-banco-sabadell-puts-.md",
+        "title": "Banco Sabadell puts AI at the centre of business overhaul",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#banking",
+          "#ai-adoption",
+          "#transformation",
+          "#relationship-banking"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110595/banco-sabadell-puts-ai-at-the-centre-of-business-overhaul?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ex-nubank-cto-raises.md",
+        "title": "Ex-Nubank CTO raises $85m for AI-native wealth advisory platform",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#wealth-management",
+          "#finance",
+          "#ai-native",
+          "#fintech"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48205/ex-nubank-cto-raises-85m-for-ai-native-wealth-advisory-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-scotiabank-equips-em.md",
+        "title": "Scotiabank equips employees with AI-powered knowledge agents through Scotia Intelligence",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#agent-framework",
+          "#knowledge-management",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/pressarticle/110594/scotiabank-equips-employees-with-ai-powered-knowledge-agents-through-scotia-intelligence?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
+        "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...'자체 시스템 먼저 해킹·정보 공유까지'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#blackhat",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213624"
+      },
+      {
         "date": "2026-08-06",
         "file": "20260806-rabobank-to-invest-2.md",
         "title": "Rabobank to invest €2 billion in building IT framework for AI",
@@ -57387,6 +58180,81 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-08-07",
+        "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
+        "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#lg",
+          "#nvidia",
+          "#ai-infrastructure",
+          "#robotics"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000414"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국산-npu-확산에-600억원-투입-.md",
+        "title": "국산 NPU 확산에 600억원 투입…피지컬AI 실증 본격화",
+        "importance": 7,
+        "tags": [
+          "#physical-ai",
+          "#npu",
+          "#government-project",
+          "#robotics",
+          "#on-device"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260806183150"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-니어스랩-코스닥-출사표-국내-1호-피.md",
+        "title": "니어스랩, 코스닥 출사표...'국내 1호 피지컬 AI 드론으로 방산 시장 공략'",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#physical-ai",
+          "#drone",
+          "#defense",
+          "#commercialization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213635"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-포항을-제조-ax-글로벌-거점으로-포.md",
+        "title": "“포항을 '제조 AX' 글로벌 거점으로”…포항TP, 한·중 '피지컬 AI' 글로벌 협력 속도",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#partnership",
+          "#manufacturing",
+          "#regional-cluster",
+          "#china-cooperation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260806000394"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-하태진-버넥트-대표-제조-ax-열쇠는.md",
+        "title": "하태진 버넥트 대표 '제조 AX 열쇠는 AI 안경…안전·로봇까지 확장'",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#manufacturing",
+          "#xr",
+          "#b2b",
+          "#smart-glasses"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213579"
+      },
       {
         "date": "2026-08-06",
         "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
