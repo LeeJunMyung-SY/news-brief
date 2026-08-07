@@ -112,7 +112,6 @@ const state = {
   topicBrief: null,         // news/topics/<key>.md — { frontmatter, body } | null
   dailyIssues: null,        // news/issues/daily/<date>.json | null
   weeklyIssues: null,       // news/issues/weekly/<week>.json | null
-  topicWeeklyIssues: null,  // 토픽 상세용: [{week, issues:[...]}] (최근 4주, 해당 토픽 필터)
   selectedTopics: new Set(),
   activeTags: new Set(),
   tagQuery: "",
@@ -529,30 +528,41 @@ async function loadAndRenderDaily() {
 }
 
 // ─────────── Key issues (핵심이슈) 렌더 헬퍼 ───────────
-function issueArticleLinksHtml(articles) {
+// 구성 원칙 (2026-08-07 v2): ① 맨 위 큰 흐름 요약 → ② 이슈 타이틀 + 의미요약 →
+// ③ 해당 뉴스 헤드라인&링크 (헤드라인이 곧 개별 뉴스 내용이므로 본문에서 반복하지 않음)
+function issueHeadlinesHtml(articles) {
   return (articles || [])
     .map((a) => {
       if (a.file) {
-        return `<a href="#" data-article-link="${escapeHtml(a.file)}"` +
-          `${a.date ? ` data-article-date="${escapeHtml(a.date)}"` : ""}>${escapeHtml(a.title || a.file)}</a>`;
+        return `<li><a href="#" data-article-link="${escapeHtml(a.file)}"` +
+          `${a.date ? ` data-article-date="${escapeHtml(a.date)}"` : ""}>${escapeHtml(a.title || a.file)}</a></li>`;
       }
       if (a.url) {
-        return `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title || a.url)} ↗</a>`;
+        return `<li><a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title || a.url)} ↗</a></li>`;
       }
       return "";
     })
     .filter(Boolean)
-    .join('<span class="sep" aria-hidden="true">·</span>');
+    .join("");
+}
+
+function issuesListHtml(issues, bodyKey) {
+  return (issues || []).map((it) => {
+    const body = it[bodyKey] || it.one_line || "";
+    const headlines = issueHeadlinesHtml(it.articles);
+    return `
+    <li>
+      <div class="issue-head"><strong>${escapeHtml(it.title)}</strong></div>
+      ${body ? `<p class="issue-body">${escapeHtml(body)}</p>` : ""}
+      ${headlines ? `<ul class="issue-headlines">${headlines}</ul>` : ""}
+    </li>`;
+  }).join("");
 }
 
 function buildDailyIssuesBox(di) {
   const box = document.createElement("section");
   box.className = "issues-box";
-  const items = (di.issues || []).map((it) => `
-    <li>
-      <div class="issue-head"><strong>${escapeHtml(it.title)}</strong>${it.one_line ? `<span class="issue-oneline"> — ${escapeHtml(it.one_line)}</span>` : ""}</div>
-      ${it.articles?.length ? `<div class="issue-links">${issueArticleLinksHtml(it.articles)}</div>` : ""}
-    </li>`).join("");
+  const items = issuesListHtml(di.issues, "summary_ko");
   box.innerHTML = `
     <div class="issues-title">오늘의 핵심이슈</div>
     ${di.summary_ko ? `<p class="issues-summary">${escapeHtml(di.summary_ko)}</p>` : ""}
@@ -564,15 +574,10 @@ function buildDailyIssuesBox(di) {
 function buildWeeklyIssuesBox(wi) {
   const box = document.createElement("section");
   box.className = "issues-box";
-  const items = (wi.issues || []).map((it) => `
-    <li>
-      <div class="issue-head"><strong>${escapeHtml(it.title)}</strong></div>
-      ${it.body_ko ? `<p class="issue-body">${escapeHtml(it.body_ko)}</p>` : ""}
-      ${it.articles?.length ? `<div class="issue-links">${issueArticleLinksHtml(it.articles)}</div>` : ""}
-    </li>`).join("");
+  const items = issuesListHtml(wi.issues, "body_ko");
   box.innerHTML = `
     <div class="issues-title">이번 주 핵심이슈</div>
-    ${items ? `<ul class="issues-list weekly">${items}</ul>` : ""}
+    ${items ? `<ul class="issues-list">${items}</ul>` : ""}
   `;
   return box;
 }
@@ -1259,19 +1264,7 @@ async function openTopicDetail(key) {
   try {
     if (!state.topicIndex) state.topicIndex = await loadTopicIndex();
     state.topicKey = key;
-    // 최근 4주 주간 핵심이슈 → 해당 토픽 이슈만 필터 (토픽 히스토리)
-    const recentWeeks = (state.manifest.weekly || []).slice(0, 4).map((w) => w.week);
-    const [brief, ...weekIssueResults] = await Promise.all([
-      loadTopicBrief(key), // 없으면 null (기사 목록만 표시)
-      ...recentWeeks.map((w) => loadWeeklyIssues(w)),
-    ]);
-    state.topicBrief = brief;
-    state.topicWeeklyIssues = recentWeeks
-      .map((week, i) => ({
-        week,
-        issues: (weekIssueResults[i]?.issues || []).filter((it) => (it.topics || []).includes(key)),
-      }))
-      .filter((x) => x.issues.length > 0);
+    state.topicBrief = await loadTopicBrief(key); // 없으면 null (히스토리만 표시)
   } catch (err) {
     console.error(err);
     showFatalError(err);
@@ -1318,26 +1311,8 @@ function renderTopicDetail() {
   `;
   root.appendChild(meta);
 
-  // 핵심이슈 (최근 4주) — 주간 핵심이슈 중 이 토픽에 해당하는 것을 주차별 접이식으로.
-  if (state.topicWeeklyIssues?.length) {
-    const box = document.createElement("section");
-    box.className = "issues-box";
-    const weeksHtml = state.topicWeeklyIssues.map(({ week, issues }, i) => `
-      <details${i === 0 ? " open" : ""}>
-        <summary>${escapeHtml(week)} <span class="count">${issues.length}</span></summary>
-        <ul class="issues-list weekly">${issues.map((it) => `
-          <li>
-            <div class="issue-head"><strong>${escapeHtml(it.title)}</strong></div>
-            ${it.body_ko ? `<p class="issue-body">${escapeHtml(it.body_ko)}</p>` : ""}
-            ${it.articles?.length ? `<div class="issue-links">${issueArticleLinksHtml(it.articles)}</div>` : ""}
-          </li>`).join("")}
-        </ul>
-      </details>`).join("");
-    box.innerHTML = `<div class="issues-title">핵심이슈 (최근 4주)</div>${weeksHtml}`;
-    root.appendChild(box);
-  }
-
-  // 종합 동향 (agent topic_briefs → news/topics/<key>.md). H1은 메타카드와 중복이라 제거.
+  // ① 종합 동향 — 날짜/회차 구분 없는 통합 요약 (news/topics/<key>.md 단일 본문).
+  //    H1은 메타카드와 중복이라 제거.
   if (state.topicBrief?.body) {
     const briefEl = document.createElement("section");
     briefEl.className = "theme-bullet prose-ko topic-brief";
@@ -1346,53 +1321,54 @@ function renderTopicDetail() {
     root.appendChild(briefEl);
   }
 
+  // ② 토픽 히스토리 — 전체가 하나의 접이식. 날짜별로 (핵심이슈 요약 → 기사 헤드라인).
+  //    기사는 카드 대신 헤드라인 링크로만 표시 (클릭 → 기사 모달).
   const filtered = items.filter(topicArticlePassesFilters);
-  if (!filtered.length) {
+  const issuesByDate = new Map(); // date -> [{title, summary}]
+  ((state.topicIndex?.daily_issues || {})[key] || []).forEach((it) => {
+    if (!issuesByDate.has(it.date)) issuesByDate.set(it.date, []);
+    issuesByDate.get(it.date).push(it);
+  });
+  const articlesByDate = new Map(); // date -> [article] (인덱스가 이미 날짜 desc → importance desc)
+  filtered.forEach((it) => {
+    if (!articlesByDate.has(it.date)) articlesByDate.set(it.date, []);
+    articlesByDate.get(it.date).push(it);
+  });
+  const dates = [...new Set([...articlesByDate.keys(), ...issuesByDate.keys()])].sort().reverse();
+
+  if (!dates.length) {
     root.appendChild(emptyEl(items.length ? "필터 조건에 맞는 기사가 없습니다." : "아직 이 토픽으로 분류된 기사가 없습니다. 다음 회차부터 축적됩니다.", items.length > 0));
     bindArticleLinks(root);
     return;
   }
 
-  // 날짜별 그룹 (인덱스가 이미 날짜 desc → importance desc 정렬)
-  const byDate = new Map();
-  filtered.forEach((it) => {
-    if (!byDate.has(it.date)) byDate.set(it.date, []);
-    byDate.get(it.date).push(it);
-  });
-  byDate.forEach((arts, date) => {
-    const sectionEl = document.createElement("section");
-    sectionEl.className = "topic-section";
-    setTopicColor(sectionEl, key);
-    const head = document.createElement("div");
-    head.className = "section-head";
-    head.innerHTML = `<h2>${escapeHtml(date)}</h2><span class="count">${arts.length}</span>`;
-    sectionEl.appendChild(head);
-    const list = document.createElement("div");
-    list.className = "card-list";
-    arts.forEach((it) => {
-      const card = buildArticleCard({
-        title: it.title || it.file,
-        articleFile: it.file,
-        sourceUrl: it.url || null,
-        summary: "",
-        tags: it.tags || [],
-      }, key, { badge: it.source || "", articleDate: it.date });
-      // importance 는 topic_index 에 이미 있으므로 즉시 채움 (frontmatter fetch 불필요)
-      if (it.importance != null) {
-        const slot = card.querySelector("[data-importance-slot]");
-        if (slot) {
-          const v = importanceVisual(it.importance);
-          slot.classList.add("importance", v.cls);
-          slot.innerHTML = `<span class="dots" aria-hidden="true">${v.dots}</span><span class="num">${escapeHtml(String(it.importance))}</span>`;
-          slot.setAttribute("aria-label", `중요도 ${it.importance} / 10`);
-          card.dataset.importance = String(it.importance);
-        }
-      }
-      list.appendChild(card);
-    });
-    sectionEl.appendChild(list);
-    root.appendChild(sectionEl);
-  });
+  const historyBox = document.createElement("section");
+  historyBox.className = "issues-box topic-history";
+  setTopicColor(historyBox, key);
+  const daysHtml = dates.map((date) => {
+    const dayIssues = issuesByDate.get(date) || [];
+    const dayArticles = articlesByDate.get(date) || [];
+    const issuesHtml = dayIssues.map((it) => `
+      <div class="history-issue">
+        <strong>${escapeHtml(it.title)}</strong>${it.summary ? ` — <span>${escapeHtml(it.summary)}</span>` : ""}
+      </div>`).join("");
+    const headlines = issueHeadlinesHtml(dayArticles.map((a) => ({
+      date: a.date, file: a.file, title: a.title, url: a.url,
+    })));
+    return `
+      <div class="history-day">
+        <div class="history-date">${escapeHtml(date)} <span class="count">${dayArticles.length}</span></div>
+        ${issuesHtml}
+        ${headlines ? `<ul class="issue-headlines">${headlines}</ul>` : ""}
+      </div>`;
+  }).join("");
+  historyBox.innerHTML = `
+    <details open>
+      <summary>토픽 히스토리 <span class="count">${dates.length}일</span></summary>
+      <div class="history-days">${daysHtml}</div>
+    </details>
+  `;
+  root.appendChild(historyBox);
 
   bindArticleLinks(root);
 }

@@ -6,43 +6,105 @@
   "issues": [
     {
       "title": "글로벌 금융권, 도입에서 구조 개편으로",
-      "one_line": "ABN-미스트랄 공동개발, 스코샤 전직원 에이전트, 사바델 AI 중심 조직개편",
-      "topics": ["금융회사 AI"],
+      "summary_ko": "글로벌 은행들의 움직임이 '어느 은행이 AI를 쓰나'에서 '어느 은행이 AI 중심으로 조직을 다시 짜나'로 바뀌었다. 프런티어 모델 공동 개발과 전 직원 에이전트 배포는 AI 역량의 내재화 경쟁이 시작됐음을 뜻하며, 국내 금융사에도 같은 질문이 던져질 것이다.",
+      "topics": [
+        "금융회사 AI"
+      ],
       "articles": [
-        {"date": "2026-08-07", "file": "20260807-abn-amro-signs-front.md", "title": "ABN Amro, 미스트랄과 프런티어 AI 개발 계약"},
-        {"date": "2026-08-07", "file": "20260807-scotiabank-equips-em.md", "title": "스코샤은행, 전 직원에 AI 지식 에이전트 배포"},
-        {"date": "2026-08-07", "file": "20260807-banco-sabadell-puts-.md", "title": "방코 사바델, AI 중심 조직 개편 단행"},
-        {"date": "2026-08-07", "file": "20260807-ex-nubank-cto-raises.md", "title": "前누뱅크 CTO, AI 자산관리에 8500만달러 유치"}
+        {
+          "date": "2026-08-07",
+          "file": "20260807-abn-amro-signs-front.md",
+          "title": "ABN Amro, 미스트랄과 프런티어 AI 개발 계약"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-scotiabank-equips-em.md",
+          "title": "스코샤은행, 전 직원에 AI 지식 에이전트 배포"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-banco-sabadell-puts-.md",
+          "title": "방코 사바델, AI 중심 조직 개편 단행"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-ex-nubank-cto-raises.md",
+          "title": "前누뱅크 CTO, AI 자산관리에 8500만달러 유치"
+        }
       ]
     },
     {
       "title": "에이전트 보안 사고의 입법 국면",
-      "one_line": "오픈AI 해킹 공모 드러나 연구 속도조절, 美 'AI 킬 스위치' 법안 연내 통과론",
-      "topics": ["ai_policy", "ai_agents"],
+      "summary_ko": "에이전트 보안 사고가 반복 실증되면서 대응이 개별 기업의 보안 문제에서 입법 차원으로 넘어갔다. 킬 스위치·감사 로그가 법제화되면 에이전트 도입 기업의 설계 요건이 소급 변경될 수 있어 선제 반영이 유리하다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
       "articles": [
-        {"date": "2026-08-07", "file": "20260807-openai-reportedly-sl.md", "title": "오픈AI 에이전트들 자체 해킹 공모…연구속도 조절"},
-        {"date": "2026-08-07", "file": "20260807-ai-kill-switch-bill-.md", "title": "美 의원 'AI 킬 스위치 법안 연내 통과해야'"},
-        {"date": "2026-08-07", "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md", "title": "오픈AI, 자체 에이전트 해킹 전말 블랙햇서 공개"}
+        {
+          "date": "2026-08-07",
+          "file": "20260807-openai-reportedly-sl.md",
+          "title": "오픈AI 에이전트들 자체 해킹 공모…연구속도 조절"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-ai-kill-switch-bill-.md",
+          "title": "美 의원 'AI 킬 스위치 법안 연내 통과해야'"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
+          "title": "오픈AI, 자체 에이전트 해킹 전말 블랙햇서 공개"
+        }
       ]
     },
     {
       "title": "AI 칩 수직통합 가속",
-      "one_line": "AMD 탈라스 인수, 스페이스X·테슬라 168억달러 테라팹, 구광모-젠슨 황 재회동",
-      "topics": ["ai_compute_energy"],
+      "summary_ko": "칩-모델-인프라의 수직통합이 전방위로 가속되고 있다. 컴퓨트 확보 경쟁이 반도체 제조 단계까지 내려가면서, 인프라 종속성 관리가 AI 전략의 장기 변수로 굳어지고 있다.",
+      "topics": [
+        "ai_compute_energy"
+      ],
       "articles": [
-        {"date": "2026-08-07", "file": "20260807-amd-buys-chip-startu.md", "title": "AMD, 모델을 칩에 새기는 스타트업 탈라스 인수"},
-        {"date": "2026-08-07", "file": "20260807-스페이스x-테슬라-텍사스-테라팹-건설.md", "title": "스페이스X·테슬라, AI칩 단지에 168억달러 투자"},
-        {"date": "2026-08-07", "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md", "title": "구광모, 내주 실리콘밸리서 젠슨 황과 재회동"}
+        {
+          "date": "2026-08-07",
+          "file": "20260807-amd-buys-chip-startu.md",
+          "title": "AMD, 모델을 칩에 새기는 스타트업 탈라스 인수"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-스페이스x-테슬라-텍사스-테라팹-건설.md",
+          "title": "스페이스X·테슬라, AI칩 단지에 168억달러 투자"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
+          "title": "구광모, 내주 실리콘밸리서 젠슨 황과 재회동"
+        }
       ]
     },
     {
       "title": "모델 가격 재편의 신호",
-      "one_line": "딥시크 인상 예고, MS AI매출 70% 오픈AI 의존, GPT-5.6 무료 개방 확대",
-      "topics": ["llm_models", "ai_industry"],
+      "summary_ko": "초저가 전략의 원조가 가격 인상으로 돌아서면서 모델 가격의 바닥 다지기가 시작됐다. 특정 벤더 의존(MS-오픈AI 70%)의 리스크가 드러난 만큼, 가격 변동기에는 멀티모델 전략의 가치가 커진다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
       "articles": [
-        {"date": "2026-08-07", "file": "20260807-딥시크-초저가-정책-접나-ai-서비스.md", "title": "딥시크, AI 서비스 가격 대폭 인상 예고"},
-        {"date": "2026-08-07", "file": "20260807-microsoft-s-ai-reven.md", "title": "MS AI매출 70%가 오픈AI 의존…241억달러 규모"},
-        {"date": "2026-08-07", "file": "20260807-improving-gpt-5-6-so.md", "title": "오픈AI, GPT-5.6 Sol 개선·무료 개방 확대"}
+        {
+          "date": "2026-08-07",
+          "file": "20260807-딥시크-초저가-정책-접나-ai-서비스.md",
+          "title": "딥시크, AI 서비스 가격 대폭 인상 예고"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-microsoft-s-ai-reven.md",
+          "title": "MS AI매출 70%가 오픈AI 의존…241억달러 규모"
+        },
+        {
+          "date": "2026-08-07",
+          "file": "20260807-improving-gpt-5-6-so.md",
+          "title": "오픈AI, GPT-5.6 Sol 개선·무료 개방 확대"
+        }
       ]
     }
   ]

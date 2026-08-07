@@ -672,6 +672,53 @@ input, select, textarea { font: inherit; color: inherit; }
   margin-left: 4px;
 }
 .issues-box details > .issues-list { margin-top: 6px; }
+.issues-box .issue-headlines {
+  list-style: none;
+  margin: 6px 0 0;
+  padding: 0 0 0 2px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+.issues-box .issue-headlines li {
+  font-size: 12.5px;
+  line-height: 1.5;
+  padding-left: 12px;
+  position: relative;
+}
+.issues-box .issue-headlines li::before {
+  content: "·";
+  position: absolute;
+  left: 2px;
+  color: var(--text-muted);
+}
+.issues-box .issue-headlines a { color: var(--accent); text-decoration: none; }
+.issues-box .issue-headlines a:hover { text-decoration: underline; }
+
+/* 토픽 히스토리 (날짜별 이슈 요약 + 헤드라인) */
+.topic-history .history-days {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 8px;
+}
+.topic-history .history-day {
+  border-top: 1px solid var(--border);
+  padding-top: 10px;
+}
+.topic-history .history-day:first-child { border-top: none; padding-top: 4px; }
+.topic-history .history-date {
+  font-size: 13px;
+  font-weight: 650;
+  color: var(--topic-fg, var(--text-primary));
+  margin-bottom: 4px;
+}
+.topic-history .history-issue {
+  font-size: 13px;
+  line-height: 1.6;
+  margin: 4px 0;
+}
+.topic-history .history-issue span { color: var(--text-secondary); }
 .meta-card .topic-desc {
   font-size: 13px;
   color: var(--text-secondary);
