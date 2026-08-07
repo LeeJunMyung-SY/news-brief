@@ -682,6 +682,98 @@ def update_topic_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, 
     return written
 
 
+def update_key_issues(evaluations_data: dict, selected: list[tuple[dict, dict]],
+                      run_id: str, now_kst: _dt.datetime, date_str: str) -> tuple[int, int]:
+    """agent 의 key_issues_daily / key_issues_weekly → news/issues/{daily,weekly}/*.json.
+
+    기사 참조는 두 형식 허용:
+      - "article_urls": 이번 회차 selected 기사 url → {date, file, title} 로 해석.
+        selected 에 없으면(중복 제거 탈락 등) {url} 만 보존 — 뷰어가 외부 링크로 처리.
+      - "articles": 기존 이슈에서 승계된 {date, file, title} 항목 그대로.
+
+    파일은 매 회차 전체 교체 — agent 가 issues_context 를 보고 통합본을 생성하는 설계.
+    스키마 누락 시 (0, 0) 반환하고 기존 파일은 건드리지 않는다.
+    Returns: (일간 이슈 수, 주간 이슈 수)
+    """
+    daily = evaluations_data.get("key_issues_daily") or {}
+    weekly = evaluations_data.get("key_issues_weekly") or {}
+    if not daily and not weekly:
+        return (0, 0)
+
+    ymd = date_str.replace("-", "")
+    url_map: dict[str, dict] = {}
+    for a, _e in selected:
+        slug = C.slugify(a.get("title", ""), 20)
+        url_map[str(a.get("url", ""))] = {
+            "date": date_str, "file": f"{ymd}-{slug}.md", "title": a.get("title", ""),
+        }
+
+    def resolve_articles(issue: dict) -> list[dict]:
+        out: list[dict] = []
+        for ref in issue.get("articles", []) or []:
+            if isinstance(ref, dict) and ref.get("file"):
+                out.append({"date": ref.get("date", date_str),
+                            "file": ref["file"], "title": ref.get("title", "")})
+        for u in issue.get("article_urls", []) or []:
+            m = url_map.get(str(u))
+            if m:
+                out.append(dict(m))
+            else:
+                out.append({"url": str(u), "title": ""})
+        seen: set[str] = set()
+        deduped: list[dict] = []
+        for r in out:
+            k = r.get("file") or r.get("url") or ""
+            if k and k not in seen:
+                seen.add(k)
+                deduped.append(r)
+        return deduped
+
+    def normalize_issues(raw_issues: list, body_key: str) -> list[dict]:
+        issues: list[dict] = []
+        for it in raw_issues or []:
+            if not isinstance(it, dict):
+                continue
+            title = str(it.get("title", "")).strip()
+            if not title:
+                continue
+            issues.append({
+                "title": title,
+                body_key: str(it.get(body_key, "")).strip(),
+                "topics": [str(t) for t in (it.get("topics", []) or [])],
+                "articles": resolve_articles(it),
+            })
+        return issues
+
+    stamp = now_kst.isoformat()
+    n_daily = n_weekly = 0
+
+    daily_issues = normalize_issues(daily.get("issues", []), "one_line")
+    if daily_issues or str(daily.get("summary_ko", "")).strip():
+        C.write_json(C.NEWS_DIR / "issues" / "daily" / f"{date_str}.json", {
+            "date": date_str,
+            "updated_at": stamp,
+            "run_id": run_id,
+            "summary_ko": str(daily.get("summary_ko", "")).strip(),
+            "issues": daily_issues,
+        })
+        n_daily = len(daily_issues)
+
+    weekly_issues = normalize_issues(weekly.get("issues", []), "body_ko")
+    if weekly_issues:
+        iso_year, iso_week, _ = now_kst.isocalendar()
+        iso_week_str = f"{iso_year}-W{iso_week:02d}"
+        C.write_json(C.NEWS_DIR / "issues" / "weekly" / f"{iso_week_str}.json", {
+            "week": iso_week_str,
+            "updated_at": stamp,
+            "run_id": run_id,
+            "issues": weekly_issues,
+        })
+        n_weekly = len(weekly_issues)
+
+    return (n_daily, n_weekly)
+
+
 def update_suggested_topics(emerging: list[dict], run_id: str, date_str: str) -> None:
     if not emerging:
         return
@@ -757,6 +849,11 @@ def _load_evaluations() -> dict | None:
         for bk, bv in (data.get("topic_briefs") or {}).items():
             if bk and bv and bk not in merged["topic_briefs"]:
                 merged["topic_briefs"][bk] = bv
+        # key_issues 는 마지막 등장 우선 — 전체 평가를 본 마지막 배치가 통합본을 작성
+        if data.get("key_issues_daily"):
+            merged["key_issues_daily"] = data["key_issues_daily"]
+        if data.get("key_issues_weekly"):
+            merged["key_issues_weekly"] = data["key_issues_weekly"]
         for et in data.get("emerging_topics", []) or []:
             name = et.get("name")
             if not name:
@@ -873,6 +970,12 @@ def main() -> int:
     if n_briefs:
         print(f"   topic briefs: {n_briefs}개 토픽 갱신 → news/topics/")
 
+    # key issues (일자/주간 핵심이슈 — agent key_issues_daily/weekly)
+    n_issues_daily, n_issues_weekly = update_key_issues(
+        evaluations_data, selected, run_id, now_kst, date_str)
+    if n_issues_daily or n_issues_weekly:
+        print(f"   key issues: daily {n_issues_daily} / weekly {n_issues_weekly} → news/issues/")
+
     # validate.py 호출
     validate_errors = 0
     try:
@@ -950,6 +1053,8 @@ def main() -> int:
         log_entry["manifest_error"] = manifest_error
     if publish_error:
         log_entry["publish_error"] = publish_error
+    if n_issues_daily or n_issues_weekly:
+        log_entry["key_issues"] = {"daily": n_issues_daily, "weekly": n_issues_weekly}
     if intra_run_dropped:
         log_entry["intra_run_duplicates_removed"] = len(intra_run_dropped)
         log_entry["intra_run_duplicates"] = [

@@ -238,6 +238,41 @@ def main() -> int:
             dropped_by_age += 1
     print(f"   ✂️  age cut: {len(new_articles)} → {len(candidates)} (탈락 {dropped_by_age})")
 
+    # 핵심이슈 컨텍스트 — agent 가 일자/주간 핵심이슈를 통합 재작성할 때 입력.
+    # news/issues/ 의 기존 JSON 을 읽어 전달만 한다 (순수 파일 IO — 판단은 agent 몫).
+    now_kst = C.kst_now()
+    today_str = now_kst.strftime("%Y-%m-%d")
+    iso_year, iso_week, _ = now_kst.isocalendar()
+    iso_week_str = f"{iso_year}-W{iso_week:02d}"
+    issues_daily_dir = C.NEWS_DIR / "issues" / "daily"
+
+    def _read_json_or_none(p: Path):
+        try:
+            return C.read_json(p)
+        except Exception:
+            return None
+
+    week_start = now_kst.date() - _dt.timedelta(days=now_kst.weekday())
+    week_dailies = []
+    for i in range(7):
+        d = week_start + _dt.timedelta(days=i)
+        if d > now_kst.date():
+            break
+        dj = _read_json_or_none(issues_daily_dir / f"{d.isoformat()}.json")
+        if dj:
+            week_dailies.append(dj)
+
+    issues_context = {
+        "date": today_str,
+        "iso_week": iso_week_str,
+        "today": _read_json_or_none(issues_daily_dir / f"{today_str}.json"),
+        "week": _read_json_or_none(C.NEWS_DIR / "issues" / "weekly" / f"{iso_week_str}.json"),
+        "week_dailies": week_dailies,
+    }
+    C.write_json(C.state_path("issues_context.json"), issues_context)
+    print(f"   🧭 issues_context: today={'있음' if issues_context['today'] else '없음'}, "
+          f"week_dailies={len(week_dailies)}건, week={'있음' if issues_context['week'] else '없음'}")
+
     # 외부 보강 계획 (실패 피드 + WebSearch 큐)
     external_plan = {
         "feed_failures": feed_failures,
