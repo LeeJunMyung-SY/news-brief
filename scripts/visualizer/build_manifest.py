@@ -259,6 +259,27 @@ def collect_topic_index(topics: list[dict]) -> dict:
     for items in articles_by_topic.values():
         items.sort(key=lambda x: (x["date"], x.get("importance") or 0), reverse=True)
 
+    # 토픽별 일자 핵심이슈 히스토리 — news/issues/daily/*.json 스캔.
+    # 토픽 탭의 '토픽 히스토리'(날짜별 이슈 요약)용.
+    daily_issues_by_topic: dict[str, list[dict]] = {}
+    issues_daily_dir = NEWS_DIR / "issues" / "daily"
+    if issues_daily_dir.is_dir():
+        for path in sorted(issues_daily_dir.glob("*.json"), reverse=True):
+            try:
+                data = json.loads(path.read_text(encoding="utf-8"))
+            except (OSError, json.JSONDecodeError) as exc:
+                print(f"[warn] cannot read {path}: {exc}", file=sys.stderr)
+                continue
+            date = data.get("date") or path.stem
+            for issue in data.get("issues", []) or []:
+                summary = issue.get("summary_ko") or issue.get("one_line") or ""
+                for t in issue.get("topics", []) or []:
+                    daily_issues_by_topic.setdefault(str(t), []).append({
+                        "date": date,
+                        "title": issue.get("title", ""),
+                        "summary": summary,
+                    })
+
     known = {t["key"] for t in topics}
     topics_out: list[dict] = []
     for t in topics:
@@ -280,7 +301,8 @@ def collect_topic_index(topics: list[dict]) -> dict:
                 "count": len(items),
                 "latest_date": items[0]["date"],
             })
-    return {"topics": topics_out, "articles": articles_by_topic}
+    return {"topics": topics_out, "articles": articles_by_topic,
+            "daily_issues": daily_issues_by_topic}
 
 
 def collect_weekly() -> list[dict]:

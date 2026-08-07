@@ -614,15 +614,13 @@ def update_weekly_md(date_kst: _dt.datetime, run_id: str, selected: list[tuple[d
     return iso_week_str
 
 
-_TOPIC_BRIEF_MAX_ENTRIES = 7
-
-
 def update_topic_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, cfg: dict) -> int:
-    """agent 의 topic_briefs → news/topics/<key>.md 회차별 동향 요약 관리.
+    """agent 의 topic_briefs → news/topics/<key>.md 통합 동향 관리.
 
-    파일 구조: frontmatter(topic/label/updated_at/run_id) + '# <label> — 동향 요약' +
-    '### YYYY-MM-DD HH:MM' 블록들 (최신이 위, 최근 _TOPIC_BRIEF_MAX_ENTRIES 개 유지).
-    같은 stamp 블록이 이미 있으면 교체 (같은 회차 재실행 멱등성).
+    v2 (2026-08-07): 회차별 stamp 블록 축적 → **단일 통합 본문 전체 교체**.
+    agent 가 issues_context.topic_overviews(기존 본문)를 입력으로 받아 날짜/회차
+    구분 없는 10줄 이내 통합 동향을 갱신 재작성하는 설계. 회차별 이력은
+    news/issues/daily/*.json 의 토픽 히스토리가 대신한다.
     """
     if not topic_briefs:
         return 0
@@ -636,30 +634,6 @@ def update_topic_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, 
             continue
         safe_name = str(key).replace("/", "_").replace("\\", "_")
         path = topics_dir / f"{safe_name}.md"
-
-        # 기존 '### <stamp>' 블록 파싱
-        entries: list[tuple[str, str]] = []  # (stamp, body_text)
-        if path.exists():
-            old = path.read_text(encoding="utf-8")
-            body = old.split("---", 2)[2] if old.startswith("---") and len(old.split("---", 2)) >= 3 else old
-            cur_stamp: str | None = None
-            cur_lines: list[str] = []
-            for line in body.splitlines():
-                m = re.match(r"^###\s+(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\s*$", line)
-                if m:
-                    if cur_stamp:
-                        entries.append((cur_stamp, "\n".join(cur_lines).strip()))
-                    cur_stamp = m.group(1)
-                    cur_lines = []
-                elif cur_stamp is not None:
-                    cur_lines.append(line)
-            if cur_stamp:
-                entries.append((cur_stamp, "\n".join(cur_lines).strip()))
-
-        entries = [(s, b) for s, b in entries if s != stamp]  # 같은 회차 재실행 시 교체
-        entries.insert(0, (stamp, text))
-        entries = entries[:_TOPIC_BRIEF_MAX_ENTRIES]
-
         label = topic_label(cfg, str(key))
         lines = [
             "---",
@@ -671,12 +645,9 @@ def update_topic_briefs(topic_briefs: dict, run_id: str, now_kst: _dt.datetime, 
             "",
             f"# {label} — 동향 요약",
             "",
+            text,
+            "",
         ]
-        for s, b in entries:
-            lines.append(f"### {s}")
-            lines.append("")
-            lines.append(b)
-            lines.append("")
         path.write_text("\n".join(lines), encoding="utf-8")
         written += 1
     return written
@@ -729,7 +700,7 @@ def update_key_issues(evaluations_data: dict, selected: list[tuple[dict, dict]],
                 deduped.append(r)
         return deduped
 
-    def normalize_issues(raw_issues: list, body_key: str) -> list[dict]:
+    def normalize_issues(raw_issues: list, body_key: str, fallback_key: str | None = None) -> list[dict]:
         issues: list[dict] = []
         for it in raw_issues or []:
             if not isinstance(it, dict):
@@ -737,9 +708,12 @@ def update_key_issues(evaluations_data: dict, selected: list[tuple[dict, dict]],
             title = str(it.get("title", "")).strip()
             if not title:
                 continue
+            body = str(it.get(body_key, "")).strip()
+            if not body and fallback_key:
+                body = str(it.get(fallback_key, "")).strip()
             issues.append({
                 "title": title,
-                body_key: str(it.get(body_key, "")).strip(),
+                body_key: body,
                 "topics": [str(t) for t in (it.get("topics", []) or [])],
                 "articles": resolve_articles(it),
             })
@@ -748,7 +722,8 @@ def update_key_issues(evaluations_data: dict, selected: list[tuple[dict, dict]],
     stamp = now_kst.isoformat()
     n_daily = n_weekly = 0
 
-    daily_issues = normalize_issues(daily.get("issues", []), "one_line")
+    # v2: 이슈별 의미요약은 summary_ko (구 스키마 one_line 은 fallback 으로 수용)
+    daily_issues = normalize_issues(daily.get("issues", []), "summary_ko", fallback_key="one_line")
     if daily_issues or str(daily.get("summary_ko", "")).strip():
         C.write_json(C.NEWS_DIR / "issues" / "daily" / f"{date_str}.json", {
             "date": date_str,

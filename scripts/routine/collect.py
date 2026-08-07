@@ -262,16 +262,32 @@ def main() -> int:
         if dj:
             week_dailies.append(dj)
 
+    # 토픽별 기존 '통합 동향' 본문 — agent 가 갱신 재작성할 때 입력으로 사용.
+    topic_overviews: dict[str, str] = {}
+    topics_dir = C.NEWS_DIR / "topics"
+    if topics_dir.is_dir():
+        for tf in topics_dir.glob("*.md"):
+            try:
+                text = tf.read_text(encoding="utf-8")
+            except OSError:
+                continue
+            body = text.split("---", 2)[2] if text.startswith("---") and len(text.split("---", 2)) >= 3 else text
+            # 첫 H1(제목) 라인 제거 후 본문만
+            lines = [ln for ln in body.splitlines() if not ln.startswith("# ")]
+            topic_overviews[tf.stem] = "\n".join(lines).strip()
+
     issues_context = {
         "date": today_str,
         "iso_week": iso_week_str,
         "today": _read_json_or_none(issues_daily_dir / f"{today_str}.json"),
         "week": _read_json_or_none(C.NEWS_DIR / "issues" / "weekly" / f"{iso_week_str}.json"),
         "week_dailies": week_dailies,
+        "topic_overviews": topic_overviews,
     }
     C.write_json(C.state_path("issues_context.json"), issues_context)
     print(f"   🧭 issues_context: today={'있음' if issues_context['today'] else '없음'}, "
-          f"week_dailies={len(week_dailies)}건, week={'있음' if issues_context['week'] else '없음'}")
+          f"week_dailies={len(week_dailies)}건, week={'있음' if issues_context['week'] else '없음'}, "
+          f"topic_overviews={len(topic_overviews)}개")
 
     # 외부 보강 계획 (실패 피드 + WebSearch 큐)
     external_plan = {
