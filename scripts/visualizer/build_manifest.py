@@ -185,10 +185,11 @@ def collect_daily() -> list[dict]:
 
 
 def collect_topics() -> list[dict]:
-    """config.yaml 의 topics 섹션에서 [{key, label}] 추출.
+    """config.yaml 의 topics 섹션에서 [{key, label, description}] 추출.
 
     visualizer 의 토픽 사이드바·필터·라벨이 hardcode 가 아닌 manifest 기반으로
-    동작하도록 한다. description 같은 운영 메타는 외부 노출 회피를 위해 제외.
+    동작하도록 한다. description 은 토픽 탭의 '토픽 설명' 표시용으로 노출
+    (2026-08-07 사용자 승인 — 기존 비노출 방침 해제).
     """
     if not CONFIG_PATH.exists() or not HAVE_YAML:
         return []
@@ -207,6 +208,7 @@ def collect_topics() -> list[dict]:
         out.append({
             "key": str(key),
             "label": str(t.get("label") or key),
+            "description": str(t.get("description") or "").strip(),
         })
     return out
 
@@ -264,6 +266,7 @@ def collect_topic_index(topics: list[dict]) -> dict:
         topics_out.append({
             "key": t["key"],
             "label": t["label"],
+            "description": t.get("description", ""),
             "count": len(items),
             "latest_date": items[0]["date"] if items else None,
         })
@@ -273,6 +276,7 @@ def collect_topic_index(topics: list[dict]) -> dict:
             topics_out.append({
                 "key": key,
                 "label": key,
+                "description": "",
                 "count": len(items),
                 "latest_date": items[0]["date"],
             })

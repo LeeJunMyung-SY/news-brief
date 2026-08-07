@@ -108,6 +108,30 @@ export async function loadTopicBrief(key) {
   }
 }
 
+export async function loadDailyIssues(date) {
+  // 일자 핵심이슈 JSON — 회차마다 갱신되므로 no-store. 없으면 null (박스 미표시).
+  const path = `${NEWS_BASE}/issues/daily/${date}.json?t=${Date.now()}`;
+  try {
+    const res = await fetch(path, { cache: "no-store" });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
+export async function loadWeeklyIssues(week) {
+  // 주간 핵심이슈 JSON — 없으면 null.
+  const path = `${NEWS_BASE}/issues/weekly/${week}.json?t=${Date.now()}`;
+  try {
+    const res = await fetch(path, { cache: "no-store" });
+    if (!res.ok) return null;
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
 export async function loadWeekly(file) {
   // weekly md 는 routine 매 사이클마다 갱신 (토픽 섹션 재생성) → manifest 와
   // 동일하게 캐시 회피. sessionStorage 캐시에 갇혀 stale 본문이 영구 사용되는 문제 방지.

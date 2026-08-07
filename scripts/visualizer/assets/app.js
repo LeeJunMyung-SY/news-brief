@@ -1,4 +1,4 @@
-import { loadManifest, loadDigest, loadArticle, loadWeekly, loadTopicIndex, loadTopicBrief, peekArticleFrontmatter } from "./data.js";
+import { loadManifest, loadDigest, loadArticle, loadWeekly, loadTopicIndex, loadTopicBrief, loadDailyIssues, loadWeeklyIssues, peekArticleFrontmatter } from "./data.js";
 import { renderMarkdown, escapeHtml } from "./parser.js";
 import { renderAdmin, leaveAdmin } from "./admin.js";
 
@@ -110,6 +110,9 @@ const state = {
   topicIndex: null,         // news/topic_index.json — { topics: [{key,label,count,latest_date}], articles: {key: [...]} }
   topicKey: null,           // 현재 열람 중인 토픽 key
   topicBrief: null,         // news/topics/<key>.md — { frontmatter, body } | null
+  dailyIssues: null,        // news/issues/daily/<date>.json | null
+  weeklyIssues: null,       // news/issues/weekly/<week>.json | null
+  topicWeeklyIssues: null,  // 토픽 상세용: [{week, issues:[...]}] (최근 4주, 해당 토픽 필터)
   selectedTopics: new Set(),
   activeTags: new Set(),
   tagQuery: "",
@@ -503,15 +506,19 @@ async function loadAndRenderDaily() {
   }
   showSkeleton();
   try {
-    // 회차 인라인: 모든 회차를 병렬 로드해서 메모리에 통합 보관.
-    const digests = await Promise.all(
-      entry.runs.map(async (run) => {
-        const d = await loadDigest(state.date, run.file);
-        d.runTime = run.time || "";
-        return d;
-      })
-    );
+    // 회차 인라인: 모든 회차를 병렬 로드해서 메모리에 통합 보관. 핵심이슈도 병렬 로드.
+    const [digests, dailyIssues] = await Promise.all([
+      Promise.all(
+        entry.runs.map(async (run) => {
+          const d = await loadDigest(state.date, run.file);
+          d.runTime = run.time || "";
+          return d;
+        })
+      ),
+      loadDailyIssues(state.date),
+    ]);
     state.digests = digests;
+    state.dailyIssues = dailyIssues;
   } catch (err) {
     console.error(err);
     showFatalError(err);
@@ -519,6 +526,55 @@ async function loadAndRenderDaily() {
   }
   renderMain();
   renderHeader();
+}
+
+// ─────────── Key issues (핵심이슈) 렌더 헬퍼 ───────────
+function issueArticleLinksHtml(articles) {
+  return (articles || [])
+    .map((a) => {
+      if (a.file) {
+        return `<a href="#" data-article-link="${escapeHtml(a.file)}"` +
+          `${a.date ? ` data-article-date="${escapeHtml(a.date)}"` : ""}>${escapeHtml(a.title || a.file)}</a>`;
+      }
+      if (a.url) {
+        return `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title || a.url)} ↗</a>`;
+      }
+      return "";
+    })
+    .filter(Boolean)
+    .join('<span class="sep" aria-hidden="true">·</span>');
+}
+
+function buildDailyIssuesBox(di) {
+  const box = document.createElement("section");
+  box.className = "issues-box";
+  const items = (di.issues || []).map((it) => `
+    <li>
+      <div class="issue-head"><strong>${escapeHtml(it.title)}</strong>${it.one_line ? `<span class="issue-oneline"> — ${escapeHtml(it.one_line)}</span>` : ""}</div>
+      ${it.articles?.length ? `<div class="issue-links">${issueArticleLinksHtml(it.articles)}</div>` : ""}
+    </li>`).join("");
+  box.innerHTML = `
+    <div class="issues-title">오늘의 핵심이슈</div>
+    ${di.summary_ko ? `<p class="issues-summary">${escapeHtml(di.summary_ko)}</p>` : ""}
+    ${items ? `<ul class="issues-list">${items}</ul>` : ""}
+  `;
+  return box;
+}
+
+function buildWeeklyIssuesBox(wi) {
+  const box = document.createElement("section");
+  box.className = "issues-box";
+  const items = (wi.issues || []).map((it) => `
+    <li>
+      <div class="issue-head"><strong>${escapeHtml(it.title)}</strong></div>
+      ${it.body_ko ? `<p class="issue-body">${escapeHtml(it.body_ko)}</p>` : ""}
+      ${it.articles?.length ? `<div class="issue-links">${issueArticleLinksHtml(it.articles)}</div>` : ""}
+    </li>`).join("");
+  box.innerHTML = `
+    <div class="issues-title">이번 주 핵심이슈</div>
+    ${items ? `<ul class="issues-list weekly">${items}</ul>` : ""}
+  `;
+  return box;
 }
 
 // 모든 회차의 sections를 카테고리별로 병합 + dedupe(같은 articleFile은 처음 본 것 유지).
@@ -580,6 +636,11 @@ function renderMain() {
   const runTimes = state.digests.map((d) => d.runTime).filter(Boolean);
 
   root.innerHTML = "";
+
+  // 핵심이슈 박스 — 가장 상단 (일자 단위, 매 회차 통합 재작성)
+  if (state.dailyIssues && (state.dailyIssues.summary_ko || state.dailyIssues.issues?.length)) {
+    root.appendChild(buildDailyIssuesBox(state.dailyIssues));
+  }
 
   // Meta card — 한 줄 압축
   const meta = document.createElement("section");
@@ -877,8 +938,13 @@ async function openWeekly(weekId) {
   if (!entry) return showEmpty("주간 디지스트가 없습니다.");
   showSkeleton();
   try {
-    state.weekly = await loadWeekly(entry.file);
+    const [weekly, weeklyIssues] = await Promise.all([
+      loadWeekly(entry.file),
+      loadWeeklyIssues(weekId),
+    ]);
+    state.weekly = weekly;
     state.weeklySections = parseWeeklyBodyToSections(state.weekly.body);
+    state.weeklyIssues = weeklyIssues;
   } catch (err) {
     showFatalError(err);
     return;
@@ -1028,6 +1094,11 @@ function renderWeekly() {
   const root = bind("content");
   const fm = state.weekly.frontmatter;
   root.innerHTML = "";
+
+  // 주간 핵심이슈 박스 — 가장 상단 (일간 이슈를 입력으로 매 회차 갱신)
+  if (state.weeklyIssues?.issues?.length) {
+    root.appendChild(buildWeeklyIssuesBox(state.weeklyIssues));
+  }
 
   // 메타: 주차 범위 + 총 기사 수 + 토픽별 카운트 한 줄.
   const totalCount = fm.total_selected_this_week ?? Object.values(fm.topic_counts || {}).reduce((a, b) => a + b, 0);
@@ -1188,7 +1259,19 @@ async function openTopicDetail(key) {
   try {
     if (!state.topicIndex) state.topicIndex = await loadTopicIndex();
     state.topicKey = key;
-    state.topicBrief = await loadTopicBrief(key); // 없으면 null (기사 목록만 표시)
+    // 최근 4주 주간 핵심이슈 → 해당 토픽 이슈만 필터 (토픽 히스토리)
+    const recentWeeks = (state.manifest.weekly || []).slice(0, 4).map((w) => w.week);
+    const [brief, ...weekIssueResults] = await Promise.all([
+      loadTopicBrief(key), // 없으면 null (기사 목록만 표시)
+      ...recentWeeks.map((w) => loadWeeklyIssues(w)),
+    ]);
+    state.topicBrief = brief;
+    state.topicWeeklyIssues = recentWeeks
+      .map((week, i) => ({
+        week,
+        issues: (weekIssueResults[i]?.issues || []).filter((it) => (it.topics || []).includes(key)),
+      }))
+      .filter((x) => x.issues.length > 0);
   } catch (err) {
     console.error(err);
     showFatalError(err);
@@ -1226,6 +1309,7 @@ function renderTopicDetail() {
       <div class="title">${escapeHtml(label)}</div>
       <div class="note"><a href="#/topics" class="link-btn">← 토픽 목록</a></div>
     </div>
+    ${entry?.description ? `<p class="topic-desc">${escapeHtml(entry.description)}</p>` : ""}
     <div class="stats-line">
       <span><strong>${items.length}</strong> 기사</span>
       <span class="sep">·</span>
@@ -1233,6 +1317,25 @@ function renderTopicDetail() {
     </div>
   `;
   root.appendChild(meta);
+
+  // 핵심이슈 (최근 4주) — 주간 핵심이슈 중 이 토픽에 해당하는 것을 주차별 접이식으로.
+  if (state.topicWeeklyIssues?.length) {
+    const box = document.createElement("section");
+    box.className = "issues-box";
+    const weeksHtml = state.topicWeeklyIssues.map(({ week, issues }, i) => `
+      <details${i === 0 ? " open" : ""}>
+        <summary>${escapeHtml(week)} <span class="count">${issues.length}</span></summary>
+        <ul class="issues-list weekly">${issues.map((it) => `
+          <li>
+            <div class="issue-head"><strong>${escapeHtml(it.title)}</strong></div>
+            ${it.body_ko ? `<p class="issue-body">${escapeHtml(it.body_ko)}</p>` : ""}
+            ${it.articles?.length ? `<div class="issue-links">${issueArticleLinksHtml(it.articles)}</div>` : ""}
+          </li>`).join("")}
+        </ul>
+      </details>`).join("");
+    box.innerHTML = `<div class="issues-title">핵심이슈 (최근 4주)</div>${weeksHtml}`;
+    root.appendChild(box);
+  }
 
   // 종합 동향 (agent topic_briefs → news/topics/<key>.md). H1은 메타카드와 중복이라 제거.
   if (state.topicBrief?.body) {

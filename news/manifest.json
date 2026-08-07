@@ -1,49 +1,327 @@
 {
-  "generated_at": "2026-07-21T08:39:09+00:00",
-  "latest_date": "2026-07-21",
+  "generated_at": "2026-08-07T00:22:22+00:00",
+  "latest_date": "2026-08-07",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
-      "count": 401
+      "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
+      "count": 539
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
-      "count": 404
+      "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
+      "count": 593
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
-      "count": 433
+      "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
+      "count": 613
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
-      "count": 896
+      "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
+      "count": 1411
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
-      "count": 136
+      "description": "로봇, 휴머노이드, 피지컬AI,",
+      "count": 238
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
-      "count": 191
+      "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
+      "count": 365
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
-      "count": 60
+      "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
+      "count": 210
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
-      "count": 43
+      "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
+      "count": 161
     }
   ],
   "daily": [
+    {
+      "date": "2026-08-07",
+      "runs": [
+        {
+          "time": "08:30",
+          "file": "digest_0830.md",
+          "selected": 20,
+          "new": 170
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "runs": [
+        {
+          "time": "09:17",
+          "file": "digest_0917.md",
+          "selected": 19,
+          "new": 181
+        },
+        {
+          "time": "12:22",
+          "file": "digest_1222.md",
+          "selected": 16,
+          "new": 481
+        },
+        {
+          "time": "16:35",
+          "file": "digest_1635.md",
+          "selected": 20,
+          "new": 354
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "runs": [
+        {
+          "time": "08:45",
+          "file": "digest_0845.md",
+          "selected": 20,
+          "new": 173
+        },
+        {
+          "time": "12:22",
+          "file": "digest_1222.md",
+          "selected": 12,
+          "new": 117
+        },
+        {
+          "time": "16:21",
+          "file": "digest_1621.md",
+          "selected": 14,
+          "new": 105
+        }
+      ]
+    },
+    {
+      "date": "2026-08-04",
+      "runs": [
+        {
+          "time": "08:28",
+          "file": "digest_0828.md",
+          "selected": 20,
+          "new": 143
+        },
+        {
+          "time": "12:20",
+          "file": "digest_1220.md",
+          "selected": 14,
+          "new": 100
+        },
+        {
+          "time": "16:22",
+          "file": "digest_1622.md",
+          "selected": 19,
+          "new": 792
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "runs": [
+        {
+          "time": "08:31",
+          "file": "digest_0831.md",
+          "selected": 20,
+          "new": 286
+        },
+        {
+          "time": "12:23",
+          "file": "digest_1223.md",
+          "selected": 14,
+          "new": 132
+        },
+        {
+          "time": "16:47",
+          "file": "digest_1647.md",
+          "selected": 18,
+          "new": 348
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "runs": [
+        {
+          "time": "08:29",
+          "file": "digest_0829.md",
+          "selected": 19,
+          "new": 169
+        },
+        {
+          "time": "12:19",
+          "file": "digest_1219.md",
+          "selected": 17,
+          "new": 75
+        },
+        {
+          "time": "16:19",
+          "file": "digest_1619.md",
+          "selected": 14,
+          "new": 83
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "runs": [
+        {
+          "time": "09:21",
+          "file": "digest_0921.md",
+          "selected": 19,
+          "new": 173
+        },
+        {
+          "time": "12:22",
+          "file": "digest_1222.md",
+          "selected": 19,
+          "new": 113
+        },
+        {
+          "time": "16:51",
+          "file": "digest_1651.md",
+          "selected": 23,
+          "new": 357
+        }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "runs": [
+        {
+          "time": "08:32",
+          "file": "digest_0832.md",
+          "selected": 22,
+          "new": 164
+        },
+        {
+          "time": "12:21",
+          "file": "digest_1221.md",
+          "selected": 16,
+          "new": 667
+        },
+        {
+          "time": "16:20",
+          "file": "digest_1620.md",
+          "selected": 20,
+          "new": 432
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "runs": [
+        {
+          "time": "08:58",
+          "file": "digest_0858.md",
+          "selected": 29,
+          "new": 514
+        },
+        {
+          "time": "09:01",
+          "file": "digest_0901.md",
+          "selected": 0,
+          "new": 25
+        },
+        {
+          "time": "12:22",
+          "file": "digest_1222.md",
+          "selected": 13,
+          "new": 111
+        },
+        {
+          "time": "16:22",
+          "file": "digest_1622.md",
+          "selected": 19,
+          "new": 102
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "runs": [
+        {
+          "time": "08:22",
+          "file": "digest_0822.md",
+          "selected": 17,
+          "new": 121
+        },
+        {
+          "time": "12:22",
+          "file": "digest_1222.md",
+          "selected": 16,
+          "new": 320
+        },
+        {
+          "time": "16:39",
+          "file": "digest_1639.md",
+          "selected": 15,
+          "new": 428
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "runs": [
+        {
+          "time": "08:27",
+          "file": "digest_0827.md",
+          "selected": 21,
+          "new": 183
+        },
+        {
+          "time": "12:23",
+          "file": "digest_1223.md",
+          "selected": 13,
+          "new": 124
+        },
+        {
+          "time": "18:39",
+          "file": "digest_1839.md",
+          "selected": 17,
+          "new": 172
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "runs": [
+        {
+          "time": "08:43",
+          "file": "digest_0843.md",
+          "selected": 20,
+          "new": 673
+        },
+        {
+          "time": "12:20",
+          "file": "digest_1220.md",
+          "selected": 12,
+          "new": 100
+        },
+        {
+          "time": "16:23",
+          "file": "digest_1623.md",
+          "selected": 17,
+          "new": 411
+        }
+      ]
+    },
     {
       "date": "2026-07-21",
       "runs": [
@@ -1096,11 +1374,25 @@
   ],
   "weekly": [
     {
+      "week": "2026-W32",
+      "file": "2026-W32.md",
+      "week_start": "2026-08-03",
+      "week_end": "2026-08-09",
+      "total_selected_this_week": 632
+    },
+    {
+      "week": "2026-W31",
+      "file": "2026-W31.md",
+      "week_start": "2026-07-27",
+      "week_end": "2026-08-02",
+      "total_selected_this_week": 581
+    },
+    {
       "week": "2026-W30",
       "file": "2026-W30.md",
       "week_start": "2026-07-20",
       "week_end": "2026-07-26",
-      "total_selected_this_week": 201
+      "total_selected_this_week": 554
     },
     {
       "week": "2026-W29",
