@@ -278,6 +278,7 @@ def collect_topic_index(topics: list[dict]) -> dict:
                         "date": date,
                         "title": issue.get("title", ""),
                         "summary": summary,
+                        "articles": issue.get("articles", []) or [],
                     })
 
     known = {t["key"] for t in topics}

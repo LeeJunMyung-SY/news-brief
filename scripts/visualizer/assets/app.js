@@ -1329,54 +1329,89 @@ function renderTopicDetail() {
     root.appendChild(briefEl);
   }
 
-  // ② 토픽 히스토리 — 전체가 하나의 접이식. 날짜별로 (핵심이슈 요약 → 기사 헤드라인).
-  //    기사는 카드 대신 헤드라인 링크로만 표시 (클릭 → 기사 모달).
-  const filtered = items.filter(topicArticlePassesFilters);
-  const issuesByDate = new Map(); // date -> [{title, summary}]
+  // ② 토픽 히스토리 — 핵심이슈가 있는 날짜만 접이식으로. 뉴스는 그 이슈에 달린
+  //    기사 링크만 한 줄 나열 (해당 날짜의 토픽 전체 기사가 아니라 이슈 관련 기사).
+  const issuesByDate = new Map(); // date -> [{title, summary, articles}]
   ((state.topicIndex?.daily_issues || {})[key] || []).forEach((it) => {
     if (!issuesByDate.has(it.date)) issuesByDate.set(it.date, []);
     issuesByDate.get(it.date).push(it);
   });
-  const articlesByDate = new Map(); // date -> [article] (인덱스가 이미 날짜 desc → importance desc)
-  filtered.forEach((it) => {
-    if (!articlesByDate.has(it.date)) articlesByDate.set(it.date, []);
-    articlesByDate.get(it.date).push(it);
-  });
-  const dates = [...new Set([...articlesByDate.keys(), ...issuesByDate.keys()])].sort().reverse();
+  const issueDates = [...issuesByDate.keys()].sort().reverse();
+  if (issueDates.length) {
+    const historyBox = document.createElement("section");
+    historyBox.className = "issues-box topic-history";
+    setTopicColor(historyBox, key);
+    const daysHtml = issueDates.map((date) => {
+      const dayIssues = issuesByDate.get(date) || [];
+      const issuesHtml = dayIssues.map((it) => {
+        const links = issueLinksLineHtml(it.articles || []);
+        return `
+        <div class="history-issue">
+          <strong>${escapeHtml(it.title)}</strong>${it.summary ? ` — <span>${escapeHtml(it.summary)}</span>` : ""}
+          ${links ? `<div class="issue-links-line">${links}</div>` : ""}
+        </div>`;
+      }).join("");
+      return `
+      <div class="history-day">
+        <div class="history-date">${escapeHtml(date)}</div>
+        ${issuesHtml}
+      </div>`;
+    }).join("");
+    historyBox.innerHTML = `
+      <details open>
+        <summary>토픽 히스토리 <span class="count">${issueDates.length}일</span></summary>
+        <div class="history-days">${daysHtml}</div>
+      </details>
+    `;
+    root.appendChild(historyBox);
+  }
 
-  if (!dates.length) {
+  // ③ 뉴스 리스트 — 날짜별 기사 카드 (기존 방식 그대로).
+  const filtered = items.filter(topicArticlePassesFilters);
+  if (!filtered.length) {
     root.appendChild(emptyEl(items.length ? "필터 조건에 맞는 기사가 없습니다." : "아직 이 토픽으로 분류된 기사가 없습니다. 다음 회차부터 축적됩니다.", items.length > 0));
     bindArticleLinks(root);
     return;
   }
-
-  const historyBox = document.createElement("section");
-  historyBox.className = "issues-box topic-history";
-  setTopicColor(historyBox, key);
-  const daysHtml = dates.map((date) => {
-    const dayIssues = issuesByDate.get(date) || [];
-    const dayArticles = articlesByDate.get(date) || [];
-    const issuesHtml = dayIssues.map((it) => `
-      <div class="history-issue">
-        <strong>${escapeHtml(it.title)}</strong>${it.summary ? ` — <span>${escapeHtml(it.summary)}</span>` : ""}
-      </div>`).join("");
-    const links = issueLinksLineHtml(dayArticles.map((a) => ({
-      date: a.date, file: a.file, title: a.title, url: a.url,
-    })));
-    return `
-      <div class="history-day">
-        <div class="history-date">${escapeHtml(date)} <span class="count">${dayArticles.length}</span></div>
-        ${issuesHtml}
-        ${links ? `<div class="issue-links-line">${links}</div>` : ""}
-      </div>`;
-  }).join("");
-  historyBox.innerHTML = `
-    <details open>
-      <summary>토픽 히스토리 <span class="count">${dates.length}일</span></summary>
-      <div class="history-days">${daysHtml}</div>
-    </details>
-  `;
-  root.appendChild(historyBox);
+  const byDate = new Map(); // date -> [article] (인덱스가 이미 날짜 desc → importance desc)
+  filtered.forEach((it) => {
+    if (!byDate.has(it.date)) byDate.set(it.date, []);
+    byDate.get(it.date).push(it);
+  });
+  byDate.forEach((arts, date) => {
+    const sectionEl = document.createElement("section");
+    sectionEl.className = "topic-section";
+    setTopicColor(sectionEl, key);
+    const head = document.createElement("div");
+    head.className = "section-head";
+    head.innerHTML = `<h2>${escapeHtml(date)}</h2><span class="count">${arts.length}</span>`;
+    sectionEl.appendChild(head);
+    const list = document.createElement("div");
+    list.className = "card-list";
+    arts.forEach((it) => {
+      const card = buildArticleCard({
+        title: it.title || it.file,
+        articleFile: it.file,
+        sourceUrl: it.url || null,
+        summary: "",
+        tags: it.tags || [],
+      }, key, { badge: it.source || "", articleDate: it.date });
+      // importance 는 topic_index 에 이미 있으므로 즉시 채움 (frontmatter fetch 불필요)
+      if (it.importance != null) {
+        const slot = card.querySelector("[data-importance-slot]");
+        if (slot) {
+          const v = importanceVisual(it.importance);
+          slot.classList.add("importance", v.cls);
+          slot.innerHTML = `<span class="dots" aria-hidden="true">${v.dots}</span><span class="num">${escapeHtml(String(it.importance))}</span>`;
+          slot.setAttribute("aria-label", `중요도 ${it.importance} / 10`);
+          card.dataset.importance = String(it.importance);
+        }
+      }
+      list.appendChild(card);
+    });
+    sectionEl.appendChild(list);
+    root.appendChild(sectionEl);
+  });
 
   bindArticleLinks(root);
 }
