@@ -695,6 +695,16 @@ input, select, textarea { font: inherit; color: inherit; }
 .issues-box .issue-headlines a { color: var(--accent); text-decoration: none; }
 .issues-box .issue-headlines a:hover { text-decoration: underline; }
 
+/* v3: 뉴스 링크 한 줄 나열 (wrap 허용, · 구분) */
+.issue-links-line {
+  margin-top: 5px;
+  font-size: 12.5px;
+  line-height: 1.7;
+}
+.issue-links-line a { color: var(--accent); text-decoration: none; }
+.issue-links-line a:hover { text-decoration: underline; }
+.issue-links-line .sep { color: var(--text-muted); margin: 0 6px; }
+
 /* 토픽 히스토리 (날짜별 이슈 요약 + 헤드라인) */
 .topic-history .history-days {
   display: flex;
