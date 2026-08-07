@@ -742,6 +742,7 @@ def update_key_issues(evaluations_data: dict, selected: list[tuple[dict, dict]],
             "week": iso_week_str,
             "updated_at": stamp,
             "run_id": run_id,
+            "summary_ko": str(weekly.get("summary_ko", "")).strip(),
             "issues": weekly_issues,
         })
         n_weekly = len(weekly_issues)

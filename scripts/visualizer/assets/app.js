@@ -528,33 +528,39 @@ async function loadAndRenderDaily() {
 }
 
 // ─────────── Key issues (핵심이슈) 렌더 헬퍼 ───────────
-// 구성 원칙 (2026-08-07 v2): ① 맨 위 큰 흐름 요약 → ② 이슈 타이틀 + 의미요약 →
-// ③ 해당 뉴스 헤드라인&링크 (헤드라인이 곧 개별 뉴스 내용이므로 본문에서 반복하지 않음)
-function issueHeadlinesHtml(articles) {
+// 구성 원칙 (2026-08-07 v3): ① 맨 위 큰 흐름 요약 → ② 이슈 타이틀 + 의미요약 →
+// ③ 해당 뉴스 링크 한 줄 나열 (헤드라인이 곧 개별 뉴스 내용 — 본문에서 반복하지 않음).
+// 개별 뉴스의 '내용 정리 카드'는 두지 않는다.
+function issueLinksLineHtml(articles) {
   return (articles || [])
     .map((a) => {
       if (a.file) {
-        return `<li><a href="#" data-article-link="${escapeHtml(a.file)}"` +
-          `${a.date ? ` data-article-date="${escapeHtml(a.date)}"` : ""}>${escapeHtml(a.title || a.file)}</a></li>`;
+        return `<a href="#" data-article-link="${escapeHtml(a.file)}"` +
+          `${a.date ? ` data-article-date="${escapeHtml(a.date)}"` : ""}>${escapeHtml(a.title || a.file)}</a>`;
       }
       if (a.url) {
-        return `<li><a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title || a.url)} ↗</a></li>`;
+        return `<a href="${escapeHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(a.title || a.url)} ↗</a>`;
       }
       return "";
     })
     .filter(Boolean)
-    .join("");
+    .join('<span class="sep" aria-hidden="true">·</span>');
+}
+
+function issuePassesTopicFilter(it) {
+  if (!state.selectedTopics.size) return true;
+  return (it.topics || []).some((t) => state.selectedTopics.has(t));
 }
 
 function issuesListHtml(issues, bodyKey) {
-  return (issues || []).map((it) => {
+  return (issues || []).filter(issuePassesTopicFilter).map((it) => {
     const body = it[bodyKey] || it.one_line || "";
-    const headlines = issueHeadlinesHtml(it.articles);
+    const links = issueLinksLineHtml(it.articles);
     return `
     <li>
       <div class="issue-head"><strong>${escapeHtml(it.title)}</strong></div>
       ${body ? `<p class="issue-body">${escapeHtml(body)}</p>` : ""}
-      ${headlines ? `<ul class="issue-headlines">${headlines}</ul>` : ""}
+      ${links ? `<div class="issue-links-line">${links}</div>` : ""}
     </li>`;
   }).join("");
 }
@@ -577,6 +583,7 @@ function buildWeeklyIssuesBox(wi) {
   const items = issuesListHtml(wi.issues, "body_ko");
   box.innerHTML = `
     <div class="issues-title">이번 주 핵심이슈</div>
+    ${wi.summary_ko ? `<p class="issues-summary">${escapeHtml(wi.summary_ko)}</p>` : ""}
     ${items ? `<ul class="issues-list">${items}</ul>` : ""}
   `;
   return box;
@@ -629,10 +636,6 @@ function renderMain() {
   const root = bind("content");
   if (!state.digests.length) return;
 
-  const merged = mergedSections();
-  const filteredSections = filterSections(merged);
-  const totalShown = filteredSections.reduce((n, s) => n + s.articles.length, 0);
-
   // 통합 통계: 각 회차 frontmatter의 합산.
   const sumKey = (k) => state.digests.reduce((n, d) => n + (d.frontmatter[k] || 0), 0);
   const totalSelected = sumKey("total_selected");
@@ -642,8 +645,10 @@ function renderMain() {
 
   root.innerHTML = "";
 
-  // 핵심이슈 박스 — 가장 상단 (일자 단위, 매 회차 통합 재작성)
-  if (state.dailyIssues && (state.dailyIssues.summary_ko || state.dailyIssues.issues?.length)) {
+  // v3: 일간 탭은 핵심이슈가 본체 — 개별 뉴스 내용 정리(기사 카드 섹션)는 두지 않는다.
+  // 뉴스 접근은 이슈별 링크 한 줄 나열(→ 기사 모달)과 토픽 탭 히스토리로.
+  const hasIssues = state.dailyIssues && (state.dailyIssues.summary_ko || state.dailyIssues.issues?.length);
+  if (hasIssues) {
     root.appendChild(buildDailyIssuesBox(state.dailyIssues));
   }
 
@@ -665,28 +670,11 @@ function renderMain() {
   `;
   root.appendChild(meta);
 
-  if (totalShown === 0) {
-    root.appendChild(emptyEl("필터 조건에 맞는 기사가 없습니다.", true));
-  } else {
-    filteredSections.forEach((sec) => {
-      if (!sec.articles.length) return;
-      const topicKey = topicForLabel(sec.label);
-      const sectionEl = document.createElement("section");
-      sectionEl.className = "topic-section";
-      setTopicColor(sectionEl, topicKey);
-      const head = document.createElement("div");
-      head.className = "section-head";
-      head.innerHTML = `<h2>${escapeHtml(stripCount(sec.label))}</h2><span class="count">${sec.articles.length}</span>`;
-      sectionEl.appendChild(head);
-      const list = document.createElement("div");
-      list.className = "card-list";
-      sec.articles.forEach((a) => list.appendChild(buildArticleCard(a, topicKey, { badge: a.runTime })));
-      sectionEl.appendChild(list);
-      root.appendChild(sectionEl);
-    });
+  if (!hasIssues) {
+    root.appendChild(emptyEl("이 날짜의 핵심이슈 데이터가 없습니다 (2026-07-30 이후 제공). 기사는 토픽 탭 히스토리에서 볼 수 있습니다.", false));
   }
 
-  // 회차별 trailing 마크다운(테마 등) — 회차 시간 prefix 붙여 모두 표시.
+  // 회차별 trailing 마크다운(신규 토픽 제안 등) — 회차 시간 prefix 붙여 모두 표시.
   state.digests.forEach((d) => {
     if (!d.trailingMd) return;
     const themeEl = document.createElement("section");
@@ -698,7 +686,6 @@ function renderMain() {
   });
 
   bindArticleLinks(root);
-  hydrateImportance(root);
 }
 
 // In the digest's "## 신규 토픽 제안" section, attach a one-click register button to
@@ -1125,47 +1112,12 @@ function renderWeekly() {
   `;
   root.appendChild(meta);
 
-  // 토픽 필터 / 태그 필터 적용.
-  const sectionsForRender = (state.weeklySections || [])
-    .map((sec) => {
-      const articles = sec.articles.filter((a) => weeklyArticlePassesFilters(a));
-      return { ...sec, articles };
-    })
-    .filter((sec) => sec.articles.length > 0);
-
-  if (!sectionsForRender.length) {
-    root.appendChild(emptyEl("필터 조건에 맞는 기사가 없습니다.", true));
-  } else {
-    sectionsForRender.forEach((sec) => {
-      // 섹션의 토픽 색상은 섹션 라벨에서 우선 추정, 없으면 첫 카드의 topicKey 사용.
-      const topicKey =
-        topicForLabel(sec.label) ||
-        topicForLabelLoose(sec.label) ||
-        sec.articles[0]?.topicKey ||
-        null;
-      const sectionEl = document.createElement("section");
-      sectionEl.className = "topic-section";
-      setTopicColor(sectionEl, topicKey);
-      const head = document.createElement("div");
-      head.className = "section-head";
-      head.innerHTML = `<h2>${escapeHtml(sec.label)}</h2><span class="count">${sec.articles.length}</span>`;
-      sectionEl.appendChild(head);
-      const list = document.createElement("div");
-      list.className = "card-list";
-      // 같은 카테고리 안에서 importance 내림차순.
-      const sorted = [...sec.articles].sort((a, b) => (b.importance ?? -1) - (a.importance ?? -1));
-      sorted.forEach((a) => {
-        const cardTopicKey = a.topicKey || topicKey;
-        list.appendChild(buildArticleCard(a, cardTopicKey, { badge: a.dateBadge, articleDate: a.articleDate }));
-      });
-      sectionEl.appendChild(list);
-      root.appendChild(sectionEl);
-    });
+  // v3: 주간 탭도 핵심이슈가 본체 — 이슈별 개별 뉴스 내용 정리(기사 카드 섹션)는 두지 않는다.
+  if (!state.weeklyIssues?.issues?.length) {
+    root.appendChild(emptyEl("이 주차의 핵심이슈 데이터가 없습니다 (2026-W30 이후 제공). 기사는 토픽 탭 히스토리에서 볼 수 있습니다.", false));
   }
 
   bindArticleLinks(root);
-  // 주간은 카드별 importance가 이미 마크다운에 들어있으므로 importance 슬롯도 채워준다.
-  hydrateWeeklyImportance(root);
 }
 
 function weeklyArticlePassesFilters(a) {
@@ -1352,14 +1304,14 @@ function renderTopicDetail() {
       <div class="history-issue">
         <strong>${escapeHtml(it.title)}</strong>${it.summary ? ` — <span>${escapeHtml(it.summary)}</span>` : ""}
       </div>`).join("");
-    const headlines = issueHeadlinesHtml(dayArticles.map((a) => ({
+    const links = issueLinksLineHtml(dayArticles.map((a) => ({
       date: a.date, file: a.file, title: a.title, url: a.url,
     })));
     return `
       <div class="history-day">
         <div class="history-date">${escapeHtml(date)} <span class="count">${dayArticles.length}</span></div>
         ${issuesHtml}
-        ${headlines ? `<ul class="issue-headlines">${headlines}</ul>` : ""}
+        ${links ? `<div class="issue-links-line">${links}</div>` : ""}
       </div>`;
   }).join("");
   historyBox.innerHTML = `
