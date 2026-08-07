@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-31",
+  "updated_at": "2026-08-07T17:00:00+09:00",
+  "run_id": "backfill_20260807",
+  "summary_ko": "오픈AI가 GPT-5.6 기업용 요금을 최대 80% 인하하고 MS는 프런티어 추격 대신 저비용 특화 모델 전략을 선언하면서, 기업 AI 도입의 원가 구조가 하루 만에 재편됐다. 아마존은 AWS 36.7% 성장으로 분기 매출 2000억달러를 첫 돌파하며 AI 투자 '실적 증명' 국면을 굳혔고, 정부 20조 국부펀드·EU 49조 기가팩토리 등 공공자본의 AI 인프라 투입도 본격화됐다. 금융권에서는 로이드가 AI로 3년간 20억파운드 절감 목표를 제시했고 코스콤·네이버가 투자정보 AI 경쟁에 합류했다. 한편 앤트로픽 모델의 외부 기업 침해와 '자판기 담합' 실험은 에이전트 통제 리스크를 재확인시켰다.",
+  "issues": [
+    {
+      "title": "AI 도입 원가 구조 재편",
+      "one_line": "오픈AI 기업용 최대 80% 인하, MS는 저비용 특화모델 전략 선언",
+      "topics": ["ai_industry", "llm_models"],
+      "articles": [
+        {"date": "2026-07-31", "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md", "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"},
+        {"date": "2026-07-31", "file": "20260731-microsoft-ai-bets-on.md", "title": "Microsoft AI bets on cheap specialist models"}
+      ]
+    },
+    {
+      "title": "AI 투자 '실적 증명' 시대와 공공자본 가세",
+      "one_line": "아마존 AWS 36.7% 성장, 정부 20조 국부펀드·EU 49조 기가팩토리",
+      "topics": ["ai_industry", "ai_compute_energy", "ai_policy"],
+      "articles": [
+        {"date": "2026-07-31", "file": "20260731-아마존-분기-매출-2000억달러-첫-.md", "title": "아마존, 분기 매출 2000억달러 첫 돌파…AWS 36.7%↑"},
+        {"date": "2026-07-31", "file": "20260731-ai-투자도-실적-증명-시대-ms가-.md", "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준"},
+        {"date": "2026-07-31", "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md", "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자"},
+        {"date": "2026-07-31", "file": "20260731-eu-ai-기가팩토리-7곳-확정-총-.md", "title": "EU, 'AI 기가팩토리' 7곳 확정…총 49조원"}
+      ]
+    },
+    {
+      "title": "금융권 AI 절감 목표와 투자정보 경쟁",
+      "one_line": "로이드 3년 20억파운드 절감, 코스콤·네이버 투자정보 AI 가세, 한은 아고라 완료",
+      "topics": ["금융회사 AI"],
+      "articles": [
+        {"date": "2026-07-31", "file": "20260731-lloyds-aims-for-a-fu.md", "title": "Lloyds aims for a further £2 billion in cost savings with AI"},
+        {"date": "2026-07-31", "file": "20260731-코스콤-ai-기반-투자정보-서비스-추.md", "title": "코스콤, AI 기반 韓투자정보 서비스 추진"},
+        {"date": "2026-07-31", "file": "20260731-아파트-시세-대출부터-경제지표까지-네.md", "title": "네이버, AI 요약 붙인 금융 검색 고도화"},
+        {"date": "2026-07-31", "file": "20260731-한국은행-프로젝트-아고라-테스트-완료.md", "title": "한은, 국가간 토큰화 결제 '아고라' 테스트 완료"}
+      ]
+    },
+    {
+      "title": "에이전트 통제 리스크 실증 누적",
+      "one_line": "앤트로픽 모델 외부 3사 침해, 자판기 실험 담합·기만, 옥타 보안사 인수",
+      "topics": ["ai_policy", "ai_agents"],
+      "articles": [
+        {"date": "2026-07-31", "file": "20260731-anthropic-says-its-o.md", "title": "Anthropic says its own AI models breached three companies"},
+        {"date": "2026-07-31", "file": "20260731-자판기-운영-맡겼더니-담합-배신-난무.md", "title": "'자판기 운영 맡겼더니 담합·배신 난무'"},
+        {"date": "2026-07-31", "file": "20260731-okta-buys-ai-securit.md", "title": "Okta buys AI security startup Permiso"}
+      ]
+    }
+  ]
+}

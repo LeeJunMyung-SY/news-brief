@@ -600,6 +600,85 @@ input, select, textarea { font: inherit; color: inherit; }
 }
 .theme-bullet h2 { margin-top: 0; }
 
+/* ─────────── Key issues (핵심이슈) 박스 ─────────── */
+.issues-box {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-strong);
+  border-left: 3px solid var(--accent);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+  margin-bottom: 14px;
+}
+.issues-box .issues-title {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--accent);
+  margin-bottom: 8px;
+}
+.issues-box .issues-summary {
+  font-size: 14px;
+  line-height: 1.65;
+  color: var(--text-primary);
+  margin: 0 0 10px;
+}
+.issues-box .issues-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.issues-box .issues-list.weekly { gap: 12px; }
+.issues-box .issue-head { font-size: 13.5px; }
+.issues-box .issue-oneline { color: var(--text-secondary); }
+.issues-box .issue-body {
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  margin: 4px 0 0;
+}
+.issues-box .issue-links {
+  margin-top: 4px;
+  font-size: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 6px;
+  align-items: baseline;
+}
+.issues-box .issue-links a { color: var(--accent); text-decoration: none; }
+.issues-box .issue-links a:hover { text-decoration: underline; }
+.issues-box .issue-links .sep { color: var(--text-muted); }
+.issues-box details {
+  border-top: 1px solid var(--border);
+  padding: 8px 0 4px;
+}
+.issues-box details:first-of-type { border-top: none; padding-top: 0; }
+.issues-box summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-primary);
+  padding: 4px 0;
+  user-select: none;
+}
+.issues-box summary .count {
+  font-size: 11px;
+  color: var(--text-secondary);
+  background: var(--bg-elevated);
+  border-radius: 999px;
+  padding: 1px 7px;
+  margin-left: 4px;
+}
+.issues-box details > .issues-list { margin-top: 6px; }
+.meta-card .topic-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin: 8px 0 0;
+}
+
 /* ─────────── Topic (토픽) 집계 뷰 ─────────── */
 .topic-grid {
   display: grid;
