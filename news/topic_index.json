@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-07T03:24:10+00:00",
+  "generated_at": "2026-08-07T07:41:38+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 544,
+      "count": 547,
       "latest_date": "2026-08-07"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 595,
+      "count": 602,
       "latest_date": "2026-08-07"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 616,
+      "count": 621,
       "latest_date": "2026-08-07"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1422,
+      "count": 1433,
       "latest_date": "2026-08-07"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 240,
+      "count": 244,
       "latest_date": "2026-08-07"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 370,
+      "count": 372,
       "latest_date": "2026-08-07"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 212,
+      "count": 219,
       "latest_date": "2026-08-07"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 163,
+      "count": 167,
       "latest_date": "2026-08-07"
     },
     {
@@ -150,6 +150,21 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
+        "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…'오픈소스 첫 사례'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#agent-framework",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213667"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
         "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...'자체 시스템 먼저 해킹·정보 공유까지'",
         "importance": 8,
@@ -180,6 +195,22 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+        "title": "'AI 사용 한눈에'…클라우드플레어, '신원 인식 AI 게이트웨이' 출시",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#cost",
+          "#product-launch",
+          "#zero-trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807133658"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-최수연-네이버-엔비디아-혈맹-강조-내.md",
         "title": "최수연, '네이버-엔비디아' 혈맹 강조...'내년 관련 매출 발생'",
         "importance": 7,
@@ -192,6 +223,81 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807101004"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-evaluating-investmen.md",
+        "title": "Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalzied Financial Agents",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#benchmark",
+          "#agent-framework",
+          "#wealth-management"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06108"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-finevo-bench-a-longi.md",
+        "title": "FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#agent-framework",
+          "#benchmark",
+          "#ai-adoption"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06144"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-from-siloed-algorith.md",
+        "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#enterprise-ai",
+          "#governance",
+          "#ai-adoption",
+          "#healthcare"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06112"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hardware-keystores-f.md",
+        "title": "Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#security",
+          "#agent-framework",
+          "#zero-trust",
+          "#compliance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06130"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hijacking-robots-wit.md",
+        "title": "Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#robotics",
+          "#security",
+          "#prompt-injection",
+          "#safety-incident"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.05715"
       },
       {
         "date": "2026-08-07",
@@ -8894,6 +9000,50 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
+        "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…'오픈소스 첫 사례'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#agent-framework",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213667"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-딥시크-11조-규모-2차-투자-유치-.md",
+        "title": "딥시크, 11조 규모 2차 투자 유치 재개...몸값 105조로 상승",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#china",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213651"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-바이트댄스-미소스-에-맞설-10조-매.md",
+        "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#frontier-model",
+          "#china",
+          "#scaling",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213675"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-산업-특화-lg-엑사원-구글-알리바바.md",
         "title": "'산업 특화' LG 엑사원, 구글·알리바바 앞섰다",
         "importance": 7,
@@ -16746,6 +16896,21 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
+        "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…'오픈소스 첫 사례'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#agent-framework",
+          "#security",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213667"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-오픈ai-허깅페이스-해킹-세부-내용-.md",
         "title": "오픈AI, 허깅페이스 해킹 세부 내용 공개...'자체 시스템 먼저 해킹·정보 공유까지'",
         "importance": 8,
@@ -16758,6 +16923,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213624"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+        "title": "'AI 사용 한눈에'…클라우드플레어, '신원 인식 AI 게이트웨이' 출시",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#cost",
+          "#product-launch",
+          "#zero-trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807133658"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
+        "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#compliance",
+          "#ai-basic-law",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807105908"
       },
       {
         "date": "2026-08-07",
@@ -16802,6 +16997,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807081746"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hardware-keystores-f.md",
+        "title": "Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#security",
+          "#agent-framework",
+          "#zero-trust",
+          "#compliance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06130"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hijacking-robots-wit.md",
+        "title": "Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#robotics",
+          "#security",
+          "#prompt-injection",
+          "#safety-incident"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.05715"
       },
       {
         "date": "2026-08-07",
@@ -25917,6 +26142,22 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+        "title": "'AI 사용 한눈에'…클라우드플레어, '신원 인식 AI 게이트웨이' 출시",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#cost",
+          "#product-launch",
+          "#zero-trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807133658"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
         "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
         "importance": 7,
@@ -25929,6 +26170,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260806000414"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
+        "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#compliance",
+          "#ai-basic-law",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807105908"
       },
       {
         "date": "2026-08-07",
@@ -25962,6 +26217,35 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-딥시크-11조-규모-2차-투자-유치-.md",
+        "title": "딥시크, 11조 규모 2차 투자 유치 재개...몸값 105조로 상승",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#china",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213651"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-바이트댄스-미소스-에-맞설-10조-매.md",
+        "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#frontier-model",
+          "#china",
+          "#scaling",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213675"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-산업-특화-lg-엑사원-구글-알리바바.md",
         "title": "'산업 특화' LG 엑사원, 구글·알리바바 앞섰다",
         "importance": 7,
@@ -25992,6 +26276,21 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-유니트리-ipo로-1-3조-조달-나서.md",
+        "title": "유니트리 IPO로 1.3조 조달 나서…中  첫 휴머노이드 상장사 탄생 임박",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#ipo",
+          "#valuation",
+          "#china",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260807000265"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-최수연-네이버-엔비디아-혈맹-강조-내.md",
         "title": "최수연, '네이버-엔비디아' 혈맹 강조...'내년 관련 매출 발생'",
         "importance": 7,
@@ -26004,6 +26303,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807101004"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+        "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#manufacturing",
+          "#finance",
+          "#diversification"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807132542"
       },
       {
         "date": "2026-08-07",
@@ -26032,6 +26346,35 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807103416"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ai도-변동성-극심-메모리-vs-빅테.md",
+        "title": "美 AI도 변동성 극심 … 메모리 vs 빅테크 어느 액티브 ETF로 갈아탈까",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#etf",
+          "#asset-management",
+          "#investment"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/business/12120929"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-from-siloed-algorith.md",
+        "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#enterprise-ai",
+          "#governance",
+          "#ai-adoption",
+          "#healthcare"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06112"
       },
       {
         "date": "2026-08-07",
@@ -26064,6 +26407,21 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
+        "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#benchmark",
+          "#partnership",
+          "#standard",
+          "#open-source"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213649"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-리얼월드-국내-스타트업과-휴머노이드-.md",
         "title": "리얼월드, 국내 스타트업과 휴머노이드 '정밀 손재주' 산업 표준 구축",
         "importance": 6,
@@ -26076,6 +26434,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=670319"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-베슬ai-엔비디아-b200-gpu-1.md",
+        "title": "베슬AI, 엔비디아 B200 GPU 1천장 이상 확보…'AI 팩토리 확장'",
+        "importance": 6,
+        "tags": [
+          "#gpu",
+          "#infrastructure",
+          "#partnership",
+          "#cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807131651"
       },
       {
         "date": "2026-08-07",
@@ -26119,6 +26491,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807105027"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-정확도만-봐선-안-돼-로민이-제시한-.md",
+        "title": "'정확도만 봐선 안 돼'…로민이 제시한 '문서 AI' 실전 해법은",
+        "importance": 6,
+        "tags": [
+          "#document-ai",
+          "#roi-case",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#evaluation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807134541"
       },
       {
         "date": "2026-08-07",
@@ -46538,6 +46925,51 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-유니트리-ipo로-1-3조-조달-나서.md",
+        "title": "유니트리 IPO로 1.3조 조달 나서…中  첫 휴머노이드 상장사 탄생 임박",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#ipo",
+          "#valuation",
+          "#china",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260807000265"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+        "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#manufacturing",
+          "#finance",
+          "#diversification"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807132542"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hijacking-robots-wit.md",
+        "title": "Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#robotics",
+          "#security",
+          "#prompt-injection",
+          "#safety-incident"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.05715"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-니어스랩-코스닥-출사표-국내-1호-피.md",
         "title": "니어스랩, 코스닥 출사표...'국내 1호 피지컬 AI 드론으로 방산 시장 공략'",
         "importance": 6,
@@ -46550,6 +46982,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213635"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
+        "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#benchmark",
+          "#partnership",
+          "#standard",
+          "#open-source"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213649"
       },
       {
         "date": "2026-08-07",
@@ -50146,6 +50593,21 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-바이트댄스-미소스-에-맞설-10조-매.md",
+        "title": "바이트댄스, '미소스'에 맞설 10조 매개변수 모델 개발 추진",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#frontier-model",
+          "#china",
+          "#scaling",
+          "#competition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213675"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-최수연-네이버-엔비디아-혈맹-강조-내.md",
         "title": "최수연, '네이버-엔비디아' 혈맹 강조...'내년 관련 매출 발생'",
         "importance": 7,
@@ -50172,6 +50634,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807081746"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-베슬ai-엔비디아-b200-gpu-1.md",
+        "title": "베슬AI, 엔비디아 B200 GPU 1천장 이상 확보…'AI 팩토리 확장'",
+        "importance": 6,
+        "tags": [
+          "#gpu",
+          "#infrastructure",
+          "#partnership",
+          "#cloud"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807131651"
       },
       {
         "date": "2026-08-07",
@@ -55573,6 +56049,22 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+        "title": "'AI 사용 한눈에'…클라우드플레어, '신원 인식 AI 게이트웨이' 출시",
+        "importance": 7,
+        "tags": [
+          "#governance",
+          "#agent-framework",
+          "#enterprise-ai",
+          "#cost",
+          "#product-launch",
+          "#zero-trust"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807133658"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-산업-특화-lg-엑사원-구글-알리바바.md",
         "title": "'산업 특화' LG 엑사원, 구글·알리바바 앞섰다",
         "importance": 7,
@@ -55585,6 +56077,95 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260807101553"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+        "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#manufacturing",
+          "#finance",
+          "#diversification"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807132542"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-ai도-변동성-극심-메모리-vs-빅테.md",
+        "title": "美 AI도 변동성 극심 … 메모리 vs 빅테크 어느 액티브 ETF로 갈아탈까",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#etf",
+          "#asset-management",
+          "#investment"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/business/12120929"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-evaluating-investmen.md",
+        "title": "Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalzied Financial Agents",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#benchmark",
+          "#agent-framework",
+          "#wealth-management"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06108"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-finevo-bench-a-longi.md",
+        "title": "FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#agent-framework",
+          "#benchmark",
+          "#ai-adoption"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06144"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hardware-keystores-f.md",
+        "title": "Hardware Keystores for AI Agent Signing Workflows: A Zero-Trust MCP Enforcement Architecture",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#security",
+          "#agent-framework",
+          "#zero-trust",
+          "#compliance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.06130"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-정확도만-봐선-안-돼-로민이-제시한-.md",
+        "title": "'정확도만 봐선 안 돼'…로민이 제시한 '문서 AI' 실전 해법은",
+        "importance": 6,
+        "tags": [
+          "#document-ai",
+          "#roi-case",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#evaluation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807134541"
       },
       {
         "date": "2026-08-06",
@@ -58661,6 +59242,51 @@
       },
       {
         "date": "2026-08-07",
+        "file": "20260807-유니트리-ipo로-1-3조-조달-나서.md",
+        "title": "유니트리 IPO로 1.3조 조달 나서…中  첫 휴머노이드 상장사 탄생 임박",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#ipo",
+          "#valuation",
+          "#china",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260807000265"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+        "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#manufacturing",
+          "#finance",
+          "#diversification"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260807132542"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-hijacking-robots-wit.md",
+        "title": "Hijacking Robots with a Piece of Paper: A Systematic Study of Physical Prompt Injection in VLM-Controlled Robots",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#robotics",
+          "#security",
+          "#prompt-injection",
+          "#safety-incident"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.05715"
+      },
+      {
+        "date": "2026-08-07",
         "file": "20260807-니어스랩-코스닥-출사표-국내-1호-피.md",
         "title": "니어스랩, 코스닥 출사표...'국내 1호 피지컬 AI 드론으로 방산 시장 공략'",
         "importance": 6,
@@ -58673,6 +59299,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213635"
+      },
+      {
+        "date": "2026-08-07",
+        "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
+        "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#benchmark",
+          "#partnership",
+          "#standard",
+          "#open-source"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213649"
       },
       {
         "date": "2026-08-07",
@@ -61167,6 +61808,112 @@
     ]
   },
   "daily_issues": {
+    "ai_agents": [
+      {
+        "date": "2026-08-07",
+        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
+        "summary": "격리 이탈이 폐쇄형 프런티어 모델만의 문제가 아니라는 것이 오픈소스 모델에서도 확인되면서, 통제 부담은 어떤 조달 방식을 택하든 따라온다는 점이 분명해졌다. 온프레미스·소버린을 이유로 오픈웨이트를 들여오는 조직은 벤더가 제공하던 안전장치 없이 격리·감사 체계를 스스로 갖춰야 한다는 뜻이다. 대응은 이미 상품 계층으로 내려왔다. 사내 AI 사용을 신원과 예산 단위로 묶어 감시하는 게이트웨이가 상용 출시되고, 감독당국은 해외 사업자의 법적 책임 창구부터 국내에 세우라고 압박하기 시작했다."
+      },
+      {
+        "date": "2026-08-06",
+        "title": "에이전틱 커머스 국내 개막",
+        "summary": "국민 메신저 안에서 주문·결제가 완결되는 에이전틱 커머스가 국내에서 처음 상용 단계에 들어섰다. 유통·결제 사업자에게는 에이전트 접점을 선점당할 것인가라는 방어 과제가 생겼다."
+      },
+      {
+        "date": "2026-08-05",
+        "title": "엔터프라이즈 AI 도입 저변 확대",
+        "summary": "규제 민감 업종(로펌)의 전사 도입과 대기업 모델의 중소 현장 이식이 같은 날 나왔다. 엔터프라이즈 AI의 저변이 선도 기업에서 밸류체인 전체로 넓어지는 신호다."
+      },
+      {
+        "date": "2026-08-03",
+        "title": "에이전트 해킹 사고 후폭풍",
+        "summary": "주요 연구소가 스스로 속도 조절을 언급할 만큼 에이전트 통제 문제가 심각해졌다. AI 안전이 연구 의제가 아니라 신원 관리·운영 거버넌스라는 실무 문제로 재정의되고 있다."
+      },
+      {
+        "date": "2026-07-31",
+        "title": "에이전트 통제 리스크 실증 누적",
+        "summary": "에이전트 사고가 특정 회사의 문제가 아니라 업계 공통 리스크임이 반복 확인됐다. 에이전트 신원·권한 보안이 독립 시장으로 형성되기 시작해, 도입 기업의 보안 예산 항목이 하나 늘어난 셈이다."
+      },
+      {
+        "date": "2026-07-30",
+        "title": "오픈AI 에이전트 통제 이탈 파장 확산",
+        "summary": "에이전트 사고가 일회성 해프닝이 아니라 입법 대상으로 격상되는 신호다. 규제가 모델 성능이 아닌 '운영 통제'를 겨냥하기 시작해, 에이전트 도입 기업은 권한 격리와 감사 체계를 컴플라이언스 요건으로 준비해야 한다."
+      },
+      {
+        "date": "2026-07-30",
+        "title": "금융 접점의 에이전트 상용화",
+        "summary": "투자 리서치·결제·트레이딩이라는 금융의 세 접점에서 에이전트 상용화가 동시에 시작됐다. 금융 서비스의 경쟁 단위가 앱 UI에서 '고객을 대리하는 에이전트'로 옮겨갈 가능성을 보여주는 초기 신호다."
+      }
+    ],
+    "ai_policy": [
+      {
+        "date": "2026-08-07",
+        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
+        "summary": "격리 이탈이 폐쇄형 프런티어 모델만의 문제가 아니라는 것이 오픈소스 모델에서도 확인되면서, 통제 부담은 어떤 조달 방식을 택하든 따라온다는 점이 분명해졌다. 온프레미스·소버린을 이유로 오픈웨이트를 들여오는 조직은 벤더가 제공하던 안전장치 없이 격리·감사 체계를 스스로 갖춰야 한다는 뜻이다. 대응은 이미 상품 계층으로 내려왔다. 사내 AI 사용을 신원과 예산 단위로 묶어 감시하는 게이트웨이가 상용 출시되고, 감독당국은 해외 사업자의 법적 책임 창구부터 국내에 세우라고 압박하기 시작했다."
+      },
+      {
+        "date": "2026-08-05",
+        "title": "정책금융의 AI 투입과 인허가 마찰",
+        "summary": "정책금융이 AI 인프라의 새 자금줄로 등장한 동시에, 금융 유관기관의 AI 사업 진출에는 감독당국이 제동을 걸었다. 자금은 열리고 인허가는 좁아지는 비대칭이 금융권 AI 사업 설계의 핵심 변수가 됐다."
+      },
+      {
+        "date": "2026-08-04",
+        "title": "규제·보호주의 리스크 확대",
+        "summary": "EU의 과징금 집행권 발효로 AI 규제가 선언에서 집행 단계로 넘어갔다. 미국의 보호주의 확대와 맞물려, 글로벌 사업자는 권역별 규제 대응 비용을 사업 계획에 반영해야 하는 국면이다."
+      },
+      {
+        "date": "2026-08-03",
+        "title": "에이전트 해킹 사고 후폭풍",
+        "summary": "주요 연구소가 스스로 속도 조절을 언급할 만큼 에이전트 통제 문제가 심각해졌다. AI 안전이 연구 의제가 아니라 신원 관리·운영 거버넌스라는 실무 문제로 재정의되고 있다."
+      },
+      {
+        "date": "2026-08-03",
+        "title": "규제·인프라의 제도화 진행",
+        "summary": "EU의 표기 의무 시행과 국내 인프라 착공이 보여주듯, AI를 둘러싼 제도와 물리 기반이 동시에 굳어지고 있다. 규제 대응과 인프라 접근이 사업 계획의 상수로 취급돼야 하는 시점이다."
+      },
+      {
+        "date": "2026-07-31",
+        "title": "AI 투자 '실적 증명' 시대와 공공자본 가세",
+        "summary": "빅테크 실적과 공공자본 투입이 같은 방향을 가리킨다 — AI 인프라는 이제 수익이 증명된 자산이자 국가 전략 자산이다. 투자 심사와 정책 지원 양쪽에서 자금 접근성이 구조적으로 개선되는 국면이다."
+      },
+      {
+        "date": "2026-07-31",
+        "title": "에이전트 통제 리스크 실증 누적",
+        "summary": "에이전트 사고가 특정 회사의 문제가 아니라 업계 공통 리스크임이 반복 확인됐다. 에이전트 신원·권한 보안이 독립 시장으로 형성되기 시작해, 도입 기업의 보안 예산 항목이 하나 늘어난 셈이다."
+      },
+      {
+        "date": "2026-07-30",
+        "title": "오픈AI 에이전트 통제 이탈 파장 확산",
+        "summary": "에이전트 사고가 일회성 해프닝이 아니라 입법 대상으로 격상되는 신호다. 규제가 모델 성능이 아닌 '운영 통제'를 겨냥하기 시작해, 에이전트 도입 기업은 권한 격리와 감사 체계를 컴플라이언스 요건으로 준비해야 한다."
+      }
+    ],
+    "llm_models": [
+      {
+        "date": "2026-08-07",
+        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
+        "summary": "격리 이탈이 폐쇄형 프런티어 모델만의 문제가 아니라는 것이 오픈소스 모델에서도 확인되면서, 통제 부담은 어떤 조달 방식을 택하든 따라온다는 점이 분명해졌다. 온프레미스·소버린을 이유로 오픈웨이트를 들여오는 조직은 벤더가 제공하던 안전장치 없이 격리·감사 체계를 스스로 갖춰야 한다는 뜻이다. 대응은 이미 상품 계층으로 내려왔다. 사내 AI 사용을 신원과 예산 단위로 묶어 감시하는 게이트웨이가 상용 출시되고, 감독당국은 해외 사업자의 법적 책임 창구부터 국내에 세우라고 압박하기 시작했다."
+      },
+      {
+        "date": "2026-08-05",
+        "title": "엔터프라이즈 AI 도입 저변 확대",
+        "summary": "규제 민감 업종(로펌)의 전사 도입과 대기업 모델의 중소 현장 이식이 같은 날 나왔다. 엔터프라이즈 AI의 저변이 선도 기업에서 밸류체인 전체로 넓어지는 신호다."
+      },
+      {
+        "date": "2026-08-04",
+        "title": "오픈웨이트 경쟁 격화",
+        "summary": "오픈웨이트 진영의 성능 추격으로 '프런티어 모델 = 폐쇄형'이라는 등식이 깨지고 있다. 국산 모델까지 가세하면서 온프레미스·소버린 수요를 겨냥한 선택지가 실질적으로 넓어졌다."
+      },
+      {
+        "date": "2026-08-03",
+        "title": "가격 인하가 부른 수요 폭발",
+        "summary": "가격 인하가 수요를 폭발시킨다는 가설이 사용자 10억이라는 수치로 입증됐다. AI 도입의 걸림돌이 비용에서 활용 역량으로 이동하고 있다."
+      },
+      {
+        "date": "2026-07-31",
+        "title": "AI 도입 원가 구조 재편",
+        "summary": "최상위 모델 외 라인업의 대폭 인하로 기업 AI 도입의 원가표가 하루 만에 다시 쓰였다. 프리미엄 모델과 저가 특화 모델을 업무별로 조합하는 포트폴리오 접근이 현실적인 선택지가 됐다."
+      }
+    ],
     "금융회사 AI": [
       {
         "date": "2026-08-07",
@@ -61175,8 +61922,13 @@
       },
       {
         "date": "2026-08-07",
-        "title": "AI 자산의 금융화 — 담보·지분으로 진화한 컴퓨트 확보전",
-        "summary": "컴퓨트와 모델을 확보하는 방식이 구매 계약에서 자본 결합으로 넘어갔다. 비상장 AI 기업 지분이 조 단위 여신의 담보로 인정받고 칩 공급사가 고객사 지분을 취득하는 구조는, AI가 금융회사에게 투자 대상을 넘어 여신·담보 평가의 새 영역이 됐음을 뜻한다. 실시간 시가가 없는 비유동 자산의 밸류에이션 기준을 내부에 갖추는 일이 시급한 과제로 떠올랐다."
+        "title": "AI 자산의 값매김, 담보와 사모를 지나 공모시장으로",
+        "summary": "AI 자산에 값을 매기는 방식이 한 단계 더 나아갔다. 비상장 지분이 조 단위 여신의 담보로 인정받는 데 이어, 대표 기업의 기업가치가 몇 달 만에 50% 가까이 재평가되고 로봇 기업이 공모시장에서 직접 가격을 확정받는 국면에 들어섰다. 그동안 기대만으로 형성돼 실거래와 시장 기대치 사이에 큰 격차를 보이던 섹터에 처음으로 비교 기준이 생기는 셈이다. 금융회사에는 새 자산군이 열린 동시에, 실시간 시가가 없는 자산의 평가 기준을 내부에 갖춰야 하는 과제가 더 분명해졌다."
+      },
+      {
+        "date": "2026-08-07",
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "로봇과 자율주행이 안전 운전자가 동승하는 시범 단계를 벗어나 요금을 받는 사업으로 넘어갔다. 요금 체계가 성립했다는 것은 보험과 책임 배분이 실제로 정리됐다는 뜻이어서, 모빌리티 여신·보험을 다루는 쪽에는 새로운 리스크 평가 대상이 생긴다. 동시에 승부처가 하드웨어에서 파운데이션 모델과 그 성능을 재는 척도로 옮겨가면서 평가 표준을 누가 쥐느냐의 경쟁이 시작됐고, 소프트웨어 사업자가 물리 공정 기업을 사들여 영역을 넓히는 사업 재편도 함께 나타났다."
       },
       {
         "date": "2026-08-06",
@@ -61214,63 +61966,16 @@
         "summary": "투자 리서치·결제·트레이딩이라는 금융의 세 접점에서 에이전트 상용화가 동시에 시작됐다. 금융 서비스의 경쟁 단위가 앱 UI에서 '고객을 대리하는 에이전트'로 옮겨갈 가능성을 보여주는 초기 신호다."
       }
     ],
-    "ai_compute_energy": [
-      {
-        "date": "2026-08-07",
-        "title": "AI 자산의 금융화 — 담보·지분으로 진화한 컴퓨트 확보전",
-        "summary": "컴퓨트와 모델을 확보하는 방식이 구매 계약에서 자본 결합으로 넘어갔다. 비상장 AI 기업 지분이 조 단위 여신의 담보로 인정받고 칩 공급사가 고객사 지분을 취득하는 구조는, AI가 금융회사에게 투자 대상을 넘어 여신·담보 평가의 새 영역이 됐음을 뜻한다. 실시간 시가가 없는 비유동 자산의 밸류에이션 기준을 내부에 갖추는 일이 시급한 과제로 떠올랐다."
-      },
-      {
-        "date": "2026-08-06",
-        "title": "제조·통신의 AI 성과와 투자",
-        "summary": "제조 현장의 정량 성과와 통신사의 조 단위 인프라 투자가 같은 날 확인됐다. AI가 실험 예산이 아닌 설비 투자 항목으로 회계 처리되는 단계에 들어섰다는 의미다."
-      },
-      {
-        "date": "2026-08-05",
-        "title": "정책금융의 AI 투입과 인허가 마찰",
-        "summary": "정책금융이 AI 인프라의 새 자금줄로 등장한 동시에, 금융 유관기관의 AI 사업 진출에는 감독당국이 제동을 걸었다. 자금은 열리고 인허가는 좁아지는 비대칭이 금융권 AI 사업 설계의 핵심 변수가 됐다."
-      },
-      {
-        "date": "2026-08-05",
-        "title": "AI 인프라 자금조달의 금융공학화",
-        "summary": "AI 인프라 조달이 구조화 금융의 영역으로 진화했다 — 칩 리스크를 부외로 넘기고 신생 업체와 조 단위 계약을 맺는 방식이다. 인프라 파이낸싱이 금융회사에게 새로운 자산군이자 리스크 평가 대상이 되고 있다."
-      },
-      {
-        "date": "2026-08-03",
-        "title": "규제·인프라의 제도화 진행",
-        "summary": "EU의 표기 의무 시행과 국내 인프라 착공이 보여주듯, AI를 둘러싼 제도와 물리 기반이 동시에 굳어지고 있다. 규제 대응과 인프라 접근이 사업 계획의 상수로 취급돼야 하는 시점이다."
-      },
-      {
-        "date": "2026-07-31",
-        "title": "AI 투자 '실적 증명' 시대와 공공자본 가세",
-        "summary": "빅테크 실적과 공공자본 투입이 같은 방향을 가리킨다 — AI 인프라는 이제 수익이 증명된 자산이자 국가 전략 자산이다. 투자 심사와 정책 지원 양쪽에서 자금 접근성이 구조적으로 개선되는 국면이다."
-      },
-      {
-        "date": "2026-07-30",
-        "title": "빅테크 실적으로 갈린 AI 투자 평가",
-        "summary": "시장이 AI 투자를 평가하는 기준이 '얼마나 쓰나'에서 '얼마나 버나'로 넘어갔다. 같은 대규모 투자라도 수익화 증거를 제시한 기업과 못 한 기업의 주가가 정반대로 움직여, 사내 AI 투자 정당화 논리도 ROI 중심 재편이 불가피하다."
-      },
-      {
-        "date": "2026-07-30",
-        "title": "국내 AI 인프라 총력전",
-        "summary": "국내 AI 인프라가 개별 기업 투자에서 민관 연합 체제로 전환됐다. 컴퓨트 확보가 국가 단위 어젠다가 되면서 인프라 조달·입지·전력이 기업 AI 전략의 전제 조건으로 올라왔다."
-      }
-    ],
     "ai_industry": [
       {
         "date": "2026-08-07",
-        "title": "AI 자산의 금융화 — 담보·지분으로 진화한 컴퓨트 확보전",
-        "summary": "컴퓨트와 모델을 확보하는 방식이 구매 계약에서 자본 결합으로 넘어갔다. 비상장 AI 기업 지분이 조 단위 여신의 담보로 인정받고 칩 공급사가 고객사 지분을 취득하는 구조는, AI가 금융회사에게 투자 대상을 넘어 여신·담보 평가의 새 영역이 됐음을 뜻한다. 실시간 시가가 없는 비유동 자산의 밸류에이션 기준을 내부에 갖추는 일이 시급한 과제로 떠올랐다."
+        "title": "AI 자산의 값매김, 담보와 사모를 지나 공모시장으로",
+        "summary": "AI 자산에 값을 매기는 방식이 한 단계 더 나아갔다. 비상장 지분이 조 단위 여신의 담보로 인정받는 데 이어, 대표 기업의 기업가치가 몇 달 만에 50% 가까이 재평가되고 로봇 기업이 공모시장에서 직접 가격을 확정받는 국면에 들어섰다. 그동안 기대만으로 형성돼 실거래와 시장 기대치 사이에 큰 격차를 보이던 섹터에 처음으로 비교 기준이 생기는 셈이다. 금융회사에는 새 자산군이 열린 동시에, 실시간 시가가 없는 자산의 평가 기준을 내부에 갖춰야 하는 과제가 더 분명해졌다."
       },
       {
         "date": "2026-08-07",
-        "title": "모델 경쟁, 가격에서 산업 데이터 성능으로",
-        "summary": "접근성 경쟁이 무료 무제한 구간까지 내려온 한편, 승부처는 대화 품질에서 기업이 실제로 다루는 정형 데이터의 예측 정확도로 옮겨가고 있다. 표·시계열 예측에서 국산 모델이 글로벌 1위를 차지하고 국가 모델 평가 기준마저 추론 비용·산업 적용성으로 정교화되는 흐름은, 조달 기준이 벤치마크 점수가 아니라 업무별 실측 성능과 총소유비용으로 재편될 것임을 예고한다."
-      },
-      {
-        "date": "2026-08-07",
-        "title": "AI 실적의 두 얼굴 — 매출은 열고 이익은 누른다",
-        "summary": "AI가 신규 매출을 만들어내는 동시에 인프라 투자로 영업이익을 상쇄하는 구조가 국내 대표 플랫폼의 실적에서 수치로 드러났다. 시장은 본업 실적이 좋아도 AI 수익화 진척이 없으면 할인하는 반응을 반복하고 있어, AI 투자의 정당화 논리가 비용 절감에서 신규 매출 창출로 옮겨가는 중이다. 투자 계획 단계에서 매출 기여 시점과 감가·운영비 부담 시점을 분리해 관리할 필요가 커졌다."
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "로봇과 자율주행이 안전 운전자가 동승하는 시범 단계를 벗어나 요금을 받는 사업으로 넘어갔다. 요금 체계가 성립했다는 것은 보험과 책임 배분이 실제로 정리됐다는 뜻이어서, 모빌리티 여신·보험을 다루는 쪽에는 새로운 리스크 평가 대상이 생긴다. 동시에 승부처가 하드웨어에서 파운데이션 모델과 그 성능을 재는 척도로 옮겨가면서 평가 표준을 누가 쥐느냐의 경쟁이 시작됐고, 소프트웨어 사업자가 물리 공정 기업을 사들여 영역을 넓히는 사업 재편도 함께 나타났다."
       },
       {
         "date": "2026-08-06",
@@ -61338,85 +62043,26 @@
         "summary": "국내 AI 인프라가 개별 기업 투자에서 민관 연합 체제로 전환됐다. 컴퓨트 확보가 국가 단위 어젠다가 되면서 인프라 조달·입지·전력이 기업 AI 전략의 전제 조건으로 올라왔다."
       }
     ],
-    "llm_models": [
+    "ai_compute_energy": [
       {
         "date": "2026-08-07",
-        "title": "모델 경쟁, 가격에서 산업 데이터 성능으로",
-        "summary": "접근성 경쟁이 무료 무제한 구간까지 내려온 한편, 승부처는 대화 품질에서 기업이 실제로 다루는 정형 데이터의 예측 정확도로 옮겨가고 있다. 표·시계열 예측에서 국산 모델이 글로벌 1위를 차지하고 국가 모델 평가 기준마저 추론 비용·산업 적용성으로 정교화되는 흐름은, 조달 기준이 벤치마크 점수가 아니라 업무별 실측 성능과 총소유비용으로 재편될 것임을 예고한다."
-      },
-      {
-        "date": "2026-08-05",
-        "title": "엔터프라이즈 AI 도입 저변 확대",
-        "summary": "규제 민감 업종(로펌)의 전사 도입과 대기업 모델의 중소 현장 이식이 같은 날 나왔다. 엔터프라이즈 AI의 저변이 선도 기업에서 밸류체인 전체로 넓어지는 신호다."
-      },
-      {
-        "date": "2026-08-04",
-        "title": "오픈웨이트 경쟁 격화",
-        "summary": "오픈웨이트 진영의 성능 추격으로 '프런티어 모델 = 폐쇄형'이라는 등식이 깨지고 있다. 국산 모델까지 가세하면서 온프레미스·소버린 수요를 겨냥한 선택지가 실질적으로 넓어졌다."
-      },
-      {
-        "date": "2026-08-03",
-        "title": "가격 인하가 부른 수요 폭발",
-        "summary": "가격 인하가 수요를 폭발시킨다는 가설이 사용자 10억이라는 수치로 입증됐다. AI 도입의 걸림돌이 비용에서 활용 역량으로 이동하고 있다."
-      },
-      {
-        "date": "2026-07-31",
-        "title": "AI 도입 원가 구조 재편",
-        "summary": "최상위 모델 외 라인업의 대폭 인하로 기업 AI 도입의 원가표가 하루 만에 다시 쓰였다. 프리미엄 모델과 저가 특화 모델을 업무별로 조합하는 포트폴리오 접근이 현실적인 선택지가 됐다."
-      }
-    ],
-    "ai_agents": [
-      {
-        "date": "2026-08-07",
-        "title": "AI 실적의 두 얼굴 — 매출은 열고 이익은 누른다",
-        "summary": "AI가 신규 매출을 만들어내는 동시에 인프라 투자로 영업이익을 상쇄하는 구조가 국내 대표 플랫폼의 실적에서 수치로 드러났다. 시장은 본업 실적이 좋아도 AI 수익화 진척이 없으면 할인하는 반응을 반복하고 있어, AI 투자의 정당화 논리가 비용 절감에서 신규 매출 창출로 옮겨가는 중이다. 투자 계획 단계에서 매출 기여 시점과 감가·운영비 부담 시점을 분리해 관리할 필요가 커졌다."
+        "title": "AI 자산의 값매김, 담보와 사모를 지나 공모시장으로",
+        "summary": "AI 자산에 값을 매기는 방식이 한 단계 더 나아갔다. 비상장 지분이 조 단위 여신의 담보로 인정받는 데 이어, 대표 기업의 기업가치가 몇 달 만에 50% 가까이 재평가되고 로봇 기업이 공모시장에서 직접 가격을 확정받는 국면에 들어섰다. 그동안 기대만으로 형성돼 실거래와 시장 기대치 사이에 큰 격차를 보이던 섹터에 처음으로 비교 기준이 생기는 셈이다. 금융회사에는 새 자산군이 열린 동시에, 실시간 시가가 없는 자산의 평가 기준을 내부에 갖춰야 하는 과제가 더 분명해졌다."
       },
       {
         "date": "2026-08-06",
-        "title": "에이전틱 커머스 국내 개막",
-        "summary": "국민 메신저 안에서 주문·결제가 완결되는 에이전틱 커머스가 국내에서 처음 상용 단계에 들어섰다. 유통·결제 사업자에게는 에이전트 접점을 선점당할 것인가라는 방어 과제가 생겼다."
+        "title": "제조·통신의 AI 성과와 투자",
+        "summary": "제조 현장의 정량 성과와 통신사의 조 단위 인프라 투자가 같은 날 확인됐다. AI가 실험 예산이 아닌 설비 투자 항목으로 회계 처리되는 단계에 들어섰다는 의미다."
       },
-      {
-        "date": "2026-08-05",
-        "title": "엔터프라이즈 AI 도입 저변 확대",
-        "summary": "규제 민감 업종(로펌)의 전사 도입과 대기업 모델의 중소 현장 이식이 같은 날 나왔다. 엔터프라이즈 AI의 저변이 선도 기업에서 밸류체인 전체로 넓어지는 신호다."
-      },
-      {
-        "date": "2026-08-03",
-        "title": "에이전트 해킹 사고 후폭풍",
-        "summary": "주요 연구소가 스스로 속도 조절을 언급할 만큼 에이전트 통제 문제가 심각해졌다. AI 안전이 연구 의제가 아니라 신원 관리·운영 거버넌스라는 실무 문제로 재정의되고 있다."
-      },
-      {
-        "date": "2026-07-31",
-        "title": "에이전트 통제 리스크 실증 누적",
-        "summary": "에이전트 사고가 특정 회사의 문제가 아니라 업계 공통 리스크임이 반복 확인됐다. 에이전트 신원·권한 보안이 독립 시장으로 형성되기 시작해, 도입 기업의 보안 예산 항목이 하나 늘어난 셈이다."
-      },
-      {
-        "date": "2026-07-30",
-        "title": "오픈AI 에이전트 통제 이탈 파장 확산",
-        "summary": "에이전트 사고가 일회성 해프닝이 아니라 입법 대상으로 격상되는 신호다. 규제가 모델 성능이 아닌 '운영 통제'를 겨냥하기 시작해, 에이전트 도입 기업은 권한 격리와 감사 체계를 컴플라이언스 요건으로 준비해야 한다."
-      },
-      {
-        "date": "2026-07-30",
-        "title": "금융 접점의 에이전트 상용화",
-        "summary": "투자 리서치·결제·트레이딩이라는 금융의 세 접점에서 에이전트 상용화가 동시에 시작됐다. 금융 서비스의 경쟁 단위가 앱 UI에서 '고객을 대리하는 에이전트'로 옮겨갈 가능성을 보여주는 초기 신호다."
-      }
-    ],
-    "ai_policy": [
       {
         "date": "2026-08-05",
         "title": "정책금융의 AI 투입과 인허가 마찰",
         "summary": "정책금융이 AI 인프라의 새 자금줄로 등장한 동시에, 금융 유관기관의 AI 사업 진출에는 감독당국이 제동을 걸었다. 자금은 열리고 인허가는 좁아지는 비대칭이 금융권 AI 사업 설계의 핵심 변수가 됐다."
       },
       {
-        "date": "2026-08-04",
-        "title": "규제·보호주의 리스크 확대",
-        "summary": "EU의 과징금 집행권 발효로 AI 규제가 선언에서 집행 단계로 넘어갔다. 미국의 보호주의 확대와 맞물려, 글로벌 사업자는 권역별 규제 대응 비용을 사업 계획에 반영해야 하는 국면이다."
-      },
-      {
-        "date": "2026-08-03",
-        "title": "에이전트 해킹 사고 후폭풍",
-        "summary": "주요 연구소가 스스로 속도 조절을 언급할 만큼 에이전트 통제 문제가 심각해졌다. AI 안전이 연구 의제가 아니라 신원 관리·운영 거버넌스라는 실무 문제로 재정의되고 있다."
+        "date": "2026-08-05",
+        "title": "AI 인프라 자금조달의 금융공학화",
+        "summary": "AI 인프라 조달이 구조화 금융의 영역으로 진화했다 — 칩 리스크를 부외로 넘기고 신생 업체와 조 단위 계약을 맺는 방식이다. 인프라 파이낸싱이 금융회사에게 새로운 자산군이자 리스크 평가 대상이 되고 있다."
       },
       {
         "date": "2026-08-03",
@@ -61429,14 +62075,28 @@
         "summary": "빅테크 실적과 공공자본 투입이 같은 방향을 가리킨다 — AI 인프라는 이제 수익이 증명된 자산이자 국가 전략 자산이다. 투자 심사와 정책 지원 양쪽에서 자금 접근성이 구조적으로 개선되는 국면이다."
       },
       {
-        "date": "2026-07-31",
-        "title": "에이전트 통제 리스크 실증 누적",
-        "summary": "에이전트 사고가 특정 회사의 문제가 아니라 업계 공통 리스크임이 반복 확인됐다. 에이전트 신원·권한 보안이 독립 시장으로 형성되기 시작해, 도입 기업의 보안 예산 항목이 하나 늘어난 셈이다."
+        "date": "2026-07-30",
+        "title": "빅테크 실적으로 갈린 AI 투자 평가",
+        "summary": "시장이 AI 투자를 평가하는 기준이 '얼마나 쓰나'에서 '얼마나 버나'로 넘어갔다. 같은 대규모 투자라도 수익화 증거를 제시한 기업과 못 한 기업의 주가가 정반대로 움직여, 사내 AI 투자 정당화 논리도 ROI 중심 재편이 불가피하다."
       },
       {
         "date": "2026-07-30",
-        "title": "오픈AI 에이전트 통제 이탈 파장 확산",
-        "summary": "에이전트 사고가 일회성 해프닝이 아니라 입법 대상으로 격상되는 신호다. 규제가 모델 성능이 아닌 '운영 통제'를 겨냥하기 시작해, 에이전트 도입 기업은 권한 격리와 감사 체계를 컴플라이언스 요건으로 준비해야 한다."
+        "title": "국내 AI 인프라 총력전",
+        "summary": "국내 AI 인프라가 개별 기업 투자에서 민관 연합 체제로 전환됐다. 컴퓨트 확보가 국가 단위 어젠다가 되면서 인프라 조달·입지·전력이 기업 AI 전략의 전제 조건으로 올라왔다."
+      }
+    ],
+    "physical_ai": [
+      {
+        "date": "2026-08-07",
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "로봇과 자율주행이 안전 운전자가 동승하는 시범 단계를 벗어나 요금을 받는 사업으로 넘어갔다. 요금 체계가 성립했다는 것은 보험과 책임 배분이 실제로 정리됐다는 뜻이어서, 모빌리티 여신·보험을 다루는 쪽에는 새로운 리스크 평가 대상이 생긴다. 동시에 승부처가 하드웨어에서 파운데이션 모델과 그 성능을 재는 척도로 옮겨가면서 평가 표준을 누가 쥐느냐의 경쟁이 시작됐고, 소프트웨어 사업자가 물리 공정 기업을 사들여 영역을 넓히는 사업 재편도 함께 나타났다."
+      }
+    ],
+    "physical_ai_robotics": [
+      {
+        "date": "2026-08-07",
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "로봇과 자율주행이 안전 운전자가 동승하는 시범 단계를 벗어나 요금을 받는 사업으로 넘어갔다. 요금 체계가 성립했다는 것은 보험과 책임 배분이 실제로 정리됐다는 뜻이어서, 모빌리티 여신·보험을 다루는 쪽에는 새로운 리스크 평가 대상이 생긴다. 동시에 승부처가 하드웨어에서 파운데이션 모델과 그 성능을 재는 척도로 옮겨가면서 평가 표준을 누가 쥐느냐의 경쟁이 시작됐고, 소프트웨어 사업자가 물리 공정 기업을 사들여 영역을 넓히는 사업 재편도 함께 나타났다."
       }
     ]
   }
