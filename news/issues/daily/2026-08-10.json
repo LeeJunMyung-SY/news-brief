@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-10",
+  "updated_at": "2026-08-10T08:36:30.193404+09:00",
+  "run_id": "run_20260810_083630",
+  "summary_ko": "모델 역량은 안전 기준에 막히고, AI 병목은 전력·자본으로 옮겨간 하루.",
+  "issues": [
+    {
+      "title": "프런티어 모델, 안전 기준에 막히다",
+      "summary_ko": "역량 향상이 더는 출시로 직결되지 않으며, 벤더 안전 정책이 도입 일정의 변수가 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-responding-to-the-ne.md",
+          "title": "Responding to the next frontier of critical cyber capabilities"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+          "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-the-ai-safety-test-i.md",
+          "title": "The AI safety test is becoming a safety risk"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+          "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 병목, 칩에서 전력·자본으로",
+      "summary_ko": "인프라 조달이 금융 영역으로 넘어가며 은행에 새로운 기업금융 수요가 열렸다.",
+      "topics": [
+        "ai_compute_energy",
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+          "title": "\"AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대\""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/business/12121235",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+          "title": ""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-ai-s-energy-appetite.md",
+          "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure"
+        }
+      ]
+    },
+    {
+      "title": "구글 AI 조직 해체와 인재 이탈",
+      "summary_ko": "모델 공급사의 조직 안정성이 벤더 실사 항목으로 올라섰다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-google-dismantles-de.md",
+          "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213712",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608070549i",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "중국 모델 도입률 급등 전망",
+      "summary_ko": "가격 우위와 지정학 리스크를 맞바꾸는 조달 선택 국면에 들어섰다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+          "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+          "title": "中 AI, 자립 가속…\"2030년 가속기 절반 자국산\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "week": "2026-W33",
+  "updated_at": "2026-08-10T08:36:30.193404+09:00",
+  "run_id": "run_20260810_083630",
+  "summary_ko": "안전·조직·자금이라는 비기술 변수가 AI 도입 속도를 결정하기 시작한 주.",
+  "issues": [
+    {
+      "title": "안전 임계가 출시를 멈춰 세우다",
+      "body_ko": "모델 역량이 안전 기준에 막히는 구조가 정착돼, 도입 일정에 벤더발 지연을 상수로 넣어야 한다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-responding-to-the-ne.md",
+          "title": "Responding to the next frontier of critical cyber capabilities"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+          "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+          "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제, 사람 승인의 한계",
+      "body_ko": "형식적 승인 절차가 위험을 거의 걸러내지 못한다는 실증이 나와 통제 설계를 자동 검증 중심으로 옮길 근거가 생겼다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213702",
+          "title": ""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-the-ai-safety-test-i.md",
+          "title": "The AI safety test is becoming a safety risk"
+        }
+      ]
+    },
+    {
+      "title": "금융회사, AI 인프라의 자금 공급자로",
+      "body_ko": "전력·데이터센터 투자 급증이 은행 기업금융의 신규 영역으로 전환되며 자산 평가 역량이 경쟁력이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+          "title": "\"AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대\""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/business/12121235",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 조달, 성능에서 총비용·국적으로",
+      "body_ko": "성공당 비용과 공급 지속성이 새 판단 기준으로 부상하며 단순 가격 비교의 시대가 끝났다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213665",
+          "title": ""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+          "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 성과, 증명한 곳과 못한 곳의 분기",
+      "body_ko": "시장이 AI 대응 여부로 기업을 선별하기 시작해, 도입 사실보다 증명된 성과가 평가 기준이 됐다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213710",
+          "title": ""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-네이버-ai-서비스-팩토리-투트랙-성.md",
+          "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.fnnews.com/news/202607241105578519",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

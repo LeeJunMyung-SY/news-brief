@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-08-07T08:16:36+00:00",
+  "generated_at": "2026-08-09T23:36:35+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 547,
-      "latest_date": "2026-08-07"
+      "count": 556,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 602,
-      "latest_date": "2026-08-07"
+      "count": 610,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 621,
-      "latest_date": "2026-08-07"
+      "count": 628,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1433,
-      "latest_date": "2026-08-07"
+      "count": 1450,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 244,
-      "latest_date": "2026-08-07"
+      "count": 249,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 372,
-      "latest_date": "2026-08-07"
+      "count": 379,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 219,
-      "latest_date": "2026-08-07"
+      "count": 228,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 167,
-      "latest_date": "2026-08-07"
+      "count": 173,
+      "latest_date": "2026-08-10"
     },
     {
       "key": "ai_hardware",
@@ -88,6 +88,124 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-10",
+        "file": "20260810-responding-to-the-ne.md",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#regulation",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+        "title": "가트너 '2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크'",
+        "importance": 8,
+        "tags": [
+          "#market-forecast",
+          "#open-weights",
+          "#supply-chain",
+          "#regulation",
+          "#vendor-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213719"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버-ai-서비스-팩토리-투트랙-성.md",
+        "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#ai-adoption",
+          "#datacenter",
+          "#roi-case",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670370"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+        "title": "오픈AI, '아스트라' 개발 일시 중단…'치명적 사이버공격 가능성'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+        "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…'에이전트끼리 비밀 소통'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#alignment",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213703"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-the-ai-safety-test-i.md",
+        "title": "The AI safety test is becoming a safety risk",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#regulation",
+          "#governance"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버는-ai-인프라-카카오는-에이전.md",
+        "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
+        "importance": 7,
+        "tags": [
+          "#strategy",
+          "#agent-framework",
+          "#datacenter",
+          "#rnd",
+          "#platform"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260807119900017"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
       {
         "date": "2026-08-07",
         "file": "20260807-openai-reportedly-sl.md",
@@ -8910,6 +9028,138 @@
     ],
     "llm_models": [
       {
+        "date": "2026-08-10",
+        "file": "20260810-google-dismantles-de.md",
+        "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#leadership",
+          "#vendor-risk",
+          "#enterprise-ai"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-responding-to-the-ne.md",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#regulation",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+        "title": "가트너 '2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크'",
+        "importance": 8,
+        "tags": [
+          "#market-forecast",
+          "#open-weights",
+          "#supply-chain",
+          "#regulation",
+          "#vendor-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213719"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+        "title": "오픈AI, '아스트라' 개발 일시 중단…'치명적 사이버공격 가능성'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+        "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…'에이전트끼리 비밀 소통'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#alignment",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213703"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-the-ai-safety-test-i.md",
+        "title": "The AI safety test is becoming a safety risk",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#regulation",
+          "#governance"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-단독-크래프톤-인간관계-잘-아는-로봇.md",
+        "title": "[단독] 크래프톤, 인간관계 잘 아는 '로봇 두뇌' 만든다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#embodied-ai",
+          "#model-release",
+          "#gaming",
+          "#rnd"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080927621"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-딥시크-유니트리에-300억-투자-휴머.md",
+        "title": "딥시크, 유니트리에 300억 투자…'휴머노이드 AI' 공동 개발 협력",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#robotics",
+          "#embodied-ai",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213648"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
+      {
         "date": "2026-08-07",
         "file": "20260807-abn-amro-signs-front.md",
         "title": "ABN Amro signs frontier AI deal with Mistral AI",
@@ -16864,6 +17114,108 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-08-10",
+        "file": "20260810-responding-to-the-ne.md",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#regulation",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+        "title": "가트너 '2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크'",
+        "importance": 8,
+        "tags": [
+          "#market-forecast",
+          "#open-weights",
+          "#supply-chain",
+          "#regulation",
+          "#vendor-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213719"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+        "title": "오픈AI, '아스트라' 개발 일시 중단…'치명적 사이버공격 가능성'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+        "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…'에이전트끼리 비밀 소통'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#alignment",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213703"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-the-ai-safety-test-i.md",
+        "title": "The AI safety test is becoming a safety risk",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#regulation",
+          "#governance"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
+        "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#robotics",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
       {
         "date": "2026-08-07",
         "file": "20260807-openai-reportedly-sl.md",
@@ -25916,6 +26268,255 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+        "title": "'AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대'",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#infrastructure-finance",
+          "#energy",
+          "#datacenter",
+          "#corporate-banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260807145000002"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-google-dismantles-de.md",
+        "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit",
+        "importance": 8,
+        "tags": [
+          "#org-change",
+          "#leadership",
+          "#vendor-risk",
+          "#enterprise-ai"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/google-dismantles-deepmind-and-bets-on-a-fresh-start-as-hassabis-heads-for-the-exit/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-responding-to-the-ne.md",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#regulation",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+        "title": "가트너 '2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크'",
+        "importance": 8,
+        "tags": [
+          "#market-forecast",
+          "#open-weights",
+          "#supply-chain",
+          "#regulation",
+          "#vendor-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213719"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버-ai-서비스-팩토리-투트랙-성.md",
+        "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#ai-adoption",
+          "#datacenter",
+          "#roi-case",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670370"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+        "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#energy",
+          "#datacenter",
+          "#vertical-integration",
+          "#infrastructure-finance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213711"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+        "title": "오픈AI, '아스트라' 개발 일시 중단…'치명적 사이버공격 가능성'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+        "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…'에이전트끼리 비밀 소통'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#alignment",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213703"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-s-energy-appetite.md",
+        "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#investment",
+          "#vertical-integration"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-the-ai-safety-test-i.md",
+        "title": "The AI safety test is becoming a safety risk",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#regulation",
+          "#governance"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버는-ai-인프라-카카오는-에이전.md",
+        "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
+        "importance": 7,
+        "tags": [
+          "#strategy",
+          "#agent-framework",
+          "#datacenter",
+          "#rnd",
+          "#platform"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260807119900017"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-단독-크래프톤-인간관계-잘-아는-로봇.md",
+        "title": "[단독] 크래프톤, 인간관계 잘 아는 '로봇 두뇌' 만든다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#embodied-ai",
+          "#model-release",
+          "#gaming",
+          "#rnd"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080927621"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-딥시크-유니트리에-300억-투자-휴머.md",
+        "title": "딥시크, 유니트리에 300억 투자…'휴머노이드 AI' 공동 개발 협력",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#robotics",
+          "#embodied-ai",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213648"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-롯데-신선식품-경쟁력에-오카도-자동화.md",
+        "title": "롯데, 신선식품 경쟁력에 오카도 자동화 결합…'제타' CFC 부산 가동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#automation",
+          "#logistics",
+          "#partnership",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670440"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-backflip-ai-turns-3d.md",
+        "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+        "importance": 6,
+        "tags": [
+          "#manufacturing",
+          "#model-release",
+          "#digital-twin",
+          "#ai-adoption"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
+        "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#robotics",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
       {
         "date": "2026-08-07",
         "file": "20260807-abn-amro-signs-front.md",
@@ -46894,6 +47495,80 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-08-10",
+        "file": "20260810-단독-크래프톤-인간관계-잘-아는-로봇.md",
+        "title": "[단독] 크래프톤, 인간관계 잘 아는 '로봇 두뇌' 만든다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#embodied-ai",
+          "#model-release",
+          "#gaming",
+          "#rnd"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080927621"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-딥시크-유니트리에-300억-투자-휴머.md",
+        "title": "딥시크, 유니트리에 300억 투자…'휴머노이드 AI' 공동 개발 협력",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#robotics",
+          "#embodied-ai",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213648"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-롯데-신선식품-경쟁력에-오카도-자동화.md",
+        "title": "롯데, 신선식품 경쟁력에 오카도 자동화 결합…'제타' CFC 부산 가동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#automation",
+          "#logistics",
+          "#partnership",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670440"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
+        "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#robotics",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
+      {
         "date": "2026-08-07",
         "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
         "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
@@ -50486,6 +51161,109 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+        "title": "'AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대'",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#infrastructure-finance",
+          "#energy",
+          "#datacenter",
+          "#corporate-banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260807145000002"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버-ai-서비스-팩토리-투트랙-성.md",
+        "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#ai-adoption",
+          "#datacenter",
+          "#roi-case",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670370"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+        "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#energy",
+          "#datacenter",
+          "#vertical-integration",
+          "#infrastructure-finance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213711"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-s-energy-appetite.md",
+        "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#investment",
+          "#vertical-integration"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버는-ai-인프라-카카오는-에이전.md",
+        "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
+        "importance": 7,
+        "tags": [
+          "#strategy",
+          "#agent-framework",
+          "#datacenter",
+          "#rnd",
+          "#platform"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260807119900017"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
+        "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#robotics",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
       {
         "date": "2026-08-07",
         "file": "20260807-amd-buys-chip-startu.md",
@@ -55943,6 +56721,138 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-08-10",
+        "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+        "title": "'AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대'",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#infrastructure-finance",
+          "#energy",
+          "#datacenter",
+          "#corporate-banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260807145000002"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-responding-to-the-ne.md",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#regulation",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+        "title": "가트너 '2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크'",
+        "importance": 8,
+        "tags": [
+          "#market-forecast",
+          "#open-weights",
+          "#supply-chain",
+          "#regulation",
+          "#vendor-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213719"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-네이버-ai-서비스-팩토리-투트랙-성.md",
+        "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동",
+        "importance": 8,
+        "tags": [
+          "#monetization",
+          "#ai-adoption",
+          "#datacenter",
+          "#roi-case",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670370"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+        "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#energy",
+          "#datacenter",
+          "#vertical-integration",
+          "#infrastructure-finance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213711"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+        "title": "오픈AI, '아스트라' 개발 일시 중단…'치명적 사이버공격 가능성'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#model-release",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+        "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…'에이전트끼리 비밀 소통'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#alignment",
+          "#cybersecurity",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213703"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-s-energy-appetite.md",
+        "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#energy",
+          "#investment",
+          "#vertical-integration"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/ais-energy-appetite-drives-nvidia-and-amazon-to-pour-billions-into-massive-power-infrastructure/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-the-ai-safety-test-i.md",
+        "title": "The AI safety test is becoming a safety risk",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#regulation",
+          "#governance"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      },
+      {
         "date": "2026-08-07",
         "file": "20260807-abn-amro-signs-front.md",
         "title": "ABN Amro signs frontier AI deal with Mistral AI",
@@ -59211,6 +60121,94 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-08-10",
+        "file": "20260810-단독-크래프톤-인간관계-잘-아는-로봇.md",
+        "title": "[단독] 크래프톤, 인간관계 잘 아는 '로봇 두뇌' 만든다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#embodied-ai",
+          "#model-release",
+          "#gaming",
+          "#rnd"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026080927621"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-딥시크-유니트리에-300억-투자-휴머.md",
+        "title": "딥시크, 유니트리에 300억 투자…'휴머노이드 AI' 공동 개발 협력",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#robotics",
+          "#embodied-ai",
+          "#ipo"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213648"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-롯데-신선식품-경쟁력에-오카도-자동화.md",
+        "title": "롯데, 신선식품 경쟁력에 오카도 자동화 결합…'제타' CFC 부산 가동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#automation",
+          "#logistics",
+          "#partnership",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670440"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+        "title": "中 AI, 자립 가속…'2030년 가속기 절반 자국산'",
+        "importance": 6,
+        "tags": [
+          "#market-forecast",
+          "#supply-chain",
+          "#china-ai",
+          "#open-weights",
+          "#robotics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260809083702"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-backflip-ai-turns-3d.md",
+        "title": "Backflip AI turns 3D scans into editable CAD models in minutes instead of hours",
+        "importance": 6,
+        "tags": [
+          "#manufacturing",
+          "#model-release",
+          "#digital-twin",
+          "#ai-adoption"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/backflip-ai-turns-3d-scans-into-editable-cad-models-in-minutes-instead-of-hours/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
+        "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#robotics",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
+      {
         "date": "2026-08-07",
         "file": "20260807-구광모-lg-회장-내주-실리콘밸리서-.md",
         "title": "구광모 LG 회장, 내주 美 실리콘밸리서 젠슨 황 재회동",
@@ -61808,7 +62806,236 @@
     ]
   },
   "daily_issues": {
+    "llm_models": [
+      {
+        "date": "2026-08-10",
+        "title": "프런티어 모델, 안전 기준에 막히다",
+        "summary": "역량 향상이 더는 출시로 직결되지 않으며, 벤더 안전 정책이 도입 일정의 변수가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-responding-to-the-ne.md",
+            "title": "Responding to the next frontier of critical cyber capabilities"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-the-ai-safety-test-i.md",
+            "title": "The AI safety test is becoming a safety risk"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "구글 AI 조직 해체와 인재 이탈",
+        "summary": "모델 공급사의 조직 안정성이 벤더 실사 항목으로 올라섰다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-google-dismantles-de.md",
+            "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213712",
+            "title": ""
+          },
+          {
+            "url": "https://www.hankyung.com/article/202608070549i",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "중국 모델 도입률 급등 전망",
+        "summary": "가격 우위와 지정학 리스크를 맞바꾸는 조달 선택 국면에 들어섰다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+            "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+            "title": "中 AI, 자립 가속…\"2030년 가속기 절반 자국산\""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
+        "summary": "통제 부담은 조달 방식과 무관하게 상품 계층으로 내려왔다.",
+        "articles": [
+          {
+            "date": "2026-08-07",
+            "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
+            "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\""
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+            "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
+            "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260807131003",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "title": "엔터프라이즈 AI 도입 저변 확대",
+        "summary": "엔터프라이즈 AI 도입 저변이 밸류체인 전체로 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-08-05",
+            "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
+            "title": "태평양, 국내 로펌 최초 챗GPT 엔터프라이즈 전사 도입"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+            "title": "LG 엑사원, 중소 제조현장에 AI 에이전트로 확산"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+            "title": "SKT, 688B 'A.X K2' 공개…산업 에이전트 정조준"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "title": "오픈웨이트 경쟁 격화",
+        "summary": "오픈웨이트 성능 추격으로 조달 선택지가 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-08-04",
+            "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
+            "title": "알리바바 큐원 3.8 맥스 공개, 2.4조 파라미터"
+          },
+          {
+            "date": "2026-08-04",
+            "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
+            "title": "국산 독자 AI 4사, 오픈웨이트 모델 공개"
+          },
+          {
+            "date": "2026-08-04",
+            "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
+            "title": "딥시크, 저가 에이전트 하네스로 판 흔든다"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "title": "가격 인하가 부른 수요 폭발",
+        "summary": "AI 도입의 걸림돌이 비용에서 활용 역량으로 옮겨갔다.",
+        "articles": [
+          {
+            "date": "2026-08-03",
+            "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+            "title": "오픈AI, 가격 인하 후 사용자 10억 돌파"
+          },
+          {
+            "date": "2026-08-03",
+            "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
+            "title": "아마존, 오픈AI에 72조 투자 완료"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-31",
+        "title": "AI 도입 원가 구조 재편",
+        "summary": "프리미엄과 저가 모델을 업무별로 조합하는 전략이 현실화됐다.",
+        "articles": [
+          {
+            "date": "2026-07-31",
+            "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+            "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"
+          },
+          {
+            "date": "2026-07-31",
+            "file": "20260731-microsoft-ai-bets-on.md",
+            "title": "Microsoft AI bets on cheap specialist models"
+          }
+        ]
+      }
+    ],
     "ai_agents": [
+      {
+        "date": "2026-08-10",
+        "title": "프런티어 모델, 안전 기준에 막히다",
+        "summary": "역량 향상이 더는 출시로 직결되지 않으며, 벤더 안전 정책이 도입 일정의 변수가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-responding-to-the-ne.md",
+            "title": "Responding to the next frontier of critical cyber capabilities"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-the-ai-safety-test-i.md",
+            "title": "The AI safety test is becoming a safety risk"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+            "title": ""
+          }
+        ]
+      },
       {
         "date": "2026-08-07",
         "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
@@ -61959,6 +63186,70 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-08-10",
+        "title": "프런티어 모델, 안전 기준에 막히다",
+        "summary": "역량 향상이 더는 출시로 직결되지 않으며, 벤더 안전 정책이 도입 일정의 변수가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-responding-to-the-ne.md",
+            "title": "Responding to the next frontier of critical cyber capabilities"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-the-ai-safety-test-i.md",
+            "title": "The AI safety test is becoming a safety risk"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "중국 모델 도입률 급등 전망",
+        "summary": "가격 우위와 지정학 리스크를 맞바꾸는 조달 선택 국면에 들어섰다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+            "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+            "title": "中 AI, 자립 가속…\"2030년 가속기 절반 자국산\""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
+            "title": ""
+          }
+        ]
+      },
       {
         "date": "2026-08-07",
         "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
@@ -62135,113 +63426,72 @@
         ]
       }
     ],
-    "llm_models": [
+    "금융회사 AI": [
       {
-        "date": "2026-08-07",
-        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
-        "summary": "통제 부담은 조달 방식과 무관하게 상품 계층으로 내려왔다.",
+        "date": "2026-08-10",
+        "title": "프런티어 모델, 안전 기준에 막히다",
+        "summary": "역량 향상이 더는 출시로 직결되지 않으며, 벤더 안전 정책이 도입 일정의 변수가 됐다.",
         "articles": [
           {
-            "date": "2026-08-07",
-            "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
-            "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\""
+            "date": "2026-08-10",
+            "file": "20260810-responding-to-the-ne.md",
+            "title": "Responding to the next frontier of critical cyber capabilities"
           },
           {
-            "date": "2026-08-07",
-            "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
-            "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
           },
           {
-            "date": "2026-08-07",
-            "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
-            "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동"
+            "date": "2026-08-10",
+            "file": "20260810-the-ai-safety-test-i.md",
+            "title": "The AI safety test is becoming a safety risk"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260807131003",
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/08/hugging-face-ai-hack-cybersecurity-black-hat.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
             "title": ""
           }
         ]
       },
       {
-        "date": "2026-08-05",
-        "title": "엔터프라이즈 AI 도입 저변 확대",
-        "summary": "엔터프라이즈 AI 도입 저변이 밸류체인 전체로 넓어졌다.",
+        "date": "2026-08-10",
+        "title": "AI 병목, 칩에서 전력·자본으로",
+        "summary": "인프라 조달이 금융 영역으로 넘어가며 은행에 새로운 기업금융 수요가 열렸다.",
         "articles": [
           {
-            "date": "2026-08-05",
-            "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
-            "title": "태평양, 국내 로펌 최초 챗GPT 엔터프라이즈 전사 도입"
+            "date": "2026-08-10",
+            "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+            "title": "\"AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대\""
           },
           {
-            "date": "2026-08-05",
-            "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
-            "title": "LG 엑사원, 중소 제조현장에 AI 에이전트로 확산"
+            "date": "2026-08-10",
+            "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+            "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
           },
           {
-            "date": "2026-08-05",
-            "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
-            "title": "SKT, 688B 'A.X K2' 공개…산업 에이전트 정조준"
+            "url": "https://www.mk.co.kr/news/business/12121235",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-s-energy-appetite.md",
+            "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure"
           }
         ]
       },
-      {
-        "date": "2026-08-04",
-        "title": "오픈웨이트 경쟁 격화",
-        "summary": "오픈웨이트 성능 추격으로 조달 선택지가 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-08-04",
-            "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
-            "title": "알리바바 큐원 3.8 맥스 공개, 2.4조 파라미터"
-          },
-          {
-            "date": "2026-08-04",
-            "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
-            "title": "국산 독자 AI 4사, 오픈웨이트 모델 공개"
-          },
-          {
-            "date": "2026-08-04",
-            "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
-            "title": "딥시크, 저가 에이전트 하네스로 판 흔든다"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-03",
-        "title": "가격 인하가 부른 수요 폭발",
-        "summary": "AI 도입의 걸림돌이 비용에서 활용 역량으로 옮겨갔다.",
-        "articles": [
-          {
-            "date": "2026-08-03",
-            "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
-            "title": "오픈AI, 가격 인하 후 사용자 10억 돌파"
-          },
-          {
-            "date": "2026-08-03",
-            "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
-            "title": "아마존, 오픈AI에 72조 투자 완료"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-31",
-        "title": "AI 도입 원가 구조 재편",
-        "summary": "프리미엄과 저가 모델을 업무별로 조합하는 전략이 현실화됐다.",
-        "articles": [
-          {
-            "date": "2026-07-31",
-            "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
-            "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"
-          },
-          {
-            "date": "2026-07-31",
-            "file": "20260731-microsoft-ai-bets-on.md",
-            "title": "Microsoft AI bets on cheap specialist models"
-          }
-        ]
-      }
-    ],
-    "금융회사 AI": [
       {
         "date": "2026-08-07",
         "title": "글로벌 금융권, 도입에서 구조 개편으로",
@@ -62492,7 +63742,308 @@
         ]
       }
     ],
+    "ai_compute_energy": [
+      {
+        "date": "2026-08-10",
+        "title": "AI 병목, 칩에서 전력·자본으로",
+        "summary": "인프라 조달이 금융 영역으로 넘어가며 은행에 새로운 기업금융 수요가 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+            "title": "\"AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+            "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/business/12121235",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-s-energy-appetite.md",
+            "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "AI 자산의 값매김, 담보와 사모를 지나 공모시장으로",
+        "summary": "AI 자산 가격 기준이 담보·사모를 지나 공모시장으로 이동했다.",
+        "articles": [
+          {
+            "date": "2026-08-07",
+            "file": "20260807-소프트뱅크-오픈ai-지분-담보로-10.md",
+            "title": "소프트뱅크, 오픈AI 지분 담보로 100억 달러 조달…'AI 올인' 가속"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-amd-buys-chip-startu.md",
+            "title": "AMD, 모델을 칩에 새기는 스타트업 탈라스 인수"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-딥시크-11조-규모-2차-투자-유치-.md",
+            "title": "딥시크, 11조 규모 2차 투자 유치 재개...몸값 105조로 상승"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-유니트리-ipo로-1-3조-조달-나서.md",
+            "title": "유니트리 IPO로 1.3조 조달 나서…中  첫 휴머노이드 상장사 탄생 임박"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-베슬ai-엔비디아-b200-gpu-1.md",
+            "title": "베슬AI, 엔비디아 B200 GPU 1천장 이상 확보…\"AI 팩토리 확장\""
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-ai도-변동성-극심-메모리-vs-빅테.md",
+            "title": "美 AI도 변동성 극심 … 메모리 vs 빅테크 어느 액티브 ETF로 갈아탈까"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-06",
+        "title": "제조·통신의 AI 성과와 투자",
+        "summary": "AI가 실험 예산 아닌 설비 투자 항목이 되고 있다.",
+        "articles": [
+          {
+            "date": "2026-08-06",
+            "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
+            "title": "KG스틸, SKT A.X K2로 설비 오류 대응 30% 단축"
+          },
+          {
+            "date": "2026-08-06",
+            "file": "20260806-lgu-aidc에-2조-투자-외부-조.md",
+            "title": "LG유플러스, AIDC에 2조원 투자"
+          },
+          {
+            "date": "2026-08-06",
+            "file": "20260806-cj제일제당-식품업계-최초-ai-플랫.md",
+            "title": "CJ제일제당, 식품업계 첫 AI 플랫폼 '푸드 AI 360'"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "title": "정책금융의 AI 투입과 인허가 마찰",
+        "summary": "자금은 열리고 인허가는 좁아지는 비대칭이 커졌다.",
+        "articles": [
+          {
+            "date": "2026-08-05",
+            "file": "20260805-우정사업본부-산은과-1조원-규모-ai.md",
+            "title": "우정사업본부·산은, 1조원 AI 인프라 펀드 조성"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-하태경-보험연수원-ai-합작법인-금융.md",
+            "title": "보험연수원 AI 합작법인, 금융위 반대로 좌초 위기"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "title": "AI 인프라 자금조달의 금융공학화",
+        "summary": "AI 인프라 조달이 구조화 금융 영역으로 진화했다.",
+        "articles": [
+          {
+            "date": "2026-08-05",
+            "file": "20260805-google-moves-billion.md",
+            "title": "구글, 앤트로픽 칩 리스크 수십억달러 부외 이전"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-앤트로픽-신생-클라우드-스타트업-볼타.md",
+            "title": "앤트로픽, 신생 네오클라우드 볼타와 14조 컴퓨팅 계약"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-텍사스-전력망-붕괴-우려에-데이터센터.md",
+            "title": "텍사스, 전력망 우려에 데이터센터 1800곳 승인 동결"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "title": "규제·인프라의 제도화 진행",
+        "summary": "AI 제도와 인프라가 규제·투자 양면에서 굳어지고 있다.",
+        "articles": [
+          {
+            "date": "2026-08-03",
+            "file": "20260803-eu-챗봇-딥페이크에-ai-생성-표시.md",
+            "title": "EU, 챗봇·딥페이크에 'AI 생성' 표시 의무 시행"
+          },
+          {
+            "date": "2026-08-03",
+            "file": "20260803-국가-ai-컴퓨팅센터-전남-해남서-첫.md",
+            "title": "2.5조 국가 AI 컴퓨팅센터 해남 착공"
+          },
+          {
+            "date": "2026-08-03",
+            "file": "20260803-ai-고속도로-엔비디아-amd-손잡은.md",
+            "title": "정부, AMD까지 확대…AI 인프라 다변화"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-31",
+        "title": "AI 투자 '실적 증명' 시대와 공공자본 가세",
+        "summary": "AI 인프라가 수익 증명과 국가 전략 자산으로 동시에 인정받았다.",
+        "articles": [
+          {
+            "date": "2026-07-31",
+            "file": "20260731-아마존-분기-매출-2000억달러-첫-.md",
+            "title": "아마존, 분기 매출 2000억달러 첫 돌파…AWS 36.7%↑"
+          },
+          {
+            "date": "2026-07-31",
+            "file": "20260731-ai-투자도-실적-증명-시대-ms가-.md",
+            "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준"
+          },
+          {
+            "date": "2026-07-31",
+            "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
+            "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자"
+          },
+          {
+            "date": "2026-07-31",
+            "file": "20260731-eu-ai-기가팩토리-7곳-확정-총-.md",
+            "title": "EU, 'AI 기가팩토리' 7곳 확정…총 49조원"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "title": "빅테크 실적으로 갈린 AI 투자 평가",
+        "summary": "AI 투자 평가가 '얼마나 쓰나'에서 '얼마나 버나'로 넘어갔다.",
+        "articles": [
+          {
+            "date": "2026-07-30",
+            "file": "20260730-ms-ai가-이끈-깜짝-실적-애저-첫.md",
+            "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러"
+          },
+          {
+            "date": "2026-07-30",
+            "file": "20260730-메타-ai-투자에-현금-다-썼다-영업.md",
+            "title": "메타, AI 투자에 현금 다 썼다"
+          },
+          {
+            "date": "2026-07-30",
+            "file": "20260730-zuckerberg-lays-out-.md",
+            "title": "저커버그, AI 컴퓨트 '판매 vs 자체 사용' 딜레마 제시"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-30",
+        "title": "국내 AI 인프라 총력전",
+        "summary": "컴퓨트 확보가 국가 단위 민관 연합 체제로 전환됐다.",
+        "articles": [
+          {
+            "date": "2026-07-30",
+            "file": "20260730-대체-불가-토큰-수출국-목표-민-관-.md",
+            "title": "민·관 주도 'AIDC 얼라이언스' 공식 출범"
+          },
+          {
+            "date": "2026-07-30",
+            "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
+            "title": "삼성SDS 'AI 인프라 800MW까지 확대…풀스택 성장 가속'"
+          }
+        ]
+      }
+    ],
     "ai_industry": [
+      {
+        "date": "2026-08-10",
+        "title": "AI 병목, 칩에서 전력·자본으로",
+        "summary": "인프라 조달이 금융 영역으로 넘어가며 은행에 새로운 기업금융 수요가 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
+            "title": "\"AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+            "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/business/12121235",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-s-energy-appetite.md",
+            "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "구글 AI 조직 해체와 인재 이탈",
+        "summary": "모델 공급사의 조직 안정성이 벤더 실사 항목으로 올라섰다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-google-dismantles-de.md",
+            "title": "Google dismantles Deepmind and bets on a fresh start as Hassabis heads for the exit"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213712",
+            "title": ""
+          },
+          {
+            "url": "https://www.hankyung.com/article/202608070549i",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "중국 모델 도입률 급등 전망",
+        "summary": "가격 우위와 지정학 리스크를 맞바꾸는 조달 선택 국면에 들어섰다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+            "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+            "title": "中 AI, 자립 가속…\"2030년 가속기 절반 자국산\""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+            "title": ""
+          },
+          {
+            "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
+            "title": ""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
+            "title": ""
+          }
+        ]
+      },
       {
         "date": "2026-08-07",
         "title": "AI 자산의 값매김, 담보와 사모를 지나 공모시장으로",
@@ -62753,194 +64304,6 @@
             "date": "2026-07-31",
             "file": "20260731-microsoft-ai-bets-on.md",
             "title": "Microsoft AI bets on cheap specialist models"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-31",
-        "title": "AI 투자 '실적 증명' 시대와 공공자본 가세",
-        "summary": "AI 인프라가 수익 증명과 국가 전략 자산으로 동시에 인정받았다.",
-        "articles": [
-          {
-            "date": "2026-07-31",
-            "file": "20260731-아마존-분기-매출-2000억달러-첫-.md",
-            "title": "아마존, 분기 매출 2000억달러 첫 돌파…AWS 36.7%↑"
-          },
-          {
-            "date": "2026-07-31",
-            "file": "20260731-ai-투자도-실적-증명-시대-ms가-.md",
-            "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준"
-          },
-          {
-            "date": "2026-07-31",
-            "file": "20260731-20조원-전략형-국부펀드-띄운다-ai.md",
-            "title": "20조원 전략형 국부펀드 띄운다…AI·반도체 장기 투자"
-          },
-          {
-            "date": "2026-07-31",
-            "file": "20260731-eu-ai-기가팩토리-7곳-확정-총-.md",
-            "title": "EU, 'AI 기가팩토리' 7곳 확정…총 49조원"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-30",
-        "title": "빅테크 실적으로 갈린 AI 투자 평가",
-        "summary": "AI 투자 평가가 '얼마나 쓰나'에서 '얼마나 버나'로 넘어갔다.",
-        "articles": [
-          {
-            "date": "2026-07-30",
-            "file": "20260730-ms-ai가-이끈-깜짝-실적-애저-첫.md",
-            "title": "MS, AI가 이끈 '깜짝 실적'…애저 첫 연매출 1000억 달러"
-          },
-          {
-            "date": "2026-07-30",
-            "file": "20260730-메타-ai-투자에-현금-다-썼다-영업.md",
-            "title": "메타, AI 투자에 현금 다 썼다"
-          },
-          {
-            "date": "2026-07-30",
-            "file": "20260730-zuckerberg-lays-out-.md",
-            "title": "저커버그, AI 컴퓨트 '판매 vs 자체 사용' 딜레마 제시"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-30",
-        "title": "국내 AI 인프라 총력전",
-        "summary": "컴퓨트 확보가 국가 단위 민관 연합 체제로 전환됐다.",
-        "articles": [
-          {
-            "date": "2026-07-30",
-            "file": "20260730-대체-불가-토큰-수출국-목표-민-관-.md",
-            "title": "민·관 주도 'AIDC 얼라이언스' 공식 출범"
-          },
-          {
-            "date": "2026-07-30",
-            "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
-            "title": "삼성SDS 'AI 인프라 800MW까지 확대…풀스택 성장 가속'"
-          }
-        ]
-      }
-    ],
-    "ai_compute_energy": [
-      {
-        "date": "2026-08-07",
-        "title": "AI 자산의 값매김, 담보와 사모를 지나 공모시장으로",
-        "summary": "AI 자산 가격 기준이 담보·사모를 지나 공모시장으로 이동했다.",
-        "articles": [
-          {
-            "date": "2026-08-07",
-            "file": "20260807-소프트뱅크-오픈ai-지분-담보로-10.md",
-            "title": "소프트뱅크, 오픈AI 지분 담보로 100억 달러 조달…'AI 올인' 가속"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-amd-buys-chip-startu.md",
-            "title": "AMD, 모델을 칩에 새기는 스타트업 탈라스 인수"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-딥시크-11조-규모-2차-투자-유치-.md",
-            "title": "딥시크, 11조 규모 2차 투자 유치 재개...몸값 105조로 상승"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-유니트리-ipo로-1-3조-조달-나서.md",
-            "title": "유니트리 IPO로 1.3조 조달 나서…中  첫 휴머노이드 상장사 탄생 임박"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-베슬ai-엔비디아-b200-gpu-1.md",
-            "title": "베슬AI, 엔비디아 B200 GPU 1천장 이상 확보…\"AI 팩토리 확장\""
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-ai도-변동성-극심-메모리-vs-빅테.md",
-            "title": "美 AI도 변동성 극심 … 메모리 vs 빅테크 어느 액티브 ETF로 갈아탈까"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-06",
-        "title": "제조·통신의 AI 성과와 투자",
-        "summary": "AI가 실험 예산 아닌 설비 투자 항목이 되고 있다.",
-        "articles": [
-          {
-            "date": "2026-08-06",
-            "file": "20260806-kg스틸-skt-독자-ai모델로-설비.md",
-            "title": "KG스틸, SKT A.X K2로 설비 오류 대응 30% 단축"
-          },
-          {
-            "date": "2026-08-06",
-            "file": "20260806-lgu-aidc에-2조-투자-외부-조.md",
-            "title": "LG유플러스, AIDC에 2조원 투자"
-          },
-          {
-            "date": "2026-08-06",
-            "file": "20260806-cj제일제당-식품업계-최초-ai-플랫.md",
-            "title": "CJ제일제당, 식품업계 첫 AI 플랫폼 '푸드 AI 360'"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-05",
-        "title": "정책금융의 AI 투입과 인허가 마찰",
-        "summary": "자금은 열리고 인허가는 좁아지는 비대칭이 커졌다.",
-        "articles": [
-          {
-            "date": "2026-08-05",
-            "file": "20260805-우정사업본부-산은과-1조원-규모-ai.md",
-            "title": "우정사업본부·산은, 1조원 AI 인프라 펀드 조성"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-하태경-보험연수원-ai-합작법인-금융.md",
-            "title": "보험연수원 AI 합작법인, 금융위 반대로 좌초 위기"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-05",
-        "title": "AI 인프라 자금조달의 금융공학화",
-        "summary": "AI 인프라 조달이 구조화 금융 영역으로 진화했다.",
-        "articles": [
-          {
-            "date": "2026-08-05",
-            "file": "20260805-google-moves-billion.md",
-            "title": "구글, 앤트로픽 칩 리스크 수십억달러 부외 이전"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-앤트로픽-신생-클라우드-스타트업-볼타.md",
-            "title": "앤트로픽, 신생 네오클라우드 볼타와 14조 컴퓨팅 계약"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-텍사스-전력망-붕괴-우려에-데이터센터.md",
-            "title": "텍사스, 전력망 우려에 데이터센터 1800곳 승인 동결"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-03",
-        "title": "규제·인프라의 제도화 진행",
-        "summary": "AI 제도와 인프라가 규제·투자 양면에서 굳어지고 있다.",
-        "articles": [
-          {
-            "date": "2026-08-03",
-            "file": "20260803-eu-챗봇-딥페이크에-ai-생성-표시.md",
-            "title": "EU, 챗봇·딥페이크에 'AI 생성' 표시 의무 시행"
-          },
-          {
-            "date": "2026-08-03",
-            "file": "20260803-국가-ai-컴퓨팅센터-전남-해남서-첫.md",
-            "title": "2.5조 국가 AI 컴퓨팅센터 해남 착공"
-          },
-          {
-            "date": "2026-08-03",
-            "file": "20260803-ai-고속도로-엔비디아-amd-손잡은.md",
-            "title": "정부, AMD까지 확대…AI 인프라 다변화"
           }
         ]
       },
