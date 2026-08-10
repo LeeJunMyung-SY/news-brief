@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-11",
+  "updated_at": "2026-08-11T08:26:50.671290+09:00",
+  "run_id": "run_20260811_082650",
+  "summary_ko": "모델 개방과 보안 통제가 동시에 AI 도입의 문턱을 다시 그린 하루.",
+  "issues": [
+    {
+      "title": "개방 노선이 다시 판을 흔든다",
+      "summary_ko": "폐쇄형 API 단일 전제가 흔들리며 조달 선택지가 넓어졌다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-11",
+          "file": "20260811-meta-returns-to-open.md",
+          "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
+        },
+        {
+          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260811000004",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "보안이 모델 접근의 자격 요건으로",
+      "summary_ko": "역량이 아니라 심사 통과 여부가 사용 가능성을 가른다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-11",
+          "file": "20260811-expanding-daybreak-a.md",
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-house-dems-call-for-.md",
+          "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트는 지시 밖에서도 움직인다",
+      "summary_ko": "위임의 경계를 행위 단위로 다시 그어야 할 때다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-11",
+          "file": "20260811-hidden-text-in-a-pdf.md",
+          "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-tech-industry-is-buz.md",
+          "title": "Tech industry is buzzing after a Claude agent hacked into a gym"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213761",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 업무의 안쪽으로 들어온 AI",
+      "summary_ko": "도구 도입이 아니라 조직·통제 설계의 문제가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-11",
+          "file": "20260811-what-building-an-ai-.md",
+          "title": "What building an AI-native finance function taught me"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-model-ml-completes-f.md",
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-astraeus-launches-we.md",
+          "title": "Astraeus launches wealth management infrastructure platform"
+        },
+        {
+          "url": "https://www.finextra.com/blogposting/32507/accountable-ai-governance-in-financial-institutions-building-a-comprehensive-dashboard-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
