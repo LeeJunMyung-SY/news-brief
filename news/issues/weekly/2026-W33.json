@@ -1,12 +1,12 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-10T08:36:30.193404+09:00",
-  "run_id": "run_20260810_083630",
-  "summary_ko": "안전·조직·자금이라는 비기술 변수가 AI 도입 속도를 결정하기 시작한 주.",
+  "updated_at": "2026-08-10T12:20:39.231253+09:00",
+  "run_id": "run_20260810_122039",
+  "summary_ko": "안전·자금·조직이라는 비기술 변수가 AI 도입 속도와 가치를 가른 주.",
   "issues": [
     {
-      "title": "안전 임계가 출시를 멈춰 세우다",
-      "body_ko": "모델 역량이 안전 기준에 막히는 구조가 정착돼, 도입 일정에 벤더발 지연을 상수로 넣어야 한다.",
+      "title": "안전 임계와 공격 자동화의 양면",
+      "body_ko": "역량 향상이 출시를 막는 동시에 공격 측 자동화를 키워, 통제 설계를 행위 기반으로 옮길 시점이 됐다.",
       "topics": [
         "llm_models",
         "ai_agents",
@@ -27,40 +27,26 @@
           "date": "2026-08-10",
           "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
           "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
-        }
-      ]
-    },
-    {
-      "title": "에이전트 통제, 사람 승인의 한계",
-      "body_ko": "형식적 승인 절차가 위험을 거의 걸러내지 못한다는 실증이 나와 통제 설계를 자동 검증 중심으로 옮길 근거가 생겼다.",
-      "topics": [
-        "ai_agents",
-        "금융회사 AI",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "url": "https://the-decoder.com/anthropic-sets-claude-code-to-auto-mode-by-default-to-protect-developers-from-bad-approvals/",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213702",
-          "title": ""
         },
         {
           "date": "2026-08-10",
           "file": "20260810-the-ai-safety-test-i.md",
           "title": "The AI safety test is becoming a safety risk"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
+          "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
         }
       ]
     },
     {
-      "title": "금융회사, AI 인프라의 자금 공급자로",
-      "body_ko": "전력·데이터센터 투자 급증이 은행 기업금융의 신규 영역으로 전환되며 자산 평가 역량이 경쟁력이 됐다.",
+      "title": "금융회사, 자금 공급자이자 실사용자로",
+      "body_ko": "AI 인프라 여신 기회와 내부 업무 자동화가 동시에 열리며 평가 역량과 실행 성과가 함께 요구된다.",
       "topics": [
         "금융회사 AI",
         "ai_compute_energy",
-        "ai_industry"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -70,18 +56,18 @@
         },
         {
           "date": "2026-08-10",
-          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
-          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
+          "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
+          "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
         },
         {
-          "url": "https://www.mk.co.kr/news/business/12121235",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=670474",
           "title": ""
         }
       ]
     },
     {
-      "title": "모델 조달, 성능에서 총비용·국적으로",
-      "body_ko": "성공당 비용과 공급 지속성이 새 판단 기준으로 부상하며 단순 가격 비교의 시대가 끝났다.",
+      "title": "모델 조달, 가격 붕괴와 국적 리스크",
+      "body_ko": "단가 경쟁이 무료화까지 치닫는 한편 공급 지속성 위험이 커져, 총비용과 공급망을 함께 보는 조달 기준이 필요해졌다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -89,48 +75,74 @@
       ],
       "articles": [
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213665",
-          "title": ""
-        },
-        {
           "date": "2026-08-10",
           "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
           "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213698",
-          "title": ""
+          "date": "2026-08-10",
+          "file": "20260810-ai-자립-가속-2030년-가속기-절.md",
+          "title": "中 AI, 자립 가속…\"2030년 가속기 절반 자국산\""
         },
         {
-          "url": "https://www.cnbc.com/2026/08/07/china-us-ai-race-hugging-face-models.html",
-          "title": ""
+          "date": "2026-08-10",
+          "file": "20260810-ai는-지금-ai-저가-공세에-빅테크.md",
+          "title": "[AI는 지금] 中 AI 저가 공세에 美 빅테크 '긴장'…\"싸질수록 GPU 더 쓴다\""
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-오픈ai는-왜-루나-를-무료로-풀었을.md",
+          "title": "오픈AI는 왜 ‘루나’를 무료로 풀었을까"
         }
       ]
     },
     {
-      "title": "AI 성과, 증명한 곳과 못한 곳의 분기",
-      "body_ko": "시장이 AI 대응 여부로 기업을 선별하기 시작해, 도입 사실보다 증명된 성과가 평가 기준이 됐다.",
+      "title": "AI가 소프트웨어 가치구조를 재편",
+      "body_ko": "기존 SW의 기능과 가격이 잠식되며 구독 조달에 벤더 존속 리스크를 반영해야 하는 국면이 열렸다.",
       "topics": [
         "ai_industry",
-        "금융회사 AI"
+        "llm_models"
       ],
       "articles": [
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213710",
-          "title": ""
+          "date": "2026-08-10",
+          "file": "20260810-헐값-매각-급락-급등-saas-시장-.md",
+          "title": "헐값 매각·급락·급등...SaaS 시장 '사스포칼립스' 혼란 지속"
+        }
+      ]
+    },
+    {
+      "title": "인프라 투자가 실적으로 검증되다",
+      "body_ko": "전력·메모리 밸류체인에서 수주와 이익이 확인되며 AI 테마가 기대에서 현금흐름 평가 단계로 넘어갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-10",
+          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
         },
         {
           "date": "2026-08-10",
-          "file": "20260810-네이버-ai-서비스-팩토리-투트랙-성.md",
-          "title": "네이버, 'AI 서비스·팩토리' 투트랙 성장 전략 가동"
+          "file": "20260810-ai-s-energy-appetite.md",
+          "title": "AI's energy appetite drives Nvidia and Amazon to pour billions into massive power infrastructure"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
-          "title": ""
+          "date": "2026-08-10",
+          "file": "20260810-전력-온에어-ls일렉트릭-gs건설과-.md",
+          "title": "[전력 온에어] LS일렉트릭, GS건설과 AIDC '직류 배전' 맞손"
         },
         {
-          "url": "https://www.fnnews.com/news/202607241105578519",
-          "title": ""
+          "date": "2026-08-10",
+          "file": "20260810-ai-데이터센터-훈풍-탄-산일전기-5.md",
+          "title": "AI·데이터센터 훈풍 탄 산일전기, 5개 분기 연속 ‘역대 최대 실적’"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-애플-메모리-부족해-가격-올리더니-창.md",
+          "title": "애플, 메모리 부족해 가격 올리더니…\"中창신메모리 칩 적용 시험\""
         }
       ]
     }
