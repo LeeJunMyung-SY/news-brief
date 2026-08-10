@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-10T03:20:43+00:00",
+  "generated_at": "2026-08-10T07:28:32+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 560,
+      "count": 565,
       "latest_date": "2026-08-10"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 614,
+      "count": 621,
       "latest_date": "2026-08-10"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 632,
+      "count": 644,
       "latest_date": "2026-08-10"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1461,
+      "count": 1476,
       "latest_date": "2026-08-10"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 250,
+      "count": 252,
       "latest_date": "2026-08-10"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 383,
+      "count": 388,
       "latest_date": "2026-08-10"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 231,
+      "count": 236,
       "latest_date": "2026-08-10"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 174,
+      "count": 177,
       "latest_date": "2026-08-10"
     },
     {
@@ -88,6 +88,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-10",
+        "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+        "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#model-sourcing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608104503i"
+      },
       {
         "date": "2026-08-10",
         "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
@@ -180,6 +195,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+        "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...'AI 자율 해킹 아닌 설정 오류'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#ai-security",
+          "#evaluation",
+          "#agent-safety"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213734"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
         "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…'에이전트끼리 비밀 소통'",
         "importance": 8,
@@ -209,6 +238,36 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+        "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은",
+        "importance": 7,
+        "tags": [
+          "#shadow-ai",
+          "#ai-security",
+          "#enterprise-ai",
+          "#agent-safety",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810154636"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+        "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다",
+        "importance": 7,
+        "tags": [
+          "#procurement",
+          "#public-sector",
+          "#policy",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000294"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-네이버는-ai-인프라-카카오는-에이전.md",
         "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
         "importance": 7,
@@ -224,6 +283,36 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+        "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#defense",
+          "#agent-framework",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608104593i"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+        "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#evaluation",
+          "#agent-safety",
+          "#regulation",
+          "#ai-security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144610"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-범정부-ai-공통기반-챗봇-넘어-에이.md",
         "title": "범정부 AI 공통기반, 챗봇 넘어 에이전트로…최신 민간 모델 품는다",
         "importance": 7,
@@ -236,6 +325,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260810101425"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+        "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#china-ai",
+          "#evaluation",
+          "#model-sourcing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810141127"
       },
       {
         "date": "2026-08-10",
@@ -9089,6 +9193,21 @@
     "llm_models": [
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+        "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#model-sourcing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608104503i"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
         "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착",
         "importance": 8,
@@ -9159,6 +9278,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+        "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...'AI 자율 해킹 아닌 설정 오류'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#ai-security",
+          "#evaluation",
+          "#agent-safety"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213734"
       },
       {
         "date": "2026-08-10",
@@ -9236,6 +9369,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+        "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#evaluation",
+          "#agent-safety",
+          "#regulation",
+          "#ai-security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144610"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-범정부-ai-공통기반-챗봇-넘어-에이.md",
         "title": "범정부 AI 공통기반, 챗봇 넘어 에이전트로…최신 민간 모델 품는다",
         "importance": 7,
@@ -9251,6 +9399,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-애플-중국-맥-사용자-대상-애플-인텔.md",
+        "title": "애플, 중국 맥 사용자 대상 애플 인텔리전스에 ‘큐원’ 공식 연동",
+        "importance": 7,
+        "tags": [
+          "#model-sourcing",
+          "#partnership",
+          "#china-ai",
+          "#regulation",
+          "#multimodel"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213746"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-오픈ai는-왜-루나-를-무료로-풀었을.md",
         "title": "오픈AI는 왜 ‘루나’를 무료로 풀었을까",
         "importance": 7,
@@ -9263,6 +9426,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260810093133"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+        "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#china-ai",
+          "#evaluation",
+          "#model-sourcing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810141127"
       },
       {
         "date": "2026-08-10",
@@ -17236,6 +17414,21 @@
     "ai_policy": [
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+        "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#model-sourcing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608104503i"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
         "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착",
         "importance": 8,
@@ -17281,6 +17474,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+        "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입",
+        "importance": 8,
+        "tags": [
+          "#fintech",
+          "#ai-security",
+          "#in-house",
+          "#org-change",
+          "#supply-chain"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000333"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
         "title": "오픈AI, '아스트라' 개발 일시 중단…'치명적 사이버공격 가능성'",
         "importance": 8,
@@ -17292,6 +17500,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+        "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...'AI 자율 해킹 아닌 설정 오류'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#ai-security",
+          "#evaluation",
+          "#agent-safety"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213734"
       },
       {
         "date": "2026-08-10",
@@ -17310,6 +17532,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-ai-반도체-시대-제조-경쟁력은-전력.md",
+        "title": "AI·반도체 시대 제조 경쟁력은 '전력'…IEA “에너지 인프라가 산업패권 좌우”",
+        "importance": 7,
+        "tags": [
+          "#power-infrastructure",
+          "#energy-policy",
+          "#semiconductor",
+          "#competitiveness"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000344"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-the-ai-safety-test-i.md",
         "title": "The AI safety test is becoming a safety risk",
         "importance": 7,
@@ -17321,6 +17557,66 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+        "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은",
+        "importance": 7,
+        "tags": [
+          "#shadow-ai",
+          "#ai-security",
+          "#enterprise-ai",
+          "#agent-safety",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810154636"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+        "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다",
+        "importance": 7,
+        "tags": [
+          "#procurement",
+          "#public-sector",
+          "#policy",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000294"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+        "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#defense",
+          "#agent-framework",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608104593i"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+        "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#evaluation",
+          "#agent-safety",
+          "#regulation",
+          "#ai-security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144610"
       },
       {
         "date": "2026-08-10",
@@ -17336,6 +17632,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260810101425"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-애플-중국-맥-사용자-대상-애플-인텔.md",
+        "title": "애플, 중국 맥 사용자 대상 애플 인텔리전스에 ‘큐원’ 공식 연동",
+        "importance": 7,
+        "tags": [
+          "#model-sourcing",
+          "#partnership",
+          "#china-ai",
+          "#regulation",
+          "#multimodel"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213746"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+        "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#china-ai",
+          "#evaluation",
+          "#model-sourcing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810141127"
       },
       {
         "date": "2026-08-10",
@@ -17365,6 +17691,35 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260810000203"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-대통령-속도전-넘어-전격전-호남-반도.md",
+        "title": "李대통령 '속도전 넘어 전격전'…호남 반도체 클러스터 조기 착공 총력",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#power-infrastructure",
+          "#policy",
+          "#korea",
+          "#investment"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144832"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-무인-자율주행차-사고-책임-규정할-법.md",
+        "title": "'무인 자율주행차 사고 책임 규정할 법제 필요'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#autonomous-driving",
+          "#liability",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810140304"
       },
       {
         "date": "2026-08-10",
@@ -26449,6 +26804,21 @@
     "ai_industry": [
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+        "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#model-sourcing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608104503i"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-ai-확산으로-전력인프라-투자-급증-.md",
         "title": "'AI 확산으로 전력인프라 투자 급증…은행 기업금융 기회 확대'",
         "importance": 8,
@@ -26539,6 +26909,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+        "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입",
+        "importance": 8,
+        "tags": [
+          "#fintech",
+          "#ai-security",
+          "#in-house",
+          "#org-change",
+          "#supply-chain"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000333"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
         "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
         "importance": 8,
@@ -26565,6 +26950,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+        "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...'AI 자율 해킹 아닌 설정 오류'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#ai-security",
+          "#evaluation",
+          "#agent-safety"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213734"
       },
       {
         "date": "2026-08-10",
@@ -26597,6 +26996,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-ai-반도체-시대-제조-경쟁력은-전력.md",
+        "title": "AI·반도체 시대 제조 경쟁력은 '전력'…IEA “에너지 인프라가 산업패권 좌우”",
+        "importance": 7,
+        "tags": [
+          "#power-infrastructure",
+          "#energy-policy",
+          "#semiconductor",
+          "#competitiveness"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000344"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-ai는-지금-ai-저가-공세에-빅테크.md",
         "title": "[AI는 지금] 中 AI 저가 공세에 美 빅테크 '긴장'…'싸질수록 GPU 더 쓴다'",
         "importance": 7,
@@ -26626,6 +27039,36 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+        "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은",
+        "importance": 7,
+        "tags": [
+          "#shadow-ai",
+          "#ai-security",
+          "#enterprise-ai",
+          "#agent-safety",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810154636"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+        "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다",
+        "importance": 7,
+        "tags": [
+          "#procurement",
+          "#public-sector",
+          "#policy",
+          "#ai-adoption",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000294"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-네이버는-ai-인프라-카카오는-에이전.md",
         "title": "네이버는 AI 인프라, 카카오는 에이전트…엇갈린 승부수",
         "importance": 7,
@@ -26638,6 +27081,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260807119900017"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+        "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#defense",
+          "#agent-framework",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608104593i"
       },
       {
         "date": "2026-08-10",
@@ -26702,6 +27160,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+        "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#evaluation",
+          "#agent-safety",
+          "#regulation",
+          "#ai-security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144610"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-범정부-ai-공통기반-챗봇-넘어-에이.md",
         "title": "범정부 AI 공통기반, 챗봇 넘어 에이전트로…최신 민간 모델 품는다",
         "importance": 7,
@@ -26714,6 +27187,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260810101425"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-애플-중국-맥-사용자-대상-애플-인텔.md",
+        "title": "애플, 중국 맥 사용자 대상 애플 인텔리전스에 ‘큐원’ 공식 연동",
+        "importance": 7,
+        "tags": [
+          "#model-sourcing",
+          "#partnership",
+          "#china-ai",
+          "#regulation",
+          "#multimodel"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213746"
       },
       {
         "date": "2026-08-10",
@@ -26744,6 +27232,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=670451"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+        "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#open-weights",
+          "#china-ai",
+          "#evaluation",
+          "#model-sourcing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810141127"
       },
       {
         "date": "2026-08-10",
@@ -26820,6 +27323,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-대통령-속도전-넘어-전격전-호남-반도.md",
+        "title": "李대통령 '속도전 넘어 전격전'…호남 반도체 클러스터 조기 착공 총력",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#power-infrastructure",
+          "#policy",
+          "#korea",
+          "#investment"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144832"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
         "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
         "importance": 6,
@@ -26831,6 +27349,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미국서-데이터센터-인력-급성장-몸값-.md",
+        "title": "미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#labor-market",
+          "#ai-adoption",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213745"
       },
       {
         "date": "2026-08-10",
@@ -26849,6 +27381,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-스페이스x-테라팹-지구상-최대-공장-.md",
+        "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power-infrastructure",
+          "#semiconductor",
+          "#capex"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213750"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-애플-메모리-부족해-가격-올리더니-창.md",
         "title": "애플, 메모리 부족해 가격 올리더니…'中창신메모리 칩 적용 시험'",
         "importance": 6,
@@ -26861,6 +27407,36 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202608103322H"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-엠아이큐브솔루션-화장품-공장에-ai-.md",
+        "title": "엠아이큐브솔루션, 화장품 공장에 AI 자율제조 입힌다",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#digital-twin",
+          "#manufacturing",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810151826"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-특징주-반도체-장비주-sk하이닉스-투.md",
+        "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#capex",
+          "#memory",
+          "#korea",
+          "#investment"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260810058951008"
       },
       {
         "date": "2026-08-07",
@@ -47917,6 +48493,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-무인-자율주행차-사고-책임-규정할-법.md",
+        "title": "'무인 자율주행차 사고 책임 규정할 법제 필요'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#autonomous-driving",
+          "#liability",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810140304"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
         "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
         "importance": 6,
@@ -47928,6 +48518,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-엠아이큐브솔루션-화장품-공장에-ai-.md",
+        "title": "엠아이큐브솔루션, 화장품 공장에 AI 자율제조 입힌다",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#digital-twin",
+          "#manufacturing",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810151826"
       },
       {
         "date": "2026-08-07",
@@ -51583,6 +52188,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-ai-반도체-시대-제조-경쟁력은-전력.md",
+        "title": "AI·반도체 시대 제조 경쟁력은 '전력'…IEA “에너지 인프라가 산업패권 좌우”",
+        "importance": 7,
+        "tags": [
+          "#power-infrastructure",
+          "#energy-policy",
+          "#semiconductor",
+          "#competitiveness"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000344"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-ai는-지금-ai-저가-공세에-빅테크.md",
         "title": "[AI는 지금] 中 AI 저가 공세에 美 빅테크 '긴장'…'싸질수록 GPU 더 쓴다'",
         "importance": 7,
@@ -51658,6 +52277,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-대통령-속도전-넘어-전격전-호남-반도.md",
+        "title": "李대통령 '속도전 넘어 전격전'…호남 반도체 클러스터 조기 착공 총력",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#power-infrastructure",
+          "#policy",
+          "#korea",
+          "#investment"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144832"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
         "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
         "importance": 6,
@@ -51669,6 +52303,34 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미국서-데이터센터-인력-급성장-몸값-.md",
+        "title": "미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#labor-market",
+          "#ai-adoption",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213745"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-스페이스x-테라팹-지구상-최대-공장-.md",
+        "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power-infrastructure",
+          "#semiconductor",
+          "#capex"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213750"
       },
       {
         "date": "2026-08-10",
@@ -51684,6 +52346,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202608103322H"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-특징주-반도체-장비주-sk하이닉스-투.md",
+        "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#capex",
+          "#memory",
+          "#korea",
+          "#investment"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260810058951008"
       },
       {
         "date": "2026-08-07",
@@ -57143,6 +57820,21 @@
     "금융회사 AI": [
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+        "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다",
+        "importance": 9,
+        "tags": [
+          "#investment",
+          "#partnership",
+          "#model-sourcing",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608104503i"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
         "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착",
         "importance": 8,
@@ -57234,6 +57926,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+        "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입",
+        "importance": 8,
+        "tags": [
+          "#fintech",
+          "#ai-security",
+          "#in-house",
+          "#org-change",
+          "#supply-chain"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260810000333"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
         "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
         "importance": 8,
@@ -57260,6 +57967,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213697"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+        "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...'AI 자율 해킹 아닌 설정 오류'",
+        "importance": 8,
+        "tags": [
+          "#safety-incident",
+          "#ai-security",
+          "#evaluation",
+          "#agent-safety"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213734"
       },
       {
         "date": "2026-08-10",
@@ -57306,6 +58027,21 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+        "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은",
+        "importance": 7,
+        "tags": [
+          "#shadow-ai",
+          "#ai-security",
+          "#enterprise-ai",
+          "#agent-safety",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810154636"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-딜-인사이드-핑거-로봇기업-인수에-7.md",
         "title": "[딜 인사이드] 핑거, 로봇기업 인수에 75억 유증…피지컬 AI 승부수",
         "importance": 7,
@@ -57319,6 +58055,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=670395"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+        "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#evaluation",
+          "#agent-safety",
+          "#regulation",
+          "#ai-security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810144610"
       },
       {
         "date": "2026-08-07",
@@ -60590,6 +61341,21 @@
     "physical_ai": [
       {
         "date": "2026-08-10",
+        "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+        "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#defense",
+          "#agent-framework",
+          "#korea",
+          "#enterprise-ai"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608104593i"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-단독-크래프톤-인간관계-잘-아는-로봇.md",
         "title": "[단독] 크래프톤, 인간관계 잘 아는 '로봇 두뇌' 만든다",
         "importance": 7,
@@ -60680,6 +61446,20 @@
       },
       {
         "date": "2026-08-10",
+        "file": "20260810-무인-자율주행차-사고-책임-규정할-법.md",
+        "title": "'무인 자율주행차 사고 책임 규정할 법제 필요'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#autonomous-driving",
+          "#liability",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810140304"
+      },
+      {
+        "date": "2026-08-10",
         "file": "20260810-미-fcc-중국산-로봇-인버터-제한-.md",
         "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
         "importance": 6,
@@ -60691,6 +61471,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213706"
+      },
+      {
+        "date": "2026-08-10",
+        "file": "20260810-엠아이큐브솔루션-화장품-공장에-ai-.md",
+        "title": "엠아이큐브솔루션, 화장품 공장에 AI 자율제조 입힌다",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#smart-factory",
+          "#digital-twin",
+          "#manufacturing",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260810151826"
       },
       {
         "date": "2026-08-07",
@@ -63290,11 +64085,11 @@
     ]
   },
   "daily_issues": {
-    "ai_agents": [
+    "llm_models": [
       {
         "date": "2026-08-10",
-        "title": "공격자도 AI 인프라를 갖추다",
-        "summary": "위협이 도구 사용에서 자체 구축 단계로 넘어가 탐지 접점이 사라졌다.",
+        "title": "사고의 원인은 모델이 아니라 통제 설계",
+        "summary": "위험이 모델 역량이 아니라 실행 환경 설계에서 발생한다는 점이 실측으로 드러났다.",
         "articles": [
           {
             "date": "2026-08-10",
@@ -63308,8 +64103,176 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-responding-to-the-ne.md",
-            "title": "Responding to the next frontier of critical cyber capabilities"
+            "file": "20260810-the-ai-safety-test-i.md",
+            "title": "The AI safety test is becoming a safety risk"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+            "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+            "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+            "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213726",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "국내 기업, AI 역량을 자본으로 확보",
+        "summary": "계약과 조달을 넘어 지분과 연합으로 모델·기술을 직접 쥐려는 국면이 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+            "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+            "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260810150051",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+            "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
+        "summary": "통제 부담은 조달 방식과 무관하게 상품 계층으로 내려왔다.",
+        "articles": [
+          {
+            "date": "2026-08-07",
+            "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
+            "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\""
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+            "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
+            "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260807131003",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "title": "엔터프라이즈 AI 도입 저변 확대",
+        "summary": "엔터프라이즈 AI 도입 저변이 밸류체인 전체로 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-08-05",
+            "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
+            "title": "태평양, 국내 로펌 최초 챗GPT 엔터프라이즈 전사 도입"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+            "title": "LG 엑사원, 중소 제조현장에 AI 에이전트로 확산"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+            "title": "SKT, 688B 'A.X K2' 공개…산업 에이전트 정조준"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "title": "오픈웨이트 경쟁 격화",
+        "summary": "오픈웨이트 성능 추격으로 조달 선택지가 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-08-04",
+            "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
+            "title": "알리바바 큐원 3.8 맥스 공개, 2.4조 파라미터"
+          },
+          {
+            "date": "2026-08-04",
+            "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
+            "title": "국산 독자 AI 4사, 오픈웨이트 모델 공개"
+          },
+          {
+            "date": "2026-08-04",
+            "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
+            "title": "딥시크, 저가 에이전트 하네스로 판 흔든다"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "title": "가격 인하가 부른 수요 폭발",
+        "summary": "AI 도입의 걸림돌이 비용에서 활용 역량으로 옮겨갔다.",
+        "articles": [
+          {
+            "date": "2026-08-03",
+            "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+            "title": "오픈AI, 가격 인하 후 사용자 10억 돌파"
+          },
+          {
+            "date": "2026-08-03",
+            "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
+            "title": "아마존, 오픈AI에 72조 투자 완료"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-31",
+        "title": "AI 도입 원가 구조 재편",
+        "summary": "프리미엄과 저가 모델을 업무별로 조합하는 전략이 현실화됐다.",
+        "articles": [
+          {
+            "date": "2026-07-31",
+            "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+            "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"
+          },
+          {
+            "date": "2026-07-31",
+            "file": "20260731-microsoft-ai-bets-on.md",
+            "title": "Microsoft AI bets on cheap specialist models"
+          }
+        ]
+      }
+    ],
+    "ai_agents": [
+      {
+        "date": "2026-08-10",
+        "title": "사고의 원인은 모델이 아니라 통제 설계",
+        "summary": "위험이 모델 역량이 아니라 실행 환경 설계에서 발생한다는 점이 실측으로 드러났다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
           },
           {
             "date": "2026-08-10",
@@ -63318,24 +64281,79 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
-            "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
+            "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+            "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+            "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+            "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213726",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-08-10",
-        "title": "금융 AI, 상담에서 업무 처리로",
-        "summary": "AI가 기간계에 닿으면서 도입 성과가 처리 범위로 측정되기 시작했다.",
+        "title": "기업 보안, 외부 의존에서 내재화로",
+        "summary": "AI가 통제 밖에서 쓰이자 금융사가 보안 설계를 직접 떠안기 시작했다.",
         "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
+            "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
+          },
           {
             "date": "2026-08-10",
             "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
             "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670474",
+            "date": "2026-08-10",
+            "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+            "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+            "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670472",
             "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "국내 기업, AI 역량을 자본으로 확보",
+        "summary": "계약과 조달을 넘어 지분과 연합으로 모델·기술을 직접 쥐려는 국면이 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+            "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+            "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260810150051",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+            "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다"
           }
         ]
       },
@@ -63491,8 +64509,8 @@
     "ai_policy": [
       {
         "date": "2026-08-10",
-        "title": "공격자도 AI 인프라를 갖추다",
-        "summary": "위협이 도구 사용에서 자체 구축 단계로 넘어가 탐지 접점이 사라졌다.",
+        "title": "사고의 원인은 모델이 아니라 통제 설계",
+        "summary": "위험이 모델 역량이 아니라 실행 환경 설계에서 발생한다는 점이 실측으로 드러났다.",
         "articles": [
           {
             "date": "2026-08-10",
@@ -63506,18 +64524,84 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-responding-to-the-ne.md",
-            "title": "Responding to the next frontier of critical cyber capabilities"
-          },
-          {
-            "date": "2026-08-10",
             "file": "20260810-the-ai-safety-test-i.md",
             "title": "The AI safety test is becoming a safety risk"
           },
           {
             "date": "2026-08-10",
+            "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+            "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+            "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+            "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213726",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "기업 보안, 외부 의존에서 내재화로",
+        "summary": "AI가 통제 밖에서 쓰이자 금융사가 보안 설계를 직접 떠안기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
             "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
             "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
+            "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+            "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+            "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670472",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "국내 기업, AI 역량을 자본으로 확보",
+        "summary": "계약과 조달을 넘어 지분과 연합으로 모델·기술을 직접 쥐려는 국면이 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+            "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+            "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260810150051",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+            "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다"
           }
         ]
       },
@@ -63697,11 +64781,11 @@
         ]
       }
     ],
-    "llm_models": [
+    "금융회사 AI": [
       {
         "date": "2026-08-10",
-        "title": "공격자도 AI 인프라를 갖추다",
-        "summary": "위협이 도구 사용에서 자체 구축 단계로 넘어가 탐지 접점이 사라졌다.",
+        "title": "사고의 원인은 모델이 아니라 통제 설계",
+        "summary": "위험이 모델 역량이 아니라 실행 환경 설계에서 발생한다는 점이 실측으로 드러났다.",
         "articles": [
           {
             "date": "2026-08-10",
@@ -63715,206 +64799,65 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-responding-to-the-ne.md",
-            "title": "Responding to the next frontier of critical cyber capabilities"
-          },
-          {
-            "date": "2026-08-10",
             "file": "20260810-the-ai-safety-test-i.md",
             "title": "The AI safety test is becoming a safety risk"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
-            "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-10",
-        "title": "모델값 붕괴가 SW 가치까지 흔들다",
-        "summary": "가격이 무너지자 소프트웨어 사업모델 자체가 재평가 대상이 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-10",
-            "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
-            "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+            "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+            "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\""
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-ai는-지금-ai-저가-공세에-빅테크.md",
-            "title": "[AI는 지금] 中 AI 저가 공세에 美 빅테크 '긴장'…\"싸질수록 GPU 더 쓴다\""
+            "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+            "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-오픈ai는-왜-루나-를-무료로-풀었을.md",
-            "title": "오픈AI는 왜 ‘루나’를 무료로 풀었을까"
+            "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+            "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목"
           },
           {
-            "date": "2026-08-10",
-            "file": "20260810-헐값-매각-급락-급등-saas-시장-.md",
-            "title": "헐값 매각·급락·급등...SaaS 시장 '사스포칼립스' 혼란 지속"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-07",
-        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
-        "summary": "통제 부담은 조달 방식과 무관하게 상품 계층으로 내려왔다.",
-        "articles": [
-          {
-            "date": "2026-08-07",
-            "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
-            "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\""
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
-            "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
-            "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260807131003",
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213726",
             "title": ""
           }
         ]
       },
       {
-        "date": "2026-08-05",
-        "title": "엔터프라이즈 AI 도입 저변 확대",
-        "summary": "엔터프라이즈 AI 도입 저변이 밸류체인 전체로 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-08-05",
-            "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
-            "title": "태평양, 국내 로펌 최초 챗GPT 엔터프라이즈 전사 도입"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
-            "title": "LG 엑사원, 중소 제조현장에 AI 에이전트로 확산"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
-            "title": "SKT, 688B 'A.X K2' 공개…산업 에이전트 정조준"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-04",
-        "title": "오픈웨이트 경쟁 격화",
-        "summary": "오픈웨이트 성능 추격으로 조달 선택지가 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-08-04",
-            "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
-            "title": "알리바바 큐원 3.8 맥스 공개, 2.4조 파라미터"
-          },
-          {
-            "date": "2026-08-04",
-            "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
-            "title": "국산 독자 AI 4사, 오픈웨이트 모델 공개"
-          },
-          {
-            "date": "2026-08-04",
-            "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
-            "title": "딥시크, 저가 에이전트 하네스로 판 흔든다"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-03",
-        "title": "가격 인하가 부른 수요 폭발",
-        "summary": "AI 도입의 걸림돌이 비용에서 활용 역량으로 옮겨갔다.",
-        "articles": [
-          {
-            "date": "2026-08-03",
-            "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
-            "title": "오픈AI, 가격 인하 후 사용자 10억 돌파"
-          },
-          {
-            "date": "2026-08-03",
-            "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
-            "title": "아마존, 오픈AI에 72조 투자 완료"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-31",
-        "title": "AI 도입 원가 구조 재편",
-        "summary": "프리미엄과 저가 모델을 업무별로 조합하는 전략이 현실화됐다.",
-        "articles": [
-          {
-            "date": "2026-07-31",
-            "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
-            "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"
-          },
-          {
-            "date": "2026-07-31",
-            "file": "20260731-microsoft-ai-bets-on.md",
-            "title": "Microsoft AI bets on cheap specialist models"
-          }
-        ]
-      }
-    ],
-    "금융회사 AI": [
-      {
         "date": "2026-08-10",
-        "title": "공격자도 AI 인프라를 갖추다",
-        "summary": "위협이 도구 사용에서 자체 구축 단계로 넘어가 탐지 접점이 사라졌다.",
+        "title": "기업 보안, 외부 의존에서 내재화로",
+        "summary": "AI가 통제 밖에서 쓰이자 금융사가 보안 설계를 직접 떠안기 시작했다.",
         "articles": [
-          {
-            "date": "2026-08-10",
-            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
-            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
-            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-responding-to-the-ne.md",
-            "title": "Responding to the next frontier of critical cyber capabilities"
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-the-ai-safety-test-i.md",
-            "title": "The AI safety test is becoming a safety risk"
-          },
           {
             "date": "2026-08-10",
             "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
             "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-10",
-        "title": "금융 AI, 상담에서 업무 처리로",
-        "summary": "AI가 기간계에 닿으면서 도입 성과가 처리 범위로 측정되기 시작했다.",
-        "articles": [
+          },
           {
             "date": "2026-08-10",
             "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
             "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670474",
+            "date": "2026-08-10",
+            "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+            "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+            "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670472",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-08-10",
-        "title": "AI 병목, 전력 설계와 메모리로",
-        "summary": "인프라 제약이 기대가 아닌 수주·조달 실적으로 확인되는 구간에 들어섰다.",
+        "title": "전력이 AI 경쟁의 상위 변수로",
+        "summary": "설비보다 전력 확보가 산업 경쟁력을 가른다는 진단이 투자 확정으로 확인됐다.",
         "articles": [
           {
             "date": "2026-08-10",
@@ -63928,22 +64871,33 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-전력-온에어-ls일렉트릭-gs건설과-.md",
-            "title": "[전력 온에어] LS일렉트릭, GS건설과 AIDC '직류 배전' 맞손"
-          },
-          {
-            "date": "2026-08-10",
             "file": "20260810-ai-데이터센터-훈풍-탄-산일전기-5.md",
             "title": "AI·데이터센터 훈풍 탄 산일전기, 5개 분기 연속 ‘역대 최대 실적’"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-애플-메모리-부족해-가격-올리더니-창.md",
-            "title": "애플, 메모리 부족해 가격 올리더니…\"中창신메모리 칩 적용 시험\""
+            "file": "20260810-ai-반도체-시대-제조-경쟁력은-전력.md",
+            "title": "AI·반도체 시대 제조 경쟁력은 '전력'…IEA “에너지 인프라가 산업패권 좌우”"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20260810058900008",
-            "title": ""
+            "date": "2026-08-10",
+            "file": "20260810-특징주-반도체-장비주-sk하이닉스-투.md",
+            "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-미국서-데이터센터-인력-급성장-몸값-.md",
+            "title": "미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-스페이스x-테라팹-지구상-최대-공장-.md",
+            "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-대통령-속도전-넘어-전격전-호남-반도.md",
+            "title": "李대통령 \"속도전 넘어 전격전\"…호남 반도체 클러스터 조기 착공 총력"
           }
         ]
       },
@@ -64200,24 +65154,65 @@
     "ai_industry": [
       {
         "date": "2026-08-10",
-        "title": "금융 AI, 상담에서 업무 처리로",
-        "summary": "AI가 기간계에 닿으면서 도입 성과가 처리 범위로 측정되기 시작했다.",
+        "title": "기업 보안, 외부 의존에서 내재화로",
+        "summary": "AI가 통제 밖에서 쓰이자 금융사가 보안 설계를 직접 떠안기 시작했다.",
         "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-ai-날개-단-북한-해킹-지니언스-김.md",
+            "title": "AI 날개 단 북한 해킹…지니언스, 김수키 공격 자동화 단계 진입 포착"
+          },
           {
             "date": "2026-08-10",
             "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
             "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670474",
+            "date": "2026-08-10",
+            "file": "20260810-단독-토스-외산-보안솔루션-퇴출-자체.md",
+            "title": "[단독] 토스, 외산 보안솔루션 퇴출…자체 개발 '타이탄' 도입"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기업-데이터-건들기-시작한-ai-아카.md",
+            "title": "기업 데이터 건들기 시작한 AI…아카마이가 제시한 대응책은"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670472",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-08-10",
-        "title": "AI 병목, 전력 설계와 메모리로",
-        "summary": "인프라 제약이 기대가 아닌 수주·조달 실적으로 확인되는 구간에 들어섰다.",
+        "title": "국내 기업, AI 역량을 자본으로 확보",
+        "summary": "계약과 조달을 넘어 지분과 연합으로 모델·기술을 직접 쥐려는 국면이 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+            "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+            "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260810150051",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+            "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "전력이 AI 경쟁의 상위 변수로",
+        "summary": "설비보다 전력 확보가 산업 경쟁력을 가른다는 진단이 투자 확정으로 확인됐다.",
         "articles": [
           {
             "date": "2026-08-10",
@@ -64231,49 +65226,33 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-전력-온에어-ls일렉트릭-gs건설과-.md",
-            "title": "[전력 온에어] LS일렉트릭, GS건설과 AIDC '직류 배전' 맞손"
-          },
-          {
-            "date": "2026-08-10",
             "file": "20260810-ai-데이터센터-훈풍-탄-산일전기-5.md",
             "title": "AI·데이터센터 훈풍 탄 산일전기, 5개 분기 연속 ‘역대 최대 실적’"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-애플-메모리-부족해-가격-올리더니-창.md",
-            "title": "애플, 메모리 부족해 가격 올리더니…\"中창신메모리 칩 적용 시험\""
-          },
-          {
-            "url": "https://www.yna.co.kr/view/AKR20260810058900008",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-10",
-        "title": "모델값 붕괴가 SW 가치까지 흔들다",
-        "summary": "가격이 무너지자 소프트웨어 사업모델 자체가 재평가 대상이 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-10",
-            "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
-            "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+            "file": "20260810-ai-반도체-시대-제조-경쟁력은-전력.md",
+            "title": "AI·반도체 시대 제조 경쟁력은 '전력'…IEA “에너지 인프라가 산업패권 좌우”"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-ai는-지금-ai-저가-공세에-빅테크.md",
-            "title": "[AI는 지금] 中 AI 저가 공세에 美 빅테크 '긴장'…\"싸질수록 GPU 더 쓴다\""
+            "file": "20260810-특징주-반도체-장비주-sk하이닉스-투.md",
+            "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-오픈ai는-왜-루나-를-무료로-풀었을.md",
-            "title": "오픈AI는 왜 ‘루나’를 무료로 풀었을까"
+            "file": "20260810-미국서-데이터센터-인력-급성장-몸값-.md",
+            "title": "미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-헐값-매각-급락-급등-saas-시장-.md",
-            "title": "헐값 매각·급락·급등...SaaS 시장 '사스포칼립스' 혼란 지속"
+            "file": "20260810-스페이스x-테라팹-지구상-최대-공장-.md",
+            "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-대통령-속도전-넘어-전격전-호남-반도.md",
+            "title": "李대통령 \"속도전 넘어 전격전\"…호남 반도체 클러스터 조기 착공 총력"
           }
         ]
       },
@@ -64610,8 +65589,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-08-10",
-        "title": "AI 병목, 전력 설계와 메모리로",
-        "summary": "인프라 제약이 기대가 아닌 수주·조달 실적으로 확인되는 구간에 들어섰다.",
+        "title": "전력이 AI 경쟁의 상위 변수로",
+        "summary": "설비보다 전력 확보가 산업 경쟁력을 가른다는 진단이 투자 확정으로 확인됐다.",
         "articles": [
           {
             "date": "2026-08-10",
@@ -64625,22 +65604,33 @@
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-전력-온에어-ls일렉트릭-gs건설과-.md",
-            "title": "[전력 온에어] LS일렉트릭, GS건설과 AIDC '직류 배전' 맞손"
-          },
-          {
-            "date": "2026-08-10",
             "file": "20260810-ai-데이터센터-훈풍-탄-산일전기-5.md",
             "title": "AI·데이터센터 훈풍 탄 산일전기, 5개 분기 연속 ‘역대 최대 실적’"
           },
           {
             "date": "2026-08-10",
-            "file": "20260810-애플-메모리-부족해-가격-올리더니-창.md",
-            "title": "애플, 메모리 부족해 가격 올리더니…\"中창신메모리 칩 적용 시험\""
+            "file": "20260810-ai-반도체-시대-제조-경쟁력은-전력.md",
+            "title": "AI·반도체 시대 제조 경쟁력은 '전력'…IEA “에너지 인프라가 산업패권 좌우”"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20260810058900008",
-            "title": ""
+            "date": "2026-08-10",
+            "file": "20260810-특징주-반도체-장비주-sk하이닉스-투.md",
+            "title": "[특징주] 반도체 장비주, SK하이닉스 투자 규모 확정에 급등(종합)"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-미국서-데이터센터-인력-급성장-몸값-.md",
+            "title": "미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-스페이스x-테라팹-지구상-최대-공장-.md",
+            "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-대통령-속도전-넘어-전격전-호남-반도.md",
+            "title": "李대통령 \"속도전 넘어 전격전\"…호남 반도체 클러스터 조기 착공 총력"
           }
         ]
       },
