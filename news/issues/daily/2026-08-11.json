@@ -1,8 +1,8 @@
 {
   "date": "2026-08-11",
-  "updated_at": "2026-08-11T08:26:50.671290+09:00",
-  "run_id": "run_20260811_082650",
-  "summary_ko": "모델 개방과 보안 통제가 동시에 AI 도입의 문턱을 다시 그린 하루.",
+  "updated_at": "2026-08-11T12:21:03.212935+09:00",
+  "run_id": "run_20260811_122103",
+  "summary_ko": "모델 접근 자격과 자본 조달이 AI 확산 속도를 가른 하루.",
   "issues": [
     {
       "title": "개방 노선이 다시 판을 흔든다",
@@ -18,15 +18,7 @@
           "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
         },
         {
-          "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-          "title": ""
-        },
-        {
-          "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20260811000004",
+          "url": "https://zdnet.co.kr/view/?no=20260811092130",
           "title": ""
         }
       ]
@@ -51,40 +43,59 @@
           "title": "House Dems call for AI companies to testify on recent hacks: ‘Clear risk to safety’"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/10/crowdstrike-palo-alto-stock-black-hat.html",
-          "title": ""
+          "date": "2026-08-11",
+          "file": "20260811-ai는-지금-오픈ai-해킹-ai-판-.md",
+          "title": "[AI는 지금] 오픈AI, 해킹 AI 판 키운다…'GPT-5.6 사이버'로 승부수"
         }
       ]
     },
     {
-      "title": "에이전트는 지시 밖에서도 움직인다",
-      "summary_ko": "위임의 경계를 행위 단위로 다시 그어야 할 때다.",
+      "title": "인프라 경쟁이 자본 조달로",
+      "summary_ko": "확장 속도를 정하는 변수가 설비에서 금융 구조로 넘어갔다.",
       "topics": [
-        "ai_agents",
-        "ai_policy"
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
           "date": "2026-08-11",
-          "file": "20260811-hidden-text-in-a-pdf.md",
-          "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo"
+          "file": "20260811-인텔-ai-수요-급증-힙입어-150억.md",
+          "title": "인텔, AI 수요 급증 힙입어 150억달러 유상증자 추진"
         },
         {
           "date": "2026-08-11",
-          "file": "20260811-tech-industry-is-buz.md",
-          "title": "Tech industry is buzzing after a Claude agent hacked into a gym"
+          "file": "20260811-엔비디아-월가-거물들과-5000억달러.md",
+          "title": "엔비디아, 월가 거물들과 5000억달러 규모 AI 금융 조달"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213761",
-          "title": ""
+          "date": "2026-08-11",
+          "file": "20260811-2q-수익성-끌어올린-nhn-비결은-.md",
+          "title": "2Q 수익성 끌어올린 NHN, 비결은 'AI GPU'"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-삼성sds-국가-ai-연구에-b300.md",
+          "title": "삼성SDS, 국가 AI 연구에 B300 푼다…GPUaaS 대외사업 확대"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-skt-세계-1위-깜짝-성적표-데이터.md",
+          "title": "SKT '세계 1위' 깜짝 성적표…데이터센터 확장 이통사 '선두'"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-미래에셋-ai-투자-우려-과도-삼전-.md",
+          "title": "미래에셋 \"AI 투자 우려 과도…삼전·닉스 저점 비중확대 기회\""
         }
       ]
     },
     {
-      "title": "금융 업무의 안쪽으로 들어온 AI",
-      "summary_ko": "도구 도입이 아니라 조직·통제 설계의 문제가 됐다.",
+      "title": "AI가 업무 안쪽으로 들어왔다",
+      "summary_ko": "도구 구매가 아니라 조직·통제 설계의 문제가 됐다.",
       "topics": [
         "금융회사 AI",
+        "ai_agents",
         "ai_industry"
       ],
       "articles": [
@@ -100,12 +111,23 @@
         },
         {
           "date": "2026-08-11",
-          "file": "20260811-astraeus-launches-we.md",
-          "title": "Astraeus launches wealth management infrastructure platform"
+          "file": "20260811-서울우유-자체-ai-플랫폼-서울우유-.md",
+          "title": "서울우유, 자체 AI 플랫폼 '서울우유 GPT' 도입"
         },
         {
-          "url": "https://www.finextra.com/blogposting/32507/accountable-ai-governance-in-financial-institutions-building-a-comprehensive-dashboard-framework?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-08-11",
+          "file": "20260811-리멤버-전사-구성원-참여-ax-페스타.md",
+          "title": "리멤버, 전사 구성원 참여 'AX 페스타' 열었다"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-ai-리더스-레고라-한국-변호사-일하.md",
+          "title": "[AI 리더스] 레고라 \"한국 변호사 일하는 방식 바꿀 것\""
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-이스트시큐리티-알약-에이전틱-edr-.md",
+          "title": "이스트시큐리티, '알약 에이전틱 EDR' 출시…K-엑사원 연동"
         }
       ]
     }
