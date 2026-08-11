@@ -1,12 +1,12 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-11T16:19:16.524344+09:00",
-  "run_id": "run_20260811_161916",
-  "summary_ko": "자격·개방·자본에 이어 규제 해제가 확산 속도를 가른 주.",
+  "updated_at": "2026-08-12T08:35:38.391715+09:00",
+  "run_id": "run_20260812_083538",
+  "summary_ko": "규제가 풀어준 자리를 원가 계산과 리스크 심사가 채운 주.",
   "issues": [
     {
-      "title": "규제가 금융 AI의 속도를 정한다",
-      "body_ko": "망분리 해제와 안전판 입법이 동시에 움직이며 제도가 도입 계획의 상수가 됐다.",
+      "title": "규제가 금융 AI의 조건을 정한다",
+      "body_ko": "망분리 해제로 길이 열린 자리에 데이터 수집 규제가 들어오며 제도가 계획의 상수로 굳었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -24,40 +24,26 @@
           "title": "과방위서 정무위로 간 이해민 의원…금융·보안·플랫폼 AI 안전판 짠다"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=670589",
-          "title": ""
-        },
-        {
           "date": "2026-08-11",
           "file": "20260811-보험연수원-이달-완전판매역량인증-시험.md",
           "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제할 것\""
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-비대면-대출-조회-막히나-소득-납세-.md",
+          "title": "비대면 대출 조회 막히나…소득·납세·건보 개인정보 긁어오기 손본다"
         }
       ]
     },
     {
-      "title": "조달 기준이 성능에서 개방성으로",
-      "body_ko": "가중치 공개와 로컬 구동, 국산 모델 검증이 겹치며 단일 모델 전제가 깨졌다.",
+      "title": "조달 기준이 성능에서 원가·개방성으로",
+      "body_ko": "가중치 공개와 추론 단가 하락이 겹치며 어디서 얼마에 돌리느냐가 채택을 가른다.",
       "topics": [
         "llm_models",
         "ai_industry",
-        "ai_policy"
+        "ai_compute_energy"
       ],
       "articles": [
-        {
-          "date": "2026-08-10",
-          "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
-          "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-meta-returns-to-open.md",
-          "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-이스트시큐리티-알약-에이전틱-edr-.md",
-          "title": "이스트시큐리티, '알약 에이전틱 EDR' 출시…K-엑사원 연동"
-        },
         {
           "date": "2026-08-11",
           "file": "20260811-메타-노트북서-구동되는-300억-매개.md",
@@ -69,19 +55,108 @@
           "title": "SKT, 독자 모델 'A.X K2'로 수학올림피아드 금메달·'AIME' 글로벌 1위"
         },
         {
+          "date": "2026-08-10",
+          "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
+          "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-기업-ai-비용-올해-최저치-로-하락.md",
+          "title": "기업 AI 비용 올해 '최저치'로 하락...글로벌 가격 경쟁에 중국 오픈소스까지"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-nvidia-s-open-weight.md",
+          "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026081149411",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 경쟁이 자본 구조 문제로",
+      "body_ko": "칩 잔존가치 보증까지 등장하며 금융 구조의 건전성이 확장 속도를 결정한다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
           "date": "2026-08-11",
-          "file": "20260811-추론-특화-모티프-2-ms-애저서-쓴.md",
-          "title": "추론 특화 '모티프 2', MS 애저서 쓴다"
+          "file": "20260811-엔비디아-월가-거물들과-5000억달러.md",
+          "title": "엔비디아, 월가 거물들과 5000억달러 규모 AI 금융 조달"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-다시-불거진-ai-순환금융-논란-엔비.md",
+          "title": "다시 불거진 AI 순환금융 논란…엔비디아-월가 '710조 동맹'에 SK하이닉스 '흔들'"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
+          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-nvidia-guarantees-it.md",
+          "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213805",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "도입 성과가 숫자로 나오기 시작했다",
+      "body_ko": "재검수 87% 감소 같은 정량 지표가 나오며 논의가 회수 계산으로 옮겨갔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-11",
+          "file": "20260811-메타넷글로벌-한국맥도날드-구매-정산에.md",
+          "title": "메타넷글로벌, 한국맥도날드 구매·정산에 AI 적용…인보이스 처리시간 70%↓"
+        },
+        {
+          "date": "2026-08-11",
+          "file": "20260811-what-building-an-ai-.md",
+          "title": "What building an AI-native finance function taught me"
+        },
+        {
+          "date": "2026-08-10",
+          "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
+          "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
+          "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48230/amex-ventures-invests-in-autonomous-finance-startup-fazeshift?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
         }
       ]
     },
     {
       "title": "위험의 접점이 모델에서 통제 설계로",
-      "body_ko": "사고를 가르는 것은 모델 역량이 아니라 실행 환경과 권한 설계임이 반복 확인됐다.",
+      "body_ko": "감춰진 추론과 오픈 모델 악용이 드러나며 사고를 가르는 것은 실행 환경임이 재확인됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
-        "llm_models"
+        "llm_models",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -90,106 +165,28 @@
           "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
         },
         {
-          "date": "2026-08-10",
-          "file": "20260810-미토스5-aisi-평가서-122회-반.md",
-          "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
-        },
-        {
           "date": "2026-08-11",
           "file": "20260811-hidden-text-in-a-pdf.md",
           "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo"
         },
         {
-          "date": "2026-08-11",
-          "file": "20260811-tech-industry-is-buz.md",
-          "title": "Tech industry is buzzing after a Claude agent hacked into a gym"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-expanding-daybreak-a.md",
-          "title": "Expanding Daybreak as the Cyber Defense Window Narrows"
-        }
-      ]
-    },
-    {
-      "title": "AI 도입이 조직 설계 문제로",
-      "body_ko": "현업 주도 개발과 정량 성과 공개가 이어지며 성패가 활용 설계에서 갈린다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
           "date": "2026-08-10",
-          "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
-          "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
+          "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+          "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
         },
         {
-          "date": "2026-08-11",
-          "file": "20260811-what-building-an-ai-.md",
-          "title": "What building an AI-native finance function taught me"
+          "date": "2026-08-12",
+          "file": "20260812-but-marinade-and-lea.md",
+          "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning"
         },
         {
-          "date": "2026-08-11",
-          "file": "20260811-ai-리더스-레고라-한국-변호사-일하.md",
-          "title": "[AI 리더스] 레고라 \"한국 변호사 일하는 방식 바꿀 것\""
+          "date": "2026-08-12",
+          "file": "20260812-북한-해커-김수키-로컬-llm-구축-.md",
+          "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인"
         },
         {
-          "date": "2026-08-11",
-          "file": "20260811-메타넷글로벌-한국맥도날드-구매-정산에.md",
-          "title": "메타넷글로벌, 한국맥도날드 구매·정산에 AI 적용…인보이스 처리시간 70%↓"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-mbc-ai-바이브코딩-사내-공모전-.md",
-          "title": "MBC, AI 바이브코딩 사내 공모전…현업 적용 사례 5건 선정"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-정기-공채-관례-깬-네이버-카카오-a.md",
-          "title": "정기 공채 관례 깬 네이버·카카오…AI 인재 수시로 뽑는다"
-        }
-      ]
-    },
-    {
-      "title": "인프라 경쟁의 축이 전력에서 자본으로",
-      "body_ko": "전력 확보를 전제로, 이제는 금융 구조화의 건전성이 확장 속도를 결정한다.",
-      "topics": [
-        "ai_compute_energy",
-        "ai_industry",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-10",
-          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
-          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-엔비디아-월가-거물들과-5000억달러.md",
-          "title": "엔비디아, 월가 거물들과 5000억달러 규모 AI 금융 조달"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-skt-세계-1위-깜짝-성적표-데이터.md",
-          "title": "SKT '세계 1위' 깜짝 성적표…데이터센터 확장 이통사 '선두'"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-엔비디아-손잡은-네이버-초대형-ai-.md",
-          "title": "엔비디아 손잡은 네이버…'초대형 AI 공장' 짓고 수출길 연다"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-다시-불거진-ai-순환금융-논란-엔비.md",
-          "title": "다시 불거진 AI 순환금융 논란…엔비디아-월가 '710조 동맹'에 SK하이닉스 '흔들'"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-ai-gpu-무대-해외로-넓히는-nh.md",
-          "title": "AI GPU 무대 해외로 넓히는 NHN클라우드, 전진기지는 '일본'"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213795",
+          "title": ""
         }
       ]
     }

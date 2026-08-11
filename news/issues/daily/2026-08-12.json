@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-12",
+  "updated_at": "2026-08-12T08:35:38.391715+09:00",
+  "run_id": "run_20260812_083538",
+  "summary_ko": "AI 원가는 내려가고, 그 확산이 금융의 리스크 항목이 된 하루.",
+  "issues": [
+    {
+      "title": "원가가 도입 문턱을 낮췄다",
+      "summary_ko": "가격 경쟁과 경량 개방 모델로 지난해 반려된 사용처가 다시 검토 대상이 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_compute_energy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-12",
+          "file": "20260812-기업-ai-비용-올해-최저치-로-하락.md",
+          "title": "기업 AI 비용 올해 '최저치'로 하락...글로벌 가격 경쟁에 중국 오픈소스까지"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213820",
+          "title": ""
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-nvidia-s-open-weight.md",
+          "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-openai-introduces-12.md",
+          "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens"
+        }
+      ]
+    },
+    {
+      "title": "금융 백오피스에서 숫자가 나왔다",
+      "summary_ko": "문서·정산 자동화가 회수 계산이 가능한 성과 단계로 넘어갔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-12",
+          "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
+          "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48230/amex-ventures-invests-in-autonomous-finance-startup-fazeshift?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110608/allvue-systems-today-launched-intelligent-loan-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48224/insurtech-funding-hits-four-year-high?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 조달이 심사 항목이 됐다",
+      "summary_ko": "벤더 집중과 인프라 금융화가 신용·리스크 관리의 대상으로 올라섰다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry",
+        "ai_compute_energy",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-12",
+          "file": "20260812-banks-facing-ai-conc.md",
+          "title": "Banks facing AI concentration risk"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-nvidia-guarantees-it.md",
+          "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213805",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/11/nvidia-ai-funding-jensen-huang-china-risk.html",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/anthropics-planned-mega-ipo-faces-investor-skepticism-over-chinese-rivals-and-political-headwinds/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "위험은 모델이 아니라 연결 지점에",
+      "summary_ko": "감춰진 추론과 오픈 모델 확산이 통제 밖 유출 경로를 함께 넓혔다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-12",
+          "file": "20260812-but-marinade-and-lea.md",
+          "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-북한-해커-김수키-로컬-llm-구축-.md",
+          "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213817",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213795",
+          "title": ""
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-비대면-대출-조회-막히나-소득-납세-.md",
+          "title": "비대면 대출 조회 막히나…소득·납세·건보 개인정보 긁어오기 손본다"
+        }
+      ]
+    }
+  ]
+}
