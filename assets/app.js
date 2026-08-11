@@ -115,8 +115,12 @@ const state = {
   selectedTopics: new Set(),
   activeTags: new Set(),
   tagQuery: "",
-  modal: { open: false, lastFocused: null },
+  modal: { open: false, lastFocused: null, scrollY: null },
 };
+
+// 직전 라우트의 head ('daily'/'weekly'/'article'/...) — 기사 모달을 닫을 때(hash 가
+// article → 원래 날짜로 되돌아갈 때)만 스크롤 위치를 복원하기 위한 판별용.
+let _prevRouteHead = null;
 
 // ─────────── DOM helpers ───────────
 const $ = (sel, root = document) => root.querySelector(sel);
@@ -220,6 +224,10 @@ async function routeFromHash() {
   readFiltersFromHash();
 
   const head = parts[0];
+  // cameFromArticle: 직전 라우트가 기사 모달이었는지 — 모달을 닫아 목록으로 돌아올 때만
+  // 스크롤 위치를 복원한다(다른 날짜로 이동하는 일반 내비게이션은 맨 위로 가는 게 정상).
+  const cameFromArticle = _prevRouteHead === "article";
+  _prevRouteHead = head;
   if (head === "admin") {
     state.view = "admin";
     state.date = null;
@@ -265,6 +273,8 @@ async function routeFromHash() {
       state.view = "daily";
       state.date = date;
       await loadAndRenderDaily();
+      // 배경 목록 재렌더로 스크롤이 맨 위로 밀렸다면 클릭 직전 위치로 복원.
+      if (state.modal.scrollY != null) window.scrollTo(0, state.modal.scrollY);
       await openArticleModal(date, `${slug}.md`);
     }
   } else {
@@ -276,6 +286,11 @@ async function routeFromHash() {
     state.date = date;
     // parts[1] (회차 세그먼트, 예: "0800")는 하위 호환을 위해 받아들이되 무시 — 항상 통합 뷰.
     await loadAndRenderDaily();
+    // 기사 모달을 닫아 목록으로 돌아온 경우에만 클릭 전 스크롤 위치 복원.
+    if (cameFromArticle && state.modal.scrollY != null) {
+      window.scrollTo(0, state.modal.scrollY);
+    }
+    state.modal.scrollY = null;
   }
   renderHeader();
   renderSidebar();
@@ -933,6 +948,9 @@ function bindArticleLinks(root) {
       if (!file) return;
       const date = el.dataset.articleDate || state.date || resolveDateForArticle();
       if (!date) return;
+      // 같은 일간 리스트를 이미 보고 있을 때만 스크롤 위치를 기억해 복원 대상으로 삼는다
+      // (다른 뷰·다른 날짜에서 열면 배경이 새로 로드되므로 옛 위치를 복원할 의미가 없다).
+      state.modal.scrollY = (state.view === "daily" && state.date === date) ? window.scrollY : null;
       const slug = file.replace(/\.md$/, "");
       const parts = ["article", date, slug];
       setHash(parts, { topic: state.selectedTopics, tag: state.activeTags });
