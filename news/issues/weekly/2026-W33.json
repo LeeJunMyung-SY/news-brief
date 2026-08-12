@@ -1,12 +1,12 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-12T08:35:38.391715+09:00",
-  "run_id": "run_20260812_083538",
-  "summary_ko": "규제가 풀어준 자리를 원가 계산과 리스크 심사가 채운 주.",
+  "updated_at": "2026-08-12T12:22:16.907297+09:00",
+  "run_id": "run_20260812_122216",
+  "summary_ko": "제도가 조건을 정하고, 원가와 성과 숫자가 도입 속도를 결정한 주.",
   "issues": [
     {
       "title": "규제가 금융 AI의 조건을 정한다",
-      "body_ko": "망분리 해제로 길이 열린 자리에 데이터 수집 규제가 들어오며 제도가 계획의 상수로 굳었다.",
+      "body_ko": "망분리 완화로 열린 자리에 평가체계와 데이터 규제가 들어오며 제도가 계획의 상수로 굳었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -24,14 +24,19 @@
           "title": "과방위서 정무위로 간 이해민 의원…금융·보안·플랫폼 AI 안전판 짠다"
         },
         {
-          "date": "2026-08-11",
-          "file": "20260811-보험연수원-이달-완전판매역량인증-시험.md",
-          "title": "보험연수원 \"이달 완전판매역량인증 시험, AI로 100% 출제할 것\""
-        },
-        {
           "date": "2026-08-12",
           "file": "20260812-비대면-대출-조회-막히나-소득-납세-.md",
           "title": "비대면 대출 조회 막히나…소득·납세·건보 개인정보 긁어오기 손본다"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-금융사-ai-신뢰성-들여다본다-금융보.md",
+          "title": "금융사 AI 신뢰성 들여다본다…금융보안원, 금융특화 평가체계 마련"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-협의-거친-스크래핑은-허용-개인정보위.md",
+          "title": "협의 거친 스크래핑은 허용…개인정보위 '본인전송요구권' 오해와 진실"
         }
       ]
     },
@@ -55,11 +60,6 @@
           "title": "SKT, 독자 모델 'A.X K2'로 수학올림피아드 금메달·'AIME' 글로벌 1위"
         },
         {
-          "date": "2026-08-10",
-          "file": "20260810-가트너-2027년-중국-ai-점유율-.md",
-          "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\""
-        },
-        {
           "date": "2026-08-12",
           "file": "20260812-기업-ai-비용-올해-최저치-로-하락.md",
           "title": "기업 AI 비용 올해 '최저치'로 하락...글로벌 가격 경쟁에 중국 오픈소스까지"
@@ -70,14 +70,20 @@
           "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence"
         },
         {
-          "url": "https://www.hankyung.com/article/2026081149411",
-          "title": ""
+          "date": "2026-08-12",
+          "file": "20260812-제미나이-앱-사용자-10억-명-넘어-.md",
+          "title": "'제미나이' 앱 사용자 10억 명 넘어…\"챗GPT 바짝 추격\""
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-바운드포-ai-토큰-지출-관리-미리-.md",
+          "title": "바운드포, AI 토큰 지출 관리 미리 해준다"
         }
       ]
     },
     {
       "title": "인프라 경쟁이 자본 구조 문제로",
-      "body_ko": "칩 잔존가치 보증까지 등장하며 금융 구조의 건전성이 확장 속도를 결정한다.",
+      "body_ko": "채권시장 경계감과 전담 조직 신설이 겹치며 금융 구조의 건전성이 확장 속도를 결정한다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -95,43 +101,41 @@
           "title": "다시 불거진 AI 순환금융 논란…엔비디아-월가 '710조 동맹'에 SK하이닉스 '흔들'"
         },
         {
-          "date": "2026-08-10",
-          "file": "20260810-엔비디아-전력-공급사-랜시엄에-최대-.md",
-          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력"
-        },
-        {
           "date": "2026-08-12",
           "file": "20260812-nvidia-guarantees-it.md",
           "title": "Nvidia guarantees its own chips' value to unlock $500 billion in AI infrastructure financing"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213805",
-          "title": ""
+          "date": "2026-08-12",
+          "file": "20260812-젠슨-황에-채권시장도-설득당했다-코어.md",
+          "title": "젠슨 황에 채권시장도 설득당했다 … 코어위브의 깜짝 실적, AI 생태계 여파는"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html",
-          "title": ""
+          "date": "2026-08-12",
+          "file": "20260812-단독-sk하이퍼-c레벨-4인-체제-구.md",
+          "title": "[단독]SK하이퍼, C레벨 4인 체제 구축…CFO·CSO·CTO 인선 완료"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-ai-고속도로-슈퍼마이크로-ai-인프.md",
+          "title": "[AI 고속도로] 슈퍼마이크로, AI 인프라 호황에 매출 92%↑…내년 연매출 100조원 전망"
         }
       ]
     },
     {
       "title": "도입 성과가 숫자로 나오기 시작했다",
-      "body_ko": "재검수 87% 감소 같은 정량 지표가 나오며 논의가 회수 계산으로 옮겨갔다.",
+      "body_ko": "재검수 87% 감소에 이어 공장 52억 절감까지 나오며 논의가 회수 계산으로 옮겨갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_industry"
+        "ai_industry",
+        "physical_ai"
       ],
       "articles": [
         {
           "date": "2026-08-11",
           "file": "20260811-메타넷글로벌-한국맥도날드-구매-정산에.md",
           "title": "메타넷글로벌, 한국맥도날드 구매·정산에 AI 적용…인보이스 처리시간 70%↓"
-        },
-        {
-          "date": "2026-08-11",
-          "file": "20260811-what-building-an-ai-.md",
-          "title": "What building an AI-native finance function taught me"
         },
         {
           "date": "2026-08-10",
@@ -144,14 +148,20 @@
           "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48230/amex-ventures-invests-in-autonomous-finance-startup-fazeshift?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-08-12",
+          "file": "20260812-연간-52억-비용-아꼈다-현대차-공장.md",
+          "title": "\"연간 52억 비용 아꼈다\"…현대차 공장에 도입된 'AI 기술' 정체"
+        },
+        {
+          "date": "2026-08-12",
+          "file": "20260812-기업-내부회계-수작업-대신-ai로-삼.md",
+          "title": "\"기업 내부회계, 수작업 대신 AI로\"…삼정KPMG 특화 솔루션 출시"
         }
       ]
     },
     {
       "title": "위험의 접점이 모델에서 통제 설계로",
-      "body_ko": "감춰진 추론과 오픈 모델 악용이 드러나며 사고를 가르는 것은 실행 환경임이 재확인됐다.",
+      "body_ko": "공격을 가정한 모의침투가 조달 항목이 되며 사고를 가르는 것은 실행 환경임이 확인됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -170,11 +180,6 @@
           "title": "Hidden text in a PDF is enough to steal sensitive data through Atlassian's AI agent Rovo"
         },
         {
-          "date": "2026-08-10",
-          "file": "20260810-미토스5-aisi-평가서-122회-반.md",
-          "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
-        },
-        {
           "date": "2026-08-12",
           "file": "20260812-but-marinade-and-lea.md",
           "title": "\"But marinade\" and leaked passwords are what researchers found in ChatGPT's hidden reasoning"
@@ -185,8 +190,9 @@
           "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213795",
-          "title": ""
+          "date": "2026-08-12",
+          "file": "20260812-금융정보-탈취해보세요-국민은행-ai-.md",
+          "title": "“금융정보 탈취해보세요”…국민은행, AI 해커 불러들인 이유 [금융가 톺아보기]"
         }
       ]
     }
