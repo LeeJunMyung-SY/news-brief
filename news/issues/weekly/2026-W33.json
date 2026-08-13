@@ -1,12 +1,12 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-12T16:22:37.313205+09:00",
-  "run_id": "run_20260812_162237",
-  "summary_ko": "제도가 조건을 정하고, 원가와 성과 숫자가 도입 속도를 결정한 주.",
+  "updated_at": "2026-08-13T10:28:31.841133+09:00",
+  "run_id": "run_20260813_102831",
+  "summary_ko": "제도가 조건을 정하고, 원가와 접점 개방이 도입의 방향을 다시 그린 주.",
   "issues": [
     {
       "title": "규제가 금융 AI의 조건을 정한다",
-      "body_ko": "망분리 완화로 열린 자리에 평가체계와 데이터 규제가 들어오며 제도가 계획의 상수로 굳었다.",
+      "body_ko": "망분리 완화로 열린 자리에 평가체계와 감독 기대가 들어서며 제도가 계획의 상수로 굳었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -34,25 +34,20 @@
           "title": "협의 거친 스크래핑은 허용…개인정보위 '본인전송요구권' 오해와 진실"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=670713",
+          "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI가 예산 집행 단계로",
-      "body_ko": "지주와 증권사가 자체 플랫폼 구축을 선언하고 그 지출이 공급사 실적으로 확인됐다.",
+      "title": "금융 AI, 예산 집행에서 접점 개방으로",
+      "body_ko": "자체 플랫폼 구축에 예산이 실린 데 이어 거래 접점 자체를 외부 AI에 여는 단계로 넘어갔다.",
       "topics": [
         "금융회사 AI",
-        "ai_industry",
-        "ai_agents"
+        "ai_agents",
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-10",
-          "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
-          "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
-        },
         {
           "date": "2026-08-12",
           "file": "20260812-bnk금융-계열사에-공동-ai플랫폼-.md",
@@ -61,22 +56,33 @@
         {
           "date": "2026-08-12",
           "file": "20260812-nh투자증권-리더스-컨퍼런스-개최-자.md",
-          "title": "NH투자증권 리더스 컨퍼런스 개최...“자체 AI플랫폼 구축할 것”"
+          "title": "NH투자증권 리더스 컨퍼런스 개최...\"자체 AI플랫폼 구축할 것\""
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-kt-금융권-중심-ai-도입-확대-a.md",
-          "title": "KT, 금융권 중심 AI 도입 확대…\"'AX 플랫폼 컴퍼니' 전략 이어갈 것\""
+          "date": "2026-08-10",
+          "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
+          "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260812134632",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-토스증권-오픈api-출시-대화하듯-주.md",
+          "title": "토스증권, 오픈API 출시…대화하듯 주식 거래"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-s-p-global-data-inte.md",
+          "title": "S&P Global data integrated into Microsoft 365 Copilot"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-hsbc-invests-in-ai-m.md",
+          "title": "HSBC invests in AI modelling firm"
         }
       ]
     },
     {
       "title": "조달 기준이 성능에서 원가·개방성으로",
-      "body_ko": "가중치 공개와 추론 단가 하락이 겹치며 어디서 얼마에 돌리느냐가 채택을 가른다.",
+      "body_ko": "가중치 공개와 저가 공세, 모델 라우팅이 겹치며 어디서 얼마에 돌리느냐가 채택을 가른다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -94,24 +100,30 @@
           "title": "기업 AI 비용 올해 '최저치'로 하락...글로벌 가격 경쟁에 중국 오픈소스까지"
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-nvidia-s-open-weight.md",
-          "title": "Nvidia's open-weight Nemotron 3.5 Lightning prioritizes speed over maximum intelligence"
+          "date": "2026-08-13",
+          "file": "20260813-spacexai-s-grok-4-6-.md",
+          "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price"
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-엔비디아-1조-매개변수-모델-개발-박.md",
-          "title": "엔비디아, '1조 매개변수' 모델 개발 박차...“GPU 수요·생태계 확장 노려”"
+          "date": "2026-08-13",
+          "file": "20260813-엔비디아-에이전트-비용-74-낮추는-.md",
+          "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개"
         },
         {
-          "url": "https://www.etnews.com/20260812000365",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-meta-and-nvidia-plan.md",
+          "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-mistral-now-offers-e.md",
+          "title": "Mistral now offers EU data processing and priority access, but both come with important limits"
         }
       ]
     },
     {
       "title": "인프라 경쟁이 자본·전력 문제로",
-      "body_ko": "채권시장 경계감에 전력 인허가 일정까지 겹치며 확장 속도의 제약이 설비 밖에 놓였다.",
+      "body_ko": "전력이 딸린 자산을 장기 계약으로 선점하는 경쟁이 굳어지며 확장 속도의 제약이 설비 밖에 놓였다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -124,11 +136,6 @@
           "title": "엔비디아, 월가 거물들과 5000억달러 규모 AI 금융 조달"
         },
         {
-          "date": "2026-08-11",
-          "file": "20260811-다시-불거진-ai-순환금융-논란-엔비.md",
-          "title": "다시 불거진 AI 순환금융 논란…엔비디아-월가 '710조 동맹'에 SK하이닉스 '흔들'"
-        },
-        {
           "date": "2026-08-12",
           "file": "20260812-젠슨-황에-채권시장도-설득당했다-코어.md",
           "title": "젠슨 황에 채권시장도 설득당했다 … 코어위브의 깜짝 실적, AI 생태계 여파는"
@@ -139,66 +146,29 @@
           "title": "호남권·용인 반도체 산단, 전력공급 문제 없다…관계 기관·업계 협약"
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-삼성전자-광주-hvac-신공장-내달-.md",
-          "title": "삼성전자, 광주 HVAC 신공장 내달 착공식…“해외물량 수입 대체”"
+          "date": "2026-08-13",
+          "file": "20260813-앤트로픽-비트코인-채굴-업체-라이엇과.md",
+          "title": "앤트로픽, 비트코인 채굴 업체 라이엇과 13조 규모 20년 컴퓨팅 계약"
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-ai-빚잔치에-베팅-회사채에도-3배-.md",
-          "title": "“AI 빚잔치에 베팅”…美 회사채에도 3배 레버리지 등장"
+          "date": "2026-08-13",
+          "file": "20260813-네이버-해상-ai-데이터센터-스타트업.md",
+          "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-로펌on-태평양-ai-인프라-프로젝트.md",
-          "title": "[로펌ON] 태평양, AI 인프라 프로젝트 다루는 전략 센터 출범"
-        }
-      ]
-    },
-    {
-      "title": "성과 지표가 비용에서 리드타임으로",
-      "body_ko": "절감액 공개를 지나 개발 기간 단축이 목표로 제시되며 도입 목표의 기준선이 올라갔다.",
-      "topics": [
-        "ai_industry",
-        "ai_agents",
-        "physical_ai",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-11",
-          "file": "20260811-메타넷글로벌-한국맥도날드-구매-정산에.md",
-          "title": "메타넷글로벌, 한국맥도날드 구매·정산에 AI 적용…인보이스 처리시간 70%↓"
-        },
-        {
-          "date": "2026-08-12",
-          "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
-          "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
-        },
-        {
-          "date": "2026-08-12",
-          "file": "20260812-연간-52억-비용-아꼈다-현대차-공장.md",
-          "title": "\"연간 52억 비용 아꼈다\"…현대차 공장에 도입된 'AI 기술' 정체"
-        },
-        {
-          "date": "2026-08-12",
-          "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
-          "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260812135258",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
           "title": ""
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-제조ax-기존-r-d-잣대만으론-한계.md",
-          "title": "제조AX, 기존 R&D 잣대만으론 한계…평가지표 새로 짠다"
+          "date": "2026-08-13",
+          "file": "20260813-ai-s-costly-build-ou.md",
+          "title": "AI’s costly build-out complicates the Fed’s inflation fight"
         }
       ]
     },
     {
       "title": "위험의 접점이 모델에서 통제 설계로",
-      "body_ko": "공격을 가정한 모의침투가 조달 항목이 되며 사고를 가르는 것은 실행 환경임이 확인됐다.",
+      "body_ko": "공급망 감염과 추론 과정 추출이 겹치며 사고를 가르는 것은 모델이 아니라 실행 환경임이 확인됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -218,16 +188,21 @@
         },
         {
           "date": "2026-08-12",
-          "file": "20260812-북한-해커-김수키-로컬-llm-구축-.md",
-          "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인"
-        },
-        {
-          "date": "2026-08-12",
           "file": "20260812-금융정보-탈취해보세요-국민은행-ai-.md",
-          "title": "“금융정보 탈취해보세요”…국민은행, AI 해커 불러들인 이유 [금융가 톺아보기]"
+          "title": "\"금융정보 탈취해보세요\"…국민은행, AI 해커 불러들인 이유 [금융가 톺아보기]"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260812141454",
+          "date": "2026-08-13",
+          "file": "20260813-암호화-추론의-허점-오픈ai-앤트로픽.md",
+          "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-terabytes-of-credent.md",
+          "title": "Terabytes of credentials leaked in massive supply-chain attack"
+        },
+        {
+          "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
           "title": ""
         }
       ]

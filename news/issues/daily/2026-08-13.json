@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-13",
+  "updated_at": "2026-08-13T10:28:31.841133+09:00",
+  "run_id": "run_20260813_102831",
+  "summary_ko": "금융 AI의 접점이 자사 채널 밖으로 열리고, 모델 신뢰의 전제가 동시에 흔들린 하루.",
+  "issues": [
+    {
+      "title": "금융 AI 접점이 밖으로 열렸다",
+      "summary_ko": "고객이 금융사 앱이 아닌 범용 AI에서 거래·분석을 시작하는 경로가 실제로 열렸다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-13",
+          "file": "20260813-토스증권-오픈api-출시-대화하듯-주.md",
+          "title": "토스증권, 오픈API 출시…대화하듯 주식 거래"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-s-p-global-data-inte.md",
+          "title": "S&P Global data integrated into Microsoft 365 Copilot"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-napier-ai-and-delta-.md",
+          "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
+        }
+      ]
+    },
+    {
+      "title": "금융사가 AI를 지분과 조직으로 쥔다",
+      "summary_ko": "솔루션 구매를 넘어 지분 투자와 상설 조직으로 역량을 내재화하는 방식이 자리 잡았다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-13",
+          "file": "20260813-hsbc-invests-in-ai-m.md",
+          "title": "HSBC invests in AI modelling firm"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213868",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델에 맡긴 기밀의 전제가 흔들린다",
+      "summary_ko": "모델에 넘긴 내부 규칙과 판단 근거가 외부에서 복원될 수 있다는 점이 잇달아 확인됐다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-13",
+          "file": "20260813-암호화-추론의-허점-오픈ai-앤트로픽.md",
+          "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
+        },
+        {
+          "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
+          "title": ""
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-terabytes-of-credent.md",
+          "title": "Terabytes of credentials leaked in massive supply-chain attack"
+        },
+        {
+          "url": "https://www.etnews.com/20260813000068",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 확장이 전력원 확보 경쟁으로",
+      "summary_ko": "설비를 짓는 문제가 전력이 딸린 자산을 먼저 잡는 문제로 바뀌었다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-13",
+          "file": "20260813-앤트로픽-비트코인-채굴-업체-라이엇과.md",
+          "title": "앤트로픽, 비트코인 채굴 업체 라이엇과 13조 규모 20년 컴퓨팅 계약"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-네이버-해상-ai-데이터센터-스타트업.md",
+          "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
+          "title": ""
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-코어위브-슈퍼마이크로-2분기-호실적-.md",
+          "title": "코어위브·슈퍼마이크로 2분기 호실적…AI 컴퓨팅 수요 '견조'"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-ai-s-costly-build-ou.md",
+          "title": "AI’s costly build-out complicates the Fed’s inflation fight"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026081275721",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
