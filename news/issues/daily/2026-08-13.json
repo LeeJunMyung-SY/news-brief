@@ -1,8 +1,8 @@
 {
   "date": "2026-08-13",
-  "updated_at": "2026-08-13T10:28:31.841133+09:00",
-  "run_id": "run_20260813_102831",
-  "summary_ko": "금융 AI의 접점이 자사 채널 밖으로 열리고, 모델 신뢰의 전제가 동시에 흔들린 하루.",
+  "updated_at": "2026-08-13T12:20:05.429311+09:00",
+  "run_id": "run_20260813_122005",
+  "summary_ko": "AI 확보의 무게중심이 도구에서 사람·전력·데이터 통제로 옮겨간 하루.",
   "issues": [
     {
       "title": "금융 AI 접점이 밖으로 열렸다",
@@ -24,10 +24,6 @@
           "title": "S&P Global data integrated into Microsoft 365 Copilot"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-08-13",
           "file": "20260813-napier-ai-and-delta-.md",
           "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
@@ -35,12 +31,12 @@
       ]
     },
     {
-      "title": "금융사가 AI를 지분과 조직으로 쥔다",
-      "summary_ko": "솔루션 구매를 넘어 지분 투자와 상설 조직으로 역량을 내재화하는 방식이 자리 잡았다.",
+      "title": "AI 확보가 지분·조직·사람으로",
+      "summary_ko": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
-        "ai_policy"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -49,25 +45,28 @@
           "title": "HSBC invests in AI modelling firm"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+          "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
+          "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=213868",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
+          "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
         }
       ]
     },
     {
-      "title": "모델에 맡긴 기밀의 전제가 흔들린다",
-      "summary_ko": "모델에 넘긴 내부 규칙과 판단 근거가 외부에서 복원될 수 있다는 점이 잇달아 확인됐다.",
+      "title": "AI가 만지는 데이터가 법정으로",
+      "summary_ko": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
       "topics": [
-        "llm_models",
         "ai_policy",
+        "llm_models",
         "금융회사 AI",
         "ai_agents"
       ],
@@ -78,27 +77,23 @@
           "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
         },
         {
-          "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-          "title": ""
-        },
-        {
           "date": "2026-08-13",
           "file": "20260813-terabytes-of-credent.md",
           "title": "Terabytes of credentials leaked in massive supply-chain attack"
         },
         {
-          "url": "https://www.etnews.com/20260813000068",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+          "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
         }
       ]
     },
     {
       "title": "인프라 확장이 전력원 확보 경쟁으로",
-      "summary_ko": "설비를 짓는 문제가 전력이 딸린 자산을 먼저 잡는 문제로 바뀌었다.",
+      "summary_ko": "설비를 짓는 문제가 전력원과 냉각을 함께 설계하는 문제로 바뀌었다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry",
-        "금융회사 AI"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -112,22 +107,19 @@
           "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
-          "title": ""
-        },
-        {
-          "date": "2026-08-13",
-          "file": "20260813-코어위브-슈퍼마이크로-2분기-호실적-.md",
-          "title": "코어위브·슈퍼마이크로 2분기 호실적…AI 컴퓨팅 수요 '견조'"
-        },
-        {
           "date": "2026-08-13",
           "file": "20260813-ai-s-costly-build-ou.md",
           "title": "AI’s costly build-out complicates the Fed’s inflation fight"
         },
         {
-          "url": "https://www.hankyung.com/article/2026081275721",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
+          "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
+          "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대"
         }
       ]
     }

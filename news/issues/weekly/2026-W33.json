@@ -1,7 +1,7 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-13T10:28:31.841133+09:00",
-  "run_id": "run_20260813_102831",
+  "updated_at": "2026-08-13T12:20:05.429311+09:00",
+  "run_id": "run_20260813_122005",
   "summary_ko": "제도가 조건을 정하고, 원가와 접점 개방이 도입의 방향을 다시 그린 주.",
   "issues": [
     {
@@ -32,16 +32,12 @@
           "date": "2026-08-12",
           "file": "20260812-협의-거친-스크래핑은-허용-개인정보위.md",
           "title": "협의 거친 스크래핑은 허용…개인정보위 '본인전송요구권' 오해와 진실"
-        },
-        {
-          "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 예산 집행에서 접점 개방으로",
-      "body_ko": "자체 플랫폼 구축에 예산이 실린 데 이어 거래 접점 자체를 외부 AI에 여는 단계로 넘어갔다.",
+      "title": "금융 AI, 예산 집행에서 인력 확보로",
+      "body_ko": "플랫폼 구축과 접점 개방을 지나 이를 다룰 사람을 직접 길러내는 단계로 넘어갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -59,24 +55,19 @@
           "title": "NH투자증권 리더스 컨퍼런스 개최...\"자체 AI플랫폼 구축할 것\""
         },
         {
-          "date": "2026-08-10",
-          "file": "20260810-kt-400억원-규모-nh농협은행-차.md",
-          "title": "KT, 400억원 규모 NH농협은행 차세대 AICC 구축 완료"
-        },
-        {
           "date": "2026-08-13",
           "file": "20260813-토스증권-오픈api-출시-대화하듯-주.md",
           "title": "토스증권, 오픈API 출시…대화하듯 주식 거래"
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-s-p-global-data-inte.md",
-          "title": "S&P Global data integrated into Microsoft 365 Copilot"
+          "file": "20260813-hsbc-invests-in-ai-m.md",
+          "title": "HSBC invests in AI modelling firm"
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-hsbc-invests-in-ai-m.md",
-          "title": "HSBC invests in AI modelling firm"
+          "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+          "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진"
         }
       ]
     },
@@ -111,11 +102,6 @@
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-meta-and-nvidia-plan.md",
-          "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs"
-        },
-        {
-          "date": "2026-08-13",
           "file": "20260813-mistral-now-offers-e.md",
           "title": "Mistral now offers EU data processing and priority access, but both come with important limits"
         }
@@ -123,7 +109,7 @@
     },
     {
       "title": "인프라 경쟁이 자본·전력 문제로",
-      "body_ko": "전력이 딸린 자산을 장기 계약으로 선점하는 경쟁이 굳어지며 확장 속도의 제약이 설비 밖에 놓였다.",
+      "body_ko": "전력원과 냉각까지 묶어 확보하는 경쟁이 굳어지며 확장 속도의 제약이 설비 밖에 놓였다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -141,34 +127,30 @@
           "title": "젠슨 황에 채권시장도 설득당했다 … 코어위브의 깜짝 실적, AI 생태계 여파는"
         },
         {
-          "date": "2026-08-12",
-          "file": "20260812-호남권-용인-반도체-산단-전력공급-문.md",
-          "title": "호남권·용인 반도체 산단, 전력공급 문제 없다…관계 기관·업계 협약"
-        },
-        {
           "date": "2026-08-13",
           "file": "20260813-앤트로픽-비트코인-채굴-업체-라이엇과.md",
           "title": "앤트로픽, 비트코인 채굴 업체 라이엇과 13조 규모 20년 컴퓨팅 계약"
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-네이버-해상-ai-데이터센터-스타트업.md",
-          "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
-          "title": ""
+          "file": "20260813-ai-s-costly-build-ou.md",
+          "title": "AI’s costly build-out complicates the Fed’s inflation fight"
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-ai-s-costly-build-ou.md",
-          "title": "AI’s costly build-out complicates the Fed’s inflation fight"
+          "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
+          "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략"
+        },
+        {
+          "date": "2026-08-13",
+          "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
+          "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대"
         }
       ]
     },
     {
       "title": "위험의 접점이 모델에서 통제 설계로",
-      "body_ko": "공급망 감염과 추론 과정 추출이 겹치며 사고를 가르는 것은 모델이 아니라 실행 환경임이 확인됐다.",
+      "body_ko": "추론 과정 추출과 기기 데이터 규제가 겹치며 사고를 가르는 것은 모델이 아니라 실행 환경임이 확인됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -176,11 +158,6 @@
         "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-08-10",
-          "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
-          "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
-        },
         {
           "date": "2026-08-11",
           "file": "20260811-hidden-text-in-a-pdf.md",
@@ -202,8 +179,9 @@
           "title": "Terabytes of credentials leaked in massive supply-chain attack"
         },
         {
-          "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-          "title": ""
+          "date": "2026-08-13",
+          "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+          "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
         }
       ]
     }

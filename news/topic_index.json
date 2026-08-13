@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T01:28:37+00:00",
+  "generated_at": "2026-08-13T03:20:10+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,49 +12,49 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 670,
+      "count": 672,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 678,
+      "count": 679,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1582,
+      "count": 1587,
       "latest_date": "2026-08-13"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 271,
+      "count": 272,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 423,
+      "count": 425,
       "latest_date": "2026-08-13"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 279,
+      "count": 280,
       "latest_date": "2026-08-13"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 200,
+      "count": 201,
       "latest_date": "2026-08-13"
     },
     {
@@ -148,6 +148,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+        "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#finance",
+          "#org-change",
+          "#talent"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12126375"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-napier-ai-and-delta-.md",
         "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance",
         "importance": 7,
@@ -187,6 +202,21 @@
         ],
         "source": "Ars Technica Tech",
         "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
+        "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#public-sector",
+          "#collaboration",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813104755"
       },
       {
         "date": "2026-08-13",
@@ -18681,6 +18711,21 @@
         "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
       },
       {
+        "date": "2026-08-13",
+        "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+        "title": "메타 AI 안경, 독일서 고발당해…'사생활 보호법 위반'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#privacy",
+          "#wearable",
+          "#eu",
+          "#legal-risk"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/2026081388197"
+      },
+      {
         "date": "2026-08-12",
         "file": "20260812-금융사-ai-신뢰성-들여다본다-금융보.md",
         "title": "금융사 AI 신뢰성 들여다본다…금융보안원, 금융특화 평가체계 마련",
@@ -28561,6 +28606,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+        "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#finance",
+          "#org-change",
+          "#talent"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12126375"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-meta-and-nvidia-plan.md",
         "title": "Meta and Nvidia plant 'very firm flag' in open-weight AI race led by Chinese Labs",
         "importance": 7,
@@ -28645,6 +28705,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
+        "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#public-sector",
+          "#collaboration",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813104755"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-엔비디아-에이전트-비용-74-낮추는-.md",
         "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
         "importance": 7,
@@ -28673,6 +28748,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
+        "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#cooling",
+          "#hvac",
+          "#manufacturing",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670821"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-fsd-온로드-사고-대응-탁월-내비게.md",
         "title": "[FSD 온로드] 사고 대응 탁월…'내비게이션 정확도' 개선 필요",
         "importance": 6,
@@ -28698,6 +28788,34 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213867"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
+        "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#openai",
+          "#ipo",
+          "#leadership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813084929"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-유미-s-픽-챗gpt에-회사-띄워준다.md",
+        "title": "[유미's 픽] '챗GPT에 회사 띄워준다'…AEO·GEO 열풍에 과장 영업 기승",
+        "importance": 6,
+        "tags": [
+          "#marketing",
+          "#aeo-geo",
+          "#enterprise-ai",
+          "#market-risk"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813103254"
       },
       {
         "date": "2026-08-12",
@@ -51621,6 +51739,20 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213867"
       },
       {
+        "date": "2026-08-13",
+        "file": "20260813-대한항공-스스로-생각하는-ai-무인기.md",
+        "title": "대한항공, 스스로 생각하는 AI 무인기…물리적 한계 넘는다",
+        "importance": 6,
+        "tags": [
+          "#autonomous",
+          "#aerospace",
+          "#defense",
+          "#physical-ai"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608114829i"
+      },
+      {
         "date": "2026-08-12",
         "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
         "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축",
@@ -55659,6 +55791,35 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=670818"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
+        "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#cooling",
+          "#hvac",
+          "#manufacturing",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670821"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
+        "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략",
+        "importance": 6,
+        "tags": [
+          "#datacenter-power",
+          "#smr",
+          "#partnership",
+          "#energy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260813000172"
       },
       {
         "date": "2026-08-12",
@@ -61866,6 +62027,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+        "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#finance",
+          "#org-change",
+          "#talent"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12126375"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-mistral-now-offers-e.md",
         "title": "Mistral now offers EU data processing and priority access, but both come with important limits",
         "importance": 7,
@@ -65956,6 +66132,20 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213867"
       },
       {
+        "date": "2026-08-13",
+        "file": "20260813-대한항공-스스로-생각하는-ai-무인기.md",
+        "title": "대한항공, 스스로 생각하는 AI 무인기…물리적 한계 넘는다",
+        "importance": 6,
+        "tags": [
+          "#autonomous",
+          "#aerospace",
+          "#defense",
+          "#physical-ai"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608114829i"
+      },
+      {
         "date": "2026-08-12",
         "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
         "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축",
@@ -69019,10 +69209,6 @@
             "title": "S&P Global data integrated into Microsoft 365 Copilot"
           },
           {
-            "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-napier-ai-and-delta-.md",
             "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
@@ -69031,8 +69217,8 @@
       },
       {
         "date": "2026-08-13",
-        "title": "금융사가 AI를 지분과 조직으로 쥔다",
-        "summary": "솔루션 구매를 넘어 지분 투자와 상설 조직으로 역량을 내재화하는 방식이 자리 잡았다.",
+        "title": "AI 확보가 지분·조직·사람으로",
+        "summary": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69040,23 +69226,26 @@
             "title": "HSBC invests in AI modelling firm"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+            "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
+            "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213868",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
+            "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
           }
         ]
       },
       {
         "date": "2026-08-13",
-        "title": "모델에 맡긴 기밀의 전제가 흔들린다",
-        "summary": "모델에 넘긴 내부 규칙과 판단 근거가 외부에서 복원될 수 있다는 점이 잇달아 확인됐다.",
+        "title": "AI가 만지는 데이터가 법정으로",
+        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69064,52 +69253,14 @@
             "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
           },
           {
-            "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-terabytes-of-credent.md",
             "title": "Terabytes of credentials leaked in massive supply-chain attack"
           },
           {
-            "url": "https://www.etnews.com/20260813000068",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "인프라 확장이 전력원 확보 경쟁으로",
-        "summary": "설비를 짓는 문제가 전력이 딸린 자산을 먼저 잡는 문제로 바뀌었다.",
-        "articles": [
-          {
             "date": "2026-08-13",
-            "file": "20260813-앤트로픽-비트코인-채굴-업체-라이엇과.md",
-            "title": "앤트로픽, 비트코인 채굴 업체 라이엇과 13조 규모 20년 컴퓨팅 계약"
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-네이버-해상-ai-데이터센터-스타트업.md",
-            "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
-            "title": ""
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-코어위브-슈퍼마이크로-2분기-호실적-.md",
-            "title": "코어위브·슈퍼마이크로 2분기 호실적…AI 컴퓨팅 수요 '견조'"
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-ai-s-costly-build-ou.md",
-            "title": "AI’s costly build-out complicates the Fed’s inflation fight"
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026081275721",
-            "title": ""
+            "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+            "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
           }
         ]
       },
@@ -69689,10 +69840,6 @@
             "title": "S&P Global data integrated into Microsoft 365 Copilot"
           },
           {
-            "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-napier-ai-and-delta-.md",
             "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
@@ -69701,8 +69848,35 @@
       },
       {
         "date": "2026-08-13",
-        "title": "모델에 맡긴 기밀의 전제가 흔들린다",
-        "summary": "모델에 넘긴 내부 규칙과 판단 근거가 외부에서 복원될 수 있다는 점이 잇달아 확인됐다.",
+        "title": "AI 확보가 지분·조직·사람으로",
+        "summary": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
+        "articles": [
+          {
+            "date": "2026-08-13",
+            "file": "20260813-hsbc-invests-in-ai-m.md",
+            "title": "HSBC invests in AI modelling firm"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+            "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
+            "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
+            "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "title": "AI가 만지는 데이터가 법정으로",
+        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69710,17 +69884,14 @@
             "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
           },
           {
-            "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-terabytes-of-credent.md",
             "title": "Terabytes of credentials leaked in massive supply-chain attack"
           },
           {
-            "url": "https://www.etnews.com/20260813000068",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+            "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
           }
         ]
       },
@@ -70070,10 +70241,6 @@
             "title": "S&P Global data integrated into Microsoft 365 Copilot"
           },
           {
-            "url": "https://www.finextra.com/pressarticle/110629/fe-fundinfo-gives-nexus-for-financial-advisers-an-ai-assistant?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-napier-ai-and-delta-.md",
             "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
@@ -70082,8 +70249,8 @@
       },
       {
         "date": "2026-08-13",
-        "title": "금융사가 AI를 지분과 조직으로 쥔다",
-        "summary": "솔루션 구매를 넘어 지분 투자와 상설 조직으로 역량을 내재화하는 방식이 자리 잡았다.",
+        "title": "AI 확보가 지분·조직·사람으로",
+        "summary": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -70091,23 +70258,26 @@
             "title": "HSBC invests in AI modelling firm"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
+            "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
+            "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213868",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
+            "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
           }
         ]
       },
       {
         "date": "2026-08-13",
         "title": "인프라 확장이 전력원 확보 경쟁으로",
-        "summary": "설비를 짓는 문제가 전력이 딸린 자산을 먼저 잡는 문제로 바뀌었다.",
+        "summary": "설비를 짓는 문제가 전력원과 냉각을 함께 설계하는 문제로 바뀌었다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -70120,22 +70290,19 @@
             "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
-            "title": ""
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-코어위브-슈퍼마이크로-2분기-호실적-.md",
-            "title": "코어위브·슈퍼마이크로 2분기 호실적…AI 컴퓨팅 수요 '견조'"
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-ai-s-costly-build-ou.md",
             "title": "AI’s costly build-out complicates the Fed’s inflation fight"
           },
           {
-            "url": "https://www.hankyung.com/article/2026081275721",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
+            "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
+            "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대"
           }
         ]
       },
@@ -70843,32 +71010,8 @@
     "ai_policy": [
       {
         "date": "2026-08-13",
-        "title": "금융사가 AI를 지분과 조직으로 쥔다",
-        "summary": "솔루션 구매를 넘어 지분 투자와 상설 조직으로 역량을 내재화하는 방식이 자리 잡았다.",
-        "articles": [
-          {
-            "date": "2026-08-13",
-            "file": "20260813-hsbc-invests-in-ai-m.md",
-            "title": "HSBC invests in AI modelling firm"
-          },
-          {
-            "url": "https://www.finextra.com/newsarticle/48236/mt-bank-appoints-head-of-ai-engineering?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
-            "url": "https://www.finextra.com/newsarticle/48235/rbi-governor-tells-indian-banks-to-control-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213868",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "모델에 맡긴 기밀의 전제가 흔들린다",
-        "summary": "모델에 넘긴 내부 규칙과 판단 근거가 외부에서 복원될 수 있다는 점이 잇달아 확인됐다.",
+        "title": "AI가 만지는 데이터가 법정으로",
+        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -70876,17 +71019,14 @@
             "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
           },
           {
-            "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-terabytes-of-credent.md",
             "title": "Terabytes of credentials leaked in massive supply-chain attack"
           },
           {
-            "url": "https://www.etnews.com/20260813000068",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+            "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
           }
         ]
       },
@@ -71260,8 +71400,8 @@
     "llm_models": [
       {
         "date": "2026-08-13",
-        "title": "모델에 맡긴 기밀의 전제가 흔들린다",
-        "summary": "모델에 넘긴 내부 규칙과 판단 근거가 외부에서 복원될 수 있다는 점이 잇달아 확인됐다.",
+        "title": "AI가 만지는 데이터가 법정으로",
+        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -71269,17 +71409,14 @@
             "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
           },
           {
-            "url": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-            "title": ""
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-terabytes-of-credent.md",
             "title": "Terabytes of credentials leaked in massive supply-chain attack"
           },
           {
-            "url": "https://www.etnews.com/20260813000068",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+            "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
           }
         ]
       },
@@ -71522,7 +71659,7 @@
       {
         "date": "2026-08-13",
         "title": "인프라 확장이 전력원 확보 경쟁으로",
-        "summary": "설비를 짓는 문제가 전력이 딸린 자산을 먼저 잡는 문제로 바뀌었다.",
+        "summary": "설비를 짓는 문제가 전력원과 냉각을 함께 설계하는 문제로 바뀌었다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -71535,22 +71672,19 @@
             "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670786",
-            "title": ""
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-코어위브-슈퍼마이크로-2분기-호실적-.md",
-            "title": "코어위브·슈퍼마이크로 2분기 호실적…AI 컴퓨팅 수요 '견조'"
-          },
-          {
             "date": "2026-08-13",
             "file": "20260813-ai-s-costly-build-ou.md",
             "title": "AI’s costly build-out complicates the Fed’s inflation fight"
           },
           {
-            "url": "https://www.hankyung.com/article/2026081275721",
-            "title": ""
+            "date": "2026-08-13",
+            "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
+            "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
+            "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대"
           }
         ]
       },
