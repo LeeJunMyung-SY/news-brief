@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-08-13T03:20:10+00:00",
+  "generated_at": "2026-08-13T07:28:36+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 598,
+      "count": 601,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 672,
+      "count": 679,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 679,
+      "count": 685,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1587,
+      "count": 1604,
       "latest_date": "2026-08-13"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 272,
+      "count": 275,
       "latest_date": "2026-08-13"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 425,
+      "count": 430,
       "latest_date": "2026-08-13"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 280,
+      "count": 286,
       "latest_date": "2026-08-13"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 201,
+      "count": 205,
       "latest_date": "2026-08-13"
     },
     {
@@ -88,6 +88,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-08-13",
+        "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+        "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#governance",
+          "#open-source",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813153457"
+      },
       {
         "date": "2026-08-13",
         "file": "20260813-hsbc-invests-in-ai-m.md",
@@ -163,6 +178,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
+        "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#enterprise-ai",
+          "#org-change"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260813098000051"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-napier-ai-and-delta-.md",
         "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance",
         "importance": 7,
@@ -205,6 +235,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+        "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#security",
+          "#data-governance",
+          "#database",
+          "#access-control"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670814"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
         "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입",
         "importance": 7,
@@ -234,6 +279,36 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-deployment-decision-.md",
+        "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#agent-framework",
+          "#procurement",
+          "#evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.11323"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-governing-agentic-ai.md",
+        "title": "Governing Agentic AI in FinTech",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#governance",
+          "#fintech",
+          "#agent-framework",
+          "#regulation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.11344"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-게시판-한컴-프랑스-소방-로봇에-에이.md",
         "title": "[게시판] 한컴, 프랑스 소방 로봇에 ‘에이전틱 OS’ 탑재 등 단신",
         "importance": 6,
@@ -245,6 +320,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213867"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-기획-ai에-먼저-물어라-석창규-비즈.md",
+        "title": "[기획]“AI에 먼저 물어라”…석창규 비즈플레이 회장 “5년 만에 복귀, 글로벌 B2E 기업 도약”",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ai-adoption",
+          "#coding",
+          "#leadership",
+          "#b2e"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260813000079"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+        "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#benchmark",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213888"
       },
       {
         "date": "2026-08-12",
@@ -10005,6 +10109,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+        "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#benchmark",
+          "#sovereign-ai",
+          "#open-weights",
+          "#procurement"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213896"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-엔비디아-에이전트-비용-74-낮추는-.md",
         "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
         "importance": 7,
@@ -10016,6 +10135,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=213846"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-deployment-decision-.md",
+        "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#agent-framework",
+          "#procurement",
+          "#evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.11323"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+        "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#benchmark",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213888"
       },
       {
         "date": "2026-08-12",
@@ -18628,6 +18776,21 @@
     "ai_policy": [
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+        "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#governance",
+          "#open-source",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813153457"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-암호화-추론의-허점-오픈ai-앤트로픽.md",
         "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출",
         "importance": 8,
@@ -18712,6 +18875,51 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+        "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#security",
+          "#data-governance",
+          "#database",
+          "#access-control"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670814"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+        "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#benchmark",
+          "#sovereign-ai",
+          "#open-weights",
+          "#procurement"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213896"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-governing-agentic-ai.md",
+        "title": "Governing Agentic AI in FinTech",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#governance",
+          "#fintech",
+          "#agent-framework",
+          "#regulation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.11344"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
         "title": "메타 AI 안경, 독일서 고발당해…'사생활 보호법 위반'",
         "importance": 6,
@@ -18724,6 +18932,35 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026081388197"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
+        "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'",
+        "importance": 6,
+        "tags": [
+          "#power",
+          "#datacenter",
+          "#regulation",
+          "#ai-infrastructure",
+          "#column"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260813000029"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-현장-배경훈-부총리-강원-의료-ax-.md",
+        "title": "[현장] 배경훈 부총리 '강원 의료 AX 대전환 기대'…2028년 사업 추진",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#healthcare-ai",
+          "#regional-ax",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813143725"
       },
       {
         "date": "2026-08-12",
@@ -28520,6 +28757,21 @@
     "ai_industry": [
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+        "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#governance",
+          "#open-source",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813153457"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-hsbc-invests-in-ai-m.md",
         "title": "HSBC invests in AI modelling firm",
         "importance": 8,
@@ -28606,6 +28858,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
+        "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#debt",
+          "#datacenter",
+          "#capital-markets",
+          "#risk"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608127354i"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
         "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진",
         "importance": 7,
@@ -28618,6 +28885,36 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12126375"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
+        "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#enterprise-ai",
+          "#org-change"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260813098000051"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-how-organizations-us.md",
+        "title": "How Organizations Use AI: Evidence from ChatGPT",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#roi-case",
+          "#data"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.12236"
       },
       {
         "date": "2026-08-13",
@@ -28705,6 +29002,36 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+        "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#security",
+          "#data-governance",
+          "#database",
+          "#access-control"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670814"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+        "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#benchmark",
+          "#sovereign-ai",
+          "#open-weights",
+          "#procurement"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213896"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
         "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입",
         "importance": 7,
@@ -28717,6 +29044,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260813104755"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-엔비디아-데이터센터-전력-800볼트-.md",
+        "title": "엔비디아, 데이터센터 전력 800볼트 직류로 바꾼다…랙 한 줄에 2MW",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power",
+          "#standard",
+          "#ai-infrastructure",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813143944"
       },
       {
         "date": "2026-08-13",
@@ -28763,6 +29105,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-deployment-decision-.md",
+        "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#benchmark",
+          "#agent-framework",
+          "#procurement",
+          "#evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.11323"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-fsd-온로드-사고-대응-탁월-내비게.md",
         "title": "[FSD 온로드] 사고 대응 탁월…'내비게이션 정확도' 개선 필요",
         "importance": 6,
@@ -28791,6 +29148,94 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-구형-gpu-곧-퇴물된다더니-1분기보.md",
+        "title": "구형 GPU 곧 퇴물된다더니…'1분기보다 가격 30% 올라'",
+        "importance": 6,
+        "tags": [
+          "#gpu",
+          "#pricing",
+          "#supply-chain",
+          "#ai-infrastructure"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608139263i"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-기획-ai에-먼저-물어라-석창규-비즈.md",
+        "title": "[기획]“AI에 먼저 물어라”…석창규 비즈플레이 회장 “5년 만에 복귀, 글로벌 B2E 기업 도약”",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ai-adoption",
+          "#coding",
+          "#leadership",
+          "#b2e"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260813000079"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-딜-인사이드-클로봇의-dls-인수-물.md",
+        "title": "[딜 인사이드] 클로봇의 DLS 인수…'물류 자동화' 캐시카우 기대",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#logistics",
+          "#physical-ai",
+          "#investment"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670799"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-삼성중공업-kaist-ai-선박-로봇.md",
+        "title": "삼성중공업·KAIST, 'AI 선박·로봇 조선소' 만든다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#manufacturing",
+          "#partnership",
+          "#autonomous-ship"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813141742"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+        "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#benchmark",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213888"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-에스넷시스템-ai-인프라-수주로-상반.md",
+        "title": "에스넷시스템, AI 인프라 수주로 상반기 영업익 227% 폭증",
+        "importance": 6,
+        "tags": [
+          "#roi-case",
+          "#earnings",
+          "#ai-infrastructure",
+          "#gpu",
+          "#public-sector"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813145224"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
         "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈",
         "importance": 6,
@@ -28816,6 +29261,50 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260813103254"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
+        "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'",
+        "importance": 6,
+        "tags": [
+          "#power",
+          "#datacenter",
+          "#regulation",
+          "#ai-infrastructure",
+          "#column"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260813000029"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-한국가스공사-현장-원격-관리-위험-미.md",
+        "title": "한국가스공사, 현장 원격 관리·위험 미리 감지…당진 AI 플랜트가 AX 전진기지로",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#public-sector",
+          "#energy",
+          "#safety"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026081384551"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-현장-배경훈-부총리-강원-의료-ax-.md",
+        "title": "[현장] 배경훈 부총리 '강원 의료 AX 대전환 기대'…2028년 사업 추진",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#healthcare-ai",
+          "#regional-ax",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813143725"
       },
       {
         "date": "2026-08-12",
@@ -51753,6 +52242,51 @@
         "url": "https://www.hankyung.com/article/202608114829i"
       },
       {
+        "date": "2026-08-13",
+        "file": "20260813-딜-인사이드-클로봇의-dls-인수-물.md",
+        "title": "[딜 인사이드] 클로봇의 DLS 인수…'물류 자동화' 캐시카우 기대",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#logistics",
+          "#physical-ai",
+          "#investment"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670799"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-삼성중공업-kaist-ai-선박-로봇.md",
+        "title": "삼성중공업·KAIST, 'AI 선박·로봇 조선소' 만든다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#manufacturing",
+          "#partnership",
+          "#autonomous-ship"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813141742"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-투모로로보틱스-인텔-손잡고-엣지-피지.md",
+        "title": "투모로로보틱스, 인텔 손잡고 '엣지 피지컬 AI' 실증",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#edge-ai",
+          "#partnership",
+          "#robotics",
+          "#poc"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813141303"
+      },
+      {
         "date": "2026-08-12",
         "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
         "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축",
@@ -55752,6 +56286,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
+        "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#debt",
+          "#datacenter",
+          "#capital-markets",
+          "#risk"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608127354i"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-네이버-해상-ai-데이터센터-스타트업.md",
         "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자",
         "importance": 7,
@@ -55763,6 +56312,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260813000055"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-엔비디아-데이터센터-전력-800볼트-.md",
+        "title": "엔비디아, 데이터센터 전력 800볼트 직류로 바꾼다…랙 한 줄에 2MW",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#power",
+          "#standard",
+          "#ai-infrastructure",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813143944"
       },
       {
         "date": "2026-08-13",
@@ -55809,6 +56373,20 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-구형-gpu-곧-퇴물된다더니-1분기보.md",
+        "title": "구형 GPU 곧 퇴물된다더니…'1분기보다 가격 30% 올라'",
+        "importance": 6,
+        "tags": [
+          "#gpu",
+          "#pricing",
+          "#supply-chain",
+          "#ai-infrastructure"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202608139263i"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
         "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략",
         "importance": 6,
@@ -55820,6 +56398,36 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260813000172"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-에스넷시스템-ai-인프라-수주로-상반.md",
+        "title": "에스넷시스템, AI 인프라 수주로 상반기 영업익 227% 폭증",
+        "importance": 6,
+        "tags": [
+          "#roi-case",
+          "#earnings",
+          "#ai-infrastructure",
+          "#gpu",
+          "#public-sector"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813145224"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
+        "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'",
+        "importance": 6,
+        "tags": [
+          "#power",
+          "#datacenter",
+          "#regulation",
+          "#ai-infrastructure",
+          "#column"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260813000029"
       },
       {
         "date": "2026-08-12",
@@ -61941,6 +62549,21 @@
     "금융회사 AI": [
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+        "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개",
+        "importance": 8,
+        "tags": [
+          "#agent-framework",
+          "#governance",
+          "#open-source",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813153457"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-hsbc-invests-in-ai-m.md",
         "title": "HSBC invests in AI modelling firm",
         "importance": 8,
@@ -62027,6 +62650,21 @@
       },
       {
         "date": "2026-08-13",
+        "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
+        "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#debt",
+          "#datacenter",
+          "#capital-markets",
+          "#risk"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608127354i"
+      },
+      {
+        "date": "2026-08-13",
         "file": "20260813-ai로-보험-중개-돕는다-뱅크샐러드-.md",
         "title": "AI로 보험 중개 돕는다…뱅크샐러드, 전문가 양성 추진",
         "importance": 7,
@@ -62039,6 +62677,36 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12126375"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
+        "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#banking",
+          "#finance",
+          "#enterprise-ai",
+          "#org-change"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260813098000051"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-how-organizations-us.md",
+        "title": "How Organizations Use AI: Evidence from ChatGPT",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#roi-case",
+          "#data"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.12236"
       },
       {
         "date": "2026-08-13",
@@ -62081,6 +62749,36 @@
         ],
         "source": "Ars Technica Tech",
         "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+        "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#security",
+          "#data-governance",
+          "#database",
+          "#access-control"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670814"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-governing-agentic-ai.md",
+        "title": "Governing Agentic AI in FinTech",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#governance",
+          "#fintech",
+          "#agent-framework",
+          "#regulation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2608.11344"
       },
       {
         "date": "2026-08-12",
@@ -66146,6 +66844,66 @@
         "url": "https://www.hankyung.com/article/202608114829i"
       },
       {
+        "date": "2026-08-13",
+        "file": "20260813-딜-인사이드-클로봇의-dls-인수-물.md",
+        "title": "[딜 인사이드] 클로봇의 DLS 인수…'물류 자동화' 캐시카우 기대",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#logistics",
+          "#physical-ai",
+          "#investment"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=670799"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-삼성중공업-kaist-ai-선박-로봇.md",
+        "title": "삼성중공업·KAIST, 'AI 선박·로봇 조선소' 만든다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#robotics",
+          "#manufacturing",
+          "#partnership",
+          "#autonomous-ship"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813141742"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-투모로로보틱스-인텔-손잡고-엣지-피지.md",
+        "title": "투모로로보틱스, 인텔 손잡고 '엣지 피지컬 AI' 실증",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#edge-ai",
+          "#partnership",
+          "#robotics",
+          "#poc"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260813141303"
+      },
+      {
+        "date": "2026-08-13",
+        "file": "20260813-한국가스공사-현장-원격-관리-위험-미.md",
+        "title": "한국가스공사, 현장 원격 관리·위험 미리 감지…당진 AI 플랜트가 AX 전진기지로",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#public-sector",
+          "#energy",
+          "#safety"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/2026081384551"
+      },
+      {
         "date": "2026-08-12",
         "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
         "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축",
@@ -69195,8 +69953,8 @@
     "금융회사 AI": [
       {
         "date": "2026-08-13",
-        "title": "금융 AI 접점이 밖으로 열렸다",
-        "summary": "고객이 금융사 앱이 아닌 범용 AI에서 거래·분석을 시작하는 경로가 실제로 열렸다.",
+        "title": "금융 AI, 접점 개방에서 집행으로",
+        "summary": "고객 접점을 여는 단계를 지나 그룹 공동 플랫폼과 결제망 연결에 실제 예산이 실렸다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69210,18 +69968,6 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-napier-ai-and-delta-.md",
-            "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "AI 확보가 지분·조직·사람으로",
-        "summary": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
-        "articles": [
-          {
-            "date": "2026-08-13",
             "file": "20260813-hsbc-invests-in-ai-m.md",
             "title": "HSBC invests in AI modelling firm"
           },
@@ -69232,20 +69978,19 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
-            "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
+            "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
+            "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신"
           },
           {
-            "date": "2026-08-13",
-            "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
-            "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
+            "url": "https://www.etnews.com/20260813000364",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-08-13",
-        "title": "AI가 만지는 데이터가 법정으로",
-        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
+        "title": "에이전트 통제가 인프라 계층으로",
+        "summary": "모델을 손보는 대신 실행 권한과 조회 범위로 위험을 관리하는 방식이 제품이 됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69261,6 +70006,71 @@
             "date": "2026-08-13",
             "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
             "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+            "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+            "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
+            "title": ""
+          },
+          {
+            "url": "https://arxiv.org/abs/2608.11274",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "title": "전력과 자금이 확장 속도를 정한다",
+        "summary": "설비가 아니라 배전 규격과 조달 자금이 데이터센터 확장의 실제 제약으로 드러났다.",
+        "articles": [
+          {
+            "date": "2026-08-13",
+            "file": "20260813-앤트로픽-비트코인-채굴-업체-라이엇과.md",
+            "title": "앤트로픽, 비트코인 채굴 업체 라이엇과 13조 규모 20년 컴퓨팅 계약"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-네이버-해상-ai-데이터센터-스타트업.md",
+            "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-s-costly-build-ou.md",
+            "title": "AI’s costly build-out complicates the Fed’s inflation fight"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-엔비디아-데이터센터-전력-800볼트-.md",
+            "title": "엔비디아, 데이터센터 전력 800볼트 직류로 바꾼다…랙 한 줄에 2MW"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
+            "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
+            "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-구형-gpu-곧-퇴물된다더니-1분기보.md",
+            "title": "구형 GPU 곧 퇴물된다더니…\"1분기보다 가격 30% 올라\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-에스넷시스템-ai-인프라-수주로-상반.md",
+            "title": "에스넷시스템, AI 인프라 수주로 상반기 영업익 227% 폭증"
           }
         ]
       },
@@ -69826,8 +70636,8 @@
     "ai_agents": [
       {
         "date": "2026-08-13",
-        "title": "금융 AI 접점이 밖으로 열렸다",
-        "summary": "고객이 금융사 앱이 아닌 범용 AI에서 거래·분석을 시작하는 경로가 실제로 열렸다.",
+        "title": "금융 AI, 접점 개방에서 집행으로",
+        "summary": "고객 접점을 여는 단계를 지나 그룹 공동 플랫폼과 결제망 연결에 실제 예산이 실렸다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69841,18 +70651,6 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-napier-ai-and-delta-.md",
-            "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "AI 확보가 지분·조직·사람으로",
-        "summary": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
-        "articles": [
-          {
-            "date": "2026-08-13",
             "file": "20260813-hsbc-invests-in-ai-m.md",
             "title": "HSBC invests in AI modelling firm"
           },
@@ -69863,20 +70661,19 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
-            "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
+            "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
+            "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신"
           },
           {
-            "date": "2026-08-13",
-            "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
-            "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
+            "url": "https://www.etnews.com/20260813000364",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-08-13",
-        "title": "AI가 만지는 데이터가 법정으로",
-        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
+        "title": "에이전트 통제가 인프라 계층으로",
+        "summary": "모델을 손보는 대신 실행 권한과 조회 범위로 위험을 관리하는 방식이 제품이 됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -69892,6 +70689,24 @@
             "date": "2026-08-13",
             "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
             "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+            "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+            "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
+            "title": ""
+          },
+          {
+            "url": "https://arxiv.org/abs/2608.11274",
+            "title": ""
           }
         ]
       },
@@ -70227,8 +71042,8 @@
     "ai_industry": [
       {
         "date": "2026-08-13",
-        "title": "금융 AI 접점이 밖으로 열렸다",
-        "summary": "고객이 금융사 앱이 아닌 범용 AI에서 거래·분석을 시작하는 경로가 실제로 열렸다.",
+        "title": "금융 AI, 접점 개방에서 집행으로",
+        "summary": "고객 접점을 여는 단계를 지나 그룹 공동 플랫폼과 결제망 연결에 실제 예산이 실렸다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -70242,18 +71057,6 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-napier-ai-and-delta-.md",
-            "title": "Napier AI and Delta Capita partner to deliver end-to-end KYC and AML compliance"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "AI 확보가 지분·조직·사람으로",
-        "summary": "솔루션 구매를 넘어 지분, 상설 조직, 인력 육성으로 역량을 내재화하는 방식이 자리 잡았다.",
-        "articles": [
-          {
-            "date": "2026-08-13",
             "file": "20260813-hsbc-invests-in-ai-m.md",
             "title": "HSBC invests in AI modelling firm"
           },
@@ -70264,20 +71067,36 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-삼성sds-정부-ai-행정-앞장선다-.md",
-            "title": "삼성SDS, 정부 AI 행정 앞장선다…'브리티웍스' 중앙부처 9곳 도입"
+            "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
+            "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신"
           },
           {
-            "date": "2026-08-13",
-            "file": "20260813-오픈ai-coo-출신-브래드-라이트캡.md",
-            "title": "오픈AI, COO 출신 브래드 라이트캡 퇴사...IPO 앞두고 고위임원 연쇄 이탈"
+            "url": "https://www.etnews.com/20260813000364",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-08-13",
-        "title": "인프라 확장이 전력원 확보 경쟁으로",
-        "summary": "설비를 짓는 문제가 전력원과 냉각을 함께 설계하는 문제로 바뀌었다.",
+        "title": "국산 모델에 공통 잣대가 생겼다",
+        "summary": "공급사 자체 발표 대신 제3자 지표로 국산 모델을 비교할 근거가 처음 마련됐다.",
+        "articles": [
+          {
+            "date": "2026-08-13",
+            "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+            "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+            "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "title": "전력과 자금이 확장 속도를 정한다",
+        "summary": "설비가 아니라 배전 규격과 조달 자금이 데이터센터 확장의 실제 제약으로 드러났다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -70296,13 +71115,28 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
-            "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략"
+            "file": "20260813-엔비디아-데이터센터-전력-800볼트-.md",
+            "title": "엔비디아, 데이터센터 전력 800볼트 직류로 바꾼다…랙 한 줄에 2MW"
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
-            "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대"
+            "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
+            "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
+            "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-구형-gpu-곧-퇴물된다더니-1분기보.md",
+            "title": "구형 GPU 곧 퇴물된다더니…\"1분기보다 가격 30% 올라\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-에스넷시스템-ai-인프라-수주로-상반.md",
+            "title": "에스넷시스템, AI 인프라 수주로 상반기 영업익 227% 폭증"
           }
         ]
       },
@@ -71010,8 +71844,8 @@
     "ai_policy": [
       {
         "date": "2026-08-13",
-        "title": "AI가 만지는 데이터가 법정으로",
-        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
+        "title": "에이전트 통제가 인프라 계층으로",
+        "summary": "모델을 손보는 대신 실행 권한과 조회 범위로 위험을 관리하는 방식이 제품이 됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -71027,6 +71861,41 @@
             "date": "2026-08-13",
             "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
             "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+            "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+            "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
+            "title": ""
+          },
+          {
+            "url": "https://arxiv.org/abs/2608.11274",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "title": "국산 모델에 공통 잣대가 생겼다",
+        "summary": "공급사 자체 발표 대신 제3자 지표로 국산 모델을 비교할 근거가 처음 마련됐다.",
+        "articles": [
+          {
+            "date": "2026-08-13",
+            "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+            "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+            "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증"
           }
         ]
       },
@@ -71400,8 +72269,8 @@
     "llm_models": [
       {
         "date": "2026-08-13",
-        "title": "AI가 만지는 데이터가 법정으로",
-        "summary": "모델에 넘긴 내부 규칙과 기기가 수집한 현장 데이터 모두 통제 밖에 있음이 확인됐다.",
+        "title": "에이전트 통제가 인프라 계층으로",
+        "summary": "모델을 손보는 대신 실행 권한과 조회 범위로 위험을 관리하는 방식이 제품이 됐다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -71417,6 +72286,41 @@
             "date": "2026-08-13",
             "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
             "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+            "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+            "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
+            "title": ""
+          },
+          {
+            "url": "https://arxiv.org/abs/2608.11274",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "title": "국산 모델에 공통 잣대가 생겼다",
+        "summary": "공급사 자체 발표 대신 제3자 지표로 국산 모델을 비교할 근거가 처음 마련됐다.",
+        "articles": [
+          {
+            "date": "2026-08-13",
+            "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+            "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+            "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증"
           }
         ]
       },
@@ -71658,8 +72562,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-08-13",
-        "title": "인프라 확장이 전력원 확보 경쟁으로",
-        "summary": "설비를 짓는 문제가 전력원과 냉각을 함께 설계하는 문제로 바뀌었다.",
+        "title": "전력과 자금이 확장 속도를 정한다",
+        "summary": "설비가 아니라 배전 규격과 조달 자금이 데이터센터 확장의 실제 제약으로 드러났다.",
         "articles": [
           {
             "date": "2026-08-13",
@@ -71678,13 +72582,28 @@
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-그리드위즈-알엑스-smr-전력망-유연.md",
-            "title": "그리드위즈-알엑스, SMR·전력망 유연성으로 AI 데이터센터 공동 공략"
+            "file": "20260813-엔비디아-데이터센터-전력-800볼트-.md",
+            "title": "엔비디아, 데이터센터 전력 800볼트 직류로 바꾼다…랙 한 줄에 2MW"
           },
           {
             "date": "2026-08-13",
-            "file": "20260813-ai-열풍에-냉각시장도-뜬다-삼성전자.md",
-            "title": "AI 열풍에 냉각시장도 뜬다…삼성전자, 인도서 HVAC 생산라인 확대"
+            "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
+            "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
+            "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-구형-gpu-곧-퇴물된다더니-1분기보.md",
+            "title": "구형 GPU 곧 퇴물된다더니…\"1분기보다 가격 30% 올라\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-에스넷시스템-ai-인프라-수주로-상반.md",
+            "title": "에스넷시스템, AI 인프라 수주로 상반기 영업익 227% 폭증"
           }
         ]
       },
