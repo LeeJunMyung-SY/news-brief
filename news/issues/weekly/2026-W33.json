@@ -1,12 +1,12 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-13T16:28:31.300058+09:00",
-  "run_id": "run_20260813_162831",
-  "summary_ko": "제도가 조건을 정하고, 통제와 전력·자금이 도입 속도를 다시 그린 주.",
+  "updated_at": "2026-08-14T08:32:39.662342+09:00",
+  "run_id": "run_20260814_083239",
+  "summary_ko": "제도와 통제, 전력과 자금이 도입의 조건을 차례로 갈아치운 주.",
   "issues": [
     {
       "title": "규제가 금융 AI의 조건을 정한다",
-      "body_ko": "망분리 완화로 열린 자리에 평가체계와 감독 기대가 들어서며 제도가 계획의 상수로 굳었다.",
+      "body_ko": "망분리 완화로 열린 자리에 평가체계와 성과지표 감독까지 들어서며 제도가 계획의 상수가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -32,12 +32,20 @@
           "date": "2026-08-12",
           "file": "20260812-협의-거친-스크래핑은-허용-개인정보위.md",
           "title": "협의 거친 스크래핑은 허용…개인정보위 '본인전송요구권' 오해와 진실"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=670837",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260813164711",
+          "title": ""
         }
       ]
     },
     {
       "title": "금융 AI가 그룹 단위 집행으로",
-      "body_ko": "계열사별 시범 도입을 지나 지주 차원 공동 플랫폼과 인력 확보로 예산의 단위가 커졌다.",
+      "body_ko": "계열사별 시범 도입을 지나 지주 차원 공동 플랫폼과 백오피스 자동화로 예산의 단위가 커졌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -73,12 +81,16 @@
           "date": "2026-08-13",
           "file": "20260813-bnk금융-공동-생성형-ai-플랫폼-.md",
           "title": "BNK금융, 공동 생성형 AI 플랫폼 구축…일하는 방식 혁신"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110645/new-zealands-sterling-lands-funding-to-run-finance-on-autopilot?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
         }
       ]
     },
     {
-      "title": "조달 기준이 성능에서 원가·검증으로",
-      "body_ko": "가중치 공개와 저가 공세에 제3자 평가 지표까지 더해지며 무엇을 근거로 고를지가 쟁점이 됐다.",
+      "title": "조달 기준이 성능에서 지불 의향으로",
+      "body_ko": "가중치 공개와 저가 공세를 지나, 최고 성능에 얼마를 낼지가 조달의 실제 쟁점이 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -102,24 +114,33 @@
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-엔비디아-에이전트-비용-74-낮추는-.md",
-          "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개"
-        },
-        {
-          "date": "2026-08-13",
           "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
           "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록"
         },
         {
           "date": "2026-08-13",
           "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
-          "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증"
+          "title": "업스테이지 '솔라 프로 4', AAII·아레나 지표로 에이전트 성능 입증"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-fable-5-s-slow-adopt.md",
+          "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-오픈ai-기업-ai-지출서-앤트로픽에.md",
+          "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…'GPT-5.6 솔', 페이블 5 제쳤다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213924",
+          "title": ""
         }
       ]
     },
     {
       "title": "인프라 병목이 전력·자본으로",
-      "body_ko": "배전 규격과 계통 접속, 회사채 조달까지 확장 속도의 제약이 설비 바깥에 놓였다.",
+      "body_ko": "배전 규격과 계통 접속을 지나 담보와 금리까지 확장 속도의 제약이 설비 바깥에 놓였다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -144,7 +165,7 @@
         {
           "date": "2026-08-13",
           "file": "20260813-ai-s-costly-build-ou.md",
-          "title": "AI’s costly build-out complicates the Fed’s inflation fight"
+          "title": "AI's costly build-out complicates the Fed's inflation fight"
         },
         {
           "date": "2026-08-13",
@@ -153,19 +174,28 @@
         },
         {
           "date": "2026-08-13",
-          "file": "20260813-최은수의-ai와-뉴비즈-47-ai-공.md",
-          "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 '전력'"
-        },
-        {
-          "date": "2026-08-13",
           "file": "20260813-ai-회사채가-장기물-40-삼켰다-월.md",
           "title": "AI 회사채가 美 장기물 40% 삼켰다…월가로 옮겨붙은 'AI 빚투'"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12126701",
+          "title": ""
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-nvidia-s-new-500b-pl.md",
+          "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-an-inside-look-at-sk.md",
+          "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea"
         }
       ]
     },
     {
       "title": "통제 지점이 모델에서 실행 환경으로",
-      "body_ko": "추론 추출과 공급망 유출을 겪은 뒤 권한·정책·추적으로 위험을 다루는 도구가 자리 잡았다.",
+      "body_ko": "권한과 정책으로 위험을 다루던 논의가 자율 에이전트의 실제 공격 관측으로 넘어갔다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -204,8 +234,14 @@
           "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
-          "title": ""
+          "date": "2026-08-14",
+          "file": "20260814-중국-관련-해커-오픈소스-에이전트로-.md",
+          "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-anthropic-set-ai-age.md",
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war."
         }
       ]
     }

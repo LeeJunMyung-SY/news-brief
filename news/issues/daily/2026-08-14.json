@@ -1,0 +1,116 @@
+{
+  "date": "2026-08-14",
+  "updated_at": "2026-08-14T08:32:39.662342+09:00",
+  "run_id": "run_20260814_083239",
+  "summary_ko": "성능이 아니라 지불 의향과 통제 역량이 도입 속도를 정한 하루.",
+  "issues": [
+    {
+      "title": "지불 의향의 천장이 드러났다",
+      "summary_ko": "최고 성능을 기본값으로 둔 조달 설계가 실제 지출 데이터와 어긋났다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-14",
+          "file": "20260814-fable-5-s-slow-adopt.md",
+          "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-오픈ai-기업-ai-지출서-앤트로픽에.md",
+          "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…'GPT-5.6 솔', 페이블 5 제쳤다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=213924",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 위험이 실제 공격으로",
+      "summary_ko": "통제 논의 단계를 지나 자율 에이전트가 실제 침해에 동원됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-14",
+          "file": "20260814-중국-관련-해커-오픈소스-에이전트로-.md",
+          "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-anthropic-set-ai-age.md",
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war."
+        },
+        {
+          "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "성과의 잣대가 산출량 밖으로",
+      "summary_ko": "얼마나 만들었나 대신 무엇이 실제로 바뀌었나가 심사의 기준이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-14",
+          "file": "20260814-the-genai-productivi.md",
+          "title": "The GenAI Productivity Mirage: Redefining Software Metrics for Financial Services"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-오픈ai-ai-에이전트-지식-노동-전.md",
+          "title": "오픈AI, ‘AI 에이전트 지식 노동’ 전 직군으로 확대…“법무 분야 활용도 대폭 확대”"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260813170054",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 자금이 시장 구조로 편입됐다",
+      "summary_ko": "인프라 투자가 지수 구성과 금리 경로까지 끌어들이며 자산 배분의 변수가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "url": "https://www.mk.co.kr/news/economy/12126701",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608139597i",
+          "title": ""
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-nvidia-s-new-500b-pl.md",
+          "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs"
+        },
+        {
+          "date": "2026-08-14",
+          "file": "20260814-an-inside-look-at-sk.md",
+          "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea"
+        }
+      ]
+    }
+  ]
+}
