@@ -1,0 +1,117 @@
+{
+  "date": "2026-08-15",
+  "updated_at": "2026-08-15T08:24:56.858738+09:00",
+  "run_id": "run_20260815_082456",
+  "summary_ko": "AI의 값과 효과, 그 부담을 누가 지느냐가 동시에 드러난 하루.",
+  "issues": [
+    {
+      "title": "은행 AI, 효과가 사람 수로 드러났다",
+      "summary_ko": "도입 성과가 처음으로 인력 규모라는 수치로 확인됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-15",
+          "file": "20260815-ai상담-늘자-은행-상담원-30-줄었.md",
+          "title": "AI상담 늘자 … 은행 상담원 30% 줄었다"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-im뱅크-신입행원-공채-ai-역량평가.md",
+          "title": "iM뱅크, 신입행원 공채…AI 역량평가로 인재 찾는다"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026081425011",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 전환 비용을 제도가 나눈다",
+      "summary_ko": "절감 효과의 일부를 사회가 환수하는 설계가 처음 법안으로 나왔다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-15",
+          "file": "20260815-ai-전환-충격-선제-대응한다-이해민.md",
+          "title": "AI 전환 충격 선제 대응한다…이해민, 'AI 기본사회법' 발의"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671054",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/anthropic-announces-watermark-detection-api-that-will-let-third-parties-detect-claudes-ai-texts/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "값은 내리는데 총비용은 못 잡는다",
+      "summary_ko": "단가 인하를 전제로 짠 AI 예산이 실제 지출을 설명하지 못하고 있다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-15",
+          "file": "20260815-8월14일-ai는-싸졌는데-비용은-늘.md",
+          "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-openai-and-anthropic.md",
+          "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-alibaba-s-qwen-team-.md",
+          "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-gpt-5-6-sol-goes-14x.md",
+          "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras"
+        }
+      ]
+    },
+    {
+      "title": "전력 확보가 발전 사업 참여로",
+      "summary_ko": "전기를 사는 문제에서 발전 자산을 함께 짓는 문제로 넘어갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-15",
+          "file": "20260815-최태원-빌-게이츠-서울서-smr-회동.md",
+          "title": "최태원·빌 게이츠, 서울서 'SMR 회동'…SK, 투자자 넘어 사업자로"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12127884",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+          "title": ""
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-최태원-sk-회장-ai-메모리-확보-.md",
+          "title": "최태원 SK 회장 “AI 메모리 확보 전쟁 중…美에 전공정 팹 건설 검토\""
+        }
+      ]
+    }
+  ]
+}
