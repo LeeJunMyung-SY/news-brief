@@ -1,8 +1,8 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-15T12:15:53.617336+09:00",
-  "run_id": "run_20260815_121553",
-  "summary_ko": "제도와 전력, 가격을 지나 도입 효과와 수익의 귀속처가 드러난 주.",
+  "updated_at": "2026-08-15T16:18:31.227039+09:00",
+  "run_id": "run_20260815_161831",
+  "summary_ko": "제도와 전력, 가격을 지나 도입 효과와 그 청구서가 드러난 주.",
   "issues": [
     {
       "title": "금융 AI, 제도 정비에서 성과 청구서로",
@@ -66,11 +66,6 @@
         },
         {
           "date": "2026-08-14",
-          "file": "20260814-fable-5-s-slow-adopt.md",
-          "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
-        },
-        {
-          "date": "2026-08-14",
           "file": "20260814-딥시크-v4-모델-api-가격-최대-.md",
           "title": "딥시크, V4 모델 API 가격 최대 1100% 인상...혼잡 시간대 2배 부과"
         },
@@ -86,11 +81,6 @@
         },
         {
           "date": "2026-08-15",
-          "file": "20260815-alibaba-s-qwen-team-.md",
-          "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
-        },
-        {
-          "date": "2026-08-15",
           "file": "20260815-오픈ai-기업용-매출-챗gpt-넘어섰.md",
           "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”"
         },
@@ -103,7 +93,7 @@
     },
     {
       "title": "인프라 병목이 전력·자본으로",
-      "body_ko": "배전 규격과 조달 금리에 이어 발전 자산을 함께 짓는 단계까지 제약이 밀려났다.",
+      "body_ko": "배전 규격과 조달 금리를 지나 발전 자산과 국가 수요 전망까지 제약이 밀려났다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -139,12 +129,17 @@
           "date": "2026-08-15",
           "file": "20260815-최태원-sk-회장-ai-메모리-확보-.md",
           "title": "최태원 SK 회장 “AI 메모리 확보 전쟁 중…美에 전공정 팹 건설 검토\""
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-20일-12차-전기본-토론회-메가프로.md",
+          "title": "20일 '12차 전기본 토론회'…메가프로젝트 반영 2040 전력수요 재전망"
         }
       ]
     },
     {
       "title": "에이전트, 통제와 데이터가 전제조건으로",
-      "body_ko": "실행 권한을 거둘 수 있느냐에 더해, 학습에 쓸 내부 업무 데이터 확보가 확산 속도를 정하기 시작했다.",
+      "body_ko": "실행 권한을 거둘 수 있느냐에 더해 내부 데이터와 도구 소유권이 확산 속도를 정하기 시작했다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -174,11 +169,6 @@
         },
         {
           "date": "2026-08-15",
-          "file": "20260815-claude-code-now-runs.md",
-          "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate"
-        },
-        {
-          "date": "2026-08-15",
           "file": "20260815-귀해진-ai에이전트용-데이터-직원-p.md",
           "title": "귀해진 AI에이전트용 데이터…직원 PC부터 인도 공장까지 뒤진다[김인엽의 AI 프런티어]"
         },
@@ -186,6 +176,11 @@
           "date": "2026-08-15",
           "file": "20260815-ms-소비자-기업용-코파일럿-통합-개.md",
           "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-스페이스x-85조-규모-커서-인수-최.md",
+          "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속"
         }
       ]
     },
@@ -217,6 +212,11 @@
           "date": "2026-08-15",
           "file": "20260815-ai상담-늘자-은행-상담원-30-줄었.md",
           "title": "AI상담 늘자 … 은행 상담원 30% 줄었다"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-the-tragedy-of-the-c.md",
+          "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise"
         }
       ]
     }

@@ -1,16 +1,16 @@
 {
   "date": "2026-08-15",
-  "updated_at": "2026-08-15T12:15:53.617336+09:00",
-  "run_id": "run_20260815_121553",
-  "summary_ko": "AI의 수익과 효과, 그 부담의 귀속처가 함께 드러난 하루.",
+  "updated_at": "2026-08-15T16:18:31.227039+09:00",
+  "run_id": "run_20260815_161831",
+  "summary_ko": "AI의 값과 효과, 그 청구서가 어디로 가는지가 함께 드러난 하루.",
   "issues": [
     {
-      "title": "은행 AI, 효과가 사람 수로 드러났다",
-      "summary_ko": "도입 성과가 처음으로 인력 규모라는 수치로 확인됐다.",
+      "title": "AI 전환의 청구서가 사람에게 간다",
+      "summary_ko": "절감 효과가 인력 수로 확인되자 그 부담을 나누는 설계가 시작됐다.",
       "topics": [
-        "금융회사 AI",
-        "ai_agents",
-        "ai_industry"
+        "ai_policy",
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -20,24 +20,18 @@
         },
         {
           "date": "2026-08-15",
-          "file": "20260815-im뱅크-신입행원-공채-ai-역량평가.md",
-          "title": "iM뱅크, 신입행원 공채…AI 역량평가로 인재 찾는다"
-        }
-      ]
-    },
-    {
-      "title": "AI 전환 비용을 제도가 나눈다",
-      "summary_ko": "절감 효과의 일부를 사회가 환수하는 설계가 처음 법안으로 나왔다.",
-      "topics": [
-        "ai_policy",
-        "ai_industry",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-15",
           "file": "20260815-ai-전환-충격-선제-대응한다-이해민.md",
           "title": "AI 전환 충격 선제 대응한다…이해민, 'AI 기본사회법' 발의"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-im뱅크-신입행원-공채-ai-역량평가.md",
+          "title": "iM뱅크, 신입행원 공채…AI 역량평가로 인재 찾는다"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-the-tragedy-of-the-c.md",
+          "title": "The \"tragedy of the cognitive commons\" explains how rational AI adoption could destroy entire professions' expertise"
         }
       ]
     },
@@ -61,16 +55,6 @@
         },
         {
           "date": "2026-08-15",
-          "file": "20260815-alibaba-s-qwen-team-.md",
-          "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
-        },
-        {
-          "date": "2026-08-15",
-          "file": "20260815-gpt-5-6-sol-goes-14x.md",
-          "title": "GPT-5.6 Sol goes 14x faster as OpenAI launches Ultrafast mode powered by Cerebras"
-        },
-        {
-          "date": "2026-08-15",
           "file": "20260815-오픈ai-기업용-매출-챗gpt-넘어섰.md",
           "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”"
         },
@@ -82,13 +66,19 @@
       ]
     },
     {
-      "title": "에이전트 병목은 모델이 아니다",
-      "summary_ko": "진입점은 하나로 묶이는데 정작 부족한 건 내부 업무 데이터다.",
+      "title": "AI 도구가 모델사로 흡수된다",
+      "summary_ko": "개발 도구와 비서 앱이 공급사 계약 안으로 묶이는 통합이 확인됐다.",
       "topics": [
         "ai_agents",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
+        {
+          "date": "2026-08-15",
+          "file": "20260815-ms-소비자-기업용-코파일럿-통합-개.md",
+          "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화"
+        },
         {
           "date": "2026-08-15",
           "file": "20260815-귀해진-ai에이전트용-데이터-직원-p.md",
@@ -96,8 +86,38 @@
         },
         {
           "date": "2026-08-15",
-          "file": "20260815-ms-소비자-기업용-코파일럿-통합-개.md",
-          "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화"
+          "file": "20260815-스페이스x-85조-규모-커서-인수-최.md",
+          "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속"
+        }
+      ]
+    },
+    {
+      "title": "인프라 전제가 전력 숫자로 다시 계산된다",
+      "summary_ko": "국가 전력수요 전망이 재산정되며 증설 계획의 기준선이 바뀐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-15",
+          "file": "20260815-최태원-빌-게이츠-서울서-smr-회동.md",
+          "title": "최태원·빌 게이츠, 서울서 'SMR 회동'…SK, 투자자 넘어 사업자로"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-최태원-sk-회장-ai-메모리-확보-.md",
+          "title": "최태원 SK 회장 “AI 메모리 확보 전쟁 중…美에 전공정 팹 건설 검토\""
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-20일-12차-전기본-토론회-메가프로.md",
+          "title": "20일 '12차 전기본 토론회'…메가프로젝트 반영 2040 전력수요 재전망"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-최태원의-전략통-sk하이닉스-ai-신.md",
+          "title": "'최태원의 전략통'…SK하이닉스 AI 신사업 발굴 맡은 기타리스트 [강경주의 테크X]"
         }
       ]
     }
