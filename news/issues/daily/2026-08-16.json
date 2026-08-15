@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-16",
+  "updated_at": "2026-08-16T08:18:14.820376+09:00",
+  "run_id": "run_20260816_081814",
+  "summary_ko": "AI 확장을 떠받쳐온 자본과 규제 부담이 함께 드러난 하루.",
+  "issues": [
+    {
+      "title": "떠받치던 자본에 균열",
+      "summary_ko": "확장을 지탱해온 상호 보증과 지분 구조가 조정 국면에 들어섰다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-16",
+          "file": "20260816-investor-pressure-fo.md",
+          "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings"
+        },
+        {
+          "date": "2026-08-16",
+          "file": "20260816-엔비디아-스페이스x-210억-달러-인.md",
+          "title": "엔비디아, 스페이스X 210억 달러·인텔 300억 달러 지분 보유"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "오픈 가중치가 최상위로",
+      "summary_ko": "자체 구축이 성능을 포기하지 않는 선택지가 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-16",
+          "file": "20260816-알리바바-큐원3-8-27b-가중치-공.md",
+          "title": "알리바바, ‘큐원3.8-27B’ 가중치 공개...오퍼스 4.6급 성능 도전"
+        },
+        {
+          "date": "2026-08-16",
+          "file": "20260816-알리바바-큐원3-8-맥스-가중치-공개.md",
+          "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요"
+        }
+      ]
+    },
+    {
+      "title": "표시 의무가 이탈로 돌아왔다",
+      "summary_ko": "규제 준수 조치가 곧바로 구독 해지라는 비용으로 나타났다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-16",
+          "file": "20260816-앤트로픽-워터마크-도입에-사용자-반발.md",
+          "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산"
+        },
+        {
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "고용 충격은 입구에서 먼저",
+      "summary_ko": "효율화의 영향이 감원이 아니라 신규 채용 차단으로 나타난다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-16",
+          "file": "20260816-만나보니-블라인드-대표-ai발-효율화.md",
+          "title": "[만나보니] 블라인드 대표 \"AI발 효율화, 신입채용 축소로 먼저 나타나\""
+        },
+        {
+          "date": "2026-08-16",
+          "file": "20260816-줄어든-청년-취업자-절반-ai-고노출.md",
+          "title": "줄어든 청년 취업자 절반 'AI 고노출 업종'…고용충격 중심 이동"
+        }
+      ]
+    }
+  ]
+}
