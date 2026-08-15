@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-08-14T23:25:01+00:00",
+  "generated_at": "2026-08-15T03:15:58+00:00",
   "latest_date": "2026-08-15",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 621
+      "count": 623
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 701
+      "count": 703
     },
     {
       "key": "ai_policy",
@@ -24,7 +24,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1655
+      "count": 1659
     },
     {
       "key": "physical_ai_robotics",
@@ -60,6 +60,12 @@
           "file": "digest_0824.md",
           "selected": 14,
           "new": 148
+        },
+        {
+          "time": "12:15",
+          "file": "digest_1215.md",
+          "selected": 4,
+          "new": 49
         }
       ]
     },
@@ -1516,7 +1522,7 @@
       "file": "2026-W33.md",
       "week_start": "2026-08-10",
       "week_end": "2026-08-16",
-      "total_selected_this_week": 730
+      "total_selected_this_week": 738
     },
     {
       "week": "2026-W32",

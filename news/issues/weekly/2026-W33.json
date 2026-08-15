@@ -1,12 +1,12 @@
 {
   "week": "2026-W33",
-  "updated_at": "2026-08-15T08:24:56.858738+09:00",
-  "run_id": "run_20260815_082456",
-  "summary_ko": "제도와 전력, 가격에 이어 도입 효과의 청구서까지 드러난 주.",
+  "updated_at": "2026-08-15T12:15:53.617336+09:00",
+  "run_id": "run_20260815_121553",
+  "summary_ko": "제도와 전력, 가격을 지나 도입 효과와 수익의 귀속처가 드러난 주.",
   "issues": [
     {
       "title": "금융 AI, 제도 정비에서 성과 청구서로",
-      "body_ko": "망분리 완화로 열린 자리에 그룹 예산이 실렸고, 이번 주말 그 효과가 인력 규모로 확인됐다.",
+      "body_ko": "망분리 완화로 열린 자리에 그룹 예산이 실렸고, 주말 들어 그 효과가 인력 규모로 확인됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -47,16 +47,12 @@
           "date": "2026-08-15",
           "file": "20260815-im뱅크-신입행원-공채-ai-역량평가.md",
           "title": "iM뱅크, 신입행원 공채…AI 역량평가로 인재 찾는다"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026081425011",
-          "title": ""
         }
       ]
     },
     {
-      "title": "조달 기준이 성능에서 가격으로",
-      "body_ko": "지불 의향의 천장이 확인된 데 이어 프런티어 진영까지 가격 경쟁에 끌려들어 갔다.",
+      "title": "조달 기준이 성능에서 값과 수익성으로",
+      "body_ko": "가격 경쟁으로 협상 여지가 열린 데 이어, 공급사 수익 기반이 기업 계약으로 굳으며 벤더 평가 항목이 늘었다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -92,12 +88,22 @@
           "date": "2026-08-15",
           "file": "20260815-alibaba-s-qwen-team-.md",
           "title": "Alibaba's Qwen team releases Qwen 3.8 models with open weights under the Apache 2.0 license"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-오픈ai-기업용-매출-챗gpt-넘어섰.md",
+          "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-앤트로픽-ipo-앞두고-첫-흑자-달성.md",
+          "title": "앤트로픽, IPO 앞두고 첫 흑자 달성…2분기 매출 16.3조 돌파"
         }
       ]
     },
     {
       "title": "인프라 병목이 전력·자본으로",
-      "body_ko": "배전 규격과 조달 금리에 이어 발전 자산 자체를 함께 짓는 단계까지 제약이 밀려났다.",
+      "body_ko": "배전 규격과 조달 금리에 이어 발전 자산을 함께 짓는 단계까지 제약이 밀려났다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -130,23 +136,15 @@
           "title": "최태원·빌 게이츠, 서울서 'SMR 회동'…SK, 투자자 넘어 사업자로"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12127884",
-          "title": ""
-        },
-        {
           "date": "2026-08-15",
           "file": "20260815-최태원-sk-회장-ai-메모리-확보-.md",
           "title": "최태원 SK 회장 “AI 메모리 확보 전쟁 중…美에 전공정 팹 건설 검토\""
-        },
-        {
-          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-          "title": ""
         }
       ]
     },
     {
-      "title": "통제 지점이 모델에서 실행 환경으로",
-      "body_ko": "권한을 정하지 않은 위임이 실제 규정 위반으로 이어지며 되돌릴 수 있느냐가 기준이 됐다.",
+      "title": "에이전트, 통제와 데이터가 전제조건으로",
+      "body_ko": "실행 권한을 거둘 수 있느냐에 더해, 학습에 쓸 내부 업무 데이터 확보가 확산 속도를 정하기 시작했다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -166,11 +164,6 @@
         },
         {
           "date": "2026-08-14",
-          "file": "20260814-중국-관련-해커-오픈소스-에이전트로-.md",
-          "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...'자율형 사이버전' 현실화"
-        },
-        {
-          "date": "2026-08-14",
           "file": "20260814-ai-에이전트-방문-거부하는-플랫폼-.md",
           "title": "AI 에이전트 방문 거부하는 플랫폼, 고립인가 생존인가"
         },
@@ -185,8 +178,14 @@
           "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate"
         },
         {
-          "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
-          "title": ""
+          "date": "2026-08-15",
+          "file": "20260815-귀해진-ai에이전트용-데이터-직원-p.md",
+          "title": "귀해진 AI에이전트용 데이터…직원 PC부터 인도 공장까지 뒤진다[김인엽의 AI 프런티어]"
+        },
+        {
+          "date": "2026-08-15",
+          "file": "20260815-ms-소비자-기업용-코파일럿-통합-개.md",
+          "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화"
         }
       ]
     },
@@ -218,10 +217,6 @@
           "date": "2026-08-15",
           "file": "20260815-ai상담-늘자-은행-상담원-30-줄었.md",
           "title": "AI상담 늘자 … 은행 상담원 30% 줄었다"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671054",
-          "title": ""
         }
       ]
     }
