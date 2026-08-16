@@ -1,0 +1,107 @@
+{
+  "week": "2026-W34",
+  "updated_at": "2026-08-17T08:16:20.237942+09:00",
+  "run_id": "run_20260817_081620",
+  "summary_ko": "AI 수익 증명과 공급망 진영화가 이번 주 흐름을 갈랐다.",
+  "issues": [
+    {
+      "title": "기업용 AI가 수익 축으로 굳어졌다",
+      "body_ko": "회수 가능성이 실적으로 확인되며 경쟁의 초점이 엔터프라이즈 계약으로 이동했다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-앤트로픽-창사-첫-분기-흑자-기업용-.md",
+          "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-stripe-will-reported.md",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
+        }
+      ]
+    },
+    {
+      "title": "국가 정렬이 AI 조달 조건이 된다",
+      "body_ko": "진영 선택 압박과 부품 통제가 겹치며 멀티벤더 전략 자체가 정책 리스크가 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-미국-동맹국에-ai-진영-선택-통보-.md",
+          "title": "미국, 동맹국에 'AI 진영 선택' 통보... \"중국과 양다리 안 된다\""
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-미-상무장관-애플에-직격탄-중국산-메.md",
+          "title": "미 상무장관, 애플에 직격탄...\"중국산 메모리 칩 사지 마라\""
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-애플-정책에-반기들고-전용-ai-개발.md",
+          "title": "애플, 美정책에 반기들고 中전용 AI 개발"
+        }
+      ]
+    },
+    {
+      "title": "오픈 생태계 주도권 이동",
+      "body_ko": "자체 구축의 기본 선택지가 특정 진영 모델로 쏠리며 라이선스·통제 리스크가 따라붙는다.",
+      "topics": [
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-허깅페이스-점령한-중국-ai-큐원-다.md",
+          "title": "허깅페이스 점령한 중국 AI...'큐원' 다운로드 20억건·파생 모델 15만개"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-glm-5-3-커서-보안-취약점-찾아.md",
+          "title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증"
+        }
+      ]
+    },
+    {
+      "title": "안전 통제의 실효성 검증 필요",
+      "body_ko": "설계된 안전장치와 실제 작동은 다르다는 점이 드러나 계약상 증빙 요구가 불가피해졌다.",
+      "topics": [
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-anthropic-s-bio-weap.md",
+          "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-openai-dissolved-the.md",
+          "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
+        }
+      ]
+    },
+    {
+      "title": "인프라 자금의 순환 의존",
+      "body_ko": "연산 공급자가 고객의 전력·부동산 자본까지 대며 증설 일정의 변수가 재무로 옮겨갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-엔비디아-sb-에너지에-4조-투자-논.md",
+          "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총력"
+        }
+      ]
+    }
+  ]
+}

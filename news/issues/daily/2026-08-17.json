@@ -1,0 +1,92 @@
+{
+  "date": "2026-08-17",
+  "updated_at": "2026-08-17T08:16:20.237942+09:00",
+  "run_id": "run_20260817_081620",
+  "summary_ko": "AI 수익화 증거와 공급망 진영화가 동시에 부각된 하루다.",
+  "issues": [
+    {
+      "title": "AI 수익화가 실적으로 확인됐다",
+      "summary_ko": "기업용 매출이 흑자로 이어지며 지출 논쟁의 축이 회수 가능성으로 옮겨갔다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-앤트로픽-창사-첫-분기-흑자-기업용-.md",
+          "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-stripe-will-reported.md",
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
+        }
+      ]
+    },
+    {
+      "title": "AI 공급망에 진영 선택 압박",
+      "summary_ko": "동맹국과 기업 모두 공급망을 국가 정렬 기준으로 재편하라는 요구를 받고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-미국-동맹국에-ai-진영-선택-통보-.md",
+          "title": "미국, 동맹국에 'AI 진영 선택' 통보... \"중국과 양다리 안 된다\""
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-미-상무장관-애플에-직격탄-중국산-메.md",
+          "title": "미 상무장관, 애플에 직격탄...\"중국산 메모리 칩 사지 마라\""
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-애플-정책에-반기들고-전용-ai-개발.md",
+          "title": "애플, 美정책에 반기들고 中전용 AI 개발"
+        }
+      ]
+    },
+    {
+      "title": "공급사 자체 안전 통제에 균열",
+      "summary_ko": "위험 평가 조직 해체와 필터 장기 중단으로 자율 규제의 신뢰 근거가 약해졌다.",
+      "topics": [
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-openai-dissolved-the.md",
+          "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-anthropic-s-bio-weap.md",
+          "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214002",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 자금이 순환 구조로",
+      "summary_ko": "칩 공급사가 전력·데이터센터 자본까지 대면서 증설이 특정 자금줄에 묶인다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-엔비디아-sb-에너지에-4조-투자-논.md",
+          "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총력"
+        }
+      ]
+    }
+  ]
+}
