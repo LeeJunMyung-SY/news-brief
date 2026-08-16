@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-16T03:20:53+00:00",
+  "generated_at": "2026-08-16T07:14:03+00:00",
   "latest_date": "2026-08-16",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 629
+      "count": 630
     },
     {
       "key": "ai_agents",
@@ -18,13 +18,13 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 715
+      "count": 716
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1682
+      "count": 1686
     },
     {
       "key": "physical_ai_robotics",
@@ -36,7 +36,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 456
+      "count": 458
     },
     {
       "key": "금융회사 AI",
@@ -66,6 +66,12 @@
           "file": "digest_1220.md",
           "selected": 9,
           "new": 68
+        },
+        {
+          "time": "16:13",
+          "file": "digest_1613.md",
+          "selected": 4,
+          "new": 18
         }
       ]
     },
@@ -1545,7 +1551,7 @@
       "file": "2026-W33.md",
       "week_start": "2026-08-10",
       "week_end": "2026-08-16",
-      "total_selected_this_week": 809
+      "total_selected_this_week": 817
     },
     {
       "week": "2026-W32",

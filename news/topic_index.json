@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T03:20:53+00:00",
+  "generated_at": "2026-08-16T07:14:03+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 629,
+      "count": 630,
       "latest_date": "2026-08-16"
     },
     {
@@ -19,14 +19,14 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 715,
+      "count": 716,
       "latest_date": "2026-08-16"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1682,
+      "count": 1686,
       "latest_date": "2026-08-16"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 456,
+      "count": 458,
       "latest_date": "2026-08-16"
     },
     {
@@ -10496,6 +10496,20 @@
       },
       {
         "date": "2026-08-16",
+        "file": "20260816-optima-tackles-ai-be.md",
+        "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#enterprise-ai",
+          "#model-selection",
+          "#procurement"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/"
+      },
+      {
+        "date": "2026-08-16",
         "file": "20260816-애플은-알리바바-포드는-catl-제재.md",
         "title": "애플은 알리바바, 포드는 CATL…美 제재 속 커지는 中 기술 의존도",
         "importance": 6,
@@ -19600,6 +19614,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=214006"
+      },
+      {
+        "date": "2026-08-16",
+        "file": "20260816-one-in-five-us-worke.md",
+        "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#future-of-work",
+          "#survey",
+          "#org-change"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
       },
       {
         "date": "2026-08-16",
@@ -30058,6 +30086,20 @@
       },
       {
         "date": "2026-08-16",
+        "file": "20260816-one-in-five-us-worke.md",
+        "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#future-of-work",
+          "#survey",
+          "#org-change"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/"
+      },
+      {
+        "date": "2026-08-16",
         "file": "20260816-만나보니-블라인드-대표-ai발-효율화.md",
         "title": "[만나보니] 블라인드 대표 'AI발 효율화, 신입채용 축소로 먼저 나타나'",
         "importance": 7,
@@ -30160,6 +30202,20 @@
       },
       {
         "date": "2026-08-16",
+        "file": "20260816-optima-tackles-ai-be.md",
+        "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#enterprise-ai",
+          "#model-selection",
+          "#procurement"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/"
+      },
+      {
+        "date": "2026-08-16",
         "file": "20260816-다온아이앤씨-ai-군집비행-기술로-국.md",
         "title": "다온아이앤씨, AI·군집비행 기술로 '국방 드론' 전문 기업 도약",
         "importance": 6,
@@ -30172,6 +30228,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260815200427"
+      },
+      {
+        "date": "2026-08-16",
+        "file": "20260816-단독-ai-데이터센터에-구리-수요-급.md",
+        "title": "[단독] AI 데이터센터에 구리 수요 급증…남미에서 뜨는 K굴착기",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#supply-chain",
+          "#commodities",
+          "#infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608163924i"
       },
       {
         "date": "2026-08-16",
@@ -30201,6 +30271,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=671065"
+      },
+      {
+        "date": "2026-08-16",
+        "file": "20260816-중동전쟁에-유럽경제-흔들린다더니-ai.md",
+        "title": "“중동전쟁에 유럽경제 흔들린다더니”…AI가 만든 ‘성장률 2배’ 반전",
+        "importance": 6,
+        "tags": [
+          "#macro",
+          "#semiconductor",
+          "#capex",
+          "#growth"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12128940"
       },
       {
         "date": "2026-08-16",
@@ -58859,6 +58943,20 @@
       },
       {
         "date": "2026-08-16",
+        "file": "20260816-단독-ai-데이터센터에-구리-수요-급.md",
+        "title": "[단독] AI 데이터센터에 구리 수요 급증…남미에서 뜨는 K굴착기",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#supply-chain",
+          "#commodities",
+          "#infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202608163924i"
+      },
+      {
+        "date": "2026-08-16",
         "file": "20260816-목표가-40-올랐는데-주가는-80-뛰.md",
         "title": "“목표가 40% 올랐는데 주가는 80% 뛰었다”…AI 팩토리로 날아오른 NHN [이주의 bull기둥]",
         "importance": 6,
@@ -58871,6 +58969,20 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12128841"
+      },
+      {
+        "date": "2026-08-16",
+        "file": "20260816-중동전쟁에-유럽경제-흔들린다더니-ai.md",
+        "title": "“중동전쟁에 유럽경제 흔들린다더니”…AI가 만든 ‘성장률 2배’ 반전",
+        "importance": 6,
+        "tags": [
+          "#macro",
+          "#semiconductor",
+          "#capex",
+          "#growth"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12128940"
       },
       {
         "date": "2026-08-15",
@@ -73511,8 +73623,8 @@
     "ai_industry": [
       {
         "date": "2026-08-16",
-        "title": "떠받치던 자본에 균열",
-        "summary": "확장을 보증하던 구조가 실제 계약에서 절반으로 줄었다.",
+        "title": "떠받치던 자본이 재산정된다",
+        "summary": "보증은 줄고 기업가치는 미래 계약 매출로 매겨진다.",
         "articles": [
           {
             "date": "2026-08-16",
@@ -73533,14 +73645,7 @@
             "date": "2026-08-16",
             "file": "20260816-ai-고속도로-빅테크-ai-투자-12.md",
             "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-16",
-        "title": "상장이 새 잣대가 됐다",
-        "summary": "공급사 가치가 미래 기업 계약 매출을 담보로 매겨진다.",
-        "articles": [
+          },
           {
             "date": "2026-08-16",
             "file": "20260816-앤트로픽-2028년-매출-2000억달.md",
@@ -73550,6 +73655,28 @@
             "date": "2026-08-16",
             "file": "20260816-1조달러-ipo-앞두고-흔들리는-리더.md",
             "title": "\"1조달러 IPO 앞두고 흔들리는 리더십\"… 오픈AI, 인원 이탈·안전성 후퇴 지적"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-16",
+        "title": "파급이 실물과 노동으로",
+        "summary": "AI 지출이 성장률과 원자재, 업무 배분까지 움직인다.",
+        "articles": [
+          {
+            "date": "2026-08-16",
+            "file": "20260816-단독-ai-데이터센터에-구리-수요-급.md",
+            "title": "[단독] AI 데이터센터에 구리 수요 급증…남미에서 뜨는 K굴착기"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-중동전쟁에-유럽경제-흔들린다더니-ai.md",
+            "title": "“중동전쟁에 유럽경제 흔들린다더니”…AI가 만든 ‘성장률 2배’ 반전"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-one-in-five-us-worke.md",
+            "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds"
           }
         ]
       },
@@ -73567,6 +73694,11 @@
             "date": "2026-08-16",
             "file": "20260816-알리바바-큐원3-8-맥스-가중치-공개.md",
             "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-optima-tackles-ai-be.md",
+            "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
           }
         ]
       },
@@ -74614,8 +74746,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-08-16",
-        "title": "떠받치던 자본에 균열",
-        "summary": "확장을 보증하던 구조가 실제 계약에서 절반으로 줄었다.",
+        "title": "떠받치던 자본이 재산정된다",
+        "summary": "보증은 줄고 기업가치는 미래 계약 매출로 매겨진다.",
         "articles": [
           {
             "date": "2026-08-16",
@@ -74636,6 +74768,38 @@
             "date": "2026-08-16",
             "file": "20260816-ai-고속도로-빅테크-ai-투자-12.md",
             "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-앤트로픽-2028년-매출-2000억달.md",
+            "title": "앤트로픽, 2028년 매출 2000억달러 제시…'2조달러 IPO' 기준 됐다"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-1조달러-ipo-앞두고-흔들리는-리더.md",
+            "title": "\"1조달러 IPO 앞두고 흔들리는 리더십\"… 오픈AI, 인원 이탈·안전성 후퇴 지적"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-16",
+        "title": "파급이 실물과 노동으로",
+        "summary": "AI 지출이 성장률과 원자재, 업무 배분까지 움직인다.",
+        "articles": [
+          {
+            "date": "2026-08-16",
+            "file": "20260816-단독-ai-데이터센터에-구리-수요-급.md",
+            "title": "[단독] AI 데이터센터에 구리 수요 급증…남미에서 뜨는 K굴착기"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-중동전쟁에-유럽경제-흔들린다더니-ai.md",
+            "title": "“중동전쟁에 유럽경제 흔들린다더니”…AI가 만든 ‘성장률 2배’ 반전"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-one-in-five-us-worke.md",
+            "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds"
           }
         ]
       },
@@ -75124,8 +75288,8 @@
     "금융회사 AI": [
       {
         "date": "2026-08-16",
-        "title": "떠받치던 자본에 균열",
-        "summary": "확장을 보증하던 구조가 실제 계약에서 절반으로 줄었다.",
+        "title": "떠받치던 자본이 재산정된다",
+        "summary": "보증은 줄고 기업가치는 미래 계약 매출로 매겨진다.",
         "articles": [
           {
             "date": "2026-08-16",
@@ -75146,14 +75310,7 @@
             "date": "2026-08-16",
             "file": "20260816-ai-고속도로-빅테크-ai-투자-12.md",
             "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-16",
-        "title": "상장이 새 잣대가 됐다",
-        "summary": "공급사 가치가 미래 기업 계약 매출을 담보로 매겨진다.",
-        "articles": [
+          },
           {
             "date": "2026-08-16",
             "file": "20260816-앤트로픽-2028년-매출-2000억달.md",
@@ -75180,6 +75337,11 @@
             "date": "2026-08-16",
             "file": "20260816-알리바바-큐원3-8-맥스-가중치-공개.md",
             "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-optima-tackles-ai-be.md",
+            "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
           }
         ]
       },
@@ -76008,18 +76170,23 @@
     "ai_policy": [
       {
         "date": "2026-08-16",
-        "title": "상장이 새 잣대가 됐다",
-        "summary": "공급사 가치가 미래 기업 계약 매출을 담보로 매겨진다.",
+        "title": "파급이 실물과 노동으로",
+        "summary": "AI 지출이 성장률과 원자재, 업무 배분까지 움직인다.",
         "articles": [
           {
             "date": "2026-08-16",
-            "file": "20260816-앤트로픽-2028년-매출-2000억달.md",
-            "title": "앤트로픽, 2028년 매출 2000억달러 제시…'2조달러 IPO' 기준 됐다"
+            "file": "20260816-단독-ai-데이터센터에-구리-수요-급.md",
+            "title": "[단독] AI 데이터센터에 구리 수요 급증…남미에서 뜨는 K굴착기"
           },
           {
             "date": "2026-08-16",
-            "file": "20260816-1조달러-ipo-앞두고-흔들리는-리더.md",
-            "title": "\"1조달러 IPO 앞두고 흔들리는 리더십\"… 오픈AI, 인원 이탈·안전성 후퇴 지적"
+            "file": "20260816-중동전쟁에-유럽경제-흔들린다더니-ai.md",
+            "title": "“중동전쟁에 유럽경제 흔들린다더니”…AI가 만든 ‘성장률 2배’ 반전"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-one-in-five-us-worke.md",
+            "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds"
           }
         ]
       },
@@ -76552,6 +76719,11 @@
             "date": "2026-08-16",
             "file": "20260816-알리바바-큐원3-8-맥스-가중치-공개.md",
             "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-optima-tackles-ai-be.md",
+            "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
           }
         ]
       },
