@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-08-16T23:16:24+00:00",
+  "generated_at": "2026-08-17T03:18:18+00:00",
   "latest_date": "2026-08-17",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 636
+      "count": 639
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 711
+      "count": 714
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 723
+      "count": 726
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 1697
+      "count": 1704
     },
     {
       "key": "physical_ai_robotics",
@@ -36,13 +36,13 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 461
+      "count": 463
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 316
+      "count": 317
     },
     {
       "key": "physical_ai",
@@ -60,6 +60,12 @@
           "file": "digest_0816.md",
           "selected": 12,
           "new": 51
+        },
+        {
+          "time": "12:18",
+          "file": "digest_1218.md",
+          "selected": 8,
+          "new": 67
         }
       ]
     },
@@ -1562,7 +1568,7 @@
       "file": "2026-W34.md",
       "week_start": "2026-08-17",
       "week_end": "2026-08-23",
-      "total_selected_this_week": 30
+      "total_selected_this_week": 49
     },
     {
       "week": "2026-W33",
