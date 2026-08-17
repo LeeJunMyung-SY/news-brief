@@ -1,12 +1,12 @@
 {
   "week": "2026-W34",
-  "updated_at": "2026-08-17T16:36:00.240035+09:00",
-  "run_id": "run_20260817_163600",
-  "summary_ko": "AI 비용과 책임이 동시에 구체적인 청구서로 돌아온 주다.",
+  "updated_at": "2026-08-18T08:58:44.088196+09:00",
+  "run_id": "run_20260818_085844",
+  "summary_ko": "AI의 비용·책임·실행 권한이 동시에 구체적인 계약 조건으로 내려온 주다.",
   "issues": [
     {
-      "title": "기업용 AI가 수익 축으로 굳어졌다",
-      "body_ko": "회수 가능성이 실적으로 확인되며 경쟁 초점이 엔터프라이즈 계약과 유통 채널로 옮겨갔다.",
+      "title": "기업용 AI가 검증된 수익 축이 됐다",
+      "body_ko": "흑자와 매출 급증이 잇따라 확인되며 경쟁 초점이 엔터프라이즈 계약과 유통 채널로 옮겨갔다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -28,15 +28,65 @@
           "title": "[AI 고속도로] AI 데이터센터 수혜 본격화…서버 기업들 잇따라 '역대급 실적'"
         },
         {
-          "date": "2026-08-17",
-          "file": "20260817-통신산업-뒷걸음질-1위-차이나모바일도.md",
-          "title": "中통신산업 뒷걸음질...1위 차이나모바일도 통신·AI 성장 '주춤'"
+          "date": "2026-08-18",
+          "file": "20260818-앤트로픽-ipo-앞두고-연매출-92조.md",
+          "title": "앤트로픽, IPO 앞두고 연매출 92조원 전망…7배 급증"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-groq-raises-350m-to-.md",
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud"
         }
       ]
     },
     {
-      "title": "에이전트 자율 실행이 기본값이 됐다",
-      "body_ko": "승인 절차가 곧 안전이라는 전제가 깨지며 통제 설계를 자동 검증과 사후 복구 중심으로 다시 짜야 한다.",
+      "title": "인프라 조달이 위험 분담 계약으로 진화",
+      "body_ko": "기가와트 단위 계약에 잔존가치 보증이 붙으며 투자 위험이 공급망 전체로 재배분됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-lg-냉각장치-넘어-ai팩토리-통째로.md",
+          "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-ai추론-확산-프론트엔드-스위치-시장.md",
+          "title": "AI추론 확산...프론트엔드 스위치 시장 커진다"
+        },
+        {
+          "date": "2026-08-17",
+          "file": "20260817-광통신-강국-ai-핵심-프리폼-역량은.md",
+          "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-openai-signs-record-.md",
+          "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-nvidia-investing-1-5.md",
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-액체냉각-ai칩-적용비중-올해-첫-5.md",
+          "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\""
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-통신-3사-새-먹거리-ai-인프라-매.md",
+          "title": "통신 3사 '새 먹거리' AI 인프라 매출 급증"
+        }
+      ]
+    },
+    {
+      "title": "에이전트가 실행 계층 표준으로 굳었다",
+      "body_ko": "자율 실행이 결제·업무 플랫폼에 기본 탑재되며 통제 설계가 사후 검증 중심으로 이동한다.",
       "topics": [
         "ai_agents",
         "llm_models"
@@ -51,57 +101,28 @@
           "date": "2026-08-17",
           "file": "20260817-하네스-따라-성과-10-차-딥시크-v.md",
           "title": "\"하네스 따라 성과 10% 차\"…'딥시크-V4 플래시' 테스트 결과 공개"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-alipay-launches-full.md",
+          "title": "Alipay launches full stack agentic commerce platform in China"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214016",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214020",
+          "title": ""
         }
       ]
     },
     {
-      "title": "AI 인프라 경쟁이 연산에서 연결·소재로",
-      "body_ko": "GPU 확보를 넘어 네트워크와 기초 소재가 병목이 되며 조달 단위가 시스템 전체로 커졌다.",
-      "topics": [
-        "ai_compute_energy",
-        "ai_industry",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-17",
-          "file": "20260817-광통신-강국-ai-핵심-프리폼-역량은.md",
-          "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기"
-        },
-        {
-          "date": "2026-08-17",
-          "file": "20260817-미국-동맹국에-ai-진영-선택-통보-.md",
-          "title": "미국, 동맹국에 'AI 진영 선택' 통보... \"중국과 양다리 안 된다\""
-        },
-        {
-          "date": "2026-08-17",
-          "file": "20260817-lg-냉각장치-넘어-ai팩토리-통째로.md",
-          "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다"
-        },
-        {
-          "date": "2026-08-17",
-          "file": "20260817-ai추론-확산-프론트엔드-스위치-시장.md",
-          "title": "AI추론 확산...프론트엔드 스위치 시장 커진다"
-        },
-        {
-          "date": "2026-08-17",
-          "file": "20260817-구리-공급-걱정마세요-수은-글로벌-자.md",
-          "title": "“구리 공급 걱정마세요”…수은, 글로벌 자원기업에 1.4조 금융지원"
-        },
-        {
-          "date": "2026-08-17",
-          "file": "20260817-사이트-김장우-망고부스트-대표-ai-.md",
-          "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 '혈관' 네트워크·패브릭”"
-        }
-      ]
-    },
-    {
-      "title": "규제 산업의 판단 영역까지 진입",
-      "body_ko": "보조 도구를 넘어 심사·진료 판단에 적용되면서 설명가능성과 데이터 제약 해소가 곧 도입 요건이 됐다.",
+      "title": "규제 산업의 판단·거래 영역까지 진입",
+      "body_ko": "심사·진료에 이어 거래 실행까지 닿으면서 설명가능성과 책임 소재가 도입 요건이 됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_industry",
-        "llm_models"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -118,16 +139,30 @@
           "date": "2026-08-17",
           "file": "20260817-데이터-안-풀고-분석-동형암호-산업-.md",
           "title": "'데이터 안 풀고 분석' 동형암호, 산업 현장 적용처 찾는다"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-asic-warns-of-surge-.md",
+          "title": "Asic warns of surge in deepfake scams"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671001",
+          "title": ""
         }
       ]
     },
     {
-      "title": "신뢰와 표시가 규제 실무가 됐다",
-      "body_ko": "안전장치의 실효성 논란에 생성물 표시 의무가 겹치며 증빙 요구가 계약 조건으로 내려왔다.",
+      "title": "표시와 신뢰가 계약 조건으로 내려왔다",
+      "body_ko": "생성물 표시 방식이 구현 단계에 들어서며 증빙 요구가 실무 절차로 굳어졌다.",
       "topics": [
         "ai_policy"
       ],
       "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-sw키트-빅테크-ai-워터마크-정책-.md",
+          "title": "[SW키트] 美 빅테크, 'AI 워터마크' 정책 구체화…주요 내용은"
+        },
         {
           "date": "2026-08-17",
           "file": "20260817-anthropic-s-bio-weap.md",
@@ -140,13 +175,13 @@
         },
         {
           "date": "2026-08-17",
-          "file": "20260817-sw키트-빅테크-ai-워터마크-정책-.md",
-          "title": "[SW키트] 美 빅테크, 'AI 워터마크' 정책 구체화…주요 내용은"
-        },
-        {
-          "date": "2026-08-17",
           "file": "20260817-앤트로픽-ceo-ai-반발-내-경고-.md",
           "title": "앤트로픽 CEO \"AI 반발, 내 경고 탓 아냐...본질은 신뢰 위기\""
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-anthropic-explains-h.md",
+          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work"
         }
       ]
     }
