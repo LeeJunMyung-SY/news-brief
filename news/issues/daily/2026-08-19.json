@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-19",
+  "updated_at": "2026-08-19T08:29:13.631296+09:00",
+  "run_id": "run_20260819_082913",
+  "summary_ko": "AI가 결제와 개발 조직 안쪽으로 들어오는 사이, 그 확산을 떠받칠 안전 통제와 자금 조건이 동시에 시험대에 올랐다.",
+  "issues": [
+    {
+      "title": "에이전트가 금융 실행 계층을 파고들었다",
+      "summary_ko": "자율 실행이 결제 규격과 은행 개발 조직까지 내려오며 대응 시점이 업계 표준에 묶이기 시작했다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-visa-and-mastercard-.md",
+          "title": "Visa and Mastercard back new Agentic Payments Alliance"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-westpac-to-reshape-s.md",
+          "title": "Westpac to reshape software engineering with Amp Frontier Corporation"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-picpay-rolls-out-cha.md",
+          "title": "PicPay rolls out ChatGPT integration"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-india-s-razorpay-lau.md",
+          "title": "India's Razorpay launches AI payments foundation model with AWS"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214075",
+          "title": ""
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-아이티센엔텍-ai-보험-계리-분석-플.md",
+          "title": "아이티센엔텍, AI 보험 계리 분석 플랫폼 '넥스큐센' 출시…손해율 산출·검증 자동화"
+        }
+      ]
+    },
+    {
+      "title": "AI 통제 설계가 도입 요건으로 올라섰다",
+      "summary_ko": "권한을 쥔 AI의 위험이 실제 사고와 공급사 조직 변화로 드러나며 통제 체계가 성능보다 앞선 검토 항목이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-pacing-model-develop.md",
+          "title": "Pacing model development in an era of cyber-critical capabilities"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-오픈ai-ai-위험-감시-대비팀-해체.md",
+          "title": "오픈AI, AI 위험 감시 '대비팀' 해체…안전 조직 또 흔들"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214079",
+          "title": ""
+        },
+        {
+          "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
+          "title": ""
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
+          "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자의 전제가 자금 조건으로 옮겨갔다",
+      "summary_ko": "지속 여부를 기업 의지가 아니라 금리와 전력 확보 속도로 판단하는 관점이 자리 잡았다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-worrisome-ai-is-driv.md",
+          "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-이은택-kb증권-이사-물가-금리-동시.md",
+          "title": "이은택 KB증권 이사 “물가·금리 동시 상승이 증시 고비…美 10년물 5% 돌파는 위험”"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-nvidia-s-ai-moat-is-.md",
+          "title": "Nvidia's AI moat is shifting from chips to capital"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-석유-패권-에서-전기-패권-으로-ai.md",
+          "title": "'석유 패권'에서 '전기 패권'으로…\"AI 데이터센터, 안보 문제로 봐야\" [fn 인사이트]"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608187712i",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "국산 AI 조달 기준이 활용성으로 바뀌었다",
+      "summary_ko": "점수 경쟁 대신 실사용 적합성이 선발 기준이 되면서 국내 모델 공급 지형이 다시 짜였다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
+          "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671178",
+          "title": ""
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
+          "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260818174532",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214086",
+          "title": ""
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-포스코dx-국산-npu로-산업현장-비.md",
+          "title": "포스코DX, 국산 NPU로 산업현장 비전 플랫폼 개발"
+        }
+      ]
+    }
+  ]
+}
