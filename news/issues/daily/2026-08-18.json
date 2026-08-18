@@ -1,12 +1,72 @@
 {
   "date": "2026-08-18",
-  "updated_at": "2026-08-18T08:58:44.088196+09:00",
-  "run_id": "run_20260818_085844",
-  "summary_ko": "AI 계약이 기가와트·조 단위로 커지며 위험 분담 구조까지 바뀐 하루다.",
+  "updated_at": "2026-08-18T12:25:07.439632+09:00",
+  "run_id": "run_20260818_122507",
+  "summary_ko": "AI의 자원 배분과 도입 성과가 모두 국가·기업 단위 수치로 드러난 하루다.",
   "issues": [
     {
-      "title": "인프라 계약이 위험 분담 구조로 바뀌었다",
-      "summary_ko": "조달 단위가 기가와트로 커지자 공급사가 수요자 위험을 떠안는 구조가 등장했다.",
+      "title": "국산 모델 판이 3파전으로 좁혀졌다",
+      "summary_ko": "평가와 컴퓨트 배분을 국가가 함께 쥐면서 조달 후보군이 정책으로 확정됐다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-18",
+          "file": "20260818-ai-is-독파모-2차-평가-발표-임.md",
+          "title": "[AI is] 독파모 2차 평가 발표 임박…국민평가·전문가 심사 변수"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-업스테이지-다음-ai-요약에-솔라-전.md",
+          "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-독파모-2차전-모티프-탈락-업스테이지.md",
+          "title": "독파모 2차전 '모티프' 탈락…업스테이지·SKT·LG 진출"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-속보-정부-lg-skt-업스테이지에-.md",
+          "title": "[속보] 정부, LG·SKT·업스테이지에 엔비디아 B200 1000장 지원"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-카카오-카나나2-안전성서-구글-알리바.md",
+          "title": "카카오 카나나2, 안전성서 구글·알리바바 AI 제쳤다"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 효과가 처리 시간으로 증명됐다",
+      "summary_ko": "후선 업무 소요 시간이 실측으로 제시되며 도입 논거가 사례에서 지표로 바뀌었다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-18",
+          "file": "20260818-alipay-launches-full.md",
+          "title": "Alipay launches full stack agentic commerce platform in China"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-ai픽-구글클라우드-신한투자-ai로-.md",
+          "title": "[AI픽] 구글클라우드·신한투자, AI로 계약 처리 2시간→5분"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-알리바바클라우드가-한국에-세-번째-데.md",
+          "title": "알리바바클라우드가 한국에 세 번째 데이터센터 지은 진짜 이유[현장+]"
+        }
+      ]
+    },
+    {
+      "title": "인프라 부담이 국내 밸류체인 매출로",
+      "summary_ko": "해외 대형 계약의 파급이 국내 전력·반도체 기업의 반복 수주로 내려왔다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -24,104 +84,42 @@
         },
         {
           "date": "2026-08-18",
-          "file": "20260818-액체냉각-ai칩-적용비중-올해-첫-5.md",
-          "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\""
-        },
-        {
-          "date": "2026-08-18",
           "file": "20260818-통신-3사-새-먹거리-ai-인프라-매.md",
           "title": "통신 3사 '새 먹거리' AI 인프라 매출 급증"
         },
         {
           "date": "2026-08-18",
-          "file": "20260818-빅테크-9곳-ai-투자-공시금액-웃돌.md",
-          "title": "빅테크 9곳 AI 투자…美 공시금액 웃돌아"
+          "file": "20260818-ls일렉트릭-블룸에너지서-486억-추.md",
+          "title": "LS일렉트릭, 블룸에너지서 486억 추가 수주…북미 배전 공략 속도"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671108",
+          "title": ""
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-딥엑스-npu-양산-1년-만에-글로벌.md",
+          "title": "딥엑스, NPU 양산 1년 만에 글로벌 77건 구매 수주"
         }
       ]
     },
     {
-      "title": "AI 수익화가 재무 지표로 확인된다",
-      "summary_ko": "매출과 기업가치가 함께 검증되며 사업성 논쟁이 추정 단계를 벗어났다.",
+      "title": "AI가 고용 통계에 잡히기 시작했다",
+      "summary_ko": "인력 영향이 공적 분석으로 확인되며 도입 계획에 인사 변수가 들어왔다.",
       "topics": [
-        "ai_industry",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-18",
-          "file": "20260818-앤트로픽-ipo-앞두고-연매출-92조.md",
-          "title": "앤트로픽, IPO 앞두고 연매출 92조원 전망…7배 급증"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-groq-raises-350m-to-.md",
-          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud"
-        },
-        {
-          "url": "https://www.mk.co.kr/news/stock/12129467",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "에이전트가 거래·업무 실행 계층을 가져간다",
-      "summary_ko": "실행 권한이 플랫폼으로 모이면서 통제 지점을 다시 정해야 한다.",
-      "topics": [
-        "ai_agents",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-18",
-          "file": "20260818-alipay-launches-full.md",
-          "title": "Alipay launches full stack agentic commerce platform in China"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214016",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671080",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214020",
-          "title": ""
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-ai-automation-startu.md",
-          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team"
-        }
-      ]
-    },
-    {
-      "title": "모델 조달 선택지가 넓어진다",
-      "summary_ko": "가중치 공개와 국산 모델 실사용이 겹치며 내부 구축 대안이 현실화됐다.",
-      "topics": [
-        "llm_models",
+        "ai_policy",
         "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-08-18",
-          "file": "20260818-alibaba-answers-meta.md",
-          "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model"
+          "file": "20260818-한은-청년-일자리-감소분-94-ai-.md",
+          "title": "한은 \"청년 일자리 감소분 94%, AI 고노출 업종서 발생\""
         },
         {
           "date": "2026-08-18",
-          "file": "20260818-업스테이지-다음-ai-요약에-솔라-전.md",
-          "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-ai-is-독파모-2차-평가-발표-임.md",
-          "title": "[AI is] 독파모 2차 평가 발표 임박…국민평가·전문가 심사 변수"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-한국정보공학-기업용-생성형-ai-플랫.md",
-          "title": "한국정보공학, 기업용 생성형 AI 플랫폼 2종 공개…운영·관리 체계 강화"
+          "file": "20260818-이은택-kb증권-이사-ai-버블-붕괴.md",
+          "title": "이은택 KB증권 이사 \"AI 버블 붕괴 신호, '금리'서 찾아야\""
         }
       ]
     }
