@@ -1,12 +1,12 @@
 {
   "week": "2026-W34",
-  "updated_at": "2026-08-19T16:37:56.100661+09:00",
-  "run_id": "run_20260819_163756",
-  "summary_ko": "확산 속도를 정한 것은 성능이 아니라 통제·자금·진영 구도였다.",
+  "updated_at": "2026-08-20T08:29:54.034150+09:00",
+  "run_id": "run_20260820_082954",
+  "summary_ko": "이번 주 AI는 성능이 아니라 자금·통제·조직이 속도를 정했다.",
   "issues": [
     {
       "title": "국산 AI가 진영 대결로 굳었다",
-      "body_ko": "활용성 중심 선발이 끝나자 곧바로 서비스·모델·반도체를 묶은 대형 연합 구도로 재편됐다.",
+      "body_ko": "어느 연합에 속하느냐가 쓸 수 있는 서비스 범위를 정하고, 이제 완제품 형태의 조달까지 열렸다.",
       "topics": [
         "llm_models",
         "ai_policy",
@@ -25,18 +25,8 @@
         },
         {
           "date": "2026-08-19",
-          "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
-          "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
-        },
-        {
-          "date": "2026-08-19",
           "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
           "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-kt-국산-npu-llm-한-서버에-.md",
-          "title": "KT, 국산 NPU·LLM 한 서버에 담았다...'모두의AI'에도 활용"
         },
         {
           "date": "2026-08-19",
@@ -49,19 +39,22 @@
           "title": "\"누구나 쉽게 vs 생활 밀착 연합\"...SKT·카카오, '모두의 AI' 전략 공개"
         },
         {
-          "date": "2026-08-19",
-          "file": "20260819-카카오-모두의-ai-참여-국민-생활-.md",
-          "title": "카카오, ‘모두의 AI’ 참여…국민 생활 편의성 높인다"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214108",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260819171332",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 투자가 자금과 규제로 조여졌다",
-      "body_ko": "금리가 자금 여력을 좁히고 인허가 요건이 붙으면서 확장 속도에 상한이 생겼다.",
+      "title": "AI 확장이 금리와 자본구조에 묶였다",
+      "body_ko": "연산 자원이 금융 자산으로 구조화되면서 확장 속도를 자금 조건이 먼저 결정한다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry",
-        "ai_policy"
+        "금융회사 AI",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -70,24 +63,9 @@
           "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion"
         },
         {
-          "date": "2026-08-18",
-          "file": "20260818-ai-투자-사이클-후반부로-가는중-자.md",
-          "title": "\"AI 투자 사이클 후반부로 가는중…자본공급자 유동성이 핵심\""
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-worrisome-ai-is-driv.md",
-          "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn"
-        },
-        {
           "date": "2026-08-19",
           "file": "20260819-nvidia-s-ai-moat-is-.md",
           "title": "Nvidia's AI moat is shifting from chips to capital"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-ai-고속도로-ai-데이터센터-제동-.md",
-          "title": "[AI 고속도로] 美 AI 데이터센터 제동…전력·용수 갈등에 규제 확산"
         },
         {
           "date": "2026-08-19",
@@ -95,29 +73,82 @@
           "title": "재정건전성·AI 채권 홍수…\"장기금리 정상화 진입\" 해석도"
         },
         {
-          "date": "2026-08-19",
-          "file": "20260819-반도체-되돌림에-대외-불안까지-코스피.md",
-          "title": "반도체 되돌림에 대외 불안까지…코스피 5.8% 급락"
+          "date": "2026-08-20",
+          "file": "20260820-nvidia-s-new-financi.md",
+          "title": "Nvidia’s new financial strategy does not compute"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671170",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671337",
           "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12131422",
+          "title": ""
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-ai-반도체에-8-9조-뭉칫돈-상반기.md",
+          "title": "AI·반도체에 8.9조 '뭉칫돈'…상반기 벤처투자 역대 최대"
+        }
+      ]
+    },
+    {
+      "title": "프런티어 랩이 공개시장에 들어선다",
+      "body_ko": "매출 역전과 잇단 상장 예고로 핵심 벤더가 분기 실적과 주주 압력의 규율을 받게 됐다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-17",
+          "file": "20260817-앤트로픽-창사-첫-분기-흑자-기업용-.md",
+          "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다"
+        },
+        {
+          "date": "2026-08-18",
+          "file": "20260818-앤트로픽-ipo-앞두고-연매출-92조.md",
+          "title": "앤트로픽, IPO 앞두고 연매출 92조원 전망…7배 급증"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-anthropic-passes-ope.md",
+          "title": "Anthropic passes OpenAI on revenue for the first time"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-오픈ai-cfo-내년-ipo-추진-앤.md",
+          "title": "오픈AI CFO “내년 IPO 추진…앤트로픽보다 늦어도 문제없어”"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214104",
+          "title": ""
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-skt-앤트로픽에-1400억-추가-배.md",
+          "title": "SKT, 앤트로픽에 1400억 추가 배팅…AIDC부터 보안까지 협력"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-stripe-to-buy-openro.md",
+          "title": "Stripe to buy OpenRouter as fintech expands deeper into AI"
         }
       ]
     },
     {
       "title": "AI 통제가 도입의 선행 조건이 됐다",
-      "body_ko": "권한을 쥔 AI의 사고가 이어지며 안전 설계가 성능 검토를 앞서고, 개발 과정까지 통제 대상이 됐다.",
+      "body_ko": "인허가·보안·개인정보 요건이 동시에 조여지며 통제 비용이 도입 원가에 포함됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-08-17",
-          "file": "20260817-sw키트-빅테크-ai-워터마크-정책-.md",
-          "title": "[SW키트] 美 빅테크, 'AI 워터마크' 정책 구체화…주요 내용은"
-        },
         {
           "date": "2026-08-18",
           "file": "20260818-anthropic-explains-h.md",
@@ -137,27 +168,40 @@
           "date": "2026-08-19",
           "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
           "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-펜실베이니아-ai-데이터센터-규제-대.md",
+          "title": "펜실베이니아, AI 데이터센터 규제 대열 합류...주지사 행정명령 서명"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-attackers-are-using-.md",
+          "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026081903641",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트가 결제·업무 표준으로 굳었다",
-      "body_ko": "자율 실행이 결제 규격과 조직 재편으로 번졌지만 실제 업무 확장은 여전히 소수에 머문다.",
+      "title": "성과는 업무 재설계에서만 나온다",
+      "body_ko": "도구 도입에 머문 대다수가 수익 효과를 내지 못한 반면 공정을 바꾼 곳만 지표가 움직였다.",
       "topics": [
+        "ai_industry",
         "ai_agents",
         "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-08-17",
-          "file": "20260817-ai가-알아서-처리한다-앤트로픽-클로.md",
-          "title": "AI가 알아서 처리한다…앤트로픽, 클로드 코드 자동 모드 기본 탑재"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-alipay-launches-full.md",
-          "title": "Alipay launches full stack agentic commerce platform in China"
-        },
         {
           "date": "2026-08-18",
           "file": "20260818-ai픽-구글클라우드-신한투자-ai로-.md",
@@ -165,8 +209,13 @@
         },
         {
           "date": "2026-08-19",
-          "file": "20260819-visa-and-mastercard-.md",
-          "title": "Visa and Mastercard back new Agentic Payments Alliance"
+          "file": "20260819-비씨카드-ai-모델-다이어트-사내-a.md",
+          "title": "비씨카드, AI 모델 다이어트…사내 AI 서비스 속도 3배 높여"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-혁신플랫폼톡-왜-건설-현장의-ai는-.md",
+          "title": "[혁신플랫폼톡] 왜 건설 현장의 AI는 답을 주지 못하는가"
         },
         {
           "date": "2026-08-19",
@@ -174,48 +223,23 @@
           "title": "Westpac to reshape software engineering with Amp Frontier Corporation"
         },
         {
-          "date": "2026-08-19",
-          "file": "20260819-혁신플랫폼톡-왜-건설-현장의-ai는-.md",
-          "title": "[혁신플랫폼톡] 왜 건설 현장의 AI는 답을 주지 못하는가"
-        }
-      ]
-    },
-    {
-      "title": "AI 매출의 기준선이 높아졌다",
-      "body_ko": "손익에 잡히는 것만으로는 부족해지고 성장 속도의 충분성이 투자 심리를 가른다.",
-      "topics": [
-        "ai_industry",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-17",
-          "file": "20260817-앤트로픽-창사-첫-분기-흑자-기업용-.md",
-          "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다"
+          "date": "2026-08-20",
+          "file": "20260820-기업-95-가-무늬만-ai-수익률-제.md",
+          "title": "기업 95%가 '무늬만 AI' … 수익률 제로"
         },
         {
-          "date": "2026-08-18",
-          "file": "20260818-앤트로픽-ipo-앞두고-연매출-92조.md",
-          "title": "앤트로픽, IPO 앞두고 연매출 92조원 전망…7배 급증"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-이노에이엑스-ax-매출-7배-뛰었다-.md",
-          "title": "이노에이엑스, AX 매출 7배 뛰었다…보험 AI 성장 가속"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-ai-희망-이-반도체-악재로-반년새-.md",
-          "title": "'AI 희망'이 반도체 악재로…'반년새 7배' 앤스로픽 매출 실망론"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-삼성sds-클라우드-상반기-ito-매.md",
-          "title": "삼성SDS 클라우드, 상반기 ITO 매출 역전…비중 20% 돌파"
-        },
-        {
-          "url": "https://www.etnews.com/20260819000315",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214122",
           "title": ""
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-이슈플러스-ai-공룡-루프-엔지니어링.md",
+          "title": "[이슈플러스] AI 공룡 '루프 엔지니어링' 격전…“스스로 최적화하는 시대 열렸다”"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-아마존-따라가는-쿠팡-ai-팩토리-만.md",
+          "title": "아마존 따라가는 쿠팡, 'AI 팩토리' 만든다"
         }
       ]
     }
