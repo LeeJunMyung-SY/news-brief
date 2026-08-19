@@ -1,15 +1,154 @@
 {
   "date": "2026-08-19",
-  "updated_at": "2026-08-19T08:29:13.631296+09:00",
-  "run_id": "run_20260819_082913",
-  "summary_ko": "AI가 결제와 개발 조직 안쪽으로 들어오는 사이, 그 확산을 떠받칠 안전 통제와 자금 조건이 동시에 시험대에 올랐다.",
+  "updated_at": "2026-08-19T12:23:00.960981+09:00",
+  "run_id": "run_20260819_122300",
+  "summary_ko": "AI 확산의 속도를 정하는 변수가 성능이 아니라 통제·규제·자금 조건으로 굳어진 하루다.",
   "issues": [
     {
-      "title": "에이전트가 금융 실행 계층을 파고들었다",
-      "summary_ko": "자율 실행이 결제 규격과 은행 개발 조직까지 내려오며 대응 시점이 업계 표준에 묶이기 시작했다.",
+      "title": "AI 통제가 개발 단계까지 내려왔다",
+      "summary_ko": "배포 후 관리가 아니라 모델을 만드는 과정 자체가 안전 검토 대상이 됐다.",
       "topics": [
+        "ai_policy",
         "ai_agents",
-        "금융회사 AI"
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-pacing-model-develop.md",
+          "title": "Pacing model development in an era of cyber-critical capabilities"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-오픈ai-ai-위험-감시-대비팀-해체.md",
+          "title": "오픈AI, AI 위험 감시 '대비팀' 해체…안전 조직 또 흔들"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
+          "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-오픈ai-사이버-보안-위험으로-차세대.md",
+          "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260819082809",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671222",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 확장의 제약이 자금에서 규제로 번졌다",
+      "summary_ko": "돈줄에 이어 지역 수용성과 전력 조건이 인프라 계획의 실행 속도를 붙잡는다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-worrisome-ai-is-driv.md",
+          "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-nvidia-s-ai-moat-is-.md",
+          "title": "Nvidia's AI moat is shifting from chips to capital"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-석유-패권-에서-전기-패권-으로-ai.md",
+          "title": "'석유 패권'에서 '전기 패권'으로…\"AI 데이터센터, 안보 문제로 봐야\" [fn 인사이트]"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-고속도로-ai-데이터센터-제동-.md",
+          "title": "[AI 고속도로] 美 AI 데이터센터 제동…전력·용수 갈등에 규제 확산"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-재정건전성-ai-채권-홍수-장기금리-.md",
+          "title": "재정건전성·AI 채권 홍수…\"장기금리 정상화 진입\" 해석도"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-삼성전자-aidc-액체냉각-시장-정조.md",
+          "title": "삼성전자, AIDC 액체냉각 시장 정조준…광주 HVAC 공장에 2400억 투자"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-희망-이-반도체-악재로-반년새-.md",
+          "title": "'AI 희망'이 반도체 악재로…'반년새 7배' 앤스로픽 매출 실망론"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671243",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "소버린 AI가 조달 가능한 제품이 됐다",
+      "summary_ko": "정책 선발 단계를 지나 규제 환경에서 바로 살 수 있는 형태로 공급이 정리됐다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
+          "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
+          "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-포스코dx-국산-npu로-산업현장-비.md",
+          "title": "포스코DX, 국산 NPU로 산업현장 비전 플랫폼 개발"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-kt-국산-npu-llm-한-서버에-.md",
+          "title": "KT, 국산 NPU·LLM 한 서버에 담았다...'모두의AI'에도 활용"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-모두의-ai-출사표-skt-풀스택-역.md",
+          "title": "'모두의 AI' 출사표 SKT, 풀스택 역량 앞세워 범국민 서비스 지원"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-라온시큐어-업스테이지-독파모-컨소시엄.md",
+          "title": "라온시큐어, 업스테이지 독파모 컨소시엄 합류...최종전서 AI보안 담당"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-시론-독파모-2차-평가를-보고-남은-.md",
+          "title": "[시론] 독파모 2차 평가를 보고...남은 과제는"
+        },
+        {
+          "url": "https://www.etnews.com/20260819000142",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융권 AI가 실행과 인력 문제로 넘어갔다",
+      "summary_ko": "도입 여부가 아니라 운영 효율과 사람 배치가 다음 검토 대상이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -24,131 +163,22 @@
         },
         {
           "date": "2026-08-19",
-          "file": "20260819-picpay-rolls-out-cha.md",
-          "title": "PicPay rolls out ChatGPT integration"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-india-s-razorpay-lau.md",
-          "title": "India's Razorpay launches AI payments foundation model with AWS"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214075",
-          "title": ""
-        },
-        {
-          "date": "2026-08-19",
           "file": "20260819-아이티센엔텍-ai-보험-계리-분석-플.md",
           "title": "아이티센엔텍, AI 보험 계리 분석 플랫폼 '넥스큐센' 출시…손해율 산출·검증 자동화"
-        }
-      ]
-    },
-    {
-      "title": "AI 통제 설계가 도입 요건으로 올라섰다",
-      "summary_ko": "권한을 쥔 AI의 위험이 실제 사고와 공급사 조직 변화로 드러나며 통제 체계가 성능보다 앞선 검토 항목이 됐다.",
-      "topics": [
-        "ai_policy",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-19",
-          "file": "20260819-pacing-model-develop.md",
-          "title": "Pacing model development in an era of cyber-critical capabilities"
         },
         {
           "date": "2026-08-19",
-          "file": "20260819-오픈ai-ai-위험-감시-대비팀-해체.md",
-          "title": "오픈AI, AI 위험 감시 '대비팀' 해체…안전 조직 또 흔들"
+          "file": "20260819-비씨카드-ai-모델-다이어트-사내-a.md",
+          "title": "비씨카드, AI 모델 다이어트…사내 AI 서비스 속도 3배 높여"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214079",
+          "date": "2026-08-19",
+          "file": "20260819-이억원-청년-금융권-취업문턱-높다-a.md",
+          "title": "이억원 \"청년 금융권 취업문턱 높다…AI시대 인재 적극 채용해야\""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260819024500008",
           "title": ""
-        },
-        {
-          "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
-          "title": ""
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
-          "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
-        }
-      ]
-    },
-    {
-      "title": "AI 투자의 전제가 자금 조건으로 옮겨갔다",
-      "summary_ko": "지속 여부를 기업 의지가 아니라 금리와 전력 확보 속도로 판단하는 관점이 자리 잡았다.",
-      "topics": [
-        "ai_compute_energy",
-        "ai_industry",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-19",
-          "file": "20260819-worrisome-ai-is-driv.md",
-          "title": "'Worrisome': AI is driving a looming market correction, European central bank economists warn"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-이은택-kb증권-이사-물가-금리-동시.md",
-          "title": "이은택 KB증권 이사 “물가·금리 동시 상승이 증시 고비…美 10년물 5% 돌파는 위험”"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-nvidia-s-ai-moat-is-.md",
-          "title": "Nvidia's AI moat is shifting from chips to capital"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-석유-패권-에서-전기-패권-으로-ai.md",
-          "title": "'석유 패권'에서 '전기 패권'으로…\"AI 데이터센터, 안보 문제로 봐야\" [fn 인사이트]"
-        },
-        {
-          "url": "https://www.hankyung.com/article/202608187712i",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "국산 AI 조달 기준이 활용성으로 바뀌었다",
-      "summary_ko": "점수 경쟁 대신 실사용 적합성이 선발 기준이 되면서 국내 모델 공급 지형이 다시 짜였다.",
-      "topics": [
-        "llm_models",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-19",
-          "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
-          "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671178",
-          "title": ""
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
-          "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260818174532",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214086",
-          "title": ""
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-포스코dx-국산-npu로-산업현장-비.md",
-          "title": "포스코DX, 국산 NPU로 산업현장 비전 플랫폼 개발"
         }
       ]
     }

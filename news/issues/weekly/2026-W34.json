@@ -1,8 +1,8 @@
 {
   "week": "2026-W34",
-  "updated_at": "2026-08-19T08:29:13.631296+09:00",
-  "run_id": "run_20260819_082913",
-  "summary_ko": "AI가 실행 계층까지 내려온 한 주, 확산 속도를 정하는 변수는 성능이 아니라 통제와 자금이었다.",
+  "updated_at": "2026-08-19T12:23:00.960981+09:00",
+  "run_id": "run_20260819_122300",
+  "summary_ko": "AI가 실행 계층까지 내려온 한 주, 확산 속도를 정한 것은 성능이 아니라 통제·자금·규제였다.",
   "issues": [
     {
       "title": "에이전트가 결제·업무 표준으로 굳었다",
@@ -36,17 +36,12 @@
           "date": "2026-08-19",
           "file": "20260819-westpac-to-reshape-s.md",
           "title": "Westpac to reshape software engineering with Amp Frontier Corporation"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-대한항공-항공정비-dx-가속-정비결함.md",
-          "title": "대한항공, 항공정비 DX 가속 '정비결함 분석 시스템' 개시"
         }
       ]
     },
     {
       "title": "AI 통제가 도입의 선행 조건이 됐다",
-      "body_ko": "권한을 쥔 AI의 사고와 규칙 소실이 잇따라 확인되며 안전 설계가 성능 검토보다 앞서게 됐다.",
+      "body_ko": "권한을 쥔 AI의 사고가 이어지며 안전 설계가 성능 검토를 앞서고, 개발 과정 자체까지 통제 대상이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -56,11 +51,6 @@
           "date": "2026-08-18",
           "file": "20260818-anthropic-explains-h.md",
           "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-챗gpt가-내-pc-기록을-기억한다-.md",
-          "title": "챗GPT가 내 PC 기록을 기억한다…'컴퓨터 히스토리'의 두 얼굴"
         },
         {
           "date": "2026-08-17",
@@ -78,22 +68,28 @@
           "title": "오픈AI, AI 위험 감시 '대비팀' 해체…안전 조직 또 흔들"
         },
         {
-          "url": "https://the-decoder.com/ai-systems-quietly-drop-user-instructions-when-they-compress-context/",
-          "title": ""
-        },
-        {
           "date": "2026-08-19",
           "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
           "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-오픈ai-사이버-보안-위험으로-차세대.md",
+          "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260819082809",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 투자의 관건이 자금과 전력으로 좁혀졌다",
-      "body_ko": "수요 논쟁을 지나 금리와 전력망 확충 속도가 투자 지속성을 결정하는 변수로 확정됐다.",
+      "title": "인프라 투자가 자금과 규제 양쪽에서 조여졌다",
+      "body_ko": "금리 상승이 자금 여력을 좁히는 동시에 지역 인허가 요건이 붙으며 확장 속도의 상한이 생겼다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -103,18 +99,8 @@
         },
         {
           "date": "2026-08-18",
-          "file": "20260818-젠슨-황-오픈ai-데이터센터-보증-순.md",
-          "title": "젠슨 황 \"오픈AI 데이터센터 보증, '순환 금융' 아니다...임대료 직접 지불\""
-        },
-        {
-          "date": "2026-08-18",
           "file": "20260818-ai-투자-사이클-후반부로-가는중-자.md",
           "title": "\"AI 투자 사이클 후반부로 가는중…자본공급자 유동성이 핵심\""
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-한미반도체-1300억원-투입해-대규모.md",
-          "title": "한미반도체, 1300억원 투입해 대규모 신규 팹 구축 추진"
         },
         {
           "date": "2026-08-19",
@@ -123,24 +109,34 @@
         },
         {
           "date": "2026-08-19",
-          "file": "20260819-석유-패권-에서-전기-패권-으로-ai.md",
-          "title": "'석유 패권'에서 '전기 패권'으로…\"AI 데이터센터, 안보 문제로 봐야\" [fn 인사이트]"
-        },
-        {
-          "date": "2026-08-19",
           "file": "20260819-nvidia-s-ai-moat-is-.md",
           "title": "Nvidia's AI moat is shifting from chips to capital"
         },
         {
           "date": "2026-08-19",
-          "file": "20260819-이은택-kb증권-이사-물가-금리-동시.md",
-          "title": "이은택 KB증권 이사 “물가·금리 동시 상승이 증시 고비…美 10년물 5% 돌파는 위험”"
+          "file": "20260819-석유-패권-에서-전기-패권-으로-ai.md",
+          "title": "'석유 패권'에서 '전기 패권'으로…\"AI 데이터센터, 안보 문제로 봐야\" [fn 인사이트]"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-ai-고속도로-ai-데이터센터-제동-.md",
+          "title": "[AI 고속도로] 美 AI 데이터센터 제동…전력·용수 갈등에 규제 확산"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-재정건전성-ai-채권-홍수-장기금리-.md",
+          "title": "재정건전성·AI 채권 홍수…\"장기금리 정상화 진입\" 해석도"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-삼성전자-aidc-액체냉각-시장-정조.md",
+          "title": "삼성전자, AIDC 액체냉각 시장 정조준…광주 HVAC 공장에 2400억 투자"
         }
       ]
     },
     {
-      "title": "국산 모델 선발 기준이 활용성으로 이동했다",
-      "body_ko": "평가와 자원 배분에 이어 선발 잣대까지 실사용 중심으로 바뀌며 조달 후보군이 정책으로 확정됐다.",
+      "title": "국산 AI가 선발을 지나 조달 단계로 왔다",
+      "body_ko": "활용성 중심 선발로 공급 진영이 정리되자 곧바로 규제 환경에서 살 수 있는 제품 형태로 내려왔다.",
       "topics": [
         "llm_models",
         "ai_policy"
@@ -157,18 +153,9 @@
           "title": "[속보] 정부, LG·SKT·업스테이지에 엔비디아 B200 1000장 지원"
         },
         {
-          "date": "2026-08-18",
-          "file": "20260818-독파모-2차-발표-예정대로-2곳-선정.md",
-          "title": "[독파모 2차 발표] 예정대로 2곳 선정…AI 개발 지원책은 재검토"
-        },
-        {
           "date": "2026-08-19",
           "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
           "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671178",
-          "title": ""
         },
         {
           "date": "2026-08-19",
@@ -176,14 +163,20 @@
           "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260818174532",
-          "title": ""
+          "date": "2026-08-19",
+          "file": "20260819-kt-국산-npu-llm-한-서버에-.md",
+          "title": "KT, 국산 NPU·LLM 한 서버에 담았다...'모두의AI'에도 활용"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-모두의-ai-출사표-skt-풀스택-역.md",
+          "title": "'모두의 AI' 출사표 SKT, 풀스택 역량 앞세워 범국민 서비스 지원"
         }
       ]
     },
     {
-      "title": "AI 매출이 재무제표로 확인됐다",
-      "body_ko": "프런티어 기업과 국내 중견기업 양쪽에서 AI 매출이 손익에 잡히며 사업성 논쟁이 추정 단계를 벗어났다.",
+      "title": "AI 매출의 기준선이 높아졌다",
+      "body_ko": "손익에 잡히는 것만으로는 부족해지고 성장 속도의 충분성이 투자 심리를 가르기 시작했다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -205,16 +198,9 @@
           "title": "이노에이엑스, AX 매출 7배 뛰었다…보험 AI 성장 가속"
         },
         {
-          "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214074",
-          "title": ""
-        },
-        {
-          "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-          "title": ""
+          "date": "2026-08-19",
+          "file": "20260819-ai-희망-이-반도체-악재로-반년새-.md",
+          "title": "'AI 희망'이 반도체 악재로…'반년새 7배' 앤스로픽 매출 실망론"
         }
       ]
     }
