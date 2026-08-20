@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-21",
+  "updated_at": "2026-08-21T08:24:10.615595+09:00",
+  "run_id": "run_20260821_082410",
+  "summary_ko": "프런티어 랩의 손익과 데이터 통제 조건이 같은 날 드러나며 벤더 판단 기준이 바뀌었다.",
+  "issues": [
+    {
+      "title": "벤더 평가에 손익이 들어왔다",
+      "summary_ko": "매출 규모와 손익 방향이 갈리면서 벤더 선택 기준에 재무 지속가능성이 추가됐다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-21",
+          "file": "20260821-오픈ai-2분기-매출-9조-영업손실-.md",
+          "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-openai-is-gaining-on.md",
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-단독-국민연금-누가-ai거품론을-말했.md",
+          "title": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "데이터 통제권이 계약 조건이 됐다",
+      "summary_ko": "보관 위치와 미저장 탐지가 경쟁 요소로 올라서며 규제 산업의 도입 장벽이 낮아진다.",
+      "topics": [
+        "llm_models",
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-21",
+          "file": "20260821-앤트로픽-기업-데이터-통제권-강화-이.md",
+          "title": "앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214137",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214155",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260820193307",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "전력이 확장 계획을 다시 쓴다",
+      "summary_ko": "수요 전망 상향과 입지 반발이 겹치며 증설 일정의 상한이 외부에서 정해진다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-21",
+          "file": "20260821-ai-반도체-전력수요-폭증-2040년.md",
+          "title": "AI·반도체 전력수요 폭증…2040년 전망 4개월 만에 대폭 상향"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12132502",
+          "title": ""
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-ai-data-center-outra.md",
+          "title": "AI data center outrage is showing up everywhere from ads to elections"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-8월20일-데이터센터-반발-달래기-에.md",
+          "title": "[8월20일] 데이터센터 반발 '달래기'에 나선 빅테크…결국 필요한 건 AI 효용 입증"
+        },
+        {
+          "url": "https://www.etnews.com/20260820000426",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "결제가 AI 유통 계층을 잡는다",
+      "summary_ko": "모델 호출과 정산을 한 계층에 묶으려는 경쟁이 결제 기업 중심으로 벌어진다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-21",
+          "file": "20260821-스트라이프-오픈라우터-10조에-인수-.md",
+          "title": "스트라이프, 오픈라우터 10조에 인수…AI 결제 인프라 확장"
+        },
+        {
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "title": ""
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-binance-now-lets-ai-.md",
+          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users"
+        }
+      ]
+    }
+  ]
+}

@@ -1,98 +1,12 @@
 {
   "week": "2026-W34",
-  "updated_at": "2026-08-20T12:22:49.149034+09:00",
-  "run_id": "run_20260820_122249",
+  "updated_at": "2026-08-21T08:24:10.615595+09:00",
+  "run_id": "run_20260821_082410",
   "summary_ko": "이번 주 AI는 자금·전력·통제라는 바깥 조건이 속도를 정했다.",
   "issues": [
     {
-      "title": "국산 AI가 진영 대결로 굳었다",
-      "body_ko": "어느 연합에 속하느냐가 쓸 수 있는 서비스 범위를 정하고, 평가 기준마저 활용 성과로 옮겨갔다.",
-      "topics": [
-        "llm_models",
-        "ai_policy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-18",
-          "file": "20260818-독파모-2차전-모티프-탈락-업스테이지.md",
-          "title": "독파모 2차전 '모티프' 탈락…업스테이지·SKT·LG 진출"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
-          "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-kt-컨소시엄-모두의-ai-출사표-서.md",
-          "title": "KT 컨소시엄, '모두의 AI' 출사표…서비스부터 반도체까지 전방위 결합"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-누구나-쉽게-vs-생활-밀착-연합-s.md",
-          "title": "\"누구나 쉽게 vs 생활 밀착 연합\"...SKT·카카오, '모두의 AI' 전략 공개"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-배경훈-ai-모델-인프라-넘어-산업-.md",
-          "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\""
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-이스트소프트-모두의-ai-도전장-ai.md",
-          "title": "이스트소프트, '모두의 AI' 도전장…AI 비서 '알비서' 앞세운다"
-        }
-      ]
-    },
-    {
-      "title": "AI 확장이 자금과 전력에 묶였다",
-      "body_ko": "연산 자원이 금융 자산으로 구조화되는 한편 전력 확보 일정이 증설의 실질 상한이 됐다.",
-      "topics": [
-        "ai_compute_energy",
-        "금융회사 AI",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-18",
-          "file": "20260818-openai-signs-record-.md",
-          "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-nvidia-s-ai-moat-is-.md",
-          "title": "Nvidia's AI moat is shifting from chips to capital"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-재정건전성-ai-채권-홍수-장기금리-.md",
-          "title": "재정건전성·AI 채권 홍수…\"장기금리 정상화 진입\" 해석도"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-nvidia-s-new-financi.md",
-          "title": "Nvidia’s new financial strategy does not compute"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-메가프로젝트-전력수요-38gw-더-는.md",
-          "title": "메가프로젝트 전력수요 38GW 더 는다…김성환 “전력은 국가 안보자산”"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-가온전선-ai-클라우드-데이터센터에-.md",
-          "title": "가온전선, AI 클라우드 데이터센터에 버스덕트 공급…2000억 규모"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671352",
-          "title": ""
-        }
-      ]
-    },
-    {
       "title": "프런티어 랩이 공개시장에 들어선다",
-      "body_ko": "매출 역전과 잇단 상장 예고로 핵심 벤더가 분기 실적과 주주 압력의 규율을 받게 됐다.",
+      "body_ko": "매출 역전과 잇단 상장 예고에 이어 손익까지 공개되며 벤더 안정성이 평가 항목이 됐다.",
       "topics": [
         "ai_industry",
         "llm_models",
@@ -115,20 +29,105 @@
           "title": "오픈AI CFO “내년 IPO 추진…앤트로픽보다 늦어도 문제없어”"
         },
         {
-          "date": "2026-08-20",
-          "file": "20260820-stripe-to-buy-openro.md",
-          "title": "Stripe to buy OpenRouter as fintech expands deeper into AI"
+          "date": "2026-08-21",
+          "file": "20260821-오픈ai-2분기-매출-9조-영업손실-.md",
+          "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-앤트로픽-기업-데이터-통제권-강화-이.md",
+          "title": "앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-단독-국민연금-누가-ai거품론을-말했.md",
+          "title": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여"
+        }
+      ]
+    },
+    {
+      "title": "AI 확장이 자금과 전력에 묶였다",
+      "body_ko": "연산이 금융 자산으로 구조화되는 사이 전력 확보 일정이 증설의 실질 상한으로 굳었다.",
+      "topics": [
+        "ai_compute_energy",
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-18",
+          "file": "20260818-openai-signs-record-.md",
+          "title": "OpenAI signs record Ohio data center lease with Nvidia backing up to $105 billion"
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-stripe-didn-t-really.md",
-          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’"
+          "file": "20260820-메가프로젝트-전력수요-38gw-더-는.md",
+          "title": "메가프로젝트 전력수요 38GW 더 는다…김성환 “전력은 국가 안보자산”"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-nvidia-s-ai-moat-is-.md",
+          "title": "Nvidia's AI moat is shifting from chips to capital"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-ai-반도체-전력수요-폭증-2040년.md",
+          "title": "AI·반도체 전력수요 폭증…2040년 전망 4개월 만에 대폭 상향"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-wall-street-loves-th.md",
+          "title": "Wall Street loves these high-yielding AI bonds. What income investors should know"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-ai-data-center-outra.md",
+          "title": "AI data center outrage is showing up everywhere from ads to elections"
+        }
+      ]
+    },
+    {
+      "title": "국산 AI가 진영 대결로 굳었다",
+      "body_ko": "연합 소속이 서비스 범위를 정하는 사이 평가 기준의 신뢰 문제가 함께 불거졌다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-18",
+          "file": "20260818-독파모-2차전-모티프-탈락-업스테이지.md",
+          "title": "독파모 2차전 '모티프' 탈락…업스테이지·SKT·LG 진출"
+        },
+        {
+          "date": "2026-08-19",
+          "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
+          "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-배경훈-ai-모델-인프라-넘어-산업-.md",
+          "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\""
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-정부-독파모-2차-평가-세부-점수-공.md",
+          "title": "정부, 독파모 2차 평가 세부 점수 공개…\"투명성 논란 해소\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214172",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260820204530",
+          "title": ""
         }
       ]
     },
     {
       "title": "통제가 도입의 선행 조건이 됐다",
-      "body_ko": "보안·인허가 요건이 조여진 데 이어 감독기관까지 AI로 무장하며 통제 기준선이 올라갔다.",
+      "body_ko": "감독기관 무장에 이어 데이터 보관 위치와 권한 경계가 계약의 첫 항목으로 올라섰다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -141,66 +140,39 @@
           "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단"
         },
         {
-          "date": "2026-08-19",
-          "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
-          "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-펜실베이니아-ai-데이터센터-규제-대.md",
-          "title": "펜실베이니아, AI 데이터센터 규제 대열 합류...주지사 행정명령 서명"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-attackers-are-using-.md",
-          "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn"
-        },
-        {
           "date": "2026-08-20",
           "file": "20260820-금감원-ai로-코인-시세조종-잡는다-.md",
           "title": "금감원, AI로 코인 시세조종 잡는다…탐지부터 보고서까지 자동화"
         },
         {
-          "date": "2026-08-20",
-          "file": "20260820-보이스피싱-정보공유-9개월간-7천건-.md",
-          "title": "보이스피싱 정보공유 9개월간 7천건 지급정지·660억원 차단"
+          "date": "2026-08-19",
+          "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
+          "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
         },
         {
-          "date": "2026-08-20",
-          "file": "20260820-팀스파르타-폐쇄망서-활용-가능한-생성.md",
-          "title": "팀스파르타, 폐쇄망서 활용 가능한 생성 AI 코딩 에이전트 전면에"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214137",
+          "title": ""
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-grok-exfiltrates-use.md",
+          "title": "Grok exfiltrates user data when malicious instructions are encrypted"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214176",
+          "title": ""
         }
       ]
     },
     {
-      "title": "성과는 공정 단위에서 먼저 나온다",
-      "body_ko": "도구를 붙인 도입은 수익 효과가 없는 반면 공정을 바꾼 제조 현장에서는 이미 확산 국면이다.",
+      "title": "로봇이 실적으로 평가받기 시작했다",
+      "body_ko": "제조 현장 확산과 생활 공간 계약이 이어지는 한편 수요의 실체를 따지는 시선이 붙었다.",
       "topics": [
-        "ai_industry",
         "physical_ai",
-        "ai_agents"
+        "physical_ai_robotics",
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-18",
-          "file": "20260818-ai픽-구글클라우드-신한투자-ai로-.md",
-          "title": "[AI픽] 구글클라우드·신한투자, AI로 계약 처리 2시간→5분"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-비씨카드-ai-모델-다이어트-사내-a.md",
-          "title": "비씨카드, AI 모델 다이어트…사내 AI 서비스 속도 3배 높여"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-기업-95-가-무늬만-ai-수익률-제.md",
-          "title": "기업 95%가 '무늬만 AI' … 수익률 제로"
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-아마존-따라가는-쿠팡-ai-팩토리-만.md",
-          "title": "아마존 따라가는 쿠팡, 'AI 팩토리' 만든다"
-        },
         {
           "date": "2026-08-20",
           "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
@@ -212,9 +184,24 @@
           "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
         },
         {
-          "date": "2026-08-20",
-          "file": "20260820-데이원컴퍼니-ax-지원회사-설립-핵심.md",
-          "title": "데이원컴퍼니, AX 지원회사 설립…핵심 인재 100명 공채"
+          "date": "2026-08-21",
+          "file": "20260821-중국-로봇-업계-눈요기-벗어나-상용화.md",
+          "title": "중국 로봇 업계, ‘눈요기’ 벗어나 상용화 실적에 사활"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-china-now-has-its-ow.md",
+          "title": "China now has its own AI circular financing scheme"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-aws-피지컬-ai-육성-프로그램-실.md",
+          "title": "AWS, 피지컬 AI 육성 프로그램 실시...리얼월드 등 국내 15개사 참여"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-대동-대구공장-제조-ax-전환-트랙터.md",
+          "title": "대동, 대구공장 제조 AX 전환…트랙터 연간 3만5천대 생산 목표"
         }
       ]
     }
