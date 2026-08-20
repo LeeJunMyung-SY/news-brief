@@ -1,12 +1,12 @@
 {
   "week": "2026-W34",
-  "updated_at": "2026-08-20T08:29:54.034150+09:00",
-  "run_id": "run_20260820_082954",
-  "summary_ko": "이번 주 AI는 성능이 아니라 자금·통제·조직이 속도를 정했다.",
+  "updated_at": "2026-08-20T12:22:49.149034+09:00",
+  "run_id": "run_20260820_122249",
+  "summary_ko": "이번 주 AI는 자금·전력·통제라는 바깥 조건이 속도를 정했다.",
   "issues": [
     {
       "title": "국산 AI가 진영 대결로 굳었다",
-      "body_ko": "어느 연합에 속하느냐가 쓸 수 있는 서비스 범위를 정하고, 이제 완제품 형태의 조달까지 열렸다.",
+      "body_ko": "어느 연합에 속하느냐가 쓸 수 있는 서비스 범위를 정하고, 평가 기준마저 활용 성과로 옮겨갔다.",
       "topics": [
         "llm_models",
         "ai_policy",
@@ -17,11 +17,6 @@
           "date": "2026-08-18",
           "file": "20260818-독파모-2차전-모티프-탈락-업스테이지.md",
           "title": "독파모 2차전 '모티프' 탈락…업스테이지·SKT·LG 진출"
-        },
-        {
-          "date": "2026-08-18",
-          "file": "20260818-속보-정부-lg-skt-업스테이지에-.md",
-          "title": "[속보] 정부, LG·SKT·업스테이지에 엔비디아 B200 1000장 지원"
         },
         {
           "date": "2026-08-19",
@@ -39,18 +34,20 @@
           "title": "\"누구나 쉽게 vs 생활 밀착 연합\"...SKT·카카오, '모두의 AI' 전략 공개"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214108",
-          "title": ""
+          "date": "2026-08-20",
+          "file": "20260820-배경훈-ai-모델-인프라-넘어-산업-.md",
+          "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\""
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260819171332",
-          "title": ""
+          "date": "2026-08-20",
+          "file": "20260820-이스트소프트-모두의-ai-도전장-ai.md",
+          "title": "이스트소프트, '모두의 AI' 도전장…AI 비서 '알비서' 앞세운다"
         }
       ]
     },
     {
-      "title": "AI 확장이 금리와 자본구조에 묶였다",
-      "body_ko": "연산 자원이 금융 자산으로 구조화되면서 확장 속도를 자금 조건이 먼저 결정한다.",
+      "title": "AI 확장이 자금과 전력에 묶였다",
+      "body_ko": "연산 자원이 금융 자산으로 구조화되는 한편 전력 확보 일정이 증설의 실질 상한이 됐다.",
       "topics": [
         "ai_compute_energy",
         "금융회사 AI",
@@ -78,21 +75,18 @@
           "title": "Nvidia’s new financial strategy does not compute"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671337",
-          "title": ""
-        },
-        {
-          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-          "title": ""
-        },
-        {
-          "url": "https://www.mk.co.kr/news/stock/12131422",
-          "title": ""
+          "date": "2026-08-20",
+          "file": "20260820-메가프로젝트-전력수요-38gw-더-는.md",
+          "title": "메가프로젝트 전력수요 38GW 더 는다…김성환 “전력은 국가 안보자산”"
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-ai-반도체에-8-9조-뭉칫돈-상반기.md",
-          "title": "AI·반도체에 8.9조 '뭉칫돈'…상반기 벤처투자 역대 최대"
+          "file": "20260820-가온전선-ai-클라우드-데이터센터에-.md",
+          "title": "가온전선, AI 클라우드 데이터센터에 버스덕트 공급…2000억 규모"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671352",
+          "title": ""
         }
       ]
     },
@@ -111,11 +105,6 @@
           "title": "앤트로픽, 창사 첫 분기 흑자…기업용 AI가 이끌었다"
         },
         {
-          "date": "2026-08-18",
-          "file": "20260818-앤트로픽-ipo-앞두고-연매출-92조.md",
-          "title": "앤트로픽, IPO 앞두고 연매출 92조원 전망…7배 급증"
-        },
-        {
           "date": "2026-08-20",
           "file": "20260820-anthropic-passes-ope.md",
           "title": "Anthropic passes OpenAI on revenue for the first time"
@@ -126,39 +115,26 @@
           "title": "오픈AI CFO “내년 IPO 추진…앤트로픽보다 늦어도 문제없어”"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214104",
-          "title": ""
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-skt-앤트로픽에-1400억-추가-배.md",
-          "title": "SKT, 앤트로픽에 1400억 추가 배팅…AIDC부터 보안까지 협력"
-        },
-        {
           "date": "2026-08-20",
           "file": "20260820-stripe-to-buy-openro.md",
           "title": "Stripe to buy OpenRouter as fintech expands deeper into AI"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-stripe-didn-t-really.md",
+          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’"
         }
       ]
     },
     {
-      "title": "AI 통제가 도입의 선행 조건이 됐다",
-      "body_ko": "인허가·보안·개인정보 요건이 동시에 조여지며 통제 비용이 도입 원가에 포함됐다.",
+      "title": "통제가 도입의 선행 조건이 됐다",
+      "body_ko": "보안·인허가 요건이 조여진 데 이어 감독기관까지 AI로 무장하며 통제 기준선이 올라갔다.",
       "topics": [
         "ai_policy",
-        "ai_agents"
+        "ai_agents",
+        "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-08-18",
-          "file": "20260818-anthropic-explains-h.md",
-          "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-pacing-model-develop.md",
-          "title": "Pacing model development in an era of cyber-critical capabilities"
-        },
         {
           "date": "2026-08-19",
           "file": "20260819-오픈ai-사이버-보안-위험으로-차세대.md",
@@ -180,26 +156,29 @@
           "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn"
         },
         {
-          "url": "https://www.hankyung.com/article/2026081903641",
-          "title": ""
+          "date": "2026-08-20",
+          "file": "20260820-금감원-ai로-코인-시세조종-잡는다-.md",
+          "title": "금감원, AI로 코인 시세조종 잡는다…탐지부터 보고서까지 자동화"
         },
         {
-          "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
-          "title": ""
+          "date": "2026-08-20",
+          "file": "20260820-보이스피싱-정보공유-9개월간-7천건-.md",
+          "title": "보이스피싱 정보공유 9개월간 7천건 지급정지·660억원 차단"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214103",
-          "title": ""
+          "date": "2026-08-20",
+          "file": "20260820-팀스파르타-폐쇄망서-활용-가능한-생성.md",
+          "title": "팀스파르타, 폐쇄망서 활용 가능한 생성 AI 코딩 에이전트 전면에"
         }
       ]
     },
     {
-      "title": "성과는 업무 재설계에서만 나온다",
-      "body_ko": "도구 도입에 머문 대다수가 수익 효과를 내지 못한 반면 공정을 바꾼 곳만 지표가 움직였다.",
+      "title": "성과는 공정 단위에서 먼저 나온다",
+      "body_ko": "도구를 붙인 도입은 수익 효과가 없는 반면 공정을 바꾼 제조 현장에서는 이미 확산 국면이다.",
       "topics": [
         "ai_industry",
-        "ai_agents",
-        "금융회사 AI"
+        "physical_ai",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -213,33 +192,29 @@
           "title": "비씨카드, AI 모델 다이어트…사내 AI 서비스 속도 3배 높여"
         },
         {
-          "date": "2026-08-19",
-          "file": "20260819-혁신플랫폼톡-왜-건설-현장의-ai는-.md",
-          "title": "[혁신플랫폼톡] 왜 건설 현장의 AI는 답을 주지 못하는가"
-        },
-        {
-          "date": "2026-08-19",
-          "file": "20260819-westpac-to-reshape-s.md",
-          "title": "Westpac to reshape software engineering with Amp Frontier Corporation"
-        },
-        {
           "date": "2026-08-20",
           "file": "20260820-기업-95-가-무늬만-ai-수익률-제.md",
           "title": "기업 95%가 '무늬만 AI' … 수익률 제로"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214122",
-          "title": ""
-        },
-        {
-          "date": "2026-08-20",
-          "file": "20260820-이슈플러스-ai-공룡-루프-엔지니어링.md",
-          "title": "[이슈플러스] AI 공룡 '루프 엔지니어링' 격전…“스스로 최적화하는 시대 열렸다”"
-        },
-        {
           "date": "2026-08-20",
           "file": "20260820-아마존-따라가는-쿠팡-ai-팩토리-만.md",
           "title": "아마존 따라가는 쿠팡, 'AI 팩토리' 만든다"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
+          "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
+          "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-데이원컴퍼니-ax-지원회사-설립-핵심.md",
+          "title": "데이원컴퍼니, AX 지원회사 설립…핵심 인재 100명 공채"
         }
       ]
     }

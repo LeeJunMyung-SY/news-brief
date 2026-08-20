@@ -1,46 +1,73 @@
 {
   "date": "2026-08-20",
-  "updated_at": "2026-08-20T08:29:54.034150+09:00",
-  "run_id": "run_20260820_082954",
-  "summary_ko": "AI의 무게중심이 성능 경쟁에서 자금 구조와 통제 비용으로 옮겨간 하루다.",
+  "updated_at": "2026-08-20T12:22:49.149034+09:00",
+  "run_id": "run_20260820_122249",
+  "summary_ko": "국내 AI의 무게중심이 모델 경쟁에서 활용·감독·전력 확보로 옮겨간 하루다.",
   "issues": [
     {
-      "title": "프런티어 랩이 공개시장으로 간다",
-      "summary_ko": "매출 선두가 뒤바뀌고 상장이 잇따르며 핵심 벤더가 공개시장 규율 아래 놓인다.",
+      "title": "정책 축이 활용으로 옮겨갔다",
+      "summary_ko": "지원의 판단 기준이 성능 지표에서 실사용 성과로 바뀌며 조달 경쟁 구도도 넓어졌다.",
       "topics": [
+        "ai_policy",
         "ai_industry",
-        "llm_models",
-        "금융회사 AI"
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-08-20",
-          "file": "20260820-anthropic-passes-ope.md",
-          "title": "Anthropic passes OpenAI on revenue for the first time"
+          "file": "20260820-배경훈-ai-모델-인프라-넘어-산업-.md",
+          "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\""
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-오픈ai-cfo-내년-ipo-추진-앤.md",
-          "title": "오픈AI CFO “내년 IPO 추진…앤트로픽보다 늦어도 문제없어”"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214104",
-          "title": ""
+          "file": "20260820-이스트소프트-모두의-ai-도전장-ai.md",
+          "title": "이스트소프트, '모두의 AI' 도전장…AI 비서 '알비서' 앞세운다"
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-skt-앤트로픽에-1400억-추가-배.md",
-          "title": "SKT, 앤트로픽에 1400억 추가 배팅…AIDC부터 보안까지 협력"
+          "file": "20260820-kt-ai-스타트업-16곳-선정해-a.md",
+          "title": "KT, AI 스타트업 16곳 선정해 AX 사업 개발 협력"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-팀스파르타-폐쇄망서-활용-가능한-생성.md",
+          "title": "팀스파르타, 폐쇄망서 활용 가능한 생성 AI 코딩 에이전트 전면에"
         }
       ]
     },
     {
-      "title": "컴퓨트가 금융 자산이 됐다",
-      "summary_ko": "연산 자원이 금리와 자본시장 구조에 묶이며 확장 속도의 상한이 정해진다.",
+      "title": "감독기관이 AI를 먼저 썼다",
+      "summary_ko": "규제 측이 탐지·분석을 자동화하면서 피감 기관의 통제 기준선도 함께 올라간다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-20",
+          "file": "20260820-금감원-ai로-코인-시세조종-잡는다-.md",
+          "title": "금감원, AI로 코인 시세조종 잡는다…탐지부터 보고서까지 자동화"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-보이스피싱-정보공유-9개월간-7천건-.md",
+          "title": "보이스피싱 정보공유 9개월간 7천건 지급정지·660억원 차단"
+        },
+        {
+          "date": "2026-08-20",
+          "file": "20260820-stripe-didn-t-really.md",
+          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’"
+        }
+      ]
+    },
+    {
+      "title": "확장의 병목이 전력으로",
+      "summary_ko": "연산 확보보다 전력과 배전 확보가 먼저 걸리며 자금 조건과 함께 속도를 정한다.",
       "topics": [
         "ai_compute_energy",
-        "금융회사 AI",
-        "ai_industry"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -49,92 +76,61 @@
           "title": "Nvidia’s new financial strategy does not compute"
         },
         {
-          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671337",
-          "title": ""
-        },
-        {
-          "url": "https://www.mk.co.kr/news/stock/12131422",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671318",
-          "title": ""
-        },
-        {
           "date": "2026-08-20",
           "file": "20260820-marvell-s-stock-pops.md",
           "title": "Marvell's stock pops 10% on AI chip deal that lets Google buy up to $12.2 billion in shares"
-        }
-      ]
-    },
-    {
-      "title": "도입은 많지만 성과는 없다",
-      "summary_ko": "도구를 붙이는 단계에 머문 도입이 대부분이라 업무 재설계가 관건으로 남았다.",
-      "topics": [
-        "ai_industry",
-        "ai_agents",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-20",
-          "file": "20260820-기업-95-가-무늬만-ai-수익률-제.md",
-          "title": "기업 95%가 '무늬만 AI' … 수익률 제로"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214122",
-          "title": ""
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-이슈플러스-ai-공룡-루프-엔지니어링.md",
-          "title": "[이슈플러스] AI 공룡 '루프 엔지니어링' 격전…“스스로 최적화하는 시대 열렸다”"
+          "file": "20260820-메가프로젝트-전력수요-38gw-더-는.md",
+          "title": "메가프로젝트 전력수요 38GW 더 는다…김성환 “전력은 국가 안보자산”"
         },
         {
-          "url": "https://www.etnews.com/20260819000110",
+          "date": "2026-08-20",
+          "file": "20260820-가온전선-ai-클라우드-데이터센터에-.md",
+          "title": "가온전선, AI 클라우드 데이터센터에 버스덕트 공급…2000억 규모"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671352",
           "title": ""
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260819171442",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671366",
           "title": ""
         }
       ]
     },
     {
-      "title": "확산의 대가가 통제 비용으로",
-      "summary_ko": "인허가·보안·개인정보 요건이 동시에 조여지며 도입 원가에 통제 비용이 붙는다.",
+      "title": "로봇이 현장 계약으로 들어왔다",
+      "summary_ko": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
       "topics": [
-        "ai_policy",
-        "ai_compute_energy",
-        "ai_agents"
+        "physical_ai",
+        "physical_ai_robotics",
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-08-20",
-          "file": "20260820-펜실베이니아-ai-데이터센터-규제-대.md",
-          "title": "펜실베이니아, AI 데이터센터 규제 대열 합류...주지사 행정명령 서명"
+          "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
+          "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-attackers-are-using-.md",
-          "title": "Attackers are using AI to build exploits for industrial control systems, U.S. agencies warn"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026081903641",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/openai-fixes-codex-bug-that-deleted-real-user-files-without-permission/",
-          "title": ""
+          "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
+          "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-the-u-s-banned-nvidi.md",
-          "title": "The U.S. banned Nvidia's best chips from going to China. Now it's trying to close a crucial loophole"
+          "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
+          "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
+          "title": ""
         }
       ]
     }
