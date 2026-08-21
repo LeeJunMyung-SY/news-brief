@@ -1,12 +1,12 @@
 {
   "week": "2026-W34",
-  "updated_at": "2026-08-21T08:24:10.615595+09:00",
-  "run_id": "run_20260821_082410",
-  "summary_ko": "이번 주 AI는 자금·전력·통제라는 바깥 조건이 속도를 정했다.",
+  "updated_at": "2026-08-21T12:23:11.358950+09:00",
+  "run_id": "run_20260821_122311",
+  "summary_ko": "이번 주 AI는 자금·전력·통제에 이어 조직 구조까지 바깥 조건이 속도를 정했다.",
   "issues": [
     {
-      "title": "프런티어 랩이 공개시장에 들어선다",
-      "body_ko": "매출 역전과 잇단 상장 예고에 이어 손익까지 공개되며 벤더 안정성이 평가 항목이 됐다.",
+      "title": "AI가 기업 구조를 다시 짠다",
+      "body_ko": "상장 준비와 사업 분할이 겹치며 자본배분 단위가 AI 기준으로 재편됐다.",
       "topics": [
         "ai_industry",
         "llm_models",
@@ -20,11 +20,6 @@
         },
         {
           "date": "2026-08-20",
-          "file": "20260820-anthropic-passes-ope.md",
-          "title": "Anthropic passes OpenAI on revenue for the first time"
-        },
-        {
-          "date": "2026-08-20",
           "file": "20260820-오픈ai-cfo-내년-ipo-추진-앤.md",
           "title": "오픈AI CFO “내년 IPO 추진…앤트로픽보다 늦어도 문제없어”"
         },
@@ -35,19 +30,28 @@
         },
         {
           "date": "2026-08-21",
-          "file": "20260821-앤트로픽-기업-데이터-통제권-강화-이.md",
-          "title": "앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청"
+          "file": "20260821-단독-국민연금-누가-ai거품론을-말했.md",
+          "title": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여"
         },
         {
           "date": "2026-08-21",
-          "file": "20260821-단독-국민연금-누가-ai거품론을-말했.md",
-          "title": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여"
+          "file": "20260821-카카오-두-개로-나뉜다-카카오ai-카.md",
+          "title": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속”"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-카카오-지배구조-개편-카카오ai-x-.md",
+          "title": "[카카오 지배구조 개편] '카카오AI·X'로 인적분할…투트랙 승부수"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260821058251017",
+          "title": ""
         }
       ]
     },
     {
       "title": "AI 확장이 자금과 전력에 묶였다",
-      "body_ko": "연산이 금융 자산으로 구조화되는 사이 전력 확보 일정이 증설의 실질 상한으로 굳었다.",
+      "body_ko": "전력 확보가 증설 상한을 정하는 사이 채권 조달 비용까지 확장 속도를 눌렀다.",
       "topics": [
         "ai_compute_energy",
         "금융회사 AI",
@@ -65,11 +69,6 @@
           "title": "메가프로젝트 전력수요 38GW 더 는다…김성환 “전력은 국가 안보자산”"
         },
         {
-          "date": "2026-08-19",
-          "file": "20260819-nvidia-s-ai-moat-is-.md",
-          "title": "Nvidia's AI moat is shifting from chips to capital"
-        },
-        {
           "date": "2026-08-21",
           "file": "20260821-ai-반도체-전력수요-폭증-2040년.md",
           "title": "AI·반도체 전력수요 폭증…2040년 전망 4개월 만에 대폭 상향"
@@ -83,12 +82,22 @@
           "date": "2026-08-21",
           "file": "20260821-ai-data-center-outra.md",
           "title": "AI data center outrage is showing up everywhere from ads to elections"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-구윤철-취약차주-지원-방안-신속히-마.md",
+          "title": "구윤철 \"취약차주 지원 방안 신속히 마련\""
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-성호전자-ads테크-광통신-낙수효과-.md",
+          "title": "성호전자-ADS테크, 광통신 낙수효과 본격화…장비 수주 확대"
         }
       ]
     },
     {
       "title": "국산 AI가 진영 대결로 굳었다",
-      "body_ko": "연합 소속이 서비스 범위를 정하는 사이 평가 기준의 신뢰 문제가 함께 불거졌다.",
+      "body_ko": "연합 소속이 서비스 범위를 정하는 사이 평가 기준의 신뢰 문제가 다시 불거졌다.",
       "topics": [
         "llm_models",
         "ai_policy",
@@ -116,29 +125,21 @@
           "title": "정부, 독파모 2차 평가 세부 점수 공개…\"투명성 논란 해소\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214172",
-          "title": ""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260820204530",
-          "title": ""
+          "date": "2026-08-21",
+          "file": "20260821-기고-길-잃은-독파모-평가-기준-고쳐.md",
+          "title": "[기고] 길 잃은 독파모 평가 기준, 고쳐야 할 세 가지"
         }
       ]
     },
     {
       "title": "통제가 도입의 선행 조건이 됐다",
-      "body_ko": "감독기관 무장에 이어 데이터 보관 위치와 권한 경계가 계약의 첫 항목으로 올라섰다.",
+      "body_ko": "데이터 보관 위치에 이어 개인 데이터 접근 권한까지 계약의 첫 항목으로 올라섰다.",
       "topics": [
         "ai_policy",
         "ai_agents",
         "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-08-19",
-          "file": "20260819-오픈ai-사이버-보안-위험으로-차세대.md",
-          "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단"
-        },
         {
           "date": "2026-08-20",
           "file": "20260820-금감원-ai로-코인-시세조종-잡는다-.md",
@@ -150,23 +151,25 @@
           "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214137",
-          "title": ""
-        },
-        {
           "date": "2026-08-21",
           "file": "20260821-grok-exfiltrates-use.md",
           "title": "Grok exfiltrates user data when malicious instructions are encrypted"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214176",
-          "title": ""
+          "date": "2026-08-21",
+          "file": "20260821-앤트로픽-기업-데이터-통제권-강화-이.md",
+          "title": "앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-챗gpt-이제-아이메시지도-읽고-보낸.md",
+          "title": "챗GPT, 이제 아이메시지도 읽고 보낸다…시리와 충돌하나"
         }
       ]
     },
     {
       "title": "로봇이 실적으로 평가받기 시작했다",
-      "body_ko": "제조 현장 확산과 생활 공간 계약이 이어지는 한편 수요의 실체를 따지는 시선이 붙었다.",
+      "body_ko": "현장 계약이 늘어나는 만큼 배치 준비도와 수요의 실체를 따지는 시선도 붙었다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -190,18 +193,18 @@
         },
         {
           "date": "2026-08-21",
-          "file": "20260821-china-now-has-its-ow.md",
-          "title": "China now has its own AI circular financing scheme"
-        },
-        {
-          "date": "2026-08-21",
-          "file": "20260821-aws-피지컬-ai-육성-프로그램-실.md",
-          "title": "AWS, 피지컬 AI 육성 프로그램 실시...리얼월드 등 국내 15개사 참여"
-        },
-        {
-          "date": "2026-08-21",
           "file": "20260821-대동-대구공장-제조-ax-전환-트랙터.md",
           "title": "대동, 대구공장 제조 AX 전환…트랙터 연간 3만5천대 생산 목표"
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-인텔-로봇-도입-기대-높지만-전략-마.md",
+          "title": "인텔 \"韓, 로봇 도입 기대 높지만 전략 마련은 미흡\""
+        },
+        {
+          "date": "2026-08-21",
+          "file": "20260821-엔비디아-사로잡은-로보티즈-젠슨-황-.md",
+          "title": "엔비디아 사로잡은 로보티즈…젠슨 황 딸, 베이징 WRC 부스 찾아"
         }
       ]
     }
