@@ -1,0 +1,143 @@
+{
+  "week": "2026-W35",
+  "updated_at": "2026-08-24T08:33:30.784271+09:00",
+  "run_id": "run_20260824_083330",
+  "summary_ko": "AI 비용과 사회적 반발이 동시에 청구서로 돌아온 한 주였다.",
+  "issues": [
+    {
+      "title": "메모리 병목이 만든 원가 인상",
+      "body_ko": "AI 인프라의 실질 제약이 연산에서 메모리와 자금 조달로 이동했다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-memory-shortage-repo.md",
+          "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-메모리-폭등에-엔비디아-서버-최대-1.md",
+          "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-ai-투자-늘자-데이터센터-채권-금리.md",
+          "title": "AI 투자 늘자…美데이터센터 채권 금리 年 7%로 급등"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608247371i",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "앤트로픽 상장과 벤더 실사 기준",
+      "body_ko": "핵심 모델 벤더의 재무와 리스크가 공개 정보가 되며 실사 항목이 늘어난다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-앤트로픽-ipo서-138조-조달-목표.md",
+          "title": "앤트로픽, IPO서 138조 조달 목표…역대 최대 상장 기록 경신 전망"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-anthropic-ipo-filing.md",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-앤트로픽-구글-tpu-주역-영입-자체.md",
+          "title": "앤트로픽, 구글 TPU 주역 영입…자체 AI 칩 개발 가속"
+        }
+      ]
+    },
+    {
+      "title": "금융 업무로 내려온 에이전트",
+      "body_ko": "여신 심사와 문서 처리라는 고위험 업무에 에이전트가 실제로 배치되기 시작했다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-singapore-s-dbs-depl.md",
+          "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-ai가-문서-열고-근거까지-검증-미스.md",
+          "title": "\"AI가 문서 열고 근거까지 검증\"…미스트랄, '에이전틱 서치' 공개"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214266",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671569",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "규제가 강화 쪽으로 방향을 틀다",
+      "body_ko": "선도 사업자가 규제 강화를 요구하며 안전·보안 요건이 계약 조항으로 내려온다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-ai-모델-해킹-사고-때문-오픈ai-.md",
+          "title": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214246",
+          "title": ""
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-에이전트-ai-시대-국가안보-모델-성.md",
+          "title": "에이전트 AI 시대 국가안보…\"모델 성능보다 안정적 운용 중요\""
+        },
+        {
+          "url": "https://the-decoder.com/psychological-methods-reveal-major-weaknesses-in-ai-security-testing/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "카카오 분할로 드러난 실행 비용",
+      "body_ko": "AI 속도를 위한 조직 분리가 노조 반발과 주주 신뢰라는 청구서를 함께 남겼다.",
+      "topics": [
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671455",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671574",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671540",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12133589",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

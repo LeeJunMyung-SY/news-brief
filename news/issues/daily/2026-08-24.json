@@ -1,0 +1,115 @@
+{
+  "date": "2026-08-24",
+  "updated_at": "2026-08-24T08:33:30.784271+09:00",
+  "run_id": "run_20260824_083330",
+  "summary_ko": "메모리발 원가 상승과 금융권 에이전트 실전 배치가 동시에 진행됐다.",
+  "issues": [
+    {
+      "title": "메모리가 AI 원가를 밀어올린다",
+      "summary_ko": "AI 인프라 제약이 연산에서 메모리로 옮겨가며 증설 예산 전제가 바뀌었다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-memory-shortage-repo.md",
+          "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-메모리-폭등에-엔비디아-서버-최대-1.md",
+          "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608247371i",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214245",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융권 에이전트, 심사 업무로",
+      "summary_ko": "규제 대상 판단 업무에까지 에이전트가 들어오며 통제 설계가 과제로 남는다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-singapore-s-dbs-depl.md",
+          "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-ai가-문서-열고-근거까지-검증-미스.md",
+          "title": "\"AI가 문서 열고 근거까지 검증\"…미스트랄, '에이전틱 서치' 공개"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110702/ai-erp-platform-rillet-raises-100m-series-c-at-1bn-valuation?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 단가가 무너지는 구간",
+      "summary_ko": "가격 경쟁과 익명 무상 공세가 겹쳐 장기 조달 계약을 고정할 시점이 아니다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-오픈ai-gpt-5-6-솔-까지-가격.md",
+          "title": "오픈AI, 'GPT-5.6 솔'까지 가격 일시 인하...코덱스 사용자 2천만 돌파"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214263",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214249",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214238",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 반발이 재무 리스크로",
+      "summary_ko": "사회적 수용성이 공시 항목과 노사 협상 테이블로 내려왔다.",
+      "topics": [
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-anthropic-ipo-filing.md",
+          "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-america-s-ai-backlas.md",
+          "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671574",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260823080449",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
