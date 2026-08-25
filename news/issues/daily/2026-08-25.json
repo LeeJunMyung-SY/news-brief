@@ -1,68 +1,40 @@
 {
   "date": "2026-08-25",
-  "updated_at": "2026-08-25T10:21:03.463826+09:00",
-  "run_id": "run_20260825_102103",
-  "summary_ko": "AI가 금융의 운영체계와 인프라 원가 양쪽을 동시에 다시 쓴 하루였다.",
+  "updated_at": "2026-08-25T12:18:28.102117+09:00",
+  "run_id": "run_20260825_121828",
+  "summary_ko": "AI 도입의 관문이 기술에서 표준·전력·인력 제도로 옮겨간 하루다.",
   "issues": [
     {
-      "title": "금융 AI, 운영체계를 다시 짠다",
-      "summary_ko": "도입 대상이 개별 업무에서 조직과 운영체계 전체로 넓어졌다.",
+      "title": "에이전트, 표준과 현장으로",
+      "summary_ko": "경쟁의 앞단이 성능이 아니라 연결 규격으로 이동했다.",
       "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-25",
-          "file": "20260825-금융권-ai로-운영체계까지-다시-짠다.md",
-          "title": "\"금융권, AI로 운영체계까지 다시 짠다\""
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-ai-혁신-이끈다-신한투자증권-ax-.md",
-          "title": "“AI 혁신 이끈다”…신한투자증권, ‘AX 챔피언스데이’ 개최"
-        },
-        {
-          "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-starling-launches-ai.md",
-          "title": "Starling launches AI assistant for business"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671585",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "도입의 대가는 역량 공백",
-      "summary_ko": "자동화 속도만 앞세우면 사람의 판단 역량이 먼저 비어버린다.",
-      "topics": [
-        "금융회사 AI",
+        "ai_agents",
         "ai_policy"
       ],
       "articles": [
         {
           "date": "2026-08-25",
-          "file": "20260825-goldman-sachs-partne.md",
-          "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
+          "file": "20260825-과기정통부-aaif와-협력해-에이전틱.md",
+          "title": "과기정통부, AAIF와 협력해 '에이전틱 AI 국제표준' 선도 추진"
         },
         {
-          "url": "https://www.hankyung.com/article/2026082495741",
+          "date": "2026-08-25",
+          "file": "20260825-한컴-에이전틱-os로-남양유업-ax-.md",
+          "title": "한컴, 에이전틱 OS로 남양유업 AX 돕는다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214321",
           "title": ""
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260824154129",
+          "url": "https://www.etnews.com/20260825000181",
           "title": ""
         }
       ]
     },
     {
-      "title": "모델은 사는 게 아니라 갖는 것",
-      "summary_ko": "차별화의 원천이 모델 성능에서 자사 데이터로 옮겨갔다.",
+      "title": "모델은 갖는 쪽으로",
+      "summary_ko": "조달의 축이 성능 비교에서 데이터 주권과 배치 설계로 옮겨갔다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -79,19 +51,24 @@
           "title": "'페이블 5' 주춤하는 새 오픈AI 기업 시장 맹추격...\"7월부터 성장률 추월\""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671651",
-          "title": ""
+          "date": "2026-08-25",
+          "file": "20260825-ls-모티프테크놀로지스와-제조-현장-.md",
+          "title": "LS, 모티프테크놀로지스와 제조 현장 맞춤형 AI 모델 공동개발"
         },
         {
           "date": "2026-08-25",
-          "file": "20260825-앤트로픽-클로드-챗봇-코딩-서비스-장.md",
-          "title": "앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'"
+          "file": "20260825-인터뷰-클라우드는-사치재-소버린-ai.md",
+          "title": "[인터뷰] \"클라우드는 사치재\"…'소버린 AI' 강조한 클라우데라 CEO, 韓 투자 검토"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608251088i",
+          "title": ""
         }
       ]
     },
     {
-      "title": "청구서가 AI 밖으로 번진다",
-      "summary_ko": "메모리와 전력 병목이 AI와 무관한 예산까지 밀어 올린다.",
+      "title": "청구서가 전력과 저장으로",
+      "summary_ko": "증설의 제약이 자본이 아니라 전력 절차와 저장 원가에 걸렸다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -103,22 +80,53 @@
           "title": "DDR5 이어 DDR4도 오른다...PC 시장 메모리 값 급등"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671605",
-          "title": ""
-        },
-        {
           "date": "2026-08-25",
           "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
           "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671611",
-          "title": ""
+          "date": "2026-08-25",
+          "file": "20260825-정부-삼성-sk-구글-asml과-재생.md",
+          "title": "정부, 삼성·SK·구글·ASML과 재생에너지 조달 해법 논의"
         },
         {
           "date": "2026-08-25",
-          "file": "20260825-gpu-대신-연산까지-수행-삼성-차세.md",
-          "title": "GPU 대신 연산까지 수행…삼성 '차세대 HBM' 공개"
+          "file": "20260825-낸드-리부트-스마트폰-대신-aidc-.md",
+          "title": "[낸드 리부트]①스마트폰 대신 AIDC…성장공식 다시 쓴다"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-ls마린솔루션-초대형-호재-14-서해.md",
+          "title": "LS마린솔루션, 초대형 호재…14兆 서해안 에너지고속도로 예타 면제"
+        },
+        {
+          "url": "https://www.etnews.com/20260825000193",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI, 사람 문제로",
+      "summary_ko": "전환의 병목이 기술 성숙도가 아니라 인재와 노사 합의에 있다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
+          "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
+          "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
+          "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
         }
       ]
     }

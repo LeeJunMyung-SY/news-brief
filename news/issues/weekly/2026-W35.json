@@ -1,8 +1,8 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-25T10:21:03.463826+09:00",
-  "run_id": "run_20260825_102103",
-  "summary_ko": "AI 값이 오르는 속도보다 도입이 조직 깊숙이 내려가는 속도가 빨랐던 한 주다.",
+  "updated_at": "2026-08-25T12:18:28.102117+09:00",
+  "run_id": "run_20260825_121828",
+  "summary_ko": "AI 도입이 조직 깊숙이 내려가는 사이, 병목은 전력과 사람 쪽으로 옮겨간 한 주다.",
   "issues": [
     {
       "title": "증설 청구서가 커진다",
@@ -23,18 +23,9 @@
           "title": "AI 데이터센터 투자, 빅테크가 판 키운다…\"2030년 3조 달러 돌파\""
         },
         {
-          "date": "2026-08-24",
-          "file": "20260824-ai-투자-늘자-데이터센터-채권-금리.md",
-          "title": "AI 투자 늘자…美데이터센터 채권 금리 年 7%로 급등"
-        },
-        {
           "date": "2026-08-25",
           "file": "20260825-ddr5-이어-ddr4도-오른다-pc.md",
           "title": "DDR5 이어 DDR4도 오른다...PC 시장 메모리 값 급등"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671605",
-          "title": ""
         },
         {
           "date": "2026-08-25",
@@ -42,8 +33,19 @@
           "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671611",
-          "title": ""
+          "date": "2026-08-25",
+          "file": "20260825-낸드-리부트-스마트폰-대신-aidc-.md",
+          "title": "[낸드 리부트]①스마트폰 대신 AIDC…성장공식 다시 쓴다"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-정부-삼성-sk-구글-asml과-재생.md",
+          "title": "정부, 삼성·SK·구글·ASML과 재생에너지 조달 해법 논의"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-ls마린솔루션-초대형-호재-14-서해.md",
+          "title": "LS마린솔루션, 초대형 호재…14兆 서해안 에너지고속도로 예타 면제"
         }
       ]
     },
@@ -67,11 +69,6 @@
         },
         {
           "date": "2026-08-24",
-          "file": "20260824-금융연수원-금융인-ai-자격-역량-검.md",
-          "title": "금융연수원, 금융인 AI 자격·역량 검증 시험 10월 17일 실시"
-        },
-        {
-          "date": "2026-08-24",
           "file": "20260824-부산은행-ai로-일하는-방식-바꾼다-.md",
           "title": "부산은행, AI로 일하는 방식 바꾼다…\"업무 생산성 향상\""
         },
@@ -86,15 +83,6 @@
           "title": "“AI 혁신 이끈다”…신한투자증권, ‘AX 챔피언스데이’ 개최"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-starling-launches-ai.md",
-          "title": "Starling launches AI assistant for business"
-        },
-        {
           "date": "2026-08-25",
           "file": "20260825-goldman-sachs-partne.md",
           "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
@@ -103,7 +91,7 @@
     },
     {
       "title": "AX, 기간계 교체 요건으로",
-      "body_ko": "AI 내재화가 신규 서비스가 아니라 시스템 재구축의 발주 조건이 됐다.",
+      "body_ko": "AI 내재화가 신규 서비스가 아니라 시스템 재구축의 발주 조건이 됐고, 연결 규격 표준까지 경쟁 대상이 됐다.",
       "topics": [
         "ai_industry",
         "ai_agents"
@@ -125,22 +113,20 @@
           "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214311",
-          "title": ""
+          "date": "2026-08-25",
+          "file": "20260825-과기정통부-aaif와-협력해-에이전틱.md",
+          "title": "과기정통부, AAIF와 협력해 '에이전틱 AI 국제표준' 선도 추진"
         },
         {
-          "url": "https://www.etnews.com/20260824000347",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671585",
-          "title": ""
+          "date": "2026-08-25",
+          "file": "20260825-한컴-에이전틱-os로-남양유업-ax-.md",
+          "title": "한컴, 에이전틱 OS로 남양유업 AX 돕는다"
         }
       ]
     },
     {
       "title": "모델을 빌릴까 가질까",
-      "body_ko": "차별화의 축이 모델 성능에서 자사 데이터와 개선 순환 속도로 옮겨갔다.",
+      "body_ko": "차별화의 축이 모델 성능에서 자사 데이터와 배치 주권으로 옮겨갔다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -157,11 +143,6 @@
           "title": "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화"
         },
         {
-          "date": "2026-08-24",
-          "file": "20260824-독파모-3차-심사부터-일반-기업도-사.md",
-          "title": "독파모, 3차 심사부터 일반 기업도 사용한다"
-        },
-        {
           "date": "2026-08-25",
           "file": "20260825-thomson-reuters-bets.md",
           "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
@@ -172,14 +153,20 @@
           "title": "'페이블 5' 주춤하는 새 오픈AI 기업 시장 맹추격...\"7월부터 성장률 추월\""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671651",
-          "title": ""
+          "date": "2026-08-25",
+          "file": "20260825-ls-모티프테크놀로지스와-제조-현장-.md",
+          "title": "LS, 모티프테크놀로지스와 제조 현장 맞춤형 AI 모델 공동개발"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-인터뷰-클라우드는-사치재-소버린-ai.md",
+          "title": "[인터뷰] \"클라우드는 사치재\"…'소버린 AI' 강조한 클라우데라 CEO, 韓 투자 검토"
         }
       ]
     },
     {
-      "title": "피지컬 AI, 규모의 문턱을 넘다",
-      "body_ko": "자율주행과 로봇이 시연 단계를 지나 도시 단위 상업 운행으로 올라섰다.",
+      "title": "피지컬 AI, 병목은 사람 쪽",
+      "body_ko": "규모의 문턱은 넘었지만 확산 속도는 인재 확보와 노사 합의가 정한다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -202,8 +189,13 @@
         },
         {
           "date": "2026-08-25",
-          "file": "20260825-이재명-대통령-정의선-이재용-회장-만.md",
-          "title": "이재명 대통령, 정의선·이재용 회장 만날 듯…3대 메가프로젝트 논의"
+          "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
+          "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
+          "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
         }
       ]
     }
