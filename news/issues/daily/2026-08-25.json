@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-25",
+  "updated_at": "2026-08-25T10:21:03.463826+09:00",
+  "run_id": "run_20260825_102103",
+  "summary_ko": "AI가 금융의 운영체계와 인프라 원가 양쪽을 동시에 다시 쓴 하루였다.",
+  "issues": [
+    {
+      "title": "금융 AI, 운영체계를 다시 짠다",
+      "summary_ko": "도입 대상이 개별 업무에서 조직과 운영체계 전체로 넓어졌다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-금융권-ai로-운영체계까지-다시-짠다.md",
+          "title": "\"금융권, AI로 운영체계까지 다시 짠다\""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-ai-혁신-이끈다-신한투자증권-ax-.md",
+          "title": "“AI 혁신 이끈다”…신한투자증권, ‘AX 챔피언스데이’ 개최"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-starling-launches-ai.md",
+          "title": "Starling launches AI assistant for business"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671585",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "도입의 대가는 역량 공백",
+      "summary_ko": "자동화 속도만 앞세우면 사람의 판단 역량이 먼저 비어버린다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-goldman-sachs-partne.md",
+          "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026082495741",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260824154129",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델은 사는 게 아니라 갖는 것",
+      "summary_ko": "차별화의 원천이 모델 성능에서 자사 데이터로 옮겨갔다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-thomson-reuters-bets.md",
+          "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-페이블-5-주춤하는-새-오픈ai-기업.md",
+          "title": "'페이블 5' 주춤하는 새 오픈AI 기업 시장 맹추격...\"7월부터 성장률 추월\""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671651",
+          "title": ""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-앤트로픽-클로드-챗봇-코딩-서비스-장.md",
+          "title": "앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'"
+        }
+      ]
+    },
+    {
+      "title": "청구서가 AI 밖으로 번진다",
+      "summary_ko": "메모리와 전력 병목이 AI와 무관한 예산까지 밀어 올린다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-ddr5-이어-ddr4도-오른다-pc.md",
+          "title": "DDR5 이어 DDR4도 오른다...PC 시장 메모리 값 급등"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671605",
+          "title": ""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
+          "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671611",
+          "title": ""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-gpu-대신-연산까지-수행-삼성-차세.md",
+          "title": "GPU 대신 연산까지 수행…삼성 '차세대 HBM' 공개"
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-24T16:50:39.504666+09:00",
-  "run_id": "run_20260824_165039",
-  "summary_ko": "AI의 값이 커지는 동안 도입은 기간계와 인사 제도까지 내려간 한 주였다.",
+  "updated_at": "2026-08-25T10:21:03.463826+09:00",
+  "run_id": "run_20260825_102103",
+  "summary_ko": "AI 값이 오르는 속도보다 도입이 조직 깊숙이 내려가는 속도가 빨랐던 한 주다.",
   "issues": [
     {
       "title": "증설 청구서가 커진다",
-      "body_ko": "메모리 병목과 조달 비용에 더해 투자 전망 자체가 두 배로 뛰었다.",
+      "body_ko": "조달 부담이 AI 인프라를 넘어 일반 IT 예산과 전력 절차까지 번졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -19,8 +19,8 @@
         },
         {
           "date": "2026-08-24",
-          "file": "20260824-메모리-폭등에-엔비디아-서버-최대-1.md",
-          "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중"
+          "file": "20260824-ai-데이터센터-투자-빅테크가-판-키.md",
+          "title": "AI 데이터센터 투자, 빅테크가 판 키운다…\"2030년 3조 달러 돌파\""
         },
         {
           "date": "2026-08-24",
@@ -28,54 +28,28 @@
           "title": "AI 투자 늘자…美데이터센터 채권 금리 年 7%로 급등"
         },
         {
-          "date": "2026-08-24",
-          "file": "20260824-ai는-지금-알리바바-ai에-올인-1.md",
-          "title": "[AI는 지금] 알리바바, AI에 '올인'…102억 달러 증자에 '빅쇼트' 버리도 외면"
+          "date": "2026-08-25",
+          "file": "20260825-ddr5-이어-ddr4도-오른다-pc.md",
+          "title": "DDR5 이어 DDR4도 오른다...PC 시장 메모리 값 급등"
         },
         {
-          "date": "2026-08-24",
-          "file": "20260824-ai-데이터센터-투자-빅테크가-판-키.md",
-          "title": "AI 데이터센터 투자, 빅테크가 판 키운다…\"2030년 3조 달러 돌파\""
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671605",
+          "title": ""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671476",
+          "date": "2026-08-25",
+          "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
+          "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671611",
           "title": ""
         }
       ]
     },
     {
-      "title": "유통·응용 계층 인수전",
-      "body_ko": "모델을 배포·중개하는 통로에 이어 응용 기술까지 자본이 사들인다.",
-      "topics": [
-        "ai_industry",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-24",
-          "file": "20260824-허깅페이스-18조-매각-추진-빅테크-.md",
-          "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-스트라이프-ai-모델-허브-오픈라우터.md",
-          "title": "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-엔비디아-중국-오픈-모델-독주-막는다.md",
-          "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 개발로 전면전"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-엔비디아-ai-스타트업-풀사이드와-6.md",
-          "title": "엔비디아, AI 스타트업 풀사이드와 60억달러 라이선스 계약"
-        }
-      ]
-    },
-    {
-      "title": "금융 업무·조직으로 내려온 AI",
-      "body_ko": "실제 업무에 배치되는 데 그치지 않고 인력 제도와 확산 조직으로 편입됐다.",
+      "title": "금융 AI, 조직과 제도로",
+      "body_ko": "도입 지점이 창구와 시스템을 지나 임원 직제와 인력 제도까지 내려왔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -84,12 +58,7 @@
         {
           "date": "2026-08-24",
           "file": "20260824-singapore-s-dbs-depl.md",
-          "title": "Singapore’s DBS deploys specialist AI agents for 1,500 employees"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-ai가-문서-열고-근거까지-검증-미스.md",
-          "title": "\"AI가 문서 열고 근거까지 검증\"…미스트랄, '에이전틱 서치' 공개"
+          "title": "Singapore's DBS deploys specialist AI agents for 1,500 employees"
         },
         {
           "date": "2026-08-24",
@@ -105,12 +74,36 @@
           "date": "2026-08-24",
           "file": "20260824-부산은행-ai로-일하는-방식-바꾼다-.md",
           "title": "부산은행, AI로 일하는 방식 바꾼다…\"업무 생산성 향상\""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-금융권-ai로-운영체계까지-다시-짠다.md",
+          "title": "\"금융권, AI로 운영체계까지 다시 짠다\""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-ai-혁신-이끈다-신한투자증권-ax-.md",
+          "title": "“AI 혁신 이끈다”…신한투자증권, ‘AX 챔피언스데이’ 개최"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48289/adib-appoints-first-chief-ai-officer?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-starling-launches-ai.md",
+          "title": "Starling launches AI assistant for business"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-goldman-sachs-partne.md",
+          "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
         }
       ]
     },
     {
       "title": "AX, 기간계 교체 요건으로",
-      "body_ko": "AI 내재화가 신규 서비스가 아니라 기존 시스템 재구축의 발주 조건이 됐다.",
+      "body_ko": "AI 내재화가 신규 서비스가 아니라 시스템 재구축의 발주 조건이 됐다.",
       "topics": [
         "ai_industry",
         "ai_agents"
@@ -119,7 +112,7 @@
         {
           "date": "2026-08-24",
           "file": "20260824-kt-next-it-추진-ax-플랫폼.md",
-          "title": "KT, ‘Next IT’ 추진…AX 플랫폼 컴퍼니로 한 걸음 더"
+          "title": "KT, 'Next IT' 추진…AX 플랫폼 컴퍼니로 한 걸음 더"
         },
         {
           "date": "2026-08-24",
@@ -132,28 +125,85 @@
           "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260824141528",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214311",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260824000347",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671585",
           "title": ""
         }
       ]
     },
     {
-      "title": "국산 모델, 실사용 검증대에",
-      "body_ko": "국가 모델 평가가 성능을 넘어 사용성과 현장 적용성을 묻는 단계로 넘어간다.",
+      "title": "모델을 빌릴까 가질까",
+      "body_ko": "차별화의 축이 모델 성능에서 자사 데이터와 개선 순환 속도로 옮겨갔다.",
       "topics": [
         "llm_models",
-        "ai_policy"
+        "ai_industry"
       ],
       "articles": [
+        {
+          "date": "2026-08-24",
+          "file": "20260824-허깅페이스-18조-매각-추진-빅테크-.md",
+          "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-스트라이프-ai-모델-허브-오픈라우터.md",
+          "title": "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화"
+        },
         {
           "date": "2026-08-24",
           "file": "20260824-독파모-3차-심사부터-일반-기업도-사.md",
           "title": "독파모, 3차 심사부터 일반 기업도 사용한다"
         },
         {
-          "date": "2026-08-24",
-          "file": "20260824-독파모-최종전-실행력-본다-평가기준-.md",
-          "title": "독파모 최종전 '실행력' 본다…평가기준·투명성 과제로"
+          "date": "2026-08-25",
+          "file": "20260825-thomson-reuters-bets.md",
+          "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-페이블-5-주춤하는-새-오픈ai-기업.md",
+          "title": "'페이블 5' 주춤하는 새 오픈AI 기업 시장 맹추격...\"7월부터 성장률 추월\""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671651",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI, 규모의 문턱을 넘다",
+      "body_ko": "자율주행과 로봇이 시연 단계를 지나 도시 단위 상업 운행으로 올라섰다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
+          "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-롯데이노베이트-자율주행-셔틀-확대-운.md",
+          "title": "롯데이노베이트, 자율주행 셔틀 확대 운영"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-8월24일-중국-로봇-1년-만에-10.md",
+          "title": "[8월24일] 중국 로봇, 1년 만에 100m 기록 절반 단축…“두뇌는 'GPT-2' 수준”"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-이재명-대통령-정의선-이재용-회장-만.md",
+          "title": "이재명 대통령, 정의선·이재용 회장 만날 듯…3대 메가프로젝트 논의"
         }
       ]
     }
