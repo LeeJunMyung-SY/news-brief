@@ -1,12 +1,12 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-25T16:23:30.506041+09:00",
-  "run_id": "run_20260825_162330",
-  "summary_ko": "AI가 조직 안으로 내려가는 사이, 관문은 전력·제도·사람 쪽으로 옮겨간 한 주다.",
+  "updated_at": "2026-08-26T08:26:24.388204+09:00",
+  "run_id": "run_20260826_082624",
+  "summary_ko": "AI 비용과 권한이 동시에 커지며, 기업이 무엇을 직접 갖출지 고르는 한 주다.",
   "issues": [
     {
-      "title": "증설 청구서가 번져간다",
-      "body_ko": "조달 부담이 데이터센터를 넘어 소비자 제품 가격과 기업 신용까지 밀고 들어왔다.",
+      "title": "청구서에서 자립으로",
+      "body_ko": "증설 부담이 소비자 가격까지 번지자 연산을 직접 갖추려는 시도가 본격화됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -16,36 +16,6 @@
           "date": "2026-08-24",
           "file": "20260824-memory-shortage-repo.md",
           "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-ai-데이터센터-투자-빅테크가-판-키.md",
-          "title": "AI 데이터센터 투자, 빅테크가 판 키운다…\"2030년 3조 달러 돌파\""
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-ddr5-이어-ddr4도-오른다-pc.md",
-          "title": "DDR5 이어 DDR4도 오른다...PC 시장 메모리 값 급등"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-낸드-리부트-스마트폰-대신-aidc-.md",
-          "title": "[낸드 리부트]①스마트폰 대신 AIDC…성장공식 다시 쓴다"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
-          "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-정부-삼성-sk-구글-asml과-재생.md",
-          "title": "정부, 삼성·SK·구글·ASML과 재생에너지 조달 해법 논의"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-사라지는-저가폰-칩플레이션-에-무너지.md",
-          "title": "[사라지는 저가폰]① '칩플레이션'에 무너지는 보급형 스마트폰 시장"
         },
         {
           "date": "2026-08-25",
@@ -59,14 +29,34 @@
         },
         {
           "date": "2026-08-25",
-          "file": "20260825-sgc에이아이인프라-군산-1호-ai-.md",
-          "title": "SGC에이아이인프라, '군산 1호' AI 데이터센터 설립한다"
+          "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
+          "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-openai-s-jalape-o-ch.md",
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-삼성-pc-스마트폰-d램에도-ai-연.md",
+          "title": "삼성, PC·스마트폰 D램에도 AI 연산 심는다…LPDDR5X-PIM 공개"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ai-데이터센터-1gw에-전력망-비용.md",
+          "title": "AI 데이터센터 1GW에 전력망 비용만 15억달러…빅테크 '전기료 폭탄' 온다"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-디에스앤지-네이버클라우드에-엔비디아-.md",
+          "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약"
         }
       ]
     },
     {
-      "title": "금융 AI, 제도가 권한을 열었다",
-      "body_ko": "도입 지점이 조직 개편을 지나 에이전트의 거래 실행 권한까지 내려왔다.",
+      "title": "금융 AI가 거래를 집행한다",
+      "body_ko": "제도가 권한을 연 데 이어 실제 주문 집행까지 외부 에이전트에 열렸다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -74,14 +64,14 @@
       ],
       "articles": [
         {
-          "date": "2026-08-24",
-          "file": "20260824-singapore-s-dbs-depl.md",
-          "title": "Singapore's DBS deploys specialist AI agents for 1,500 employees"
+          "date": "2026-08-25",
+          "file": "20260825-금융위-개인사업자-마이데이터-도입-a.md",
+          "title": "금융위, 개인사업자 마이데이터 도입…AI가 금리인하·정책자금 신청까지"
         },
         {
           "date": "2026-08-24",
-          "file": "20260824-nh농협은행-100개-영업점에-ai-.md",
-          "title": "NH농협은행, 100개 영업점에 AI 스마트패드 시범 도입"
+          "file": "20260824-singapore-s-dbs-depl.md",
+          "title": "Singapore's DBS deploys specialist AI agents for 1,500 employees"
         },
         {
           "date": "2026-08-25",
@@ -89,73 +79,30 @@
           "title": "\"금융권, AI로 운영체계까지 다시 짠다\""
         },
         {
-          "date": "2026-08-25",
-          "file": "20260825-ai-혁신-이끈다-신한투자증권-ax-.md",
-          "title": "“AI 혁신 이끈다”…신한투자증권, ‘AX 챔피언스데이’ 개최"
+          "date": "2026-08-26",
+          "file": "20260826-scalable-capital-ope.md",
+          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
         },
         {
-          "date": "2026-08-25",
-          "file": "20260825-goldman-sachs-partne.md",
-          "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills"
+          "date": "2026-08-26",
+          "file": "20260826-google-cloud-launche.md",
+          "title": "Google Cloud launches AI platform for financial professionals"
         },
         {
-          "date": "2026-08-25",
-          "file": "20260825-금융위-개인사업자-마이데이터-도입-a.md",
-          "title": "금융위, 개인사업자 마이데이터 도입…AI가 금리인하·정책자금 신청까지"
+          "date": "2026-08-26",
+          "file": "20260826-펀드관리회사가-ai-솔루션-판다-신한.md",
+          "title": "펀드관리회사가 AI 솔루션 판다…신한펀드파트너스의 변신"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260825140356",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "AX가 기간계 발주 요건으로",
-      "body_ko": "AI 내재화가 신규 서비스가 아니라 시스템 재구축과 표준 선점의 조건이 됐다.",
-      "topics": [
-        "ai_industry",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-24",
-          "file": "20260824-kt-next-it-추진-ax-플랫폼.md",
-          "title": "KT, 'Next IT' 추진…AX 플랫폼 컴퍼니로 한 걸음 더"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-gs-itm-전국-14개-공항-상업시.md",
-          "title": "GS ITM, 전국 14개 공항 상업시설 시스템 바꾼다…AI·데이터 중심 전환"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-sk인텔릭스-ai-고객센터-구축한다-.md",
-          "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-과기정통부-aaif와-협력해-에이전틱.md",
-          "title": "과기정통부, AAIF와 협력해 '에이전틱 AI 국제표준' 선도 추진"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-한컴-에이전틱-os로-남양유업-ax-.md",
-          "title": "한컴, 에이전틱 OS로 남양유업 AX 돕는다"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260825123510",
-          "title": ""
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-정부-ai-민원서포터-전국-확산-민원.md",
-          "title": "정부, 'AI 민원서포터' 전국 확산…“민원 처리서 해결 중심으로”"
+          "date": "2026-08-26",
+          "file": "20260826-more-than-three-in-f.md",
+          "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds"
         }
       ]
     },
     {
       "title": "모델을 빌릴까 가질까",
-      "body_ko": "선택의 기준이 성능 비교에서 확보 가능성과 데이터 주권으로 옮겨갔다.",
+      "body_ko": "선택 기준이 성능 비교에서 확보 가능성과 데이터 주권으로 굳어졌다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -163,29 +110,9 @@
       ],
       "articles": [
         {
-          "date": "2026-08-24",
-          "file": "20260824-허깅페이스-18조-매각-추진-빅테크-.md",
-          "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나"
-        },
-        {
-          "date": "2026-08-24",
-          "file": "20260824-스트라이프-ai-모델-허브-오픈라우터.md",
-          "title": "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화"
-        },
-        {
           "date": "2026-08-25",
           "file": "20260825-thomson-reuters-bets.md",
           "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-ls-모티프테크놀로지스와-제조-현장-.md",
-          "title": "LS, 모티프테크놀로지스와 제조 현장 맞춤형 AI 모델 공동개발"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-인터뷰-클라우드는-사치재-소버린-ai.md",
-          "title": "[인터뷰] \"클라우드는 사치재\"…'소버린 AI' 강조한 클라우데라 CEO, 韓 투자 검토"
         },
         {
           "date": "2026-08-25",
@@ -193,15 +120,73 @@
           "title": "배경훈 \"AI 모델은 국가 안보\"…독자 AI 글로벌 톱티어 도전"
         },
         {
-          "date": "2026-08-25",
-          "file": "20260825-영국-우크라이나-전장-ai-빅데이터-.md",
-          "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수"
+          "date": "2026-08-24",
+          "file": "20260824-허깅페이스-18조-매각-추진-빅테크-.md",
+          "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-revolut-launches-ded.md",
+          "title": "Revolut launches dedicated AI research lab built on its own foundation model"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-미스트랄-중동-소버린-ai-시장-공략.md",
+          "title": "미스트랄, '중동 소버린 AI' 시장 공략…휴메인 맞손"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214355",
+          "title": ""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-apple-announces-new-.md",
+          "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades"
         }
       ]
     },
     {
-      "title": "피지컬 AI, 자본은 붙고 병목은 사람",
-      "body_ko": "조달 규모와 기술 노선은 정해졌지만 확산 속도는 인재와 노사 합의가 정한다.",
+      "title": "에이전트 운용이 비용·책임 문제로",
+      "body_ko": "상시 작동하는 에이전트가 늘면서 관리 대상이 성능에서 비용과 사고로 옮겨갔다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-과기정통부-aaif와-협력해-에이전틱.md",
+          "title": "과기정통부, AAIF와 협력해 '에이전틱 AI 국제표준' 선도 추진"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-sk인텔릭스-ai-고객센터-구축한다-.md",
+          "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671719",
+          "title": ""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-alabama-ag-probes-op.md",
+          "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
+        },
+        {
+          "url": "https://www.etnews.com/20260825000383",
+          "title": ""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-google-launches-gemi.md",
+          "title": "Google launches Gemini for legal work to automate contracts and research"
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI, 자본 다음은 제도",
+      "body_ko": "자금과 기술 노선이 정해진 뒤 표준·인재·노사 합의가 확산 속도를 쥐었다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -209,18 +194,8 @@
       "articles": [
         {
           "date": "2026-08-25",
-          "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
-          "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-롯데이노베이트-자율주행-셔틀-확대-운.md",
-          "title": "롯데이노베이트, 자율주행 셔틀 확대 운영"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-8월24일-중국-로봇-1년-만에-10.md",
-          "title": "[8월24일] 중국 로봇, 1년 만에 100m 기록 절반 단축…“두뇌는 'GPT-2' 수준”"
+          "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
+          "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
         },
         {
           "date": "2026-08-25",
@@ -229,18 +204,22 @@
         },
         {
           "date": "2026-08-25",
-          "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
-          "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
-          "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
-        },
-        {
-          "date": "2026-08-25",
           "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
           "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-피지컬-ai-주도권-잡는다-기술-자립.md",
+          "title": "\"피지컬 AI 주도권 잡는다\"…韓, 기술 자립 승부수"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-한국피지컬ai협회-기술-국산화-넘어-.md",
+          "title": "한국피지컬AI협회, 기술 국산화 넘어 생태계 조성 본격화"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260825171004",
+          "title": ""
         }
       ]
     }
