@@ -1,23 +1,18 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-26T16:25:55.223376+09:00",
-  "run_id": "run_20260826_162555",
-  "summary_ko": "AI의 원가와 권한이 커지며 제도가 확산 속도를 쥐는 한 주다.",
+  "updated_at": "2026-08-27T08:23:45.265644+09:00",
+  "run_id": "run_20260827_082345",
+  "summary_ko": "연산과 권한이 함께 커지자 제도와 현장이 동시에 속도를 조절하기 시작한 한 주다.",
   "issues": [
     {
       "title": "연산 원가, 제도가 정한다",
-      "body_ko": "증설 부담이 전력망과 세제 논의로 옮겨가며 국내에 둘지 빌릴지가 제도에 달렸다.",
+      "body_ko": "수요는 공급을 넘어섰고, 국내에 둘지 빌릴지는 전력 요금과 세제가 가른다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-24",
-          "file": "20260824-memory-shortage-repo.md",
-          "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent"
-        },
         {
           "date": "2026-08-25",
           "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
@@ -30,16 +25,6 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-aidc-골든타임-놓치면-투자-해외로.md",
-          "title": "\"AIDC 골든타임 놓치면 투자 해외로 샌다\""
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-lg-cns-고양-삼송데이터센터에-액.md",
-          "title": "LG CNS, 고양 삼송데이터센터에 '액체냉각' 인프라 구축"
-        },
-        {
-          "date": "2026-08-26",
           "file": "20260826-지능-생산해-외부에-파는데-aidc-.md",
           "title": "\"지능 생산해 외부에 파는데\"…AIDC 세액공제 ‘자가사용’ 딜레마"
         },
@@ -49,25 +34,105 @@
           "title": "2040년 220GW e에너지 빅뱅 전략…15년간 6배 늘린다"
         },
         {
-          "date": "2026-08-26",
-          "file": "20260826-삼성-sk-hbm4-8단-출하-비중-.md",
-          "title": "삼성·SK, HBM4 8단 출하 비중 늘린다…엔비디아 공급망 변화 예고"
+          "date": "2026-08-24",
+          "file": "20260824-memory-shortage-repo.md",
+          "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671839",
+          "date": "2026-08-27",
+          "file": "20260827-nvidia-forecasts-fis.md",
+          "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-openai-s-jalape-o-ai.md",
+          "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
+          "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-anthropic-continues-.md",
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 권한 앞에서 멈췄다",
+      "body_ko": "결제와 집행까지 내려갔던 위임이 사고와 조사로 이어지며 통제 설계가 선결 조건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-26",
+          "file": "20260826-alabama-ag-probes-op.md",
+          "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ai가-상담부터-결제-분실신고까지-유.md",
+          "title": "AI가 상담부터 결제·분실신고까지…유베이스, AI 에이전트 상용화 속도"
+        },
+        {
+          "date": "2026-08-25",
+          "file": "20260825-과기정통부-aaif와-협력해-에이전틱.md",
+          "title": "과기정통부, AAIF와 협력해 '에이전틱 AI 국제표준' 선도 추진"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-sk-ax-sap-기술-검증부터-사업.md",
+          "title": "SK AX-SAP, 기술 검증부터 사업화까지 AI에이전트 협력 강화"
+        },
+        {
+          "date": "2026-08-24",
+          "file": "20260824-sk인텔릭스-ai-고객센터-구축한다-.md",
+          "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-employee-revolt-and-.md",
+          "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-the-inside-story-on-.md",
+          "title": "The inside story on why OpenAI agents hacked Hugging Face"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214391",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
           "title": ""
         }
       ]
     },
     {
       "title": "금융이 AI를 사고 또 판다",
-      "body_ko": "AI를 업무에 들이는 데 그치지 않고 인프라와 고객 데이터까지 사업 자산으로 다룬다.",
+      "body_ko": "업무 도입을 넘어 고객 접점과 플랫폼 자체를 사업 자산으로 다루기 시작했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
         "ai_industry"
       ],
       "articles": [
+        {
+          "date": "2026-08-26",
+          "file": "20260826-scalable-capital-ope.md",
+          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-flanks-joins-with-pe.md",
+          "title": "Flanks joins with Perplexity to power AI-driven wealth management with data aggregation"
+        },
         {
           "date": "2026-08-25",
           "file": "20260825-금융위-개인사업자-마이데이터-도입-a.md",
@@ -80,39 +145,34 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-scalable-capital-ope.md",
-          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-한투증권-군산-ai-데이터센터-구축-.md",
-          "title": "한투증권, 군산 AI 데이터센터 구축 사업서 금융 주관사 맡아"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-우리은행-기보-반도체-ai-기업에-1.md",
-          "title": "우리은행·기보, 반도체·AI 기업에 1조 공급"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-flanks-joins-with-pe.md",
-          "title": "Flanks joins with Perplexity to power AI-driven wealth management with data aggregation"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-페이업-라인넥스트-스테이블코인-결제-.md",
-          "title": "페이업-라인넥스트, 스테이블코인 결제 솔루션 ‘유니파이 페이’ 손잡아"
-        },
-        {
-          "date": "2026-08-26",
           "file": "20260826-ga-보안-역량-강화-보험사-ga-정.md",
           "title": "\"GA 보안 역량 강화\"…'보험사-GA 정보보안 협의체' 발족"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-vanguard-to-acquire-.md",
+          "title": "Vanguard to acquire Altruist"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-young-british-invest.md",
+          "title": "Young British investors trust AI more than TV or celebs"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-goldman-sachs-partne.md",
+          "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-박현주-디지털엑스-중심-디지털자산-1.md",
+          "title": "박현주 “디지털엑스 중심 디지털자산 150조로…2027년 흑자 목표”"
         }
       ]
     },
     {
       "title": "모델을 빌릴까 가질까",
-      "body_ko": "국산 모델의 지표 진입으로 확보 가능성과 데이터 주권이 선택 기준으로 굳어졌다.",
+      "body_ko": "오픈 모델 단가가 내려가고 도메인 특화 국산 모델이 국책으로 추진되며 선택지가 넓어졌다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -131,11 +191,6 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-revolut-launches-ded.md",
-          "title": "Revolut launches dedicated AI research lab built on its own foundation model"
-        },
-        {
-          "date": "2026-08-26",
           "file": "20260826-미스트랄-중동-소버린-ai-시장-공략.md",
           "title": "미스트랄, '중동 소버린 AI' 시장 공략…휴메인 맞손"
         },
@@ -146,88 +201,43 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-일론-머스크-ceo-그록-시장서-뒤처.md",
-          "title": "일론 머스크 CEO \"그록, 시장서 뒤처져…앤트로픽이 선두\""
+          "file": "20260826-revolut-launches-ded.md",
+          "title": "Revolut launches dedicated AI research lab built on its own foundation model"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260826112046",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "에이전트가 업무를 끝낸다",
-      "body_ko": "적용 지점이 응대에서 결제·집행으로 내려오며 권한 설계가 도입 속도를 정한다.",
-      "topics": [
-        "ai_agents",
-        "ai_policy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-25",
-          "file": "20260825-과기정통부-aaif와-협력해-에이전틱.md",
-          "title": "과기정통부, AAIF와 협력해 '에이전틱 AI 국제표준' 선도 추진"
+          "date": "2026-08-27",
+          "file": "20260827-alibaba-releases-qwe.md",
+          "title": "Alibaba releases Qwen3.8-Flash-Next, targeting \"ultimate cost efficiency\""
         },
         {
-          "date": "2026-08-24",
-          "file": "20260824-sk인텔릭스-ai-고객센터-구축한다-.md",
-          "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
+          "date": "2026-08-27",
+          "file": "20260827-ibm-drops-open-weigh.md",
+          "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0"
         },
         {
-          "date": "2026-08-26",
-          "file": "20260826-alabama-ag-probes-op.md",
-          "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
+          "date": "2026-08-27",
+          "file": "20260827-chinese-moonshot-ai-.md",
+          "title": "Chinese Moonshot AI negotiates hosting deals with Microsoft, Amazon, and Google"
         },
         {
-          "date": "2026-08-26",
-          "file": "20260826-sk-ax-sap-기술-검증부터-사업.md",
-          "title": "SK AX-SAP, 기술 검증부터 사업화까지 AI에이전트 협력 강화"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-조달청-기술평가에-ai-투입-우수제품.md",
-          "title": "조달청, 기술평가에 AI 투입…우수제품·협상계약 대상 실증 착수"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-ai가-상담부터-결제-분실신고까지-유.md",
-          "title": "AI가 상담부터 결제·분실신고까지…유베이스, AI 에이전트 상용화 속도"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-스타링크-고객센터-전화-상담원-사람-.md",
-          "title": "스타링크 고객센터 전화 상담원 사람 아니다…그록이 하루 1만 5000통 처리"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-사이트-이지혁-블럭스-대표-자율집행-.md",
-          "title": "[人사이트] 이지혁 블럭스 대표 “자율집행 AI 에이전트로 CRM 마케팅 문법 바꾼다”"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-ai는-지금-법률-업무-파고드는-빅테.md",
-          "title": "[AI는 지금] 법률 업무 파고드는 빅테크…리걸 AI 경쟁 승부처는 '업무 연동'"
+          "date": "2026-08-27",
+          "file": "20260827-정부-보안-특화-ai-사업-본격-추진.md",
+          "title": "정부, '보안 특화 AI' 사업 본격 추진…SKT·네이버클라우드 2파전"
         }
       ]
     },
     {
       "title": "피지컬 AI, 관문은 데이터",
-      "body_ko": "자금과 노선이 정해진 뒤 현장 데이터 확보 경로가 확산 속도를 쥐었다.",
+      "body_ko": "제조 기업이 AI 전환을 설비 투자 계획으로 확정하며 데이터 확보 경로를 먼저 잡고 있다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
       ],
       "articles": [
         {
-          "date": "2026-08-25",
-          "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
-          "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
-          "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
+          "date": "2026-08-26",
+          "file": "20260826-fsd-온로드-사이버캡-투입-임박-현.md",
+          "title": "[FSD 온로드] 사이버캡 투입 임박…현대차는 ‘데이터’ 승부"
         },
         {
           "date": "2026-08-26",
@@ -240,14 +250,34 @@
           "title": "Robotics startup Generalist reaches $3B valuation, sources say"
         },
         {
-          "date": "2026-08-26",
-          "file": "20260826-fsd-온로드-사이버캡-투입-임박-현.md",
-          "title": "[FSD 온로드] 사이버캡 투입 임박…현대차는 ‘데이터’ 승부"
+          "date": "2026-08-25",
+          "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
+          "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
         },
         {
           "date": "2026-08-26",
           "file": "20260826-삼성디스플레이-공장에-쌓인-코드-더미.md",
           "title": "삼성디스플레이 공장에 쌓인 코드 더미, 마키나락스 AI가 정리한다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+          "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-현대차-sdv-더는-안-미뤄-2028.md",
+          "title": "현대차 \"SDV 더는 안 미뤄…2028년 초 출시\""
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-웨이모-뮌헨서-자율주행차-테스트-시작.md",
+          "title": "웨이모, 뮌헨서 자율주행차 테스트 시작...2027년 EU 첫 로보택시 상용화 목표"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ex-meta-scientists-w.md",
+          "title": "Ex-Meta scientists want to bring visual AI to the factory floor"
         }
       ]
     }

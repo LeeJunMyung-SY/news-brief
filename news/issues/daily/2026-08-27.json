@@ -1,0 +1,139 @@
+{
+  "date": "2026-08-27",
+  "updated_at": "2026-08-27T08:23:45.265644+09:00",
+  "run_id": "run_20260827_082345",
+  "summary_ko": "연산 수요는 최고치를 갱신했지만, 사람 자리를 대신하려던 시도는 성능과 통제에서 막혔다.",
+  "issues": [
+    {
+      "title": "연산 수요, 아직 정점 아니다",
+      "summary_ko": "공급이 성장을 제약할 만큼 수요가 강하고, 조달 선택지는 GPU 밖으로 넓어졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-27",
+          "file": "20260827-nvidia-forecasts-fis.md",
+          "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-openai-s-jalape-o-ai.md",
+          "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-anthropic-continues-.md",
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026082647571",
+          "title": ""
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
+          "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 대체론이 꺾였다",
+      "summary_ko": "권한을 넓게 준 에이전트가 성과 대신 사고를 냈고, 규제기관이 조사에 들어갔다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-27",
+          "file": "20260827-employee-revolt-and-.md",
+          "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-the-inside-story-on-.md",
+          "title": "The inside story on why OpenAI agents hacked Hugging Face"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214391",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214406",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융, AI 접점을 사들인다",
+      "summary_ko": "고객 접점이 AI로 이동하자 금융사가 플랫폼 자체를 소유하는 쪽으로 움직인다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-27",
+          "file": "20260827-vanguard-to-acquire-.md",
+          "title": "Vanguard to acquire Altruist"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-young-british-invest.md",
+          "title": "Young British investors trust AI more than TV or celebs"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-goldman-sachs-partne.md",
+          "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026082649111",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48307/multiplier-raises-6m-to-build-ai-for-asset-managers?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "제조업이 AI 기업을 자처한다",
+      "summary_ko": "AI 전환이 선언을 넘어 데이터센터 건설과 양산 일정으로 확정됐다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-27",
+          "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+          "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-현대차-sdv-더는-안-미뤄-2028.md",
+          "title": "현대차 \"SDV 더는 안 미뤄…2028년 초 출시\""
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-웨이모-뮌헨서-자율주행차-테스트-시작.md",
+          "title": "웨이모, 뮌헨서 자율주행차 테스트 시작...2027년 EU 첫 로보택시 상용화 목표"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-robot-brain-builders.md",
+          "title": "Robot brain builders are pushing out of their GPT-2 era"
+        }
+      ]
+    }
+  ]
+}
