@@ -1,8 +1,8 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-26T08:26:24.388204+09:00",
-  "run_id": "run_20260826_082624",
-  "summary_ko": "AI 비용과 권한이 동시에 커지며, 기업이 무엇을 직접 갖출지 고르는 한 주다.",
+  "updated_at": "2026-08-26T12:23:21.028950+09:00",
+  "run_id": "run_20260826_122321",
+  "summary_ko": "AI 비용과 권한이 함께 커지며, 기업이 무엇을 직접 갖출지 고르는 한 주다.",
   "issues": [
     {
       "title": "청구서에서 자립으로",
@@ -24,23 +24,13 @@
         },
         {
           "date": "2026-08-25",
-          "file": "20260825-브로드컴-ai-관련-대규모-자금조달에.md",
-          "title": "브로드컴, AI 관련 대규모 자금조달에 신용위험 급등"
-        },
-        {
-          "date": "2026-08-25",
           "file": "20260825-노후원전-10기-중-연장-승인-1기뿐.md",
           "title": "노후원전 10기 중 연장 승인 1기뿐… 30GW 전력수급 어쩌나"
         },
         {
           "date": "2026-08-26",
           "file": "20260826-openai-s-jalape-o-ch.md",
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-삼성-pc-스마트폰-d램에도-ai-연.md",
-          "title": "삼성, PC·스마트폰 D램에도 AI 연산 심는다…LPDDR5X-PIM 공개"
+          "title": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show"
         },
         {
           "date": "2026-08-26",
@@ -49,18 +39,32 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-디에스앤지-네이버클라우드에-엔비디아-.md",
-          "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약"
+          "file": "20260826-lg-cns-고양-삼송데이터센터에-액.md",
+          "title": "LG CNS, 고양 삼송데이터센터에 '액체냉각' 인프라 구축"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-aidc-골든타임-놓치면-투자-해외로.md",
+          "title": "\"AIDC 골든타임 놓치면 투자 해외로 샌다\""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ai픽-리벨리온-영국-소버린-ai-진.md",
+          "title": "[AI픽] 리벨리온, 영국 소버린 AI 진출…NPU 랙 100대 공급 추진"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671833",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI가 거래를 집행한다",
-      "body_ko": "제도가 권한을 연 데 이어 실제 주문 집행까지 외부 에이전트에 열렸다.",
+      "title": "금융이 AI를 사고 또 판다",
+      "body_ko": "AI를 업무에 들이는 데 그치지 않고 인프라 자체를 투자·여신 자산으로 다루기 시작했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_policy"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -74,19 +78,9 @@
           "title": "Singapore's DBS deploys specialist AI agents for 1,500 employees"
         },
         {
-          "date": "2026-08-25",
-          "file": "20260825-금융권-ai로-운영체계까지-다시-짠다.md",
-          "title": "\"금융권, AI로 운영체계까지 다시 짠다\""
-        },
-        {
           "date": "2026-08-26",
           "file": "20260826-scalable-capital-ope.md",
           "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-google-cloud-launche.md",
-          "title": "Google Cloud launches AI platform for financial professionals"
         },
         {
           "date": "2026-08-26",
@@ -97,6 +91,16 @@
           "date": "2026-08-26",
           "file": "20260826-more-than-three-in-f.md",
           "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-한투증권-군산-ai-데이터센터-구축-.md",
+          "title": "한투증권, 군산 AI 데이터센터 구축 사업서 금융 주관사 맡아"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-우리은행-기보-반도체-ai-기업에-1.md",
+          "title": "우리은행·기보, 반도체·AI 기업에 1조 공급"
         }
       ]
     },
@@ -135,19 +139,15 @@
           "title": "미스트랄, '중동 소버린 AI' 시장 공략…휴메인 맞손"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214355",
-          "title": ""
-        },
-        {
           "date": "2026-08-26",
-          "file": "20260826-apple-announces-new-.md",
-          "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades"
+          "file": "20260826-뤼튼-1000억-시리즈-c-투자-유치.md",
+          "title": "뤼튼, 1000억 시리즈 C 투자 유치...기업 가치 1조 돌파"
         }
       ]
     },
     {
-      "title": "에이전트 운용이 비용·책임 문제로",
-      "body_ko": "상시 작동하는 에이전트가 늘면서 관리 대상이 성능에서 비용과 사고로 옮겨갔다.",
+      "title": "에이전트가 업무 시스템이 된다",
+      "body_ko": "적용 지점이 개별 업무 보조에서 기간계·심사 절차로 내려오며 관리 대상도 비용과 사고로 넓어졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -165,28 +165,35 @@
           "title": "SK인텔릭스, AI 고객센터 구축한다…AS·렌탈 상담 '자동화'"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671719",
-          "title": ""
-        },
-        {
           "date": "2026-08-26",
           "file": "20260826-alabama-ag-probes-op.md",
           "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
         },
         {
-          "url": "https://www.etnews.com/20260825000383",
-          "title": ""
-        },
-        {
           "date": "2026-08-26",
           "file": "20260826-google-launches-gemi.md",
           "title": "Google launches Gemini for legal work to automate contracts and research"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-sk-ax-sap-기술-검증부터-사업.md",
+          "title": "SK AX-SAP, 기술 검증부터 사업화까지 AI에이전트 협력 강화"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ktis-강남세브란스병원에-통합형-a.md",
+          "title": "KTis, 강남세브란스병원에 통합형 AICC 구축"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-조달청-기술평가에-ai-투입-우수제품.md",
+          "title": "조달청, 기술평가에 AI 투입…우수제품·협상계약 대상 실증 착수"
         }
       ]
     },
     {
       "title": "피지컬 AI, 자본 다음은 제도",
-      "body_ko": "자금과 기술 노선이 정해진 뒤 표준·인재·노사 합의가 확산 속도를 쥐었다.",
+      "body_ko": "자금과 기술 노선이 정해진 뒤 표준·데이터·인재가 확산 속도를 쥐었다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -218,8 +225,9 @@
           "title": "한국피지컬AI협회, 기술 국산화 넘어 생태계 조성 본격화"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260825171004",
-          "title": ""
+          "date": "2026-08-26",
+          "file": "20260826-robotics-startup-gen.md",
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say"
         }
       ]
     }

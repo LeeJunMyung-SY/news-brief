@@ -1,17 +1,23 @@
 {
   "date": "2026-08-26",
-  "updated_at": "2026-08-26T08:26:24.388204+09:00",
-  "run_id": "run_20260826_082624",
-  "summary_ko": "금융 AI가 실행 권한을 넘겨받는 사이, 추론 인프라의 주인도 바뀌기 시작했다.",
+  "updated_at": "2026-08-26T12:23:21.028950+09:00",
+  "run_id": "run_20260826_122321",
+  "summary_ko": "AI가 금융의 투자 대상이자 기간계 시스템의 작동 방식으로 동시에 들어온 하루다.",
   "issues": [
     {
-      "title": "금융 AI, 추천에서 집행으로",
-      "summary_ko": "금융권 AI의 쟁점이 무엇을 추천하느냐에서 어디까지 맡기느냐로 옮겨갔다.",
+      "title": "AI 인프라가 금융의 자산이 됐다",
+      "summary_ko": "AI 설비가 여신과 프로젝트 파이낸싱의 심사 대상으로 편입됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_industry",
+        "ai_compute_energy"
       ],
       "articles": [
+        {
+          "date": "2026-08-26",
+          "file": "20260826-펀드관리회사가-ai-솔루션-판다-신한.md",
+          "title": "펀드관리회사가 AI 솔루션 판다…신한펀드파트너스의 변신"
+        },
         {
           "date": "2026-08-26",
           "file": "20260826-scalable-capital-ope.md",
@@ -24,24 +30,19 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-revolut-launches-ded.md",
-          "title": "Revolut launches dedicated AI research lab built on its own foundation model"
+          "file": "20260826-한투증권-군산-ai-데이터센터-구축-.md",
+          "title": "한투증권, 군산 AI 데이터센터 구축 사업서 금융 주관사 맡아"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-펀드관리회사가-ai-솔루션-판다-신한.md",
-          "title": "펀드관리회사가 AI 솔루션 판다…신한펀드파트너스의 변신"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-more-than-three-in-f.md",
-          "title": "More than three in four 18 to 24-year-olds have used AI for personal finance - Lloyds"
+          "file": "20260826-우리은행-기보-반도체-ai-기업에-1.md",
+          "title": "우리은행·기보, 반도체·AI 기업에 1조 공급"
         }
       ]
     },
     {
-      "title": "추론 인프라의 주인이 바뀐다",
-      "summary_ko": "연산 조달의 축이 GPU 구매에서 자체 칩·메모리·전력 설계로 분산됐다.",
+      "title": "연산 인프라, 냉각과 제도의 문제로",
+      "summary_ko": "GPU 확보보다 냉각 설비와 세제·전력 제도가 실제 병목이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -49,70 +50,92 @@
       "articles": [
         {
           "date": "2026-08-26",
-          "file": "20260826-openai-s-jalape-o-ch.md",
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-삼성-pc-스마트폰-d램에도-ai-연.md",
-          "title": "삼성, PC·스마트폰 D램에도 AI 연산 심는다…LPDDR5X-PIM 공개"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671724",
-          "title": ""
-        },
-        {
-          "date": "2026-08-26",
           "file": "20260826-ai-데이터센터-1gw에-전력망-비용.md",
           "title": "AI 데이터센터 1GW에 전력망 비용만 15억달러…빅테크 '전기료 폭탄' 온다"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-디에스앤지-네이버클라우드에-엔비디아-.md",
-          "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약"
+          "file": "20260826-openai-s-jalape-o-ch.md",
+          "title": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-apple-announces-new-.md",
-          "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades"
+          "file": "20260826-lg-cns-고양-삼송데이터센터에-액.md",
+          "title": "LG CNS, 고양 삼송데이터센터에 '액체냉각' 인프라 구축"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-aidc-골든타임-놓치면-투자-해외로.md",
+          "title": "\"AIDC 골든타임 놓치면 투자 해외로 샌다\""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260826094306",
+          "title": ""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ai픽-리벨리온-영국-소버린-ai-진.md",
+          "title": "[AI픽] 리벨리온, 영국 소버린 AI 진출…NPU 랙 100대 공급 추진"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671833",
+          "title": ""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-통신사-새-먹거리는-ai-네트워크-g.md",
+          "title": "통신사 새 먹거리는 ‘AI 네트워크’...GPU·엣지·피지컬AI 수익화 기대"
+        },
+        {
+          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트의 청구서와 사고",
-      "summary_ko": "확산 국면의 관심사가 성능에서 운용 비용과 책임 소재로 이동했다.",
+      "title": "에이전트, 시스템 안쪽으로",
+      "summary_ko": "적용 지점이 대화형 보조에서 기간계와 심사 절차로 내려왔다.",
       "topics": [
         "ai_agents",
+        "ai_industry",
         "ai_policy"
       ],
       "articles": [
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671719",
-          "title": ""
-        },
         {
           "date": "2026-08-26",
           "file": "20260826-alabama-ag-probes-op.md",
           "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
         },
         {
-          "url": "https://www.etnews.com/20260825000383",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
-          "title": ""
-        },
-        {
           "date": "2026-08-26",
           "file": "20260826-google-launches-gemi.md",
           "title": "Google launches Gemini for legal work to automate contracts and research"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-sk-ax-sap-기술-검증부터-사업.md",
+          "title": "SK AX-SAP, 기술 검증부터 사업화까지 AI에이전트 협력 강화"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ktis-강남세브란스병원에-통합형-a.md",
+          "title": "KTis, 강남세브란스병원에 통합형 AICC 구축"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-조달청-기술평가에-ai-투입-우수제품.md",
+          "title": "조달청, 기술평가에 AI 투입…우수제품·협상계약 대상 실증 착수"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-kt-무신사-ebs-직방과-손잡았다-.md",
+          "title": "KT, 무신사·EBS·직방과 손잡았다…'생활 밀착형' AI 서비스 추진"
         }
       ]
     },
     {
-      "title": "피지컬 AI, 정책이 판을 깐다",
-      "summary_ko": "개별 기술 국산화 논의가 표준과 공급사슬 설계 단계로 올라섰다.",
+      "title": "피지컬 AI, 자본과 데이터가 앞서간다",
+      "summary_ko": "몸값이 먼저 뛰고 경쟁의 관문은 현장 데이터로 굳어졌다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -130,12 +153,9 @@
           "title": "한국피지컬AI협회, 기술 국산화 넘어 생태계 조성 본격화"
         },
         {
-          "url": "https://www.hankyung.com/article/2026082521231",
-          "title": ""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260825171004",
-          "title": ""
+          "date": "2026-08-26",
+          "file": "20260826-robotics-startup-gen.md",
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say"
         }
       ]
     }
