@@ -1,50 +1,74 @@
 {
   "date": "2026-08-26",
-  "updated_at": "2026-08-26T12:23:21.028950+09:00",
-  "run_id": "run_20260826_122321",
-  "summary_ko": "AI가 금융의 투자 대상이자 기간계 시스템의 작동 방식으로 동시에 들어온 하루다.",
+  "updated_at": "2026-08-26T16:25:55.223376+09:00",
+  "run_id": "run_20260826_162555",
+  "summary_ko": "AI의 처리 권한과 원가 조건이 함께 제도의 문제로 넘어온 하루다.",
   "issues": [
     {
-      "title": "AI 인프라가 금융의 자산이 됐다",
-      "summary_ko": "AI 설비가 여신과 프로젝트 파이낸싱의 심사 대상으로 편입됐다.",
+      "title": "에이전트가 업무를 끝낸다",
+      "summary_ko": "위임 범위가 응대에서 결제·집행으로 넘어가며 통제 설계가 쟁점이 됐다.",
       "topics": [
-        "금융회사 AI",
+        "ai_agents",
         "ai_industry",
-        "ai_compute_energy"
+        "금융회사 AI"
       ],
       "articles": [
         {
           "date": "2026-08-26",
-          "file": "20260826-펀드관리회사가-ai-솔루션-판다-신한.md",
-          "title": "펀드관리회사가 AI 솔루션 판다…신한펀드파트너스의 변신"
+          "file": "20260826-alabama-ag-probes-op.md",
+          "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-scalable-capital-ope.md",
-          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
+          "file": "20260826-sk-ax-sap-기술-검증부터-사업.md",
+          "title": "SK AX-SAP, 기술 검증부터 사업화까지 AI에이전트 협력 강화"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-google-cloud-launche.md",
-          "title": "Google Cloud launches AI platform for financial professionals"
+          "file": "20260826-google-launches-gemi.md",
+          "title": "Google launches Gemini for legal work to automate contracts and research"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-한투증권-군산-ai-데이터센터-구축-.md",
-          "title": "한투증권, 군산 AI 데이터센터 구축 사업서 금융 주관사 맡아"
+          "file": "20260826-조달청-기술평가에-ai-투입-우수제품.md",
+          "title": "조달청, 기술평가에 AI 투입…우수제품·협상계약 대상 실증 착수"
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-우리은행-기보-반도체-ai-기업에-1.md",
-          "title": "우리은행·기보, 반도체·AI 기업에 1조 공급"
+          "file": "20260826-ai가-상담부터-결제-분실신고까지-유.md",
+          "title": "AI가 상담부터 결제·분실신고까지…유베이스, AI 에이전트 상용화 속도"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-스타링크-고객센터-전화-상담원-사람-.md",
+          "title": "스타링크 고객센터 전화 상담원 사람 아니다…그록이 하루 1만 5000통 처리"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ai는-지금-법률-업무-파고드는-빅테.md",
+          "title": "[AI는 지금] 법률 업무 파고드는 빅테크…리걸 AI 경쟁 승부처는 '업무 연동'"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-사이트-이지혁-블럭스-대표-자율집행-.md",
+          "title": "[人사이트] 이지혁 블럭스 대표 “자율집행 AI 에이전트로 CRM 마케팅 문법 바꾼다”"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260826144855",
+          "title": ""
+        },
+        {
+          "url": "https://arxiv.org/abs/2603.17170",
+          "title": ""
         }
       ]
     },
     {
-      "title": "연산 인프라, 냉각과 제도의 문제로",
-      "summary_ko": "GPU 확보보다 냉각 설비와 세제·전력 제도가 실제 병목이 됐다.",
+      "title": "연산 원가를 제도가 정한다",
+      "summary_ko": "세제와 전력 계획이 국내 인프라 투자 원가의 실질 변수로 올라섰다.",
       "topics": [
         "ai_compute_energy",
+        "ai_policy",
         "ai_industry"
       ],
       "articles": [
@@ -55,8 +79,8 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-openai-s-jalape-o-ch.md",
-          "title": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show"
+          "file": "20260826-aidc-골든타임-놓치면-투자-해외로.md",
+          "title": "\"AIDC 골든타임 놓치면 투자 해외로 샌다\""
         },
         {
           "date": "2026-08-26",
@@ -65,12 +89,92 @@
         },
         {
           "date": "2026-08-26",
-          "file": "20260826-aidc-골든타임-놓치면-투자-해외로.md",
-          "title": "\"AIDC 골든타임 놓치면 투자 해외로 샌다\""
+          "file": "20260826-지능-생산해-외부에-파는데-aidc-.md",
+          "title": "\"지능 생산해 외부에 파는데\"…AIDC 세액공제 ‘자가사용’ 딜레마"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260826094306",
+          "date": "2026-08-26",
+          "file": "20260826-2040년-220gw-e에너지-빅뱅-.md",
+          "title": "2040년 220GW e에너지 빅뱅 전략…15년간 6배 늘린다"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-삼성-sk-hbm4-8단-출하-비중-.md",
+          "title": "삼성·SK, HBM4 8단 출하 비중 늘린다…엔비디아 공급망 변화 예고"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671832",
           "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=671839",
+          "title": ""
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-asps-2026-ai-시대-칩에서-.md",
+          "title": "[ASPS 2026]“AI 시대 '칩에서 시스템으로'… 패키징이 반도체 경쟁력 가른다"
+        }
+      ]
+    },
+    {
+      "title": "금융, 데이터 접점을 내주고 지킨다",
+      "summary_ko": "고객 데이터가 외부 AI로 열리는 동시에 위탁 채널 보안이 공동 과제가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-26",
+          "file": "20260826-scalable-capital-ope.md",
+          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-펀드관리회사가-ai-솔루션-판다-신한.md",
+          "title": "펀드관리회사가 AI 솔루션 판다…신한펀드파트너스의 변신"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-우리은행-기보-반도체-ai-기업에-1.md",
+          "title": "우리은행·기보, 반도체·AI 기업에 1조 공급"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-flanks-joins-with-pe.md",
+          "title": "Flanks joins with Perplexity to power AI-driven wealth management with data aggregation"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-ga-보안-역량-강화-보험사-ga-정.md",
+          "title": "\"GA 보안 역량 강화\"…'보험사-GA 정보보안 협의체' 발족"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-페이업-라인넥스트-스테이블코인-결제-.md",
+          "title": "페이업-라인넥스트, 스테이블코인 결제 솔루션 ‘유니파이 페이’ 손잡아"
+        },
+        {
+          "url": "https://arxiv.org/abs/2608.23858",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "국산 모델과 정부 조직이 함께 선다",
+      "summary_ko": "모델 저변 확대와 정부의 직접 개발 전환이 조달 구도를 바꾼다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-26",
+          "file": "20260826-미스트랄-중동-소버린-ai-시장-공략.md",
+          "title": "미스트랄, '중동 소버린 AI' 시장 공략…휴메인 맞손"
         },
         {
           "date": "2026-08-26",
@@ -78,84 +182,23 @@
           "title": "[AI픽] 리벨리온, 영국 소버린 AI 진출…NPU 랙 100대 공급 추진"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671833",
+          "date": "2026-08-26",
+          "file": "20260826-한국-ai-이어-3위-굳히기-독파모-.md",
+          "title": "한국 AI, 美中 이어 '3위' 굳히기…독파모 성과 주목"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-정부-개발자-조직-국민ai서비스혁신추.md",
+          "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 신설…서비스 신속 개발 기대"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-일론-머스크-ceo-그록-시장서-뒤처.md",
+          "title": "일론 머스크 CEO \"그록, 시장서 뒤처져…앤트로픽이 선두\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214378",
           "title": ""
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-통신사-새-먹거리는-ai-네트워크-g.md",
-          "title": "통신사 새 먹거리는 ‘AI 네트워크’...GPU·엣지·피지컬AI 수익화 기대"
-        },
-        {
-          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "에이전트, 시스템 안쪽으로",
-      "summary_ko": "적용 지점이 대화형 보조에서 기간계와 심사 절차로 내려왔다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-26",
-          "file": "20260826-alabama-ag-probes-op.md",
-          "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-google-launches-gemi.md",
-          "title": "Google launches Gemini for legal work to automate contracts and research"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-sk-ax-sap-기술-검증부터-사업.md",
-          "title": "SK AX-SAP, 기술 검증부터 사업화까지 AI에이전트 협력 강화"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-ktis-강남세브란스병원에-통합형-a.md",
-          "title": "KTis, 강남세브란스병원에 통합형 AICC 구축"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-조달청-기술평가에-ai-투입-우수제품.md",
-          "title": "조달청, 기술평가에 AI 투입…우수제품·협상계약 대상 실증 착수"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-kt-무신사-ebs-직방과-손잡았다-.md",
-          "title": "KT, 무신사·EBS·직방과 손잡았다…'생활 밀착형' AI 서비스 추진"
-        }
-      ]
-    },
-    {
-      "title": "피지컬 AI, 자본과 데이터가 앞서간다",
-      "summary_ko": "몸값이 먼저 뛰고 경쟁의 관문은 현장 데이터로 굳어졌다.",
-      "topics": [
-        "physical_ai",
-        "physical_ai_robotics",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-26",
-          "file": "20260826-피지컬-ai-주도권-잡는다-기술-자립.md",
-          "title": "\"피지컬 AI 주도권 잡는다\"…韓, 기술 자립 승부수"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-한국피지컬ai협회-기술-국산화-넘어-.md",
-          "title": "한국피지컬AI협회, 기술 국산화 넘어 생태계 조성 본격화"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-robotics-startup-gen.md",
-          "title": "Robotics startup Generalist reaches $3B valuation, sources say"
         }
       ]
     }
