@@ -1,15 +1,17 @@
 {
   "date": "2026-08-27",
-  "updated_at": "2026-08-27T12:22:20.866187+09:00",
-  "run_id": "run_20260827_122220",
-  "summary_ko": "연산과 로봇에는 돈이 더 붙었고, 권한과 데이터에는 제동이 걸렸다.",
+  "updated_at": "2026-08-27T16:23:55.287322+09:00",
+  "run_id": "run_20260827_162355",
+  "summary_ko": "연산의 원가와 유통 길목이 흔들리는 사이, 제도는 접속 요건부터 조여왔다.",
   "issues": [
     {
-      "title": "연산 수요, 아직 정점 아니다",
-      "summary_ko": "주문과 수직계열화가 함께 커졌지만, 그 수요를 공급사가 떠받치는 구조도 드러났다.",
+      "title": "연산 원가, 위아래서 동시에 흔들린다",
+      "summary_ko": "수요와 효율, 규제가 함께 움직이며 원가 기준선이 다시 잡힌다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -19,23 +21,13 @@
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-openai-s-jalape-o-ai.md",
-          "title": "OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground"
+          "file": "20260827-amazon-just-tripled-.md",
+          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’"
         },
         {
           "date": "2026-08-27",
           "file": "20260827-anthropic-continues-.md",
           "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
-          "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-amazon-just-tripled-.md",
-          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’"
         },
         {
           "date": "2026-08-27",
@@ -49,25 +41,115 @@
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-jensen-huang-defends.md",
-          "title": "Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low'"
+          "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
+          "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-nvidia-closes-in-on-.md",
+          "title": "Nvidia closes in on Hugging Face acquisition"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
+          "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-스페인-데이터센터-규제-강화-전력-8.md",
+          "title": "스페인, 데이터센터 규제 강화…전력 80% 재생에너지로 조달"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-알리바바-큐원4-예고편-나왔다-훈련비.md",
+          "title": "알리바바 '큐원4' 예고편 나왔다…훈련비용 9분의 1 절감"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-옥스-알파-정체는-glm-5-3-플래.md",
+          "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai시대-통신망-투자-논의-시동-연내.md",
+          "title": "AI시대 통신망 투자 논의 시동…연내 규제 개선안 마련"
+        }
+      ]
+    },
+    {
+      "title": "국가가 AI 체제를 짠다",
+      "summary_ko": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-27",
+          "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
+          "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
+          "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
+          "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+          "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
+          "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
+          "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
+          "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
+          "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
+          "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260827123901",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608264401H",
+          "title": ""
         }
       ]
     },
     {
       "title": "에이전트, 권한이 곧 취약점",
-      "summary_ko": "성능 미달을 넘어 남아 있던 권한 자체가 사고 경로가 된다는 점이 실증됐다.",
+      "summary_ko": "남은 권한이 사고 경로가 되는 사이 위임 범위는 더 넓어지고 있다.",
       "topics": [
         "ai_agents",
         "ai_policy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-employee-revolt-and-.md",
-          "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan"
-        },
         {
           "date": "2026-08-27",
           "file": "20260827-the-inside-story-on-.md",
@@ -80,6 +162,11 @@
         },
         {
           "date": "2026-08-27",
+          "file": "20260827-employee-revolt-and-.md",
+          "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan"
+        },
+        {
+          "date": "2026-08-27",
           "file": "20260827-벡터-ai-에이전트-mcp-적용한-c.md",
           "title": "벡터, AI 에이전트·MCP 적용한 'CANoe' 출시…개발·테스트 자동화"
         },
@@ -87,90 +174,27 @@
           "date": "2026-08-27",
           "file": "20260827-ai픽-한국인-ai-활용-세계평균-1.md",
           "title": "[AI픽] 한국인 AI 활용 '세계평균 1.7배'…채용서도 AI 역량 뜬다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-kt-6000만-생활-접점에-모두의-.md",
+          "title": "KT, 6000만 생활 접점에 '모두의 AI' 심는다"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260827143920",
+          "title": ""
         }
       ]
     },
     {
-      "title": "국가가 AGI 체제를 짠다",
-      "summary_ko": "모델·데이터·로봇을 묶어 예산과 법제도로 확정하는 단계로 넘어갔다.",
-      "topics": [
-        "ai_policy",
-        "llm_models",
-        "physical_ai",
-        "physical_ai_robotics"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
-          "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-웨이모-뮌헨서-자율주행차-테스트-시작.md",
-          "title": "웨이모, 뮌헨서 자율주행차 테스트 시작...2027년 EU 첫 로보택시 상용화 목표"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
-          "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
-          "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
-          "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
-          "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
-          "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
-          "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
-          "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
-        }
-      ]
-    },
-    {
-      "title": "금융, 접점은 넓히고 데이터는 조인다",
-      "summary_ko": "도입 병목이 인프라로 내려온 동시에 데이터 수집 근거는 규제 검증 대상이 됐다.",
+      "title": "금융, 국내 리전으로 병목이 풀린다",
+      "summary_ko": "규정에 막혀 멈춰 있던 과제가 실행 단계로 넘어갈 근거를 얻었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-vanguard-to-acquire-.md",
-          "title": "Vanguard to acquire Altruist"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-young-british-invest.md",
-          "title": "Young British investors trust AI more than TV or celebs"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-goldman-sachs-partne.md",
-          "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills"
-        },
         {
           "date": "2026-08-27",
           "file": "20260827-카카오엔터프라이즈-증권사-대상-ai-.md",
@@ -180,6 +204,31 @@
           "date": "2026-08-27",
           "file": "20260827-금융권-주민번호-관행-손본-개인정보위.md",
           "title": "금융권 '주민번호 관행' 손본 개인정보위…220개사 점검"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-vanguard-to-acquire-.md",
+          "title": "Vanguard to acquire Altruist"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-goldman-sachs-partne.md",
+          "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-young-british-invest.md",
+          "title": "Young British investors trust AI more than TV or celebs"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-앤트로픽-aws-서울-리전서-오퍼스5.md",
+          "title": "앤트로픽 “AWS 서울 리전서 오퍼스5·소네트5 곧 서비스”"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-한국-금융-ai-poc-넘어-실전으로.md",
+          "title": "한국 금융 AI, PoC 넘어 실전으로…AWS·앤트로픽 \"AX 전환\""
         }
       ]
     }

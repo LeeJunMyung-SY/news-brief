@@ -1,12 +1,12 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-27T12:22:20.866187+09:00",
-  "run_id": "run_20260827_122220",
-  "summary_ko": "연산과 권한이 함께 커지자 제도가 예산과 집행으로 속도를 조절하기 시작한 한 주다.",
+  "updated_at": "2026-08-27T16:23:55.287322+09:00",
+  "run_id": "run_20260827_162355",
+  "summary_ko": "연산과 권한이 커지는 속도를 제도가 접속 요건과 조달 절차로 따라잡기 시작한 한 주다.",
   "issues": [
     {
       "title": "연산 원가, 제도가 정한다",
-      "body_ko": "수요는 공급을 넘어섰고, 원가는 전력 요금과 공급사 금융 구조에 따라 갈린다.",
+      "body_ko": "수요는 여전히 공급을 앞서지만, 원가는 전력 요건과 계통 기준이 결정한다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -40,29 +40,99 @@
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-anthropic-continues-.md",
-          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
-        },
-        {
-          "date": "2026-08-27",
           "file": "20260827-amazon-just-tripled-.md",
           "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’"
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-엔비디아-ai-맞춤형-메모리-nvhb.md",
-          "title": "엔비디아, AI 맞춤형 메모리 'NVHBM' 공개"
+          "file": "20260827-ai-칩-팔려고-은행-된-엔비디아-수.md",
+          "title": "AI 칩 팔려고 '은행' 된 엔비디아…수요 둔화 시 재무 충격 우려"
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-ai-칩-팔려고-은행-된-엔비디아-수.md",
-          "title": "AI 칩 팔려고 '은행' 된 엔비디아…수요 둔화 시 재무 충격 우려"
+          "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
+          "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-스페인-데이터센터-규제-강화-전력-8.md",
+          "title": "스페인, 데이터센터 규제 강화…전력 80% 재생에너지로 조달"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai시대-통신망-투자-논의-시동-연내.md",
+          "title": "AI시대 통신망 투자 논의 시동…연내 규제 개선안 마련"
         }
       ]
     },
     {
-      "title": "에이전트, 권한 앞에서 멈췄다",
-      "body_ko": "위임 범위를 넓히자 성과 대신 사고가 나왔고, 권한 설계가 도입의 선결 조건이 됐다.",
+      "title": "모델, 소유와 단가 사이에서",
+      "body_ko": "유통 길목은 인수로 묶이고 단가는 급락하며, 빌릴지 가질지 판단 기준이 바뀐다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-25",
+          "file": "20260825-thomson-reuters-bets.md",
+          "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-한국-ai-이어-3위-굳히기-독파모-.md",
+          "title": "한국 AI, 美中 이어 '3위' 굳히기…독파모 성과 주목"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ibm-drops-open-weigh.md",
+          "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
+          "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-정부-보안-특화-ai-사업-본격-추진.md",
+          "title": "정부, '보안 특화 AI' 사업 본격 추진…SKT·네이버클라우드 2파전"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
+          "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-nvidia-closes-in-on-.md",
+          "title": "Nvidia closes in on Hugging Face acquisition"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-옥스-알파-정체는-glm-5-3-플래.md",
+          "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-알리바바-큐원4-예고편-나왔다-훈련비.md",
+          "title": "알리바바 '큐원4' 예고편 나왔다…훈련비용 9분의 1 절감"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
+          "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260827123901",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 권한 앞에서 갈린다",
+      "body_ko": "위임을 넓힌 쪽에서 사고가 나오면서, 권한 설계가 도입의 선결 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -101,14 +171,18 @@
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-벡터-ai-에이전트-mcp-적용한-c.md",
-          "title": "벡터, AI 에이전트·MCP 적용한 'CANoe' 출시…개발·테스트 자동화"
+          "file": "20260827-kt-6000만-생활-접점에-모두의-.md",
+          "title": "KT, 6000만 생활 접점에 '모두의 AI' 심는다"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260827143920",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융, 인프라와 데이터가 관문",
-      "body_ko": "AI 역량을 사들이는 흐름과 별개로, 규제 환경에 맞는 인프라와 데이터 근거가 실행을 가른다.",
+      "title": "금융, 관문이 하나씩 열린다",
+      "body_ko": "데이터 근거를 다시 묻는 압박과 함께, 국내 리전 제공이 실행을 앞당긴다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -137,11 +211,6 @@
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-goldman-sachs-partne.md",
-          "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills"
-        },
-        {
-          "date": "2026-08-27",
           "file": "20260827-카카오엔터프라이즈-증권사-대상-ai-.md",
           "title": "카카오엔터프라이즈, 증권사 대상 AI 인프라 전략 세미나 개최"
         },
@@ -149,68 +218,26 @@
           "date": "2026-08-27",
           "file": "20260827-금융권-주민번호-관행-손본-개인정보위.md",
           "title": "금융권 '주민번호 관행' 손본 개인정보위…220개사 점검"
-        }
-      ]
-    },
-    {
-      "title": "모델을 빌릴까 가질까",
-      "body_ko": "국산 모델 선정 절차가 흔들리는 사이 도메인 특화 개발과 데이터 확보가 관건으로 떠올랐다.",
-      "topics": [
-        "llm_models",
-        "ai_policy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-25",
-          "file": "20260825-thomson-reuters-bets.md",
-          "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-배경훈-ai-모델은-국가-안보-독자-.md",
-          "title": "배경훈 \"AI 모델은 국가 안보\"…독자 AI 글로벌 톱티어 도전"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-한국-ai-이어-3위-굳히기-독파모-.md",
-          "title": "한국 AI, 美中 이어 '3위' 굳히기…독파모 성과 주목"
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-정부-보안-특화-ai-사업-본격-추진.md",
-          "title": "정부, '보안 특화 AI' 사업 본격 추진…SKT·네이버클라우드 2파전"
+          "file": "20260827-앤트로픽-aws-서울-리전서-오퍼스5.md",
+          "title": "앤트로픽 “AWS 서울 리전서 오퍼스5·소네트5 곧 서비스”"
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-ibm-drops-open-weigh.md",
-          "title": "IBM drops open-weight Granite 4.2 family with built-in agentic capabilities under Apache 2.0"
+          "file": "20260827-한국-금융-ai-poc-넘어-실전으로.md",
+          "title": "한국 금융 AI, PoC 넘어 실전으로…AWS·앤트로픽 \"AX 전환\""
         },
         {
-          "date": "2026-08-27",
-          "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
-          "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
-          "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
-          "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
-          "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
+          "url": "https://www.etnews.com/20260827000344",
+          "title": ""
         }
       ]
     },
     {
       "title": "피지컬 AI에 예산이 붙었다",
-      "body_ko": "실증 예산과 부품 양산 계약이 동시에 확정되며 선언이 산업 일정으로 바뀌었다.",
+      "body_ko": "실증 예산과 부품 양산 계약이 함께 확정되며 선언이 산업 일정으로 바뀌었다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -251,6 +278,10 @@
           "date": "2026-08-27",
           "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
           "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260827111429",
+          "title": ""
         }
       ]
     }
