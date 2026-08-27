@@ -1,0 +1,140 @@
+{
+  "date": "2026-08-28",
+  "updated_at": "2026-08-28T08:24:04.063957+09:00",
+  "run_id": "run_20260828_082404",
+  "summary_ko": "업무 시스템이 AI 안으로 들어오는 사이, 성과 증명과 권한 통제가 동시에 요구됐다.",
+  "issues": [
+    {
+      "title": "업무 시스템이 AI 안으로 들어왔다",
+      "summary_ko": "진입 지점이 개별 앱 화면에서 AI 대화창으로 옮겨가고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-28",
+          "file": "20260828-8월27일-saas-종말론-6개월-만.md",
+          "title": "[8월27일] 'SaaS 종말론' 6개월 만에 세일즈포스가 '클로드' 안으로 들어간 이유"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-salesforce-rockets-2.md",
+          "title": "Salesforce rockets 22% for second-best day ever, leading software rally"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-experian-launches-cr.md",
+          "title": "Experian launches credit cards app on ChatGPT"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214479",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 이제 숫자로 답한다",
+      "summary_ko": "도입 건수 대신 정답률과 절감 효과가 평가 기준이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-28",
+          "file": "20260828-정답률-45-서-84-7-로-aws로.md",
+          "title": "정답률 45%서 84.7%로…AWS로 진화한 미래에셋증권 AI 검색"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-에이전트-수보다-roi-aws-앤트로.md",
+          "title": "\"에이전트 수보다 ROI\"… AWS·앤트로픽이 바꾼 금융 AI 평가표"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-kb국민은행-스노우플레이크-만나-데이.md",
+          "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-asic-and-apra-warn-f.md",
+          "title": "Asic and Apra warn frontier AI awareness must turn to action"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214487",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "남은 권한이 사고 경로가 된다",
+      "summary_ko": "격리보다 개체 간 통신과 문서 신뢰 경계가 실제 취약점이었다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214495",
+          "title": ""
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-claude-codex-and-her.md",
+          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-openai-anthropic-goo.md",
+          "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
+        },
+        {
+          "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "연산 인프라에 자본이 붙는다",
+      "summary_ko": "데이터센터가 별도 자본을 조달하는 독립 자산으로 재편된다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-28",
+          "file": "20260828-skt-aidc로-3조원대-투자-유치.md",
+          "title": "SKT, AIDC로 3조원대 투자 유치…SK호라이즌 신설"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-단독-메타-1조-원화채-발행-추진-한.md",
+          "title": "[단독] 메타, 1조 원화채 발행 추진…한국으로 번진 'AI 영끌전쟁'"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-nvidia-agrees-to-buy.md",
+          "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-sk하이닉스-인디애나-패키징팹서-hb.md",
+          "title": "SK하이닉스, \"美인디애나 패키징팹서 HBM4E 양산…2029년 3분기 목표\""
+        }
+      ]
+    }
+  ]
+}
