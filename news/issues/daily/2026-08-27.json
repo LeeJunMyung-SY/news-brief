@@ -1,12 +1,12 @@
 {
   "date": "2026-08-27",
-  "updated_at": "2026-08-27T08:23:45.265644+09:00",
-  "run_id": "run_20260827_082345",
-  "summary_ko": "연산 수요는 최고치를 갱신했지만, 사람 자리를 대신하려던 시도는 성능과 통제에서 막혔다.",
+  "updated_at": "2026-08-27T12:22:20.866187+09:00",
+  "run_id": "run_20260827_122220",
+  "summary_ko": "연산과 로봇에는 돈이 더 붙었고, 권한과 데이터에는 제동이 걸렸다.",
   "issues": [
     {
       "title": "연산 수요, 아직 정점 아니다",
-      "summary_ko": "공급이 성장을 제약할 만큼 수요가 강하고, 조달 선택지는 GPU 밖으로 넓어졌다.",
+      "summary_ko": "주문과 수직계열화가 함께 커졌지만, 그 수요를 공급사가 떠받치는 구조도 드러났다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -28,19 +28,35 @@
           "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
         },
         {
-          "url": "https://www.hankyung.com/article/2026082647571",
-          "title": ""
-        },
-        {
           "date": "2026-08-27",
           "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
           "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-amazon-just-tripled-.md",
+          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-엔비디아-ai-맞춤형-메모리-nvhb.md",
+          "title": "엔비디아, AI 맞춤형 메모리 'NVHBM' 공개"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai-칩-팔려고-은행-된-엔비디아-수.md",
+          "title": "AI 칩 팔려고 '은행' 된 엔비디아…수요 둔화 시 재무 충격 우려"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-jensen-huang-defends.md",
+          "title": "Jensen Huang defends Nvidia's growing financial support for AI ecosystem, says 'the risk is low'"
         }
       ]
     },
     {
-      "title": "에이전트 대체론이 꺾였다",
-      "summary_ko": "권한을 넓게 준 에이전트가 성과 대신 사고를 냈고, 규제기관이 조사에 들어갔다.",
+      "title": "에이전트, 권한이 곧 취약점",
+      "summary_ko": "성능 미달을 넘어 남아 있던 권한 자체가 사고 경로가 된다는 점이 실증됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -58,24 +74,85 @@
           "title": "The inside story on why OpenAI agents hacked Hugging Face"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214391",
-          "title": ""
+          "date": "2026-08-27",
+          "file": "20260827-ai-에이전트-해커-공격-회사-지시-.md",
+          "title": "AI 에이전트, 해커 공격 '회사 지시'로 착각…90% 뚫렸다"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/26/okta-okta-earnings-q2-2027.html",
-          "title": ""
+          "date": "2026-08-27",
+          "file": "20260827-벡터-ai-에이전트-mcp-적용한-c.md",
+          "title": "벡터, AI 에이전트·MCP 적용한 'CANoe' 출시…개발·테스트 자동화"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214406",
-          "title": ""
+          "date": "2026-08-27",
+          "file": "20260827-ai픽-한국인-ai-활용-세계평균-1.md",
+          "title": "[AI픽] 한국인 AI 활용 '세계평균 1.7배'…채용서도 AI 역량 뜬다"
         }
       ]
     },
     {
-      "title": "금융, AI 접점을 사들인다",
-      "summary_ko": "고객 접점이 AI로 이동하자 금융사가 플랫폼 자체를 소유하는 쪽으로 움직인다.",
+      "title": "국가가 AGI 체제를 짠다",
+      "summary_ko": "모델·데이터·로봇을 묶어 예산과 법제도로 확정하는 단계로 넘어갔다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-27",
+          "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+          "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-웨이모-뮌헨서-자율주행차-테스트-시작.md",
+          "title": "웨이모, 뮌헨서 자율주행차 테스트 시작...2027년 EU 첫 로보택시 상용화 목표"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
+          "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
+          "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
+          "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
+          "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
+          "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
+          "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
+          "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
+        }
+      ]
+    },
+    {
+      "title": "금융, 접점은 넓히고 데이터는 조인다",
+      "summary_ko": "도입 병목이 인프라로 내려온 동시에 데이터 수집 근거는 규제 검증 대상이 됐다.",
       "topics": [
         "금융회사 AI",
+        "ai_policy",
         "ai_industry"
       ],
       "articles": [
@@ -95,43 +172,14 @@
           "title": "Goldman Sachs partner warns that AI could erode bankers' reasoning skills"
         },
         {
-          "url": "https://www.hankyung.com/article/2026082649111",
-          "title": ""
-        },
-        {
-          "url": "https://www.finextra.com/newsarticle/48307/multiplier-raises-6m-to-build-ai-for-asset-managers?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "제조업이 AI 기업을 자처한다",
-      "summary_ko": "AI 전환이 선언을 넘어 데이터센터 건설과 양산 일정으로 확정됐다.",
-      "topics": [
-        "physical_ai",
-        "physical_ai_robotics",
-        "ai_industry"
-      ],
-      "articles": [
-        {
           "date": "2026-08-27",
-          "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
-          "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+          "file": "20260827-카카오엔터프라이즈-증권사-대상-ai-.md",
+          "title": "카카오엔터프라이즈, 증권사 대상 AI 인프라 전략 세미나 개최"
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-현대차-sdv-더는-안-미뤄-2028.md",
-          "title": "현대차 \"SDV 더는 안 미뤄…2028년 초 출시\""
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-웨이모-뮌헨서-자율주행차-테스트-시작.md",
-          "title": "웨이모, 뮌헨서 자율주행차 테스트 시작...2027년 EU 첫 로보택시 상용화 목표"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-robot-brain-builders.md",
-          "title": "Robot brain builders are pushing out of their GPT-2 era"
+          "file": "20260827-금융권-주민번호-관행-손본-개인정보위.md",
+          "title": "금융권 '주민번호 관행' 손본 개인정보위…220개사 점검"
         }
       ]
     }
