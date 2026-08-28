@@ -1,17 +1,17 @@
 {
   "date": "2026-08-28",
-  "updated_at": "2026-08-28T12:23:05.751444+09:00",
-  "run_id": "run_20260828_122305",
-  "summary_ko": "국민 단위 AI 수요가 확정되는 사이, 위임 범위와 인프라 조건이 함께 조여왔다.",
+  "updated_at": "2026-08-28T16:22:02.115338+09:00",
+  "run_id": "run_20260828_162202",
+  "summary_ko": "AI의 수요와 규칙이 확정되는 사이, 성과 증명과 조달 조건이 함께 조여왔다.",
   "issues": [
     {
-      "title": "국민 AI, 사업자가 정해졌다",
-      "summary_ko": "국산 모델에 전 국민 규모의 수요 기반이 확정됐다.",
+      "title": "국민 AI, 접점 전략까지 나왔다",
+      "summary_ko": "국산 모델이 어느 채널로 국민에게 닿는지가 확정됐다.",
       "topics": [
         "ai_industry",
         "ai_policy",
-        "ai_agents",
-        "llm_models"
+        "llm_models",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -25,26 +25,23 @@
           "title": "[모두의 AI] \"증명서 떼고 병원 예약\"...SKT, 국민 AI 서비스 10월 공개"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260828101829",
-          "title": ""
+          "date": "2026-08-28",
+          "file": "20260828-skt는-행동형-비서-카카오는-카톡-.md",
+          "title": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 3사 전략은"
         },
         {
-          "url": "https://www.etnews.com/20260828000138",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20260828000132",
+          "url": "https://www.etnews.com/20260828000246",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 숫자와 결제망으로",
-      "summary_ko": "성과 증명 요구에 이어 결제 인프라까지 AI가 파고든다.",
+      "title": "AI 성과, 숫자로 심판받는다",
+      "summary_ko": "체감 효율과 손익 기여 사이의 격차가 도입 논쟁의 중심으로 올라섰다.",
       "topics": [
-        "금융회사 AI",
         "ai_industry",
-        "ai_policy"
+        "금융회사 AI",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -64,24 +61,33 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-asic-and-apra-warn-f.md",
-          "title": "Asic and Apra warn frontier AI awareness must turn to action"
+          "file": "20260828-ai로-일-빨라졌다-80-ai가-이익.md",
+          "title": "\"AI로 일 빨라졌다\" 80%…\"AI가 이익에 기여\" 37%뿐"
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-두나무-비자와-스테이블코인-결제-송금.md",
-          "title": "두나무, 비자와 스테이블코인 결제·송금 서비스 협력"
+          "file": "20260828-오케스트로-전사-업무에-ai-심었다-.md",
+          "title": "오케스트로, 전사 업무에 AI 심었다…장애 분석 시간 88%↓"
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-롯데칠성음료-ai로-해외-신규-바이어.md",
-          "title": "롯데칠성음료, AI로 해외 신규 바이어 발굴 업무 효율화"
+          "file": "20260828-인터넷은행-중-저신용대출-확대-3사-.md",
+          "title": "인터넷은행, 중·저신용대출 확대…3사 2분기 목표 달성"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-sophistication-in-ge.md",
+          "title": "Sophistication in GenAI Use: Field Evidence from a Large Firm"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672037",
+          "title": ""
         }
       ]
     },
     {
       "title": "남은 권한이 사고 경로가 된다",
-      "summary_ko": "통제의 축이 입력 제한에서 실행 권한 설계로 넘어갔다.",
+      "summary_ko": "통제의 축이 입력 제한에서 실행 권한 설계로 완전히 넘어갔다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -104,16 +110,30 @@
           "title": "[기고] AI에게 어디까지 맡길 것인가"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260828100911",
+          "date": "2026-08-28",
+          "file": "20260828-five-primitives-for-.md",
+          "title": "Five Primitives for Governing Autonomous AI Agents at Runtime"
+        },
+        {
+          "url": "https://arxiv.org/abs/2608.27146",
+          "title": ""
+        },
+        {
+          "url": "https://arxiv.org/abs/2608.26225",
+          "title": ""
+        },
+        {
+          "url": "https://arxiv.org/abs/2608.26189",
           "title": ""
         }
       ]
     },
     {
-      "title": "연산 인프라, 자본과 지질까지",
-      "summary_ko": "자본 조달에 이어 입지 조건이 새 리스크 변수로 올라섰다.",
+      "title": "연산 원가에 관세와 정치가 붙는다",
+      "summary_ko": "자본과 전력에 이어 통상·행정 조치가 조달 조건을 흔든다.",
       "topics": [
         "ai_compute_energy",
+        "ai_policy",
         "ai_industry"
       ],
       "articles": [
@@ -129,21 +149,30 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-sk하이닉스-인디애나-패키징팹서-hb.md",
-          "title": "SK하이닉스, \"美인디애나 패키징팹서 HBM4E 양산…2029년 3분기 목표\""
-        },
-        {
-          "date": "2026-08-28",
           "file": "20260828-ai-고속도로-해남-잇단-지진에-국가.md",
           "title": "[AI 고속도로] 해남 잇단 지진에 '국가AI컴퓨팅센터' 괜찮나…\"규모 7.0 견딘다\""
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-삼성-zhbm-2029년-이후-출시-.md",
-          "title": "삼성, ZHBM 2029년 이후 출시 \"메모리가 AI칩 설계 중심\""
+          "file": "20260828-미국-반도체-2차-관세-검토-노트북-.md",
+          "title": "미국, 반도체 2차 관세 검토…노트북·서버 등 완제품까지 포함하나"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20260828028700008",
+          "date": "2026-08-28",
+          "file": "20260828-미-법원-앤트로픽-블랙리스트-지정은-.md",
+          "title": "미 법원 \"앤트로픽 블랙리스트 지정은 위법\"...트럼프 행정부 보복 조치에 제동"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-중국-ai-데이터센터-전력수요-203.md",
+          "title": "중국, \"AI 데이터센터 전력수요 2030년에는 한국 전체 발전량도 넘는다\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214545",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260828000054",
           "title": ""
         }
       ]
