@@ -1,16 +1,16 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-28T16:22:02.115338+09:00",
-  "run_id": "run_20260828_162202",
-  "summary_ko": "국가가 AI의 수요와 규칙을 정하는 사이, 원가와 성과 증명이 함께 조여왔다.",
+  "updated_at": "2026-08-29T08:24:19.105285+09:00",
+  "run_id": "run_20260829_082419",
+  "summary_ko": "국가가 규칙을 정하는 사이, 원가·자금과 성과 증명이 동시에 조여왔다.",
   "issues": [
     {
-      "title": "국가가 AI 수요와 규칙을 정한다",
-      "body_ko": "예산·조달·법 시행이 한 주에 몰리며 공공이 최대 수요처이자 개발 주체로 올라섰다.",
+      "title": "국가 AI, 절차가 분쟁이 됐다",
+      "body_ko": "예산과 조달을 국가가 쥐자 선발 절차의 공정성이 곧바로 법적 쟁점이 됐다.",
       "topics": [
         "ai_policy",
-        "ai_industry",
-        "llm_models"
+        "llm_models",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -34,30 +34,35 @@
           "title": "베일 벗은 독파모 AI 평가 점수...전문가·국민 평가가 승패 갈랐다"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-skt는-행동형-비서-카카오는-카톡-.md",
-          "title": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 3사 전략은"
+          "date": "2026-08-29",
+          "file": "20260829-불복-소송으로-번지는-정부-ai-선발.md",
+          "title": "불복·소송으로 번지는 정부 'AI 선발전'"
         },
         {
-          "url": "https://www.etnews.com/20260828000246",
+          "date": "2026-08-29",
+          "file": "20260829-신약개발-k-폴드-소스코드-깃허브에-.md",
+          "title": "신약개발 'K-폴드' 소스코드 깃허브에 9월 8일 공개"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-2030년까지-ai-반도체-전문인력-.md",
+          "title": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202608289914i",
           "title": ""
         }
       ]
     },
     {
-      "title": "연산 원가, 관세까지 얹힌다",
-      "body_ko": "전력·자본에 통상 조치가 더해지며 도입 시점 자체가 비용 변수가 됐다.",
+      "title": "연산 원가에서 자금 구조로",
+      "body_ko": "전력과 관세를 지나 이제는 무슨 돈으로 사느냐가 증설의 제약이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
-        "ai_policy"
+        "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
-          "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
-        },
         {
           "date": "2026-08-28",
           "file": "20260828-skt-aidc로-3조원대-투자-유치.md",
@@ -70,28 +75,42 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-삼성-zhbm-2029년-이후-출시-.md",
-          "title": "삼성, ZHBM 2029년 이후 출시 \"메모리가 AI칩 설계 중심\""
-        },
-        {
-          "date": "2026-08-28",
           "file": "20260828-미국-반도체-2차-관세-검토-노트북-.md",
           "title": "미국, 반도체 2차 관세 검토…노트북·서버 등 완제품까지 포함하나"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-중국-ai-데이터센터-전력수요-203.md",
-          "title": "중국, \"AI 데이터센터 전력수요 2030년에는 한국 전체 발전량도 넘는다\""
+          "date": "2026-08-27",
+          "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
+          "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
         },
         {
-          "url": "https://www.etnews.com/20260828000054",
+          "date": "2026-08-29",
+          "file": "20260829-neocloud-lambda-secu.md",
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-nhn-자회사-nhn클라우드-포항-d.md",
+          "title": "NHN, 자회사 NHN클라우드 포항 DC 임차에 1101억 채무보증"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-big-tech-s-massive-a.md",
+          "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672101",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트, 권한 앞에서 갈린다",
-      "body_ko": "위임을 넓힌 쪽에서 사고가 나오며 권한 설계가 도입의 선결 조건이 됐다.",
+      "title": "에이전트, 권한에서 실행으로",
+      "body_ko": "사고로 권한 설계가 쟁점이 된 직후, 위임 범위는 오히려 상시 실행까지 넓어졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -110,11 +129,6 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-claude-codex-and-her.md",
-          "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks"
-        },
-        {
-          "date": "2026-08-28",
           "file": "20260828-openai-anthropic-goo.md",
           "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
         },
@@ -124,29 +138,30 @@
           "title": "Five Primitives for Governing Autonomous AI Agents at Runtime"
         },
         {
-          "url": "https://arxiv.org/abs/2608.27146",
-          "title": ""
+          "date": "2026-08-29",
+          "file": "20260829-always-on-and-self-s.md",
+          "title": "Always-on and self-starting AI agents might be OpenAI's next big play"
         },
         {
-          "url": "https://arxiv.org/abs/2608.26189",
+          "date": "2026-08-29",
+          "file": "20260829-meta-tests-consumer-.md",
+          "title": "Meta tests consumer-based AI agent for everyday online tasks"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214566",
           "title": ""
         }
       ]
     },
     {
-      "title": "성과 증명이 예산의 조건이 됐다",
-      "body_ko": "체감 효율과 손익 기여의 격차가 드러나며 도입 정당화 기준이 지표로 굳어졌다.",
+      "title": "성과 증명이 예산의 조건",
+      "body_ko": "도입 여부가 아니라 이익으로 바꿨는지가 다음 예산을 결정한다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
         "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-한국-금융-ai-poc-넘어-실전으로.md",
-          "title": "한국 금융 AI, PoC 넘어 실전으로…AWS·앤트로픽 \"AX 전환\""
-        },
         {
           "date": "2026-08-28",
           "file": "20260828-정답률-45-서-84-7-로-aws로.md",
@@ -159,34 +174,38 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-kb국민은행-스노우플레이크-만나-데이.md",
-          "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다"
-        },
-        {
-          "date": "2026-08-28",
           "file": "20260828-ai로-일-빨라졌다-80-ai가-이익.md",
           "title": "\"AI로 일 빨라졌다\" 80%…\"AI가 이익에 기여\" 37%뿐"
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-오케스트로-전사-업무에-ai-심었다-.md",
-          "title": "오케스트로, 전사 업무에 AI 심었다…장애 분석 시간 88%↓"
+          "file": "20260828-kb국민은행-스노우플레이크-만나-데이.md",
+          "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-인터넷은행-중-저신용대출-확대-3사-.md",
-          "title": "인터넷은행, 중·저신용대출 확대…3사 2분기 목표 달성"
+          "url": "https://zdnet.co.kr/view/?no=20260828170203",
+          "title": ""
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-sophistication-in-ge.md",
-          "title": "Sophistication in GenAI Use: Field Evidence from a Large Firm"
+          "date": "2026-08-29",
+          "file": "20260829-marc-benioff-is-gett.md",
+          "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-코난테크놀로지-제조-국방-ax-승부수.md",
+          "title": "코난테크놀로지, '제조·국방 AX' 승부수…적자 고리 끊을까"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-앤트로픽-b2b-공략-속도-리셀러-s.md",
+          "title": "앤트로픽, 韓 B2B 공략 속도…리셀러·SI 채널 키운다"
         }
       ]
     },
     {
-      "title": "피지컬 AI, 예산에서 현장으로",
-      "body_ko": "재정 투입이 확정된 뒤 데이터 표준과 수익 증명이 다음 관문이 됐다.",
+      "title": "피지컬 AI, 자본이 재편한다",
+      "body_ko": "예산이 현장으로 내려오는 사이 주요 기업의 주인이 바뀌는 국면에 들어섰다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -205,8 +224,8 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-영상-한-번-보면-바로-따라한다-스킬.md",
-          "title": "\"영상 한 번 보면 바로 따라한다\"...스킬드 AI, 로봇 파운데이션 모델 'S1' 공개"
+          "file": "20260828-산단공-중소-중견-제조기업-ai-두뇌.md",
+          "title": "산단공, 중소·중견 제조기업 'AI 두뇌' 심는다…230억 투입해 범용 모델 구축"
         },
         {
           "date": "2026-08-28",
@@ -214,18 +233,29 @@
           "title": "[FSD 온로드] 운전석 비운 K로보택시…이젠 ‘돈 버는 법’ 증명해야"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-산단공-중소-중견-제조기업-ai-두뇌.md",
-          "title": "산단공, 중소·중견 제조기업 'AI 두뇌' 심는다…230억 투입해 범용 모델 구축"
+          "date": "2026-08-29",
+          "file": "20260829-소프트뱅크-가정용-휴머노이드-기업-1.md",
+          "title": "소프트뱅크, '가정용' 휴머노이드 기업 1X 과반 지분 인수 추진"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-쏘카-3단계-자율주행-로드맵-자율주행.md",
-          "title": "쏘카 3단계 자율주행 로드맵…\"자율주행 국대 플랫폼 될 것\""
+          "date": "2026-08-29",
+          "file": "20260829-전남광주-164억-투입-피지컬ai-휴.md",
+          "title": "전남광주, 164억 투입 ‘피지컬AI 휴머노이드 제조혁신센터’ 구축"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672061",
-          "title": ""
+          "date": "2026-08-29",
+          "file": "20260829-경남대에-메가존-피지컬ai-연구센터-.md",
+          "title": "경남대에 메가존 피지컬AI 연구센터 개소…제조AI 연구개발 거점"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-토요타-레벨2-자율주행차-2028년-.md",
+          "title": "토요타, 레벨2++ 자율주행차 2028년 출시"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-google-deepmind-s-ai.md",
+          "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
         }
       ]
     }

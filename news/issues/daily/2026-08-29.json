@@ -1,0 +1,134 @@
+{
+  "date": "2026-08-29",
+  "updated_at": "2026-08-29T08:24:19.105285+09:00",
+  "run_id": "run_20260829_082419",
+  "summary_ko": "모델 조달 통로와 컴퓨트 자금 구조가 동시에 재편된 하루다.",
+  "issues": [
+    {
+      "title": "조달 통로를 벤더가 쥔다",
+      "summary_ko": "모델을 어디서 어떻게 받을지가 벤더 손에 넘어가고 있다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-29",
+          "file": "20260829-앤트로픽-b2b-공략-속도-리셀러-s.md",
+          "title": "앤트로픽, 韓 B2B 공략 속도…리셀러·SI 채널 키운다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214542",
+          "title": ""
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-open-weight-ai-compa.md",
+          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-코히어-대규모-엔터프라이즈-문서-분석.md",
+          "title": "코히어, 대규모 엔터프라이즈 문서 분석 AI ‘파스’ 공개...“성능·비용 다 잡았다”"
+        }
+      ]
+    },
+    {
+      "title": "에이전트가 상시 실행 주체로",
+      "summary_ko": "요청을 기다리는 도구에서 스스로 일하는 주체로 넘어갔다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-29",
+          "file": "20260829-always-on-and-self-s.md",
+          "title": "Always-on and self-starting AI agents might be OpenAI's next big play"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-meta-tests-consumer-.md",
+          "title": "Meta tests consumer-based AI agent for everyday online tasks"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214566",
+          "title": ""
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-google-deepmind-s-ai.md",
+          "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
+        }
+      ]
+    },
+    {
+      "title": "컴퓨트를 빚과 임차로 산다",
+      "summary_ko": "연산 확보가 자기자본이 아니라 레버리지 문제로 바뀌었다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-29",
+          "file": "20260829-neocloud-lambda-secu.md",
+          "title": "Neocloud Lambda secures $1B in debt to buy more chips"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-nhn-자회사-nhn클라우드-포항-d.md",
+          "title": "NHN, 자회사 NHN클라우드 포항 DC 임차에 1101억 채무보증"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-big-tech-s-massive-a.md",
+          "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-bullish-invests-in-u.md",
+          "title": "Bullish invests in USD.AI's $100 million stablecoin-based liquidity facility"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-1800조원은-어느-기업으로-ai-데.md",
+          "title": "1800조원은 어느 기업으로?…AI 데이터센터의 기업지도 [박신영의 월가 아나토미]"
+        }
+      ]
+    },
+    {
+      "title": "AX 성과가 이익률로 갈린다",
+      "summary_ko": "AI 매출을 이익으로 바꾸는 능력이 격차를 만든다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260828170203",
+          "title": ""
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-marc-benioff-is-gett.md",
+          "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-코난테크놀로지-제조-국방-ax-승부수.md",
+          "title": "코난테크놀로지, '제조·국방 AX' 승부수…적자 고리 끊을까"
+        },
+        {
+          "date": "2026-08-29",
+          "file": "20260829-private-equity-s-1-2.md",
+          "title": "Private equity’s $1.2 trillion AI blind spot"
+        }
+      ]
+    }
+  ]
+}
