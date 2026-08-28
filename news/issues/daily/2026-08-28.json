@@ -1,46 +1,46 @@
 {
   "date": "2026-08-28",
-  "updated_at": "2026-08-28T08:24:04.063957+09:00",
-  "run_id": "run_20260828_082404",
-  "summary_ko": "업무 시스템이 AI 안으로 들어오는 사이, 성과 증명과 권한 통제가 동시에 요구됐다.",
+  "updated_at": "2026-08-28T12:23:05.751444+09:00",
+  "run_id": "run_20260828_122305",
+  "summary_ko": "국민 단위 AI 수요가 확정되는 사이, 위임 범위와 인프라 조건이 함께 조여왔다.",
   "issues": [
     {
-      "title": "업무 시스템이 AI 안으로 들어왔다",
-      "summary_ko": "진입 지점이 개별 앱 화면에서 AI 대화창으로 옮겨가고 있다.",
+      "title": "국민 AI, 사업자가 정해졌다",
+      "summary_ko": "국산 모델에 전 국민 규모의 수요 기반이 확정됐다.",
       "topics": [
-        "ai_agents",
         "ai_industry",
-        "금융회사 AI"
+        "ai_policy",
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-08-28",
-          "file": "20260828-8월27일-saas-종말론-6개월-만.md",
-          "title": "[8월27일] 'SaaS 종말론' 6개월 만에 세일즈포스가 '클로드' 안으로 들어간 이유"
+          "file": "20260828-skt-카카오-kt-모두의-ai-사업.md",
+          "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시”"
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-salesforce-rockets-2.md",
-          "title": "Salesforce rockets 22% for second-best day ever, leading software rally"
+          "file": "20260828-모두의-ai-증명서-떼고-병원-예약-.md",
+          "title": "[모두의 AI] \"증명서 떼고 병원 예약\"...SKT, 국민 AI 서비스 10월 공개"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-experian-launches-cr.md",
-          "title": "Experian launches credit cards app on ChatGPT"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214479",
+          "url": "https://zdnet.co.kr/view/?no=20260828101829",
           "title": ""
         },
         {
-          "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+          "url": "https://www.etnews.com/20260828000138",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260828000132",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 이제 숫자로 답한다",
-      "summary_ko": "도입 건수 대신 정답률과 절감 효과가 평가 기준이 됐다.",
+      "title": "금융 AI, 숫자와 결제망으로",
+      "summary_ko": "성과 증명 요구에 이어 결제 인프라까지 AI가 파고든다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -68,24 +68,26 @@
           "title": "Asic and Apra warn frontier AI awareness must turn to action"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214487",
-          "title": ""
+          "date": "2026-08-28",
+          "file": "20260828-두나무-비자와-스테이블코인-결제-송금.md",
+          "title": "두나무, 비자와 스테이블코인 결제·송금 서비스 협력"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-롯데칠성음료-ai로-해외-신규-바이어.md",
+          "title": "롯데칠성음료, AI로 해외 신규 바이어 발굴 업무 효율화"
         }
       ]
     },
     {
       "title": "남은 권한이 사고 경로가 된다",
-      "summary_ko": "격리보다 개체 간 통신과 문서 신뢰 경계가 실제 취약점이었다.",
+      "summary_ko": "통제의 축이 입력 제한에서 실행 권한 설계로 넘어갔다.",
       "topics": [
         "ai_agents",
         "ai_policy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214495",
-          "title": ""
-        },
         {
           "date": "2026-08-28",
           "file": "20260828-claude-codex-and-her.md",
@@ -97,18 +99,19 @@
           "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
         },
         {
-          "url": "https://the-decoder.com/openai-researcher-warns-ultrafast-ai-could-leave-security-teams-in-the-dust/",
-          "title": ""
+          "date": "2026-08-28",
+          "file": "20260828-기고-ai에게-어디까지-맡길-것인가.md",
+          "title": "[기고] AI에게 어디까지 맡길 것인가"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/27/okta-skyrockets-20percent-and-crowdstrike-surges-15percent-leading-cyber-rally.html",
+          "url": "https://zdnet.co.kr/view/?no=20260828100911",
           "title": ""
         }
       ]
     },
     {
-      "title": "연산 인프라에 자본이 붙는다",
-      "summary_ko": "데이터센터가 별도 자본을 조달하는 독립 자산으로 재편된다.",
+      "title": "연산 인프라, 자본과 지질까지",
+      "summary_ko": "자본 조달에 이어 입지 조건이 새 리스크 변수로 올라섰다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -126,13 +129,22 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-nvidia-agrees-to-buy.md",
-          "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says"
+          "file": "20260828-sk하이닉스-인디애나-패키징팹서-hb.md",
+          "title": "SK하이닉스, \"美인디애나 패키징팹서 HBM4E 양산…2029년 3분기 목표\""
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-sk하이닉스-인디애나-패키징팹서-hb.md",
-          "title": "SK하이닉스, \"美인디애나 패키징팹서 HBM4E 양산…2029년 3분기 목표\""
+          "file": "20260828-ai-고속도로-해남-잇단-지진에-국가.md",
+          "title": "[AI 고속도로] 해남 잇단 지진에 '국가AI컴퓨팅센터' 괜찮나…\"규모 7.0 견딘다\""
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-삼성-zhbm-2029년-이후-출시-.md",
+          "title": "삼성, ZHBM 2029년 이후 출시 \"메모리가 AI칩 설계 중심\""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260828028700008",
+          "title": ""
         }
       ]
     }

@@ -1,23 +1,63 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-28T08:24:04.063957+09:00",
-  "run_id": "run_20260828_082404",
-  "summary_ko": "연산과 권한이 커지는 만큼, 제도와 성과 증명이 그 속도를 따라잡기 시작한 한 주다.",
+  "updated_at": "2026-08-28T12:23:05.751444+09:00",
+  "run_id": "run_20260828_122305",
+  "summary_ko": "AI의 수요와 규칙을 국가가 정하는 사이, 원가와 권한은 시장에서 재조정됐다.",
   "issues": [
     {
-      "title": "연산 원가, 제도와 자본이 함께 정한다",
-      "body_ko": "전력 요건이 원가를 정하는 사이, 인프라는 별도 자본을 조달하는 자산이 됐다.",
+      "title": "국가가 AI 수요와 규칙을 정한다",
+      "body_ko": "예산과 조달, 법 시행이 한 주에 몰리며 공공이 최대 수요처로 올라섰다.",
       "topics": [
-        "ai_compute_energy",
         "ai_policy",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
-          "date": "2026-08-26",
-          "file": "20260826-ai-데이터센터-1gw에-전력망-비용.md",
-          "title": "AI 데이터센터 1GW에 전력망 비용만 15억달러…빅테크 '전기료 폭탄' 온다"
+          "date": "2026-08-27",
+          "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
+          "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
         },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-베일-벗은-독파모-ai-평가-점수-전.md",
+          "title": "베일 벗은 독파모 AI 평가 점수...전문가·국민 평가가 승패 갈랐다"
+        },
+        {
+          "date": "2026-08-27",
+          "file": "20260827-정부-보안-특화-ai-사업-본격-추진.md",
+          "title": "정부, '보안 특화 AI' 사업 본격 추진…SKT·네이버클라우드 2파전"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-정부-개발자-조직-국민ai서비스혁신추.md",
+          "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 신설…서비스 신속 개발 기대"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-skt-카카오-kt-모두의-ai-사업.md",
+          "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시”"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-모두의-ai-증명서-떼고-병원-예약-.md",
+          "title": "[모두의 AI] \"증명서 떼고 병원 예약\"...SKT, 국민 AI 서비스 10월 공개"
+        },
+        {
+          "url": "https://www.etnews.com/20260828000132",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "연산 원가와 조달 길목이 함께 흔들린다",
+      "body_ko": "전력·자본·메모리 조건이 동시에 움직이며 도입 시점 자체가 전략 변수가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
         {
           "date": "2026-08-27",
           "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
@@ -27,16 +67,6 @@
           "date": "2026-08-27",
           "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
           "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-nvidia-forecasts-fis.md",
-          "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-스페인-데이터센터-규제-강화-전력-8.md",
-          "title": "스페인, 데이터센터 규제 강화…전력 80% 재생에너지로 조달"
         },
         {
           "date": "2026-08-28",
@@ -50,28 +80,8 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-sk하이닉스-인디애나-패키징팹서-hb.md",
-          "title": "SK하이닉스, \"美인디애나 패키징팹서 HBM4E 양산…2029년 3분기 목표\""
-        },
-        {
-          "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "모델, 소유와 단가 사이에서",
-      "body_ko": "유통 길목이 인수로 묶이고 단가는 내려가며, 빌릴지 가질지 기준이 바뀐다.",
-      "topics": [
-        "llm_models",
-        "ai_industry",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-25",
-          "file": "20260825-thomson-reuters-bets.md",
-          "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
+          "file": "20260828-nvidia-agrees-to-buy.md",
+          "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says"
         },
         {
           "date": "2026-08-27",
@@ -79,72 +89,14 @@
           "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”"
         },
         {
-          "date": "2026-08-27",
-          "file": "20260827-알리바바-큐원4-예고편-나왔다-훈련비.md",
-          "title": "알리바바 '큐원4' 예고편 나왔다…훈련비용 9분의 1 절감"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
-          "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
+          "date": "2026-08-28",
+          "file": "20260828-ai-고속도로-해남-잇단-지진에-국가.md",
+          "title": "[AI 고속도로] 해남 잇단 지진에 '국가AI컴퓨팅센터' 괜찮나…\"규모 7.0 견딘다\""
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-nvidia-agrees-to-buy.md",
-          "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says"
-        },
-        {
-          "date": "2026-08-28",
-          "file": "20260828-엔비디아-오픈소스-허깅페이스-18조에.md",
-          "title": "엔비디아, '오픈소스' 허깅페이스 18조에 인수...AI 생태계 수직통합"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214464",
-          "title": ""
-        },
-        {
-          "date": "2026-08-28",
-          "file": "20260828-nvidia-is-bolstering.md",
-          "title": "Nvidia is bolstering support for Chinese open AI models as it warns of White House crackdown"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=671968",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "조달 기준이 시험대에 올랐다",
-      "body_ko": "벤치마크 1위가 종합 최하위로 밀린 결과가 공개되며 평가 설계 자체가 쟁점이 됐다.",
-      "topics": [
-        "llm_models",
-        "ai_policy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
-          "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-한국-ai-이어-3위-굳히기-독파모-.md",
-          "title": "한국 AI, 美中 이어 '3위' 굳히기…독파모 성과 주목"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-정부-보안-특화-ai-사업-본격-추진.md",
-          "title": "정부, '보안 특화 AI' 사업 본격 추진…SKT·네이버클라우드 2파전"
-        },
-        {
-          "date": "2026-08-28",
-          "file": "20260828-베일-벗은-독파모-ai-평가-점수-전.md",
-          "title": "베일 벗은 독파모 AI 평가 점수...전문가·국민 평가가 승패 갈랐다"
-        },
-        {
-          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-          "title": ""
+          "file": "20260828-삼성-zhbm-2029년-이후-출시-.md",
+          "title": "삼성, ZHBM 2029년 이후 출시 \"메모리가 AI칩 설계 중심\""
         }
       ]
     },
@@ -164,22 +116,8 @@
         },
         {
           "date": "2026-08-27",
-          "file": "20260827-the-inside-story-on-.md",
-          "title": "The inside story on why OpenAI agents hacked Hugging Face"
-        },
-        {
-          "date": "2026-08-27",
           "file": "20260827-ai-에이전트-해커-공격-회사-지시-.md",
           "title": "AI 에이전트, 해커 공격 '회사 지시'로 착각…90% 뚫렸다"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-employee-revolt-and-.md",
-          "title": "Employee revolt and failing agents forced Meta to scrap its AI layoff plan"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214495",
-          "title": ""
         },
         {
           "date": "2026-08-28",
@@ -192,19 +130,20 @@
           "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214479",
-          "title": ""
-        },
-        {
           "date": "2026-08-28",
           "file": "20260828-8월27일-saas-종말론-6개월-만.md",
           "title": "[8월27일] 'SaaS 종말론' 6개월 만에 세일즈포스가 '클로드' 안으로 들어간 이유"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-기고-ai에게-어디까지-맡길-것인가.md",
+          "title": "[기고] AI에게 어디까지 맡길 것인가"
         }
       ]
     },
     {
       "title": "금융, 관문을 열고 성과를 묻는다",
-      "body_ko": "국내 리전으로 병목이 풀린 자리에서 곧바로 ROI 증명 요구가 이어졌다.",
+      "body_ko": "규정 병목이 풀린 자리에서 ROI 증명과 결제 접점 방어가 동시에 요구됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -220,21 +159,6 @@
           "date": "2026-08-27",
           "file": "20260827-한국-금융-ai-poc-넘어-실전으로.md",
           "title": "한국 금융 AI, PoC 넘어 실전으로…AWS·앤트로픽 \"AX 전환\""
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-금융위-개인사업자-마이데이터-도입-a.md",
-          "title": "금융위, 개인사업자 마이데이터 도입…AI가 금리인하·정책자금 신청까지"
-        },
-        {
-          "date": "2026-08-26",
-          "file": "20260826-scalable-capital-ope.md",
-          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-금융권-주민번호-관행-손본-개인정보위.md",
-          "title": "금융권 '주민번호 관행' 손본 개인정보위…220개사 점검"
         },
         {
           "date": "2026-08-28",
@@ -253,19 +177,24 @@
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-asic-and-apra-warn-f.md",
-          "title": "Asic and Apra warn frontier AI awareness must turn to action"
+          "file": "20260828-experian-launches-cr.md",
+          "title": "Experian launches credit cards app on ChatGPT"
+        },
+        {
+          "date": "2026-08-26",
+          "file": "20260826-scalable-capital-ope.md",
+          "title": "Scalable Capital opens platform to AI agents like Claude and ChatGPT"
         },
         {
           "date": "2026-08-28",
-          "file": "20260828-experian-launches-cr.md",
-          "title": "Experian launches credit cards app on ChatGPT"
+          "file": "20260828-두나무-비자와-스테이블코인-결제-송금.md",
+          "title": "두나무, 비자와 스테이블코인 결제·송금 서비스 협력"
         }
       ]
     },
     {
       "title": "피지컬 AI, 예산에서 표준으로",
-      "body_ko": "재정 투입이 확정된 뒤 기계 연동 규격과 학습 비용 절감이 다음 관문이 됐다.",
+      "body_ko": "재정 투입이 확정된 뒤 기계 연동 규격과 수익 증명이 다음 관문이 됐다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -283,21 +212,6 @@
           "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
         },
         {
-          "date": "2026-08-27",
-          "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
-          "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-robot-brain-builders.md",
-          "title": "Robot brain builders are pushing out of their GPT-2 era"
-        },
-        {
-          "date": "2026-08-25",
-          "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
-          "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
-        },
-        {
           "date": "2026-08-28",
           "file": "20260828-anthropic-pushes-int.md",
           "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines"
@@ -311,6 +225,16 @@
           "date": "2026-08-28",
           "file": "20260828-차만-달려선-안-된다-광주-자율주행-.md",
           "title": "\"차만 달려선 안 된다\"…광주 자율주행 실증, 사업화가 성패 좌우"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-ai는-지금-ai가-실험까지-한다-앤.md",
+          "title": "[AI는 지금] \"AI가 실험까지 한다\"…앤트로픽, 오픈AI·구글과 '자율 연구' 경쟁 본격화"
+        },
+        {
+          "date": "2026-08-28",
+          "file": "20260828-fsd-온로드-운전석-비운-k로보택시.md",
+          "title": "[FSD 온로드] 운전석 비운 K로보택시…이젠 ‘돈 버는 법’ 증명해야"
         }
       ]
     }
