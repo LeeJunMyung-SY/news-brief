@@ -1,8 +1,8 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-29T08:24:19.105285+09:00",
-  "run_id": "run_20260829_082419",
-  "summary_ko": "국가가 규칙을 정하는 사이, 원가·자금과 성과 증명이 동시에 조여왔다.",
+  "updated_at": "2026-08-29T12:16:41.214717+09:00",
+  "run_id": "run_20260829_121641",
+  "summary_ko": "국가가 규칙을 정하는 사이, 자금과 성과 증명이 함께 조여왔다.",
   "issues": [
     {
       "title": "국가 AI, 절차가 분쟁이 됐다",
@@ -24,11 +24,6 @@
           "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시”"
         },
         {
-          "date": "2026-08-26",
-          "file": "20260826-정부-개발자-조직-국민ai서비스혁신추.md",
-          "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 신설…서비스 신속 개발 기대"
-        },
-        {
           "date": "2026-08-28",
           "file": "20260828-베일-벗은-독파모-ai-평가-점수-전.md",
           "title": "베일 벗은 독파모 AI 평가 점수...전문가·국민 평가가 승패 갈랐다"
@@ -40,27 +35,18 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-신약개발-k-폴드-소스코드-깃허브에-.md",
-          "title": "신약개발 'K-폴드' 소스코드 깃허브에 9월 8일 공개"
-        },
-        {
-          "date": "2026-08-29",
           "file": "20260829-2030년까지-ai-반도체-전문인력-.md",
           "title": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성"
-        },
-        {
-          "url": "https://www.hankyung.com/article/202608289914i",
-          "title": ""
         }
       ]
     },
     {
-      "title": "연산 원가에서 자금 구조로",
-      "body_ko": "전력과 관세를 지나 이제는 무슨 돈으로 사느냐가 증설의 제약이 됐다.",
+      "title": "연산 확보, 자금에서 규제로",
+      "body_ko": "무슨 돈으로 사느냐에 이어 어디서 쓸 수 있느냐가 증설의 제약으로 올라섰다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry",
-        "금융회사 AI"
+        "ai_policy",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -79,11 +65,6 @@
           "title": "미국, 반도체 2차 관세 검토…노트북·서버 등 완제품까지 포함하나"
         },
         {
-          "date": "2026-08-27",
-          "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
-          "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
-        },
-        {
           "date": "2026-08-29",
           "file": "20260829-neocloud-lambda-secu.md",
           "title": "Neocloud Lambda secures $1B in debt to buy more chips"
@@ -95,22 +76,23 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-big-tech-s-massive-a.md",
-          "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test"
+          "file": "20260829-트럼프-행정부-ai-원격-연산-우회-.md",
+          "title": "美 트럼프 행정부, 中 AI '원격 연산 우회' 차단 추진…태국·싱가포르 정조준"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672101",
-          "title": ""
+          "date": "2026-08-29",
+          "file": "20260829-뉴엔비디아가-된-삼전닉스-ai칩-중심.md",
+          "title": "뉴엔비디아가 된 삼전닉스…\"AI칩 중심은 이제 GPU 아닌 메모리\" [김인엽의 AI 프런티어]"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672049",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트, 권한에서 실행으로",
-      "body_ko": "사고로 권한 설계가 쟁점이 된 직후, 위임 범위는 오히려 상시 실행까지 넓어졌다.",
+      "title": "에이전트, 권한이 곧 통제 과제",
+      "body_ko": "사고로 권한 설계가 쟁점이 된 직후, 위임 범위는 오히려 결제와 상시 실행까지 넓어졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -121,11 +103,6 @@
           "date": "2026-08-26",
           "file": "20260826-alabama-ag-probes-op.md",
           "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-ai-에이전트-해커-공격-회사-지시-.md",
-          "title": "AI 에이전트, 해커 공격 '회사 지시'로 착각…90% 뚫렸다"
         },
         {
           "date": "2026-08-28",
@@ -144,18 +121,19 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-meta-tests-consumer-.md",
-          "title": "Meta tests consumer-based AI agent for everyday online tasks"
+          "file": "20260829-팔로알토-iam-전략-전환-휴먼-넘어.md",
+          "title": "팔로알토, IAM 전략 전환…\"휴먼 넘어 머신·AI 에이전트까지 통합\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214566",
-          "title": ""
+          "date": "2026-08-29",
+          "file": "20260829-구글-ai-모드-항공권-값-떨어지면-.md",
+          "title": "구글 AI 모드, 항공권 값 떨어지면 메일로 알려준다…호텔 예약까지 대화로"
         }
       ]
     },
     {
       "title": "성과 증명이 예산의 조건",
-      "body_ko": "도입 여부가 아니라 이익으로 바꿨는지가 다음 예산을 결정한다.",
+      "body_ko": "도입 여부가 아니라 무엇으로 성과를 재느냐가 다음 예산을 결정한다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -183,29 +161,24 @@
           "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260828170203",
-          "title": ""
-        },
-        {
           "date": "2026-08-29",
-          "file": "20260829-marc-benioff-is-gett.md",
+          "file": "20260829-마크-베니오프-marc-benioff-is-gett.md",
           "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics"
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-코난테크놀로지-제조-국방-ax-승부수.md",
-          "title": "코난테크놀로지, '제조·국방 AX' 승부수…적자 고리 끊을까"
+          "file": "20260829-ai-에이전트-시대-토큰-거버넌스-필.md",
+          "title": "“AI 에이전트 시대, '토큰 거버넌스' 필요”…SK, '토큰 이코노미' 사내서 낸다"
         },
         {
-          "date": "2026-08-29",
-          "file": "20260829-앤트로픽-b2b-공략-속도-리셀러-s.md",
-          "title": "앤트로픽, 韓 B2B 공략 속도…리셀러·SI 채널 키운다"
+          "url": "https://www.hankyung.com/article/202608215200i",
+          "title": ""
         }
       ]
     },
     {
-      "title": "피지컬 AI, 자본이 재편한다",
-      "body_ko": "예산이 현장으로 내려오는 사이 주요 기업의 주인이 바뀌는 국면에 들어섰다.",
+      "title": "피지컬 AI, 현장 운영으로",
+      "body_ko": "자본 재편이 진행되는 사이 적용 지점은 시연을 지나 실제 서비스 운영으로 내려왔다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -223,29 +196,9 @@
           "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-산단공-중소-중견-제조기업-ai-두뇌.md",
-          "title": "산단공, 중소·중견 제조기업 'AI 두뇌' 심는다…230억 투입해 범용 모델 구축"
-        },
-        {
-          "date": "2026-08-28",
-          "file": "20260828-fsd-온로드-운전석-비운-k로보택시.md",
-          "title": "[FSD 온로드] 운전석 비운 K로보택시…이젠 ‘돈 버는 법’ 증명해야"
-        },
-        {
           "date": "2026-08-29",
           "file": "20260829-소프트뱅크-가정용-휴머노이드-기업-1.md",
           "title": "소프트뱅크, '가정용' 휴머노이드 기업 1X 과반 지분 인수 추진"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-전남광주-164억-투입-피지컬ai-휴.md",
-          "title": "전남광주, 164억 투입 ‘피지컬AI 휴머노이드 제조혁신센터’ 구축"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-경남대에-메가존-피지컬ai-연구센터-.md",
-          "title": "경남대에 메가존 피지컬AI 연구센터 개소…제조AI 연구개발 거점"
         },
         {
           "date": "2026-08-29",
@@ -254,8 +207,16 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-google-deepmind-s-ai.md",
-          "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers"
+          "file": "20260829-일본-지하철에-제미나이-휴머노이드-가.md",
+          "title": "일본 지하철에 '제미나이 휴머노이드'가 역무원 맡는다"
+        },
+        {
+          "url": "https://www.etnews.com/20260827000150",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672070",
+          "title": ""
         }
       ]
     }
