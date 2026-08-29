@@ -1,8 +1,8 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-29T16:13:35.229901+09:00",
-  "run_id": "run_20260829_161335",
-  "summary_ko": "국가가 규칙을 정하는 사이, 자금과 성과 증명, 통제 설계가 함께 조여왔다.",
+  "updated_at": "2026-08-30T08:19:52.819281+09:00",
+  "run_id": "run_20260830_081952",
+  "summary_ko": "국가가 판을 짜는 사이 조달과 위임의 조건이 함께 조여왔다.",
   "issues": [
     {
       "title": "국가 AI, 절차가 분쟁이 됐다",
@@ -37,12 +37,16 @@
           "date": "2026-08-29",
           "file": "20260829-2030년까지-ai-반도체-전문인력-.md",
           "title": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260829043300017",
+          "title": ""
         }
       ]
     },
     {
-      "title": "연산 확보, 자금에서 설비와 규제로",
-      "body_ko": "무슨 돈으로 사느냐에 이어 어디서 쓰고 어떻게 짓느냐가 증설의 제약이 됐다.",
+      "title": "연산 확보, 자금에서 설비와 여론까지",
+      "body_ko": "돈과 규제에 이어 설비 설계와 지역 여론이 증설 속도를 정하는 변수가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -60,19 +64,9 @@
           "title": "[단독] 메타, 1조 원화채 발행 추진…한국으로 번진 'AI 영끌전쟁'"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-미국-반도체-2차-관세-검토-노트북-.md",
-          "title": "미국, 반도체 2차 관세 검토…노트북·서버 등 완제품까지 포함하나"
-        },
-        {
           "date": "2026-08-29",
           "file": "20260829-neocloud-lambda-secu.md",
           "title": "Neocloud Lambda secures $1B in debt to buy more chips"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-nhn-자회사-nhn클라우드-포항-d.md",
-          "title": "NHN, 자회사 NHN클라우드 포항 DC 임차에 1101억 채무보증"
         },
         {
           "date": "2026-08-29",
@@ -81,35 +75,35 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-뉴엔비디아가-된-삼전닉스-ai칩-중심.md",
-          "title": "뉴엔비디아가 된 삼전닉스…\"AI칩 중심은 이제 GPU 아닌 메모리\" [김인엽의 AI 프런티어]"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-a16z-ai-하드웨어-공급망-병목-.md",
-          "title": "a16z, AI 하드웨어 공급망 병목 해결 위해 1.5조 규모 '머신 에이지' 펀드 출범"
-        },
-        {
-          "date": "2026-08-29",
           "file": "20260829-ai-고속도로-ai-넘어-양자까지-데.md",
           "title": "[AI 고속도로] AI 넘어 양자까지…데이터센터 전력·냉각 '대전환' 온다"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-gpu-수보다-운영-생산성-sk-ax.md",
+          "title": "GPU 수보다 운영 생산성…SK AX가 짚은 AI 데이터센터의 조건"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-전력망-탈중국-가속-k전력기기-몸값-.md",
+          "title": "美 전력망 '탈중국' 가속…K전력기기 몸값 더 뛴다"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-tech-backlash-reache.md",
+          "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears"
         }
       ]
     },
     {
       "title": "에이전트, 권한이 곧 통제 과제",
-      "body_ko": "실행 권한이 실제 자산 파괴로 이어진 사이, 위임 범위는 오히려 상시 실행과 결제까지 넓어졌다.",
+      "body_ko": "실행 권한이 실제 자산 파괴로 이어진 사이, 위임 범위는 오히려 상시 실행까지 넓어졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-26",
-          "file": "20260826-alabama-ag-probes-op.md",
-          "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems"
-        },
         {
           "date": "2026-08-28",
           "file": "20260828-openai-anthropic-goo.md",
@@ -132,19 +126,24 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-구글-ai-모드-항공권-값-떨어지면-.md",
-          "title": "구글 AI 모드, 항공권 값 떨어지면 메일로 알려준다…호텔 예약까지 대화로"
-        },
-        {
-          "date": "2026-08-29",
           "file": "20260829-클로드-테스트-중-700gb-홈-디렉.md",
           "title": "클로드, 테스트 중 700GB 홈 디렉터리 삭제...\"안전 분류기가 사고 키웠다\""
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-구글-제미나이-라이브-에-에이전트-탑.md",
+          "title": "구글, '제미나이 라이브'에 에이전트 탑재…음성으로 일정·이메일 제어"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-google-s-wikiskill-g.md",
+          "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance"
         }
       ]
     },
     {
       "title": "성과 증명이 예산의 조건",
-      "body_ko": "도입 여부가 아니라 무엇으로 성과를 재느냐가 다음 예산을 결정한다.",
+      "body_ko": "도입 여부가 아니라 무엇으로 성과를 재느냐가 다음 예산과 조직을 결정한다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -173,23 +172,32 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-marc-benioff-is-gett.md",
-          "title": "Marc Benioff is getting his mojo back as Salesforce's AI strength quiets skeptics"
-        },
-        {
-          "date": "2026-08-29",
           "file": "20260829-ai-에이전트-시대-토큰-거버넌스-필.md",
           "title": "“AI 에이전트 시대, '토큰 거버넌스' 필요”…SK, '토큰 이코노미' 사내서 낸다"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-op-ed-salesforce-jus.md",
+          "title": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-챗gpt-클로드-구독료-나만-다-내고.md",
+          "title": "“챗GPT·클로드 구독료, 나만 다 내고 썼었네”…카드만 잘 골라도 30% 아낀다"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260828149700017",
+          "title": ""
         }
       ]
     },
     {
-      "title": "모델 조달, 통로와 크기가 함께 열린다",
-      "body_ko": "유통 길목이 특정 생태계로 수렴하는 사이 소형 모델이 대안 경로로 부상했다.",
+      "title": "모델 조달, 통로에 권리 리스크가 붙었다",
+      "body_ko": "유통 길목이 특정 생태계로 수렴하는 사이 학습 데이터와 계약 관계가 새 변수가 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
-        "ai_agents"
+        "ai_policy"
       ],
       "articles": [
         {
@@ -209,54 +217,23 @@
         },
         {
           "date": "2026-08-29",
-          "file": "20260829-텐센트-차세대-모델-hy4-프리뷰-오.md",
-          "title": "텐센트, 차세대 모델 'Hy4 프리뷰' 오픈 출시로 기업용 시장 정조준"
-        },
-        {
-          "date": "2026-08-27",
-          "file": "20260827-옥스-알파-정체는-glm-5-3-플래.md",
-          "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”"
-        },
-        {
-          "date": "2026-08-29",
           "file": "20260829-메타-80억-소형-ai로-클로드-오퍼.md",
           "title": "메타, 80억 소형 AI로 ‘클로드 오퍼스 4.5’급 성능 구현…‘에보하네스-RL’ 공개"
-        }
-      ]
-    },
-    {
-      "title": "피지컬 AI, 현장 운영으로",
-      "body_ko": "자본 재편이 진행되는 사이 적용 지점은 시연을 지나 실제 서비스 운영으로 내려왔다.",
-      "topics": [
-        "physical_ai",
-        "physical_ai_robotics",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-27",
-          "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
-          "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-anthropic-pushes-int.md",
-          "title": "Anthropic pushes into physical world with new standard to help AI agents operate machines"
+          "date": "2026-08-30",
+          "file": "20260830-sony-music-and-warne.md",
+          "title": "Sony Music and Warner Chappell are suing Anthropic"
         },
         {
-          "date": "2026-08-29",
-          "file": "20260829-소프트뱅크-가정용-휴머노이드-기업-1.md",
-          "title": "소프트뱅크, '가정용' 휴머노이드 기업 1X 과반 지분 인수 추진"
+          "date": "2026-08-30",
+          "file": "20260830-openai-cuts-off-curs.md",
+          "title": "OpenAI cuts off Cursor after SpaceX acquisition, citing Musk's history of breaking contracts"
         },
         {
-          "date": "2026-08-29",
-          "file": "20260829-토요타-레벨2-자율주행차-2028년-.md",
-          "title": "토요타, 레벨2++ 자율주행차 2028년 출시"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-일본-지하철에-제미나이-휴머노이드-가.md",
-          "title": "일본 지하철에 '제미나이 휴머노이드'가 역무원 맡는다"
+          "date": "2026-08-30",
+          "file": "20260830-320b-옥스-알파-를-pc서-구동-.md",
+          "title": "320B '옥스 알파'를 PC서 구동…'GLM-5.3-플래시' 용량 81% 줄여"
         }
       ]
     }
