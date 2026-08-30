@@ -1,12 +1,12 @@
 {
   "week": "2026-W35",
-  "updated_at": "2026-08-30T08:19:52.819281+09:00",
-  "run_id": "run_20260830_081952",
-  "summary_ko": "국가가 판을 짜는 사이 조달과 위임의 조건이 함께 조여왔다.",
+  "updated_at": "2026-08-30T12:20:10.603625+09:00",
+  "run_id": "run_20260830_122010",
+  "summary_ko": "국가가 판을 짜는 사이 위임 범위는 전사로, 조달 조건은 계약으로 옮겨갔다.",
   "issues": [
     {
-      "title": "국가 AI, 절차가 분쟁이 됐다",
-      "body_ko": "예산과 조달을 국가가 쥐자 선발 절차의 공정성이 곧바로 법적 쟁점이 됐다.",
+      "title": "국가 AI, 절차에서 사람으로",
+      "body_ko": "예산과 조달을 국가가 쥔 뒤 선발 절차가 법적 쟁점이 됐고, 이제 정책 창구 인선으로 국면이 넘어갔다.",
       "topics": [
         "ai_policy",
         "llm_models",
@@ -24,11 +24,6 @@
           "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시”"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-베일-벗은-독파모-ai-평가-점수-전.md",
-          "title": "베일 벗은 독파모 AI 평가 점수...전문가·국민 평가가 승패 갈랐다"
-        },
-        {
           "date": "2026-08-29",
           "file": "20260829-불복-소송으로-번지는-정부-ai-선발.md",
           "title": "불복·소송으로 번지는 정부 'AI 선발전'"
@@ -39,14 +34,19 @@
           "title": "2030년까지 AI·반도체 전문인력 30만명 키운다…내년 8만명 내외 양성"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20260829043300017",
+          "date": "2026-08-30",
+          "file": "20260830-대통령-법무부-장관에-김승원-지명-a.md",
+          "title": "李대통령, 법무부 장관에 김승원 지명…AI수석에는 이해민"
+        },
+        {
+          "url": "https://www.etnews.com/20260828000220",
           "title": ""
         }
       ]
     },
     {
       "title": "연산 확보, 자금에서 설비와 여론까지",
-      "body_ko": "돈과 규제에 이어 설비 설계와 지역 여론이 증설 속도를 정하는 변수가 됐다.",
+      "body_ko": "돈과 규제에 이어 설비 설계와 지역 여론, 기자재 리드타임이 증설 속도를 정하는 변수가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -59,19 +59,9 @@
           "title": "SKT, AIDC로 3조원대 투자 유치…SK호라이즌 신설"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-단독-메타-1조-원화채-발행-추진-한.md",
-          "title": "[단독] 메타, 1조 원화채 발행 추진…한국으로 번진 'AI 영끌전쟁'"
-        },
-        {
           "date": "2026-08-29",
           "file": "20260829-neocloud-lambda-secu.md",
           "title": "Neocloud Lambda secures $1B in debt to buy more chips"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-트럼프-행정부-ai-원격-연산-우회-.md",
-          "title": "美 트럼프 행정부, 中 AI '원격 연산 우회' 차단 추진…태국·싱가포르 정조준"
         },
         {
           "date": "2026-08-29",
@@ -89,15 +79,18 @@
           "title": "美 전력망 '탈중국' 가속…K전력기기 몸값 더 뛴다"
         },
         {
-          "date": "2026-08-30",
-          "file": "20260830-tech-backlash-reache.md",
-          "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears"
+          "url": "https://www.etnews.com/20260830000072",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214612",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트, 권한이 곧 통제 과제",
-      "body_ko": "실행 권한이 실제 자산 파괴로 이어진 사이, 위임 범위는 오히려 상시 실행까지 넓어졌다.",
+      "title": "에이전트, 권한 통제에서 전사 배포로",
+      "body_ko": "실행 권한이 사고 경로가 되는 문제가 남은 채, 배포 단위는 전 직원 규모로 한 번에 커졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -110,19 +103,9 @@
           "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI"
         },
         {
-          "date": "2026-08-28",
-          "file": "20260828-five-primitives-for-.md",
-          "title": "Five Primitives for Governing Autonomous AI Agents at Runtime"
-        },
-        {
           "date": "2026-08-29",
           "file": "20260829-always-on-and-self-s.md",
           "title": "Always-on and self-starting AI agents might be OpenAI's next big play"
-        },
-        {
-          "date": "2026-08-29",
-          "file": "20260829-팔로알토-iam-전략-전환-휴먼-넘어.md",
-          "title": "팔로알토, IAM 전략 전환…\"휴먼 넘어 머신·AI 에이전트까지 통합\""
         },
         {
           "date": "2026-08-29",
@@ -136,8 +119,12 @@
         },
         {
           "date": "2026-08-30",
-          "file": "20260830-google-s-wikiskill-g.md",
-          "title": "Google's WikiSkill gives AI agents a persistent memory of past mistakes to sharpen future performance"
+          "file": "20260830-시스코-직원-9만명에-개인-ai-에이.md",
+          "title": "시스코, 직원 9만명에 '개인 AI 에이전트' 공급…업무 자동화 지원"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260830085212",
+          "title": ""
         }
       ]
     },
@@ -171,29 +158,24 @@
           "title": "KB국민은행, 스노우플레이크 만나 데이터 구조부터 다시 짰다"
         },
         {
-          "date": "2026-08-29",
-          "file": "20260829-ai-에이전트-시대-토큰-거버넌스-필.md",
-          "title": "“AI 에이전트 시대, '토큰 거버넌스' 필요”…SK, '토큰 이코노미' 사내서 낸다"
-        },
-        {
-          "date": "2026-08-30",
-          "file": "20260830-op-ed-salesforce-jus.md",
-          "title": "Op-ed: Salesforce just revealed the next battleground in AI — and it's not the models"
-        },
-        {
           "date": "2026-08-30",
           "file": "20260830-챗gpt-클로드-구독료-나만-다-내고.md",
           "title": "“챗GPT·클로드 구독료, 나만 다 내고 썼었네”…카드만 잘 골라도 30% 아낀다"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20260828149700017",
+          "date": "2026-08-30",
+          "file": "20260830-중소기업-ai-상담-전환-온피아-끝-.md",
+          "title": "[중소기업 AI 상담 전환, 온피아④·끝]콜센터 AI도 구독형 시대…좌석당 월 10만원대"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260829029400017",
           "title": ""
         }
       ]
     },
     {
-      "title": "모델 조달, 통로에 권리 리스크가 붙었다",
-      "body_ko": "유통 길목이 특정 생태계로 수렴하는 사이 학습 데이터와 계약 관계가 새 변수가 됐다.",
+      "title": "모델 조달, 통로에 권리와 계약이 붙었다",
+      "body_ko": "유통 길목이 특정 생태계로 수렴하는 사이 학습 데이터와 계약 신뢰, 실사용 한도가 새 변수가 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -216,11 +198,6 @@
           "title": "앤트로픽, 韓 B2B 공략 속도…리셀러·SI 채널 키운다"
         },
         {
-          "date": "2026-08-29",
-          "file": "20260829-메타-80억-소형-ai로-클로드-오퍼.md",
-          "title": "메타, 80억 소형 AI로 ‘클로드 오퍼스 4.5’급 성능 구현…‘에보하네스-RL’ 공개"
-        },
-        {
           "date": "2026-08-30",
           "file": "20260830-sony-music-and-warne.md",
           "title": "Sony Music and Warner Chappell are suing Anthropic"
@@ -232,8 +209,13 @@
         },
         {
           "date": "2026-08-30",
-          "file": "20260830-320b-옥스-알파-를-pc서-구동-.md",
-          "title": "320B '옥스 알파'를 PC서 구동…'GLM-5.3-플래시' 용량 81% 줄여"
+          "file": "20260830-클로드-코드-주간-한도-25-인상-실.md",
+          "title": "'클로드 코드' 주간 한도 25% 인상…실제 17% 감소에 개발자 '발끈'"
+        },
+        {
+          "date": "2026-08-30",
+          "file": "20260830-ai가-스스로-성장-앤트로픽-자동화-.md",
+          "title": "\"AI가 스스로 성장\"…앤트로픽, '자동화 연구' 가능성 입증"
         }
       ]
     }
