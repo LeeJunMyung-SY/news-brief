@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-31",
+  "updated_at": "2026-08-31T08:19:45.116346+09:00",
+  "run_id": "run_20260831_081945",
+  "summary_ko": "AI가 결제·내부통제·공장 운영 등 기간 인프라 계층으로 파고든 하루.",
+  "issues": [
+    {
+      "title": "금융 AI, 결제 인프라와 지배구조로 확장",
+      "summary_ko": "금융사 AI가 창구 효율을 넘어 결제 구조와 지배구조 설명 영역으로 올라섰다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-south-korea-s-shinha.md",
+          "title": "South Korea's Shinhan signs for Visa stablecoin platform"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-기관투자자-만난-진옥동-신한-회장-독.md",
+          "title": "기관투자자 만난 진옥동 신한 회장 \"독립이사 전문성·AI내부통제 강화\""
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-유승운-스톤브릿지벤처스-대표-인공지능.md",
+          "title": "유승운 스톤브릿지벤처스 대표 \"인공지능 플랫폼이 VC 시장 판도 바꿀 것\""
+        }
+      ]
+    },
+    {
+      "title": "모델 조달에 붙은 권리·한도 리스크",
+      "summary_ko": "공급사의 소송 노출과 한도 정책이 도입 기업의 실질 비용으로 전이된다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-sony-and-warner-sue-.md",
+          "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\""
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-anthropic-s-claude-c.md",
+          "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice"
+        }
+      ]
+    },
+    {
+      "title": "공공 AI, 컨트롤타워 완성과 보안 요건",
+      "summary_ko": "발주 라인이 확정되는 동시에 조달 요건이 보안 추적성으로 넓어졌다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-하정우-전-수석-ai전략위-복귀-구글.md",
+          "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-공공ax-확산-공통-보안기준-없으면-.md",
+          "title": "\"공공AX 확산, 공통 보안기준 없으면 위험\""
+        }
+      ]
+    },
+    {
+      "title": "피지컬AI, 운영 계층 확보가 승부처",
+      "summary_ko": "개별 설비가 아니라 현장 전체를 지휘하는 소프트웨어가 경쟁 축이 됐다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-공정-시작해-한마디에-ai가-지휘하는.md",
+          "title": "\"공정 시작해\" 한마디에… AI가 지휘하는 전북대 무인공장 [현장+]"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-inside-meta-s-push-t.md",
+          "title": "Inside Meta’s push to put robots to work in data centers"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-caterpillar-is-bring.md",
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining"
+        }
+      ]
+    }
+  ]
+}

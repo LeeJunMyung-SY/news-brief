@@ -1,0 +1,108 @@
+{
+  "week": "2026-W36",
+  "updated_at": "2026-08-31T08:19:45.116346+09:00",
+  "run_id": "run_20260831_081945",
+  "summary_ko": "AI 도입의 무게중심이 기능 도입에서 인프라·통제 체계 재설계로 옮겨간 주.",
+  "issues": [
+    {
+      "title": "금융 AI가 결제·통제 인프라로",
+      "body_ko": "AI가 상담·효율 도구를 넘어 결제 구조와 내부통제 체계의 구성 요소로 편입되고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-south-korea-s-shinha.md",
+          "title": "South Korea's Shinhan signs for Visa stablecoin platform"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-기관투자자-만난-진옥동-신한-회장-독.md",
+          "title": "기관투자자 만난 진옥동 신한 회장 \"독립이사 전문성·AI내부통제 강화\""
+        }
+      ]
+    },
+    {
+      "title": "모델 조달 실사 항목의 확장",
+      "body_ko": "성능·가격에 더해 학습 데이터 권리와 한도 정책이 조달 비교의 기준선으로 올라섰다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-sony-and-warner-sue-.md",
+          "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\""
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-anthropic-s-claude-c.md",
+          "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice"
+        }
+      ]
+    },
+    {
+      "title": "공공 AI 거버넌스 재정비",
+      "body_ko": "정책 결정 라인이 채워지는 동시에 보안 추적성이 공공 조달의 새 요건으로 제시됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-하정우-전-수석-ai전략위-복귀-구글.md",
+          "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-공공ax-확산-공통-보안기준-없으면-.md",
+          "title": "\"공공AX 확산, 공통 보안기준 없으면 위험\""
+        }
+      ]
+    },
+    {
+      "title": "현장 AI의 승부처는 운영 계층",
+      "body_ko": "로봇·설비 도입이 아니라 현장 전체를 지휘하는 운영 소프트웨어 확보가 관건이 됐다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-공정-시작해-한마디에-ai가-지휘하는.md",
+          "title": "\"공정 시작해\" 한마디에… AI가 지휘하는 전북대 무인공장 [현장+]"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-inside-meta-s-push-t.md",
+          "title": "Inside Meta’s push to put robots to work in data centers"
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라 병목의 이동",
+      "body_ko": "제약이 연산 장비에서 전력 기자재와 운영 인력으로 옮겨가며 조달 계획의 전제가 바뀐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-musk-s-faster-path-t.md",
+          "title": "Musk’s faster path to more gas turbines comes with pollution problem"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-ai가-ai-칩을-만든다-핫칩스-20.md",
+          "title": "\"AI가 AI 칩을 만든다\"...'핫칩스 2026'서 확인된 반도체 설계의 대변혁"
+        }
+      ]
+    }
+  ]
+}
