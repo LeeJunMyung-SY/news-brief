@@ -1,27 +1,17 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-08-31T16:23:02.429832+09:00",
-  "run_id": "run_20260831_162302",
-  "summary_ko": "AI가 실행 계약으로 내려오는 사이 수익화와 인프라 제약이 동시에 드러난 주.",
+  "updated_at": "2026-09-01T08:26:10.568366+09:00",
+  "run_id": "run_20260901_082610",
+  "summary_ko": "AI가 실행 계약으로 내려오는 사이 리스크와 과금 구조가 함께 재정의됐다.",
   "issues": [
     {
       "title": "금융 AI가 실행 영역으로",
-      "body_ko": "상담·내부통제를 지나 결제와 자산운용, 여신 심사까지 AI가 직접 수행하는 단계로 넘어갔다.",
+      "body_ko": "상담과 내부통제를 지나 결제·자산운용·여신 실행까지 AI가 직접 수행하는 단계로 넘어갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-08-31",
-          "file": "20260831-south-korea-s-shinha.md",
-          "title": "South Korea's Shinhan signs for Visa stablecoin platform"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-기관투자자-만난-진옥동-신한-회장-독.md",
-          "title": "기관투자자 만난 진옥동 신한 회장 \"독립이사 전문성·AI내부통제 강화\""
-        },
         {
           "date": "2026-08-31",
           "file": "20260831-kt-우리은행-ai-챗봇-상담봇-구축.md",
@@ -34,61 +24,37 @@
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-바이낸스-ai-에이전트-연결-플랫폼-.md",
-          "title": "바이낸스, 'AI 에이전트' 연결 플랫폼 공개"
+          "file": "20260831-south-korea-s-shinha.md",
+          "title": "South Korea's Shinhan signs for Visa stablecoin platform"
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-산업기술-r-d-사업화-우대금융-본격.md",
-          "title": "산업기술 R&D 사업화 우대금융 본격 가동…7천억원 규모"
+          "file": "20260831-기관투자자-만난-진옥동-신한-회장-독.md",
+          "title": "기관투자자 만난 진옥동 신한 회장 \"독립이사 전문성·AI내부통제 강화\""
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-ai-혁명-실패하면-글로벌-경제-충격.md",
-          "title": "“AI 혁명 실패하면 글로벌 경제 충격” 오건영이 꼽은 미국 부채 해법은"
+          "date": "2026-09-01",
+          "file": "20260901-금융-ax-힘주는-kt-5대은행-중-.md",
+          "title": "'금융 AX' 힘주는 KT…5대은행 중 4곳 구축"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-토스-외산-sase-대신-자체-개발-.md",
+          "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\""
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-moonpay-s-paybox-lau.md",
+          "title": "MoonPay's PayBox launches in Grok"
         }
       ]
     },
     {
-      "title": "모델 조달 실사 항목의 확장",
-      "body_ko": "성능·가격에 더해 학습 데이터 권리, 공급사의 규제 노출도, 통제 지점 설계가 비교 기준이 됐다.",
-      "topics": [
-        "llm_models",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-31",
-          "file": "20260831-sony-and-warner-sue-.md",
-          "title": "Sony and Warner sue Anthropic over \"one of the largest and most blatant ongoing thefts of intellectual property in history\""
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-anthropic-s-claude-c.md",
-          "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-미국-연방법원-앤트로픽-안보-위험-지.md",
-          "title": "미국 연방법원 \"앤트로픽, 안보 위험 지정 위법\"…국방부 '비판 기업 보복'에 제동"
-        },
-        {
-          "url": "https://arxiv.org/abs/2608.27646",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214650",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "공공·현장 AI가 구축 계약으로",
-      "body_ko": "거버넌스 논의가 정리된 자리에 누가 무엇을 짓고 어디서 운영하는지가 확정되기 시작했다.",
+      "title": "AI 위험이 감독 의제로",
+      "body_ko": "고평가와 레버리지, 사이버 위험이 금융안정 문제로 제기되며 규제 단위가 시스템으로 올라섰다.",
       "topics": [
         "ai_policy",
-        "physical_ai",
-        "ai_industry"
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -97,47 +63,32 @@
           "title": "\"공공AX 확산, 공통 보안기준 없으면 위험\""
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-태국판-모두의-ai-시작-해외-모델-.md",
-          "title": "태국판 '모두의 AI' 시작…해외 모델 구매해 국민에 개방"
+          "date": "2026-09-01",
+          "file": "20260901-bank-of-england-chie.md",
+          "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-공정-시작해-한마디에-ai가-지휘하는.md",
-          "title": "\"공정 시작해\" 한마디에… AI가 지휘하는 전북대 무인공장 [현장+]"
+          "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
+          "title": ""
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-lg전자-경영진-집결-로봇-모빌리티-.md",
-          "title": "LG전자 경영진 美 집결…로봇·모빌리티 R&D 인재 확보 총력"
+          "date": "2026-09-01",
+          "file": "20260901-chatgpt-now-faces-st.md",
+          "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-솔트룩스-모두의-ai-kt-컨소시엄-.md",
-          "title": "솔트룩스, ‘모두의 AI’ KT 컨소시엄 참여…공공 에이전트 구축 담당"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-k-온디바이스-ai-과제-최종-컨소시.md",
-          "title": "K-온디바이스 AI 과제, 최종 컨소시엄 확정…모빌린트·하이퍼엑셀 '두각'"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-마키나락스-창원에-첫-지역-거점-영남.md",
-          "title": "마키나락스, 창원에 첫 지역 거점…영남 제조AI 공략"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-초기-스마트폰-강자-블랙베리의-부활-.md",
-          "title": "'초기 스마트폰 강자' 블랙베리의 부활...자동차 이어 로봇 AI 노린다"
+          "date": "2026-09-01",
+          "file": "20260901-hugging-face-hack-co.md",
+          "title": "Hugging Face hack could indicate cultural issues at OpenAI"
         }
       ]
     },
     {
-      "title": "AI 수익화의 벽",
-      "body_ko": "도입은 늘지만 반복 매출과 실제 영업이익으로 이어지지 않아 성장률 전제를 다시 잡아야 한다.",
+      "title": "수익화 방식의 재편",
+      "body_ko": "도입은 늘어도 반복 매출이 없던 국면에서 성과 연동 과금과 광고라는 대체 경로가 검증되기 시작했다.",
       "topics": [
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
@@ -154,22 +105,77 @@
           "date": "2026-08-31",
           "file": "20260831-사이트-발라-카사비스와나탄-스노우플레.md",
           "title": "[人사이트] 발라 카사비스와나탄 스노우플레이크 부사장 “데이터 전략 없는 AI 전략 없다”"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-openai-starts-chargi.md",
+          "title": "OpenAI starts charging some customers only when its AI actually works"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-openai-says-its-chat.md",
+          "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-중국-ai-공세에-기업용-sw-경쟁축.md",
+          "title": "중국 AI 공세에 기업용 SW 경쟁축도 바뀐다…'모델'보다 '활용'"
         }
       ]
     },
     {
-      "title": "AI 인프라 병목의 이동",
-      "body_ko": "제약이 연산 장비에서 전력 기자재와 네트워크, 메모리로 옮겨가며 조달 계획의 전제가 바뀐다.",
+      "title": "공공·산업 AX가 집행 단계로",
+      "body_ko": "구상 발표가 끝나고 누가 무엇을 짓고 어디서 실증하는지가 예산과 함께 확정되고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-솔트룩스-모두의-ai-kt-컨소시엄-.md",
+          "title": "솔트룩스, ‘모두의 AI’ KT 컨소시엄 참여…공공 에이전트 구축 담당"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-k-온디바이스-ai-과제-최종-컨소시.md",
+          "title": "K-온디바이스 AI 과제, 최종 컨소시엄 확정…모빌린트·하이퍼엑셀 '두각'"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-하정우-전-수석-ai전략위-복귀-구글.md",
+          "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-마키나락스-창원에-첫-지역-거점-영남.md",
+          "title": "마키나락스, 창원에 첫 지역 거점…영남 제조AI 공략"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-현장-하정우-국가ai전략위-부위원장-.md",
+          "title": "[현장] 하정우 국가AI전략위 부위원장 \"전략 넘어 성과\"…취임 첫날 실행 시동"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-전남광주-ai-2단계-기술개발-실증-.md",
+          "title": "전남광주, AI 2단계 기술개발·실증 본격화…5년간 4557억 투입"
+        },
+        {
+          "url": "https://www.etnews.com/20260831000360",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 병목이 시간과 정치로",
+      "body_ko": "제약이 자본에서 메모리 리드타임과 전력, 지역 수용성으로 옮겨가며 확장 일정의 전제가 바뀐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-08-31",
-          "file": "20260831-musk-s-faster-path-t.md",
-          "title": "Musk’s faster path to more gas turbines comes with pollution problem"
-        },
         {
           "date": "2026-08-31",
           "file": "20260831-스페이스x-가스-터빈-부품-직접-생산.md",
@@ -182,28 +188,36 @@
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-ai-데이터센터-폐열로-냉각-연산용-.md",
-          "title": "AI 데이터센터, 폐열로 '냉각'…연산용 전력 최대 97MW 더 쓴다"
-        },
-        {
-          "date": "2026-08-31",
           "file": "20260831-메타-ai-전용-통신-규격-메타roc.md",
           "title": "메타, AI 전용 통신 규격 ‘메타RoCE’ 공개…수십만 GPU 네트워크 병목 잡는다"
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-ai-반도체-관건은-에너지-어플라이드.md",
-          "title": "\"AI 반도체, 관건은 에너지\"…어플라이드가 내놓은 '해법' [현장+]"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-반도체-사이클-이제-3회-말-규제-풀.md",
-          "title": "\"반도체 사이클 이제 3회 말…규제 풀어 제대로 지원해야\" [fn 인사이트]"
-        },
-        {
-          "date": "2026-08-31",
           "file": "20260831-엘리스그룹-ipo-자금-활용-모듈-데.md",
           "title": "엘리스그룹, IPO 자금 활용 '모듈 데이터센터' 전국 확대한다"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-반도체는-타이밍-사업-인프라-로-패러.md",
+          "title": "\"반도체는 타이밍 사업… '先 인프라'로 패러다임 바꿔야\""
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-nvidia-s-3-5b-mediat.md",
+          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-sk하이닉스-ai-붐-대응-위해-일본.md",
+          "title": "SK하이닉스, AI 붐 대응 위해 일본 메모리 합작공장 설립 검토"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672301",
+          "title": ""
         }
       ]
     }
