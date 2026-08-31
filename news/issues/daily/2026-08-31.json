@@ -1,15 +1,15 @@
 {
   "date": "2026-08-31",
-  "updated_at": "2026-08-31T08:19:45.116346+09:00",
-  "run_id": "run_20260831_081945",
-  "summary_ko": "AI가 결제·내부통제·공장 운영 등 기간 인프라 계층으로 파고든 하루.",
+  "updated_at": "2026-08-31T12:18:29.530599+09:00",
+  "run_id": "run_20260831_121829",
+  "summary_ko": "AI가 금융 실행 영역으로 들어서고, 공급사·인프라 리스크가 동시에 드러난 하루.",
   "issues": [
     {
-      "title": "금융 AI, 결제 인프라와 지배구조로 확장",
-      "summary_ko": "금융사 AI가 창구 효율을 넘어 결제 구조와 지배구조 설명 영역으로 올라섰다.",
+      "title": "금융 AI, 상담에서 자금 운용까지",
+      "summary_ko": "AI 적용 지점이 고객 안내에서 자금 운용과 결제 실행으로 내려왔다.",
       "topics": [
         "금융회사 AI",
-        "ai_industry"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -24,17 +24,27 @@
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-유승운-스톤브릿지벤처스-대표-인공지능.md",
-          "title": "유승운 스톤브릿지벤처스 대표 \"인공지능 플랫폼이 VC 시장 판도 바꿀 것\""
+          "file": "20260831-kt-우리은행-ai-챗봇-상담봇-구축.md",
+          "title": "KT, 우리은행 ‘AI 챗봇·상담봇’ 구축...\"에이전트로 막힘 없는 금융 상담\""
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-신한증권-신한-sol-로보연금-출시-.md",
+          "title": "신한증권, '신한 SOL 로보연금' 출시…\"AI기반 자동투자 서비스\""
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-바이낸스-ai-에이전트-연결-플랫폼-.md",
+          "title": "바이낸스, 'AI 에이전트' 연결 플랫폼 공개"
         }
       ]
     },
     {
-      "title": "모델 조달에 붙은 권리·한도 리스크",
-      "summary_ko": "공급사의 소송 노출과 한도 정책이 도입 기업의 실질 비용으로 전이된다.",
+      "title": "AI 공급사 리스크가 제도 문제로",
+      "summary_ko": "공급사의 정책·법적 충돌이 도입 기업의 계약 연속성 변수로 전이된다.",
       "topics": [
-        "llm_models",
-        "ai_policy"
+        "ai_policy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -46,15 +56,45 @@
           "date": "2026-08-31",
           "file": "20260831-anthropic-s-claude-c.md",
           "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-미국-연방법원-앤트로픽-안보-위험-지.md",
+          "title": "미국 연방법원 \"앤트로픽, 안보 위험 지정 위법\"…국방부 '비판 기업 보복'에 제동"
         }
       ]
     },
     {
-      "title": "공공 AI, 컨트롤타워 완성과 보안 요건",
-      "summary_ko": "발주 라인이 확정되는 동시에 조달 요건이 보안 추적성으로 넓어졌다.",
+      "title": "AI 호황의 착시와 인프라 병목",
+      "summary_ko": "실적 개선은 평가이익에 기대고, 실제 제약은 전력·메모리로 옮겨갔다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-08-31",
+          "file": "20260831-빅테크-ai-투자로-1600억-달러-.md",
+          "title": "美 빅테크, AI 투자로 1600억 달러 벌어…업계 \"실적 착시 우려\""
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-스페이스x-가스-터빈-부품-직접-생산.md",
+          "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파"
+        },
+        {
+          "date": "2026-08-31",
+          "file": "20260831-ai-메모리-품귀-올라탄-cxmt-상.md",
+          "title": "AI 메모리 품귀 올라탄 中 CXMT…상반기 매출 10배 폭증"
+        }
+      ]
+    },
+    {
+      "title": "국가 AI 전략, 개발과 조달로 갈린다",
+      "summary_ko": "모델을 직접 만들 것인가 사서 열어줄 것인가로 정책 노선이 나뉘었다.",
       "topics": [
         "ai_policy",
-        "ai_agents"
+        "llm_models"
       ],
       "articles": [
         {
@@ -64,33 +104,13 @@
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-공공ax-확산-공통-보안기준-없으면-.md",
-          "title": "\"공공AX 확산, 공통 보안기준 없으면 위험\""
-        }
-      ]
-    },
-    {
-      "title": "피지컬AI, 운영 계층 확보가 승부처",
-      "summary_ko": "개별 설비가 아니라 현장 전체를 지휘하는 소프트웨어가 경쟁 축이 됐다.",
-      "topics": [
-        "physical_ai",
-        "physical_ai_robotics"
-      ],
-      "articles": [
-        {
-          "date": "2026-08-31",
-          "file": "20260831-공정-시작해-한마디에-ai가-지휘하는.md",
-          "title": "\"공정 시작해\" 한마디에… AI가 지휘하는 전북대 무인공장 [현장+]"
+          "file": "20260831-태국판-모두의-ai-시작-해외-모델-.md",
+          "title": "태국판 '모두의 AI' 시작…해외 모델 구매해 국민에 개방"
         },
         {
           "date": "2026-08-31",
-          "file": "20260831-inside-meta-s-push-t.md",
-          "title": "Inside Meta’s push to put robots to work in data centers"
-        },
-        {
-          "date": "2026-08-31",
-          "file": "20260831-caterpillar-is-bring.md",
-          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining"
+          "file": "20260831-k-폴드-하나로-단백질-약물-핵산-예.md",
+          "title": "‘K-폴드’ 하나로 단백질·약물·핵산 예측…“한국판 신약 설계 독자 모델 나왔다”"
         }
       ]
     }
