@@ -1,12 +1,12 @@
 {
   "date": "2026-09-01",
-  "updated_at": "2026-09-01T12:25:17.212024+09:00",
-  "run_id": "run_20260901_122517",
-  "summary_ko": "국가 예산이 AI 집행 계획으로 확정되는 사이 금융과 규제도 함께 움직였다.",
+  "updated_at": "2026-09-01T16:41:21.205110+09:00",
+  "run_id": "run_20260901_164121",
+  "summary_ko": "국가 AI 예산이 사업 단위로 확정되는 사이 규제와 조직 역량이 동시에 조건으로 붙었다.",
   "issues": [
     {
-      "title": "AI 예산이 집행 계획으로",
-      "summary_ko": "총액 구호가 사업별 금액과 특별회계로 쪼개지며 발주 시점이 예측 가능해졌다.",
+      "title": "AI 예산이 사업 단위로",
+      "summary_ko": "총액 구호가 부처별 사업과 자본 공급 수단으로 쪼개지며 발주 시점이 계산 가능해졌다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -24,77 +24,52 @@
           "title": "[2027예산] 피지컬 AI에 3.1조…'모두의 AI' 에이전트로 진화"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20260831174800002",
-          "title": ""
-        },
-        {
           "date": "2026-09-01",
           "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
           "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260901104852",
+          "date": "2026-09-01",
+          "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
+          "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672242",
+          "title": ""
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-2027-예산안-20조원-넘는-한국판.md",
+          "title": "[2027 예산안]20조원 넘는 한국판 국부펀드 띄운다…모태펀드 출자도 역대 최대"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672352",
+          "title": ""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260901112400017",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 접점과 역량으로 동시에",
-      "summary_ko": "고객 플랫폼 재설계와 사내 활용 숙련도가 같은 전략의 앞뒤로 묶였다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-01",
-          "file": "20260901-금융-ax-힘주는-kt-5대은행-중-.md",
-          "title": "'금융 AX' 힘주는 KT…5대은행 중 4곳 구축"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-토스-외산-sase-대신-자체-개발-.md",
-          "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\""
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-메리츠증권-ai-탑재-글로벌-커뮤니티.md",
-          "title": "메리츠증권, 'AI 탑재·글로벌 커뮤니티' 금융 플랫폼 MOUM 출시(종합)"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
-          "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-수은-ai-첨단전략-중점투자-펀드-조.md",
-          "title": "수은, AI·첨단전략 중점투자 펀드 조성…3천억원 출자"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672328",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "AI 리스크가 적용 판단으로",
-      "summary_ko": "경고 단계를 지나 개별 기능의 국내 기준 적합 여부를 가르는 판정이 나오기 시작했다.",
+      "title": "규제가 플랫폼과 금융안정으로",
+      "summary_ko": "AI 전용 규제를 넘어 기존 플랫폼 규제와 금융 시스템 리스크로 감독 축이 넓어졌다.",
       "topics": [
         "ai_policy",
         "금융회사 AI",
-        "physical_ai"
+        "llm_models"
       ],
       "articles": [
-        {
-          "date": "2026-09-01",
-          "file": "20260901-bank-of-england-chie.md",
-          "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
-        },
         {
           "date": "2026-09-01",
           "file": "20260901-chatgpt-now-faces-st.md",
           "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-bank-of-england-chie.md",
+          "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
         },
         {
           "date": "2026-09-01",
@@ -103,19 +78,77 @@
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-아이티센-프롬프트-공격-막는-에이전트.md",
-          "title": "아이티센, 프롬프트 공격 막는 '에이전트고 가드' 출시"
+          "file": "20260901-eu-챗gpt-초대형-검색엔진-지정-.md",
+          "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화"
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-kisa-하반기-사이버-모의훈련-참가.md",
-          "title": "KISA, 하반기 사이버 모의훈련 참가 기업 모집…AI 시범 도입"
+          "file": "20260901-첨단-ai-금융-시스템-위협-영국-중.md",
+          "title": "\"첨단 AI, 금융 시스템 위협\"…영국 중앙은행 총재, G20에 경고"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-유재수의-특이점-singularity.md",
+          "title": "[유재수의 특이점(Singularity) 시대] 〈13〉AI 시대의 금융, AI 활용보다 보안이 우선이다"
+        },
+        {
+          "url": "https://www.etnews.com/20260901000226",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 수요가 부품과 전력으로",
-      "summary_ko": "제약이 연산 장비에서 부품 물량과 전력 인입으로 옮겨가며 조달 전선이 넓어졌다.",
+      "title": "AI 경쟁이 운영 역량으로",
+      "summary_ko": "모델 선택이 끝난 자리에서 조직의 연결·운영·인력 구성이 성과를 가르기 시작했다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-01",
+          "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
+          "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-금융-ax-힘주는-kt-5대은행-중-.md",
+          "title": "'금융 AX' 힘주는 KT…5대은행 중 4곳 구축"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-현장-이수정-ibm-사장-ai-경쟁-.md",
+          "title": "[현장] 이수정 IBM 사장 \"AI 경쟁, 핵심은 모델 아닌 운영\""
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-미국-국방부-군용-챗gpt-그록-도입.md",
+          "title": "미국 국방부, 군용 챗GPT·그록 도입…민감 데이터 보호 나선다"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-ai-시대-일의-재편-채용-시장-판도.md",
+          "title": "[AI 시대 일의 재편]① 채용 시장 판도 변화…연구서 '실무·AX'로"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260901135343",
+          "title": ""
+        },
+        {
+          "url": "https://www.fnnews.com/news/202609011402002196",
+          "title": ""
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-롯데이노베이트-분산-데이터-온톨로지로.md",
+          "title": "롯데이노베이트, 분산 데이터 온톨로지로 묶어 롯데백화점 ‘브랜드 AI’ 구축"
+        }
+      ]
+    },
+    {
+      "title": "인프라 병목이 전력과 냉각으로",
+      "summary_ko": "제약이 연산 장비를 지나 전력 인입과 발열 제어로 옮겨가며 조달 항목이 늘었다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -128,24 +161,39 @@
         },
         {
           "date": "2026-09-01",
+          "file": "20260901-삼성전기-ai-서버용-mlcc-1-1.md",
+          "title": "삼성전기, AI 서버용 MLCC 1.1조 공급계약…역대 최대 규모"
+        },
+        {
+          "date": "2026-09-01",
           "file": "20260901-sk하이닉스-ai-붐-대응-위해-일본.md",
           "title": "SK하이닉스, AI 붐 대응 위해 일본 메모리 합작공장 설립 검토"
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-삼성전기-ai-서버용-mlcc-1-1.md",
-          "title": "삼성전기, AI 서버용 MLCC 1.1조 공급계약…역대 최대 규모"
+          "file": "20260901-2027년-기후부-예산안-25조-73.md",
+          "title": "2027년 기후부 예산안 25조 7319억 원…역대 최대 규모 편성"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672327",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672336",
           "title": ""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672249",
+          "date": "2026-09-01",
+          "file": "20260901-삼성-메모리-한계-넘는-cube-전략.md",
+          "title": "삼성, 메모리 한계 넘는 CUBE 전략 공개…수직적층 'zHBM' 눈길"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672355",
           "title": ""
         },
         {
-          "url": "https://www.fnnews.com/news/202609010912420796",
+          "date": "2026-09-01",
+          "file": "20260901-수출-3개월-연속-900억-달러-상회.md",
+          "title": "수출 3개월 연속 900억 달러 상회…반도체 수출 467억 달러로 역대 최대"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609016562i",
           "title": ""
         }
       ]
