@@ -1,61 +1,46 @@
 {
   "date": "2026-09-01",
-  "updated_at": "2026-09-01T08:26:10.568366+09:00",
-  "run_id": "run_20260901_082610",
-  "summary_ko": "AI 위험이 금융감독 의제로 올라선 사이 과금과 공급 구도도 함께 재편됐다.",
+  "updated_at": "2026-09-01T12:25:17.212024+09:00",
+  "run_id": "run_20260901_122517",
+  "summary_ko": "국가 예산이 AI 집행 계획으로 확정되는 사이 금융과 규제도 함께 움직였다.",
   "issues": [
     {
-      "title": "AI 리스크, 금융안정 의제로",
-      "summary_ko": "AI가 개별 도입 심사를 넘어 시스템 리스크 관리 대상으로 편입되기 시작했다.",
+      "title": "AI 예산이 집행 계획으로",
+      "summary_ko": "총액 구호가 사업별 금액과 특별회계로 쪼개지며 발주 시점이 예측 가능해졌다.",
       "topics": [
-        "금융회사 AI",
-        "ai_policy"
+        "ai_policy",
+        "ai_industry",
+        "physical_ai"
       ],
       "articles": [
         {
           "date": "2026-09-01",
-          "file": "20260901-bank-of-england-chie.md",
-          "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
+          "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
+          "title": "3대 메가프로젝트·AI에 21.3조원 투입해 총력 지원 나선다[2027년 예산안]"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/31/ai-warning-house-intelligence-committee.html",
+          "date": "2026-09-01",
+          "file": "20260901-2027예산-피지컬-ai에-3-1조-.md",
+          "title": "[2027예산] 피지컬 AI에 3.1조…'모두의 AI' 에이전트로 진화"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260831174800002",
           "title": ""
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-chatgpt-now-faces-st.md",
-          "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
+          "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
+          "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260901104852",
+          "title": ""
         }
       ]
     },
     {
-      "title": "과금 기준이 성과로 이동",
-      "summary_ko": "ROI 입증 부담이 구매자에서 공급사로 넘어가는 계약 구조가 열렸다.",
-      "topics": [
-        "ai_industry",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-01",
-          "file": "20260901-openai-starts-chargi.md",
-          "title": "OpenAI starts charging some customers only when its AI actually works"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-openai-says-its-chat.md",
-          "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-중국-ai-공세에-기업용-sw-경쟁축.md",
-          "title": "중국 AI 공세에 기업용 SW 경쟁축도 바뀐다…'모델'보다 '활용'"
-        }
-      ]
-    },
-    {
-      "title": "금융 AI 공급 구도의 집중과 반작용",
-      "summary_ko": "소수 사업자로 구축이 몰리는 한편 자체 개발로 종속을 끊는 선택도 나왔다.",
+      "title": "금융 AI, 접점과 역량으로 동시에",
+      "summary_ko": "고객 플랫폼 재설계와 사내 활용 숙련도가 같은 전략의 앞뒤로 묶였다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -73,14 +58,64 @@
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-moonpay-s-paybox-lau.md",
-          "title": "MoonPay's PayBox launches in Grok"
+          "file": "20260901-메리츠증권-ai-탑재-글로벌-커뮤니티.md",
+          "title": "메리츠증권, 'AI 탑재·글로벌 커뮤니티' 금융 플랫폼 MOUM 출시(종합)"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
+          "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-수은-ai-첨단전략-중점투자-펀드-조.md",
+          "title": "수은, AI·첨단전략 중점투자 펀드 조성…3천억원 출자"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672328",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 조달 전제의 재설정",
-      "summary_ko": "제약이 자본이 아니라 리드타임·전력·지역 수용성으로 확정되는 국면이다.",
+      "title": "AI 리스크가 적용 판단으로",
+      "summary_ko": "경고 단계를 지나 개별 기능의 국내 기준 적합 여부를 가르는 판정이 나오기 시작했다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-01",
+          "file": "20260901-bank-of-england-chie.md",
+          "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-chatgpt-now-faces-st.md",
+          "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-단독-국토부-테슬라-감독형-fsd-국.md",
+          "title": "[단독] 국토부 “테슬라 감독형 FSD 국내 기준 부적합”…미국산 예외"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-아이티센-프롬프트-공격-막는-에이전트.md",
+          "title": "아이티센, 프롬프트 공격 막는 '에이전트고 가드' 출시"
+        },
+        {
+          "date": "2026-09-01",
+          "file": "20260901-kisa-하반기-사이버-모의훈련-참가.md",
+          "title": "KISA, 하반기 사이버 모의훈련 참가 기업 모집…AI 시범 도입"
+        }
+      ]
+    },
+    {
+      "title": "인프라 수요가 부품과 전력으로",
+      "summary_ko": "제약이 연산 장비에서 부품 물량과 전력 인입으로 옮겨가며 조달 전선이 넓어졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -93,20 +128,24 @@
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-nvidia-s-3-5b-mediat.md",
-          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout"
-        },
-        {
-          "date": "2026-09-01",
           "file": "20260901-sk하이닉스-ai-붐-대응-위해-일본.md",
           "title": "SK하이닉스, AI 붐 대응 위해 일본 메모리 합작공장 설립 검토"
         },
         {
-          "url": "https://www.cnbc.com/2026/08/31/trump-data-centers-backlash-elections-congress.html",
+          "date": "2026-09-01",
+          "file": "20260901-삼성전기-ai-서버용-mlcc-1-1.md",
+          "title": "삼성전기, AI 서버용 MLCC 1.1조 공급계약…역대 최대 규모"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672327",
           "title": ""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672301",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672249",
+          "title": ""
+        },
+        {
+          "url": "https://www.fnnews.com/news/202609010912420796",
           "title": ""
         }
       ]
