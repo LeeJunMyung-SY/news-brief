@@ -1,15 +1,16 @@
 {
   "date": "2026-09-02",
-  "updated_at": "2026-09-02T09:13:42.539393+09:00",
-  "run_id": "run_20260902_091342",
-  "summary_ko": "AI가 감독기관 업무까지 들어오는 사이 보안과 통제가 도입 비용으로 함께 붙었다.",
+  "updated_at": "2026-09-02T12:22:12.575222+09:00",
+  "run_id": "run_20260902_122212",
+  "summary_ko": "AI가 감독기관과 사내 업무로 파고드는 사이 광고·보안 규제가 도입 조건을 좁혔다.",
   "issues": [
     {
-      "title": "금융 AI, 감독기관까지",
-      "summary_ko": "활용 주체가 피감기관을 넘어 감독기관으로 넓어지며 기준이 실무에서 만들어진다.",
+      "title": "금융 AI, 감독기관에서 사내 업무까지",
+      "summary_ko": "활용 주체가 감독기관으로 넓어지는 동시에 적용 지점이 창구 밖 임직원 업무로 내려왔다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
@@ -23,32 +24,36 @@
           "title": "DBS and Stripe join forces"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110773/digital-onboarding-launches-ai-native-business-intelligence-agent-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-ls증권-멀티-llm-기반-사내-업무.md",
+          "title": "LS증권, 멀티 LLM 기반 '사내 업무형 AI 플랫폼' 구축 착수"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110772/vertice-ai-launches-growth-engine-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-빗썸에-ai-붙었다-코인-종목-분석부.md",
+          "title": "빗썸에 AI 붙었다…코인 종목 분석부터 상승·하락 신호까지"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12141615",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-챗gpt-클로드-제미나이를-한-번에-.md",
+          "title": "챗GPT·클로드·제미나이를 한 번에…하나카드, AI 구독 지원"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-700만명-모은-토스-페이스페이-보안.md",
+          "title": "700만명 모은 토스 ‘페이스페이’…\"보안 난이도 강화…금융권 수준\""
         }
       ]
     },
     {
-      "title": "보안이 도입 비용으로",
-      "summary_ko": "모델 능력이 방어 수준을 앞지르면서 통제 계층이 별도 조달 항목이 됐다.",
+      "title": "규제가 광고 문구까지",
+      "summary_ko": "성능 주장에 입증 책임이 붙고 보안 기준까지 흔들리며 도입 전제가 좁아졌다.",
       "topics": [
         "ai_policy",
-        "ai_agents",
-        "llm_models"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
-        {
-          "url": "https://openai.com/index/path-to-astra",
-          "title": ""
-        },
         {
           "date": "2026-09-02",
           "file": "20260902-가트너-내년-ai보안-시장-69-성장.md",
@@ -56,56 +61,71 @@
         },
         {
           "date": "2026-09-02",
-          "file": "20260902-palo-alto-ceo-says-1.md",
-          "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI"
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-          "title": ""
+          "file": "20260902-오픈ai-차세대-모델-아스트라-곧-출.md",
+          "title": "오픈AI, 차세대 모델 '아스트라' 곧 출시…사이버 보안 기능 일부 제한 예정"
         },
         {
           "date": "2026-09-02",
-          "file": "20260902-오픈ai-차세대-모델-아스트라-곧-출.md",
-          "title": "오픈AI, 차세대 모델 '아스트라' 곧 출시…사이버 보안 기능 일부 제한 예정"
+          "file": "20260902-공정위-ai-성능-광고도-사전-실증-.md",
+          "title": "공정위, AI 성능 광고도 '사전 실증'…자료 미제출 땐 광고 중지"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-국가-클라우드-보안-개편에-업계-촉각.md",
+          "title": "국가 클라우드 보안 개편에 업계 '촉각'…\"기존 투자 무력화 우려\""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260902048700002",
+          "title": ""
         }
       ]
     },
     {
-      "title": "단가는 내리고 수익은 붙는다",
-      "summary_ko": "운용 비용이 떨어지고 구독 밖 과금이 규모로 확인되며 사업화 조건이 갖춰진다.",
+      "title": "연산이 개별 기업 설비로",
+      "summary_ko": "임차가 아닌 자체 보유로 기울면서 병목이 패키징과 전력 시공까지 번졌다.",
       "topics": [
-        "llm_models",
-        "ai_industry",
-        "ai_agents"
+        "ai_compute_energy",
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-09-02",
-          "file": "20260902-앤트로픽-최고-성능-페이블-5-1-출.md",
-          "title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인"
+          "file": "20260902-델-ai-서버-수요-폭발-매출-전망-.md",
+          "title": "델, AI 서버 수요 폭발…年 매출 전망 34조원 상향"
         },
         {
           "date": "2026-09-02",
-          "file": "20260902-챗gpt-광고-시작-200일만에-연매.md",
-          "title": "챗GPT 광고 시작 200일만에…연매출 1조3700억원 돌파"
+          "file": "20260902-sk바이오팜-신약-개발-ai로-속도-.md",
+          "title": "SK바이오팜, 신약 개발 AI로 속도 높인다…엔비디아 'B200' 128장 도입"
         },
         {
-          "url": "https://openai.com/index/ai-native-company-workflows",
+          "date": "2026-09-02",
+          "file": "20260902-한미반도체-hbm-넘어-2-5d-패키.md",
+          "title": "한미반도체, HBM 넘어 2.5D 패키징까지…AI 시장 판도 바꾼다"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-특징주-두산퓨얼셀-aidc-전력-시장.md",
+          "title": "[특징주] 두산퓨얼셀, 美 AIDC 전력 시장 진출에도 장 초반 8%↓"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672421",
           "title": ""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672387",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-테크-차이나-화웨이-샤오미-아너-기존.md",
+          "title": "[테크 차이나] 화웨이·샤오미·아너, 기존폰까지 가격 인상…메모리발 스마트폰값 상승 본격화"
         }
       ]
     },
     {
-      "title": "국가 AI가 조달로",
-      "summary_ko": "예산 배분을 지나 연산 자원과 발주 대상이 구체적으로 확정되는 단계다.",
+      "title": "국가 AI가 조달에서 수출로",
+      "summary_ko": "예산 배분과 발주 확정을 지나 국산 스택이 해외 현장 검증 단계에 들어섰다.",
       "topics": [
         "ai_policy",
         "ai_industry",
-        "ai_compute_energy"
+        "llm_models"
       ],
       "articles": [
         {
@@ -115,20 +135,21 @@
         },
         {
           "date": "2026-09-02",
+          "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
+          "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
+        },
+        {
+          "date": "2026-09-02",
           "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
           "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
         },
         {
           "date": "2026-09-02",
-          "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
-          "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
+          "file": "20260902-kosa-한국-풀스택-ai-컨소시엄-.md",
+          "title": "KOSA, '한국 풀스택 AI 컨소시엄' 아람코 디지털 기술 실증 완료"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672351",
-          "title": ""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260901214336",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214729",
           "title": ""
         }
       ]
