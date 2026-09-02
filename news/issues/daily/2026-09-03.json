@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-03",
+  "updated_at": "2026-09-03T08:29:15.902229+09:00",
+  "run_id": "run_20260903_082915",
+  "summary_ko": "AI 가격이 바닥을 치는 사이 인프라 수요의 실체와 안전 통제가 도입 조건으로 떠올랐다.",
+  "issues": [
+    {
+      "title": "AI 원가가 무너진다",
+      "summary_ko": "실거래 토큰값이 사상 최저로 내려앉으며 공급사의 수익 구조가 흔들린다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-03",
+          "file": "20260903-ai-토큰-가격-사상-최저치-중국산-.md",
+          "title": "AI 토큰 가격 사상 최저치…중국산 모델 인기·가격 경쟁 심화 여파"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214733",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214774",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "부풀려진 전력 수요",
+      "summary_ko": "보증금을 요구하자 신청 물량 절반이 사라지며 수요 추정의 신뢰가 깨졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-03",
+          "file": "20260903-ai-수요-700gw의-진실-보증금-.md",
+          "title": "AI 수요 700GW의 진실…보증금 내라 하자 절반이 사라졌다"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609020556i",
+          "title": ""
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-한미반도체-대만-파운드리-기업에-패키.md",
+          "title": "한미반도체, 대만 파운드리 기업에 패키징 장비 대량 공급…양산 라인 확보"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672507",
+          "title": ""
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-how-equinix-has-foun.md",
+          "title": "How Equinix has found a niche in the multitrillion-dollar AI data center boom"
+        }
+      ]
+    },
+    {
+      "title": "금융 후선업무로 들어온 AI",
+      "summary_ko": "실사·회계·사기대응 등 금융 후선 업무가 통째로 AI 제품이 되고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-03",
+          "file": "20260903-nasdaq-acquires-ai-d.md",
+          "title": "Nasdaq acquires AI due diligence platform Dasseti"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-airwallex-unveils-ai.md",
+          "title": "Airwallex unveils AI bookkeeping platform"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110783/juspay-pilots-offering-that-enables-brand-discovery-across-ai-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-사기범을-붙잡아-두는-ai-112억-.md",
+          "title": "사기범을 붙잡아 두는 AI, 112억 원 조달…호주 아파테AI 미국 법인 전환"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110782/binance-ships-agent-os-to-connect-ai-with-crypto?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "성능이 아니라 봉인이 기준",
+      "summary_ko": "위험 등급을 넘은 기능은 잠긴 채 출시돼 성능과 사용 범위가 갈린다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "url": "https://the-decoder.com/openai-calls-astra-its-most-dangerous-model-yet-watching-what-it-does-is-only-getting-harder/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-제멋대로-해킹하는-통제불가-ai-오픈.md",
+          "title": "제멋대로 해킹하는 '통제불가 AI'…오픈AI·앤트로픽, 결국 봉인"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-hiddenlayer-nabs-100.md",
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments"
+        }
+      ]
+    }
+  ]
+}
