@@ -1,12 +1,12 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-01T16:41:21.205110+09:00",
-  "run_id": "run_20260901_164121",
-  "summary_ko": "AI가 실행 계약으로 내려오는 사이 예산·규제·인프라가 그 속도의 조건을 함께 정했다.",
+  "updated_at": "2026-09-02T09:13:42.539393+09:00",
+  "run_id": "run_20260902_091342",
+  "summary_ko": "AI가 실행 단계로 내려오는 사이 보안·예산·인프라가 그 속도의 조건을 정했다.",
   "issues": [
     {
-      "title": "금융 AI가 실행 영역으로",
-      "body_ko": "상담과 내부통제를 지나 고객 플랫폼 재설계와 전담 직군 채용까지 상시 운영 단계로 넘어갔다.",
+      "title": "금융 AI가 감독까지 확장",
+      "body_ko": "상담과 내부통제를 지나 고객 플랫폼과 감독기관 업무까지 상시 운영 단계로 넘어갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -38,42 +38,39 @@
           "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260901135343",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-ai가-민원-답변-초안-작성-금감원-.md",
+          "title": "AI가 민원 답변 초안 작성…금감원, 민원·분쟁 AI 시범운영"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-국내외-금융기관-140여-곳이-선택한.md",
-          "title": "국내외 금융기관 140여 곳이 선택한 ‘에버스핀’의 초격차 보안기술 비결"
+          "date": "2026-09-02",
+          "file": "20260902-dbs-and-stripe-join-.md",
+          "title": "DBS and Stripe join forces"
         },
         {
-          "url": "https://www.etnews.com/20260901000362",
+          "url": "https://www.finextra.com/pressarticle/110773/digital-onboarding-launches-ai-native-business-intelligence-agent-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 위험이 감독 의제로",
-      "body_ko": "고평가 경고를 지나 플랫폼 규제 편입과 국제 금융안정 의제로 감독 층위가 올라섰다.",
+      "title": "보안이 도입의 동반 비용으로",
+      "body_ko": "모델의 공격 능력이 임계치를 넘으면서 통제·현대화 비용이 도입 예산에 함께 붙었다.",
       "topics": [
         "ai_policy",
+        "ai_agents",
         "금융회사 AI"
       ],
       "articles": [
         {
           "date": "2026-09-01",
-          "file": "20260901-bank-of-england-chie.md",
-          "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
+          "file": "20260901-첨단-ai-금융-시스템-위협-영국-중.md",
+          "title": "\"첨단 AI, 금융 시스템 위협\"…영국 중앙은행 총재, G20에 경고"
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-chatgpt-now-faces-st.md",
-          "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-단독-국토부-테슬라-감독형-fsd-국.md",
-          "title": "[단독] 국토부 “테슬라 감독형 FSD 국내 기준 부적합”…미국산 예외"
+          "file": "20260901-유재수의-특이점-singularity.md",
+          "title": "[유재수의 특이점(Singularity) 시대] 〈13〉AI 시대의 금융, AI 활용보다 보안이 우선이다"
         },
         {
           "date": "2026-08-31",
@@ -86,14 +83,22 @@
           "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-첨단-ai-금융-시스템-위협-영국-중.md",
-          "title": "\"첨단 AI, 금융 시스템 위협\"…영국 중앙은행 총재, G20에 경고"
+          "url": "https://openai.com/index/path-to-astra",
+          "title": ""
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-유재수의-특이점-singularity.md",
-          "title": "[유재수의 특이점(Singularity) 시대] 〈13〉AI 시대의 금융, AI 활용보다 보안이 우선이다"
+          "date": "2026-09-02",
+          "file": "20260902-가트너-내년-ai보안-시장-69-성장.md",
+          "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-palo-alto-ceo-says-1.md",
+          "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "title": ""
         }
       ]
     },
@@ -112,11 +117,6 @@
           "title": "중국 AI 공세에 기업용 SW 경쟁축도 바뀐다…'모델'보다 '활용'"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-openai-starts-chargi.md",
-          "title": "OpenAI starts charging some customers only when its AI actually works"
-        },
-        {
           "date": "2026-08-31",
           "file": "20260831-사이트-발라-카사비스와나탄-스노우플레.md",
           "title": "[人사이트] 발라 카사비스와나탄 스노우플레이크 부사장 “데이터 전략 없는 AI 전략 없다”"
@@ -128,24 +128,26 @@
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-미국-국방부-군용-챗gpt-그록-도입.md",
-          "title": "미국 국방부, 군용 챗GPT·그록 도입…민감 데이터 보호 나선다"
-        },
-        {
-          "date": "2026-09-01",
           "file": "20260901-ai-시대-일의-재편-채용-시장-판도.md",
           "title": "[AI 시대 일의 재편]① 채용 시장 판도 변화…연구서 '실무·AX'로"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-롯데이노베이트-분산-데이터-온톨로지로.md",
-          "title": "롯데이노베이트, 분산 데이터 온톨로지로 묶어 롯데백화점 ‘브랜드 AI’ 구축"
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672204",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026090173351",
+          "title": ""
         }
       ]
     },
     {
-      "title": "국가 AI가 예산으로 확정",
-      "body_ko": "구상과 컨소시엄 선정을 지나 부처별 금액과 전략펀드가 붙으며 수요 시점이 계산 가능해졌다.",
+      "title": "국가 AI가 예산에서 조달로",
+      "body_ko": "총액 편성을 지나 연산 자원 확보와 발주 대상 선정으로 내려오며 수요 시점이 잡혔다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -164,13 +166,8 @@
         },
         {
           "date": "2026-09-01",
-          "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
-          "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-현장-하정우-국가ai전략위-부위원장-.md",
-          "title": "[현장] 하정우 국가AI전략위 부위원장 \"전략 넘어 성과\"…취임 첫날 실행 시동"
+          "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
+          "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
         },
         {
           "date": "2026-08-31",
@@ -178,28 +175,29 @@
           "title": "솔트룩스, ‘모두의 AI’ KT 컨소시엄 참여…공공 에이전트 구축 담당"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
-          "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
+          "date": "2026-09-02",
+          "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
+          "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672242",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
+          "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-2027-예산안-20조원-넘는-한국판.md",
-          "title": "[2027 예산안]20조원 넘는 한국판 국부펀드 띄운다…모태펀드 출자도 역대 최대"
+          "date": "2026-09-02",
+          "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
+          "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672352",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672351",
           "title": ""
         }
       ]
     },
     {
-      "title": "인프라 병목이 전력과 냉각으로",
-      "body_ko": "제약이 자본과 장비를 지나 전력 인입·발열 제어·지역 수용성으로 옮겨가며 확장 일정의 전제가 바뀐다.",
+      "title": "인프라 제약이 수용성과 자본으로",
+      "body_ko": "전력·냉각을 지나 지역 반대와 조달 금리까지 확장 일정의 전제가 넓어졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -211,9 +209,9 @@
           "title": "\"반도체는 타이밍 사업… '先 인프라'로 패러다임 바꿔야\""
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-nvidia-s-3-5b-mediat.md",
-          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout"
+          "date": "2026-08-31",
+          "file": "20260831-스페이스x-가스-터빈-부품-직접-생산.md",
+          "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파"
         },
         {
           "date": "2026-09-01",
@@ -221,31 +219,23 @@
           "title": "삼성전기, AI 서버용 MLCC 1.1조 공급계약…역대 최대 규모"
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-스페이스x-가스-터빈-부품-직접-생산.md",
-          "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-2027년-기후부-예산안-25조-73.md",
-          "title": "2027년 기후부 예산안 25조 7319억 원…역대 최대 규모 편성"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672336",
-          "title": ""
-        },
-        {
           "date": "2026-09-01",
           "file": "20260901-삼성-메모리-한계-넘는-cube-전략.md",
           "title": "삼성, 메모리 한계 넘는 CUBE 전략 공개…수직적층 'zHBM' 눈길"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672355",
+          "url": "https://www.cnbc.com/2026/09/01/data-center-pennsylvania-shapiro-trump.html",
           "title": ""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214695",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-20년-글로벌-저축-과잉-시대-끝-a.md",
+          "title": "'20년 글로벌 저축 과잉' 시대 끝…AI·방산 투자전쟁에 국채 금리도 뛴다"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-델-ai-서버-수요-폭발-매출-전망-.md",
+          "title": "델, AI 서버 수요 폭발…年 매출 전망 34조원 상향"
         }
       ]
     }

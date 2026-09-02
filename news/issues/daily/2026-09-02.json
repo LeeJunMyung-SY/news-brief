@@ -1,0 +1,137 @@
+{
+  "date": "2026-09-02",
+  "updated_at": "2026-09-02T09:13:42.539393+09:00",
+  "run_id": "run_20260902_091342",
+  "summary_ko": "AI가 감독기관 업무까지 들어오는 사이 보안과 통제가 도입 비용으로 함께 붙었다.",
+  "issues": [
+    {
+      "title": "금융 AI, 감독기관까지",
+      "summary_ko": "활용 주체가 피감기관을 넘어 감독기관으로 넓어지며 기준이 실무에서 만들어진다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-02",
+          "file": "20260902-ai가-민원-답변-초안-작성-금감원-.md",
+          "title": "AI가 민원 답변 초안 작성…금감원, 민원·분쟁 AI 시범운영"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-dbs-and-stripe-join-.md",
+          "title": "DBS and Stripe join forces"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110773/digital-onboarding-launches-ai-native-business-intelligence-agent-for-banks?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110772/vertice-ai-launches-growth-engine-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12141615",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "보안이 도입 비용으로",
+      "summary_ko": "모델 능력이 방어 수준을 앞지르면서 통제 계층이 별도 조달 항목이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "url": "https://openai.com/index/path-to-astra",
+          "title": ""
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-가트너-내년-ai보안-시장-69-성장.md",
+          "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-palo-alto-ceo-says-1.md",
+          "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-오픈ai-차세대-모델-아스트라-곧-출.md",
+          "title": "오픈AI, 차세대 모델 '아스트라' 곧 출시…사이버 보안 기능 일부 제한 예정"
+        }
+      ]
+    },
+    {
+      "title": "단가는 내리고 수익은 붙는다",
+      "summary_ko": "운용 비용이 떨어지고 구독 밖 과금이 규모로 확인되며 사업화 조건이 갖춰진다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-02",
+          "file": "20260902-앤트로픽-최고-성능-페이블-5-1-출.md",
+          "title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-챗gpt-광고-시작-200일만에-연매.md",
+          "title": "챗GPT 광고 시작 200일만에…연매출 1조3700억원 돌파"
+        },
+        {
+          "url": "https://openai.com/index/ai-native-company-workflows",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672387",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "국가 AI가 조달로",
+      "summary_ko": "예산 배분을 지나 연산 자원과 발주 대상이 구체적으로 확정되는 단계다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-02",
+          "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
+          "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
+          "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
+        },
+        {
+          "date": "2026-09-02",
+          "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
+          "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672351",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260901214336",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
