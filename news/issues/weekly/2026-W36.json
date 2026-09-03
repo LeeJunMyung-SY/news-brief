@@ -1,12 +1,12 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-03T08:29:15.902229+09:00",
-  "run_id": "run_20260903_082915",
-  "summary_ko": "AI가 실행 단계로 내려오는 사이 원가와 인프라 수요의 실체가 함께 드러났다.",
+  "updated_at": "2026-09-03T12:19:17.514160+09:00",
+  "run_id": "run_20260903_121917",
+  "summary_ko": "AI가 실행 단계로 내려오는 사이 인프라 비용과 보안 주권이 도입 조건으로 붙었다.",
   "issues": [
     {
       "title": "금융 AI가 후선 업무 전체로",
-      "body_ko": "상담과 사내 업무를 지나 실사·회계·사기대응까지 금융 업무가 통째로 AI 제품이 됐다.",
+      "body_ko": "상담을 지나 실사·회계·심사·기획까지 금융 업무가 통째로 AI 제품이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -29,11 +29,6 @@
           "title": "KT, 우리은행 ‘AI 챗봇·상담봇’ 구축...\"에이전트로 막힘 없는 금융 상담\""
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-메리츠증권-ai-탑재-글로벌-커뮤니티.md",
-          "title": "메리츠증권, 'AI 탑재·글로벌 커뮤니티' 금융 플랫폼 MOUM 출시(종합)"
-        },
-        {
           "date": "2026-09-03",
           "file": "20260903-nasdaq-acquires-ai-d.md",
           "title": "Nasdaq acquires AI due diligence platform Dasseti"
@@ -44,23 +39,29 @@
           "title": "Airwallex unveils AI bookkeeping platform"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110783/juspay-pilots-offering-that-enables-brand-discovery-across-ai-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-09-03",
+          "file": "20260903-거절-고객도-정밀-심사-어피닛-서울대.md",
+          "title": "\"거절 고객도 정밀 심사”…어피닛-서울대, 신용 평가 AI 특허 출원"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-kb국민은행-경영진-ai로-내년-사업.md",
+          "title": "KB국민은행 경영진, AI로 내년 사업계획 초안…실습 교육"
         }
       ]
     },
     {
-      "title": "가격은 내리고 원가는 오른다",
-      "body_ko": "실거래 토큰값이 최저로 떨어지는 동안 작업당 비용은 되레 올라 수익 구조가 갈렸다.",
+      "title": "가격은 내리고 갱신은 빨라진다",
+      "body_ko": "토큰값이 최저로 떨어지는 동안 모델 교체 주기가 몇 주로 줄어 조달 기준이 흔들린다.",
       "topics": [
         "llm_models",
         "ai_industry"
       ],
       "articles": [
         {
-          "date": "2026-09-01",
-          "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
-          "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
+          "date": "2026-09-03",
+          "file": "20260903-ai-토큰-가격-사상-최저치-중국산-.md",
+          "title": "AI 토큰 가격 사상 최저치…중국산 모델 인기·가격 경쟁 심화 여파"
         },
         {
           "date": "2026-08-31",
@@ -68,71 +69,66 @@
           "title": "美 빅테크, AI 투자로 1600억 달러 벌어…업계 \"실적 착시 우려\""
         },
         {
+          "date": "2026-09-01",
+          "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
+          "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
+        },
+        {
           "date": "2026-09-03",
-          "file": "20260903-ai-토큰-가격-사상-최저치-중국산-.md",
-          "title": "AI 토큰 가격 사상 최저치…중국산 모델 인기·가격 경쟁 심화 여파"
+          "file": "20260903-3주-만에-반격-구글-코딩-성능-강화.md",
+          "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214733",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/gemini-3-8-flash-is-googles-third-budget-model-in-six-weeks-while-frontier-models-remain-mia/",
-          "title": ""
-        },
-        {
-          "url": "https://www.finextra.com/blogposting/32701/dont-give-ai-to-everyone-give-it-to-your-best-people-first?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-09-03",
+          "file": "20260903-오픈ai-아스트라-이번-주-출시설-a.md",
+          "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착"
         }
       ]
     },
     {
-      "title": "규제 노선과 책임 범위가 갈린다",
-      "body_ko": "학습 데이터와 연령 제한, 관할별 규제 노선이 동시에 움직이며 준수 설계가 복잡해졌다.",
+      "title": "보안이 도입의 전제 조건으로",
+      "body_ko": "위험 기능은 봉인되고 계정 탈취가 실제로 터지며 보안이 성능보다 앞선 기준이 됐다.",
       "topics": [
         "ai_policy",
-        "ai_industry",
-        "금융회사 AI"
+        "llm_models",
+        "ai_agents"
       ],
       "articles": [
         {
-          "date": "2026-09-02",
-          "file": "20260902-공정위-ai-성능-광고도-사전-실증-.md",
-          "title": "공정위, AI 성능 광고도 '사전 실증'…자료 미제출 땐 광고 중지"
-        },
-        {
-          "date": "2026-09-01",
-          "file": "20260901-eu-챗gpt-초대형-검색엔진-지정-.md",
-          "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화"
-        },
-        {
-          "date": "2026-09-02",
-          "file": "20260902-미국-g20-회의서-ai-규제-신설-.md",
-          "title": "미국, G20 회의서 AI 규제 신설 반대...머스크 \"EU식 규제가 혁신 저하\""
+          "date": "2026-09-03",
+          "file": "20260903-제멋대로-해킹하는-통제불가-ai-오픈.md",
+          "title": "제멋대로 해킹하는 '통제불가 AI'…오픈AI·앤트로픽, 결국 봉인"
         },
         {
           "date": "2026-09-03",
-          "file": "20260903-us-department-of-jus.md",
-          "title": "US Department of Justice backs fair use for AI training in landmark copyright case"
+          "file": "20260903-hiddenlayer-nabs-100.md",
+          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments"
         },
         {
-          "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-          "title": ""
+          "date": "2026-09-02",
+          "file": "20260902-가트너-내년-ai보안-시장-69-성장.md",
+          "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고"
         },
         {
           "date": "2026-09-03",
-          "file": "20260903-ai는-지금-영국-ai-전략-설계자-.md",
-          "title": "[AI는 지금] 영국 AI 전략 설계자, 앤트로픽행…글로벌 정부 협력 주도"
+          "file": "20260903-종합-네이버-보안-ai-품었다-gpu.md",
+          "title": "[종합] 네이버, '보안 AI' 품었다…GPU·데이터·실증 역량 앞세워"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260902173940",
-          "title": ""
+          "date": "2026-09-03",
+          "file": "20260903-네이버-lg-정부-보안-ai-공동-개.md",
+          "title": "네이버-LG, 정부 보안 AI 공동 개발…방어·공격 모델 따로 만든다"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-개인용-클로드-계정-탈취-공격-확인-.md",
+          "title": "개인용 '클로드' 계정 탈취 공격 확인…회사 데이터도 노출 우려"
         }
       ]
     },
     {
-      "title": "인프라 수요가 검증대에 섰다",
-      "body_ko": "장기계약으로 미리 사두던 연산과 전력이 실수요 확인 단계로 넘어가며 거품이 걷혔다.",
+      "title": "인프라 비용이 사용자에게 넘어간다",
+      "body_ko": "수요 검증이 시작된 데 이어 전력망 재원까지 대규모 수요 기업이 선지급하는 구조가 제안됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -149,34 +145,25 @@
           "title": "구글, 페르보와 396MW 지열발전 계약…데이터센터 전력 확보하나"
         },
         {
-          "date": "2026-09-01",
-          "file": "20260901-반도체는-타이밍-사업-인프라-로-패러.md",
-          "title": "\"반도체는 타이밍 사업… '先 인프라'로 패러다임 바꿔야\""
-        },
-        {
           "date": "2026-09-03",
           "file": "20260903-ai-수요-700gw의-진실-보증금-.md",
           "title": "AI 수요 700GW의 진실…보증금 내라 하자 절반이 사라졌다"
         },
         {
-          "url": "https://www.hankyung.com/article/202609020556i",
-          "title": ""
+          "date": "2026-09-03",
+          "file": "20260903-한전-삼전닉스에-전기료-25조-선납-.md",
+          "title": "한전, 삼전닉스에 전기료 25조 선납 제안…전력망 재원 마련"
         },
         {
           "date": "2026-09-03",
-          "file": "20260903-한미반도체-대만-파운드리-기업에-패키.md",
-          "title": "한미반도체, 대만 파운드리 기업에 패키징 장비 대량 공급…양산 라인 확보"
-        },
-        {
-          "date": "2026-09-03",
-          "file": "20260903-엔비디아-오픈소스-ai-플랫폼-허깅페.md",
-          "title": "\"엔비디아, 오픈소스 AI 플랫폼 허깅페이스 19조원에 인수\""
+          "file": "20260903-aidc-투자에-2050년까지-4경-.md",
+          "title": "AIDC 투자에 2050년까지 4경 3000조원 쏟아진다"
         }
       ]
     },
     {
-      "title": "국가 AI가 예산에서 표준·현장으로",
-      "body_ko": "총액 편성과 발주 확정을 지나 국제 표준 제안과 지역·의료 현장 데이터로 무게가 옮겨갔다.",
+      "title": "국가 AI가 예산에서 조달·안보로",
+      "body_ko": "총액 편성을 지나 발주 확정과 조달 제도 개편, 국방 영역으로 집행 지점이 옮겨갔다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -194,23 +181,24 @@
           "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
         },
         {
-          "date": "2026-09-02",
-          "file": "20260902-kosa-한국-풀스택-ai-컨소시엄-.md",
-          "title": "KOSA, '한국 풀스택 AI 컨소시엄' 아람코 디지털 기술 실증 완료"
-        },
-        {
           "date": "2026-09-03",
           "file": "20260903-김정관-g20-혁신장관회의서-m-ax.md",
           "title": "김정관, G20 혁신장관회의서 “M.AX 모델로 글로벌 공급망 위기 극복”"
         },
         {
-          "url": "https://www.etnews.com/20260903000005",
-          "title": ""
-        },
-        {
           "date": "2026-09-03",
           "file": "20260903-인천시-490억원-투입해-ai-기반-.md",
           "title": "인천시, 490억원 투입해 AI 기반 대드론 방산클러스터 구축"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-국방부-ai-예산-2000억원대-배정.md",
+          "title": "국방부, AI 예산 2000억원대 배정…독자모델·피지컬 AI 키운다"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-드론-도입도-5년-정부-신안보-기업-.md",
+          "title": "“드론 도입도 5년”…정부, 신안보 기업 육성에 '한국형 OTA·인큐텔' 띄운다"
         }
       ]
     }
