@@ -1,18 +1,28 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-03T16:26:18.096867+09:00",
-  "run_id": "run_20260903_162618",
-  "summary_ko": "AI가 실행 단계로 내려오는 사이 규제 완화와 공급 제약이 동시에 도입 조건으로 붙었다.",
+  "updated_at": "2026-09-04T08:28:24.045672+09:00",
+  "run_id": "run_20260904_082824",
+  "summary_ko": "AI가 실무 수행 단계로 내려오는 사이 규제·보안·공급 제약이 도입 조건으로 굳었다.",
   "issues": [
     {
-      "title": "금융 AI, 후선 업무에서 규제 문턱까지",
-      "body_ko": "적용 지점이 창구 밖 업무 전반으로 내려온 데 이어 망분리 규제 문턱까지 낮아졌다.",
+      "title": "금융 AI, 규제 문턱을 넘어 프론트로",
+      "body_ko": "망분리가 풀린 자리에서 적용 지점이 상담을 넘어 상품 설계와 가격 결정까지 올라갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
         "ai_policy"
       ],
       "articles": [
+        {
+          "date": "2026-09-03",
+          "file": "20260903-금융사-2차-망-분리-긴급-완화-선정.md",
+          "title": "금융사 2차 망 분리 긴급 완화…선정 기준 다소 완화"
+        },
+        {
+          "date": "2026-09-03",
+          "file": "20260903-만드는-ai에서-일하는-동료-로-ax.md",
+          "title": "만드는 AI에서 '일하는 동료'로…AX 새 옷 입히는 KB금융"
+        },
         {
           "date": "2026-09-02",
           "file": "20260902-ai가-민원-답변-초안-작성-금감원-.md",
@@ -29,38 +39,36 @@
           "title": "KT, 우리은행 ‘AI 챗봇·상담봇’ 구축...\"에이전트로 막힘 없는 금융 상담\""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-kb국민은행-경영진-ai로-내년-사업.md",
-          "title": "KB국민은행 경영진, AI로 내년 사업계획 초안…실습 교육"
+          "date": "2026-09-04",
+          "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
+          "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-거절-고객도-정밀-심사-어피닛-서울대.md",
-          "title": "\"거절 고객도 정밀 심사”…어피닛-서울대, 신용 평가 AI 특허 출원"
+          "url": "https://www.finextra.com/pressarticle/110800/bbva-brings-ai-into-the-epricer-experience?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-금융사-2차-망-분리-긴급-완화-선정.md",
-          "title": "금융사 2차 망 분리 긴급 완화…선정 기준 다소 완화"
+          "date": "2026-09-04",
+          "file": "20260904-incore-bank-trials-a.md",
+          "title": "Incore Bank trials AI for customer onboarding with automated risk assessment"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-만드는-ai에서-일하는-동료-로-ax.md",
-          "title": "만드는 AI에서 '일하는 동료'로…AX 새 옷 입히는 KB금융"
+          "url": "https://www.finextra.com/pressarticle/110810/finzly-debuts-ai-assurance-layer?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-시큐리티스코어카드-금융권-제3자-it.md",
-          "title": "시큐리티스코어카드, 금융권 '제3자 IT 리스크 관리' 대응…공급망 보안 강화"
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672659",
+          "title": ""
         }
       ]
     },
     {
-      "title": "가격은 내리고 로드맵은 흔들린다",
-      "body_ko": "토큰값이 최저로 떨어지는 동안 상위 모델 계획이 통째로 취소되며 조달 기준이 흔들린다.",
+      "title": "모델 경쟁이 실무 수행 능력으로",
+      "body_ko": "가격이 바닥을 치는 사이 평가 기준이 벤치마크에서 업무 완결로 옮겨갔다.",
       "topics": [
         "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -70,8 +78,8 @@
         },
         {
           "date": "2026-09-03",
-          "file": "20260903-3주-만에-반격-구글-코딩-성능-강화.md",
-          "title": "\"3주 만에 반격\"...구글, 코딩 성능 강화한 '제미나이 3.8 플래시' 공개"
+          "file": "20260903-wsj-구글-제미나이-3-5-프로-폐.md",
+          "title": "WSJ \"구글, '제미나이 3.5 프로' 폐기...차세대 모델 집중\""
         },
         {
           "date": "2026-09-03",
@@ -79,45 +87,47 @@
           "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착"
         },
         {
-          "date": "2026-08-31",
-          "file": "20260831-빅테크-ai-투자로-1600억-달러-.md",
-          "title": "美 빅테크, AI 투자로 1600억 달러 벌어…업계 \"실적 착시 우려\""
+          "date": "2026-09-04",
+          "file": "20260904-오픈ai-압도적-성능-gpt-6-아스.md",
+          "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-wsj-구글-제미나이-3-5-프로-폐.md",
-          "title": "WSJ \"구글, '제미나이 3.5 프로' 폐기...차세대 모델 집중\""
+          "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+          "title": ""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-독파모-주역-김태윤-skt-부사장-데.md",
-          "title": "독파모 주역 김태윤 SKT 부사장 \"데이터 선순환 구조로 AI 고도화\""
+          "url": "https://www.etnews.com/20260903000417",
+          "title": ""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-architecting-convers.md",
-          "title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern"
+          "date": "2026-09-04",
+          "file": "20260904-meta-is-paying-to-pe.md",
+          "title": "Meta is paying to peek at how you use their latest AI model"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+          "title": ""
         }
       ]
     },
     {
-      "title": "보안이 도입의 전제 조건으로",
-      "body_ko": "국내 최대 규모 계정 유출이 겹치며 권한 관리가 성능보다 앞선 심사 항목이 됐다.",
+      "title": "보안이 도입의 청구서로",
+      "body_ko": "권한 관리의 빈틈 하나가 수천억원 규모 보상 비용으로 확정됐다.",
       "topics": [
         "ai_policy",
-        "llm_models",
-        "ai_agents"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
           "date": "2026-09-03",
-          "file": "20260903-제멋대로-해킹하는-통제불가-ai-오픈.md",
-          "title": "제멋대로 해킹하는 '통제불가 AI'…오픈AI·앤트로픽, 결국 봉인"
+          "file": "20260903-티빙-해킹-접속키-하나에서-시작됐다-.md",
+          "title": "티빙 해킹, 접속키 하나에서 시작됐다…드러난 보안 허점"
         },
         {
           "date": "2026-09-03",
-          "file": "20260903-hiddenlayer-nabs-100.md",
-          "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments"
+          "file": "20260903-개인용-클로드-계정-탈취-공격-확인-.md",
+          "title": "개인용 '클로드' 계정 탈취 공격 확인…회사 데이터도 노출 우려"
         },
         {
           "date": "2026-09-02",
@@ -130,34 +140,45 @@
           "title": "네이버-LG, 정부 보안 AI 공동 개발…방어·공격 모델 따로 만든다"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-개인용-클로드-계정-탈취-공격-확인-.md",
-          "title": "개인용 '클로드' 계정 탈취 공격 확인…회사 데이터도 노출 우려"
+          "url": "https://www.hankyung.com/article/2026090328821",
+          "title": ""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-티빙-해킹-피해-윤곽-실-이용자-규모.md",
-          "title": "티빙 해킹 피해 윤곽...\"실 이용자 규모는 추가 확인 예정\""
+          "date": "2026-09-04",
+          "file": "20260904-티빙-보안투자-4배-인력-3배-확대-.md",
+          "title": "티빙, 보안투자 4배·인력 3배 확대…제로트러스트로 전환"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-티빙-해킹-접속키-하나에서-시작됐다-.md",
-          "title": "티빙 해킹, 접속키 하나에서 시작됐다…드러난 보안 허점"
+          "date": "2026-09-04",
+          "file": "20260904-보안-특화모델-참여-보안기업들-역할-.md",
+          "title": "보안 특화모델 참여 보안기업들 \"역할 아직 분배 안해\""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609032987i",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 비용과 캐파가 조달을 가른다",
-      "body_ko": "비용 부담이 사용 기업으로 넘어오는 데 이어 증설로도 수요를 못 따라간다는 진단이 나왔다.",
+      "title": "인프라, 선점과 과잉 경고 사이",
+      "body_ko": "증설로도 수요를 못 따라간다는 진단과 공급 과잉 경고가 같은 주에 나왔다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
         {
-          "date": "2026-09-02",
-          "file": "20260902-앤트로픽-엔비디아-등에-업고-48조-.md",
-          "title": "앤트로픽, 엔비디아 등에 업고 48조 규모 AI 컴퓨팅 확보"
+          "date": "2026-09-03",
+          "file": "20260903-tsmc-ai-칩-수요-폭발-팹-20.md",
+          "title": "TSMC \"AI 칩 수요 폭발 …팹 20개 건설도 역부족\""
         },
         {
           "date": "2026-09-03",
@@ -170,36 +191,50 @@
           "title": "한전, 삼전닉스에 전기료 25조 선납 제안…전력망 재원 마련"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-aidc-투자에-2050년까지-4경-.md",
-          "title": "AIDC 투자에 2050년까지 4경 3000조원 쏟아진다"
+          "date": "2026-09-02",
+          "file": "20260902-앤트로픽-엔비디아-등에-업고-48조-.md",
+          "title": "앤트로픽, 엔비디아 등에 업고 48조 규모 AI 컴퓨팅 확보"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-tsmc-ai-칩-수요-폭발-팹-20.md",
-          "title": "TSMC \"AI 칩 수요 폭발 …팹 20개 건설도 역부족\""
+          "date": "2026-09-04",
+          "file": "20260904-openai-ceo-sam-altma.md",
+          "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-삼성전자-d램-수요-폭증에-팹-전략-.md",
-          "title": "삼성전자, D램 수요 폭증에 팹 전략 재편 가속…평택공장 총동원"
+          "date": "2026-09-04",
+          "file": "20260904-anthropic-ramps-up-c.md",
+          "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-ai-전력수요-겨냥-oci홀딩스-텍사.md",
-          "title": "AI 전력수요 겨냥…OCI홀딩스, 텍사스 태양광발전소 착공"
+          "date": "2026-09-04",
+          "file": "20260904-hidden-china-risks-a.md",
+          "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
+          "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026090328871",
+          "title": ""
         }
       ]
     },
     {
-      "title": "국가 AI가 예산에서 규제 노선으로",
-      "body_ko": "예산 편성과 발주를 지나 어떤 규제로 갈지를 국제 무대에서 정하는 국면에 들어섰다.",
+      "title": "국가 AI가 규제 노선에서 노무 현장으로",
+      "body_ko": "예산과 규제 방향이 정리된 자리에 인력 배치와 양성이 다음 과제로 왔다.",
       "topics": [
         "ai_policy",
         "ai_industry",
         "physical_ai"
       ],
       "articles": [
+        {
+          "date": "2026-09-03",
+          "file": "20260903-미국-g20-회원국과-ai-규제-완화.md",
+          "title": "미국, G20 회원국과 'AI 규제 완화' 합의...젠슨 황 \"규제보다 인프라가 우선\""
+        },
         {
           "date": "2026-09-01",
           "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
@@ -216,24 +251,34 @@
           "title": "국방부, AI 예산 2000억원대 배정…독자모델·피지컬 AI 키운다"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-드론-도입도-5년-정부-신안보-기업-.md",
-          "title": "“드론 도입도 5년”…정부, 신안보 기업 육성에 '한국형 OTA·인큐텔' 띄운다"
+          "date": "2026-09-04",
+          "file": "20260904-로봇-도입은-회사-판단-전환배치-와-.md",
+          "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-미국-g20-회원국과-ai-규제-완화.md",
-          "title": "미국, G20 회원국과 'AI 규제 완화' 합의...젠슨 황 \"규제보다 인프라가 우선\""
+          "date": "2026-09-04",
+          "file": "20260904-제조ai-인력-1천600명-양성-취업.md",
+          "title": "中企 제조AI 인력 1천600명 양성…취업인턴십 12개월로 연장"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-현장-ai-모델만으론-부족-산업계-에.md",
-          "title": "[현장] \"AI 모델만으론 부족\"…산업계, 에이전트 AI '활용 지원' 주문"
+          "date": "2026-09-04",
+          "file": "20260904-미국-정부-ai-저작권-소송서-오픈a.md",
+          "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-nc-ai-lg전자와-k-반도체-탑재.md",
-          "title": "NC AI, LG전자와 K-반도체 탑재한 휴머노이드 기술 개발 협력"
+          "date": "2026-09-04",
+          "file": "20260904-게시판-라온피플-702억-규모-피지컬.md",
+          "title": "[게시판] 라온피플, 702억 규모 ‘피지컬 AI 국책사업’ 선정 등 단신"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-nc-ai-lg전자와-자율형-휴머노이.md",
+          "title": "NC AI, LG전자와 자율형 휴머노이드 개발…인간 동작 로봇에 이식"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-테슬라-무핸들-무페달-사이버캡-공개-.md",
+          "title": "테슬라, 무핸들·무페달 사이버캡 공개 임박…자율주행 사업 시험대"
         }
       ]
     }

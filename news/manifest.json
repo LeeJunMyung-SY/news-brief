@@ -1,57 +1,68 @@
 {
-  "generated_at": "2026-09-03T07:26:24+00:00",
-  "latest_date": "2026-09-03",
+  "generated_at": "2026-09-03T23:28:30+00:00",
+  "latest_date": "2026-09-04",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 819
+      "count": 826
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 943
+      "count": 949
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 980
+      "count": 992
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2309
+      "count": 2328
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 383
+      "count": 387
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 671
+      "count": 676
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 510
+      "count": 517
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 360
+      "count": 366
     }
   ],
   "daily": [
+    {
+      "date": "2026-09-04",
+      "runs": [
+        {
+          "time": "08:28",
+          "file": "digest_0828.md",
+          "selected": 19,
+          "new": 155
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "runs": [
@@ -1913,7 +1924,7 @@
       "file": "2026-W36.md",
       "week_start": "2026-08-31",
       "week_end": "2026-09-06",
-      "total_selected_this_week": 606
+      "total_selected_this_week": 672
     },
     {
       "week": "2026-W35",

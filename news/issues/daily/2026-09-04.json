@@ -1,0 +1,146 @@
+{
+  "date": "2026-09-04",
+  "updated_at": "2026-09-04T08:28:24.045672+09:00",
+  "run_id": "run_20260904_082824",
+  "summary_ko": "모델이 실무를 수행하는 단계로 올라선 자리에, 조달과 노무 조건이 함께 붙었다.",
+  "issues": [
+    {
+      "title": "모델이 실무를 수행하기 시작했다",
+      "summary_ko": "평가 축이 지식량에서 업무 완결 능력으로 옮겨갔다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-04",
+          "file": "20260904-오픈ai-압도적-성능-gpt-6-아스.md",
+          "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
+        },
+        {
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260903000417",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214782",
+          "title": ""
+        },
+        {
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "엔비디아가 오픈 모델의 관문을 샀다",
+      "summary_ko": "유통 채널과 하드웨어가 한 회사로 묶였다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-04",
+          "file": "20260904-nvidia-buys-the-fron.md",
+          "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-accel-reportedly-in-.md",
+          "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
+        },
+        {
+          "url": "https://www.etnews.com/20260904000010",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "증설 계약과 과잉 경고가 동시에",
+      "summary_ko": "선점은 계속되는데 회수 가능성에는 물음표가 붙었다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-04",
+          "file": "20260904-openai-ceo-sam-altma.md",
+          "title": "OpenAI CEO Sam Altman warns of \"unsustainable silliness\" in compute buildout"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-anthropic-ramps-up-c.md",
+          "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-hidden-china-risks-a.md",
+          "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026090328871",
+          "title": ""
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
+          "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가"
+        },
+        {
+          "url": "https://www.etnews.com/20260904000004",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "도입 조건이 노무와 보안으로",
+      "summary_ko": "일정은 협의에, 비용은 사고 청구서에 묶인다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-04",
+          "file": "20260904-로봇-도입은-회사-판단-전환배치-와-.md",
+          "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026090328821",
+          "title": ""
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-티빙-보안투자-4배-인력-3배-확대-.md",
+          "title": "티빙, 보안투자 4배·인력 3배 확대…제로트러스트로 전환"
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-미국-정부-ai-저작권-소송서-오픈a.md",
+          "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
+          "title": ""
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
+          "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
+        }
+      ]
+    }
+  ]
+}
