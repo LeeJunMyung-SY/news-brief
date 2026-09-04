@@ -1,8 +1,8 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-04T08:28:24.045672+09:00",
-  "run_id": "run_20260904_082824",
-  "summary_ko": "AI가 실무 수행 단계로 내려오는 사이 규제·보안·공급 제약이 도입 조건으로 굳었다.",
+  "updated_at": "2026-09-04T12:23:07.748682+09:00",
+  "run_id": "run_20260904_122307",
+  "summary_ko": "AI가 실무를 맡는 단계로 내려오는 사이 규제·보안·공급 제약이 도입 조건으로 굳었다.",
   "issues": [
     {
       "title": "금융 AI, 규제 문턱을 넘어 프론트로",
@@ -44,27 +44,15 @@
           "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110800/bbva-brings-ai-into-the-epricer-experience?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-09-04",
           "file": "20260904-incore-bank-trials-a.md",
           "title": "Incore Bank trials AI for customer onboarding with automated risk assessment"
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/110810/finzly-debuts-ai-assurance-layer?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672659",
-          "title": ""
         }
       ]
     },
     {
       "title": "모델 경쟁이 실무 수행 능력으로",
-      "body_ko": "가격이 바닥을 치는 사이 평가 기준이 벤치마크에서 업무 완결로 옮겨갔다.",
+      "body_ko": "평가 기준이 벤치마크에서 업무 완결로 옮겨간 대신 판단 근거는 덜 보이게 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -78,11 +66,6 @@
         },
         {
           "date": "2026-09-03",
-          "file": "20260903-wsj-구글-제미나이-3-5-프로-폐.md",
-          "title": "WSJ \"구글, '제미나이 3.5 프로' 폐기...차세대 모델 집중\""
-        },
-        {
-          "date": "2026-09-03",
           "file": "20260903-오픈ai-아스트라-이번-주-출시설-a.md",
           "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착"
         },
@@ -92,27 +75,24 @@
           "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
         },
         {
-          "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20260903000417",
-          "title": ""
-        },
-        {
           "date": "2026-09-04",
           "file": "20260904-meta-is-paying-to-pe.md",
           "title": "Meta is paying to peek at how you use their latest AI model"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+          "date": "2026-09-04",
+          "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+          "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260904095530",
           "title": ""
         }
       ]
     },
     {
-      "title": "보안이 도입의 청구서로",
-      "body_ko": "권한 관리의 빈틈 하나가 수천억원 규모 보상 비용으로 확정됐다.",
+      "title": "보안과 가용성이 도입의 청구서로",
+      "body_ko": "권한 관리의 빈틈과 서비스 중단이 각각 보상 비용과 업무 중단으로 확정됐다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -135,41 +115,25 @@
           "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-네이버-lg-정부-보안-ai-공동-개.md",
-          "title": "네이버-LG, 정부 보안 AI 공동 개발…방어·공격 모델 따로 만든다"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026090328821",
-          "title": ""
-        },
-        {
           "date": "2026-09-04",
           "file": "20260904-티빙-보안투자-4배-인력-3배-확대-.md",
           "title": "티빙, 보안투자 4배·인력 3배 확대…제로트러스트로 전환"
         },
         {
           "date": "2026-09-04",
-          "file": "20260904-보안-특화모델-참여-보안기업들-역할-.md",
-          "title": "보안 특화모델 참여 보안기업들 \"역할 아직 분배 안해\""
+          "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+          "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각"
         },
         {
-          "url": "https://www.hankyung.com/article/202609032987i",
-          "title": ""
-        },
-        {
-          "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.cnbc.com/2026/09/03/zscaler-zs-q4-earnings-2026.html",
-          "title": ""
+          "date": "2026-09-04",
+          "file": "20260904-개인정보-유출-은폐-신고하면-포상-개.md",
+          "title": "개인정보 유출 은폐 신고하면 포상…개인정보위, 신규 기금 157억 편성"
         }
       ]
     },
     {
       "title": "인프라, 선점과 과잉 경고 사이",
-      "body_ko": "증설로도 수요를 못 따라간다는 진단과 공급 과잉 경고가 같은 주에 나왔다.",
+      "body_ko": "증설을 서두르는 사이 조달 원가가 금리와 부품값을 타고 되돌아오기 시작했다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -184,16 +148,6 @@
           "date": "2026-09-03",
           "file": "20260903-ai-수요-700gw의-진실-보증금-.md",
           "title": "AI 수요 700GW의 진실…보증금 내라 하자 절반이 사라졌다"
-        },
-        {
-          "date": "2026-09-03",
-          "file": "20260903-한전-삼전닉스에-전기료-25조-선납-.md",
-          "title": "한전, 삼전닉스에 전기료 25조 선납 제안…전력망 재원 마련"
-        },
-        {
-          "date": "2026-09-02",
-          "file": "20260902-앤트로픽-엔비디아-등에-업고-48조-.md",
-          "title": "앤트로픽, 엔비디아 등에 업고 48조 규모 AI 컴퓨팅 확보"
         },
         {
           "date": "2026-09-04",
@@ -212,18 +166,23 @@
         },
         {
           "date": "2026-09-04",
-          "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
-          "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가"
+          "file": "20260904-crusoe-reportedly-ra.md",
+          "title": "Crusoe reportedly raises $3B at a  $30B valuation"
         },
         {
-          "url": "https://www.hankyung.com/article/2026090328871",
+          "url": "https://www.mk.co.kr/news/stock/12144225",
           "title": ""
+        },
+        {
+          "date": "2026-09-04",
+          "file": "20260904-낸드-리부트-321단-hbf-앞세운-.md",
+          "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도"
         }
       ]
     },
     {
-      "title": "국가 AI가 규제 노선에서 노무 현장으로",
-      "body_ko": "예산과 규제 방향이 정리된 자리에 인력 배치와 양성이 다음 과제로 왔다.",
+      "title": "국가 AI가 규제 노선에서 자금·인력으로",
+      "body_ko": "예산과 규제 방향이 정리된 자리에 벤처 자금 공급과 인력 배치가 다음 과제로 왔다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -246,14 +205,9 @@
           "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-국방부-ai-예산-2000억원대-배정.md",
-          "title": "국방부, AI 예산 2000억원대 배정…독자모델·피지컬 AI 키운다"
-        },
-        {
           "date": "2026-09-04",
           "file": "20260904-로봇-도입은-회사-판단-전환배치-와-.md",
-          "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
+          "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
         },
         {
           "date": "2026-09-04",
@@ -262,23 +216,12 @@
         },
         {
           "date": "2026-09-04",
-          "file": "20260904-미국-정부-ai-저작권-소송서-오픈a.md",
-          "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
+          "file": "20260904-중기부-내년-예산-18조724억-역대.md",
+          "title": "중기부 내년 예산 18조724억 역대 최대…모태펀드 1조3000억"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-게시판-라온피플-702억-규모-피지컬.md",
-          "title": "[게시판] 라온피플, 702억 규모 ‘피지컬 AI 국책사업’ 선정 등 단신"
-        },
-        {
-          "date": "2026-09-04",
-          "file": "20260904-nc-ai-lg전자와-자율형-휴머노이.md",
-          "title": "NC AI, LG전자와 자율형 휴머노이드 개발…인간 동작 로봇에 이식"
-        },
-        {
-          "date": "2026-09-04",
-          "file": "20260904-테슬라-무핸들-무페달-사이버캡-공개-.md",
-          "title": "테슬라, 무핸들·무페달 사이버캡 공개 임박…자율주행 사업 시험대"
+          "url": "https://www.etnews.com/20260904000145",
+          "title": ""
         }
       ]
     }

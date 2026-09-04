@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-03T23:28:30+00:00",
+  "generated_at": "2026-09-04T03:23:14+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 826,
+      "count": 829,
       "latest_date": "2026-09-04"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 949,
+      "count": 953,
       "latest_date": "2026-09-04"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 992,
+      "count": 996,
       "latest_date": "2026-09-04"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2328,
+      "count": 2335,
       "latest_date": "2026-09-04"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 676,
+      "count": 679,
       "latest_date": "2026-09-04"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 517,
+      "count": 519,
       "latest_date": "2026-09-04"
     },
     {
@@ -135,6 +135,35 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+        "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려",
+        "importance": 7,
+        "tags": [
+          "#reasoning",
+          "#explainability",
+          "#ai-safety",
+          "#model-release",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904092159"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
+        "title": "'AI앱 1900개가 회사 업무'…SKB, 상품부터 조직까지 AI로 재설계",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#transformation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904105439"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-meta-is-paying-to-pe.md",
         "title": "Meta is paying to peek at how you use their latest AI model",
         "importance": 7,
@@ -174,6 +203,34 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260903114626"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+        "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각",
+        "importance": 7,
+        "tags": [
+          "#outage",
+          "#reliability",
+          "#bcp",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904100652"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
+        "title": "'나 이제 퇴근해' 카톡 보내면…AI 비서 '에어컨 26도로 켜둘게요'",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#ai-adoption",
+          "#iot",
+          "#ux"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609043965i"
       },
       {
         "date": "2026-09-03",
@@ -13982,6 +14039,21 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+        "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#open-source",
+          "#ecosystem",
+          "#nvidia",
+          "#vendor-lockin"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214830"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-accel-reportedly-in-.md",
         "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
         "importance": 7,
@@ -13992,6 +14064,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+        "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려",
+        "importance": 7,
+        "tags": [
+          "#reasoning",
+          "#explainability",
+          "#ai-safety",
+          "#model-release",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904092159"
       },
       {
         "date": "2026-09-04",
@@ -14034,6 +14121,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260903114626"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+        "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각",
+        "importance": 7,
+        "tags": [
+          "#outage",
+          "#reliability",
+          "#bcp",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904100652"
       },
       {
         "date": "2026-09-03",
@@ -25987,6 +26088,21 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+        "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려",
+        "importance": 7,
+        "tags": [
+          "#reasoning",
+          "#explainability",
+          "#ai-safety",
+          "#model-release",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904092159"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-meta-is-paying-to-pe.md",
         "title": "Meta is paying to peek at how you use their latest AI model",
         "importance": 7,
@@ -26057,6 +26173,21 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-개인정보-유출-은폐-신고하면-포상-개.md",
+        "title": "개인정보 유출 은폐 신고하면 포상…개인정보위, 신규 기금 157억 편성",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#privacy",
+          "#compliance",
+          "#security",
+          "#whistleblower"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672696"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-게시판-라온피플-702억-규모-피지컬.md",
         "title": "[게시판] 라온피플, 702억 규모 ‘피지컬 AI 국책사업’ 선정 등 단신",
         "importance": 6,
@@ -26068,6 +26199,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=214820"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-중기부-내년-예산-18조724억-역대.md",
+        "title": "중기부 내년 예산 18조724억 역대 최대…모태펀드 1조3000억",
+        "importance": 6,
+        "tags": [
+          "#budget",
+          "#investment",
+          "#startup",
+          "#policy-finance",
+          "#deeptech"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672477"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-중학생까지-ai-금지-뉴욕시-학교서-.md",
+        "title": "'중학생까지 AI 금지'…뉴욕시, 학교서 1년간 사용 제한",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#education",
+          "#usage-policy",
+          "#governance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609043735i"
       },
       {
         "date": "2026-09-03",
@@ -40422,6 +40582,21 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+        "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#open-source",
+          "#ecosystem",
+          "#nvidia",
+          "#vendor-lockin"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214830"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-티빙-보안투자-4배-인력-3배-확대-.md",
         "title": "티빙, 보안투자 4배·인력 3배 확대…제로트러스트로 전환",
         "importance": 8,
@@ -40446,6 +40621,34 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
+        "title": "'AI앱 1900개가 회사 업무'…SKB, 상품부터 조직까지 AI로 재설계",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#transformation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904105439"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-crusoe-reportedly-ra.md",
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#compute",
+          "#valuation"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
       },
       {
         "date": "2026-09-04",
@@ -40520,6 +40723,20 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+        "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각",
+        "importance": 7,
+        "tags": [
+          "#outage",
+          "#reliability",
+          "#bcp",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904100652"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-테슬라-무핸들-무페달-사이버캡-공개-.md",
         "title": "테슬라, 무핸들·무페달 사이버캡 공개 임박…자율주행 사업 시험대",
         "importance": 7,
@@ -40547,6 +40764,34 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
+        "title": "'나 이제 퇴근해' 카톡 보내면…AI 비서 '에어컨 26도로 켜둘게요'",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#ai-adoption",
+          "#iot",
+          "#ux"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609043965i"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-낸드-리부트-321단-hbf-앞세운-.md",
+        "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#datacenter",
+          "#storage",
+          "#capex"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672713"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
         "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가",
         "importance": 6,
@@ -40558,6 +40803,21 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12143706"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-중기부-내년-예산-18조724억-역대.md",
+        "title": "중기부 내년 예산 18조724억 역대 최대…모태펀드 1조3000억",
+        "importance": 6,
+        "tags": [
+          "#budget",
+          "#investment",
+          "#startup",
+          "#policy-finance",
+          "#deeptech"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672477"
       },
       {
         "date": "2026-09-03",
@@ -79837,6 +80097,49 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+        "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#open-source",
+          "#ecosystem",
+          "#nvidia",
+          "#vendor-lockin"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214830"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-crusoe-reportedly-ra.md",
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#datacenter",
+          "#compute",
+          "#valuation"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-낸드-리부트-321단-hbf-앞세운-.md",
+        "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#datacenter",
+          "#storage",
+          "#capex"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672713"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
         "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가",
         "importance": 6,
@@ -89664,6 +89967,21 @@
       },
       {
         "date": "2026-09-04",
+        "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+        "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려",
+        "importance": 7,
+        "tags": [
+          "#reasoning",
+          "#explainability",
+          "#ai-safety",
+          "#model-release",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260904092159"
+      },
+      {
+        "date": "2026-09-04",
         "file": "20260904-meta-is-paying-to-pe.md",
         "title": "Meta is paying to peek at how you use their latest AI model",
         "importance": 7,
@@ -89689,6 +90007,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260903114626"
+      },
+      {
+        "date": "2026-09-04",
+        "file": "20260904-개인정보-유출-은폐-신고하면-포상-개.md",
+        "title": "개인정보 유출 은폐 신고하면 포상…개인정보위, 신규 기금 157억 편성",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#privacy",
+          "#compliance",
+          "#security",
+          "#whistleblower"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672696"
       },
       {
         "date": "2026-09-03",
@@ -102675,8 +103008,8 @@
     "llm_models": [
       {
         "date": "2026-09-04",
-        "title": "모델이 실무를 수행하기 시작했다",
-        "summary": "평가 축이 지식량에서 업무 완결 능력으로 옮겨갔다.",
+        "title": "실무는 맡기는데 근거는 안 보인다",
+        "summary": "수행 능력이 오른 대신 판단 과정을 확인할 방법이 줄었다.",
         "articles": [
           {
             "date": "2026-09-04",
@@ -102684,24 +103017,23 @@
             "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
           },
           {
-            "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+            "date": "2026-09-04",
+            "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+            "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260904095530",
             "title": ""
           },
           {
-            "url": "https://www.etnews.com/20260903000417",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
+            "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\""
           },
           {
-            "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214782",
-            "title": ""
-          },
-          {
-            "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
+            "title": "\"AI앱 1900개가 회사 업무\"…SKB, 상품부터 조직까지 AI로 재설계"
           }
         ]
       },
@@ -102721,8 +103053,9 @@
             "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
           },
           {
-            "url": "https://www.etnews.com/20260904000010",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+            "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보"
           }
         ]
       },
@@ -103779,8 +104112,8 @@
     "ai_agents": [
       {
         "date": "2026-09-04",
-        "title": "모델이 실무를 수행하기 시작했다",
-        "summary": "평가 축이 지식량에서 업무 완결 능력으로 옮겨갔다.",
+        "title": "실무는 맡기는데 근거는 안 보인다",
+        "summary": "수행 능력이 오른 대신 판단 과정을 확인할 방법이 줄었다.",
         "articles": [
           {
             "date": "2026-09-04",
@@ -103788,24 +104121,23 @@
             "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
           },
           {
-            "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+            "date": "2026-09-04",
+            "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+            "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260904095530",
             "title": ""
           },
           {
-            "url": "https://www.etnews.com/20260903000417",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
+            "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\""
           },
           {
-            "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214782",
-            "title": ""
-          },
-          {
-            "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
+            "title": "\"AI앱 1900개가 회사 업무\"…SKB, 상품부터 조직까지 AI로 재설계"
           }
         ]
       },
@@ -105128,8 +105460,8 @@
     "금융회사 AI": [
       {
         "date": "2026-09-04",
-        "title": "모델이 실무를 수행하기 시작했다",
-        "summary": "평가 축이 지식량에서 업무 완결 능력으로 옮겨갔다.",
+        "title": "실무는 맡기는데 근거는 안 보인다",
+        "summary": "수행 능력이 오른 대신 판단 과정을 확인할 방법이 줄었다.",
         "articles": [
           {
             "date": "2026-09-04",
@@ -105137,40 +105469,35 @@
             "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
           },
           {
-            "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+            "date": "2026-09-04",
+            "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+            "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260904095530",
             "title": ""
           },
           {
-            "url": "https://www.etnews.com/20260903000417",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
+            "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\""
           },
           {
-            "url": "https://the-decoder.com/meta-closes-in-on-the-top-with-muse-spark-1-3-and-undercuts-rivals-on-price/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214782",
-            "title": ""
-          },
-          {
-            "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
+            "title": "\"AI앱 1900개가 회사 업무\"…SKB, 상품부터 조직까지 AI로 재설계"
           }
         ]
       },
       {
         "date": "2026-09-04",
-        "title": "도입 조건이 노무와 보안으로",
-        "summary": "일정은 협의에, 비용은 사고 청구서에 묶인다.",
+        "title": "도입 조건이 가동과 통제로",
+        "summary": "쓰는 문제보다 멈췄을 때와 새어나갔을 때의 대비가 앞으로 왔다.",
         "articles": [
           {
             "date": "2026-09-04",
             "file": "20260904-로봇-도입은-회사-판단-전환배치-와-.md",
-            "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026090328821",
-            "title": ""
+            "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
           },
           {
             "date": "2026-09-04",
@@ -105179,17 +105506,23 @@
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-미국-정부-ai-저작권-소송서-오픈a.md",
-            "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
-          },
-          {
-            "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-            "title": ""
+            "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
+            "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
-            "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
+            "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+            "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-개인정보-유출-은폐-신고하면-포상-개.md",
+            "title": "개인정보 유출 은폐 신고하면 포상…개인정보위, 신규 기금 157억 편성"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-중학생까지-ai-금지-뉴욕시-학교서-.md",
+            "title": "\"중학생까지 AI 금지\"…뉴욕시, 학교서 1년간 사용 제한"
           }
         ]
       },
@@ -107032,15 +107365,16 @@
             "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
           },
           {
-            "url": "https://www.etnews.com/20260904000010",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+            "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보"
           }
         ]
       },
       {
         "date": "2026-09-04",
-        "title": "증설 계약과 과잉 경고가 동시에",
-        "summary": "선점은 계속되는데 회수 가능성에는 물음표가 붙었다.",
+        "title": "증설 비용이 금리와 원가로 돌아온다",
+        "summary": "선점 경쟁의 청구서가 조달 금리와 부품값에 찍히기 시작했다.",
         "articles": [
           {
             "date": "2026-09-04",
@@ -107054,37 +107388,42 @@
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-hidden-china-risks-a.md",
-            "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom"
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026090328871",
-            "title": ""
-          },
-          {
-            "date": "2026-09-04",
             "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
             "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가"
           },
           {
-            "url": "https://www.etnews.com/20260904000004",
+            "date": "2026-09-04",
+            "file": "20260904-crusoe-reportedly-ra.md",
+            "title": "Crusoe reportedly raises $3B at a  $30B valuation"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12144225",
+            "title": ""
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-낸드-리부트-321단-hbf-앞세운-.md",
+            "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도"
+          },
+          {
+            "url": "https://www.etnews.com/20260904000146",
+            "title": ""
+          },
+          {
+            "url": "https://www.etnews.com/20260904000145",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-09-04",
-        "title": "도입 조건이 노무와 보안으로",
-        "summary": "일정은 협의에, 비용은 사고 청구서에 묶인다.",
+        "title": "도입 조건이 가동과 통제로",
+        "summary": "쓰는 문제보다 멈췄을 때와 새어나갔을 때의 대비가 앞으로 왔다.",
         "articles": [
           {
             "date": "2026-09-04",
             "file": "20260904-로봇-도입은-회사-판단-전환배치-와-.md",
-            "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026090328821",
-            "title": ""
+            "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
           },
           {
             "date": "2026-09-04",
@@ -107093,17 +107432,23 @@
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-미국-정부-ai-저작권-소송서-오픈a.md",
-            "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
-          },
-          {
-            "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-            "title": ""
+            "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
+            "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
-            "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
+            "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+            "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-개인정보-유출-은폐-신고하면-포상-개.md",
+            "title": "개인정보 유출 은폐 신고하면 포상…개인정보위, 신규 기금 157억 편성"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-중학생까지-ai-금지-뉴욕시-학교서-.md",
+            "title": "\"중학생까지 AI 금지\"…뉴욕시, 학교서 1년간 사용 제한"
           }
         ]
       },
@@ -110057,15 +110402,16 @@
             "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
           },
           {
-            "url": "https://www.etnews.com/20260904000010",
-            "title": ""
+            "date": "2026-09-04",
+            "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+            "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보"
           }
         ]
       },
       {
         "date": "2026-09-04",
-        "title": "증설 계약과 과잉 경고가 동시에",
-        "summary": "선점은 계속되는데 회수 가능성에는 물음표가 붙었다.",
+        "title": "증설 비용이 금리와 원가로 돌아온다",
+        "summary": "선점 경쟁의 청구서가 조달 금리와 부품값에 찍히기 시작했다.",
         "articles": [
           {
             "date": "2026-09-04",
@@ -110079,20 +110425,29 @@
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-hidden-china-risks-a.md",
-            "title": "Hidden China risks are emerging in America’s multibillion-dollar AI data center boom"
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026090328871",
-            "title": ""
-          },
-          {
-            "date": "2026-09-04",
             "file": "20260904-미국-주식-돋보기-델-hpe-브로드컴.md",
             "title": "[미국 주식 돋보기] 델·HPE·브로드컴, 호실적에도 엇갈린 주가"
           },
           {
-            "url": "https://www.etnews.com/20260904000004",
+            "date": "2026-09-04",
+            "file": "20260904-crusoe-reportedly-ra.md",
+            "title": "Crusoe reportedly raises $3B at a  $30B valuation"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12144225",
+            "title": ""
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-낸드-리부트-321단-hbf-앞세운-.md",
+            "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도"
+          },
+          {
+            "url": "https://www.etnews.com/20260904000146",
+            "title": ""
+          },
+          {
+            "url": "https://www.etnews.com/20260904000145",
             "title": ""
           }
         ]
@@ -111352,17 +111707,13 @@
     "ai_policy": [
       {
         "date": "2026-09-04",
-        "title": "도입 조건이 노무와 보안으로",
-        "summary": "일정은 협의에, 비용은 사고 청구서에 묶인다.",
+        "title": "도입 조건이 가동과 통제로",
+        "summary": "쓰는 문제보다 멈췄을 때와 새어나갔을 때의 대비가 앞으로 왔다.",
         "articles": [
           {
             "date": "2026-09-04",
             "file": "20260904-로봇-도입은-회사-판단-전환배치-와-.md",
-            "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
-          },
-          {
-            "url": "https://www.hankyung.com/article/2026090328821",
-            "title": ""
+            "title": "로봇 도입은 회사 판단, 전환배치 勞와 협상 … 노봉법 지침 '모순'"
           },
           {
             "date": "2026-09-04",
@@ -111371,17 +111722,23 @@
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-미국-정부-ai-저작권-소송서-오픈a.md",
-            "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\""
-          },
-          {
-            "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-            "title": ""
+            "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
+            "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
           },
           {
             "date": "2026-09-04",
-            "file": "20260904-ai-활용은-경영진부터-국민-임원급-.md",
-            "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
+            "file": "20260904-챗gpt-클로드-그록-줄줄이-먹통-장.md",
+            "title": "챗GPT·클로드·그록 줄줄이 '먹통'…장애 원인은 제각각"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-개인정보-유출-은폐-신고하면-포상-개.md",
+            "title": "개인정보 유출 은폐 신고하면 포상…개인정보위, 신규 기금 157억 편성"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-중학생까지-ai-금지-뉴욕시-학교서-.md",
+            "title": "\"중학생까지 AI 금지\"…뉴욕시, 학교서 1년간 사용 제한"
           }
         ]
       },
