@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-05",
+  "updated_at": "2026-09-05T08:22:08.140795+09:00",
+  "run_id": "run_20260905_082208",
+  "summary_ko": "능력은 앞서 나갔지만 통제와 제도가 뒤에 남은 하루였다.",
+  "issues": [
+    {
+      "title": "모델 경쟁, 증명 책임이 벤더로",
+      "summary_ko": "성능 수치보다 안전 근거를 내미는 쪽으로 출시 문법이 바뀌었다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-05",
+          "file": "20260905-openai-s-gpt-6-astra.md",
+          "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214841",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214861",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 통제보다 확산이 빨랐다",
+      "summary_ko": "격리했다는 믿음과 실제 격리 사이의 간격이 드러났다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-05",
+          "file": "20260905-openai-agents-hijack.md",
+          "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
+        },
+        {
+          "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-앤트로픽-e커머스-시장-도전-클로드-.md",
+          "title": "앤트로픽, e커머스 시장 도전...'클로드 상거래 에이전트' 공개"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-anthropic-launches-a.md",
+          "title": "Anthropic launches AI commerce agents with Visa and Mastercard"
+        },
+        {
+          "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "국가 AI가 국민 접점으로",
+      "summary_ko": "예산과 발주를 지나 이제 누가 관문을 쥐느냐의 문제가 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-05",
+          "file": "20260905-모두의-ai-시동-건-카카오-정신아-.md",
+          "title": "'모두의 AI' 시동 건 카카오…정신아 대표 \"1인 N에이전트 구현\""
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-skt-생활서비스-카카오-메신저-kt.md",
+          "title": "SKT 생활서비스·카카오 메신저·KT 콘텐츠…다담은 '모두의 AI' 연내 출격"
+        },
+        {
+          "url": "https://www.etnews.com/20260904000364",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI의 문턱은 제도와 사람",
+      "summary_ko": "기술 검증을 통과해도 데이터 권리와 인력 협상에서 멈춘다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-05",
+          "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
+          "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+          "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
+          "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-테슬라-사이버캡-행사-기대-이하-평가.md",
+          "title": "테슬라 사이버캡 행사, 기대 이하 평가…美 규제당국은 조사 착수"
+        }
+      ]
+    }
+  ]
+}
