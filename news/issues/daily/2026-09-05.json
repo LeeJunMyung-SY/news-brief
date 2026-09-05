@@ -1,31 +1,12 @@
 {
   "date": "2026-09-05",
-  "updated_at": "2026-09-05T12:15:32.001013+09:00",
-  "run_id": "run_20260905_121532",
-  "summary_ko": "능력의 확산 속도만큼 통제와 제도가 조건으로 따라붙은 하루였다.",
+  "updated_at": "2026-09-05T16:17:16.803431+09:00",
+  "run_id": "run_20260905_161716",
+  "summary_ko": "연산을 자립시키는 힘과 도입을 가로막는 벽이 같은 날 드러났다.",
   "issues": [
     {
-      "title": "모델 경쟁, 증명 책임이 벤더로",
-      "summary_ko": "성능 수치보다 안전 근거와 배포 안정성이 출시의 조건이 됐다.",
-      "topics": [
-        "llm_models",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-05",
-          "file": "20260905-openai-s-gpt-6-astra.md",
-          "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214887",
-          "title": ""
-        }
-      ]
-    },
-    {
       "title": "확산만큼 커진 사용 중단",
-      "summary_ko": "격리 실패가 드러난 자리에서 대형 조직은 아예 사용을 멈추는 쪽을 택한다.",
+      "summary_ko": "격리 실패가 드러난 자리에서 사용 중단과 벤더 배제가 나란히 선택지가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -51,12 +32,17 @@
           "date": "2026-09-05",
           "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
           "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-미-국방부-앤트로픽-여전히-공급망-위.md",
+          "title": "미 국방부, 앤트로픽 여전히 '공급망 위험'으로 간주...상무장관과 온도 차"
         }
       ]
     },
     {
       "title": "피지컬 AI, 전시장에서 공정으로",
-      "summary_ko": "성공률 수치가 나오기 시작했지만 제도와 인력 협상이 문턱으로 남았다.",
+      "summary_ko": "평가 기준이 시연에서 성공률과 실주행 조건으로 옮겨갔고 제도가 문턱으로 남았다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -89,34 +75,74 @@
           "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
         },
         {
-          "url": "https://www.etnews.com/20260904000374",
+          "date": "2026-09-05",
+          "file": "20260905-ifa2026-종이컵-들고-버튼-누른.md",
+          "title": "[IFA2026]종이컵 들고 버튼 누른다…모바, 로봇손 'Knot 80'"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-테슬라-fsd-v14-라이트-지하주차.md",
+          "title": "테슬라 FSD V14 라이트, 지하주차장서 길 찾았다[카미경]"
+        }
+      ]
+    },
+    {
+      "title": "칩은 갈아타고 자본은 묶는다",
+      "summary_ko": "연산을 자국 칩으로 대체하는 쪽과 지분으로 생태계를 묶는 쪽이 동시에 세를 넓힌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-05",
+          "file": "20260905-딥시크-새로운-데이터센터-구축을-위해.md",
+          "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-엔비디아-무라티의-tml에-3-3조-.md",
+          "title": "엔비디아, 무라티의 TML에 3.3조 투자 논의…\"오픈소스 생태계 결속\""
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-ai는-지금-gpu만으론-부족-삼성도.md",
+          "title": "[AI는 지금] \"GPU만으론 부족\"…삼성도 'AI 추론 SW' 짐렛랩스에 베팅"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214878",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260905073057",
           "title": ""
         }
       ]
     },
     {
-      "title": "국가 AI, 접점은 이미 넘어갔다",
-      "summary_ko": "관문을 누가 쥐느냐를 다투는 사이 이용 습관은 해외 서비스에 굳었다.",
+      "title": "도입은 보편, 성과는 아직 벽",
+      "summary_ko": "쓰는 조직은 늘었지만 데이터와 거버넌스에서 확산이 멈춘다는 진단이 나왔다.",
       "topics": [
-        "ai_policy",
         "ai_industry",
+        "ai_policy",
         "ai_agents"
       ],
       "articles": [
         {
           "date": "2026-09-05",
-          "file": "20260905-모두의-ai-시동-건-카카오-정신아-.md",
-          "title": "'모두의 AI' 시동 건 카카오…정신아 대표 \"1인 N에이전트 구현\""
+          "file": "20260905-spri-ai-정책-gpu-모델-확보.md",
+          "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”"
         },
         {
           "date": "2026-09-05",
-          "file": "20260905-skt-생활서비스-카카오-메신저-kt.md",
-          "title": "SKT 생활서비스·카카오 메신저·KT 콘텐츠…다담은 '모두의 AI' 연내 출격"
+          "file": "20260905-100인치-tv-골라줘-말하자-척척-.md",
+          "title": "\"100인치 TV 골라줘\" 말하자 척척…삼성, 독일서 'AI 직원' 공개"
         },
         {
           "date": "2026-09-05",
-          "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
-          "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]"
+          "file": "20260905-구글-제미나이-스파크에-포토-연동-사.md",
+          "title": "구글, 제미나이 스파크에 '포토' 연동...사진 검색·편집·일정 등록까지 자동화"
         }
       ]
     }
