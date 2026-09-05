@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T23:22:14+00:00",
+  "generated_at": "2026-09-05T03:15:38+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 840,
+      "count": 841,
       "latest_date": "2026-09-05"
     },
     {
@@ -19,21 +19,21 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1013,
+      "count": 1015,
       "latest_date": "2026-09-05"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2363,
+      "count": 2367,
       "latest_date": "2026-09-05"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 393,
+      "count": 395,
       "latest_date": "2026-09-05"
     },
     {
@@ -54,7 +54,7 @@
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 372,
+      "count": 374,
       "latest_date": "2026-09-05"
     },
     {
@@ -14255,6 +14255,20 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=214858"
       },
       {
+        "date": "2026-09-05",
+        "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+        "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#market-share",
+          "#public-ai",
+          "#competition"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202609044207g"
+      },
+      {
         "date": "2026-09-04",
         "file": "20260904-nvidia-buys-the-fron.md",
         "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon",
@@ -26472,6 +26486,34 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=672806"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
+        "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#education",
+          "#ai-restriction",
+          "#governance"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214889"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+        "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#market-share",
+          "#public-ai",
+          "#competition"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202609044207g"
       },
       {
         "date": "2026-09-04",
@@ -41113,6 +41155,21 @@
       },
       {
         "date": "2026-09-05",
+        "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+        "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#manufacturing",
+          "#physical-ai",
+          "#ifa2026",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000371"
+      },
+      {
+        "date": "2026-09-05",
         "file": "20260905-nvidia-s-investments.md",
         "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
         "importance": 7,
@@ -41237,6 +41294,48 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/110812/wealthai-launches-wealthai-for-advisors-as-advice-firms-enter-next-phase-of-ai-adoption?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-xdof-just-three-mont.md",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#robot-data",
+          "#physical-ai",
+          "#startup"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-대웅제약-부산백병원-ai-스마트병동-.md",
+        "title": "대웅제약, 부산백병원 AI 스마트병동 확대…'씽크' 113병상으로",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#healthcare",
+          "#roi-case",
+          "#expansion"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260905000006"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+        "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#market-share",
+          "#public-ai",
+          "#competition"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202609044207g"
       },
       {
         "date": "2026-09-05",
@@ -75390,6 +75489,21 @@
       },
       {
         "date": "2026-09-05",
+        "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+        "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#manufacturing",
+          "#physical-ai",
+          "#ifa2026",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000371"
+      },
+      {
+        "date": "2026-09-05",
         "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
         "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]",
         "importance": 7,
@@ -75430,6 +75544,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=672806"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-xdof-just-three-mont.md",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#robot-data",
+          "#physical-ai",
+          "#startup"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
       },
       {
         "date": "2026-09-05",
@@ -98949,6 +99077,21 @@
       },
       {
         "date": "2026-09-05",
+        "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+        "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”",
+        "importance": 7,
+        "tags": [
+          "#humanoid",
+          "#manufacturing",
+          "#physical-ai",
+          "#ifa2026",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000371"
+      },
+      {
+        "date": "2026-09-05",
         "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
         "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]",
         "importance": 7,
@@ -98989,6 +99132,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=672806"
+      },
+      {
+        "date": "2026-09-05",
+        "file": "20260905-xdof-just-three-mont.md",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#robot-data",
+          "#physical-ai",
+          "#startup"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/"
       },
       {
         "date": "2026-09-05",
@@ -104471,7 +104628,7 @@
       {
         "date": "2026-09-05",
         "title": "모델 경쟁, 증명 책임이 벤더로",
-        "summary": "성능 수치보다 안전 근거를 내미는 쪽으로 출시 문법이 바뀌었다.",
+        "summary": "성능 수치보다 안전 근거와 배포 안정성이 출시의 조건이 됐다.",
         "articles": [
           {
             "date": "2026-09-05",
@@ -104479,19 +104636,7 @@
             "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214841",
-            "title": ""
-          },
-          {
-            "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214861",
-            "title": ""
-          },
-          {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=214887",
             "title": ""
           }
         ]
@@ -105633,7 +105778,7 @@
       {
         "date": "2026-09-05",
         "title": "모델 경쟁, 증명 책임이 벤더로",
-        "summary": "성능 수치보다 안전 근거를 내미는 쪽으로 출시 문법이 바뀌었다.",
+        "summary": "성능 수치보다 안전 근거와 배포 안정성이 출시의 조건이 됐다.",
         "articles": [
           {
             "date": "2026-09-05",
@@ -105641,36 +105786,20 @@
             "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214841",
-            "title": ""
-          },
-          {
-            "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214861",
-            "title": ""
-          },
-          {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=214887",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-09-05",
-        "title": "에이전트, 통제보다 확산이 빨랐다",
-        "summary": "격리했다는 믿음과 실제 격리 사이의 간격이 드러났다.",
+        "title": "확산만큼 커진 사용 중단",
+        "summary": "격리 실패가 드러난 자리에서 대형 조직은 아예 사용을 멈추는 쪽을 택한다.",
         "articles": [
           {
             "date": "2026-09-05",
             "file": "20260905-openai-agents-hijack.md",
             "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
-          },
-          {
-            "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-            "title": ""
           },
           {
             "date": "2026-09-05",
@@ -105683,15 +105812,52 @@
             "title": "Anthropic launches AI commerce agents with Visa and Mastercard"
           },
           {
-            "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales?utm_medium=rssfinextra&utm_source=finextrafeed",
+            "date": "2026-09-05",
+            "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
+            "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-05",
+        "title": "피지컬 AI, 전시장에서 공정으로",
+        "summary": "성공률 수치가 나오기 시작했지만 제도와 인력 협상이 문턱으로 남았다.",
+        "articles": [
+          {
+            "date": "2026-09-05",
+            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
+            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
+            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+            "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-xdof-just-three-mont.md",
+            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+          },
+          {
+            "url": "https://www.etnews.com/20260904000374",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-09-05",
-        "title": "국가 AI가 국민 접점으로",
-        "summary": "예산과 발주를 지나 이제 누가 관문을 쥐느냐의 문제가 됐다.",
+        "title": "국가 AI, 접점은 이미 넘어갔다",
+        "summary": "관문을 누가 쥐느냐를 다투는 사이 이용 습관은 해외 서비스에 굳었다.",
         "articles": [
           {
             "date": "2026-09-05",
@@ -105704,35 +105870,9 @@
             "title": "SKT 생활서비스·카카오 메신저·KT 콘텐츠…다담은 '모두의 AI' 연내 출격"
           },
           {
-            "url": "https://www.etnews.com/20260904000364",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-05",
-        "title": "피지컬 AI의 문턱은 제도와 사람",
-        "summary": "기술 검증을 통과해도 데이터 권리와 인력 협상에서 멈춘다.",
-        "articles": [
-          {
             "date": "2026-09-05",
-            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
-            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
-            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
-            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-테슬라-사이버캡-행사-기대-이하-평가.md",
-            "title": "테슬라 사이버캡 행사, 기대 이하 평가…美 규제당국은 조사 착수"
+            "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+            "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]"
           }
         ]
       },
@@ -107663,17 +107803,13 @@
     "ai_agents": [
       {
         "date": "2026-09-05",
-        "title": "에이전트, 통제보다 확산이 빨랐다",
-        "summary": "격리했다는 믿음과 실제 격리 사이의 간격이 드러났다.",
+        "title": "확산만큼 커진 사용 중단",
+        "summary": "격리 실패가 드러난 자리에서 대형 조직은 아예 사용을 멈추는 쪽을 택한다.",
         "articles": [
           {
             "date": "2026-09-05",
             "file": "20260905-openai-agents-hijack.md",
             "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
-          },
-          {
-            "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-            "title": ""
           },
           {
             "date": "2026-09-05",
@@ -107686,15 +107822,16 @@
             "title": "Anthropic launches AI commerce agents with Visa and Mastercard"
           },
           {
-            "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-09-05",
+            "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
+            "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예"
           }
         ]
       },
       {
         "date": "2026-09-05",
-        "title": "국가 AI가 국민 접점으로",
-        "summary": "예산과 발주를 지나 이제 누가 관문을 쥐느냐의 문제가 됐다.",
+        "title": "국가 AI, 접점은 이미 넘어갔다",
+        "summary": "관문을 누가 쥐느냐를 다투는 사이 이용 습관은 해외 서비스에 굳었다.",
         "articles": [
           {
             "date": "2026-09-05",
@@ -107707,8 +107844,9 @@
             "title": "SKT 생활서비스·카카오 메신저·KT 콘텐츠…다담은 '모두의 AI' 연내 출격"
           },
           {
-            "url": "https://www.etnews.com/20260904000364",
-            "title": ""
+            "date": "2026-09-05",
+            "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+            "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]"
           }
         ]
       },
@@ -109133,17 +109271,13 @@
     "금융회사 AI": [
       {
         "date": "2026-09-05",
-        "title": "에이전트, 통제보다 확산이 빨랐다",
-        "summary": "격리했다는 믿음과 실제 격리 사이의 간격이 드러났다.",
+        "title": "확산만큼 커진 사용 중단",
+        "summary": "격리 실패가 드러난 자리에서 대형 조직은 아예 사용을 멈추는 쪽을 택한다.",
         "articles": [
           {
             "date": "2026-09-05",
             "file": "20260905-openai-agents-hijack.md",
             "title": "OpenAI agents hijacked a 25-year-old German wiki to cheat on their tasks and share sandbox exploits"
-          },
-          {
-            "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-            "title": ""
           },
           {
             "date": "2026-09-05",
@@ -109156,8 +109290,9 @@
             "title": "Anthropic launches AI commerce agents with Visa and Mastercard"
           },
           {
-            "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-09-05",
+            "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
+            "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예"
           }
         ]
       },
@@ -111085,11 +111220,724 @@
         ]
       }
     ],
+    "physical_ai": [
+      {
+        "date": "2026-09-05",
+        "title": "피지컬 AI, 전시장에서 공정으로",
+        "summary": "성공률 수치가 나오기 시작했지만 제도와 인력 협상이 문턱으로 남았다.",
+        "articles": [
+          {
+            "date": "2026-09-05",
+            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
+            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
+            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+            "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-xdof-just-three-mont.md",
+            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+          },
+          {
+            "url": "https://www.etnews.com/20260904000374",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "title": "국가 AI가 조달에서 지역·현장으로",
+        "summary": "예산 배분과 발주 확정을 지나 지역 산업과 제조 현장 데이터로 집행 지점이 내려왔다.",
+        "articles": [
+          {
+            "date": "2026-09-02",
+            "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
+            "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
+            "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-kosa-한국-풀스택-ai-컨소시엄-.md",
+            "title": "KOSA, '한국 풀스택 AI 컨소시엄' 아람코 디지털 기술 실증 완료"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
+            "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-ax-대전환-초격차-토론회-수도권-지.md",
+            "title": "[AX 대전환 초격차 토론회] 수도권·지역 AX 격차 줄인다…5극 3특 연계 해법 제시"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672458",
+            "title": ""
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-엠아이큐브솔루션-피지컬ai-국책과제-.md",
+            "title": "엠아이큐브솔루션, 피지컬AI 국책과제 2건 선정…AI·DT 사업 확대"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-두산로보틱스-산업부-m-ax-과제로-.md",
+            "title": "두산로보틱스, 산업부 M.AX 과제로 '제조 암묵지 획득' 추진...3분기 판가름"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260902144028",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "title": "AI 예산이 사업 단위로",
+        "summary": "총액 구호가 부처별 사업과 자본 공급 수단으로 쪼개지며 발주 시점이 계산 가능해졌다.",
+        "articles": [
+          {
+            "date": "2026-09-01",
+            "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
+            "title": "3대 메가프로젝트·AI에 21.3조원 투입해 총력 지원 나선다[2027년 예산안]"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-2027예산-피지컬-ai에-3-1조-.md",
+            "title": "[2027예산] 피지컬 AI에 3.1조…'모두의 AI' 에이전트로 진화"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
+            "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
+            "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672242",
+            "title": ""
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-2027-예산안-20조원-넘는-한국판.md",
+            "title": "[2027 예산안]20조원 넘는 한국판 국부펀드 띄운다…모태펀드 출자도 역대 최대"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672352",
+            "title": ""
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20260901112400017",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "title": "제조 현장이 피지컬AI로 넘어간다",
+        "summary": "설비 자동화를 넘어 공장 운영 계층과 사업 포트폴리오 자체가 재편되고 있다.",
+        "articles": [
+          {
+            "date": "2026-08-30",
+            "file": "20260830-공장장은-ai-로봇은-동료-전북-피지.md",
+            "title": "공장장은 AI, 로봇은 동료…전북 피지컬AI 심장부 가보니"
+          },
+          {
+            "date": "2026-08-30",
+            "file": "20260830-가전회사가-로봇기업-됐다-가전공룡도-.md",
+            "title": "가전회사가 로봇기업 됐다... 中 가전공룡도 '변신'"
+          },
+          {
+            "date": "2026-08-30",
+            "file": "20260830-웨이모-자율주행-카메라만으론-역부족-.md",
+            "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판"
+          },
+          {
+            "url": "https://www.etnews.com/20260830000078",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "title": "국가가 AI 체제를 짠다",
+        "summary": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
+        "articles": [
+          {
+            "date": "2026-08-27",
+            "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
+            "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
+            "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
+            "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+            "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
+            "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
+            "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
+            "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
+            "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
+            "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260827123901",
+            "title": ""
+          },
+          {
+            "url": "https://www.hankyung.com/article/202608264401H",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-25",
+        "title": "피지컬 AI에 돈과 노선이 붙었다",
+        "summary": "자본 규모와 기술 노선은 정해졌지만 확산 속도는 사람이 정한다.",
+        "articles": [
+          {
+            "date": "2026-08-25",
+            "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
+            "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
+            "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
+            "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
+            "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
+            "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
+          },
+          {
+            "url": "https://www.etnews.com/20260825000157",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-20",
+        "title": "로봇이 현장 계약으로 들어왔다",
+        "summary": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-08-20",
+            "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
+            "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
+          },
+          {
+            "date": "2026-08-20",
+            "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
+            "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
+          },
+          {
+            "date": "2026-08-20",
+            "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
+            "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-17",
+        "title": "AI 인프라 부담이 팩토리·소재로 번진다",
+        "summary": "공급 단위가 부품에서 데이터센터 전체로 커지고 조달 병목은 소재까지 내려갔다.",
+        "articles": [
+          {
+            "date": "2026-08-17",
+            "file": "20260817-광통신-강국-ai-핵심-프리폼-역량은.md",
+            "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-lg-냉각장치-넘어-ai팩토리-통째로.md",
+            "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-ai추론-확산-프론트엔드-스위치-시장.md",
+            "title": "AI추론 확산...프론트엔드 스위치 시장 커진다"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-사이트-김장우-망고부스트-대표-ai-.md",
+            "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 '혈관' 네트워크·패브릭”"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-구리-공급-걱정마세요-수은-글로벌-자.md",
+            "title": "“구리 공급 걱정마세요”…수은, 글로벌 자원기업에 1.4조 금융지원"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-젠슨-황-장녀-매디슨-황-lg-r-d.md",
+            "title": "젠슨 황 장녀 매디슨 황, LG R&D 캠퍼스 방문…피지컬 AI 동맹 가속"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-14",
+        "title": "피지컬 AI가 그룹 전략으로 올라섰다",
+        "summary": "개별 사업부 과제였던 로봇·자율주행이 그룹 자원 배분과 국가 예산 의제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-14",
+            "file": "20260814-lg-엔비디아-아이작-그루트-기반-휴.md",
+            "title": "LG, 엔비디아 아이작 그루트 기반 휴머노이드 로봇 내년 1분기 공개"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-로보티즈-안방서-휴머노이드-공개-최신.md",
+            "title": "로보티즈, 中 안방서 휴머노이드 공개…최신 액추에이터 판매 시동"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-uber-partners-with-c.md",
+            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-피지컬-ai-흐름은-피할-수-없다-증.md",
+            "title": "“피지컬 AI 흐름은 피할 수 없다…증권가, LG에 러브콜 [오늘 나온 보고서]"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-구광모-젠슨-황과-ai-동맹-강화-원.md",
+            "title": "구광모, 젠슨 황과 'AI 동맹' 강화…'원 LG' 역량 총결집"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-kosa-피지컬-ai-메가프로젝트-승.md",
+            "title": "KOSA \"피지컬 AI, 메가프로젝트 승부처\"…국회에 예산 지원 촉구"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-장외-설전-벌이던-택시-플랫폼-카셰어.md",
+            "title": "'장외 설전' 벌이던 택시·플랫폼·카셰어링…서울 로보택시 플랫폼 두고 첫 '격돌'"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12",
+        "title": "성과의 잣대가 리드타임으로",
+        "summary": "비용 절감을 넘어 제품 개발 속도까지 AI 성과 지표가 확장됐다.",
+        "articles": [
+          {
+            "date": "2026-08-12",
+            "file": "20260812-연간-52억-비용-아꼈다-현대차-공장.md",
+            "title": "\"연간 52억 비용 아꼈다\"…현대차 공장에 도입된 'AI 기술' 정체"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-기업-내부회계-수작업-대신-ai로-삼.md",
+            "title": "\"기업 내부회계, 수작업 대신 AI로\"…삼정KPMG 특화 솔루션 출시"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
+            "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
+            "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260812135258",
+            "title": ""
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-데스크가-만났습니다-김민철-스위트케이.md",
+            "title": "[데스크가 만났습니다]김민철 스위트케이 대표 “명장 노하우를 데이터화…피지컬AI 완성”"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-혁신플랫폼톡-하네스-엔지니어링이-여는.md",
+            "title": "[혁신플랫폼톡] 하네스 엔지니어링이 여는 기업 AX"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12",
+        "title": "데이터와 평가 기준이 흔들린다",
+        "summary": "국가가 쌓은 학습데이터와 모델 평가 잣대의 신뢰성이 동시에 도마에 올랐다.",
+        "articles": [
+          {
+            "date": "2026-08-12",
+            "file": "20260812-1-6조-쏟은-ai-데이터-부실-감사.md",
+            "title": "1.6조 쏟은 AI 데이터 ‘부실’…감사원, 중복·오류 적발"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-발표-임박한-독파모-2차-평가-평가-.md",
+            "title": "발표 임박한 독파모 2차 평가...\"평가 방식·비교 기준 보완 필요\""
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-제조ax-기존-r-d-잣대만으론-한계.md",
+            "title": "제조AX, 기존 R&D 잣대만으론 한계…평가지표 새로 짠다"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-엔비디아-1조-매개변수-모델-개발-박.md",
+            "title": "엔비디아, '1조 매개변수' 모델 개발 박차...“GPU 수요·생태계 확장 노려”"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "피지컬 AI가 시연을 지나 요금·표준 경쟁 단계로 넘어갔다.",
+        "articles": [
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260807140334",
+            "title": ""
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
+            "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+            "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
+          }
+        ]
+      }
+    ],
+    "physical_ai_robotics": [
+      {
+        "date": "2026-09-05",
+        "title": "피지컬 AI, 전시장에서 공정으로",
+        "summary": "성공률 수치가 나오기 시작했지만 제도와 인력 협상이 문턱으로 남았다.",
+        "articles": [
+          {
+            "date": "2026-09-05",
+            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
+            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
+            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+            "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-xdof-just-three-mont.md",
+            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+          },
+          {
+            "url": "https://www.etnews.com/20260904000374",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "title": "제조 현장이 피지컬AI로 넘어간다",
+        "summary": "설비 자동화를 넘어 공장 운영 계층과 사업 포트폴리오 자체가 재편되고 있다.",
+        "articles": [
+          {
+            "date": "2026-08-30",
+            "file": "20260830-공장장은-ai-로봇은-동료-전북-피지.md",
+            "title": "공장장은 AI, 로봇은 동료…전북 피지컬AI 심장부 가보니"
+          },
+          {
+            "date": "2026-08-30",
+            "file": "20260830-가전회사가-로봇기업-됐다-가전공룡도-.md",
+            "title": "가전회사가 로봇기업 됐다... 中 가전공룡도 '변신'"
+          },
+          {
+            "date": "2026-08-30",
+            "file": "20260830-웨이모-자율주행-카메라만으론-역부족-.md",
+            "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판"
+          },
+          {
+            "url": "https://www.etnews.com/20260830000078",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "title": "국가가 AI 체제를 짠다",
+        "summary": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
+        "articles": [
+          {
+            "date": "2026-08-27",
+            "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
+            "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
+            "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
+            "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+            "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
+            "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
+            "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
+            "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
+            "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
+            "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260827123901",
+            "title": ""
+          },
+          {
+            "url": "https://www.hankyung.com/article/202608264401H",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-25",
+        "title": "피지컬 AI에 돈과 노선이 붙었다",
+        "summary": "자본 규모와 기술 노선은 정해졌지만 확산 속도는 사람이 정한다.",
+        "articles": [
+          {
+            "date": "2026-08-25",
+            "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
+            "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
+            "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
+            "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
+            "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
+            "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
+          },
+          {
+            "url": "https://www.etnews.com/20260825000157",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-20",
+        "title": "로봇이 현장 계약으로 들어왔다",
+        "summary": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-08-20",
+            "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
+            "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
+          },
+          {
+            "date": "2026-08-20",
+            "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
+            "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
+          },
+          {
+            "date": "2026-08-20",
+            "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
+            "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-14",
+        "title": "피지컬 AI가 그룹 전략으로 올라섰다",
+        "summary": "개별 사업부 과제였던 로봇·자율주행이 그룹 자원 배분과 국가 예산 의제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-14",
+            "file": "20260814-lg-엔비디아-아이작-그루트-기반-휴.md",
+            "title": "LG, 엔비디아 아이작 그루트 기반 휴머노이드 로봇 내년 1분기 공개"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-로보티즈-안방서-휴머노이드-공개-최신.md",
+            "title": "로보티즈, 中 안방서 휴머노이드 공개…최신 액추에이터 판매 시동"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-uber-partners-with-c.md",
+            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-피지컬-ai-흐름은-피할-수-없다-증.md",
+            "title": "“피지컬 AI 흐름은 피할 수 없다…증권가, LG에 러브콜 [오늘 나온 보고서]"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-구광모-젠슨-황과-ai-동맹-강화-원.md",
+            "title": "구광모, 젠슨 황과 'AI 동맹' 강화…'원 LG' 역량 총결집"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-kosa-피지컬-ai-메가프로젝트-승.md",
+            "title": "KOSA \"피지컬 AI, 메가프로젝트 승부처\"…국회에 예산 지원 촉구"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-장외-설전-벌이던-택시-플랫폼-카셰어.md",
+            "title": "'장외 설전' 벌이던 택시·플랫폼·카셰어링…서울 로보택시 플랫폼 두고 첫 '격돌'"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "피지컬 AI가 시연을 지나 요금·표준 경쟁 단계로 넘어갔다.",
+        "articles": [
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260807140334",
+            "title": ""
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
+            "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+            "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
+          }
+        ]
+      }
+    ],
     "ai_industry": [
       {
         "date": "2026-09-05",
-        "title": "국가 AI가 국민 접점으로",
-        "summary": "예산과 발주를 지나 이제 누가 관문을 쥐느냐의 문제가 됐다.",
+        "title": "국가 AI, 접점은 이미 넘어갔다",
+        "summary": "관문을 누가 쥐느냐를 다투는 사이 이용 습관은 해외 서비스에 굳었다.",
         "articles": [
           {
             "date": "2026-09-05",
@@ -111102,8 +111950,9 @@
             "title": "SKT 생활서비스·카카오 메신저·KT 콘텐츠…다담은 '모두의 AI' 연내 출격"
           },
           {
-            "url": "https://www.etnews.com/20260904000364",
-            "title": ""
+            "date": "2026-09-05",
+            "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+            "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]"
           }
         ]
       },
@@ -114137,701 +114986,6 @@
             "date": "2026-07-30",
             "file": "20260730-컨콜-이준희-삼성sds-대표-ai-인.md",
             "title": "삼성SDS 'AI 인프라 800MW까지 확대…풀스택 성장 가속'"
-          }
-        ]
-      }
-    ],
-    "physical_ai": [
-      {
-        "date": "2026-09-05",
-        "title": "피지컬 AI의 문턱은 제도와 사람",
-        "summary": "기술 검증을 통과해도 데이터 권리와 인력 협상에서 멈춘다.",
-        "articles": [
-          {
-            "date": "2026-09-05",
-            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
-            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
-            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
-            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-테슬라-사이버캡-행사-기대-이하-평가.md",
-            "title": "테슬라 사이버캡 행사, 기대 이하 평가…美 규제당국은 조사 착수"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-02",
-        "title": "국가 AI가 조달에서 지역·현장으로",
-        "summary": "예산 배분과 발주 확정을 지나 지역 산업과 제조 현장 데이터로 집행 지점이 내려왔다.",
-        "articles": [
-          {
-            "date": "2026-09-02",
-            "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
-            "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
-            "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-kosa-한국-풀스택-ai-컨소시엄-.md",
-            "title": "KOSA, '한국 풀스택 AI 컨소시엄' 아람코 디지털 기술 실증 완료"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
-            "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-ax-대전환-초격차-토론회-수도권-지.md",
-            "title": "[AX 대전환 초격차 토론회] 수도권·지역 AX 격차 줄인다…5극 3특 연계 해법 제시"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672458",
-            "title": ""
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-엠아이큐브솔루션-피지컬ai-국책과제-.md",
-            "title": "엠아이큐브솔루션, 피지컬AI 국책과제 2건 선정…AI·DT 사업 확대"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-두산로보틱스-산업부-m-ax-과제로-.md",
-            "title": "두산로보틱스, 산업부 M.AX 과제로 '제조 암묵지 획득' 추진...3분기 판가름"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260902144028",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-01",
-        "title": "AI 예산이 사업 단위로",
-        "summary": "총액 구호가 부처별 사업과 자본 공급 수단으로 쪼개지며 발주 시점이 계산 가능해졌다.",
-        "articles": [
-          {
-            "date": "2026-09-01",
-            "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
-            "title": "3대 메가프로젝트·AI에 21.3조원 투입해 총력 지원 나선다[2027년 예산안]"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-2027예산-피지컬-ai에-3-1조-.md",
-            "title": "[2027예산] 피지컬 AI에 3.1조…'모두의 AI' 에이전트로 진화"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
-            "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
-            "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672242",
-            "title": ""
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-2027-예산안-20조원-넘는-한국판.md",
-            "title": "[2027 예산안]20조원 넘는 한국판 국부펀드 띄운다…모태펀드 출자도 역대 최대"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672352",
-            "title": ""
-          },
-          {
-            "url": "https://www.yna.co.kr/view/AKR20260901112400017",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-30",
-        "title": "제조 현장이 피지컬AI로 넘어간다",
-        "summary": "설비 자동화를 넘어 공장 운영 계층과 사업 포트폴리오 자체가 재편되고 있다.",
-        "articles": [
-          {
-            "date": "2026-08-30",
-            "file": "20260830-공장장은-ai-로봇은-동료-전북-피지.md",
-            "title": "공장장은 AI, 로봇은 동료…전북 피지컬AI 심장부 가보니"
-          },
-          {
-            "date": "2026-08-30",
-            "file": "20260830-가전회사가-로봇기업-됐다-가전공룡도-.md",
-            "title": "가전회사가 로봇기업 됐다... 中 가전공룡도 '변신'"
-          },
-          {
-            "date": "2026-08-30",
-            "file": "20260830-웨이모-자율주행-카메라만으론-역부족-.md",
-            "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판"
-          },
-          {
-            "url": "https://www.etnews.com/20260830000078",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-27",
-        "title": "국가가 AI 체제를 짠다",
-        "summary": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
-        "articles": [
-          {
-            "date": "2026-08-27",
-            "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
-            "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
-            "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
-            "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
-            "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
-            "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
-            "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
-            "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
-            "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
-            "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260827123901",
-            "title": ""
-          },
-          {
-            "url": "https://www.hankyung.com/article/202608264401H",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-25",
-        "title": "피지컬 AI에 돈과 노선이 붙었다",
-        "summary": "자본 규모와 기술 노선은 정해졌지만 확산 속도는 사람이 정한다.",
-        "articles": [
-          {
-            "date": "2026-08-25",
-            "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
-            "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
-            "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
-            "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
-            "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
-            "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
-          },
-          {
-            "url": "https://www.etnews.com/20260825000157",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-20",
-        "title": "로봇이 현장 계약으로 들어왔다",
-        "summary": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
-        "articles": [
-          {
-            "date": "2026-08-20",
-            "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
-            "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
-            "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
-            "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
-            "title": ""
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-17",
-        "title": "AI 인프라 부담이 팩토리·소재로 번진다",
-        "summary": "공급 단위가 부품에서 데이터센터 전체로 커지고 조달 병목은 소재까지 내려갔다.",
-        "articles": [
-          {
-            "date": "2026-08-17",
-            "file": "20260817-광통신-강국-ai-핵심-프리폼-역량은.md",
-            "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기"
-          },
-          {
-            "date": "2026-08-17",
-            "file": "20260817-lg-냉각장치-넘어-ai팩토리-통째로.md",
-            "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다"
-          },
-          {
-            "date": "2026-08-17",
-            "file": "20260817-ai추론-확산-프론트엔드-스위치-시장.md",
-            "title": "AI추론 확산...프론트엔드 스위치 시장 커진다"
-          },
-          {
-            "date": "2026-08-17",
-            "file": "20260817-사이트-김장우-망고부스트-대표-ai-.md",
-            "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 '혈관' 네트워크·패브릭”"
-          },
-          {
-            "date": "2026-08-17",
-            "file": "20260817-구리-공급-걱정마세요-수은-글로벌-자.md",
-            "title": "“구리 공급 걱정마세요”…수은, 글로벌 자원기업에 1.4조 금융지원"
-          },
-          {
-            "date": "2026-08-17",
-            "file": "20260817-젠슨-황-장녀-매디슨-황-lg-r-d.md",
-            "title": "젠슨 황 장녀 매디슨 황, LG R&D 캠퍼스 방문…피지컬 AI 동맹 가속"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-14",
-        "title": "피지컬 AI가 그룹 전략으로 올라섰다",
-        "summary": "개별 사업부 과제였던 로봇·자율주행이 그룹 자원 배분과 국가 예산 의제가 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-14",
-            "file": "20260814-lg-엔비디아-아이작-그루트-기반-휴.md",
-            "title": "LG, 엔비디아 아이작 그루트 기반 휴머노이드 로봇 내년 1분기 공개"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-로보티즈-안방서-휴머노이드-공개-최신.md",
-            "title": "로보티즈, 中 안방서 휴머노이드 공개…최신 액추에이터 판매 시동"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-uber-partners-with-c.md",
-            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-피지컬-ai-흐름은-피할-수-없다-증.md",
-            "title": "“피지컬 AI 흐름은 피할 수 없다…증권가, LG에 러브콜 [오늘 나온 보고서]"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-구광모-젠슨-황과-ai-동맹-강화-원.md",
-            "title": "구광모, 젠슨 황과 'AI 동맹' 강화…'원 LG' 역량 총결집"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-kosa-피지컬-ai-메가프로젝트-승.md",
-            "title": "KOSA \"피지컬 AI, 메가프로젝트 승부처\"…국회에 예산 지원 촉구"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-장외-설전-벌이던-택시-플랫폼-카셰어.md",
-            "title": "'장외 설전' 벌이던 택시·플랫폼·카셰어링…서울 로보택시 플랫폼 두고 첫 '격돌'"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-12",
-        "title": "성과의 잣대가 리드타임으로",
-        "summary": "비용 절감을 넘어 제품 개발 속도까지 AI 성과 지표가 확장됐다.",
-        "articles": [
-          {
-            "date": "2026-08-12",
-            "file": "20260812-연간-52억-비용-아꼈다-현대차-공장.md",
-            "title": "\"연간 52억 비용 아꼈다\"…현대차 공장에 도입된 'AI 기술' 정체"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-기업-내부회계-수작업-대신-ai로-삼.md",
-            "title": "\"기업 내부회계, 수작업 대신 AI로\"…삼정KPMG 특화 솔루션 출시"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
-            "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
-            "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260812135258",
-            "title": ""
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-데스크가-만났습니다-김민철-스위트케이.md",
-            "title": "[데스크가 만났습니다]김민철 스위트케이 대표 “명장 노하우를 데이터화…피지컬AI 완성”"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-혁신플랫폼톡-하네스-엔지니어링이-여는.md",
-            "title": "[혁신플랫폼톡] 하네스 엔지니어링이 여는 기업 AX"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-12",
-        "title": "데이터와 평가 기준이 흔들린다",
-        "summary": "국가가 쌓은 학습데이터와 모델 평가 잣대의 신뢰성이 동시에 도마에 올랐다.",
-        "articles": [
-          {
-            "date": "2026-08-12",
-            "file": "20260812-1-6조-쏟은-ai-데이터-부실-감사.md",
-            "title": "1.6조 쏟은 AI 데이터 ‘부실’…감사원, 중복·오류 적발"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-발표-임박한-독파모-2차-평가-평가-.md",
-            "title": "발표 임박한 독파모 2차 평가...\"평가 방식·비교 기준 보완 필요\""
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-제조ax-기존-r-d-잣대만으론-한계.md",
-            "title": "제조AX, 기존 R&D 잣대만으론 한계…평가지표 새로 짠다"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-엔비디아-1조-매개변수-모델-개발-박.md",
-            "title": "엔비디아, '1조 매개변수' 모델 개발 박차...“GPU 수요·생태계 확장 노려”"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-07",
-        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
-        "summary": "피지컬 AI가 시연을 지나 요금·표준 경쟁 단계로 넘어갔다.",
-        "articles": [
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260807140334",
-            "title": ""
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
-            "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
-            "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
-          }
-        ]
-      }
-    ],
-    "physical_ai_robotics": [
-      {
-        "date": "2026-09-05",
-        "title": "피지컬 AI의 문턱은 제도와 사람",
-        "summary": "기술 검증을 통과해도 데이터 권리와 인력 협상에서 멈춘다.",
-        "articles": [
-          {
-            "date": "2026-09-05",
-            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
-            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
-            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
-            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-테슬라-사이버캡-행사-기대-이하-평가.md",
-            "title": "테슬라 사이버캡 행사, 기대 이하 평가…美 규제당국은 조사 착수"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-30",
-        "title": "제조 현장이 피지컬AI로 넘어간다",
-        "summary": "설비 자동화를 넘어 공장 운영 계층과 사업 포트폴리오 자체가 재편되고 있다.",
-        "articles": [
-          {
-            "date": "2026-08-30",
-            "file": "20260830-공장장은-ai-로봇은-동료-전북-피지.md",
-            "title": "공장장은 AI, 로봇은 동료…전북 피지컬AI 심장부 가보니"
-          },
-          {
-            "date": "2026-08-30",
-            "file": "20260830-가전회사가-로봇기업-됐다-가전공룡도-.md",
-            "title": "가전회사가 로봇기업 됐다... 中 가전공룡도 '변신'"
-          },
-          {
-            "date": "2026-08-30",
-            "file": "20260830-웨이모-자율주행-카메라만으론-역부족-.md",
-            "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판"
-          },
-          {
-            "url": "https://www.etnews.com/20260830000078",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-27",
-        "title": "국가가 AI 체제를 짠다",
-        "summary": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
-        "articles": [
-          {
-            "date": "2026-08-27",
-            "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
-            "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
-            "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
-            "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
-            "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
-            "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
-            "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
-            "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
-            "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
-            "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260827123901",
-            "title": ""
-          },
-          {
-            "url": "https://www.hankyung.com/article/202608264401H",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-25",
-        "title": "피지컬 AI에 돈과 노선이 붙었다",
-        "summary": "자본 규모와 기술 노선은 정해졌지만 확산 속도는 사람이 정한다.",
-        "articles": [
-          {
-            "date": "2026-08-25",
-            "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
-            "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
-            "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
-            "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
-            "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
-            "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
-          },
-          {
-            "url": "https://www.etnews.com/20260825000157",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-20",
-        "title": "로봇이 현장 계약으로 들어왔다",
-        "summary": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
-        "articles": [
-          {
-            "date": "2026-08-20",
-            "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
-            "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
-            "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
-            "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
-            "title": ""
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-14",
-        "title": "피지컬 AI가 그룹 전략으로 올라섰다",
-        "summary": "개별 사업부 과제였던 로봇·자율주행이 그룹 자원 배분과 국가 예산 의제가 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-14",
-            "file": "20260814-lg-엔비디아-아이작-그루트-기반-휴.md",
-            "title": "LG, 엔비디아 아이작 그루트 기반 휴머노이드 로봇 내년 1분기 공개"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-로보티즈-안방서-휴머노이드-공개-최신.md",
-            "title": "로보티즈, 中 안방서 휴머노이드 공개…최신 액추에이터 판매 시동"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-uber-partners-with-c.md",
-            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-피지컬-ai-흐름은-피할-수-없다-증.md",
-            "title": "“피지컬 AI 흐름은 피할 수 없다…증권가, LG에 러브콜 [오늘 나온 보고서]"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-구광모-젠슨-황과-ai-동맹-강화-원.md",
-            "title": "구광모, 젠슨 황과 'AI 동맹' 강화…'원 LG' 역량 총결집"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-kosa-피지컬-ai-메가프로젝트-승.md",
-            "title": "KOSA \"피지컬 AI, 메가프로젝트 승부처\"…국회에 예산 지원 촉구"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-장외-설전-벌이던-택시-플랫폼-카셰어.md",
-            "title": "'장외 설전' 벌이던 택시·플랫폼·카셰어링…서울 로보택시 플랫폼 두고 첫 '격돌'"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-07",
-        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
-        "summary": "피지컬 AI가 시연을 지나 요금·표준 경쟁 단계로 넘어갔다.",
-        "articles": [
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260807140334",
-            "title": ""
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
-            "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
-            "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
           }
         ]
       }

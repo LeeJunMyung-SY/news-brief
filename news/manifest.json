@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-04T23:22:14+00:00",
+  "generated_at": "2026-09-05T03:15:38+00:00",
   "latest_date": "2026-09-05",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 840
+      "count": 841
     },
     {
       "key": "ai_agents",
@@ -18,19 +18,19 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1013
+      "count": 1015
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2363
+      "count": 2367
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 393
+      "count": 395
     },
     {
       "key": "ai_compute_energy",
@@ -48,7 +48,7 @@
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 372
+      "count": 374
     }
   ],
   "daily": [
@@ -60,6 +60,12 @@
           "file": "digest_0822.md",
           "selected": 18,
           "new": 128
+        },
+        {
+          "time": "12:15",
+          "file": "digest_1215.md",
+          "selected": 5,
+          "new": 46
         }
       ]
     },
@@ -1947,7 +1953,7 @@
       "file": "2026-W36.md",
       "week_start": "2026-08-31",
       "week_end": "2026-09-06",
-      "total_selected_this_week": 797
+      "total_selected_this_week": 808
     },
     {
       "week": "2026-W35",

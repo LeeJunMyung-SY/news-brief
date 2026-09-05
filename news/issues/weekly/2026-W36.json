@@ -1,7 +1,7 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-05T08:22:08.140795+09:00",
-  "run_id": "run_20260905_082208",
+  "updated_at": "2026-09-05T12:15:32.001013+09:00",
+  "run_id": "run_20260905_121532",
   "summary_ko": "도입이 빨라진 만큼 통제·제도·자본이 조건으로 따라붙은 한 주였다.",
   "issues": [
     {
@@ -34,15 +34,6 @@
           "title": "\"AI 활용은 경영진부터\"…국민銀 임원급 AI교육"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-nh농협은행-5급-신규직원-120여명.md",
-          "title": "NH농협은행, 5급 신규직원 120여명 채용…인공지능(AI)·전문 분야 역량 강화"
-        },
-        {
-          "url": "https://www.finextra.com/blogposting/32736/counting-what-you-cannot-see-vladyslav-kolodistyi-on-measuring-agentic-commerce-before-it-scales?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-09-05",
           "file": "20260905-wealthai-launches-we.md",
           "title": "WealthAi launches WealthAi for Advisors as advice firms enter next phase of AI adoption"
@@ -51,22 +42,17 @@
     },
     {
       "title": "에이전트가 실행 권한을 쥐기 시작했다",
-      "body_ko": "업무 수행에서 결제까지 권한이 넓어지는 사이 감시 체계는 뒤처졌다.",
+      "body_ko": "업무 수행에서 결제까지 권한이 넓어지는 사이 감시 체계는 뒤처졌고, 일부 조직은 사용 중단으로 되돌아갔다.",
       "topics": [
         "ai_agents",
-        "llm_models",
-        "ai_policy"
+        "ai_policy",
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-09-04",
           "file": "20260904-오픈ai-ai-에이전트-위협-맞서-디.md",
           "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화"
-        },
-        {
-          "date": "2026-09-04",
-          "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
-          "title": "\"AI앱 1900개가 회사 업무\"…SKB, 상품부터 조직까지 AI로 재설계"
         },
         {
           "date": "2026-09-03",
@@ -80,24 +66,24 @@
         },
         {
           "date": "2026-09-05",
-          "file": "20260905-앤트로픽-e커머스-시장-도전-클로드-.md",
-          "title": "앤트로픽, e커머스 시장 도전...'클로드 상거래 에이전트' 공개"
-        },
-        {
-          "date": "2026-09-05",
           "file": "20260905-anthropic-launches-a.md",
           "title": "Anthropic launches AI commerce agents with Visa and Mastercard"
         },
         {
           "date": "2026-09-05",
-          "file": "20260905-openai-s-gpt-6-astra.md",
-          "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+          "file": "20260905-앤트로픽-e커머스-시장-도전-클로드-.md",
+          "title": "앤트로픽, e커머스 시장 도전...'클로드 상거래 에이전트' 공개"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
+          "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예"
         }
       ]
     },
     {
       "title": "모델 경쟁이 성능에서 증명으로",
-      "body_ko": "평가 기준이 엇갈리면서 벤더가 안전 근거를 먼저 내미는 국면으로 넘어갔다.",
+      "body_ko": "평가 기준이 엇갈리고 배포까지 흔들리면서 벤더가 근거와 안정성을 먼저 내미는 국면이 됐다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -124,17 +110,13 @@
           "title": "“데이터 공유하면 95% 할인”…메타, ‘기여자 요금제’ 전면 확대"
         },
         {
-          "url": "https://the-decoder.com/benchmarks-disagree-on-gpt-6-astra-but-its-human-beating-efficiency-on-arc-agi-3-pulls-chollets-agi-forecast-forward/",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214861",
-          "title": ""
-        },
-        {
           "date": "2026-09-05",
-          "file": "20260905-ms-음성-모델-mai-트랜스크라이브.md",
-          "title": "MS, 음성 모델 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡아"
+          "file": "20260905-openai-s-gpt-6-astra.md",
+          "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214887",
+          "title": ""
         }
       ]
     },
@@ -152,19 +134,9 @@
           "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-이해진-네이버-의장-브룩필드-회장과-.md",
-          "title": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의"
-        },
-        {
           "date": "2026-09-03",
           "file": "20260903-tsmc-ai-칩-수요-폭발-팹-20.md",
           "title": "TSMC \"AI 칩 수요 폭발 …팹 20개 건설도 역부족\""
-        },
-        {
-          "date": "2026-09-04",
-          "file": "20260904-아이폰18-프로-얼마나-오를까-메모리.md",
-          "title": "아이폰18 프로, 얼마나 오를까…\"메모리 비용, 작년 4배\""
         },
         {
           "date": "2026-09-05",
@@ -180,28 +152,18 @@
           "date": "2026-09-05",
           "file": "20260905-발전5사-통합-한국발전-내년-10월-.md",
           "title": "발전5사 통합 '한국발전' 내년 10월 출범…“글로벌 톱10 도약한다”"
-        },
-        {
-          "date": "2026-09-05",
-          "file": "20260905-skc-앱솔릭스에-2810억원-출자-.md",
-          "title": "SKC, 앱솔릭스에 2810억원 출자…유리기판 사업화 속도"
         }
       ]
     },
     {
-      "title": "국가 AI, 예산에서 관문 경쟁으로",
-      "body_ko": "총액과 발주가 정해진 뒤 국민 접점을 누가 쥐느냐가 다음 쟁점이 됐다.",
+      "title": "국가 AI, 예산에서 현장과 접점으로",
+      "body_ko": "총액이 정해진 뒤 집행은 제조 현장과 로봇 특구로 내려갔지만 국민 접점은 이미 해외 서비스가 쥐고 있다.",
       "topics": [
         "ai_policy",
         "ai_industry",
         "physical_ai"
       ],
       "articles": [
-        {
-          "date": "2026-09-01",
-          "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
-          "title": "3대 메가프로젝트·AI에 21.3조원 투입해 총력 지원 나선다[2027년 예산안]"
-        },
         {
           "date": "2026-09-02",
           "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
@@ -213,19 +175,9 @@
           "title": "과기부, '모두의 AI' 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-제조ai-인력-1천600명-양성-취업.md",
-          "title": "中企 제조AI 인력 1천600명 양성…취업인턴십 12개월로 연장"
-        },
-        {
           "date": "2026-09-05",
           "file": "20260905-모두의-ai-시동-건-카카오-정신아-.md",
           "title": "'모두의 AI' 시동 건 카카오…정신아 대표 \"1인 N에이전트 구현\""
-        },
-        {
-          "date": "2026-09-05",
-          "file": "20260905-skt-생활서비스-카카오-메신저-kt.md",
-          "title": "SKT 생활서비스·카카오 메신저·KT 콘텐츠…다담은 '모두의 AI' 연내 출격"
         },
         {
           "date": "2026-09-05",
@@ -234,8 +186,18 @@
         },
         {
           "date": "2026-09-05",
-          "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
-          "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+          "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+          "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
+          "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+          "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
         }
       ]
     }
