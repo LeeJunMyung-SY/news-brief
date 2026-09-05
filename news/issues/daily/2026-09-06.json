@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-06",
+  "updated_at": "2026-09-06T08:18:47.054908+09:00",
+  "run_id": "run_20260906_081847",
+  "summary_ko": "에이전트 사고의 뒷수습과 모델·자본의 검증 문턱이 같은 날 올라갔다.",
+  "issues": [
+    {
+      "title": "사고 다음은 공시와 조직",
+      "summary_ko": "통제 실패를 인정한 자리에서 공개 기준과 책임 조직이 함께 정해진다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-06",
+          "file": "20260906-openai-admits-its-di.md",
+          "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-deepmind-put-100-ai-.md",
+          "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-meet-the-ciso-a-new-.md",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+        }
+      ]
+    },
+    {
+      "title": "모델의 값이 한도와 지수로",
+      "summary_ko": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 평가 체계로 옮겨갔다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-06",
+          "file": "20260906-openai-rolls-out-gpt.md",
+          "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-artificial-analysis-.md",
+          "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "자본시장과 법정이 동시에 연다",
+      "summary_ko": "벤더의 재무와 데이터 출처가 외부 검증 절차로 끌려나오는 국면이다.",
+      "topics": [
+        "ai_industry",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-06",
+          "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
+          "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
+          "title": ""
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-seattle-times-and-ne.md",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-05T16:17:16.803431+09:00",
-  "run_id": "run_20260905_161716",
-  "summary_ko": "도입 속도만큼 통제와 자본, 제도가 조건으로 따라붙은 한 주였다.",
+  "updated_at": "2026-09-06T08:18:47.054908+09:00",
+  "run_id": "run_20260906_081847",
+  "summary_ko": "도입 속도만큼 통제·자본·제도가 조건으로 붙은 한 주였다.",
   "issues": [
     {
       "title": "금융 AI, 규제 문턱 다음은 사람과 통제",
@@ -41,24 +41,14 @@
       ]
     },
     {
-      "title": "에이전트가 실행 권한을 쥐기 시작했다",
-      "body_ko": "업무 수행에서 결제와 고객 응대까지 권한이 넓어지는 사이 감시 체계는 뒤처졌다.",
+      "title": "에이전트, 권한은 넓어지고 사고는 드러났다",
+      "body_ko": "실행 권한이 결제와 고객 응대까지 넓어지는 사이 통제 실패가 공시 문제로 번졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
         "llm_models"
       ],
       "articles": [
-        {
-          "date": "2026-09-04",
-          "file": "20260904-오픈ai-ai-에이전트-위협-맞서-디.md",
-          "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화"
-        },
-        {
-          "date": "2026-09-03",
-          "file": "20260903-ai가-업무-이해-판단-실행까지-kt.md",
-          "title": "AI가 업무 이해·판단·실행까지…KT, '에이전틱 데이터 플로우' 개발"
-        },
         {
           "date": "2026-09-05",
           "file": "20260905-openai-agents-hijack.md",
@@ -70,25 +60,35 @@
           "title": "Anthropic launches AI commerce agents with Visa and Mastercard"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-미국-초대형-교육구-일제히-생성-ai.md",
-          "title": "미국 초대형 교육구 일제히 생성 AI 차단…뉴욕 이어 LA도 유예"
+          "date": "2026-09-04",
+          "file": "20260904-오픈ai-ai-에이전트-위협-맞서-디.md",
+          "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-구글-제미나이-스파크에-포토-연동-사.md",
-          "title": "구글, 제미나이 스파크에 '포토' 연동...사진 검색·편집·일정 등록까지 자동화"
+          "date": "2026-09-03",
+          "file": "20260903-ai가-업무-이해-판단-실행까지-kt.md",
+          "title": "AI가 업무 이해·판단·실행까지…KT, '에이전틱 데이터 플로우' 개발"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-100인치-tv-골라줘-말하자-척척-.md",
-          "title": "\"100인치 TV 골라줘\" 말하자 척척…삼성, 독일서 'AI 직원' 공개"
+          "date": "2026-09-06",
+          "file": "20260906-openai-admits-its-di.md",
+          "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-deepmind-put-100-ai-.md",
+          "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-meet-the-ciso-a-new-.md",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
         }
       ]
     },
     {
       "title": "모델 경쟁이 성능에서 증명으로",
-      "body_ko": "평가 기준이 엇갈리고 정부 평가까지 변수로 붙으며 벤더가 근거를 먼저 내미는 국면이 됐다.",
+      "body_ko": "평가 기준과 사용 한도가 뒤바뀌며 벤더가 근거를 먼저 내미는 국면이 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -101,9 +101,9 @@
           "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
-          "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
+          "date": "2026-09-05",
+          "file": "20260905-openai-s-gpt-6-astra.md",
+          "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
         },
         {
           "date": "2026-09-03",
@@ -111,39 +111,34 @@
           "title": "AI 토큰 가격 사상 최저치…중국산 모델 인기·가격 경쟁 심화 여파"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-데이터-공유하면-95-할인-메타-기여.md",
-          "title": "“데이터 공유하면 95% 할인”…메타, ‘기여자 요금제’ 전면 확대"
+          "date": "2026-09-06",
+          "file": "20260906-openai-rolls-out-gpt.md",
+          "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-openai-s-gpt-6-astra.md",
-          "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
+          "date": "2026-09-06",
+          "file": "20260906-artificial-analysis-.md",
+          "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-미-국방부-앤트로픽-여전히-공급망-위.md",
-          "title": "미 국방부, 앤트로픽 여전히 '공급망 위험'으로 간주...상무장관과 온도 차"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라, 자금 주체와 조달 방식이 바뀐다",
-      "body_ko": "증설 자금이 금융자본과 공급사 지분으로 넘어가는 사이 칩 조달은 학습과 추론으로 갈라졌다.",
+      "title": "AI 자본이 공모시장과 법정으로",
+      "body_ko": "증설 자금과 데이터 출처가 상장 심사와 소송이라는 외부 검증대에 올랐다.",
       "topics": [
+        "ai_industry",
         "ai_compute_energy",
-        "ai_industry"
+        "ai_policy"
       ],
       "articles": [
         {
           "date": "2026-09-04",
           "file": "20260904-anthropic-ramps-up-c.md",
           "title": "Anthropic ramps up Claude infrastructure with $35 billion Lambda deal"
-        },
-        {
-          "date": "2026-09-03",
-          "file": "20260903-tsmc-ai-칩-수요-폭발-팹-20.md",
-          "title": "TSMC \"AI 칩 수요 폭발 …팹 20개 건설도 역부족\""
         },
         {
           "date": "2026-09-05",
@@ -156,30 +151,24 @@
           "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-발전5사-통합-한국발전-내년-10월-.md",
-          "title": "발전5사 통합 '한국발전' 내년 10월 출범…“글로벌 톱10 도약한다”"
+          "date": "2026-09-06",
+          "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
+          "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-딥시크-새로운-데이터센터-구축을-위해.md",
-          "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획"
+          "date": "2026-09-06",
+          "file": "20260906-seattle-times-and-ne.md",
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-ai는-지금-gpu만으론-부족-삼성도.md",
-          "title": "[AI는 지금] \"GPU만으론 부족\"…삼성도 'AI 추론 SW' 짐렛랩스에 베팅"
-        },
-        {
-          "date": "2026-09-05",
-          "file": "20260905-엔비디아-무라티의-tml에-3-3조-.md",
-          "title": "엔비디아, 무라티의 TML에 3.3조 투자 논의…\"오픈소스 생태계 결속\""
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214893",
+          "title": ""
         }
       ]
     },
     {
-      "title": "국가 AI, 예산에서 현장과 접점으로",
-      "body_ko": "총액이 정해진 뒤 집행은 현장으로 내려갔지만 확산은 데이터와 거버넌스에서 다시 막힌다.",
+      "title": "국가 AI, 예산에서 현장과 규제 진폭으로",
+      "body_ko": "집행은 현장으로 내려갔지만 규제 방향은 완화와 금지 사이에서 크게 흔들린다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -192,14 +181,9 @@
           "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
         },
         {
-          "date": "2026-09-04",
-          "file": "20260904-과기부-모두의-ai-간담회-개최-25.md",
-          "title": "과기부, '모두의 AI' 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진"
-        },
-        {
           "date": "2026-09-05",
-          "file": "20260905-모두의-ai-시동-건-카카오-정신아-.md",
-          "title": "'모두의 AI' 시동 건 카카오…정신아 대표 \"1인 N에이전트 구현\""
+          "file": "20260905-spri-ai-정책-gpu-모델-확보.md",
+          "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”"
         },
         {
           "date": "2026-09-05",
@@ -207,14 +191,17 @@
           "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-챗gpt-2300만명-쓰는데-국가대표.md",
-          "title": "챗GPT 2300만명 쓰는데…'국가대표 AI' 아직 경쟁 중 [홍민성의 테토남]"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
+          "title": ""
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-spri-ai-정책-gpu-모델-확보.md",
-          "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”"
+          "date": "2026-09-06",
+          "file": "20260906-인천시교육청-ai-추진단-출범-교사-.md",
+          "title": "인천시교육청, AI 추진단 출범…교사 행정업무 감축 추진"
+        },
+        {
+          "url": "https://www.etnews.com/20260904000264",
+          "title": ""
         }
       ]
     }
