@@ -1,0 +1,95 @@
+{
+  "date": "2026-09-07",
+  "updated_at": "2026-09-07T08:21:01.748964+09:00",
+  "run_id": "run_20260907_082101",
+  "summary_ko": "AI 경쟁의 무게중심이 모델 성능에서 조달 비용과 인프라 실행력으로 옮겨간 하루다.",
+  "issues": [
+    {
+      "title": "모델 조달선이 갈라진다",
+      "summary_ko": "성능 격차가 좁혀지며 값이 벤더 선택의 결정 변수로 올라섰다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-성능-좋고-저렴하다-글로벌-빅테크-a.md",
+          "title": "\"성능 좋고 저렴하다\"…글로벌 빅테크, 中 AI 잇달아 도입"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-model-fatigue-sets-i.md",
+          "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-ai-토큰가격-사상-최저-5월-최고점.md",
+          "title": "AI 토큰가격 '사상 최저'…5월 최고점 대비 반토막"
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라는 속도 싸움",
+      "summary_ko": "확보 경쟁의 초점이 부지·전력에서 착공 후 리드타임과 재정 투입으로 옮겨갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-lgu-pmdc-얼라이언스-출범-ai.md",
+          "title": "LGU+, PMDC 얼라이언스 출범…AI 데이터센터 건축기간 줄인다"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-ai-시대-전력-확보-경쟁-정부-에너.md",
+          "title": "AI 시대 '전력 확보' 경쟁…정부, 에너지 R&D 48% 확대"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12145485",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "은행이 사람부터 바꾼다",
+      "summary_ko": "금융권 AI 도입이 시스템을 넘어 채용 구조 자체를 바꾸는 단계로 들어섰다.",
+      "topics": [
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-ai-전문가-뽑는-은행들-신입-공채는.md",
+          "title": "AI 전문가 뽑는 은행들…신입 공채는 갈수록 '바늘구멍'"
+        }
+      ]
+    },
+    {
+      "title": "에이전트가 업무를 잠식",
+      "summary_ko": "개발·리서치·상품탐색 영역에서 에이전트가 실측 성과를 내며 대체 범위를 넓힌다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-research-acceleratio.md",
+          "title": "Research acceleration: The view inside OpenAI"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-ai가-대신-사보고-말해준다-바이브컴.md",
+          "title": "AI가 대신 사보고 말해준다…바이브컴퍼니 'AI 트윈 컨슈머' 공개"
+        },
+        {
+          "url": "https://www.etnews.com/20260907000005",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
