@@ -1,8 +1,8 @@
 {
   "week": "2026-W36",
-  "updated_at": "2026-09-06T08:18:47.054908+09:00",
-  "run_id": "run_20260906_081847",
-  "summary_ko": "도입 속도만큼 통제·자본·제도가 조건으로 붙은 한 주였다.",
+  "updated_at": "2026-09-06T12:22:30.688799+09:00",
+  "run_id": "run_20260906_122230",
+  "summary_ko": "도입 속도만큼 통제·자본·인증이 조건으로 붙은 한 주였다.",
   "issues": [
     {
       "title": "금융 AI, 규제 문턱 다음은 사람과 통제",
@@ -37,12 +37,27 @@
           "date": "2026-09-05",
           "file": "20260905-wealthai-launches-we.md",
           "title": "WealthAi launches WealthAi for Advisors as advice firms enter next phase of AI adoption"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-핀다-저축은행-인수-인력-확보-돌입-.md",
+          "title": "핀다, 저축은행 인수 '인력 확보' 돌입…당국 적격성 심사 변수"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-정유신의-핀테크스토리-ai-에이전트-.md",
+          "title": "[정유신의 핀테크스토리]AI 에이전트 시대, 거래의 신뢰는 어떻게 만들까"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-정책금융권-it-복원력-강화-장애-해.md",
+          "title": "정책금융권, 'IT 복원력' 강화…장애·해킹에도 금융서비스 잇는다"
         }
       ]
     },
     {
       "title": "에이전트, 권한은 넓어지고 사고는 드러났다",
-      "body_ko": "실행 권한이 결제와 고객 응대까지 넓어지는 사이 통제 실패가 공시 문제로 번졌다.",
+      "body_ko": "실행 권한이 결제와 상담까지 넓어지는 사이 통제 실패가 공시 문제로 번졌다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -65,24 +80,24 @@
           "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-ai가-업무-이해-판단-실행까지-kt.md",
-          "title": "AI가 업무 이해·판단·실행까지…KT, '에이전틱 데이터 플로우' 개발"
-        },
-        {
           "date": "2026-09-06",
           "file": "20260906-openai-admits-its-di.md",
           "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki"
         },
         {
           "date": "2026-09-06",
-          "file": "20260906-deepmind-put-100-ai-.md",
-          "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers"
+          "file": "20260906-meet-the-ciso-a-new-.md",
+          "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
         },
         {
           "date": "2026-09-06",
-          "file": "20260906-meet-the-ciso-a-new-.md",
-          "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+          "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+          "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-일레븐랩스-한국-시장-공략-본격화-초.md",
+          "title": "일레븐랩스, 한국 시장 공략 본격화…\"초저지연 음성 AI로 AICC 혁신\""
         }
       ]
     },
@@ -106,11 +121,6 @@
           "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections"
         },
         {
-          "date": "2026-09-03",
-          "file": "20260903-ai-토큰-가격-사상-최저치-중국산-.md",
-          "title": "AI 토큰 가격 사상 최저치…중국산 모델 인기·가격 경쟁 심화 여파"
-        },
-        {
           "date": "2026-09-06",
           "file": "20260906-openai-rolls-out-gpt.md",
           "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
@@ -121,8 +131,14 @@
           "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
-          "title": ""
+          "date": "2026-09-06",
+          "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+          "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+          "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
         }
       ]
     },
@@ -146,11 +162,6 @@
           "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing"
         },
         {
-          "date": "2026-09-05",
-          "file": "20260905-nvidia-s-investments.md",
-          "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies"
-        },
-        {
           "date": "2026-09-06",
           "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
           "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
@@ -161,29 +172,28 @@
           "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214893",
+          "url": "https://zdnet.co.kr/view/?no=20260906102957",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214908",
           "title": ""
         }
       ]
     },
     {
-      "title": "국가 AI, 예산에서 현장과 규제 진폭으로",
-      "body_ko": "집행은 현장으로 내려갔지만 규제 방향은 완화와 금지 사이에서 크게 흔들린다.",
+      "title": "피지컬 AI, 시연에서 요금과 인증으로",
+      "body_ko": "현장 투입이 시작되자 평가 기준이 성능 시연에서 안전 인증과 부품 원가로 옮겨갔다.",
       "topics": [
-        "ai_policy",
-        "ai_industry",
-        "physical_ai"
+        "physical_ai",
+        "physical_ai_robotics",
+        "ai_policy"
       ],
       "articles": [
         {
-          "date": "2026-09-02",
-          "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
-          "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
-        },
-        {
           "date": "2026-09-05",
-          "file": "20260905-spri-ai-정책-gpu-모델-확보.md",
-          "title": "SPRi “AI 정책, GPU·모델 확보만으론 부족…'파일럿의 벽' 해소해야”"
+          "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+          "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
         },
         {
           "date": "2026-09-05",
@@ -191,17 +201,29 @@
           "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
-          "title": ""
+          "date": "2026-09-05",
+          "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+          "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
+        },
+        {
+          "date": "2026-09-05",
+          "file": "20260905-테슬라-fsd-v14-라이트-지하주차.md",
+          "title": "테슬라 FSD V14 라이트, 지하주차장서 길 찾았다[카미경]"
         },
         {
           "date": "2026-09-06",
-          "file": "20260906-인천시교육청-ai-추진단-출범-교사-.md",
-          "title": "인천시교육청, AI 추진단 출범…교사 행정업무 감축 추진"
+          "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+          "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
         },
         {
-          "url": "https://www.etnews.com/20260904000264",
-          "title": ""
+          "date": "2026-09-06",
+          "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+          "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+          "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
         }
       ]
     }

@@ -1,61 +1,61 @@
 {
-  "generated_at": "2026-09-05T23:18:53+00:00",
+  "generated_at": "2026-09-06T03:22:37+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 848,
+      "count": 853,
       "latest_date": "2026-09-06"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 971,
+      "count": 976,
       "latest_date": "2026-09-06"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1022,
+      "count": 1029,
       "latest_date": "2026-09-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2379,
+      "count": 2393,
       "latest_date": "2026-09-06"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 396,
-      "latest_date": "2026-09-05"
+      "count": 398,
+      "latest_date": "2026-09-06"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 692,
+      "count": 697,
       "latest_date": "2026-09-06"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 533,
+      "count": 539,
       "latest_date": "2026-09-06"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 376,
-      "latest_date": "2026-09-05"
+      "count": 379,
+      "latest_date": "2026-09-06"
     },
     {
       "key": "ai_hardware",
@@ -105,6 +105,20 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+        "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전",
+        "importance": 7,
+        "tags": [
+          "#public-sector",
+          "#ai-adoption",
+          "#procurement",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000193"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-deepmind-put-100-ai-.md",
         "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
         "importance": 7,
@@ -132,6 +146,65 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+        "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#partnership",
+          "#security",
+          "#agent-framework",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-일레븐랩스-한국-시장-공략-본격화-초.md",
+        "title": "일레븐랩스, 한국 시장 공략 본격화…'초저지연 음성 AI로 AICC 혁신'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#monetization",
+          "#agent-framework",
+          "#contact-center"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214895"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-정유신의-핀테크스토리-ai-에이전트-.md",
+        "title": "[정유신의 핀테크스토리]AI 에이전트 시대, 거래의 신뢰는 어떻게 만들까",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#payments",
+          "#finance",
+          "#trust",
+          "#regulation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000073"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+        "title": "'AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#policy",
+          "#physical-ai",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260906074122"
       },
       {
         "date": "2026-09-06",
@@ -14331,6 +14404,35 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+        "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#partnership",
+          "#security",
+          "#agent-framework",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+        "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개",
+        "importance": 6,
+        "tags": [
+          "#on-premise",
+          "#hardware",
+          "#enterprise-ai",
+          "#inference"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905231322"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-seattle-times-and-ne.md",
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "importance": 6,
@@ -14342,6 +14444,48 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-사우디-소버린-ai-윤곽-휴메인-미중.md",
+        "title": "사우디 '소버린 AI' 윤곽…휴메인, 미중 기술 모아 자국 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#partnership",
+          "#investment",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905160905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+        "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+        "importance": 6,
+        "tags": [
+          "#monetization",
+          "#model-release",
+          "#coding",
+          "#pricing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214898"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+        "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#coding",
+          "#model-release",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214899"
       },
       {
         "date": "2026-09-05",
@@ -26549,6 +26693,34 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+        "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+        "importance": 8,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905214157"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+        "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전",
+        "importance": 7,
+        "tags": [
+          "#public-sector",
+          "#ai-adoption",
+          "#procurement",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000193"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-deepmind-put-100-ai-.md",
         "title": "Deepmind put 100 AI agents in a room and they sorted into cheaters, converts, and whistleblowers",
         "importance": 7,
@@ -26579,6 +26751,50 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-정유신의-핀테크스토리-ai-에이전트-.md",
+        "title": "[정유신의 핀테크스토리]AI 에이전트 시대, 거래의 신뢰는 어떻게 만들까",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#payments",
+          "#finance",
+          "#trust",
+          "#regulation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000073"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-핀다-저축은행-인수-인력-확보-돌입-.md",
+        "title": "핀다, 저축은행 인수 '인력 확보' 돌입…당국 적격성 심사 변수",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#ai-adoption",
+          "#acquisition"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672798"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+        "title": "'AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#policy",
+          "#physical-ai",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260906074122"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-seattle-times-and-ne.md",
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "importance": 6,
@@ -26590,6 +26806,34 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-사우디-소버린-ai-윤곽-휴메인-미중.md",
+        "title": "사우디 '소버린 AI' 윤곽…휴메인, 미중 기술 모아 자국 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#partnership",
+          "#investment",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905160905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
+        "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다",
+        "importance": 6,
+        "tags": [
+          "#open-data",
+          "#public-sector",
+          "#policy",
+          "#data-strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000033"
       },
       {
         "date": "2026-09-06",
@@ -41388,6 +41632,48 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+        "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+        "importance": 8,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905214157"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+        "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전",
+        "importance": 7,
+        "tags": [
+          "#public-sector",
+          "#ai-adoption",
+          "#procurement",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000193"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-aidc도-조립식으로-짓는다-lgu-.md",
+        "title": "AIDC도 조립식으로 짓는다…LGU+, GS건설과 표준모델 개발",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#partnership",
+          "#infrastructure",
+          "#standardization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260906090941"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-artificial-analysis-.md",
         "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
         "importance": 7,
@@ -41399,6 +41685,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+        "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#supply-chain",
+          "#partnership",
+          "#commercialization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000066"
       },
       {
         "date": "2026-09-06",
@@ -41432,6 +41732,79 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+        "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#partnership",
+          "#security",
+          "#agent-framework",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-일레븐랩스-한국-시장-공략-본격화-초.md",
+        "title": "일레븐랩스, 한국 시장 공략 본격화…'초저지연 음성 AI로 AICC 혁신'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#monetization",
+          "#agent-framework",
+          "#contact-center"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214895"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-핀다-저축은행-인수-인력-확보-돌입-.md",
+        "title": "핀다, 저축은행 인수 '인력 확보' 돌입…당국 적격성 심사 변수",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#ai-adoption",
+          "#acquisition"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672798"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
+        "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도",
+        "importance": 6,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#infrastructure",
+          "#grid"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672562"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+        "title": "'AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#policy",
+          "#physical-ai",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260906074122"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-seattle-times-and-ne.md",
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "importance": 6,
@@ -41443,6 +41816,76 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-구글-대만과-어깨-나란히-ai-인프라.md",
+        "title": "구글 '대만과 어깨 나란히'…AI 인프라 협력, 발주에서 공동설계로",
+        "importance": 6,
+        "tags": [
+          "#supply-chain",
+          "#semiconductor",
+          "#partnership",
+          "#tpu"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905223908"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-사우디-소버린-ai-윤곽-휴메인-미중.md",
+        "title": "사우디 '소버린 AI' 윤곽…휴메인, 미중 기술 모아 자국 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#partnership",
+          "#investment",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905160905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
+        "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다",
+        "importance": 6,
+        "tags": [
+          "#open-data",
+          "#public-sector",
+          "#policy",
+          "#data-strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000033"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+        "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+        "importance": 6,
+        "tags": [
+          "#monetization",
+          "#model-release",
+          "#coding",
+          "#pricing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214898"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+        "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#coding",
+          "#model-release",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214899"
       },
       {
         "date": "2026-09-05",
@@ -75939,6 +76382,34 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-09-06",
+        "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+        "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+        "importance": 8,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905214157"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+        "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#supply-chain",
+          "#partnership",
+          "#commercialization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000066"
+      },
+      {
         "date": "2026-09-05",
         "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
         "title": "현대차 '새만금에 로봇 부품사 유치…특구 지정으로 실증까지'",
@@ -81720,6 +82191,76 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=214890"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-aidc도-조립식으로-짓는다-lgu-.md",
+        "title": "AIDC도 조립식으로 짓는다…LGU+, GS건설과 표준모델 개발",
+        "importance": 7,
+        "tags": [
+          "#datacenter",
+          "#partnership",
+          "#infrastructure",
+          "#standardization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260906090941"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
+        "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도",
+        "importance": 6,
+        "tags": [
+          "#energy",
+          "#datacenter",
+          "#infrastructure",
+          "#grid"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672562"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+        "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개",
+        "importance": 6,
+        "tags": [
+          "#on-premise",
+          "#hardware",
+          "#enterprise-ai",
+          "#inference"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905231322"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-구글-대만과-어깨-나란히-ai-인프라.md",
+        "title": "구글 '대만과 어깨 나란히'…AI 인프라 협력, 발주에서 공동설계로",
+        "importance": 6,
+        "tags": [
+          "#supply-chain",
+          "#semiconductor",
+          "#partnership",
+          "#tpu"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905223908"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-사우디-소버린-ai-윤곽-휴메인-미중.md",
+        "title": "사우디 '소버린 AI' 윤곽…휴메인, 미중 기술 모아 자국 생태계 구축",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#partnership",
+          "#investment",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905160905"
       },
       {
         "date": "2026-09-05",
@@ -91775,6 +92316,94 @@
         "url": "https://www.cnbc.com/2026/09/05/ai-cybersecurity-ciso-executive.html"
       },
       {
+        "date": "2026-09-06",
+        "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+        "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#partnership",
+          "#security",
+          "#agent-framework",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214905"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-일레븐랩스-한국-시장-공략-본격화-초.md",
+        "title": "일레븐랩스, 한국 시장 공략 본격화…'초저지연 음성 AI로 AICC 혁신'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#monetization",
+          "#agent-framework",
+          "#contact-center"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214895"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-정유신의-핀테크스토리-ai-에이전트-.md",
+        "title": "[정유신의 핀테크스토리]AI 에이전트 시대, 거래의 신뢰는 어떻게 만들까",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#payments",
+          "#finance",
+          "#trust",
+          "#regulation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000073"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-핀다-저축은행-인수-인력-확보-돌입-.md",
+        "title": "핀다, 저축은행 인수 '인력 확보' 돌입…당국 적격성 심사 변수",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#ai-adoption",
+          "#acquisition"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672798"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+        "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개",
+        "importance": 6,
+        "tags": [
+          "#on-premise",
+          "#hardware",
+          "#enterprise-ai",
+          "#inference"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905231322"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-정책금융권-it-복원력-강화-장애-해.md",
+        "title": "정책금융권, 'IT 복원력' 강화…장애·해킹에도 금융서비스 잇는다",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#infrastructure",
+          "#resilience",
+          "#security"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000211"
+      },
+      {
         "date": "2026-09-05",
         "file": "20260905-openai-s-gpt-6-astra.md",
         "title": "OpenAI's GPT-6 Astra hallucinates less but remains vulnerable to hidden prompt injections",
@@ -99614,6 +100243,48 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-09-06",
+        "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+        "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수",
+        "importance": 8,
+        "tags": [
+          "#autonomous",
+          "#robotaxi",
+          "#regulation",
+          "#commercialization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260905214157"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+        "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#supply-chain",
+          "#partnership",
+          "#commercialization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000066"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+        "title": "'AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#policy",
+          "#physical-ai",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260906074122"
+      },
+      {
         "date": "2026-09-05",
         "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
         "title": "현대차 '새만금에 로봇 부품사 유치…특구 지정으로 실증까지'",
@@ -105209,7 +105880,7 @@
       {
         "date": "2026-09-06",
         "title": "사고 다음은 공시와 조직",
-        "summary": "통제 실패를 인정한 자리에서 공개 기준과 책임 조직이 함께 정해진다.",
+        "summary": "통제 실패를 인정한 자리에서 공개 기준과 방어 수단이 함께 정해진다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -105225,6 +105896,15 @@
             "date": "2026-09-06",
             "file": "20260906-meet-the-ciso-a-new-.md",
             "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+            "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
+            "title": ""
           }
         ]
       },
@@ -106704,7 +107384,7 @@
       {
         "date": "2026-09-06",
         "title": "사고 다음은 공시와 조직",
-        "summary": "통제 실패를 인정한 자리에서 공개 기준과 책임 조직이 함께 정해진다.",
+        "summary": "통제 실패를 인정한 자리에서 공개 기준과 방어 수단이 함께 정해진다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -106720,27 +107400,73 @@
             "date": "2026-09-06",
             "file": "20260906-meet-the-ciso-a-new-.md",
             "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+            "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-06",
-        "title": "자본시장과 법정이 동시에 연다",
-        "summary": "벤더의 재무와 데이터 출처가 외부 검증 절차로 끌려나오는 국면이다.",
+        "title": "무인차가 도로에서 요금을 받는다",
+        "summary": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
         "articles": [
           {
             "date": "2026-09-06",
-            "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
-            "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
+            "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+            "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+            "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260906102559",
             "title": ""
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-seattle-times-and-ne.md",
-            "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
+            "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+            "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "title": "AI 인프라가 조립과 발주로",
+        "summary": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
+        "articles": [
+          {
+            "date": "2026-09-06",
+            "file": "20260906-aidc도-조립식으로-짓는다-lgu-.md",
+            "title": "AIDC도 조립식으로 짓는다…LGU+, GS건설과 표준모델 개발"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+            "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
+            "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+            "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
+            "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
           }
         ]
       },
@@ -108768,7 +109494,7 @@
       {
         "date": "2026-09-06",
         "title": "사고 다음은 공시와 조직",
-        "summary": "통제 실패를 인정한 자리에서 공개 기준과 책임 조직이 함께 정해진다.",
+        "summary": "통제 실패를 인정한 자리에서 공개 기준과 방어 수단이 함께 정해진다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -108784,6 +109510,15 @@
             "date": "2026-09-06",
             "file": "20260906-meet-the-ciso-a-new-.md",
             "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+            "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
+            "title": ""
           }
         ]
       },
@@ -110746,8 +111481,8 @@
     "llm_models": [
       {
         "date": "2026-09-06",
-        "title": "모델의 값이 한도와 지수로",
-        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 평가 체계로 옮겨갔다.",
+        "title": "모델의 값이 한도와 순위로",
+        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 순위 방어로 옮겨갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -110760,29 +111495,14 @@
             "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-06",
-        "title": "자본시장과 법정이 동시에 연다",
-        "summary": "벤더의 재무와 데이터 출처가 외부 검증 절차로 끌려나오는 국면이다.",
-        "articles": [
-          {
             "date": "2026-09-06",
-            "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
-            "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
-            "title": ""
+            "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+            "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염"
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-seattle-times-and-ne.md",
-            "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
+            "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+            "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
           }
         ]
       },
@@ -111952,8 +112672,8 @@
     "ai_industry": [
       {
         "date": "2026-09-06",
-        "title": "모델의 값이 한도와 지수로",
-        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 평가 체계로 옮겨갔다.",
+        "title": "모델의 값이 한도와 순위로",
+        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 순위 방어로 옮겨갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -111966,29 +112686,46 @@
             "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
-            "title": ""
+            "date": "2026-09-06",
+            "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+            "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+            "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
           }
         ]
       },
       {
         "date": "2026-09-06",
-        "title": "자본시장과 법정이 동시에 연다",
-        "summary": "벤더의 재무와 데이터 출처가 외부 검증 절차로 끌려나오는 국면이다.",
+        "title": "AI 인프라가 조립과 발주로",
+        "summary": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
         "articles": [
           {
             "date": "2026-09-06",
-            "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
-            "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
-            "title": ""
+            "file": "20260906-aidc도-조립식으로-짓는다-lgu-.md",
+            "title": "AIDC도 조립식으로 짓는다…LGU+, GS건설과 표준모델 개발"
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-seattle-times-and-ne.md",
-            "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
+            "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+            "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
+            "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+            "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
+            "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
           }
         ]
       },
@@ -115080,6 +115817,32 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-09-06",
+        "title": "무인차가 도로에서 요금을 받는다",
+        "summary": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
+        "articles": [
+          {
+            "date": "2026-09-06",
+            "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+            "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+            "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260906102559",
+            "title": ""
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+            "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          }
+        ]
+      },
+      {
         "date": "2026-09-05",
         "title": "피지컬 AI, 전시장에서 공정으로",
         "summary": "평가 기준이 시연에서 성공률과 실주행 조건으로 옮겨갔고 제도가 문턱으로 남았다.",
@@ -115542,6 +116305,32 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-09-06",
+        "title": "무인차가 도로에서 요금을 받는다",
+        "summary": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
+        "articles": [
+          {
+            "date": "2026-09-06",
+            "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+            "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+            "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260906102559",
+            "title": ""
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+            "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          }
+        ]
+      },
+      {
         "date": "2026-09-05",
         "title": "피지컬 AI, 전시장에서 공정으로",
         "summary": "평가 기준이 시연에서 성공률과 실주행 조건으로 옮겨갔고 제도가 문턱으로 남았다.",
@@ -115804,6 +116593,38 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-09-06",
+        "title": "AI 인프라가 조립과 발주로",
+        "summary": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
+        "articles": [
+          {
+            "date": "2026-09-06",
+            "file": "20260906-aidc도-조립식으로-짓는다-lgu-.md",
+            "title": "AIDC도 조립식으로 짓는다…LGU+, GS건설과 표준모델 개발"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+            "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
+            "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+            "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
+            "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
+          }
+        ]
+      },
       {
         "date": "2026-09-05",
         "title": "칩은 갈아타고 자본은 묶는다",

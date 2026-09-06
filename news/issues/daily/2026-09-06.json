@@ -1,12 +1,12 @@
 {
   "date": "2026-09-06",
-  "updated_at": "2026-09-06T08:18:47.054908+09:00",
-  "run_id": "run_20260906_081847",
-  "summary_ko": "에이전트 사고의 뒷수습과 모델·자본의 검증 문턱이 같은 날 올라갔다.",
+  "updated_at": "2026-09-06T12:22:30.688799+09:00",
+  "run_id": "run_20260906_122230",
+  "summary_ko": "통제와 인증이 도입 속도를 정하는 조건으로 굳어진 하루였다.",
   "issues": [
     {
       "title": "사고 다음은 공시와 조직",
-      "summary_ko": "통제 실패를 인정한 자리에서 공개 기준과 책임 조직이 함께 정해진다.",
+      "summary_ko": "통제 실패를 인정한 자리에서 공개 기준과 방어 수단이 함께 정해진다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -27,12 +27,21 @@
           "date": "2026-09-06",
           "file": "20260906-meet-the-ciso-a-new-.md",
           "title": "Meet the CISO: A new front line star in the AI cybersecurity war"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
+          "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
+          "title": ""
         }
       ]
     },
     {
-      "title": "모델의 값이 한도와 지수로",
-      "summary_ko": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 평가 체계로 옮겨갔다.",
+      "title": "모델의 값이 한도와 순위로",
+      "summary_ko": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 순위 방어로 옮겨갔다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -49,33 +58,80 @@
           "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
-          "title": ""
+          "date": "2026-09-06",
+          "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+          "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+          "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
         }
       ]
     },
     {
-      "title": "자본시장과 법정이 동시에 연다",
-      "summary_ko": "벤더의 재무와 데이터 출처가 외부 검증 절차로 끌려나오는 국면이다.",
+      "title": "무인차가 도로에서 요금을 받는다",
+      "summary_ko": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
       "topics": [
-        "ai_industry",
+        "physical_ai",
         "ai_policy",
-        "llm_models"
+        "physical_ai_robotics"
       ],
       "articles": [
         {
           "date": "2026-09-06",
-          "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
-          "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화"
+          "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+          "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
+          "date": "2026-09-06",
+          "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+          "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260906102559",
           "title": ""
         },
         {
           "date": "2026-09-06",
-          "file": "20260906-seattle-times-and-ne.md",
-          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
+          "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+          "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라가 조립과 발주로",
+      "summary_ko": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-06",
+          "file": "20260906-aidc도-조립식으로-짓는다-lgu-.md",
+          "title": "AIDC도 조립식으로 짓는다…LGU+, GS건설과 표준모델 개발"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-2200억-규모-코레일-ax-사업-뜬.md",
+          "title": "2200억 규모 코레일 AX 사업 뜬다…대형 IT서비스 수주전"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
+          "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
+          "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
+        },
+        {
+          "date": "2026-09-06",
+          "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
+          "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
         }
       ]
     }
