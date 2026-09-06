@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T03:22:37+00:00",
+  "generated_at": "2026-09-06T07:17:46+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 853,
+      "count": 855,
       "latest_date": "2026-09-06"
     },
     {
@@ -19,28 +19,28 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1029,
+      "count": 1032,
       "latest_date": "2026-09-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2393,
+      "count": 2401,
       "latest_date": "2026-09-06"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 398,
+      "count": 400,
       "latest_date": "2026-09-06"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 697,
+      "count": 699,
       "latest_date": "2026-09-06"
     },
     {
@@ -54,7 +54,7 @@
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 379,
+      "count": 382,
       "latest_date": "2026-09-06"
     },
     {
@@ -14447,6 +14447,35 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-공모주-분석-타입캐스트-네오사피엔스-.md",
+        "title": "[공모주 분석] '타입캐스트' 네오사피엔스, AI 음성 넘어 '대화형 AI'로 코스닥 도전",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#ai-startup",
+          "#voice-ai",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609044536i"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-구글-음악-생성-모델-리리아-3-5-.md",
+        "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#multimodal",
+          "#enterprise-ai",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214901"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-사우디-소버린-ai-윤곽-휴메인-미중.md",
         "title": "사우디 '소버린 AI' 윤곽…휴메인, 미중 기술 모아 자국 생태계 구축",
         "importance": 6,
@@ -26678,6 +26707,21 @@
     "ai_policy": [
       {
         "date": "2026-09-06",
+        "file": "20260906-aidc특별법-시행령-초안-윤곽-ai.md",
+        "title": "AIDC특별법 시행령 초안 윤곽...AI장비전력·비중으로 기준 정의, 계통평가 면제는 '50㎿ 이상'서 저울질",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#datacenter",
+          "#power-grid",
+          "#korea",
+          "#infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000248"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-openai-admits-its-di.md",
         "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
         "importance": 8,
@@ -26751,6 +26795,21 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-사고-전-위험도로-ai로-찾는다-국도.md",
+        "title": "사고 전 위험도로 AI로 찾는다…국도 1만4220㎞ '케이세이퍼' 가동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#predictive-analytics",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000064"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-정유신의-핀테크스토리-ai-에이전트-.md",
         "title": "[정유신의 핀테크스토리]AI 에이전트 시대, 거래의 신뢰는 어떻게 만들까",
         "importance": 7,
@@ -26806,6 +26865,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-국방-ax-컨퍼런스-ai가-미래-전장.md",
+        "title": "[국방 AX 컨퍼런스] “AI가 미래 전장 게임체인저···K-방산 4강 도약 이끈다”",
+        "importance": 6,
+        "tags": [
+          "#defense",
+          "#ai-policy",
+          "#korea",
+          "#government-procurement"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000244"
       },
       {
         "date": "2026-09-06",
@@ -41602,6 +41675,21 @@
     "ai_industry": [
       {
         "date": "2026-09-06",
+        "file": "20260906-aidc특별법-시행령-초안-윤곽-ai.md",
+        "title": "AIDC특별법 시행령 초안 윤곽...AI장비전력·비중으로 기준 정의, 계통평가 면제는 '50㎿ 이상'서 저울질",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#datacenter",
+          "#power-grid",
+          "#korea",
+          "#infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000248"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-openai-admits-its-di.md",
         "title": "OpenAI admits its disclosure practices need work after its autonomous agents hacked a German wiki",
         "importance": 8,
@@ -41702,6 +41790,20 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+        "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#factory-automation",
+          "#china"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000088"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-meet-the-ciso-a-new-.md",
         "title": "Meet the CISO: A new front line star in the AI cybersecurity war",
         "importance": 7,
@@ -41729,6 +41831,36 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol/"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-낸드-리부트-키옥시아-제친-ymtc-.md",
+        "title": "[낸드 리부트]⑤키옥시아 제친 中 YMTC…'물량' 넘어 '고부가'로",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#china",
+          "#datacenter",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672743"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-사고-전-위험도로-ai로-찾는다-국도.md",
+        "title": "사고 전 위험도로 AI로 찾는다…국도 1만4220㎞ '케이세이퍼' 가동",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#predictive-analytics",
+          "#korea",
+          "#roi-case"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000064"
       },
       {
         "date": "2026-09-06",
@@ -41819,6 +41951,36 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+        "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#org-change",
+          "#acquisition",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672755"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-공모주-분석-타입캐스트-네오사피엔스-.md",
+        "title": "[공모주 분석] '타입캐스트' 네오사피엔스, AI 음성 넘어 '대화형 AI'로 코스닥 도전",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#ai-startup",
+          "#voice-ai",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609044536i"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-구글-대만과-어깨-나란히-ai-인프라.md",
         "title": "구글 '대만과 어깨 나란히'…AI 인프라 협력, 발주에서 공동설계로",
         "importance": 6,
@@ -41830,6 +41992,34 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260905223908"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-구글-음악-생성-모델-리리아-3-5-.md",
+        "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#multimodal",
+          "#enterprise-ai",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=214901"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-국방-ax-컨퍼런스-ai가-미래-전장.md",
+        "title": "[국방 AX 컨퍼런스] “AI가 미래 전장 게임체인저···K-방산 4강 도약 이끈다”",
+        "importance": 6,
+        "tags": [
+          "#defense",
+          "#ai-policy",
+          "#korea",
+          "#government-procurement"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000244"
       },
       {
         "date": "2026-09-06",
@@ -76410,6 +76600,35 @@
         "url": "https://www.etnews.com/20260906000066"
       },
       {
+        "date": "2026-09-06",
+        "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+        "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#factory-automation",
+          "#china"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000088"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+        "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#org-change",
+          "#acquisition",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672755"
+      },
+      {
         "date": "2026-09-05",
         "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
         "title": "현대차 '새만금에 로봇 부품사 유치…특구 지정으로 실증까지'",
@@ -82179,6 +82398,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-06",
+        "file": "20260906-aidc특별법-시행령-초안-윤곽-ai.md",
+        "title": "AIDC특별법 시행령 초안 윤곽...AI장비전력·비중으로 기준 정의, 계통평가 면제는 '50㎿ 이상'서 저울질",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#datacenter",
+          "#power-grid",
+          "#korea",
+          "#infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000248"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-앤트로픽-다음-주-증권신고서-제출-전.md",
         "title": "앤트로픽, 다음 주 증권신고서 제출 전망…10월 초 상장 타임라인 구체화",
         "importance": 8,
@@ -82205,6 +82439,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260906090941"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-낸드-리부트-키옥시아-제친-ymtc-.md",
+        "title": "[낸드 리부트]⑤키옥시아 제친 中 YMTC…'물량' 넘어 '고부가'로",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#china",
+          "#datacenter",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672743"
       },
       {
         "date": "2026-09-06",
@@ -100272,6 +100521,20 @@
       },
       {
         "date": "2026-09-06",
+        "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+        "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#humanoid",
+          "#factory-automation",
+          "#china"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260906000088"
+      },
+      {
+        "date": "2026-09-06",
         "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
         "title": "'AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야'",
         "importance": 6,
@@ -100283,6 +100546,35 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260906074122"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+        "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'",
+        "importance": 6,
+        "tags": [
+          "#robotics",
+          "#org-change",
+          "#acquisition",
+          "#korea",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=672755"
+      },
+      {
+        "date": "2026-09-06",
+        "file": "20260906-국방-ax-컨퍼런스-ai가-미래-전장.md",
+        "title": "[국방 AX 컨퍼런스] “AI가 미래 전장 게임체인저···K-방산 4강 도약 이끈다”",
+        "importance": 6,
+        "tags": [
+          "#defense",
+          "#ai-policy",
+          "#korea",
+          "#government-procurement"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260904000244"
       },
       {
         "date": "2026-09-05",
@@ -105901,10 +106193,6 @@
             "date": "2026-09-06",
             "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
             "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
-            "title": ""
           }
         ]
       },
@@ -107405,17 +107693,13 @@
             "date": "2026-09-06",
             "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
             "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
-            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-06",
-        "title": "무인차가 도로에서 요금을 받는다",
-        "summary": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
+        "title": "기계가 한 사람 몫을 넘겨받는다",
+        "summary": "시연이 끝나고 작업 완결과 요금이 붙자 인증이 실질 병목으로 드러났다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -107428,20 +107712,26 @@
             "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260906102559",
-            "title": ""
-          },
-          {
             "date": "2026-09-06",
             "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
             "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+            "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+            "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'"
           }
         ]
       },
       {
         "date": "2026-09-06",
-        "title": "AI 인프라가 조립과 발주로",
-        "summary": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
+        "title": "인프라는 기준이, 적용은 범위가 정해졌다",
+        "summary": "무엇을 AIDC로 볼지와 공공 AI를 어디까지 쓸지가 동시에 확정 국면에 들어갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -107455,18 +107745,23 @@
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
-            "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
-            "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
-          },
-          {
-            "date": "2026-09-06",
             "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
             "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-aidc특별법-시행령-초안-윤곽-ai.md",
+            "title": "AIDC특별법 시행령 초안 윤곽...AI장비전력·비중으로 기준 정의, 계통평가 면제는 '50㎿ 이상'서 저울질"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-사고-전-위험도로-ai로-찾는다-국도.md",
+            "title": "사고 전 위험도로 AI로 찾는다…국도 1만4220㎞ '케이세이퍼' 가동"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-국방-ax-컨퍼런스-ai가-미래-전장.md",
+            "title": "[국방 AX 컨퍼런스] “AI가 미래 전장 게임체인저···K-방산 4강 도약 이끈다”"
           }
         ]
       },
@@ -109515,10 +109810,6 @@
             "date": "2026-09-06",
             "file": "20260906-엔비디아-크라우드스트라이크-공격-방어.md",
             "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672725",
-            "title": ""
           }
         ]
       },
@@ -111482,7 +111773,7 @@
       {
         "date": "2026-09-06",
         "title": "모델의 값이 한도와 순위로",
-        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 순위 방어로 옮겨갔다.",
+        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 배포 범위로 옮겨갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -111503,6 +111794,11 @@
             "date": "2026-09-06",
             "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
             "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-구글-음악-생성-모델-리리아-3-5-.md",
+            "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화"
           }
         ]
       },
@@ -112673,7 +112969,7 @@
       {
         "date": "2026-09-06",
         "title": "모델의 값이 한도와 순위로",
-        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 순위 방어로 옮겨갔다.",
+        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 배포 범위로 옮겨갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -112694,13 +112990,18 @@
             "date": "2026-09-06",
             "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
             "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-구글-음악-생성-모델-리리아-3-5-.md",
+            "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화"
           }
         ]
       },
       {
         "date": "2026-09-06",
-        "title": "AI 인프라가 조립과 발주로",
-        "summary": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
+        "title": "인프라는 기준이, 적용은 범위가 정해졌다",
+        "summary": "무엇을 AIDC로 볼지와 공공 AI를 어디까지 쓸지가 동시에 확정 국면에 들어갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -112714,18 +113015,23 @@
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
-            "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
-            "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
-          },
-          {
-            "date": "2026-09-06",
             "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
             "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-aidc특별법-시행령-초안-윤곽-ai.md",
+            "title": "AIDC특별법 시행령 초안 윤곽...AI장비전력·비중으로 기준 정의, 계통평가 면제는 '50㎿ 이상'서 저울질"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-사고-전-위험도로-ai로-찾는다-국도.md",
+            "title": "사고 전 위험도로 AI로 찾는다…국도 1만4220㎞ '케이세이퍼' 가동"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-국방-ax-컨퍼런스-ai가-미래-전장.md",
+            "title": "[국방 AX 컨퍼런스] “AI가 미래 전장 게임체인저···K-방산 4강 도약 이끈다”"
           }
         ]
       },
@@ -115818,8 +116124,8 @@
     "physical_ai": [
       {
         "date": "2026-09-06",
-        "title": "무인차가 도로에서 요금을 받는다",
-        "summary": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
+        "title": "기계가 한 사람 몫을 넘겨받는다",
+        "summary": "시연이 끝나고 작업 완결과 요금이 붙자 인증이 실질 병목으로 드러났다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -115832,13 +116138,19 @@
             "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260906102559",
-            "title": ""
-          },
-          {
             "date": "2026-09-06",
             "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
             "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+            "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+            "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'"
           }
         ]
       },
@@ -116306,8 +116618,8 @@
     "physical_ai_robotics": [
       {
         "date": "2026-09-06",
-        "title": "무인차가 도로에서 요금을 받는다",
-        "summary": "자율주행 상용화가 시작되자마자 인증 체계가 실질 병목으로 드러났다.",
+        "title": "기계가 한 사람 몫을 넘겨받는다",
+        "summary": "시연이 끝나고 작업 완결과 요금이 붙자 인증이 실질 병목으로 드러났다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -116320,13 +116632,19 @@
             "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260906102559",
-            "title": ""
-          },
-          {
             "date": "2026-09-06",
             "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
             "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+            "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+            "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'"
           }
         ]
       },
@@ -116595,8 +116913,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-06",
-        "title": "AI 인프라가 조립과 발주로",
-        "summary": "짓는 방식과 사는 방식이 동시에 표준화되며 도입 속도가 조달 문제로 넘어갔다.",
+        "title": "인프라는 기준이, 적용은 범위가 정해졌다",
+        "summary": "무엇을 AIDC로 볼지와 공공 AI를 어디까지 쓸지가 동시에 확정 국면에 들어갔다.",
         "articles": [
           {
             "date": "2026-09-06",
@@ -116610,18 +116928,23 @@
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-ai-대전환-리딩-전략-ls전선-hv.md",
-            "title": "[AI 대전환 리딩 전략]LS전선, HVDC 솔루션으로 전력 시대 선도"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-amd-1조-패러미터-ai-모델-구동.md",
-            "title": "AMD, 1조 패러미터 AI 모델 구동 위한 워크스테이션 공개"
-          },
-          {
-            "date": "2026-09-06",
             "file": "20260906-서울시-고가치-데이터-100개-ai-.md",
             "title": "서울시, 고가치 데이터 100개 AI 활용 쉽도록 공개한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-aidc특별법-시행령-초안-윤곽-ai.md",
+            "title": "AIDC특별법 시행령 초안 윤곽...AI장비전력·비중으로 기준 정의, 계통평가 면제는 '50㎿ 이상'서 저울질"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-사고-전-위험도로-ai로-찾는다-국도.md",
+            "title": "사고 전 위험도로 AI로 찾는다…국도 1만4220㎞ '케이세이퍼' 가동"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-국방-ax-컨퍼런스-ai가-미래-전장.md",
+            "title": "[국방 AX 컨퍼런스] “AI가 미래 전장 게임체인저···K-방산 4강 도약 이끈다”"
           }
         ]
       },
