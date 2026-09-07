@@ -1,21 +1,16 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-07T12:22:20.206770+09:00",
-  "run_id": "run_20260907_122220",
-  "summary_ko": "모델 값 경쟁이 인프라 실행력과 현업 적용 속도의 경쟁으로 넘어간 주다.",
+  "updated_at": "2026-09-07T16:21:27.155243+09:00",
+  "run_id": "run_20260907_162127",
+  "summary_ko": "AI 경쟁의 무게가 모델 값에서 현업 적용 속도와 인프라 확보력으로 넘어간 주다.",
   "issues": [
     {
-      "title": "금융권, 인력에서 업무로",
-      "body_ko": "채용 구조 개편에서 시작한 변화가 규정 판단 업무 자동화와 사내 학위 육성까지 확장됐다.",
+      "title": "금융권, 업무에서 상품으로",
+      "body_ko": "인력 재편에서 시작한 변화가 규정 판단 자동화를 지나 고객이 쓰는 상품 기능까지 닿았다.",
       "topics": [
         "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-09-07",
-          "file": "20260907-ai-전문가-뽑는-은행들-신입-공채는.md",
-          "title": "AI 전문가 뽑는 은행들…신입 공채는 갈수록 '바늘구멍'"
-        },
         {
           "date": "2026-09-07",
           "file": "20260907-생보협회-민원-관리-광고심의-ai-시.md",
@@ -30,12 +25,22 @@
           "date": "2026-09-07",
           "file": "20260907-게시판-웰컴금융-숭실대와-디지털금융a.md",
           "title": "[게시판] 웰컴금융, 숭실대와 '디지털금융AI학과' 석사과정 신설"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-하나증권-신규-mts-하나증권v-출시.md",
+          "title": "하나증권, 신규 MTS ‘하나증권V’ 출시...AI브리핑·ETF 추천 기능 탑재"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-상품-가입부터-민원까지-kb증권-ai.md",
+          "title": "“상품 가입부터 민원까지”…KB증권, AI로 ‘고객 안심 울타리’ 넓힌다"
         }
       ]
     },
     {
       "title": "모델 조달선 다변화",
-      "body_ko": "성능 격차 축소와 단가 하락으로 가격이 선택 기준이 되며 단일 벤더 프리미엄이 무너진다.",
+      "body_ko": "값이 떨어지고 성능 격차가 좁혀지자 도메인 전용 모델까지 조달 후보로 올라왔다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -53,14 +58,23 @@
         },
         {
           "date": "2026-09-07",
-          "file": "20260907-ai-데이터-벽-에-갇힌다-skt-사.md",
-          "title": "AI ‘데이터 벽’에 갇힌다...SKT, 사후학습·추론으로 돌파구"
+          "file": "20260907-exaone-forecast-for-.md",
+          "title": "EXAONE Forecast for Finance"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-뉴스줌인-k-시큐리티-살릴-보안-ai.md",
+          "title": "[뉴스줌인] K-시큐리티 살릴 보안 AI…'성능' 입증이 관건"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260907133419",
+          "title": ""
         }
       ]
     },
     {
-      "title": "AIDC 구축 속도전",
-      "body_ko": "병목이 부지에서 공사기간으로 옮겨가고 입지 경쟁과 기술 조달이 동시에 지방·외부로 확산된다.",
+      "title": "인프라 병목의 이동",
+      "body_ko": "부지와 공기에 이어 메모리·선단 캐파가 조달 일정을 가르며 인접 제조업이 공급망에 흡수된다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -73,28 +87,92 @@
         },
         {
           "date": "2026-09-07",
-          "file": "20260907-ai-시대-전력-확보-경쟁-정부-에너.md",
-          "title": "AI 시대 '전력 확보' 경쟁…정부, 에너지 R&D 48% 확대"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-우상호-지사-원주-kt-춘천-신세계와.md",
-          "title": "우상호 지사 \"원주 KT·춘천 신세계와 AI 데이터센터 투자 협의\""
-        },
-        {
-          "date": "2026-09-07",
           "file": "20260907-ai-대전환-리딩-전략-sk온-데이터.md",
           "title": "[AI 대전환 리딩 전략] SK온, 데이터센터 ESS·열관리로 체질개선"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20260907049300003",
+          "date": "2026-09-07",
+          "file": "20260907-삼성-파운드리-hbm4-확대-총력-4.md",
+          "title": "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이'"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-폭스콘의-놀라운-변신-아이폰-공장-서.md",
+          "title": "폭스콘의 놀라운 변신…'아이폰 공장'서 AI 서버 핵심 공급사로"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-삼전닉스-메모리-재고-10일치도-안돼.md",
+          "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”"
+        }
+      ]
+    },
+    {
+      "title": "에이전트가 업무를 맡다",
+      "body_ko": "예산 집행과 문서 판단까지 위임되며 권한 설계와 비가역 결정 통제가 도입의 관건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-메가존클라우드-업스테이지-솔라-로-한.md",
+          "title": "메가존클라우드, 업스테이지 '솔라'로 한미약품 품질관리 AI 에이전트 구축"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-lg-cns-글로벌-이커머스-ax-파.md",
+          "title": "LG CNS, 글로벌 이커머스 AX 파트너로 도약...북미서 AI 광고 최적화 사업 확대"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-이-제품-잘-팔릴까-유통기업-ai-소.md",
+          "title": "“이 제품 잘 팔릴까?”…유통기업, AI 소비자에 묻는다"
+        },
+        {
+          "url": "https://arxiv.org/abs/2609.04706",
           "title": ""
         }
       ]
     },
     {
+      "title": "리스크가 계량된다",
+      "body_ko": "취약점 급증과 모델 쏠림, 변조 모델 확산이 겹치며 통제 대상이 배포·조달 경로로 옮겨간다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-올-2분기-ai-llm서-발생한-취약.md",
+          "title": "\"올 2분기 AI·LLM서 발생한 취약점, 전년 比 14배 폭증\""
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-stripping-safety-gua.md",
+          "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-uncensored-open-weig.md",
+          "title": "Uncensored Open-weight Models: Redistribution as the Persistence Layer"
+        },
+        {
+          "url": "https://arxiv.org/abs/2609.04495",
+          "title": ""
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-why-better-models-ca.md",
+          "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets"
+        }
+      ]
+    },
+    {
       "title": "로봇·자율주행 현장 진입",
-      "body_ko": "실증을 마친 무인 장비와 자율주행 소프트웨어가 양산 계약과 설비 투자 단계로 넘어갔다.",
+      "body_ko": "실증을 마친 장비가 양산 계약으로 넘어가고 중소 제조까지 정책 지원이 붙기 시작했다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -114,34 +192,16 @@
           "date": "2026-09-07",
           "file": "20260907-울산-광주-로봇-기반-제조-ai전환-.md",
           "title": "울산·광주, 로봇 기반 제조 AI전환 공동 대응"
-        }
-      ]
-    },
-    {
-      "title": "AI 리스크가 계량된다",
-      "body_ko": "취약점 급증과 고용 충격 지표, 저작권 소송이 겹치며 통제 대상이 모델에서 배포·데이터 경로로 옮겨간다.",
-      "topics": [
-        "ai_policy",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-07",
-          "file": "20260907-stripping-safety-gua.md",
-          "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service"
         },
         {
           "date": "2026-09-07",
-          "file": "20260907-올-2분기-ai-llm서-발생한-취약.md",
-          "title": "\"올 2분기 AI·LLM서 발생한 취약점, 전년 比 14배 폭증\""
+          "file": "20260907-정부-중소-스마트공장에-피지컬-ai-.md",
+          "title": "정부, 중소 스마트공장에 '피지컬 AI' 심는다…특화 지원 프로그램 신설"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20260904164800530",
-          "title": ""
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-          "title": ""
+          "date": "2026-09-07",
+          "file": "20260907-웨이모-한국에-꼭-오고-싶다-진출-일.md",
+          "title": "웨이모 “한국에 꼭 오고 싶다”…진출 일정 미공개[현장+]"
         }
       ]
     }
