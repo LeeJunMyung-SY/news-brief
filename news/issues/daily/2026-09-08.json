@@ -1,0 +1,135 @@
+{
+  "date": "2026-09-08",
+  "updated_at": "2026-09-08T08:26:04.290039+09:00",
+  "run_id": "run_20260908_082604",
+  "summary_ko": "AI가 금융의 인사·검증·운영 감시 안쪽까지 내려온 하루다.",
+  "issues": [
+    {
+      "title": "금융 AI, 도입에서 검증으로",
+      "summary_ko": "선언 단계를 지나 채용 요건과 사내 비교 실험으로 제도화되고 있다.",
+      "topics": [
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-08",
+          "file": "20260908-at-ubs-ai-skills-are.md",
+          "title": "At UBS, AI skills are now a condition for landing a job"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-can-ai-write-better-.md",
+          "title": "Can AI write better PR? Hyundai Card puts it to the test"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-삼성생명-클레온-공동개발-ai-롤플레.md",
+          "title": "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-ai끼리-수익률-경쟁-주식투자대회-판.md",
+          "title": "AI끼리 수익률 경쟁 … 주식투자대회 판 바뀐다"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110820/concryt-deploys-agentic-ai-to-monitor-live-payment-operations?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 통제 밖에서 먼저 퍼진다",
+      "summary_ko": "확산이 관리 체계보다 앞서면서 권한과 기록이 도입 조건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260907185033",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214938",
+          "title": ""
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-한국ms-ai시대-프런티어-보안-엔지.md",
+          "title": "한국MS \"AI시대, 프런티어 보안 엔지니어 필요\""
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-openai-reports-ai-re.md",
+          "title": "OpenAI reports AI \"research interns\" and warns about its own pace at the same time"
+        }
+      ]
+    },
+    {
+      "title": "인프라 병목이 전력망으로",
+      "summary_ko": "확보 경쟁이 부지와 송전 여유라는 물리적 제약으로 되돌아왔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-08",
+          "file": "20260908-단독-데이터센터마저-서울공화국-신청-.md",
+          "title": "[단독] 데이터센터마저 서울공화국…신청 160곳중 96곳 수도권 몰렸다"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-30조원-투입해-데이터센터-전력-공급.md",
+          "title": "30조원 투입해 美 데이터센터 전력 공급… '대미투자 1호' 국회 보고"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-ai-데이터센터가-미국-농촌-땅값-바.md",
+          "title": "AI 데이터센터가 미국 농촌 땅값 바꾼다…상반기 부지 매입 8조 700억 원"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-앤트로픽-클로드-수요-폭증에-11개월.md",
+          "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260907079851062",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델은 넘치고 검증은 밀린다",
+      "summary_ko": "출시 속도가 검증 주기를 앞지르며 선택이 런타임으로 내려간다.",
+      "topics": [
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-08",
+          "file": "20260908-9월7일-일주일에-4개나-출시-커지는.md",
+          "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-깃허브-ai-코딩-라우팅-시스템-하이.md",
+          "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-qwen-drive-1-0-tells.md",
+          "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver"
+        },
+        {
+          "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

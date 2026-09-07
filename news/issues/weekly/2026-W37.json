@@ -1,12 +1,12 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-07T16:21:27.155243+09:00",
-  "run_id": "run_20260907_162127",
-  "summary_ko": "AI 경쟁의 무게가 모델 값에서 현업 적용 속도와 인프라 확보력으로 넘어간 주다.",
+  "updated_at": "2026-09-08T08:26:04.290039+09:00",
+  "run_id": "run_20260908_082604",
+  "summary_ko": "경쟁의 초점이 모델 성능에서 도입 검증과 인프라 확보력으로 옮겨간 주다.",
   "issues": [
     {
-      "title": "금융권, 업무에서 상품으로",
-      "body_ko": "인력 재편에서 시작한 변화가 규정 판단 자동화를 지나 고객이 쓰는 상품 기능까지 닿았다.",
+      "title": "금융권, 업무에서 인사·검증까지",
+      "body_ko": "적용 지점이 후선 업무에서 고객 상품을 지나 채용 기준과 성과 검증 절차로 넓어졌다.",
       "topics": [
         "금융회사 AI"
       ],
@@ -18,16 +18,6 @@
         },
         {
           "date": "2026-09-07",
-          "file": "20260907-kb금융-임직원-아이디어로-ai-업무.md",
-          "title": "KB금융 \"임직원 아이디어로 AI 업무 혁신 가속\""
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-게시판-웰컴금융-숭실대와-디지털금융a.md",
-          "title": "[게시판] 웰컴금융, 숭실대와 '디지털금융AI학과' 석사과정 신설"
-        },
-        {
-          "date": "2026-09-07",
           "file": "20260907-하나증권-신규-mts-하나증권v-출시.md",
           "title": "하나증권, 신규 MTS ‘하나증권V’ 출시...AI브리핑·ETF 추천 기능 탑재"
         },
@@ -35,12 +25,123 @@
           "date": "2026-09-07",
           "file": "20260907-상품-가입부터-민원까지-kb증권-ai.md",
           "title": "“상품 가입부터 민원까지”…KB증권, AI로 ‘고객 안심 울타리’ 넓힌다"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-exaone-forecast-for-.md",
+          "title": "EXAONE Forecast for Finance"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-at-ubs-ai-skills-are.md",
+          "title": "At UBS, AI skills are now a condition for landing a job"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-can-ai-write-better-.md",
+          "title": "Can AI write better PR? Hyundai Card puts it to the test"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-삼성생명-클레온-공동개발-ai-롤플레.md",
+          "title": "삼성생명-클레온, 공동개발 ‘AI 롤플레이’ 공개…\"고객 응대·상담 훈련용”"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-ai끼리-수익률-경쟁-주식투자대회-판.md",
+          "title": "AI끼리 수익률 경쟁 … 주식투자대회 판 바뀐다"
         }
       ]
     },
     {
-      "title": "모델 조달선 다변화",
-      "body_ko": "값이 떨어지고 성능 격차가 좁혀지자 도메인 전용 모델까지 조달 후보로 올라왔다.",
+      "title": "에이전트가 통제 문제로",
+      "body_ko": "업무 위임이 늘자 관건이 성능이 아니라 권한·기록 설계로 옮겨갔다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-메가존클라우드-업스테이지-솔라-로-한.md",
+          "title": "메가존클라우드, 업스테이지 '솔라'로 한미약품 품질관리 AI 에이전트 구축"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-why-better-models-ca.md",
+          "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260907185033",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214938",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/blogposting/32757/when-banking-apis-start-making-decisions-who-signs-off-on-them?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 병목이 전력망으로",
+      "body_ko": "메모리와 선단 캐파에 이어 입지와 송전 여유가 조달 일정을 가른다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-07",
+          "file": "20260907-lgu-pmdc-얼라이언스-출범-ai.md",
+          "title": "LGU+, PMDC 얼라이언스 출범…AI 데이터센터 건축기간 줄인다"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-삼성-파운드리-hbm4-확대-총력-4.md",
+          "title": "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이'"
+        },
+        {
+          "date": "2026-09-07",
+          "file": "20260907-삼전닉스-메모리-재고-10일치도-안돼.md",
+          "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-단독-데이터센터마저-서울공화국-신청-.md",
+          "title": "[단독] 데이터센터마저 서울공화국…신청 160곳중 96곳 수도권 몰렸다"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-30조원-투입해-데이터센터-전력-공급.md",
+          "title": "30조원 투입해 美 데이터센터 전력 공급… '대미투자 1호' 국회 보고"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-ai-데이터센터가-미국-농촌-땅값-바.md",
+          "title": "AI 데이터센터가 미국 농촌 땅값 바꾼다…상반기 부지 매입 8조 700억 원"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-앤트로픽-클로드-수요-폭증에-11개월.md",
+          "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-내년에도-메모리-가격-상승-스마트폰-.md",
+          "title": "\"내년에도 메모리 가격 상승...스마트폰 시장서 삼성·애플 수혜\""
+        }
+      ]
+    },
+    {
+      "title": "모델 선택이 런타임으로",
+      "body_ko": "값이 내리고 출시가 잦아지자 조달 결정이 실행 시점의 최적화 문제로 내려왔다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -57,122 +158,24 @@
           "title": "AI 토큰가격 '사상 최저'…5월 최고점 대비 반토막"
         },
         {
-          "date": "2026-09-07",
-          "file": "20260907-exaone-forecast-for-.md",
-          "title": "EXAONE Forecast for Finance"
+          "date": "2026-09-08",
+          "file": "20260908-9월7일-일주일에-4개나-출시-커지는.md",
+          "title": "[9월7일] “일주일에 4개나 출시”...커지는 ‘모델 피로감’"
         },
         {
-          "date": "2026-09-07",
-          "file": "20260907-뉴스줌인-k-시큐리티-살릴-보안-ai.md",
-          "title": "[뉴스줌인] K-시큐리티 살릴 보안 AI…'성능' 입증이 관건"
+          "date": "2026-09-08",
+          "file": "20260908-깃허브-ai-코딩-라우팅-시스템-하이.md",
+          "title": "깃허브, AI 코딩 라우팅 시스템 ‘하이드라퓨전’ 공개...“비용 줄이고 품질 유지”"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260907133419",
+          "url": "https://zdnet.co.kr/view/?no=20260907203426",
           "title": ""
         }
       ]
     },
     {
-      "title": "인프라 병목의 이동",
-      "body_ko": "부지와 공기에 이어 메모리·선단 캐파가 조달 일정을 가르며 인접 제조업이 공급망에 흡수된다.",
-      "topics": [
-        "ai_compute_energy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-07",
-          "file": "20260907-lgu-pmdc-얼라이언스-출범-ai.md",
-          "title": "LGU+, PMDC 얼라이언스 출범…AI 데이터센터 건축기간 줄인다"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-ai-대전환-리딩-전략-sk온-데이터.md",
-          "title": "[AI 대전환 리딩 전략] SK온, 데이터센터 ESS·열관리로 체질개선"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-삼성-파운드리-hbm4-확대-총력-4.md",
-          "title": "삼성 파운드리, HBM4 확대 총력…4나노 캐파 절반이 '베이스 다이'"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-폭스콘의-놀라운-변신-아이폰-공장-서.md",
-          "title": "폭스콘의 놀라운 변신…'아이폰 공장'서 AI 서버 핵심 공급사로"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-삼전닉스-메모리-재고-10일치도-안돼.md",
-          "title": "“삼전닉스, 메모리 재고 10일치도 안돼”…KB증권 “강력한 재평가 기대”"
-        }
-      ]
-    },
-    {
-      "title": "에이전트가 업무를 맡다",
-      "body_ko": "예산 집행과 문서 판단까지 위임되며 권한 설계와 비가역 결정 통제가 도입의 관건이 됐다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-07",
-          "file": "20260907-메가존클라우드-업스테이지-솔라-로-한.md",
-          "title": "메가존클라우드, 업스테이지 '솔라'로 한미약품 품질관리 AI 에이전트 구축"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-lg-cns-글로벌-이커머스-ax-파.md",
-          "title": "LG CNS, 글로벌 이커머스 AX 파트너로 도약...북미서 AI 광고 최적화 사업 확대"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-이-제품-잘-팔릴까-유통기업-ai-소.md",
-          "title": "“이 제품 잘 팔릴까?”…유통기업, AI 소비자에 묻는다"
-        },
-        {
-          "url": "https://arxiv.org/abs/2609.04706",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "리스크가 계량된다",
-      "body_ko": "취약점 급증과 모델 쏠림, 변조 모델 확산이 겹치며 통제 대상이 배포·조달 경로로 옮겨간다.",
-      "topics": [
-        "ai_policy",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-07",
-          "file": "20260907-올-2분기-ai-llm서-발생한-취약.md",
-          "title": "\"올 2분기 AI·LLM서 발생한 취약점, 전년 比 14배 폭증\""
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-stripping-safety-gua.md",
-          "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-uncensored-open-weig.md",
-          "title": "Uncensored Open-weight Models: Redistribution as the Persistence Layer"
-        },
-        {
-          "url": "https://arxiv.org/abs/2609.04495",
-          "title": ""
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-why-better-models-ca.md",
-          "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets"
-        }
-      ]
-    },
-    {
-      "title": "로봇·자율주행 현장 진입",
-      "body_ko": "실증을 마친 장비가 양산 계약으로 넘어가고 중소 제조까지 정책 지원이 붙기 시작했다.",
+      "title": "피지컬 AI, 데이터가 갈랐다",
+      "body_ko": "정책 지원과 현장 진입이 이어지며 경쟁 조건이 행동 데이터 축적으로 정리된다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -185,16 +188,6 @@
         },
         {
           "date": "2026-09-07",
-          "file": "20260907-라이드플럭스-타타대우와-레벨2-자율주.md",
-          "title": "라이드플럭스,타타대우와 '레벨2+ 자율주행 트럭' 양산 추진한다"
-        },
-        {
-          "date": "2026-09-07",
-          "file": "20260907-울산-광주-로봇-기반-제조-ai전환-.md",
-          "title": "울산·광주, 로봇 기반 제조 AI전환 공동 대응"
-        },
-        {
-          "date": "2026-09-07",
           "file": "20260907-정부-중소-스마트공장에-피지컬-ai-.md",
           "title": "정부, 중소 스마트공장에 '피지컬 AI' 심는다…특화 지원 프로그램 신설"
         },
@@ -202,6 +195,23 @@
           "date": "2026-09-07",
           "file": "20260907-웨이모-한국에-꼭-오고-싶다-진출-일.md",
           "title": "웨이모 “한국에 꼭 오고 싶다”…진출 일정 미공개[현장+]"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-장병탁-교수-피지컬-ai는-이제-시작.md",
+          "title": "장병탁 교수 \"피지컬 AI는 이제 시작…데이터 팩토리 더 투자해야\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214955",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260908000009",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672952",
+          "title": ""
         }
       ]
     }
