@@ -1,0 +1,144 @@
+{
+  "date": "2026-09-09",
+  "updated_at": "2026-09-09T08:25:05.291126+09:00",
+  "run_id": "run_20260909_082505",
+  "summary_ko": "AI가 결제와 조직 운영이라는 권한 영역으로 내려온 하루다.",
+  "issues": [
+    {
+      "title": "금융, 결제와 운용을 맡긴다",
+      "summary_ko": "위임 범위가 응대와 분석을 지나 돈을 움직이는 실행 단계에 닿았다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-09",
+          "file": "20260909-visa-and-revolut-car.md",
+          "title": "Visa and Revolut carry out passkey-based agentic payment in France"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-how-one-hedge-fund-m.md",
+          "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110836/aeon-unveils-agentic-checkout?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-메리츠증권-벤징가와-파트너십-체결로-.md",
+          "title": "메리츠증권, 벤징가와 파트너십 체결로 한국 투자자에게 실시간 미국 시장 인텔리전스 제공"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110834/itss-and-feedzai-join-forces-in-fight-agant-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-when-an-auditor-asks.md",
+          "title": "When an auditor asks what your AI did, a log is not the answer"
+        }
+      ]
+    },
+    {
+      "title": "모델을 사는 대신 만든다",
+      "summary_ko": "조달의 기본형이 범용 구독에서 자사 데이터 전용 모델 확보로 이동했다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-09",
+          "file": "20260909-삼성전자-미스트랄-ai와-맞손-반도체.md",
+          "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-한국판-미토스-개발-설립에-미래기금-.md",
+          "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260908175059",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260908192706",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 비용의 기준이 바뀐다",
+      "summary_ko": "단가와 사용량으로 관리하던 방식이 실효 비용과 산출물 기준으로 재설정된다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-09",
+          "file": "20260909-토큰값-2-5배-비싼데-더-싸다-ai.md",
+          "title": "\"토큰값 2.5배 비싼데 더 싸다?\"…AI 가격 경쟁 기준이 뒤집혔다 [김주완의 글로벌 머니 X파일]"
+        },
+        {
+          "url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
+          "title": ""
+        },
+        {
+          "url": "https://openai.com/index/the-work-now-within-reach",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214978",
+          "title": ""
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-google-cloud-races-t.md",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
+        }
+      ]
+    },
+    {
+      "title": "인프라 병목이 연결로 옮겼다",
+      "summary_ko": "제약이 가속기 성능에서 장치를 묶는 구조와 전력 조달로 이동했다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-09",
+          "file": "20260909-파네시아-메타와-함께-cxl-기반-a.md",
+          "title": "파네시아, 美 메타와 함께 CXL 기반 'AI 데이터센터' 구조 공동 제시"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-qualcomm-issues-warr.md",
+          "title": "Qualcomm issues warrants to Amazon to acquire $4 billion worth of chipmaker's stock as part of AI infrastructure deal"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-asml-locks-in-tsmc-s.md",
+          "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=214985",
+          "title": ""
+        },
+        {
+          "url": "https://www.fnnews.com/news/202609081817450057",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
