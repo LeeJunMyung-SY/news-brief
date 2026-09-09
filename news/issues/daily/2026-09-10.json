@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-10",
+  "updated_at": "2026-09-10T08:23:07.416671+09:00",
+  "run_id": "run_20260910_082307",
+  "summary_ko": "AI에 넘기는 판단은 넓어지고, 그 대가로 통제 요건이 붙은 하루다.",
+  "issues": [
+    {
+      "title": "업무를 끝내는 모델이 기준이 됐다",
+      "summary_ko": "모델 선택 기준이 성능 점수에서 업무 완수 능력으로 옮겨갔다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-gpt-6-astra-the-next.md",
+          "title": "GPT-6 Astra: The next generation in intelligence for work"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-오픈ai-삼성-협력-핵심은-칩-생산과.md",
+          "title": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215065",
+          "title": ""
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-ai-연구원-1만명-투입-90년-수학.md",
+          "title": "AI 연구원 1만명 투입…90년 수학 난제 88시간 만에 풀었다"
+        }
+      ]
+    },
+    {
+      "title": "금융, 판단과 결제를 엔진에 맡긴다",
+      "summary_ko": "상품 비교·심사와 결제 실행까지 자율 엔진의 몫이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-커넥셔너리-신한카드와-금융-의사결정-.md",
+          "title": "커넥셔너리, 신한카드와 '금융 의사결정 AI 엔진' 개발"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-전사적-ax-차세대-시스템-구축-현대.md",
+          "title": "전사적 AX·차세대 시스템 구축 … 현대차증권 미래성장 동력 올인"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-consumer-trust-in-ag.md",
+          "title": "Consumer trust in agentic payments continues to lag"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-meta-rolls-out-perso.md",
+          "title": "Meta rolls out personal AI assistant Muse, with support from Stripe"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110849/lt-finance-adopts-pine-labs-payments-protocol-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "지출은 줄고 활용은 늘었다",
+      "summary_ko": "예산 증액 없이 성과를 내야 하는 국면으로 넘어왔다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-ai-spend-per-employe.md",
+          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-코난테크-ai-roi-체감-못하는-이.md",
+          "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12148381",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 출력과 계정이 보안 사안으로",
+      "summary_ko": "AI 접근 통제가 약관 문제를 넘어 안보·사고 영역이 됐다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
+          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
