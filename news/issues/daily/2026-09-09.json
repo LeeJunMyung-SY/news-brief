@@ -1,12 +1,12 @@
 {
   "date": "2026-09-09",
-  "updated_at": "2026-09-09T08:25:05.291126+09:00",
-  "run_id": "run_20260909_082505",
-  "summary_ko": "AI가 결제와 조직 운영이라는 권한 영역으로 내려온 하루다.",
+  "updated_at": "2026-09-09T12:19:21.739130+09:00",
+  "run_id": "run_20260909_121921",
+  "summary_ko": "AI에 넘기는 권한이 실행을 지나 판단으로 올라선 하루다.",
   "issues": [
     {
-      "title": "금융, 결제와 운용을 맡긴다",
-      "summary_ko": "위임 범위가 응대와 분석을 지나 돈을 움직이는 실행 단계에 닿았다.",
+      "title": "금융, 판단까지 맡긴다",
+      "summary_ko": "위임 범위가 결제 실행을 지나 상품 선택과 여신 심사로 올라섰다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -23,28 +23,35 @@
           "title": "How one hedge-fund manager built his firm to be powered entirely by AI agents"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110836/aeon-unveils-agentic-checkout?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-09-09",
           "file": "20260909-메리츠증권-벤징가와-파트너십-체결로-.md",
           "title": "메리츠증권, 벤징가와 파트너십 체결로 한국 투자자에게 실시간 미국 시장 인텔리전스 제공"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110834/itss-and-feedzai-join-forces-in-fight-agant-fraud?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-09-09",
           "file": "20260909-when-an-auditor-asks.md",
           "title": "When an auditor asks what your AI did, a log is not the answer"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-신한카드-챗봇-한계-넘는-ai-에이전.md",
+          "title": "신한카드, 챗봇 한계 넘는 'AI 에이전트' 채비…커머스 선점 전략은"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-토스-pfct-신용평가-모형-고도화-.md",
+          "title": "토스·PFCT, 신용평가 모형 고도화…대안신용평가 활용 확대"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-한국ms-산업별-ax-사례-공유하는-.md",
+          "title": "한국MS, 산업별 AX 사례 공유하는 '인더스트리 서밋' 개최"
         }
       ]
     },
     {
-      "title": "모델을 사는 대신 만든다",
-      "summary_ko": "조달의 기본형이 범용 구독에서 자사 데이터 전용 모델 확보로 이동했다.",
+      "title": "모델을 만들고 심사도 다시 짠다",
+      "summary_ko": "전용 모델 확보 경쟁과 함께 국가 자금의 배분 규칙이 흔들린다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -62,54 +69,25 @@
           "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260908175059",
-          "title": ""
+          "date": "2026-09-09",
+          "file": "20260909-국가ai전략위-독파모-평가-방식-수술.md",
+          "title": "국가AI전략위, 독파모 평가 방식 수술 예고 [현장+]"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260908192706",
-          "title": ""
+          "date": "2026-09-09",
+          "file": "20260909-ai픽-네이버-프랑스와-ai-동맹-확.md",
+          "title": "[AI픽] 네이버, 프랑스와 AI 동맹 확대…유럽에 'AI 팩토리' 제안"
         },
         {
-          "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-          "title": ""
+          "date": "2026-09-09",
+          "file": "20260909-오픈ai-수학계-난제-해결-발표-ny.md",
+          "title": "오픈AI, 수학계 난제 해결 발표...NYU·앤트로픽과 '표절' 공방"
         }
       ]
     },
     {
-      "title": "AI 비용의 기준이 바뀐다",
-      "summary_ko": "단가와 사용량으로 관리하던 방식이 실효 비용과 산출물 기준으로 재설정된다.",
-      "topics": [
-        "llm_models",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-09",
-          "file": "20260909-토큰값-2-5배-비싼데-더-싸다-ai.md",
-          "title": "\"토큰값 2.5배 비싼데 더 싸다?\"…AI 가격 경쟁 기준이 뒤집혔다 [김주완의 글로벌 머니 X파일]"
-        },
-        {
-          "url": "https://the-decoder.com/meta-drops-ai-usage-from-engineer-performance-reviews-after-tokenmaxxing-backfires/",
-          "title": ""
-        },
-        {
-          "url": "https://openai.com/index/the-work-now-within-reach",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214978",
-          "title": ""
-        },
-        {
-          "date": "2026-09-09",
-          "file": "20260909-google-cloud-races-t.md",
-          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
-        }
-      ]
-    },
-    {
-      "title": "인프라 병목이 연결로 옮겼다",
-      "summary_ko": "제약이 가속기 성능에서 장치를 묶는 구조와 전력 조달로 이동했다.",
+      "title": "연산을 직접 소유한다",
+      "summary_ko": "조달의 초점이 클라우드 사용량에서 설비·전력의 자체 확보로 옮겨간다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -131,12 +109,43 @@
           "title": "ASML locks in TSMC, Samsung, and Intel while Huawei races to break its grip"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=214985",
+          "date": "2026-09-09",
+          "file": "20260909-한화에어로-자체-ai-gpu-팜-구축.md",
+          "title": "한화에어로, 자체 AI 'GPU 팜' 구축"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-당진-송산2산단에-ai-데이터센터-2.md",
+          "title": "당진 송산2산단에 AI 데이터센터…2029년까지 1조2천여억원 투자"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673155",
           "title": ""
         },
         {
-          "url": "https://www.fnnews.com/news/202609081817450057",
-          "title": ""
+          "date": "2026-09-09",
+          "file": "20260909-ai-대전환-리딩-전략-sk하이닉스-.md",
+          "title": "[AI 대전환 리딩 전략] SK하이닉스, HBF로 '풀스택 전략' 강화"
+        }
+      ]
+    },
+    {
+      "title": "AI 비용의 기준이 바뀐다",
+      "summary_ko": "단가와 사용량 대신 실효 비용과 산출물이 관리 기준이 된다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-09",
+          "file": "20260909-토큰값-2-5배-비싼데-더-싸다-ai.md",
+          "title": "\"토큰값 2.5배 비싼데 더 싸다?\"…AI 가격 경쟁 기준이 뒤집혔다 [김주완의 글로벌 머니 X파일]"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-google-cloud-races-t.md",
+          "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
         }
       ]
     }
