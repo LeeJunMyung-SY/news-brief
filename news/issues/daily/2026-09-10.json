@@ -1,42 +1,12 @@
 {
   "date": "2026-09-10",
-  "updated_at": "2026-09-10T08:23:07.416671+09:00",
-  "run_id": "run_20260910_082307",
-  "summary_ko": "AI에 넘기는 판단은 넓어지고, 그 대가로 통제 요건이 붙은 하루다.",
+  "updated_at": "2026-09-10T12:21:21.184068+09:00",
+  "run_id": "run_20260910_122121",
+  "summary_ko": "AI를 맡기는 범위가 넓어지면서 조직과 인프라가 함께 재편된 하루다.",
   "issues": [
     {
-      "title": "업무를 끝내는 모델이 기준이 됐다",
-      "summary_ko": "모델 선택 기준이 성능 점수에서 업무 완수 능력으로 옮겨갔다.",
-      "topics": [
-        "llm_models",
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-10",
-          "file": "20260910-gpt-6-astra-the-next.md",
-          "title": "GPT-6 Astra: The next generation in intelligence for work"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-오픈ai-삼성-협력-핵심은-칩-생산과.md",
-          "title": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215065",
-          "title": ""
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-ai-연구원-1만명-투입-90년-수학.md",
-          "title": "AI 연구원 1만명 투입…90년 수학 난제 88시간 만에 풀었다"
-        }
-      ]
-    },
-    {
       "title": "금융, 판단과 결제를 엔진에 맡긴다",
-      "summary_ko": "상품 비교·심사와 결제 실행까지 자율 엔진의 몫이 됐다.",
+      "summary_ko": "결제 위임의 규격이 국책 사업 안에서 정해지기 시작했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -59,22 +29,62 @@
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-meta-rolls-out-perso.md",
-          "title": "Meta rolls out personal AI assistant Muse, with support from Stripe"
+          "file": "20260910-신한-하나카드-ai결제-인프라-개발-.md",
+          "title": "신한·하나카드, AI결제 인프라 개발…SKT '모두의 AI' 컨소시엄"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110849/lt-finance-adopts-pine-labs-payments-protocol-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "date": "2026-09-10",
+          "file": "20260910-게시판-키움증권-ai-증권서비스-개발.md",
+          "title": "[게시판] 키움증권, AI 증권서비스 개발 도구 라인업 완성"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-단독-토스증권-skt-에이닷-출신-방.md",
+          "title": "[단독] 토스증권,‘SKT 에이닷 출신’ 방민혁 신임 데이터기술총괄 선임…AI·데이터 승부수"
+        }
+      ]
+    },
+    {
+      "title": "업무를 끝내는 모델이 기준이 됐다",
+      "summary_ko": "범용 성능 경쟁을 피해 영역을 좁히는 전략이 함께 나왔다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-gpt-6-astra-the-next.md",
+          "title": "GPT-6 Astra: The next generation in intelligence for work"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-오픈ai-삼성-협력-핵심은-칩-생산과.md",
+          "title": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
+          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-보안만큼은-세계-최고로-lg-cns-.md",
+          "title": "“보안만큼은 세계 최고로”…LG CNS, 국산 AI로 글로벌 1위 도전"
+        },
+        {
+          "url": "https://www.etnews.com/20260910000187",
           "title": ""
         }
       ]
     },
     {
-      "title": "지출은 줄고 활용은 늘었다",
-      "summary_ko": "예산 증액 없이 성과를 내야 하는 국면으로 넘어왔다.",
+      "title": "예산보다 직무가 먼저 바뀐다",
+      "summary_ko": "AI 도입 효과가 비용 절감이 아니라 직무 재편으로 나타난다.",
       "topics": [
         "ai_industry",
-        "ai_agents",
-        "llm_models"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -88,32 +98,57 @@
           "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\""
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12148381",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=672898",
+          "title": ""
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-lg-cns-ai-로보틱스-등-세-자.md",
+          "title": "LG CNS, AI·로보틱스 등 세 자릿수 대규모 인재 채용 나서"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609105579i",
           "title": ""
         }
       ]
     },
     {
-      "title": "모델 출력과 계정이 보안 사안으로",
-      "summary_ko": "AI 접근 통제가 약관 문제를 넘어 안보·사고 영역이 됐다.",
+      "title": "인프라 병목이 전력으로 내려갔다",
+      "summary_ko": "연산 확보 경쟁의 제약이 칩에서 발전 설비로 옮겨왔다.",
       "topics": [
-        "ai_policy",
-        "llm_models",
-        "금융회사 AI"
+        "ai_compute_energy",
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-09-10",
-          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
-          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+          "file": "20260910-google-to-invest-rec.md",
+          "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215037",
-          "title": ""
+          "date": "2026-09-10",
+          "file": "20260910-퀄컴-아마존과-ai-추론-칩-공동-개.md",
+          "title": "퀄컴, 아마존과 AI 추론 칩 공동 개발...\"스마트폰 넘어 데이터센터로\""
         },
         {
-          "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-          "title": ""
+          "date": "2026-09-10",
+          "file": "20260910-최태원-7조-규모-ai-심장부-찾는다.md",
+          "title": "최태원, 7조 규모 'AI 심장부' 찾는다…경영진과 울산 집결"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-ai-데이터센터-전력-전쟁-올라탄-미.md",
+          "title": "AI 데이터센터 '전력 전쟁' 올라탄 미코…세계 1위 HRSG 기업 인수"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-인텔-pc-cpu-가격-또-10-올린.md",
+          "title": "인텔, PC CPU 가격 또 10% 올린다…AI 쏠림에 공급난 가중"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-한은-글로벌-ai-투자-상당-기간-증.md",
+          "title": "한은 \"글로벌 AI 투자, 상당 기간 증가 기대…지속 점검해야\""
         }
       ]
     }
