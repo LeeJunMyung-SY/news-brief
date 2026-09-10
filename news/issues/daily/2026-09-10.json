@@ -1,12 +1,12 @@
 {
   "date": "2026-09-10",
-  "updated_at": "2026-09-10T12:21:21.184068+09:00",
-  "run_id": "run_20260910_122121",
-  "summary_ko": "AI를 맡기는 범위가 넓어지면서 조직과 인프라가 함께 재편된 하루다.",
+  "updated_at": "2026-09-10T16:26:26.846699+09:00",
+  "run_id": "run_20260910_162626",
+  "summary_ko": "맡기는 범위가 넓어지자 규제·용량·자본이 동시에 제약으로 붙은 하루다.",
   "issues": [
     {
-      "title": "금융, 판단과 결제를 엔진에 맡긴다",
-      "summary_ko": "결제 위임의 규격이 국책 사업 안에서 정해지기 시작했다.",
+      "title": "금융, 판단을 맡기고 데이터를 계약한다",
+      "summary_ko": "적용이 판단 영역으로 내려가며 데이터·분석 인프라 계약이 선행 조건이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -24,33 +24,70 @@
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-consumer-trust-in-ag.md",
-          "title": "Consumer trust in agentic payments continues to lag"
-        },
-        {
-          "date": "2026-09-10",
           "file": "20260910-신한-하나카드-ai결제-인프라-개발-.md",
           "title": "신한·하나카드, AI결제 인프라 개발…SKT '모두의 AI' 컨소시엄"
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-게시판-키움증권-ai-증권서비스-개발.md",
-          "title": "[게시판] 키움증권, AI 증권서비스 개발 도구 라인업 완성"
+          "file": "20260910-단독-토스증권-skt-에이닷-출신-방.md",
+          "title": "[단독] 토스증권,‘SKT 에이닷 출신’ 방민혁 신임 데이터기술총괄 선임…AI·데이터 승부수"
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-단독-토스증권-skt-에이닷-출신-방.md",
-          "title": "[단독] 토스증권,‘SKT 에이닷 출신’ 방민혁 신임 데이터기술총괄 선임…AI·데이터 승부수"
+          "file": "20260910-kb금융-글로벌-자본시장-과녁-노린다.md",
+          "title": "KB금융 글로벌 자본시장 과녁 노린다…블룸버그와 동행 경로는"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-sk스퀘어-ai-네이티브-투자회사-전.md",
+          "title": "SK스퀘어, 'AI 네이티브' 투자회사 전환 속도…전사 AX 추진"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-generative-ai-for-an.md",
+          "title": "Generative AI for Analysts"
         }
       ]
     },
     {
-      "title": "업무를 끝내는 모델이 기준이 됐다",
-      "summary_ko": "범용 성능 경쟁을 피해 영역을 좁히는 전략이 함께 나왔다.",
+      "title": "위임이 커지자 규제가 앞당겨진다",
+      "summary_ko": "개발사가 먼저 법적 규율을 요청할 만큼 통제 공백이 드러났다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
+          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-오픈ai-국가-차원-ai-규제안-의무.md",
+          "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215095",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215091",
+          "title": ""
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-black-box-red-teamin.md",
+          "title": "Black-Box Red Teaming of Agentic AI: A Taxonomy-Driven Framework for Automated Risk Discovery"
+        }
+      ]
+    },
+    {
+      "title": "용량이 도입 일정을 정한다",
+      "summary_ko": "성능보다 확보 가능한 연산량이 도입 속도를 가르는 국면이다.",
       "topics": [
         "llm_models",
-        "ai_agents",
-        "ai_industry"
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -65,75 +102,38 @@
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
-          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+          "file": "20260910-오픈ai-아스트라-수요-폭증에-유료-.md",
+          "title": "오픈AI, ‘아스트라’ 수요 폭증에 유료 신규 가입 일시 중단 검토"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215098",
+          "title": ""
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-보안만큼은-세계-최고로-lg-cns-.md",
-          "title": "“보안만큼은 세계 최고로”…LG CNS, 국산 AI로 글로벌 1위 도전"
-        },
-        {
-          "url": "https://www.etnews.com/20260910000187",
-          "title": ""
+          "file": "20260910-ibib-a-protocol-for-.md",
+          "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier"
         }
       ]
     },
     {
-      "title": "예산보다 직무가 먼저 바뀐다",
-      "summary_ko": "AI 도입 효과가 비용 절감이 아니라 직무 재편으로 나타난다.",
-      "topics": [
-        "ai_industry",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-10",
-          "file": "20260910-ai-spend-per-employe.md",
-          "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-코난테크-ai-roi-체감-못하는-이.md",
-          "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=672898",
-          "title": ""
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-lg-cns-ai-로보틱스-등-세-자.md",
-          "title": "LG CNS, AI·로보틱스 등 세 자릿수 대규모 인재 채용 나서"
-        },
-        {
-          "url": "https://www.hankyung.com/article/202609105579i",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "인프라 병목이 전력으로 내려갔다",
-      "summary_ko": "연산 확보 경쟁의 제약이 칩에서 발전 설비로 옮겨왔다.",
+      "title": "증설은 계속, 조달 구조는 점검",
+      "summary_ko": "전력 설비 투자는 이어지지만 투자 사이클의 지속성이 검증 대상이 됐다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
+        {
+          "date": "2026-09-10",
+          "file": "20260910-한은-글로벌-ai-투자-상당-기간-증.md",
+          "title": "한은 \"글로벌 AI 투자, 상당 기간 증가 기대…지속 점검해야\""
+        },
         {
           "date": "2026-09-10",
           "file": "20260910-google-to-invest-rec.md",
           "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-퀄컴-아마존과-ai-추론-칩-공동-개.md",
-          "title": "퀄컴, 아마존과 AI 추론 칩 공동 개발...\"스마트폰 넘어 데이터센터로\""
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-최태원-7조-규모-ai-심장부-찾는다.md",
-          "title": "최태원, 7조 규모 'AI 심장부' 찾는다…경영진과 울산 집결"
         },
         {
           "date": "2026-09-10",
@@ -142,13 +142,22 @@
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-인텔-pc-cpu-가격-또-10-올린.md",
-          "title": "인텔, PC CPU 가격 또 10% 올린다…AI 쏠림에 공급난 가중"
+          "file": "20260910-빅테크-ai-투자-올해가-정점-한은이.md",
+          "title": "\"빅테크 AI 투자 올해가 정점\"..한은이 경고한 3대 뇌관"
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-한은-글로벌-ai-투자-상당-기간-증.md",
-          "title": "한은 \"글로벌 AI 투자, 상당 기간 증가 기대…지속 점검해야\""
+          "file": "20260910-hd현대-엔진-smr-미래사업에-1조.md",
+          "title": "HD현대重, '엔진·SMR' 미래사업에 1조원 투자"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-dc-분사로-성장-동력-상실-skb-.md",
+          "title": "\"DC 분사로 성장 동력 상실\"…SKB 노조, 인적분할 후속 대책 요구"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609106530i",
+          "title": ""
         }
       ]
     }
