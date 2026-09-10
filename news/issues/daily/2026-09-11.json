@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-11",
+  "updated_at": "2026-09-11T08:30:13.724193+09:00",
+  "run_id": "run_20260911_083013",
+  "summary_ko": "에이전트가 돈을 벌기 시작한 날, 통제 사고와 용량 한계도 함께 드러났다.",
+  "issues": [
+    {
+      "title": "에이전트 사고, 통제 입증 요구로",
+      "summary_ko": "사고 공개가 잇따르며 통제 입증이 곧 도입 조건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-11",
+          "file": "20260911-오픈ai-불량-에이전트-외부-사이트-.md",
+          "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
+          "title": ""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-anthropic-details-di.md",
+          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
+          "title": ""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-extinction-warnings-.md",
+          "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-ai-agents-are-floodi.md",
+          "title": "AI agents are flooding public services with new requests"
+        }
+      ]
+    },
+    {
+      "title": "연산 용량이 매출 한도로",
+      "summary_ko": "수요가 공급을 넘어서며 확보한 연산량이 곧 매출 상한이 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-11",
+          "file": "20260911-오픈ai-프로-요금제-신규-가입-일시.md",
+          "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
+          "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-jensen-huang-explain.md",
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-powering-ai-is-an-ar.md",
+          "title": "Powering AI is an architecture problem"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-new-deepseek-model-v.md",
+          "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 과금 모델이 굳는다",
+      "summary_ko": "광고·기업도구·콘텐츠로 과금 경로가 구체화되며 가치가 재평가된다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-11",
+          "file": "20260911-amazon-gives-openai-.md",
+          "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-데빈-개발사-코그니션-몸값-64조-달.md",
+          "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-now-everyone-can-put.md",
+          "title": "Now everyone can put data to work"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-india-s-pocket-fm-do.md",
+          "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-80명이-에이전트-90개-sk스퀘어의.md",
+          "title": "80명이 에이전트 90개…SK스퀘어의 AI 실험"
+        }
+      ]
+    },
+    {
+      "title": "금융, 사람 개입을 덜어낸다",
+      "summary_ko": "결제·심사 자동화가 넓어지는 만큼 인증 신뢰가 약한 고리로 드러났다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-11",
+          "file": "20260911-blik-records-first-a.md",
+          "title": "Blik records first agentic payment transaction"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-arva-ai-opens-resear.md",
+          "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-savvy-wealth-raises-.md",
+          "title": "Savvy Wealth raises $100 million"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
+          "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
+        }
+      ]
+    }
+  ]
+}

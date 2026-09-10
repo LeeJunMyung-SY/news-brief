@@ -1,12 +1,12 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-10T16:26:26.846699+09:00",
-  "run_id": "run_20260910_162626",
-  "summary_ko": "위임 범위가 넓어질수록 규제·용량·자본이 함께 제약으로 붙은 주다.",
+  "updated_at": "2026-09-11T08:30:13.724193+09:00",
+  "run_id": "run_20260911_083013",
+  "summary_ko": "위임이 수익으로 이어지자 통제·용량·자본이 동시에 제약으로 붙은 주다.",
   "issues": [
     {
       "title": "금융, 응대에서 판단·결제까지",
-      "body_ko": "적용 지점이 고객 화면을 지나 결제와 심사 판단으로 내려오고, 데이터 인프라 계약이 그 전제가 됐다.",
+      "body_ko": "적용이 결제·심사 판단으로 내려오며 사람 개입 축소와 인증 신뢰가 함께 쟁점이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -48,19 +48,28 @@
           "title": "KB금융 글로벌 자본시장 과녁 노린다…블룸버그와 동행 경로는"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-sk스퀘어-ai-네이티브-투자회사-전.md",
-          "title": "SK스퀘어, 'AI 네이티브' 투자회사 전환 속도…전사 AX 추진"
+          "date": "2026-09-11",
+          "file": "20260911-blik-records-first-a.md",
+          "title": "Blik records first agentic payment transaction"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-arva-ai-opens-resear.md",
+          "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
+          "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
         }
       ]
     },
     {
-      "title": "통제가 감사·보안 요건으로",
-      "body_ko": "근거를 남기고 남용을 막는 체계가 도입 전제가 되면서 개발사마저 법적 규율을 먼저 요청했다.",
+      "title": "사고가 통제 의무를 앞당긴다",
+      "body_ko": "사고 공개가 잇따르며 통제 입증이 도입 전제가 되고 검증 접근마저 국경을 타기 시작했다.",
       "topics": [
         "ai_policy",
-        "ai_agents",
-        "금융회사 AI"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -89,20 +98,31 @@
           "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회"
         },
         {
-          "url": "https://arxiv.org/abs/2609.09875",
+          "date": "2026-09-11",
+          "file": "20260911-오픈ai-불량-에이전트-외부-사이트-.md",
+          "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
           "title": ""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215091",
+          "date": "2026-09-11",
+          "file": "20260911-anthropic-details-di.md",
+          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
           "title": ""
         }
       ]
     },
     {
-      "title": "모델 조달 기준이 다시 쓰인다",
-      "body_ko": "업무 완수 능력이 평가 축이 된 데 이어, 확보 가능한 용량이 실제 도입 속도를 정하게 됐다.",
+      "title": "용량이 도입과 매출을 가른다",
+      "body_ko": "확보 가능한 연산량이 도입 속도와 공급사 매출을 함께 정하는 국면으로 넘어갔다.",
       "topics": [
         "llm_models",
+        "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
@@ -132,15 +152,25 @@
           "title": "오픈AI, ‘아스트라’ 수요 폭증에 유료 신규 가입 일시 중단 검토"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-ibib-a-protocol-for-.md",
-          "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier"
+          "date": "2026-09-11",
+          "file": "20260911-오픈ai-프로-요금제-신규-가입-일시.md",
+          "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
+          "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-new-deepseek-model-v.md",
+          "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
         }
       ]
     },
     {
       "title": "인프라, 전력과 자본이 가른다",
-      "body_ko": "병목이 발전 설비로 내려온 가운데 투자 사이클의 지속성까지 점검 대상으로 올라왔다.",
+      "body_ko": "병목이 발전 설비로 내려온 가운데 외부자금 의존이 투자 사이클의 지속성을 시험한다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -164,11 +194,6 @@
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-최태원-7조-규모-ai-심장부-찾는다.md",
-          "title": "최태원, 7조 규모 'AI 심장부' 찾는다…경영진과 울산 집결"
-        },
-        {
-          "date": "2026-09-10",
           "file": "20260910-ai-데이터센터-전력-전쟁-올라탄-미.md",
           "title": "AI 데이터센터 '전력 전쟁' 올라탄 미코…세계 1위 HRSG 기업 인수"
         },
@@ -183,25 +208,25 @@
           "title": "\"빅테크 AI 투자 올해가 정점\"..한은이 경고한 3대 뇌관"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-dc-분사로-성장-동력-상실-skb-.md",
-          "title": "\"DC 분사로 성장 동력 상실\"…SKB 노조, 인적분할 후속 대책 요구"
+          "date": "2026-09-11",
+          "file": "20260911-powering-ai-is-an-ar.md",
+          "title": "Powering AI is an architecture problem"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-jensen-huang-explain.md",
+          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
         }
       ]
     },
     {
       "title": "피지컬 AI, 시연에서 현장으로",
-      "body_ko": "논의가 원가와 데이터 확보로 내려오고, 판단 방식도 규칙 입력에서 학습 모델로 바뀌고 있다.",
+      "body_ko": "논의가 원가·데이터로 내려온 가운데 상장 심사 강화로 사업성 입증 요구가 커졌다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-09-09",
-          "file": "20260909-유일로보틱스-sk온-휴머노이드-전고체.md",
-          "title": "유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발"
-        },
         {
           "date": "2026-09-08",
           "file": "20260908-삼성sds-삼성-생산라인-1000곳-.md",
@@ -219,13 +244,18 @@
         },
         {
           "date": "2026-09-10",
-          "file": "20260910-cj대한통운-ai-입힌-오픈형-저온센.md",
-          "title": "CJ대한통운, AI 입힌 '오픈형 저온센터' 본격 가동…콜드체인 경쟁력 높인다"
-        },
-        {
-          "date": "2026-09-10",
           "file": "20260910-자율주행-힘주는-카카오모빌리티-특화-.md",
           "title": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-중국-휴머노이드-로봇-ipo-규제-강.md",
+          "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-maven-robotics-wants.md",
+          "title": "Maven Robotics wants to steal your robot deployment deal"
         }
       ]
     }
