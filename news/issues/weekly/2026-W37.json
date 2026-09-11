@@ -1,12 +1,12 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-11T08:30:13.724193+09:00",
-  "run_id": "run_20260911_083013",
+  "updated_at": "2026-09-11T12:25:03.551499+09:00",
+  "run_id": "run_20260911_122503",
   "summary_ko": "위임이 수익으로 이어지자 통제·용량·자본이 동시에 제약으로 붙은 주다.",
   "issues": [
     {
       "title": "금융, 응대에서 판단·결제까지",
-      "body_ko": "적용이 결제·심사 판단으로 내려오며 사람 개입 축소와 인증 신뢰가 함께 쟁점이 됐다.",
+      "body_ko": "결제·심사에 이어 상품 선택까지 에이전트로 넘어가며 인증 신뢰와 채널 락인이 쟁점이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -61,12 +61,22 @@
           "date": "2026-09-11",
           "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
           "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+          "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+          "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
         }
       ]
     },
     {
       "title": "사고가 통제 의무를 앞당긴다",
-      "body_ko": "사고 공개가 잇따르며 통제 입증이 도입 전제가 되고 검증 접근마저 국경을 타기 시작했다.",
+      "body_ko": "사고 공개가 잇따르며 통제 입증이 도입 전제가 되고 이용자 보호 입법도 시동을 걸었다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -103,17 +113,14 @@
           "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
-          "title": ""
-        },
-        {
           "date": "2026-09-11",
           "file": "20260911-anthropic-details-di.md",
           "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-          "title": ""
+          "date": "2026-09-11",
+          "file": "20260911-방미통위-ai-이용자-보호법-만든다.md",
+          "title": "방미통위, 'AI 이용자 보호법' 만든다"
         }
       ]
     },
@@ -170,7 +177,7 @@
     },
     {
       "title": "인프라, 전력과 자본이 가른다",
-      "body_ko": "병목이 발전 설비로 내려온 가운데 외부자금 의존이 투자 사이클의 지속성을 시험한다.",
+      "body_ko": "병목이 발전 설비로 내려온 가운데 해외 채권 조달과 세제 공백이 투자 지속성을 시험한다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -216,12 +223,22 @@
           "date": "2026-09-11",
           "file": "20260911-jensen-huang-explain.md",
           "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+          "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+          "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
         }
       ]
     },
     {
       "title": "피지컬 AI, 시연에서 현장으로",
-      "body_ko": "논의가 원가·데이터로 내려온 가운데 상장 심사 강화로 사업성 입증 요구가 커졌다.",
+      "body_ko": "상장 심사 강화로 사업성 입증 요구가 커진 가운데 대기업이 핵심 부품 투자로 공급망을 선점한다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -256,6 +273,11 @@
           "date": "2026-09-11",
           "file": "20260911-maven-robotics-wants.md",
           "title": "Maven Robotics wants to steal your robot deployment deal"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-에이딘로보틱스-hd현대-삼성서-160.md",
+          "title": "에이딘로보틱스, HD현대·삼성서 160억원 투자 유치"
         }
       ]
     }

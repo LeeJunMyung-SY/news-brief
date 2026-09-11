@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T23:30:20+00:00",
+  "generated_at": "2026-09-11T03:25:10+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,49 +12,49 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1054,
+      "count": 1056,
       "latest_date": "2026-09-11"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1093,
+      "count": 1095,
       "latest_date": "2026-09-11"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2573,
+      "count": 2576,
       "latest_date": "2026-09-11"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 429,
+      "count": 430,
       "latest_date": "2026-09-11"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 758,
+      "count": 760,
       "latest_date": "2026-09-11"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 595,
+      "count": 598,
       "latest_date": "2026-09-11"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 417,
+      "count": 418,
       "latest_date": "2026-09-11"
     },
     {
@@ -88,6 +88,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-09-11",
+        "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+        "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들",
+        "importance": 7,
+        "tags": [
+          "#agentic-finance",
+          "#finance",
+          "#platform",
+          "#channel-strategy",
+          "#banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260911035500017"
+      },
       {
         "date": "2026-09-11",
         "file": "20260911-blik-records-first-a.md",
@@ -199,6 +214,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/110876/arva-ai-opens-research-lab-to-banish-human-in-the-loop-for-financial-crime-and-fraud?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-11",
+        "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+        "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...'에이전트 생태계 확대'",
+        "importance": 6,
+        "tags": [
+          "#agent-ecosystem",
+          "#platform",
+          "#partnership",
+          "#finance",
+          "#commerce"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215125"
       },
       {
         "date": "2026-09-10",
@@ -28626,6 +28656,20 @@
       },
       {
         "date": "2026-09-11",
+        "file": "20260911-방미통위-ai-이용자-보호법-만든다.md",
+        "title": "방미통위, 'AI 이용자 보호법' 만든다",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#user-protection",
+          "#korea",
+          "#compliance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260911090023"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-오픈ai-불량-에이전트-외부-사이트-.md",
         "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착",
         "importance": 7,
@@ -28637,6 +28681,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215104"
+      },
+      {
+        "date": "2026-09-11",
+        "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+        "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#tax-credit",
+          "#regulation",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260911093324"
       },
       {
         "date": "2026-09-11",
@@ -44617,6 +44675,20 @@
       },
       {
         "date": "2026-09-11",
+        "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+        "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박",
+        "importance": 6,
+        "tags": [
+          "#ai-capex",
+          "#bond-market",
+          "#financing",
+          "#investment"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609118048i"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-중국-휴머노이드-로봇-ipo-규제-강.md",
         "title": "중국, 휴머노이드 로봇 IPO 규제 강화...'거품 빼고 기술력 입증하라'",
         "importance": 6,
@@ -44628,6 +44700,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215110"
+      },
+      {
+        "date": "2026-09-11",
+        "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+        "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...'에이전트 생태계 확대'",
+        "importance": 6,
+        "tags": [
+          "#agent-ecosystem",
+          "#platform",
+          "#partnership",
+          "#finance",
+          "#commerce"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215125"
+      },
+      {
+        "date": "2026-09-11",
+        "file": "20260911-한진-ai로-물류현장-위험-잡는다-a.md",
+        "title": "한진, AI로 물류현장 위험 잡는다…AI 세이프티 가디언 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#vision-ai",
+          "#logistics",
+          "#safety"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260911084228"
       },
       {
         "date": "2026-09-10",
@@ -81813,6 +81914,21 @@
       },
       {
         "date": "2026-09-11",
+        "file": "20260911-에이딘로보틱스-hd현대-삼성서-160.md",
+        "title": "에이딘로보틱스, HD현대·삼성서 160억원 투자 유치",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#humanoid",
+          "#robot-hand",
+          "#partnership",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260910155705"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-중국-휴머노이드-로봇-ipo-규제-강.md",
         "title": "중국, 휴머노이드 로봇 IPO 규제 강화...'거품 빼고 기술력 입증하라'",
         "importance": 6,
@@ -88068,6 +88184,20 @@
       },
       {
         "date": "2026-09-11",
+        "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+        "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#tax-credit",
+          "#regulation",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260911093324"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-jensen-huang-explain.md",
         "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
         "importance": 6,
@@ -88093,6 +88223,20 @@
         ],
         "source": "MIT Technology Review",
         "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+      },
+      {
+        "date": "2026-09-11",
+        "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+        "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박",
+        "importance": 6,
+        "tags": [
+          "#ai-capex",
+          "#bond-market",
+          "#financing",
+          "#investment"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202609118048i"
       },
       {
         "date": "2026-09-10",
@@ -99014,6 +99158,21 @@
     "금융회사 AI": [
       {
         "date": "2026-09-11",
+        "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+        "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들",
+        "importance": 7,
+        "tags": [
+          "#agentic-finance",
+          "#finance",
+          "#platform",
+          "#channel-strategy",
+          "#banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260911035500017"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-blik-records-first-a.md",
         "title": "Blik records first agentic payment transaction",
         "importance": 7,
@@ -99056,6 +99215,20 @@
       },
       {
         "date": "2026-09-11",
+        "file": "20260911-kb금융-차기-회장-오늘-오후-결정-.md",
+        "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#banking",
+          "#finance",
+          "#leadership"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/economy/12150312"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-savvy-wealth-raises-.md",
         "title": "Savvy Wealth raises $100 million",
         "importance": 6,
@@ -99081,6 +99254,21 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202609107020i"
+      },
+      {
+        "date": "2026-09-11",
+        "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+        "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...'에이전트 생태계 확대'",
+        "importance": 6,
+        "tags": [
+          "#agent-ecosystem",
+          "#platform",
+          "#partnership",
+          "#finance",
+          "#commerce"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215125"
       },
       {
         "date": "2026-09-10",
@@ -107804,6 +107992,21 @@
       },
       {
         "date": "2026-09-11",
+        "file": "20260911-에이딘로보틱스-hd현대-삼성서-160.md",
+        "title": "에이딘로보틱스, HD현대·삼성서 160억원 투자 유치",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#humanoid",
+          "#robot-hand",
+          "#partnership",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260910155705"
+      },
+      {
+        "date": "2026-09-11",
         "file": "20260911-중국-휴머노이드-로봇-ipo-규제-강.md",
         "title": "중국, 휴머노이드 로봇 IPO 규제 강화...'거품 빼고 기술력 입증하라'",
         "importance": 6,
@@ -113971,7 +114174,7 @@
       {
         "date": "2026-09-11",
         "title": "에이전트 사고, 통제 입증 요구로",
-        "summary": "사고 공개가 잇따르며 통제 입증이 곧 도입 조건이 됐다.",
+        "summary": "사고 공개에 이용자 보호 입법까지 겹치며 통제 입증이 도입 조건이 됐다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -113979,17 +114182,9 @@
             "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
-            "title": ""
-          },
-          {
             "date": "2026-09-11",
             "file": "20260911-anthropic-details-di.md",
             "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-            "title": ""
           },
           {
             "date": "2026-09-11",
@@ -114000,6 +114195,11 @@
             "date": "2026-09-11",
             "file": "20260911-ai-agents-are-floodi.md",
             "title": "AI agents are flooding public services with new requests"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-방미통위-ai-이용자-보호법-만든다.md",
+            "title": "방미통위, 'AI 이용자 보호법' 만든다"
           }
         ]
       },
@@ -114017,10 +114217,6 @@
             "date": "2026-09-11",
             "file": "20260911-데빈-개발사-코그니션-몸값-64조-달.md",
             "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등"
-          },
-          {
-            "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-            "title": ""
           },
           {
             "date": "2026-09-11",
@@ -114041,8 +114237,8 @@
       },
       {
         "date": "2026-09-11",
-        "title": "금융, 사람 개입을 덜어낸다",
-        "summary": "결제·심사 자동화가 넓어지는 만큼 인증 신뢰가 약한 고리로 드러났다.",
+        "title": "금융, 에이전트가 창구가 된다",
+        "summary": "결제·심사에 이어 상품 선택까지 넘어가며 앱 중심 락인이 흔들린다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -114063,6 +114259,21 @@
             "date": "2026-09-11",
             "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
             "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+            "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+            "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-kb금융-차기-회장-오늘-오후-결정-.md",
+            "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전"
           }
         ]
       },
@@ -115844,7 +116055,7 @@
       {
         "date": "2026-09-11",
         "title": "에이전트 사고, 통제 입증 요구로",
-        "summary": "사고 공개가 잇따르며 통제 입증이 곧 도입 조건이 됐다.",
+        "summary": "사고 공개에 이용자 보호 입법까지 겹치며 통제 입증이 도입 조건이 됐다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -115852,17 +116063,9 @@
             "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215105",
-            "title": ""
-          },
-          {
             "date": "2026-09-11",
             "file": "20260911-anthropic-details-di.md",
             "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
-            "title": ""
           },
           {
             "date": "2026-09-11",
@@ -115873,6 +116076,11 @@
             "date": "2026-09-11",
             "file": "20260911-ai-agents-are-floodi.md",
             "title": "AI agents are flooding public services with new requests"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-방미통위-ai-이용자-보호법-만든다.md",
+            "title": "방미통위, 'AI 이용자 보호법' 만든다"
           }
         ]
       },
@@ -118201,7 +118409,7 @@
       {
         "date": "2026-09-11",
         "title": "연산 용량이 매출 한도로",
-        "summary": "수요가 공급을 넘어서며 확보한 연산량이 곧 매출 상한이 됐다.",
+        "summary": "연산량이 매출 상한이 되며 증설 자금은 해외 채권, 세제 공백까지 떠안는다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -118227,6 +118435,16 @@
             "date": "2026-09-11",
             "file": "20260911-new-deepseek-model-v.md",
             "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+            "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+            "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
           }
         ]
       },
@@ -119547,7 +119765,7 @@
       {
         "date": "2026-09-11",
         "title": "연산 용량이 매출 한도로",
-        "summary": "수요가 공급을 넘어서며 확보한 연산량이 곧 매출 상한이 됐다.",
+        "summary": "연산량이 매출 상한이 되며 증설 자금은 해외 채권, 세제 공백까지 떠안는다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -119573,6 +119791,16 @@
             "date": "2026-09-11",
             "file": "20260911-new-deepseek-model-v.md",
             "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+            "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+            "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
           }
         ]
       },
@@ -121155,7 +121383,7 @@
       {
         "date": "2026-09-11",
         "title": "연산 용량이 매출 한도로",
-        "summary": "수요가 공급을 넘어서며 확보한 연산량이 곧 매출 상한이 됐다.",
+        "summary": "연산량이 매출 상한이 되며 증설 자금은 해외 채권, 세제 공백까지 떠안는다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -121181,6 +121409,16 @@
             "date": "2026-09-11",
             "file": "20260911-new-deepseek-model-v.md",
             "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+            "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+            "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
           }
         ]
       },
@@ -121198,10 +121436,6 @@
             "date": "2026-09-11",
             "file": "20260911-데빈-개발사-코그니션-몸값-64조-달.md",
             "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등"
-          },
-          {
-            "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-            "title": ""
           },
           {
             "date": "2026-09-11",
@@ -124698,8 +124932,8 @@
     "금융회사 AI": [
       {
         "date": "2026-09-11",
-        "title": "금융, 사람 개입을 덜어낸다",
-        "summary": "결제·심사 자동화가 넓어지는 만큼 인증 신뢰가 약한 고리로 드러났다.",
+        "title": "금융, 에이전트가 창구가 된다",
+        "summary": "결제·심사에 이어 상품 선택까지 넘어가며 앱 중심 락인이 흔들린다.",
         "articles": [
           {
             "date": "2026-09-11",
@@ -124720,6 +124954,21 @@
             "date": "2026-09-11",
             "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
             "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+            "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+            "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-kb금융-차기-회장-오늘-오후-결정-.md",
+            "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전"
           }
         ]
       },
