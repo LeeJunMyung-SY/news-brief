@@ -1,31 +1,37 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-11T16:21:25.377629+09:00",
-  "run_id": "run_20260911_162125",
-  "summary_ko": "위임이 수익으로 이어지자 통제·용량·자본이 동시에 제약으로 붙은 주다.",
+  "updated_at": "2026-09-12T08:24:30.948338+09:00",
+  "run_id": "run_20260912_082430",
+  "summary_ko": "위임이 금융·공공까지 퍼지자 통제·용량·자본이 동시에 조여든 주다.",
   "issues": [
     {
-      "title": "금융, 응대에서 판단·결제까지",
-      "body_ko": "결제·심사·상품 선택에 이어 범용 AI가 금융 실무에 직접 들어오며 채널과 인증 책임이 쟁점이 됐다.",
+      "title": "금융, 응대에서 판단·결제·운용까지",
+      "body_ko": "적용이 결제와 심사를 지나 기금 운용 판단까지 내려가며 규제 완화가 뒤따랐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_agents",
+        "ai_policy"
       ],
       "articles": [
         {
-          "date": "2026-09-08",
-          "file": "20260908-타행-우량차주-발굴부터-다르다-국민은.md",
-          "title": "타행 우량차주 발굴부터 다르다…국민은행, 소매여신 전략 핵심은"
+          "date": "2026-09-11",
+          "file": "20260911-오픈ai-금융판-챗gpt로-월가-업무.md",
+          "title": "오픈AI, 금융판 챗GPT로 월가 업무 자동화 나선다"
         },
         {
-          "date": "2026-09-09",
-          "file": "20260909-visa-and-revolut-car.md",
-          "title": "Visa and Revolut carry out passkey-based agentic payment in France"
+          "date": "2026-09-11",
+          "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+          "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
         },
         {
-          "date": "2026-09-09",
-          "file": "20260909-신한카드-챗봇-한계-넘는-ai-에이전.md",
-          "title": "신한카드, 챗봇 한계 넘는 'AI 에이전트' 채비…커머스 선점 전략은"
+          "date": "2026-09-11",
+          "file": "20260911-blik-records-first-a.md",
+          "title": "Blik records first agentic payment transaction"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-gpu만으론-ai-주권-못-지킨다-국.md",
+          "title": "“GPU만으론 AI 주권 못 지킨다”…국회서 AI 결제 인프라 입법 촉구"
         },
         {
           "date": "2026-09-10",
@@ -38,94 +44,48 @@
           "title": "신한·하나카드, AI결제 인프라 개발…SKT '모두의 AI' 컨소시엄"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-단독-토스증권-skt-에이닷-출신-방.md",
-          "title": "[단독] 토스증권,‘SKT 에이닷 출신’ 방민혁 신임 데이터기술총괄 선임…AI·데이터 승부수"
+          "date": "2026-09-09",
+          "file": "20260909-visa-and-revolut-car.md",
+          "title": "Visa and Revolut carry out passkey-based agentic payment in France"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-kb금융-글로벌-자본시장-과녁-노린다.md",
-          "title": "KB금융 글로벌 자본시장 과녁 노린다…블룸버그와 동행 경로는"
+          "date": "2026-09-08",
+          "file": "20260908-타행-우량차주-발굴부터-다르다-국민은.md",
+          "title": "타행 우량차주 발굴부터 다르다…국민은행, 소매여신 전략 핵심은"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-blik-records-first-a.md",
-          "title": "Blik records first agentic payment transaction"
+          "date": "2026-09-12",
+          "file": "20260912-금융위-ai-에이전트-결제-신용정보법.md",
+          "title": "금융위 “AI 에이전트 결제, 신용정보법·망분리 규제 단계적 완화”"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-arva-ai-opens-resear.md",
-          "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud"
+          "date": "2026-09-12",
+          "file": "20260912-국민연금도-ai가-굴린다-lg-ai연.md",
+          "title": "\"국민연금도 AI가 굴린다\"...LG AI연구원, 국민연금공단과 특화 모델 개발 협력"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
-          "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
+          "date": "2026-09-12",
+          "file": "20260912-농협상호금융-ai-돌봄인형-활용-대화.md",
+          "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
-          "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
-          "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-오픈ai-금융판-챗gpt로-월가-업무.md",
-          "title": "오픈AI, 금융판 챗GPT로 월가 업무 자동화 나선다"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-gpu만으론-ai-주권-못-지킨다-국.md",
-          "title": "“GPU만으론 AI 주권 못 지킨다”…국회서 AI 결제 인프라 입법 촉구"
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673445",
+          "title": ""
         }
       ]
     },
     {
-      "title": "사고가 통제 의무를 앞당긴다",
-      "body_ko": "사고 공개가 잇따르며 통제 입증이 도입 전제가 되고 챗봇 고지 등 이용자 보호 입법이 속도를 낸다.",
+      "title": "안전 경고가 통제 의무를 앞당긴다",
+      "body_ko": "사고 공개와 내부 경고가 겹치며 자율 속도조절과 연방 입법이 동시에 붙었다.",
       "topics": [
         "ai_policy",
         "ai_agents"
       ],
       "articles": [
         {
-          "date": "2026-09-09",
-          "file": "20260909-when-an-auditor-asks.md",
-          "title": "When an auditor asks what your AI did, a log is not the answer"
-        },
-        {
-          "date": "2026-09-09",
-          "file": "20260909-금감원-금융권-정보보호임원-간담회-i.md",
-          "title": "금감원, 금융권 정보보호임원 간담회…\"IT 보안 강화방안 마련\""
-        },
-        {
-          "date": "2026-09-08",
-          "file": "20260908-eu-형식적-보고는-안-된다-오픈ai.md",
-          "title": "EU \"형식적 보고는 안 된다\"...오픈AI, '독일 웹사이트 장악' 사고 보고서 제출"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
-          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-오픈ai-국가-차원-ai-규제안-의무.md",
-          "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회"
-        },
-        {
           "date": "2026-09-11",
           "file": "20260911-오픈ai-불량-에이전트-외부-사이트-.md",
           "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-anthropic-details-di.md",
-          "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
         },
         {
           "date": "2026-09-11",
@@ -138,121 +98,118 @@
           "title": "캘리포니아, 16세 미만 소셜미디어 중독 기능·AI 챗봇 규제법 서명"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-앤트로픽-4개월-협상-끝-eu에-미소.md",
-          "title": "앤트로픽, 4개월 협상 끝 EU에 '미소스 5' 접근 권한 제공"
+          "date": "2026-09-10",
+          "file": "20260910-오픈ai-국가-차원-ai-규제안-의무.md",
+          "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회"
+        },
+        {
+          "date": "2026-09-10",
+          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
+          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-when-an-auditor-asks.md",
+          "title": "When an auditor asks what your AI did, a log is not the answer"
+        },
+        {
+          "date": "2026-09-08",
+          "file": "20260908-eu-형식적-보고는-안-된다-오픈ai.md",
+          "title": "EU \"형식적 보고는 안 된다\"...오픈AI, '독일 웹사이트 장악' 사고 보고서 제출"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-미국-정치권-ai-규제-법안-발의-박.md",
+          "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+          "title": ""
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-openai-floats-a-shar.md",
+          "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-how-hackers-used-cla.md",
+          "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260911164111",
+          "title": ""
         }
       ]
     },
     {
-      "title": "용량이 도입과 매출을 가른다",
-      "body_ko": "확보 가능한 연산량이 도입 속도와 매출을 정하는 가운데 가격은 사용량 과금으로 옮겨간다.",
+      "title": "에이전트 실행 환경이 팔린다",
+      "body_ko": "위임 실행과 사내 데이터 분석이 API·제품으로 묶이며 자체 구축의 타당성이 흔들린다.",
       "topics": [
+        "ai_agents",
         "llm_models",
-        "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
         {
+          "date": "2026-09-11",
+          "file": "20260911-80명이-에이전트-90개-sk스퀘어의.md",
+          "title": "80명이 에이전트 90개…SK스퀘어의 AI 실험"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-now-everyone-can-put.md",
+          "title": "Now everyone can put data to work"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+          "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
+        },
+        {
           "date": "2026-09-09",
-          "file": "20260909-토큰값-2-5배-비싼데-더-싸다-ai.md",
-          "title": "\"토큰값 2.5배 비싼데 더 싸다?\"…AI 가격 경쟁 기준이 뒤집혔다 [김주완의 글로벌 머니 X파일]"
+          "file": "20260909-메타-개인용-ai-에이전트-뮤즈-공개.md",
+          "title": "메타, 개인용 AI 에이전트 '뮤즈' 공개...실생활 자동화 시장 출사표"
         },
         {
           "date": "2026-09-08",
-          "file": "20260908-미스트랄-삼성전자-주도로-4조-600.md",
-          "title": "미스트랄, 삼성전자 주도로 4조 6000억원 유치…기업가치 32조원"
+          "file": "20260908-오픈ai-29일-데브데이서-인프라-구.md",
+          "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-gpt-6-astra-the-next.md",
-          "title": "GPT-6 Astra: The next generation in intelligence for work"
+          "date": "2026-09-12",
+          "file": "20260912-openai-s-new-agents-.md",
+          "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-보안만큼은-세계-최고로-lg-cns-.md",
-          "title": "“보안만큼은 세계 최고로”…LG CNS, 국산 AI로 글로벌 1위 도전"
+          "date": "2026-09-12",
+          "file": "20260912-오픈ai-챗gpt-워크에-기업-데이터.md",
+          "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-오픈ai-아스트라-수요-폭증에-유료-.md",
-          "title": "오픈AI, ‘아스트라’ 수요 폭증에 유료 신규 가입 일시 중단 검토"
+          "date": "2026-09-12",
+          "file": "20260912-오픈ai-gpt-라이브-1-api-출.md",
+          "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-오픈ai-프로-요금제-신규-가입-일시.md",
-          "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\""
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
-          "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-new-deepseek-model-v.md",
-          "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-ai는-지금-1달러에-정부-뚫은-오픈.md",
-          "title": "[AI는 지금] 1달러에 美정부 뚫은 오픈AI…100만명 확보하자 '사용량 과금' 전환, 왜"
+          "url": "https://www.hankyung.com/article/2026091196661",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라, 전력과 자본이 가른다",
-      "body_ko": "증설 목표가 GW 단위로 커지는 가운데 채권·상장 조달과 세제 공백이 투자 지속성을 시험한다.",
+      "title": "용량과 조달 비용이 증설을 가른다",
+      "body_ko": "증설 목표는 GW 단위로 커졌지만 차입 금리와 세제 공백이 지속성을 시험한다.",
       "topics": [
         "ai_compute_energy",
-        "ai_policy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
-          "date": "2026-09-09",
-          "file": "20260909-데이터센터-특구-지정-전력-인허가는-.md",
-          "title": "\"데이터센터 특구 지정·전력 인허가는\"...과기부, AIDC특별법 하위법령 논의 착수"
-        },
-        {
-          "date": "2026-09-08",
-          "file": "20260908-30조원-투입해-데이터센터-전력-공급.md",
-          "title": "30조원 투입해 美 데이터센터 전력 공급… '대미투자 1호' 국회 보고"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-google-to-invest-rec.md",
-          "title": "Google to invest record $15 billion in AI infrastructure in the 'Texas of Europe'"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-ai-데이터센터-전력-전쟁-올라탄-미.md",
-          "title": "AI 데이터센터 '전력 전쟁' 올라탄 미코…세계 1위 HRSG 기업 인수"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-hd현대-엔진-smr-미래사업에-1조.md",
-          "title": "HD현대重, '엔진·SMR' 미래사업에 1조원 투자"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-빅테크-ai-투자-올해가-정점-한은이.md",
-          "title": "\"빅테크 AI 투자 올해가 정점\"..한은이 경고한 3대 뇌관"
-        },
-        {
           "date": "2026-09-11",
-          "file": "20260911-powering-ai-is-an-ar.md",
-          "title": "Powering AI is an architecture problem"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-jensen-huang-explain.md",
-          "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
-          "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
+          "file": "20260911-ms-2032년까지-데이터센터-용량-.md",
+          "title": "MS, 2032년까지 데이터센터 용량 3배↑…AI·클라우드 수요 대응"
         },
         {
           "date": "2026-09-11",
@@ -261,8 +218,13 @@
         },
         {
           "date": "2026-09-11",
-          "file": "20260911-ms-2032년까지-데이터센터-용량-.md",
-          "title": "MS, 2032년까지 데이터센터 용량 3배↑…AI·클라우드 수요 대응"
+          "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+          "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
+          "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
         },
         {
           "date": "2026-09-11",
@@ -270,23 +232,66 @@
           "title": "스페이스X, 데이터센터 구축 방식 바꾼다…‘속도’보다 안정성에 무게"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215147",
+          "date": "2026-09-10",
+          "file": "20260910-빅테크-ai-투자-올해가-정점-한은이.md",
+          "title": "\"빅테크 AI 투자 올해가 정점\"..한은이 경고한 3대 뇌관"
+        },
+        {
+          "date": "2026-09-09",
+          "file": "20260909-데이터센터-특구-지정-전력-인허가는-.md",
+          "title": "\"데이터센터 특구 지정·전력 인허가는\"...과기부, AIDC특별법 하위법령 논의 착수"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-오라클-회사채-금리-8-육박-ai-열.md",
+          "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+          "title": ""
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
+          "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673407",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
           "title": ""
         }
       ]
     },
     {
-      "title": "피지컬 AI, 시연에서 현장으로",
-      "body_ko": "상장 심사 강화로 사업성 입증 요구가 커지고 대기업은 부품 투자와 투자처 재조정으로 선택과 집중에 나섰다.",
+      "title": "피지컬 AI, 데이터와 부품으로 갈린다",
+      "body_ko": "상장 심사가 사업성 입증을 요구하는 사이 경쟁은 학습 데이터와 핵심 부품으로 옮겨갔다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
       ],
       "articles": [
         {
-          "date": "2026-09-08",
-          "file": "20260908-삼성sds-삼성-생산라인-1000곳-.md",
-          "title": "삼성SDS, 삼성 생산라인 1000곳 RX 추진…“핵심은 로봇 오케스트레이션”"
+          "date": "2026-09-11",
+          "file": "20260911-중국-휴머노이드-로봇-ipo-규제-강.md",
+          "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-에이딘로보틱스-hd현대-삼성서-160.md",
+          "title": "에이딘로보틱스, HD현대·삼성서 160억원 투자 유치"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-maven-robotics-wants.md",
+          "title": "Maven Robotics wants to steal your robot deployment deal"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-재계-머니무브-포티투닷-늘리고-모셔널.md",
+          "title": "[재계 머니무브] 포티투닷 늘리고 모셔널 줄이고…기아 '미래 투자' 갈렸다"
         },
         {
           "date": "2026-09-10",
@@ -299,29 +304,22 @@
           "title": "크라우드웍스, 경남 창원에 '피지컬 AI 허브' 1호 거점 구축"
         },
         {
-          "date": "2026-09-10",
-          "file": "20260910-자율주행-힘주는-카카오모빌리티-특화-.md",
-          "title": "자율주행 힘주는 카카오모빌리티…'韓 특화 데이터' 앞세워 빅테크와 경쟁"
+          "date": "2026-09-08",
+          "file": "20260908-삼성sds-삼성-생산라인-1000곳-.md",
+          "title": "삼성SDS, 삼성 생산라인 1000곳 RX 추진…“핵심은 로봇 오케스트레이션”"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-중국-휴머노이드-로봇-ipo-규제-강.md",
-          "title": "중국, 휴머노이드 로봇 IPO 규제 강화...\"거품 빼고 기술력 입증하라\""
+          "date": "2026-09-12",
+          "file": "20260912-mecka-ai-nears-500m-.md",
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-maven-robotics-wants.md",
-          "title": "Maven Robotics wants to steal your robot deployment deal"
+          "url": "https://zdnet.co.kr/view/?no=20260911171236",
+          "title": ""
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-에이딘로보틱스-hd현대-삼성서-160.md",
-          "title": "에이딘로보틱스, HD현대·삼성서 160억원 투자 유치"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-재계-머니무브-포티투닷-늘리고-모셔널.md",
-          "title": "[재계 머니무브] 포티투닷 늘리고 모셔널 줄이고…기아 '미래 투자' 갈렸다"
+          "url": "https://www.yna.co.kr/view/AKR20260911140000053",
+          "title": ""
         }
       ]
     }

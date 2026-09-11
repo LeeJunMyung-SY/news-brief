@@ -1,0 +1,133 @@
+{
+  "date": "2026-09-12",
+  "updated_at": "2026-09-12T08:24:30.948338+09:00",
+  "run_id": "run_20260912_082430",
+  "summary_ko": "금융 AI가 규제와 공적자금까지 들어온 한편 안전 경고는 입법으로 옮겨갔다.",
+  "issues": [
+    {
+      "title": "금융 AI, 제도와 공적자금으로",
+      "summary_ko": "결제 규제 완화와 연기금 도입으로 금융 AI가 제도권 안쪽으로 들어섰다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-12",
+          "file": "20260912-금융위-ai-에이전트-결제-신용정보법.md",
+          "title": "금융위 “AI 에이전트 결제, 신용정보법·망분리 규제 단계적 완화”"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-국민연금도-ai가-굴린다-lg-ai연.md",
+          "title": "\"국민연금도 AI가 굴린다\"...LG AI연구원, 국민연금공단과 특화 모델 개발 협력"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-농협상호금융-ai-돌봄인형-활용-대화.md",
+          "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-paysera-lets-clients.md",
+          "title": "Paysera lets clients connect AI assistants to payments"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "멸종 경고가 입법으로",
+      "summary_ko": "내부 경고가 초당적 규제 법안과 자율 속도조절 논의로 곧바로 번졌다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-12",
+          "file": "20260912-미국-정치권-ai-규제-법안-발의-박.md",
+          "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+          "title": ""
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-openai-floats-a-shar.md",
+          "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
+          "title": ""
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-how-hackers-used-cla.md",
+          "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 실행 인프라가 상품",
+      "summary_ko": "에이전트 실행 환경과 사내 데이터 분석이 제품으로 팔리기 시작했다.",
+      "topics": [
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-12",
+          "file": "20260912-openai-s-new-agents-.md",
+          "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-오픈ai-챗gpt-워크에-기업-데이터.md",
+          "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-오픈ai-gpt-라이브-1-api-출.md",
+          "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026091196661",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 조달 비용이 재무 변수로",
+      "summary_ko": "차입 금리와 GPU 취득 규모가 증설 지속성의 시험대가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-12",
+          "file": "20260912-오라클-회사채-금리-8-육박-ai-열.md",
+          "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
+          "title": ""
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
+          "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673407",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
