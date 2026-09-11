@@ -1,12 +1,67 @@
 {
   "date": "2026-09-11",
-  "updated_at": "2026-09-11T12:25:03.551499+09:00",
-  "run_id": "run_20260911_122503",
-  "summary_ko": "에이전트가 수익과 고객 창구를 넘보자 통제·용량 부담도 커졌다.",
+  "updated_at": "2026-09-11T16:21:25.377629+09:00",
+  "run_id": "run_20260911_162125",
+  "summary_ko": "범용 AI가 금융 실무와 공공 과금까지 파고들며 통제·용량 부담도 커졌다.",
   "issues": [
     {
+      "title": "금융, 범용 AI가 실무를 직접 겨냥",
+      "summary_ko": "전용 제품과 에이전트 결제가 겹치며 채널과 책임 규칙이 먼저 흔들린다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-11",
+          "file": "20260911-blik-records-first-a.md",
+          "title": "Blik records first agentic payment transaction"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-arva-ai-opens-resear.md",
+          "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-savvy-wealth-raises-.md",
+          "title": "Savvy Wealth raises $100 million"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
+          "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
+          "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
+          "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-kb금융-차기-회장-오늘-오후-결정-.md",
+          "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-오픈ai-금융판-챗gpt로-월가-업무.md",
+          "title": "오픈AI, 금융판 챗GPT로 월가 업무 자동화 나선다"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-gpu만으론-ai-주권-못-지킨다-국.md",
+          "title": "“GPU만으론 AI 주권 못 지킨다”…국회서 AI 결제 인프라 입법 촉구"
+        }
+      ]
+    },
+    {
       "title": "에이전트 사고, 통제 입증 요구로",
-      "summary_ko": "사고 공개에 이용자 보호 입법까지 겹치며 통제 입증이 도입 조건이 됐다.",
+      "summary_ko": "사고 공개에 챗봇 고지 입법까지 겹치며 통제 입증이 도입 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -36,12 +91,22 @@
           "date": "2026-09-11",
           "file": "20260911-방미통위-ai-이용자-보호법-만든다.md",
           "title": "방미통위, 'AI 이용자 보호법' 만든다"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-캘리포니아-16세-미만-소셜미디어-중.md",
+          "title": "캘리포니아, 16세 미만 소셜미디어 중독 기능·AI 챗봇 규제법 서명"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-앤트로픽-4개월-협상-끝-eu에-미소.md",
+          "title": "앤트로픽, 4개월 협상 끝 EU에 '미소스 5' 접근 권한 제공"
         }
       ]
     },
     {
       "title": "연산 용량이 매출 한도로",
-      "summary_ko": "연산량이 매출 상한이 되며 증설 자금은 해외 채권, 세제 공백까지 떠안는다.",
+      "summary_ko": "증설 목표가 GW 단위로 커지며 자금·안정성 부담도 함께 불어난다.",
       "topics": [
         "llm_models",
         "ai_compute_energy",
@@ -82,15 +147,26 @@
           "date": "2026-09-11",
           "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
           "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-ms-2032년까지-데이터센터-용량-.md",
+          "title": "MS, 2032년까지 데이터센터 용량 3배↑…AI·클라우드 수요 대응"
+        },
+        {
+          "date": "2026-09-11",
+          "file": "20260911-스페이스x-데이터센터-구축-방식-바꾼.md",
+          "title": "스페이스X, 데이터센터 구축 방식 바꾼다…‘속도’보다 안정성에 무게"
         }
       ]
     },
     {
-      "title": "에이전트 과금 모델이 굳는다",
-      "summary_ko": "광고·기업도구·콘텐츠로 과금 경로가 구체화되며 가치가 재평가된다.",
+      "title": "AI 과금, 사용량 기준으로 굳는다",
+      "summary_ko": "무료 확산을 끝내고 사용량 과금과 상장으로 수익·자본 경로를 다진다.",
       "topics": [
+        "ai_industry",
         "ai_agents",
-        "ai_industry"
+        "llm_models"
       ],
       "articles": [
         {
@@ -117,51 +193,15 @@
           "date": "2026-09-11",
           "file": "20260911-80명이-에이전트-90개-sk스퀘어의.md",
           "title": "80명이 에이전트 90개…SK스퀘어의 AI 실험"
-        }
-      ]
-    },
-    {
-      "title": "금융, 에이전트가 창구가 된다",
-      "summary_ko": "결제·심사에 이어 상품 선택까지 넘어가며 앱 중심 락인이 흔들린다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-11",
-          "file": "20260911-blik-records-first-a.md",
-          "title": "Blik records first agentic payment transaction"
         },
         {
           "date": "2026-09-11",
-          "file": "20260911-arva-ai-opens-resear.md",
-          "title": "Arva AI opens Research Lab to banish human-in-the-loop for financial crime and fraud"
+          "file": "20260911-ai는-지금-1달러에-정부-뚫은-오픈.md",
+          "title": "[AI는 지금] 1달러에 美정부 뚫은 오픈AI…100만명 확보하자 '사용량 과금' 전환, 왜"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-savvy-wealth-raises-.md",
-          "title": "Savvy Wealth raises $100 million"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-단독-토스-얼굴-결제에-당했다-손님-.md",
-          "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-ai픽-ai-에이전트가-금융상품-고른.md",
-          "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
-          "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-kb금융-차기-회장-오늘-오후-결정-.md",
-          "title": "KB금융 차기 회장 오늘 오후 결정…양종희 연임 ‘대세론’ 속 3파전"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215147",
+          "title": ""
         }
       ]
     }
