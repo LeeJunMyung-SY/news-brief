@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-13",
+  "updated_at": "2026-09-13T08:17:15.889982+09:00",
+  "run_id": "run_20260913_081715",
+  "summary_ko": "속도 조절 합의와 자본·통제 인프라 확충이 맞물린 하루다.",
+  "issues": [
+    {
+      "title": "프론티어 감속이 업계 의제로",
+      "summary_ko": "사고가 쌓이자 선두 개발사가 스스로 속도 제한과 외부 감사를 꺼냈다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-13",
+          "file": "20260913-아모데이-첨단-모델-개발-속도-줄이자.md",
+          "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\""
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-openai-agents-launch.md",
+          "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "상장 자금이 컴퓨트로 되돌아간다",
+      "summary_ko": "모델사 자본 조달이 곧 칩·데이터센터 수요로 환류되는 구조가 굳었다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-13",
+          "file": "20260913-nvidia-wants-to-pour.md",
+          "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-openai-s-sam-altman-.md",
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-최태원-sk-회장-ai-데이터센터-사.md",
+          "title": "최태원 SK 회장, “AI 데이터센터 사업, 상당히 빠르게 진척”"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-trump-is-giving-data.md",
+          "title": "Trump is giving data centers a pass to pollute"
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 늘리기에서 묶기로",
+      "summary_ko": "난립한 에이전트를 한 계층에서 통제·조합하는 쪽으로 경쟁 축이 옮겨간다.",
+      "topics": [
+        "ai_agents",
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-13",
+          "file": "20260913-세일즈포스-에이전트-난립-잡는다-통합.md",
+          "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-사카나-에이전트-오케스트레이션-푸구-.md",
+          "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-gpt-6-astra-needs-le.md",
+          "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-google-s-new-ai-mode.md",
+          "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules"
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-12T16:18:40.310241+09:00",
-  "run_id": "run_20260912_161840",
-  "summary_ko": "위임이 금융·공공까지 퍼지자 통제·용량·자본이 동시에 조여든 주다.",
+  "updated_at": "2026-09-13T08:17:15.889982+09:00",
+  "run_id": "run_20260913_081715",
+  "summary_ko": "위임 확대가 속도 조절 요구와 자본·용량 경쟁을 함께 부른 주다.",
   "issues": [
     {
       "title": "금융, 응대에서 판단·결제·인사까지",
@@ -52,27 +52,27 @@
           "date": "2026-09-12",
           "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
           "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
-        },
-        {
-          "date": "2026-09-12",
-          "file": "20260912-making-alternative-d.md",
-          "title": "Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting"
         }
       ]
     },
     {
-      "title": "통제 입증이 도입 조건이 됐다",
-      "body_ko": "사고 공개와 검증 공백 경고가 입법과 사내 위험관리를 동시에 앞당겼다.",
+      "title": "통제 요구가 속도 조절로 번졌다",
+      "body_ko": "잇단 에이전트 사고 끝에 개발사가 스스로 감속과 외부 감사를 제안했다.",
       "topics": [
         "ai_policy",
         "ai_agents",
-        "ai_industry"
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-09-11",
           "file": "20260911-오픈ai-불량-에이전트-외부-사이트-.md",
           "title": "오픈AI '불량 에이전트', 외부 사이트 10여곳서 비밀 통신 흔적 추가 포착"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-openai-floats-a-shar.md",
+          "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
         },
         {
           "date": "2026-09-11",
@@ -85,11 +85,6 @@
           "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회"
         },
         {
-          "date": "2026-09-09",
-          "file": "20260909-when-an-auditor-asks.md",
-          "title": "When an auditor asks what your AI did, a log is not the answer"
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
           "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
@@ -100,25 +95,20 @@
           "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
         },
         {
-          "date": "2026-09-12",
-          "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
-          "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
+          "date": "2026-09-13",
+          "file": "20260913-아모데이-첨단-모델-개발-속도-줄이자.md",
+          "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\""
         },
         {
-          "date": "2026-09-12",
-          "file": "20260912-the-agent-incident-r.md",
-          "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures"
-        },
-        {
-          "date": "2026-09-12",
-          "file": "20260912-from-agent-traces-to.md",
-          "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents"
+          "date": "2026-09-13",
+          "file": "20260913-openai-agents-launch.md",
+          "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google"
         }
       ]
     },
     {
-      "title": "에이전트 실행 환경이 팔린다",
-      "body_ko": "실행 계층이 API로 상품화되며 접근 대가와 연동 신뢰성이 새 쟁점이 됐다.",
+      "title": "에이전트, 실행에서 통합 관리로",
+      "body_ko": "실행 계층이 상품화된 데 이어 전사 통제 계층이 조달 기준으로 부상했다.",
       "topics": [
         "ai_agents",
         "llm_models",
@@ -151,20 +141,20 @@
           "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입"
         },
         {
-          "date": "2026-09-12",
-          "file": "20260912-terms-txt-a-consent-.md",
-          "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access"
+          "date": "2026-09-13",
+          "file": "20260913-세일즈포스-에이전트-난립-잡는다-통합.md",
+          "title": "세일즈포스, '에이전트 난립' 잡는다...통합 관리 '트러스트 엔터프라이즈 AI 하네스' 공개"
         },
         {
-          "date": "2026-09-12",
-          "file": "20260912-what-a-random-draw-f.md",
-          "title": "What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead"
+          "date": "2026-09-13",
+          "file": "20260913-사카나-에이전트-오케스트레이션-푸구-.md",
+          "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다"
         }
       ]
     },
     {
-      "title": "용량과 조달 비용이 증설을 가른다",
-      "body_ko": "증설 목표는 커졌지만 차입 금리와 부품 품귀가 지속성을 시험한다.",
+      "title": "용량·자본 조달이 증설을 가른다",
+      "body_ko": "증설 목표는 커졌지만 차입 금리와 순환 투자 구조가 지속성을 시험한다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -175,11 +165,6 @@
           "date": "2026-09-11",
           "file": "20260911-ms-2032년까지-데이터센터-용량-.md",
           "title": "MS, 2032년까지 데이터센터 용량 3배↑…AI·클라우드 수요 대응"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
-          "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
         },
         {
           "date": "2026-09-11",
@@ -207,9 +192,14 @@
           "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]"
         },
         {
-          "date": "2026-09-12",
-          "file": "20260912-characterizing-job-p.md",
-          "title": "Characterizing Job Power Elasticity for Power-Flexible AI Training"
+          "date": "2026-09-13",
+          "file": "20260913-nvidia-wants-to-pour.md",
+          "title": "Nvidia wants to pour up to $10 billion into Anthropic's record-breaking IPO"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-최태원-sk-회장-ai-데이터센터-사.md",
+          "title": "최태원 SK 회장, “AI 데이터센터 사업, 상당히 빠르게 진척”"
         }
       ]
     },
@@ -250,10 +240,6 @@
           "date": "2026-09-12",
           "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
           "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673473",
-          "title": ""
         }
       ]
     }
