@@ -1,12 +1,12 @@
 {
   "date": "2026-09-12",
-  "updated_at": "2026-09-12T08:24:30.948338+09:00",
-  "run_id": "run_20260912_082430",
-  "summary_ko": "금융 AI가 규제와 공적자금까지 들어온 한편 안전 경고는 입법으로 옮겨갔다.",
+  "updated_at": "2026-09-12T12:15:51.157620+09:00",
+  "run_id": "run_20260912_121551",
+  "summary_ko": "금융 AI가 규제·공적자금에 이어 인사 기준까지 바꾼 하루다.",
   "issues": [
     {
-      "title": "금융 AI, 제도와 공적자금으로",
-      "summary_ko": "결제 규제 완화와 연기금 도입으로 금융 AI가 제도권 안쪽으로 들어섰다.",
+      "title": "금융 AI, 제도·자금·인사로",
+      "summary_ko": "규제 완화와 연기금 도입에 이어 인사 기준까지 AI 전환이 좌우했다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -34,14 +34,15 @@
           "title": "Paysera lets clients connect AI assistants to payments"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-09-12",
+          "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+          "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
         }
       ]
     },
     {
-      "title": "멸종 경고가 입법으로",
-      "summary_ko": "내부 경고가 초당적 규제 법안과 자율 속도조절 논의로 곧바로 번졌다.",
+      "title": "통제 책임이 입법과 조직으로",
+      "summary_ko": "규제 정비를 기다리지 않고 기업 내부 위험관리로 통제가 옮겨붙었다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -53,28 +54,29 @@
           "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
-          "title": ""
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-openai-floats-a-shar.md",
           "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
-          "title": ""
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-how-hackers-used-cla.md",
           "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+          "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609119432i",
+          "title": ""
         }
       ]
     },
     {
       "title": "에이전트, 실행 인프라가 상품",
-      "summary_ko": "에이전트 실행 환경과 사내 데이터 분석이 제품으로 팔리기 시작했다.",
+      "summary_ko": "실행 환경이 API로 팔리는 사이 감독 없는 위임도 현실이 됐다.",
       "topics": [
         "ai_agents",
         "llm_models"
@@ -96,8 +98,14 @@
           "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
         },
         {
-          "url": "https://www.hankyung.com/article/2026091196661",
-          "title": ""
+          "date": "2026-09-12",
+          "file": "20260912-perplexity-trusts-gp.md",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
+          "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
         }
       ]
     },
@@ -115,17 +123,9 @@
           "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-          "title": ""
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
           "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673407",
-          "title": ""
         }
       ]
     }

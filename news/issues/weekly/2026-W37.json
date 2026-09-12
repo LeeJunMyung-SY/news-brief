@@ -1,12 +1,12 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-12T08:24:30.948338+09:00",
-  "run_id": "run_20260912_082430",
+  "updated_at": "2026-09-12T12:15:51.157620+09:00",
+  "run_id": "run_20260912_121551",
   "summary_ko": "위임이 금융·공공까지 퍼지자 통제·용량·자본이 동시에 조여든 주다.",
   "issues": [
     {
-      "title": "금융, 응대에서 판단·결제·운용까지",
-      "body_ko": "적용이 결제와 심사를 지나 기금 운용 판단까지 내려가며 규제 완화가 뒤따랐다.",
+      "title": "금융, 응대에서 판단·결제·인사까지",
+      "body_ko": "적용이 결제와 기금 운용 판단까지 내려가자 규제 완화와 수장 교체가 뒤따랐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -27,11 +27,6 @@
           "date": "2026-09-11",
           "file": "20260911-blik-records-first-a.md",
           "title": "Blik records first agentic payment transaction"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-gpu만으론-ai-주권-못-지킨다-국.md",
-          "title": "“GPU만으론 AI 주권 못 지킨다”…국회서 AI 결제 인프라 입법 촉구"
         },
         {
           "date": "2026-09-10",
@@ -69,17 +64,19 @@
           "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673445",
-          "title": ""
+          "date": "2026-09-12",
+          "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+          "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
         }
       ]
     },
     {
       "title": "안전 경고가 통제 의무를 앞당긴다",
-      "body_ko": "사고 공개와 내부 경고가 겹치며 자율 속도조절과 연방 입법이 동시에 붙었다.",
+      "body_ko": "사고 공개와 내부 경고가 입법을 당기고 기업 위험관리 조직까지 재편시켰다.",
       "topics": [
         "ai_policy",
-        "ai_agents"
+        "ai_agents",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -123,10 +120,6 @@
           "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
-          "title": ""
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-openai-floats-a-shar.md",
           "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
@@ -137,14 +130,15 @@
           "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260911164111",
-          "title": ""
+          "date": "2026-09-12",
+          "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+          "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
         }
       ]
     },
     {
       "title": "에이전트 실행 환경이 팔린다",
-      "body_ko": "위임 실행과 사내 데이터 분석이 API·제품으로 묶이며 자체 구축의 타당성이 흔들린다.",
+      "body_ko": "실행 계층이 API로 상품화되며 자체 구축과 감독 범위를 다시 정해야 한다.",
       "topics": [
         "ai_agents",
         "llm_models",
@@ -192,8 +186,14 @@
           "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
         },
         {
-          "url": "https://www.hankyung.com/article/2026091196661",
-          "title": ""
+          "date": "2026-09-12",
+          "file": "20260912-perplexity-trusts-gp.md",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
+          "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
         }
       ]
     },
@@ -227,11 +227,6 @@
           "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-스페이스x-데이터센터-구축-방식-바꾼.md",
-          "title": "스페이스X, 데이터센터 구축 방식 바꾼다…‘속도’보다 안정성에 무게"
-        },
-        {
           "date": "2026-09-10",
           "file": "20260910-빅테크-ai-투자-올해가-정점-한은이.md",
           "title": "\"빅테크 AI 투자 올해가 정점\"..한은이 경고한 3대 뇌관"
@@ -247,27 +242,15 @@
           "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-          "title": ""
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
           "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673407",
-          "title": ""
-        },
-        {
-          "url": "https://www.cnbc.com/2026/09/11/dell-stock-rbc-initiation.html",
-          "title": ""
         }
       ]
     },
     {
       "title": "피지컬 AI, 데이터와 부품으로 갈린다",
-      "body_ko": "상장 심사가 사업성 입증을 요구하는 사이 경쟁은 학습 데이터와 핵심 부품으로 옮겨갔다.",
+      "body_ko": "상장 심사가 사업성 입증을 요구하는 사이 경쟁은 학습 데이터와 공정 단위 적용으로 옮겨갔다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -289,16 +272,6 @@
           "title": "Maven Robotics wants to steal your robot deployment deal"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-재계-머니무브-포티투닷-늘리고-모셔널.md",
-          "title": "[재계 머니무브] 포티투닷 늘리고 모셔널 줄이고…기아 '미래 투자' 갈렸다"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-재계-머니무브-현대차-아틀라스-2만5.md",
-          "title": "[재계 머니무브] 현대차, 아틀라스 2만5000대 내부 수요…원가 승부"
-        },
-        {
           "date": "2026-09-10",
           "file": "20260910-크라우드웍스-경남-창원에-피지컬-ai.md",
           "title": "크라우드웍스, 경남 창원에 '피지컬 AI 허브' 1호 거점 구축"
@@ -314,11 +287,7 @@
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260911171236",
-          "title": ""
-        },
-        {
-          "url": "https://www.yna.co.kr/view/AKR20260911140000053",
+          "url": "https://www.hankyung.com/article/202609120151i",
           "title": ""
         }
       ]

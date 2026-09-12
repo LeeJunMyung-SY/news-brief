@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-11T23:24:37+00:00",
+  "generated_at": "2026-09-12T03:15:58+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 918,
+      "count": 919,
       "latest_date": "2026-09-12"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1065,
+      "count": 1067,
       "latest_date": "2026-09-12"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1105,
+      "count": 1106,
       "latest_date": "2026-09-12"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2591,
+      "count": 2594,
       "latest_date": "2026-09-12"
     },
     {
@@ -47,7 +47,7 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 607,
+      "count": 608,
       "latest_date": "2026-09-12"
     },
     {
@@ -177,6 +177,21 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-perplexity-trusts-gp.md",
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#roi-case",
+          "#autonomy"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-농협상호금융-ai-돌봄인형-활용-대화.md",
         "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영",
         "importance": 7,
@@ -203,6 +218,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215145"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
+        "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#citizen-developer",
+          "#vibe-coding",
+          "#org-change"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000288"
       },
       {
         "date": "2026-09-11",
@@ -15673,6 +15703,21 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-perplexity-trusts-gp.md",
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#roi-case",
+          "#autonomy"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-오픈ai-gpt-라이브-1-api-출.md",
         "title": "오픈AI, 'GPT-라이브-1' API 출시...'실시간 대화 에이전트 구현'",
         "importance": 7,
@@ -28946,6 +28991,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/110885/paysera-lets-clients-connect-ai-assistants-to-payments?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+        "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#governance",
+          "#risk-management",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000235"
       },
       {
         "date": "2026-09-12",
@@ -44973,6 +45033,36 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-perplexity-trusts-gp.md",
+        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#roi-case",
+          "#autonomy"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+        "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#governance",
+          "#risk-management",
+          "#enterprise-ai",
+          "#security"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000235"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-미국-정치권-ai-규제-법안-발의-박.md",
         "title": "미국 정치권, AI 규제 법안 발의 박차...'AI 개발자도 인류 멸종 믿어'",
         "importance": 7,
@@ -45026,6 +45116,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
+        "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#public-sector",
+          "#citizen-developer",
+          "#vibe-coding",
+          "#org-change"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000288"
       },
       {
         "date": "2026-09-11",
@@ -99885,6 +99990,21 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+        "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#banking",
+          "#finance",
+          "#digital-transformation",
+          "#leadership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260912000004"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-paysera-lets-clients.md",
         "title": "Paysera lets clients connect AI assistants to payments",
         "importance": 7,
@@ -115032,8 +115152,8 @@
     "금융회사 AI": [
       {
         "date": "2026-09-12",
-        "title": "금융 AI, 제도와 공적자금으로",
-        "summary": "결제 규제 완화와 연기금 도입으로 금융 AI가 제도권 안쪽으로 들어섰다.",
+        "title": "금융 AI, 제도·자금·인사로",
+        "summary": "규제 완화와 연기금 도입에 이어 인사 기준까지 AI 전환이 좌우했다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -115056,8 +115176,9 @@
             "title": "Paysera lets clients connect AI assistants to payments"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-09-12",
+            "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+            "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
           }
         ]
       },
@@ -117313,8 +117434,8 @@
     "ai_policy": [
       {
         "date": "2026-09-12",
-        "title": "금융 AI, 제도와 공적자금으로",
-        "summary": "결제 규제 완화와 연기금 도입으로 금융 AI가 제도권 안쪽으로 들어섰다.",
+        "title": "금융 AI, 제도·자금·인사로",
+        "summary": "규제 완화와 연기금 도입에 이어 인사 기준까지 AI 전환이 좌우했다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -117337,15 +117458,16 @@
             "title": "Paysera lets clients connect AI assistants to payments"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-09-12",
+            "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+            "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
           }
         ]
       },
       {
         "date": "2026-09-12",
-        "title": "멸종 경고가 입법으로",
-        "summary": "내부 경고가 초당적 규제 법안과 자율 속도조절 논의로 곧바로 번졌다.",
+        "title": "통제 책임이 입법과 조직으로",
+        "summary": "규제 정비를 기다리지 않고 기업 내부 위험관리로 통제가 옮겨붙었다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -117353,22 +117475,23 @@
             "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
-            "title": ""
-          },
-          {
             "date": "2026-09-12",
             "file": "20260912-openai-floats-a-shar.md",
             "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
           },
           {
-            "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
-            "title": ""
-          },
-          {
             "date": "2026-09-12",
             "file": "20260912-how-hackers-used-cla.md",
             "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+            "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
+          },
+          {
+            "url": "https://www.hankyung.com/article/202609119432i",
+            "title": ""
           }
         ]
       },
@@ -119738,8 +119861,8 @@
     "ai_agents": [
       {
         "date": "2026-09-12",
-        "title": "금융 AI, 제도와 공적자금으로",
-        "summary": "결제 규제 완화와 연기금 도입으로 금융 AI가 제도권 안쪽으로 들어섰다.",
+        "title": "금융 AI, 제도·자금·인사로",
+        "summary": "규제 완화와 연기금 도입에 이어 인사 기준까지 AI 전환이 좌우했다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -119762,15 +119885,16 @@
             "title": "Paysera lets clients connect AI assistants to payments"
           },
           {
-            "url": "https://www.finextra.com/newsarticle/48386/72-of-us-consumers-have-used-an-ai-assistant--visa-trust-index?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "date": "2026-09-12",
+            "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+            "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
           }
         ]
       },
       {
         "date": "2026-09-12",
         "title": "에이전트, 실행 인프라가 상품",
-        "summary": "에이전트 실행 환경과 사내 데이터 분석이 제품으로 팔리기 시작했다.",
+        "summary": "실행 환경이 API로 팔리는 사이 감독 없는 위임도 현실이 됐다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -119788,8 +119912,14 @@
             "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
           },
           {
-            "url": "https://www.hankyung.com/article/2026091196661",
-            "title": ""
+            "date": "2026-09-12",
+            "file": "20260912-perplexity-trusts-gp.md",
+            "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
+            "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
           }
         ]
       },
@@ -121705,8 +121835,8 @@
     "ai_industry": [
       {
         "date": "2026-09-12",
-        "title": "멸종 경고가 입법으로",
-        "summary": "내부 경고가 초당적 규제 법안과 자율 속도조절 논의로 곧바로 번졌다.",
+        "title": "통제 책임이 입법과 조직으로",
+        "summary": "규제 정비를 기다리지 않고 기업 내부 위험관리로 통제가 옮겨붙었다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -121714,22 +121844,23 @@
             "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
-            "title": ""
-          },
-          {
             "date": "2026-09-12",
             "file": "20260912-openai-floats-a-shar.md",
             "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
           },
           {
-            "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
-            "title": ""
-          },
-          {
             "date": "2026-09-12",
             "file": "20260912-how-hackers-used-cla.md",
             "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+            "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
+          },
+          {
+            "url": "https://www.hankyung.com/article/202609119432i",
+            "title": ""
           }
         ]
       },
@@ -121744,17 +121875,9 @@
             "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]"
           },
           {
-            "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-            "title": ""
-          },
-          {
             "date": "2026-09-12",
             "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
             "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=673407",
-            "title": ""
           }
         ]
       },
@@ -125330,7 +125453,7 @@
       {
         "date": "2026-09-12",
         "title": "에이전트, 실행 인프라가 상품",
-        "summary": "에이전트 실행 환경과 사내 데이터 분석이 제품으로 팔리기 시작했다.",
+        "summary": "실행 환경이 API로 팔리는 사이 감독 없는 위임도 현실이 됐다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -125348,8 +125471,14 @@
             "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
           },
           {
-            "url": "https://www.hankyung.com/article/2026091196661",
-            "title": ""
+            "date": "2026-09-12",
+            "file": "20260912-perplexity-trusts-gp.md",
+            "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
+            "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
           }
         ]
       },
@@ -126771,17 +126900,9 @@
             "title": "오라클 회사채 금리 8% 육박…AI 열풍 뒤흔드는 '자금조달 경고등' [김주완의 글로벌머니 X파일]"
           },
           {
-            "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
-            "title": ""
-          },
-          {
             "date": "2026-09-12",
             "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
             "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=673407",
-            "title": ""
           }
         ]
       },
