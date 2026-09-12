@@ -1,7 +1,7 @@
 {
   "week": "2026-W37",
-  "updated_at": "2026-09-12T12:15:51.157620+09:00",
-  "run_id": "run_20260912_121551",
+  "updated_at": "2026-09-12T16:18:40.310241+09:00",
+  "run_id": "run_20260912_161840",
   "summary_ko": "위임이 금융·공공까지 퍼지자 통제·용량·자본이 동시에 조여든 주다.",
   "issues": [
     {
@@ -24,11 +24,6 @@
           "title": "[AI픽] AI 에이전트가 금융상품 고른다…'앱 락인' 경쟁 흔들"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-blik-records-first-a.md",
-          "title": "Blik records first agentic payment transaction"
-        },
-        {
           "date": "2026-09-10",
           "file": "20260910-커넥셔너리-신한카드와-금융-의사결정-.md",
           "title": "커넥셔너리, 신한카드와 '금융 의사결정 AI 엔진' 개발"
@@ -44,11 +39,6 @@
           "title": "Visa and Revolut carry out passkey-based agentic payment in France"
         },
         {
-          "date": "2026-09-08",
-          "file": "20260908-타행-우량차주-발굴부터-다르다-국민은.md",
-          "title": "타행 우량차주 발굴부터 다르다…국민은행, 소매여신 전략 핵심은"
-        },
-        {
           "date": "2026-09-12",
           "file": "20260912-금융위-ai-에이전트-결제-신용정보법.md",
           "title": "금융위 “AI 에이전트 결제, 신용정보법·망분리 규제 단계적 완화”"
@@ -60,19 +50,19 @@
         },
         {
           "date": "2026-09-12",
-          "file": "20260912-농협상호금융-ai-돌봄인형-활용-대화.md",
-          "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영"
+          "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
+          "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
         },
         {
           "date": "2026-09-12",
-          "file": "20260912-5-8조-역대-최대-실적-깬-kb금융.md",
-          "title": "'5.8조 역대 최대 실적' 깬 KB금융의 세대교체…이재근號 지배구조·체질 개선 방점"
+          "file": "20260912-making-alternative-d.md",
+          "title": "Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting"
         }
       ]
     },
     {
-      "title": "안전 경고가 통제 의무를 앞당긴다",
-      "body_ko": "사고 공개와 내부 경고가 입법을 당기고 기업 위험관리 조직까지 재편시켰다.",
+      "title": "통제 입증이 도입 조건이 됐다",
+      "body_ko": "사고 공개와 검증 공백 경고가 입법과 사내 위험관리를 동시에 앞당겼다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -90,19 +80,9 @@
           "title": "방미통위, 'AI 이용자 보호법' 만든다"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-캘리포니아-16세-미만-소셜미디어-중.md",
-          "title": "캘리포니아, 16세 미만 소셜미디어 중독 기능·AI 챗봇 규제법 서명"
-        },
-        {
           "date": "2026-09-10",
           "file": "20260910-오픈ai-국가-차원-ai-규제안-의무.md",
           "title": "오픈AI, 국가 차원 AI 규제안 의무화 촉구…캘리포니아주 법안 지지로 입장 선회"
-        },
-        {
-          "date": "2026-09-10",
-          "file": "20260910-nsa-cisa-fbi-중국-ai-6.md",
-          "title": "美 NSA·CISA·FBI, 중국 AI 6개사 '지식 증류' 경보…\"수십억 토큰 빼갔다\""
         },
         {
           "date": "2026-09-09",
@@ -110,19 +90,9 @@
           "title": "When an auditor asks what your AI did, a log is not the answer"
         },
         {
-          "date": "2026-09-08",
-          "file": "20260908-eu-형식적-보고는-안-된다-오픈ai.md",
-          "title": "EU \"형식적 보고는 안 된다\"...오픈AI, '독일 웹사이트 장악' 사고 보고서 제출"
-        },
-        {
           "date": "2026-09-12",
-          "file": "20260912-미국-정치권-ai-규제-법안-발의-박.md",
-          "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
-        },
-        {
-          "date": "2026-09-12",
-          "file": "20260912-openai-floats-a-shar.md",
-          "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
+          "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+          "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
         },
         {
           "date": "2026-09-12",
@@ -131,14 +101,24 @@
         },
         {
           "date": "2026-09-12",
-          "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
-          "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
+          "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+          "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-the-agent-incident-r.md",
+          "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-from-agent-traces-to.md",
+          "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents"
         }
       ]
     },
     {
       "title": "에이전트 실행 환경이 팔린다",
-      "body_ko": "실행 계층이 API로 상품화되며 자체 구축과 감독 범위를 다시 정해야 한다.",
+      "body_ko": "실행 계층이 API로 상품화되며 접근 대가와 연동 신뢰성이 새 쟁점이 됐다.",
       "topics": [
         "ai_agents",
         "llm_models",
@@ -152,11 +132,6 @@
         },
         {
           "date": "2026-09-11",
-          "file": "20260911-now-everyone-can-put.md",
-          "title": "Now everyone can put data to work"
-        },
-        {
-          "date": "2026-09-11",
           "file": "20260911-카카오툴즈-에-다이소몰-신한카드-등-.md",
           "title": "'카카오툴즈’에 다이소몰·신한카드 등 추가 연동...\"에이전트 생태계 확대\""
         },
@@ -164,11 +139,6 @@
           "date": "2026-09-09",
           "file": "20260909-메타-개인용-ai-에이전트-뮤즈-공개.md",
           "title": "메타, 개인용 AI 에이전트 '뮤즈' 공개...실생활 자동화 시장 출사표"
-        },
-        {
-          "date": "2026-09-08",
-          "file": "20260908-오픈ai-29일-데브데이서-인프라-구.md",
-          "title": "오픈AI, 29일 데브데이서 인프라 구축 없는 '관리형 에이전트' 공개 유력"
         },
         {
           "date": "2026-09-12",
@@ -182,24 +152,19 @@
         },
         {
           "date": "2026-09-12",
-          "file": "20260912-오픈ai-gpt-라이브-1-api-출.md",
-          "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
+          "file": "20260912-terms-txt-a-consent-.md",
+          "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access"
         },
         {
           "date": "2026-09-12",
-          "file": "20260912-perplexity-trusts-gp.md",
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
-        },
-        {
-          "date": "2026-09-12",
-          "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
-          "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
+          "file": "20260912-what-a-random-draw-f.md",
+          "title": "What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead"
         }
       ]
     },
     {
       "title": "용량과 조달 비용이 증설을 가른다",
-      "body_ko": "증설 목표는 GW 단위로 커졌지만 차입 금리와 세제 공백이 지속성을 시험한다.",
+      "body_ko": "증설 목표는 커졌지만 차입 금리와 부품 품귀가 지속성을 시험한다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -222,19 +187,9 @@
           "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
         },
         {
-          "date": "2026-09-11",
-          "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
-          "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
-        },
-        {
           "date": "2026-09-10",
           "file": "20260910-빅테크-ai-투자-올해가-정점-한은이.md",
           "title": "\"빅테크 AI 투자 올해가 정점\"..한은이 경고한 3대 뇌관"
-        },
-        {
-          "date": "2026-09-09",
-          "file": "20260909-데이터센터-특구-지정-전력-인허가는-.md",
-          "title": "\"데이터센터 특구 지정·전력 인허가는\"...과기부, AIDC특별법 하위법령 논의 착수"
         },
         {
           "date": "2026-09-12",
@@ -245,12 +200,22 @@
           "date": "2026-09-12",
           "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
           "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-구형-반도체라고-무시했는데-주문-2배.md",
+          "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]"
+        },
+        {
+          "date": "2026-09-12",
+          "file": "20260912-characterizing-job-p.md",
+          "title": "Characterizing Job Power Elasticity for Power-Flexible AI Training"
         }
       ]
     },
     {
-      "title": "피지컬 AI, 데이터와 부품으로 갈린다",
-      "body_ko": "상장 심사가 사업성 입증을 요구하는 사이 경쟁은 학습 데이터와 공정 단위 적용으로 옮겨갔다.",
+      "title": "피지컬 AI, 검증과 데이터가 관문",
+      "body_ko": "사업성 입증 요구에 더해 배치 전 검증 책임까지 도입 전제로 붙었다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -265,11 +230,6 @@
           "date": "2026-09-11",
           "file": "20260911-에이딘로보틱스-hd현대-삼성서-160.md",
           "title": "에이딘로보틱스, HD현대·삼성서 160억원 투자 유치"
-        },
-        {
-          "date": "2026-09-11",
-          "file": "20260911-maven-robotics-wants.md",
-          "title": "Maven Robotics wants to steal your robot deployment deal"
         },
         {
           "date": "2026-09-10",
@@ -287,7 +247,12 @@
           "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
         },
         {
-          "url": "https://www.hankyung.com/article/202609120151i",
+          "date": "2026-09-12",
+          "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+          "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673473",
           "title": ""
         }
       ]

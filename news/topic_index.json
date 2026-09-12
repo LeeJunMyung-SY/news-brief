@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T03:15:58+00:00",
+  "generated_at": "2026-09-12T07:18:47+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,49 +12,49 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1067,
+      "count": 1073,
       "latest_date": "2026-09-12"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1106,
+      "count": 1111,
       "latest_date": "2026-09-12"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2594,
+      "count": 2601,
       "latest_date": "2026-09-12"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 431,
+      "count": 432,
       "latest_date": "2026-09-12"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 764,
+      "count": 767,
       "latest_date": "2026-09-12"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 608,
+      "count": 613,
       "latest_date": "2026-09-12"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 421,
+      "count": 422,
       "latest_date": "2026-09-12"
     },
     {
@@ -192,6 +192,35 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-terms-txt-a-consent-.md",
+        "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#monetization",
+          "#web-protocol",
+          "#regulation",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11152"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-what-a-random-draw-f.md",
+        "title": "What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#due-diligence",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.10962"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-농협상호금융-ai-돌봄인형-활용-대화.md",
         "title": "농협상호금융, 'AI 돌봄인형' 활용 대화형 금융서비스 시범운영",
         "importance": 7,
@@ -218,6 +247,64 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215145"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-from-agent-traces-to.md",
+        "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+        "importance": 6,
+        "tags": [
+          "#audit",
+          "#observability",
+          "#agent-framework",
+          "#governance",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2606.04990"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-grounding-agent-memo.md",
+        "title": "Grounding Agent Memory: Environment-Probing Curation for Enterprise Agents",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#memory",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11060"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-no-box-vulnerability.md",
+        "title": "No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers",
+        "importance": 6,
+        "tags": [
+          "#security",
+          "#prompt-injection",
+          "#mcp",
+          "#due-diligence",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.10854"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-the-agent-incident-r.md",
+        "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+        "importance": 6,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#risk-management",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11030"
       },
       {
         "date": "2026-09-12",
@@ -28994,6 +29081,21 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-terms-txt-a-consent-.md",
+        "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#monetization",
+          "#web-protocol",
+          "#regulation",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11152"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
         "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로",
         "importance": 7,
@@ -29009,6 +29111,21 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+        "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#risk-management",
+          "#simulation",
+          "#liability"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000245"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-미국-정치권-ai-규제-법안-발의-박.md",
         "title": "미국 정치권, AI 규제 법안 발의 박차...'AI 개발자도 인류 멸종 믿어'",
         "importance": 7,
@@ -29020,6 +29137,50 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215156"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-from-agent-traces-to.md",
+        "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+        "importance": 6,
+        "tags": [
+          "#audit",
+          "#observability",
+          "#agent-framework",
+          "#governance",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2606.04990"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-no-box-vulnerability.md",
+        "title": "No-Box Vulnerability Analysis: Description-only Detection of Indirect Prompt Injection Vulnerabilities in MCP Servers",
+        "importance": 6,
+        "tags": [
+          "#security",
+          "#prompt-injection",
+          "#mcp",
+          "#due-diligence",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.10854"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-the-agent-incident-r.md",
+        "title": "The Agent Incident Registry: Toward Preventing Repeated AI Agent Failures",
+        "importance": 6,
+        "tags": [
+          "#safety-incident",
+          "#agent-framework",
+          "#risk-management",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11030"
       },
       {
         "date": "2026-09-11",
@@ -45048,6 +45209,35 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-terms-txt-a-consent-.md",
+        "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#monetization",
+          "#web-protocol",
+          "#regulation",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11152"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-what-a-random-draw-f.md",
+        "title": "What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#mcp",
+          "#due-diligence",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.10962"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
         "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로",
         "importance": 7,
@@ -45060,6 +45250,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260911000235"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+        "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#risk-management",
+          "#simulation",
+          "#liability"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000245"
       },
       {
         "date": "2026-09-12",
@@ -45105,6 +45310,34 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-ai-exposure-and-ai-r.md",
+        "title": "AI Exposure and AI Resilience: A Two-Dimensional Assessment Framework for Software and Software-Based Business Model",
+        "importance": 6,
+        "tags": [
+          "#due-diligence",
+          "#business-model",
+          "#investment",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11321"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-characterizing-job-p.md",
+        "title": "Characterizing Job Power Elasticity for Power-Flexible AI Training",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#training-cost",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11542"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-mecka-ai-nears-500m-.md",
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "importance": 6,
@@ -45131,6 +45364,34 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260911000288"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-구형-반도체라고-무시했는데-주문-2배.md",
+        "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#datacenter",
+          "#supply-chain",
+          "#robotics-demand"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12151057"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-오픈ai의-피지-시모-ipo-앞둔-엔.md",
+        "title": "오픈AI의 피지 시모, IPO 앞둔 엔스케일 이사회 합류",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#governance",
+          "#ipo",
+          "#cloud-infra"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215189"
       },
       {
         "date": "2026-09-11",
@@ -82616,6 +82877,21 @@
     "physical_ai_robotics": [
       {
         "date": "2026-09-12",
+        "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+        "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#risk-management",
+          "#simulation",
+          "#liability"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000245"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-mecka-ai-nears-500m-.md",
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "importance": 6,
@@ -88912,6 +89188,48 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/202609119348i"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-characterizing-job-p.md",
+        "title": "Characterizing Job Power Elasticity for Power-Flexible AI Training",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power-grid",
+          "#training-cost",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11542"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-구형-반도체라고-무시했는데-주문-2배.md",
+        "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#datacenter",
+          "#supply-chain",
+          "#robotics-demand"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12151057"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-오픈ai의-피지-시모-ipo-앞둔-엔.md",
+        "title": "오픈AI의 피지 시모, IPO 앞둔 엔스케일 이사회 합류",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#governance",
+          "#ipo",
+          "#cloud-infra"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215189"
       },
       {
         "date": "2026-09-11",
@@ -100062,6 +100380,78 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215145"
       },
       {
+        "date": "2026-09-12",
+        "file": "20260912-ai-exposure-and-ai-r.md",
+        "title": "AI Exposure and AI Resilience: A Two-Dimensional Assessment Framework for Software and Software-Based Business Model",
+        "importance": 6,
+        "tags": [
+          "#due-diligence",
+          "#business-model",
+          "#investment",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11321"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-from-agent-traces-to.md",
+        "title": "From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents",
+        "importance": 6,
+        "tags": [
+          "#audit",
+          "#observability",
+          "#agent-framework",
+          "#governance",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2606.04990"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-making-alternative-d.md",
+        "title": "Making Alternative Data Work: Context-Augmented LLMs for Financial Forecasting",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#alternative-data",
+          "#forecasting",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11607"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-same-day-same-story-.md",
+        "title": "Same Day, Same Story; One Day Ahead, a Different Signal: The Dual Validity of Financial Sentiment",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#model-validation",
+          "#nlp",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.11144"
+      },
+      {
+        "date": "2026-09-12",
+        "file": "20260912-spectral-masking-and.md",
+        "title": "Spectral Masking and Interpolation Attack (SMIA): A Black-box Adversarial Attack against Voice Authentication and Anti-Spoofing Systems",
+        "importance": 6,
+        "tags": [
+          "#security",
+          "#deepfake",
+          "#banking",
+          "#authentication",
+          "#research-paper"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2509.07677"
+      },
+      {
         "date": "2026-09-11",
         "file": "20260911-오픈ai-금융판-챗gpt로-월가-업무.md",
         "title": "오픈AI, 금융판 챗GPT로 월가 업무 자동화 나선다",
@@ -108929,6 +109319,21 @@
       },
       {
         "date": "2026-09-12",
+        "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+        "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#risk-management",
+          "#simulation",
+          "#liability"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260911000245"
+      },
+      {
+        "date": "2026-09-12",
         "file": "20260912-mecka-ai-nears-500m-.md",
         "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
         "importance": 6,
@@ -115183,6 +115588,43 @@
         ]
       },
       {
+        "date": "2026-09-12",
+        "title": "검증 없는 도입이 비용이 된다",
+        "summary": "통제 공백의 대가가 소송과 인증 취약점으로 구체화됐다.",
+        "articles": [
+          {
+            "date": "2026-09-12",
+            "file": "20260912-미국-정치권-ai-규제-법안-발의-박.md",
+            "title": "미국 정치권, AI 규제 법안 발의 박차...\"AI 개발자도 인류 멸종 믿어\""
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-openai-floats-a-shar.md",
+            "title": "OpenAI floats a shared AI slowdown, takes it to Congress"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-how-hackers-used-cla.md",
+            "title": "How hackers used Claude for missiles, drone swarms, and surveillance, while Chinese labs mined it for training data"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-기업-절반이-ciso-둔다-ai-확산.md",
+            "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+            "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-spectral-masking-and.md",
+            "title": "Spectral Masking and Interpolation Attack (SMIA): A Black-box Adversarial Attack against Voice Authentication and Anti-Spoofing Systems"
+          }
+        ]
+      },
+      {
         "date": "2026-09-11",
         "title": "금융, 범용 AI가 실무를 직접 겨냥",
         "summary": "전용 제품과 에이전트 결제가 겹치며 채널과 책임 규칙이 먼저 흔들린다.",
@@ -117466,8 +117908,8 @@
       },
       {
         "date": "2026-09-12",
-        "title": "통제 책임이 입법과 조직으로",
-        "summary": "규제 정비를 기다리지 않고 기업 내부 위험관리로 통제가 옮겨붙었다.",
+        "title": "검증 없는 도입이 비용이 된다",
+        "summary": "통제 공백의 대가가 소송과 인증 취약점으로 구체화됐다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -117490,8 +117932,14 @@
             "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
           },
           {
-            "url": "https://www.hankyung.com/article/202609119432i",
-            "title": ""
+            "date": "2026-09-12",
+            "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+            "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-spectral-masking-and.md",
+            "title": "Spectral Masking and Interpolation Attack (SMIA): A Black-box Adversarial Attack against Voice Authentication and Anti-Spoofing Systems"
           }
         ]
       },
@@ -119893,8 +120341,8 @@
       },
       {
         "date": "2026-09-12",
-        "title": "에이전트, 실행 인프라가 상품",
-        "summary": "실행 환경이 API로 팔리는 사이 감독 없는 위임도 현실이 됐다.",
+        "title": "에이전트, 접근 조건이 쟁점",
+        "summary": "실행 환경이 상품이 되자 접근 대가와 연동 신뢰성이 따라붙었다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -119918,8 +120366,17 @@
           },
           {
             "date": "2026-09-12",
-            "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
-            "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
+            "file": "20260912-terms-txt-a-consent-.md",
+            "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-what-a-random-draw-f.md",
+            "title": "What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead"
+          },
+          {
+            "url": "https://arxiv.org/abs/2609.11190",
+            "title": ""
           }
         ]
       },
@@ -121832,11 +122289,11 @@
         ]
       }
     ],
-    "ai_industry": [
+    "physical_ai": [
       {
         "date": "2026-09-12",
-        "title": "통제 책임이 입법과 조직으로",
-        "summary": "규제 정비를 기다리지 않고 기업 내부 위험관리로 통제가 옮겨붙었다.",
+        "title": "검증 없는 도입이 비용이 된다",
+        "summary": "통제 공백의 대가가 소송과 인증 취약점으로 구체화됐다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -121859,15 +122316,625 @@
             "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 '전사 위험관리'로"
           },
           {
-            "url": "https://www.hankyung.com/article/202609119432i",
+            "date": "2026-09-12",
+            "file": "20260912-무분별한-피지컬-ai-도입-피해-소송.md",
+            "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-spectral-masking-and.md",
+            "title": "Spectral Masking and Interpolation Attack (SMIA): A Black-box Adversarial Attack against Voice Authentication and Anti-Spoofing Systems"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "title": "투자가 사무실에서 공장으로",
+        "summary": "AX의 다음 무대가 생산라인 자율화로 옮겨갔다.",
+        "articles": [
+          {
+            "date": "2026-09-08",
+            "file": "20260908-빅웨이브로보틱스-모듈러-주택-제작에-.md",
+            "title": "빅웨이브로보틱스, 모듈러 주택 제작에 휴머노이드 투입"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-장병탁-교수-피지컬-ai는-이제-시작.md",
+            "title": "장병탁 교수 \"피지컬 AI는 이제 시작…데이터 팩토리 더 투자해야\""
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-노타-lg전자-모빌린트와-k-반도체-.md",
+            "title": "노타, LG전자·모빌린트와 K-반도체 탑재한 휴머노이드 최적화 맡는다"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-삼성sds-삼성-생산라인-1000곳-.md",
+            "title": "삼성SDS, 삼성 생산라인 1000곳 RX 추진…“핵심은 로봇 오케스트레이션”"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-kt-로봇-데이터-관리-통합-엣지ai.md",
+            "title": "KT, 로봇 데이터 관리 ‘통합 엣지AI 플랫폼’ 구현 나서"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-사이트-김녹원-딥엑스-대표-라즈베리-.md",
+            "title": "[人사이트]김녹원 딥엑스 대표 “라즈베리 파이로 개발자 선점…피지컬 AI 양산 시장 연다”"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-5년-못-푼-자동차-도장-문제-10분.md",
+            "title": "\"5년 못 푼 자동차 도장 문제, 10분 만에 해결\"…앤트로픽이 제시한 AX 생존법"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-07",
+        "title": "피지컬 AI, 중소 현장으로",
+        "summary": "대기업 실증 단계를 지나 중소 설비 투자와 글로벌 사업자 진입이 동시에 열린다.",
+        "articles": [
+          {
+            "date": "2026-09-07",
+            "file": "20260907-라이다-비전-센서로-팔레트-스스로-현.md",
+            "title": "라이다·비전 센서로 팔레트 스스로…현대위아, 기아 공장에 '무인지게차' 첫 공급"
+          },
+          {
+            "date": "2026-09-07",
+            "file": "20260907-라이드플럭스-타타대우와-레벨2-자율주.md",
+            "title": "라이드플럭스,타타대우와 '레벨2+ 자율주행 트럭' 양산 추진한다"
+          },
+          {
+            "date": "2026-09-07",
+            "file": "20260907-정부-중소-스마트공장에-피지컬-ai-.md",
+            "title": "정부, 중소 스마트공장에 '피지컬 AI' 심는다…특화 지원 프로그램 신설"
+          },
+          {
+            "date": "2026-09-07",
+            "file": "20260907-웨이모-한국에-꼭-오고-싶다-진출-일.md",
+            "title": "웨이모 “한국에 꼭 오고 싶다”…진출 일정 미공개[현장+]"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-06",
+        "title": "기계가 한 사람 몫을 넘겨받는다",
+        "summary": "시연이 끝나고 작업 완결과 요금이 붙자 인증이 실질 병목으로 드러났다.",
+        "articles": [
+          {
+            "date": "2026-09-06",
+            "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
+            "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
+            "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
+            "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
+            "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다"
+          },
+          {
+            "date": "2026-09-06",
+            "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
+            "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-05",
+        "title": "피지컬 AI, 전시장에서 공정으로",
+        "summary": "평가 기준이 시연에서 성공률과 실주행 조건으로 옮겨갔고 제도가 문턱으로 남았다.",
+        "articles": [
+          {
+            "date": "2026-09-05",
+            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
+            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
+            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
+            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
+            "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-xdof-just-three-mont.md",
+            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-ifa2026-종이컵-들고-버튼-누른.md",
+            "title": "[IFA2026]종이컵 들고 버튼 누른다…모바, 로봇손 'Knot 80'"
+          },
+          {
+            "date": "2026-09-05",
+            "file": "20260905-테슬라-fsd-v14-라이트-지하주차.md",
+            "title": "테슬라 FSD V14 라이트, 지하주차장서 길 찾았다[카미경]"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-02",
+        "title": "국가 AI가 조달에서 지역·현장으로",
+        "summary": "예산 배분과 발주 확정을 지나 지역 산업과 제조 현장 데이터로 집행 지점이 내려왔다.",
+        "articles": [
+          {
+            "date": "2026-09-02",
+            "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
+            "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
+            "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-kosa-한국-풀스택-ai-컨소시엄-.md",
+            "title": "KOSA, '한국 풀스택 AI 컨소시엄' 아람코 디지털 기술 실증 완료"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
+            "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-ax-대전환-초격차-토론회-수도권-지.md",
+            "title": "[AX 대전환 초격차 토론회] 수도권·지역 AX 격차 줄인다…5극 3특 연계 해법 제시"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672458",
+            "title": ""
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-엠아이큐브솔루션-피지컬ai-국책과제-.md",
+            "title": "엠아이큐브솔루션, 피지컬AI 국책과제 2건 선정…AI·DT 사업 확대"
+          },
+          {
+            "date": "2026-09-02",
+            "file": "20260902-두산로보틱스-산업부-m-ax-과제로-.md",
+            "title": "두산로보틱스, 산업부 M.AX 과제로 '제조 암묵지 획득' 추진...3분기 판가름"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260902144028",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "title": "AI 예산이 사업 단위로",
+        "summary": "총액 구호가 부처별 사업과 자본 공급 수단으로 쪼개지며 발주 시점이 계산 가능해졌다.",
+        "articles": [
+          {
+            "date": "2026-09-01",
+            "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
+            "title": "3대 메가프로젝트·AI에 21.3조원 투입해 총력 지원 나선다[2027년 예산안]"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-2027예산-피지컬-ai에-3-1조-.md",
+            "title": "[2027예산] 피지컬 AI에 3.1조…'모두의 AI' 에이전트로 진화"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
+            "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
+            "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672242",
+            "title": ""
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-2027-예산안-20조원-넘는-한국판.md",
+            "title": "[2027 예산안]20조원 넘는 한국판 국부펀드 띄운다…모태펀드 출자도 역대 최대"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672352",
+            "title": ""
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20260901112400017",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-30",
+        "title": "제조 현장이 피지컬AI로 넘어간다",
+        "summary": "설비 자동화를 넘어 공장 운영 계층과 사업 포트폴리오 자체가 재편되고 있다.",
+        "articles": [
+          {
+            "date": "2026-08-30",
+            "file": "20260830-공장장은-ai-로봇은-동료-전북-피지.md",
+            "title": "공장장은 AI, 로봇은 동료…전북 피지컬AI 심장부 가보니"
+          },
+          {
+            "date": "2026-08-30",
+            "file": "20260830-가전회사가-로봇기업-됐다-가전공룡도-.md",
+            "title": "가전회사가 로봇기업 됐다... 中 가전공룡도 '변신'"
+          },
+          {
+            "date": "2026-08-30",
+            "file": "20260830-웨이모-자율주행-카메라만으론-역부족-.md",
+            "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판"
+          },
+          {
+            "url": "https://www.etnews.com/20260830000078",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-27",
+        "title": "국가가 AI 체제를 짠다",
+        "summary": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
+        "articles": [
+          {
+            "date": "2026-08-27",
+            "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
+            "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
+            "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
+            "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
+            "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
+            "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
+            "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
+            "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
+            "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
+            "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260827123901",
+            "title": ""
+          },
+          {
+            "url": "https://www.hankyung.com/article/202608264401H",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-25",
+        "title": "피지컬 AI에 돈과 노선이 붙었다",
+        "summary": "자본 규모와 기술 노선은 정해졌지만 확산 속도는 사람이 정한다.",
+        "articles": [
+          {
+            "date": "2026-08-25",
+            "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
+            "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
+            "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
+            "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
+            "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
+          },
+          {
+            "date": "2026-08-25",
+            "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
+            "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
+          },
+          {
+            "url": "https://www.etnews.com/20260825000157",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-20",
+        "title": "로봇이 현장 계약으로 들어왔다",
+        "summary": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-08-20",
+            "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
+            "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
+          },
+          {
+            "date": "2026-08-20",
+            "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
+            "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
+          },
+          {
+            "date": "2026-08-20",
+            "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
+            "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-17",
+        "title": "AI 인프라 부담이 팩토리·소재로 번진다",
+        "summary": "공급 단위가 부품에서 데이터센터 전체로 커지고 조달 병목은 소재까지 내려갔다.",
+        "articles": [
+          {
+            "date": "2026-08-17",
+            "file": "20260817-광통신-강국-ai-핵심-프리폼-역량은.md",
+            "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-lg-냉각장치-넘어-ai팩토리-통째로.md",
+            "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-ai추론-확산-프론트엔드-스위치-시장.md",
+            "title": "AI추론 확산...프론트엔드 스위치 시장 커진다"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-사이트-김장우-망고부스트-대표-ai-.md",
+            "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 '혈관' 네트워크·패브릭”"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-구리-공급-걱정마세요-수은-글로벌-자.md",
+            "title": "“구리 공급 걱정마세요”…수은, 글로벌 자원기업에 1.4조 금융지원"
+          },
+          {
+            "date": "2026-08-17",
+            "file": "20260817-젠슨-황-장녀-매디슨-황-lg-r-d.md",
+            "title": "젠슨 황 장녀 매디슨 황, LG R&D 캠퍼스 방문…피지컬 AI 동맹 가속"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-14",
+        "title": "피지컬 AI가 그룹 전략으로 올라섰다",
+        "summary": "개별 사업부 과제였던 로봇·자율주행이 그룹 자원 배분과 국가 예산 의제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-14",
+            "file": "20260814-lg-엔비디아-아이작-그루트-기반-휴.md",
+            "title": "LG, 엔비디아 아이작 그루트 기반 휴머노이드 로봇 내년 1분기 공개"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-로보티즈-안방서-휴머노이드-공개-최신.md",
+            "title": "로보티즈, 中 안방서 휴머노이드 공개…최신 액추에이터 판매 시동"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-uber-partners-with-c.md",
+            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-피지컬-ai-흐름은-피할-수-없다-증.md",
+            "title": "“피지컬 AI 흐름은 피할 수 없다…증권가, LG에 러브콜 [오늘 나온 보고서]"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-구광모-젠슨-황과-ai-동맹-강화-원.md",
+            "title": "구광모, 젠슨 황과 'AI 동맹' 강화…'원 LG' 역량 총결집"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-kosa-피지컬-ai-메가프로젝트-승.md",
+            "title": "KOSA \"피지컬 AI, 메가프로젝트 승부처\"…국회에 예산 지원 촉구"
+          },
+          {
+            "date": "2026-08-14",
+            "file": "20260814-장외-설전-벌이던-택시-플랫폼-카셰어.md",
+            "title": "'장외 설전' 벌이던 택시·플랫폼·카셰어링…서울 로보택시 플랫폼 두고 첫 '격돌'"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12",
+        "title": "성과의 잣대가 리드타임으로",
+        "summary": "비용 절감을 넘어 제품 개발 속도까지 AI 성과 지표가 확장됐다.",
+        "articles": [
+          {
+            "date": "2026-08-12",
+            "file": "20260812-연간-52억-비용-아꼈다-현대차-공장.md",
+            "title": "\"연간 52억 비용 아꼈다\"…현대차 공장에 도입된 'AI 기술' 정체"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-기업-내부회계-수작업-대신-ai로-삼.md",
+            "title": "\"기업 내부회계, 수작업 대신 AI로\"…삼정KPMG 특화 솔루션 출시"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
+            "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
+            "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260812135258",
+            "title": ""
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-데스크가-만났습니다-김민철-스위트케이.md",
+            "title": "[데스크가 만났습니다]김민철 스위트케이 대표 “명장 노하우를 데이터화…피지컬AI 완성”"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-혁신플랫폼톡-하네스-엔지니어링이-여는.md",
+            "title": "[혁신플랫폼톡] 하네스 엔지니어링이 여는 기업 AX"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-12",
+        "title": "데이터와 평가 기준이 흔들린다",
+        "summary": "국가가 쌓은 학습데이터와 모델 평가 잣대의 신뢰성이 동시에 도마에 올랐다.",
+        "articles": [
+          {
+            "date": "2026-08-12",
+            "file": "20260812-1-6조-쏟은-ai-데이터-부실-감사.md",
+            "title": "1.6조 쏟은 AI 데이터 ‘부실’…감사원, 중복·오류 적발"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-발표-임박한-독파모-2차-평가-평가-.md",
+            "title": "발표 임박한 독파모 2차 평가...\"평가 방식·비교 기준 보완 필요\""
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-제조ax-기존-r-d-잣대만으론-한계.md",
+            "title": "제조AX, 기존 R&D 잣대만으론 한계…평가지표 새로 짠다"
+          },
+          {
+            "date": "2026-08-12",
+            "file": "20260812-엔비디아-1조-매개변수-모델-개발-박.md",
+            "title": "엔비디아, '1조 매개변수' 모델 개발 박차...“GPU 수요·생태계 확장 노려”"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
+        "summary": "피지컬 AI가 시연을 지나 요금·표준 경쟁 단계로 넘어갔다.",
+        "articles": [
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260807140334",
+            "title": ""
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
+            "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
+            "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
+          }
+        ]
+      }
+    ],
+    "ai_industry": [
+      {
+        "date": "2026-09-12",
+        "title": "에이전트, 접근 조건이 쟁점",
+        "summary": "실행 환경이 상품이 되자 접근 대가와 연동 신뢰성이 따라붙었다.",
+        "articles": [
+          {
+            "date": "2026-09-12",
+            "file": "20260912-openai-s-new-agents-.md",
+            "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-오픈ai-챗gpt-워크에-기업-데이터.md",
+            "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-오픈ai-gpt-라이브-1-api-출.md",
+            "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-perplexity-trusts-gp.md",
+            "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-terms-txt-a-consent-.md",
+            "title": "terms.txt: A Consent and Compensation Protocol for Agentic Web Access"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-what-a-random-draw-f.md",
+            "title": "What a Random Draw from the MCP Registry Contains, and What Tool-Use Benchmarks Contain Instead"
+          },
+          {
+            "url": "https://arxiv.org/abs/2609.11190",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-09-12",
-        "title": "AI 조달 비용이 재무 변수로",
-        "summary": "차입 금리와 GPU 취득 규모가 증설 지속성의 시험대가 됐다.",
+        "title": "AI 수요가 조달 전반을 흔든다",
+        "summary": "차입 비용과 구형 반도체 품귀가 증설 조건을 다시 짰다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -121878,6 +122945,16 @@
             "date": "2026-09-12",
             "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
             "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-구형-반도체라고-무시했는데-주문-2배.md",
+            "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-characterizing-job-p.md",
+            "title": "Characterizing Job Power Elasticity for Power-Flexible AI Training"
           }
         ]
       },
@@ -125449,1450 +126526,11 @@
         ]
       }
     ],
-    "llm_models": [
-      {
-        "date": "2026-09-12",
-        "title": "에이전트, 실행 인프라가 상품",
-        "summary": "실행 환경이 API로 팔리는 사이 감독 없는 위임도 현실이 됐다.",
-        "articles": [
-          {
-            "date": "2026-09-12",
-            "file": "20260912-openai-s-new-agents-.md",
-            "title": "OpenAI's new Agents API gives developers the infrastructure behind Codex and ChatGPT"
-          },
-          {
-            "date": "2026-09-12",
-            "file": "20260912-오픈ai-챗gpt-워크에-기업-데이터.md",
-            "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입"
-          },
-          {
-            "date": "2026-09-12",
-            "file": "20260912-오픈ai-gpt-라이브-1-api-출.md",
-            "title": "오픈AI, 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\""
-          },
-          {
-            "date": "2026-09-12",
-            "file": "20260912-perplexity-trusts-gp.md",
-            "title": "Perplexity trusts GPT-6 Astra with end-to-end systems"
-          },
-          {
-            "date": "2026-09-12",
-            "file": "20260912-공무원이-직접-만든-ai로-행정-혁신.md",
-            "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-11",
-        "title": "연산 용량이 매출 한도로",
-        "summary": "증설 목표가 GW 단위로 커지며 자금·안정성 부담도 함께 불어난다.",
-        "articles": [
-          {
-            "date": "2026-09-11",
-            "file": "20260911-오픈ai-프로-요금제-신규-가입-일시.md",
-            "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\""
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
-            "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-jensen-huang-explain.md",
-            "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-powering-ai-is-an-ar.md",
-            "title": "Powering AI is an architecture problem"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-new-deepseek-model-v.md",
-            "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
-            "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
-            "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-ms-2032년까지-데이터센터-용량-.md",
-            "title": "MS, 2032년까지 데이터센터 용량 3배↑…AI·클라우드 수요 대응"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-스페이스x-데이터센터-구축-방식-바꾼.md",
-            "title": "스페이스X, 데이터센터 구축 방식 바꾼다…‘속도’보다 안정성에 무게"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-11",
-        "title": "AI 과금, 사용량 기준으로 굳는다",
-        "summary": "무료 확산을 끝내고 사용량 과금과 상장으로 수익·자본 경로를 다진다.",
-        "articles": [
-          {
-            "date": "2026-09-11",
-            "file": "20260911-amazon-gives-openai-.md",
-            "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-데빈-개발사-코그니션-몸값-64조-달.md",
-            "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-now-everyone-can-put.md",
-            "title": "Now everyone can put data to work"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-india-s-pocket-fm-do.md",
-            "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-80명이-에이전트-90개-sk스퀘어의.md",
-            "title": "80명이 에이전트 90개…SK스퀘어의 AI 실험"
-          },
-          {
-            "date": "2026-09-11",
-            "file": "20260911-ai는-지금-1달러에-정부-뚫은-오픈.md",
-            "title": "[AI는 지금] 1달러에 美정부 뚫은 오픈AI…100만명 확보하자 '사용량 과금' 전환, 왜"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215147",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-10",
-        "title": "용량이 도입 일정을 정한다",
-        "summary": "성능보다 확보 가능한 연산량이 도입 속도를 가르는 국면이다.",
-        "articles": [
-          {
-            "date": "2026-09-10",
-            "file": "20260910-gpt-6-astra-the-next.md",
-            "title": "GPT-6 Astra: The next generation in intelligence for work"
-          },
-          {
-            "date": "2026-09-10",
-            "file": "20260910-오픈ai-삼성-협력-핵심은-칩-생산과.md",
-            "title": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'"
-          },
-          {
-            "date": "2026-09-10",
-            "file": "20260910-오픈ai-아스트라-수요-폭증에-유료-.md",
-            "title": "오픈AI, ‘아스트라’ 수요 폭증에 유료 신규 가입 일시 중단 검토"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215098",
-            "title": ""
-          },
-          {
-            "date": "2026-09-10",
-            "file": "20260910-ibib-a-protocol-for-.md",
-            "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-09",
-        "title": "조달 조건이 다시 쓰인다",
-        "summary": "모델 확보 경쟁과 함께 구독 계약의 비용 산정 근거가 흔들린다.",
-        "articles": [
-          {
-            "date": "2026-09-09",
-            "file": "20260909-삼성전자-미스트랄-ai와-맞손-반도체.md",
-            "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다"
-          },
-          {
-            "date": "2026-09-09",
-            "file": "20260909-국가ai전략위-독파모-평가-방식-수술.md",
-            "title": "국가AI전략위, 독파모 평가 방식 수술 예고 [현장+]"
-          },
-          {
-            "date": "2026-09-09",
-            "file": "20260909-토큰값-2-5배-비싼데-더-싸다-ai.md",
-            "title": "\"토큰값 2.5배 비싼데 더 싸다?\"…AI 가격 경쟁 기준이 뒤집혔다 [김주완의 글로벌 머니 X파일]"
-          },
-          {
-            "date": "2026-09-09",
-            "file": "20260909-한국판-미토스-개발-설립에-미래기금-.md",
-            "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조"
-          },
-          {
-            "date": "2026-09-09",
-            "file": "20260909-앤트로픽-맥스-플랜-허위-광고-혐의로.md",
-            "title": "앤트로픽, '맥스 플랜' 허위 광고 혐의로 집단 소송 당해...\"사용량 속였다\""
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=673169",
-            "title": ""
-          },
-          {
-            "url": "https://arxiv.org/abs/2606.19376",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-08",
-        "title": "모델·칩 조달 선택지가 늘었다",
-        "summary": "단일 벤더 전제가 흔들리며 조달 기준을 다시 세울 때다.",
-        "articles": [
-          {
-            "date": "2026-09-08",
-            "file": "20260908-아티피셜-애널리시스-평가-체제-개편-.md",
-            "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 공동 1위로 상승"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-앤트로픽-클로드-수요-폭증에-11개월.md",
-            "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-단독-데이터센터마저-서울공화국-신청-.md",
-            "title": "[단독] 데이터센터마저 서울공화국…신청 160곳중 96곳 수도권 몰렸다"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-미스트랄-삼성전자-주도로-4조-600.md",
-            "title": "미스트랄, 삼성전자 주도로 4조 6000억원 유치…기업가치 32조원"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-구글-딥마인드-실권-잡은-카부크추오글.md",
-            "title": "구글 딥마인드 실권 잡은 카부크추오글루 “목표는 오직 프론티어 복귀”"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-한컴-국산-npu로-ax-승부-퓨리오.md",
-            "title": "한컴, 국산 NPU로 AX 승부…퓨리오사AI와 제품 공동개발"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-삼성전자-2028년-메모리-최초-하이.md",
-            "title": "삼성전자, 2028년 메모리 최초 '하이 NA EUV' 도입... ASML과 포토마스크 개발 협력"
-          },
-          {
-            "date": "2026-09-08",
-            "file": "20260908-말레이시아-화웨이-ai-칩-도입-추진.md",
-            "title": "말레이시아, 中 화웨이 AI 칩 도입 추진…미국과 충돌 우려"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-06",
-        "title": "모델의 값이 한도와 순위로",
-        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 배포 범위로 옮겨갔다.",
-        "articles": [
-          {
-            "date": "2026-09-06",
-            "file": "20260906-openai-rolls-out-gpt.md",
-            "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-artificial-analysis-.md",
-            "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
-            "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
-            "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
-          },
-          {
-            "date": "2026-09-06",
-            "file": "20260906-구글-음악-생성-모델-리리아-3-5-.md",
-            "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-05",
-        "title": "칩은 갈아타고 자본은 묶는다",
-        "summary": "연산을 자국 칩으로 대체하는 쪽과 지분으로 생태계를 묶는 쪽이 동시에 세를 넓힌다.",
-        "articles": [
-          {
-            "date": "2026-09-05",
-            "file": "20260905-딥시크-새로운-데이터센터-구축을-위해.md",
-            "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획"
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-엔비디아-무라티의-tml에-3-3조-.md",
-            "title": "엔비디아, 무라티의 TML에 3.3조 투자 논의…\"오픈소스 생태계 결속\""
-          },
-          {
-            "date": "2026-09-05",
-            "file": "20260905-ai는-지금-gpu만으론-부족-삼성도.md",
-            "title": "[AI는 지금] \"GPU만으론 부족\"…삼성도 'AI 추론 SW' 짐렛랩스에 베팅"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214878",
-            "title": ""
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260905073057",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-04",
-        "title": "실무는 맡기는데 근거는 안 보인다",
-        "summary": "수행 능력이 오른 대신 판단 과정을 확인할 방법이 줄었다.",
-        "articles": [
-          {
-            "date": "2026-09-04",
-            "file": "20260904-오픈ai-압도적-성능-gpt-6-아스.md",
-            "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
-            "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
-            "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\""
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
-            "title": "\"AI앱 1900개가 회사 업무\"…SKB, 상품부터 조직까지 AI로 재설계"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-mastercontrol-sevent.md",
-            "title": "MasterControl Seventeen Every Time"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-dnative-twin-decisio.md",
-            "title": "DNative-Twin: Decision Graphs and Digital Twins for Reconstructable Agentic Decisions"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672700",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-04",
-        "title": "모델을 손에 넣는 경로가 갈라진다",
-        "summary": "직접 만들기보다 사거나 얹거나 데이터로 값을 치르는 쪽으로 갈린다.",
-        "articles": [
-          {
-            "date": "2026-09-04",
-            "file": "20260904-nvidia-buys-the-fron.md",
-            "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
-            "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-accel-reportedly-in-.md",
-            "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-사우디-휴메인-미니맥스-협력으로-아랍.md",
-            "title": "사우디 휴메인, 미니맥스 협력으로 아랍어 모델 ‘휴메인-m3’ 공개"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-데이터-공유하면-95-할인-메타-기여.md",
-            "title": "“데이터 공유하면 95% 할인”…메타, ‘기여자 요금제’ 전면 확대"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-문샷-ai-홍콩-증시-ipo-비공개-.md",
-            "title": "문샷 AI, 홍콩 증시 IPO 비공개 신청…중국 AI 기업 자금 조달 가속화"
-          },
-          {
-            "date": "2026-09-04",
-            "file": "20260904-앤트로픽-중국-ai-다크웹서-도난-카.md",
-            "title": "앤트로픽 \"중국 AI, 다크웹서 도난 카드로 클로드 무단 증류\" 폭로"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-02",
-        "title": "금융 AI, 감독기관에서 사내 업무까지",
-        "summary": "활용 주체가 감독기관으로 넓어지고 적용 지점이 창구 밖 임직원 업무와 전산 인프라까지 내려왔다.",
-        "articles": [
-          {
-            "date": "2026-09-02",
-            "file": "20260902-ai가-민원-답변-초안-작성-금감원-.md",
-            "title": "AI가 민원 답변 초안 작성…금감원, 민원·분쟁 AI 시범운영"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-ls증권-멀티-llm-기반-사내-업무.md",
-            "title": "LS증권, 멀티 LLM 기반 '사내 업무형 AI 플랫폼' 구축 착수"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-dbs-and-stripe-join-.md",
-            "title": "DBS and Stripe join forces"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-빗썸에-ai-붙었다-코인-종목-분석부.md",
-            "title": "빗썸에 AI 붙었다…코인 종목 분석부터 상승·하락 신호까지"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-700만명-모은-토스-페이스페이-보안.md",
-            "title": "700만명 모은 토스 ‘페이스페이’…\"보안 난이도 강화…금융권 수준\""
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-주택금융공사-새-데이터센터-구축-상암.md",
-            "title": "주택금융공사, 새 데이터센터 구축…상암·재해복구센터 통합"
-          },
-          {
-            "date": "2026-09-02",
-            "file": "20260902-플레이디-ai-에이전트-42개-자체-.md",
-            "title": "플레이디, AI 에이전트 42개 자체 구축…\"전사 생산성 극대화\""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-01",
-        "title": "규제가 플랫폼과 금융안정으로",
-        "summary": "AI 전용 규제를 넘어 기존 플랫폼 규제와 금융 시스템 리스크로 감독 축이 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-09-01",
-            "file": "20260901-chatgpt-now-faces-st.md",
-            "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-bank-of-england-chie.md",
-            "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-단독-국토부-테슬라-감독형-fsd-국.md",
-            "title": "[단독] 국토부 “테슬라 감독형 FSD 국내 기준 부적합”…미국산 예외"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-eu-챗gpt-초대형-검색엔진-지정-.md",
-            "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-첨단-ai-금융-시스템-위협-영국-중.md",
-            "title": "\"첨단 AI, 금융 시스템 위협\"…영국 중앙은행 총재, G20에 경고"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-유재수의-특이점-singularity.md",
-            "title": "[유재수의 특이점(Singularity) 시대] 〈13〉AI 시대의 금융, AI 활용보다 보안이 우선이다"
-          },
-          {
-            "url": "https://www.etnews.com/20260901000226",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-01",
-        "title": "AI 경쟁이 운영 역량으로",
-        "summary": "모델 선택이 끝난 자리에서 조직의 연결·운영·인력 구성이 성과를 가르기 시작했다.",
-        "articles": [
-          {
-            "date": "2026-09-01",
-            "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
-            "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-금융-ax-힘주는-kt-5대은행-중-.md",
-            "title": "'금융 AX' 힘주는 KT…5대은행 중 4곳 구축"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-현장-이수정-ibm-사장-ai-경쟁-.md",
-            "title": "[현장] 이수정 IBM 사장 \"AI 경쟁, 핵심은 모델 아닌 운영\""
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-미국-국방부-군용-챗gpt-그록-도입.md",
-            "title": "미국 국방부, 군용 챗GPT·그록 도입…민감 데이터 보호 나선다"
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-ai-시대-일의-재편-채용-시장-판도.md",
-            "title": "[AI 시대 일의 재편]① 채용 시장 판도 변화…연구서 '실무·AX'로"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260901135343",
-            "title": ""
-          },
-          {
-            "url": "https://www.fnnews.com/news/202609011402002196",
-            "title": ""
-          },
-          {
-            "date": "2026-09-01",
-            "file": "20260901-롯데이노베이트-분산-데이터-온톨로지로.md",
-            "title": "롯데이노베이트, 분산 데이터 온톨로지로 묶어 롯데백화점 ‘브랜드 AI’ 구축"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-29",
-        "title": "조달 통로와 모델 크기가 함께 흔들린다",
-        "summary": "어디서 받을지에 더해 얼마나 큰 모델이 필요한지가 다시 열렸다.",
-        "articles": [
-          {
-            "date": "2026-08-29",
-            "file": "20260829-앤트로픽-b2b-공략-속도-리셀러-s.md",
-            "title": "앤트로픽, 韓 B2B 공략 속도…리셀러·SI 채널 키운다"
-          },
-          {
-            "date": "2026-08-29",
-            "file": "20260829-open-weight-ai-compa.md",
-            "title": "Open-weight AI companies are the Valley’s hottest acquisition targets"
-          },
-          {
-            "date": "2026-08-29",
-            "file": "20260829-코히어-대규모-엔터프라이즈-문서-분석.md",
-            "title": "코히어, 대규모 엔터프라이즈 문서 분석 AI ‘파스’ 공개...“성능·비용 다 잡았다”"
-          },
-          {
-            "date": "2026-08-29",
-            "file": "20260829-텐센트-차세대-모델-hy4-프리뷰-오.md",
-            "title": "텐센트, 차세대 모델 'Hy4 프리뷰' 오픈 출시로 기업용 시장 정조준"
-          },
-          {
-            "date": "2026-08-29",
-            "file": "20260829-메타-80억-소형-ai로-클로드-오퍼.md",
-            "title": "메타, 80억 소형 AI로 ‘클로드 오퍼스 4.5’급 성능 구현…‘에보하네스-RL’ 공개"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-28",
-        "title": "국민 AI, 접점 전략까지 나왔다",
-        "summary": "국산 모델이 어느 채널로 국민에게 닿는지가 확정됐다.",
-        "articles": [
-          {
-            "date": "2026-08-28",
-            "file": "20260828-skt-카카오-kt-모두의-ai-사업.md",
-            "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시”"
-          },
-          {
-            "date": "2026-08-28",
-            "file": "20260828-모두의-ai-증명서-떼고-병원-예약-.md",
-            "title": "[모두의 AI] \"증명서 떼고 병원 예약\"...SKT, 국민 AI 서비스 10월 공개"
-          },
-          {
-            "date": "2026-08-28",
-            "file": "20260828-skt는-행동형-비서-카카오는-카톡-.md",
-            "title": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 3사 전략은"
-          },
-          {
-            "url": "https://www.etnews.com/20260828000246",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-27",
-        "title": "연산 원가, 위아래서 동시에 흔들린다",
-        "summary": "수요와 효율, 규제가 함께 움직이며 원가 기준선이 다시 잡힌다.",
-        "articles": [
-          {
-            "date": "2026-08-27",
-            "file": "20260827-nvidia-forecasts-fis.md",
-            "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-amazon-just-tripled-.md",
-            "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-anthropic-continues-.md",
-            "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-엔비디아-ai-맞춤형-메모리-nvhb.md",
-            "title": "엔비디아, AI 맞춤형 메모리 'NVHBM' 공개"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-ai-칩-팔려고-은행-된-엔비디아-수.md",
-            "title": "AI 칩 팔려고 '은행' 된 엔비디아…수요 둔화 시 재무 충격 우려"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
-            "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-nvidia-closes-in-on-.md",
-            "title": "Nvidia closes in on Hugging Face acquisition"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
-            "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-스페인-데이터센터-규제-강화-전력-8.md",
-            "title": "스페인, 데이터센터 규제 강화…전력 80% 재생에너지로 조달"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-알리바바-큐원4-예고편-나왔다-훈련비.md",
-            "title": "알리바바 '큐원4' 예고편 나왔다…훈련비용 9분의 1 절감"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-옥스-알파-정체는-glm-5-3-플래.md",
-            "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-ai시대-통신망-투자-논의-시동-연내.md",
-            "title": "AI시대 통신망 투자 논의 시동…연내 규제 개선안 마련"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-27",
-        "title": "국가가 AI 체제를 짠다",
-        "summary": "모델·데이터·로봇을 예산과 절차로 확정하는 단계로 넘어갔다.",
-        "articles": [
-          {
-            "date": "2026-08-27",
-            "file": "20260827-과기부-agi-시대-대비-착수-최상위.md",
-            "title": "과기부, AGI 시대 대비 착수…최상위 AI·법제도 선제 정비"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-배경훈-부총리-agi-시대는-예정된-.md",
-            "title": "배경훈 부총리 \"AGI 시대는 예정된 미래\"…기술·인프라·제도 준비 서둘러야"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-정부-휴머노이드-피지컬ai에-5조원-.md",
-            "title": "정부, 휴머노이드·피지컬AI에 5조원 투입…미래 성장동력 키운다"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-현대차-완성차-넘어-피지컬-ai-전환.md",
-            "title": "현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-lg이노텍-아마존-자율주행-죽스-에-.md",
-            "title": "LG이노텍, 美 아마존 자율주행 '죽스'에 로보택시용 카메라 모듈 공급"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-ai-사용-데이터-미국에-축적-포스트.md",
-            "title": "“韓 AI 사용 데이터, 미국에 축적”…포스트 트레이닝 본격화 주문"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-모티프-벤치마크-배점-성능-차이-못-.md",
-            "title": "모티프 \"벤치마크 배점, 성능 차이 못 담아\"…독파모 이의 제기"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-네이버클라우드-lg-cns-보안-특화.md",
-            "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여"
-          },
-          {
-            "date": "2026-08-27",
-            "file": "20260827-독파모-학습데이터-29종-푼다-1-5.md",
-            "title": "'독파모' 학습데이터 29종 푼다…1.56조 토큰 'AI허브' 개방"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260827123901",
-            "title": ""
-          },
-          {
-            "url": "https://www.hankyung.com/article/202608264401H",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-26",
-        "title": "국산 모델과 정부 조직이 함께 선다",
-        "summary": "모델 저변 확대와 정부의 직접 개발 전환이 조달 구도를 바꾼다.",
-        "articles": [
-          {
-            "date": "2026-08-26",
-            "file": "20260826-미스트랄-중동-소버린-ai-시장-공략.md",
-            "title": "미스트랄, '중동 소버린 AI' 시장 공략…휴메인 맞손"
-          },
-          {
-            "date": "2026-08-26",
-            "file": "20260826-ai픽-리벨리온-영국-소버린-ai-진.md",
-            "title": "[AI픽] 리벨리온, 영국 소버린 AI 진출…NPU 랙 100대 공급 추진"
-          },
-          {
-            "date": "2026-08-26",
-            "file": "20260826-한국-ai-이어-3위-굳히기-독파모-.md",
-            "title": "한국 AI, 美中 이어 '3위' 굳히기…독파모 성과 주목"
-          },
-          {
-            "date": "2026-08-26",
-            "file": "20260826-정부-개발자-조직-국민ai서비스혁신추.md",
-            "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 신설…서비스 신속 개발 기대"
-          },
-          {
-            "date": "2026-08-26",
-            "file": "20260826-일론-머스크-ceo-그록-시장서-뒤처.md",
-            "title": "일론 머스크 CEO \"그록, 시장서 뒤처져…앤트로픽이 선두\""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214378",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-25",
-        "title": "모델 주권이 안보 의제로",
-        "summary": "조달의 축이 성능 비교에서 확보 가능성과 데이터 주권으로 옮겨갔다.",
-        "articles": [
-          {
-            "date": "2026-08-25",
-            "file": "20260825-thomson-reuters-bets.md",
-            "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-ls-모티프테크놀로지스와-제조-현장-.md",
-            "title": "LS, 모티프테크놀로지스와 제조 현장 맞춤형 AI 모델 공동개발"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-인터뷰-클라우드는-사치재-소버린-ai.md",
-            "title": "[인터뷰] \"클라우드는 사치재\"…'소버린 AI' 강조한 클라우데라 CEO, 韓 투자 검토"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-배경훈-ai-모델은-국가-안보-독자-.md",
-            "title": "배경훈 \"AI 모델은 국가 안보\"…독자 AI 글로벌 톱티어 도전"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-영국-우크라이나-전장-ai-빅데이터-.md",
-            "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수"
-          },
-          {
-            "date": "2026-08-25",
-            "file": "20260825-메타-ai-에이전트-해치-출시-임박-.md",
-            "title": "메타, AI 에이전트 '해치' 출시 임박...10월엔 새 모델 '워터멜론' 공개"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-24",
-        "title": "모델 유통 길목 인수전",
-        "summary": "경쟁의 초점이 모델 성능에서 배포·조달 통로로 옮겨갔다.",
-        "articles": [
-          {
-            "date": "2026-08-24",
-            "file": "20260824-허깅페이스-18조-매각-추진-빅테크-.md",
-            "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나"
-          },
-          {
-            "date": "2026-08-24",
-            "file": "20260824-스트라이프-ai-모델-허브-오픈라우터.md",
-            "title": "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화"
-          },
-          {
-            "date": "2026-08-24",
-            "file": "20260824-엔비디아-중국-오픈-모델-독주-막는다.md",
-            "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 개발로 전면전"
-          },
-          {
-            "date": "2026-08-24",
-            "file": "20260824-엔비디아-ai-스타트업-풀사이드와-6.md",
-            "title": "엔비디아, AI 스타트업 풀사이드와 60억달러 라이선스 계약"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-21",
-        "title": "AI가 조직도를 다시 그린다",
-        "summary": "법인 분리와 온디바이스 전략이 맞물리며 자본배분 단위가 AI 기준으로 굳었다.",
-        "articles": [
-          {
-            "date": "2026-08-21",
-            "file": "20260821-카카오-두-개로-나뉜다-카카오ai-카.md",
-            "title": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속”"
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-카카오-지배구조-개편-카카오ai-x-.md",
-            "title": "[카카오 지배구조 개편] '카카오AI·X'로 인적분할…투트랙 승부수"
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-정신아-카카오ai-온디바이스로-승부-.md",
-            "title": "정신아 \"카카오AI 온디바이스로 승부…고용 100% 승계\""
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-카카오-카카오x-지주사-전환-없다-a.md",
-            "title": "카카오 \"카카오X 지주사 전환 없다\"…AI·투자 독립경영(종합)"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671487",
-            "title": ""
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-또-쪼개기-상장-에-카카오-160만-.md",
-            "title": "“또 쪼개기 상장”에 카카오 160만 주주 ‘부들부들’ … 새로 상장하는 AI 회사의 정체는"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-21",
-        "title": "자본시장이 AI를 값 매긴다",
-        "summary": "공모와 분기 손익이 동시에 드러나며 AI가 평가받는 대상으로 내려왔다.",
-        "articles": [
-          {
-            "date": "2026-08-21",
-            "file": "20260821-오픈ai-2분기-매출-9조-영업손실-.md",
-            "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져"
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-단독-국민연금-누가-ai거품론을-말했.md",
-            "title": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여"
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-앤트로픽-역대-최대-ipo-도전-스페.md",
-            "title": "앤트로픽, 역대 최대 IPO 도전…\"스페이스X 기록 깬다\""
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-알리바바-ai-클라우드-성장에도-대규.md",
-            "title": "알리바바, AI·클라우드 성장에도 대규모 투자로 순이익 75% 급감"
-          },
-          {
-            "date": "2026-08-21",
-            "file": "20260821-엔비디아-코딩-스타트업-풀사이드와-8.md",
-            "title": "엔비디아, 코딩 스타트업 풀사이드와 8조 규모 라이선스·인재 채용 계약"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-20",
-        "title": "정책 축이 활용으로 옮겨갔다",
-        "summary": "지원의 판단 기준이 성능 지표에서 실사용 성과로 바뀌며 조달 경쟁 구도도 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-08-20",
-            "file": "20260820-배경훈-ai-모델-인프라-넘어-산업-.md",
-            "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\""
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-이스트소프트-모두의-ai-도전장-ai.md",
-            "title": "이스트소프트, '모두의 AI' 도전장…AI 비서 '알비서' 앞세운다"
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-kt-ai-스타트업-16곳-선정해-a.md",
-            "title": "KT, AI 스타트업 16곳 선정해 AX 사업 개발 협력"
-          },
-          {
-            "date": "2026-08-20",
-            "file": "20260820-팀스파르타-폐쇄망서-활용-가능한-생성.md",
-            "title": "팀스파르타, 폐쇄망서 활용 가능한 생성 AI 코딩 에이전트 전면에"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-19",
-        "title": "국산 AI가 진영 대결로 굳었다",
-        "summary": "개별 모델 경쟁이 아니라 어느 연합에 속하느냐가 쓸 수 있는 서비스 범위를 정한다.",
-        "articles": [
-          {
-            "date": "2026-08-19",
-            "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
-            "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
-            "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-kt-국산-npu-llm-한-서버에-.md",
-            "title": "KT, 국산 NPU·LLM 한 서버에 담았다...'모두의AI'에도 활용"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-모두의-ai-출사표-skt-풀스택-역.md",
-            "title": "'모두의 AI' 출사표 SKT, 풀스택 역량 앞세워 범국민 서비스 지원"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-포스코dx-국산-npu로-산업현장-비.md",
-            "title": "포스코DX, 국산 NPU로 산업현장 비전 플랫폼 개발"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-kt-컨소시엄-모두의-ai-출사표-서.md",
-            "title": "KT 컨소시엄, '모두의 AI' 출사표…서비스부터 반도체까지 전방위 결합"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-누구나-쉽게-vs-생활-밀착-연합-s.md",
-            "title": "\"누구나 쉽게 vs 생활 밀착 연합\"...SKT·카카오, '모두의 AI' 전략 공개"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-카카오-모두의-ai-참여-국민-생활-.md",
-            "title": "카카오, ‘모두의 AI’ 참여…국민 생활 편의성 높인다"
-          },
-          {
-            "url": "https://www.etnews.com/20260819000321",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-19",
-        "title": "AI 통제가 개발 단계까지 내려왔다",
-        "summary": "배포 후 관리가 아니라 모델을 만드는 과정 자체가 안전 검토 대상이 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-19",
-            "file": "20260819-pacing-model-develop.md",
-            "title": "Pacing model development in an era of cyber-critical capabilities"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-오픈ai-ai-위험-감시-대비팀-해체.md",
-            "title": "오픈AI, AI 위험 감시 '대비팀' 해체…안전 조직 또 흔들"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
-            "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
-          },
-          {
-            "date": "2026-08-19",
-            "file": "20260819-오픈ai-사이버-보안-위험으로-차세대.md",
-            "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단"
-          },
-          {
-            "url": "https://www.hankyung.com/article/202608199384g",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=214102",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-18",
-        "title": "국산 모델 판이 3파전으로 좁혀졌다",
-        "summary": "평가와 자원 배분에 이어 지원 체계 자체가 재설계되며 조달 후보군이 정책으로 확정됐다.",
-        "articles": [
-          {
-            "date": "2026-08-18",
-            "file": "20260818-ai-is-독파모-2차-평가-발표-임.md",
-            "title": "[AI is] 독파모 2차 평가 발표 임박…국민평가·전문가 심사 변수"
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-독파모-2차전-모티프-탈락-업스테이지.md",
-            "title": "독파모 2차전 '모티프' 탈락…업스테이지·SKT·LG 진출"
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-속보-정부-lg-skt-업스테이지에-.md",
-            "title": "[속보] 정부, LG·SKT·업스테이지에 엔비디아 B200 1000장 지원"
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-업스테이지-다음-ai-요약에-솔라-전.md",
-            "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”"
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-카카오-카나나2-안전성서-구글-알리바.md",
-            "title": "카카오 카나나2, 안전성서 구글·알리바바 AI 제쳤다"
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-독파모-2차-발표-lg-k-엑사원-3.md",
-            "title": "[독파모 2차 발표] LG 'K-엑사원' 3차 진출…\"승부처는 활용성\""
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-독파모-2차-발표-업스테이지-3차-진.md",
-            "title": "[독파모 2차 발표] 업스테이지, 3차 진출…\"국산 NPU로 실증·아시아권 공략\""
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-독파모-2차-발표-예정대로-2곳-선정.md",
-            "title": "[독파모 2차 발표] 예정대로 2곳 선정…AI 개발 지원책은 재검토"
-          },
-          {
-            "date": "2026-08-18",
-            "file": "20260818-독파모-탈락-모티프-kt와-모두의-a.md",
-            "title": "독파모 탈락 모티프, KT와 '모두의 AI' 재도전"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-16",
-        "title": "오픈 가중치가 최상위로",
-        "summary": "자체 구축이 성능을 포기하지 않는 선택지가 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-16",
-            "file": "20260816-알리바바-큐원3-8-27b-가중치-공.md",
-            "title": "알리바바, ‘큐원3.8-27B’ 가중치 공개...오퍼스 4.6급 성능 도전"
-          },
-          {
-            "date": "2026-08-16",
-            "file": "20260816-알리바바-큐원3-8-맥스-가중치-공개.md",
-            "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요"
-          },
-          {
-            "date": "2026-08-16",
-            "file": "20260816-optima-tackles-ai-be.md",
-            "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-15",
-        "title": "AI 수익의 무게중심이 기업으로",
-        "summary": "공급사 매출과 흑자가 기업 계약에서 나오며 협상 구도가 바뀐다.",
-        "articles": [
-          {
-            "date": "2026-08-15",
-            "file": "20260815-8월14일-ai는-싸졌는데-비용은-늘.md",
-            "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표"
-          },
-          {
-            "date": "2026-08-15",
-            "file": "20260815-openai-and-anthropic.md",
-            "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
-          },
-          {
-            "date": "2026-08-15",
-            "file": "20260815-오픈ai-기업용-매출-챗gpt-넘어섰.md",
-            "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”"
-          },
-          {
-            "date": "2026-08-15",
-            "file": "20260815-앤트로픽-ipo-앞두고-첫-흑자-달성.md",
-            "title": "앤트로픽, IPO 앞두고 첫 흑자 달성…2분기 매출 16.3조 돌파"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-15",
-        "title": "AI 도구가 모델사로 흡수된다",
-        "summary": "개발 도구와 비서 앱이 공급사 계약 안으로 묶이는 통합이 확인됐다.",
-        "articles": [
-          {
-            "date": "2026-08-15",
-            "file": "20260815-ms-소비자-기업용-코파일럿-통합-개.md",
-            "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화"
-          },
-          {
-            "date": "2026-08-15",
-            "file": "20260815-귀해진-ai에이전트용-데이터-직원-p.md",
-            "title": "귀해진 AI에이전트용 데이터…직원 PC부터 인도 공장까지 뒤진다[김인엽의 AI 프런티어]"
-          },
-          {
-            "date": "2026-08-15",
-            "file": "20260815-스페이스x-85조-규모-커서-인수-최.md",
-            "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-14",
-        "title": "싼 토큰의 시대가 저문다",
-        "summary": "가격이 오르고 오픈 모델이 따라붙으며 조달 계산이 통째로 바뀐다.",
-        "articles": [
-          {
-            "date": "2026-08-14",
-            "file": "20260814-fable-5-s-slow-adopt.md",
-            "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-오픈ai-기업-ai-지출서-앤트로픽에.md",
-            "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…'GPT-5.6 솔', 페이블 5 제쳤다"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-오픈ai-연환산-매출-56조원-돌파-.md",
-            "title": "오픈AI, 연환산 매출 56조원 돌파 전망…영업 수장도 교체"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-딥시크-v4-모델-api-가격-최대-.md",
-            "title": "딥시크, V4 모델 API 가격 최대 1100% 인상...혼잡 시간대 2배 부과"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213974",
-            "title": ""
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-앤트로픽-데카르트-ai-8조-규모-인.md",
-            "title": "앤트로픽, 데카르트 AI 8조 규모 인수 추진…'클로드' 인프라 강화"
-          },
-          {
-            "date": "2026-08-14",
-            "file": "20260814-업스테이지-솔라-프로-4-모델-최초-.md",
-            "title": "업스테이지 '솔라 프로 4', 韓 모델 최초 글로벌 개발자 플랫폼에"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "에이전트 통제가 인프라 계층으로",
-        "summary": "모델을 손보는 대신 실행 권한과 조회 범위로 위험을 관리하는 방식이 제품이 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-13",
-            "file": "20260813-암호화-추론의-허점-오픈ai-앤트로픽.md",
-            "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-terabytes-of-credent.md",
-            "title": "Terabytes of credentials leaked in massive supply-chain attack"
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
-            "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
-            "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개"
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
-            "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
-            "title": ""
-          },
-          {
-            "url": "https://arxiv.org/abs/2608.11274",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-13",
-        "title": "국산 모델에 공통 잣대가 생겼다",
-        "summary": "공급사 자체 발표 대신 제3자 지표로 국산 모델을 비교할 근거가 처음 마련됐다.",
-        "articles": [
-          {
-            "date": "2026-08-13",
-            "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
-            "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록"
-          },
-          {
-            "date": "2026-08-13",
-            "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
-            "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-12",
-        "title": "데이터와 평가 기준이 흔들린다",
-        "summary": "국가가 쌓은 학습데이터와 모델 평가 잣대의 신뢰성이 동시에 도마에 올랐다.",
-        "articles": [
-          {
-            "date": "2026-08-12",
-            "file": "20260812-1-6조-쏟은-ai-데이터-부실-감사.md",
-            "title": "1.6조 쏟은 AI 데이터 ‘부실’…감사원, 중복·오류 적발"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-발표-임박한-독파모-2차-평가-평가-.md",
-            "title": "발표 임박한 독파모 2차 평가...\"평가 방식·비교 기준 보완 필요\""
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-제조ax-기존-r-d-잣대만으론-한계.md",
-            "title": "제조AX, 기존 R&D 잣대만으론 한계…평가지표 새로 짠다"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-엔비디아-1조-매개변수-모델-개발-박.md",
-            "title": "엔비디아, '1조 매개변수' 모델 개발 박차...“GPU 수요·생태계 확장 노려”"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-11",
-        "title": "모델 조달의 선택지가 넓어졌다",
-        "summary": "성능이 아니라 어디서 어떻게 돌릴 수 있느냐가 채택 기준이 됐다.",
-        "articles": [
-          {
-            "date": "2026-08-11",
-            "file": "20260811-meta-returns-to-open.md",
-            "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
-          },
-          {
-            "date": "2026-08-11",
-            "file": "20260811-메타-노트북서-구동되는-300억-매개.md",
-            "title": "메타, 노트북서 구동되는 300억 매개변수 오픈 모델 '뮤즈 글리머' 출시"
-          },
-          {
-            "date": "2026-08-11",
-            "file": "20260811-skt-독자-모델-a-x-k2-로-수.md",
-            "title": "SKT, 독자 모델 'A.X K2'로 수학올림피아드 금메달·'AIME' 글로벌 1위"
-          },
-          {
-            "date": "2026-08-11",
-            "file": "20260811-추론-특화-모티프-2-ms-애저서-쓴.md",
-            "title": "추론 특화 '모티프 2', MS 애저서 쓴다"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=670539",
-            "title": ""
-          },
-          {
-            "date": "2026-08-11",
-            "file": "20260811-보안-특화-ai-2파전-네이버클라우드.md",
-            "title": "보안 특화 AI '2파전'…네이버클라우드-SKT 격돌"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-10",
-        "title": "사고의 원인은 모델이 아니라 통제 설계",
-        "summary": "위험이 모델 역량이 아니라 실행 환경 설계에서 발생한다는 점이 실측으로 드러났다.",
-        "articles": [
-          {
-            "date": "2026-08-10",
-            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
-            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
-            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-the-ai-safety-test-i.md",
-            "title": "The AI safety test is becoming a safety risk"
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
-            "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\""
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-미토스5-aisi-평가서-122회-반.md",
-            "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
-            "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213726",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-10",
-        "title": "국내 기업, AI 역량을 자본으로 확보",
-        "summary": "계약과 조달을 넘어 지분과 연합으로 모델·기술을 직접 쥐려는 국면이 열렸다.",
-        "articles": [
-          {
-            "date": "2026-08-10",
-            "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
-            "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다"
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
-            "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260810150051",
-            "title": ""
-          },
-          {
-            "date": "2026-08-10",
-            "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
-            "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-07",
-        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
-        "summary": "통제 부담은 조달 방식과 무관하게 상품 계층으로 내려왔다.",
-        "articles": [
-          {
-            "date": "2026-08-07",
-            "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
-            "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\""
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
-            "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
-          },
-          {
-            "date": "2026-08-07",
-            "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
-            "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260807131003",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-08-05",
-        "title": "엔터프라이즈 AI 도입 저변 확대",
-        "summary": "엔터프라이즈 AI 도입 저변이 밸류체인 전체로 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-08-05",
-            "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
-            "title": "태평양, 국내 로펌 최초 챗GPT 엔터프라이즈 전사 도입"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
-            "title": "LG 엑사원, 중소 제조현장에 AI 에이전트로 확산"
-          },
-          {
-            "date": "2026-08-05",
-            "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
-            "title": "SKT, 688B 'A.X K2' 공개…산업 에이전트 정조준"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-04",
-        "title": "오픈웨이트 경쟁 격화",
-        "summary": "오픈웨이트 성능 추격으로 조달 선택지가 넓어졌다.",
-        "articles": [
-          {
-            "date": "2026-08-04",
-            "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
-            "title": "알리바바 큐원 3.8 맥스 공개, 2.4조 파라미터"
-          },
-          {
-            "date": "2026-08-04",
-            "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
-            "title": "국산 독자 AI 4사, 오픈웨이트 모델 공개"
-          },
-          {
-            "date": "2026-08-04",
-            "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
-            "title": "딥시크, 저가 에이전트 하네스로 판 흔든다"
-          }
-        ]
-      },
-      {
-        "date": "2026-08-03",
-        "title": "가격 인하가 부른 수요 폭발",
-        "summary": "AI 도입의 걸림돌이 비용에서 활용 역량으로 옮겨갔다.",
-        "articles": [
-          {
-            "date": "2026-08-03",
-            "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
-            "title": "오픈AI, 가격 인하 후 사용자 10억 돌파"
-          },
-          {
-            "date": "2026-08-03",
-            "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
-            "title": "아마존, 오픈AI에 72조 투자 완료"
-          }
-        ]
-      },
-      {
-        "date": "2026-07-31",
-        "title": "AI 도입 원가 구조 재편",
-        "summary": "프리미엄과 저가 모델을 업무별로 조합하는 전략이 현실화됐다.",
-        "articles": [
-          {
-            "date": "2026-07-31",
-            "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
-            "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"
-          },
-          {
-            "date": "2026-07-31",
-            "file": "20260731-microsoft-ai-bets-on.md",
-            "title": "Microsoft AI bets on cheap specialist models"
-          }
-        ]
-      }
-    ],
     "ai_compute_energy": [
       {
         "date": "2026-09-12",
-        "title": "AI 조달 비용이 재무 변수로",
-        "summary": "차입 금리와 GPU 취득 규모가 증설 지속성의 시험대가 됐다.",
+        "title": "AI 수요가 조달 전반을 흔든다",
+        "summary": "차입 비용과 구형 반도체 품귀가 증설 조건을 다시 짰다.",
         "articles": [
           {
             "date": "2026-09-12",
@@ -126903,6 +126541,16 @@
             "date": "2026-09-12",
             "file": "20260912-lg-cns-엔비디아-베라-루빈-확보.md",
             "title": "LG CNS, 엔비디아 '베라 루빈' 확보에 3814억원 투입"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-구형-반도체라고-무시했는데-주문-2배.md",
+            "title": "“구형 반도체라고 무시했는데, 주문 2배 폭주”…한달새 21% 뛴 DB하이텍 [이주의 Bull기둥]"
+          },
+          {
+            "date": "2026-09-12",
+            "file": "20260912-characterizing-job-p.md",
+            "title": "Characterizing Job Power Elasticity for Power-Flexible AI Training"
           }
         ]
       },
@@ -128533,267 +128181,613 @@
         ]
       }
     ],
-    "physical_ai": [
+    "llm_models": [
       {
-        "date": "2026-09-08",
-        "title": "투자가 사무실에서 공장으로",
-        "summary": "AX의 다음 무대가 생산라인 자율화로 옮겨갔다.",
+        "date": "2026-09-11",
+        "title": "연산 용량이 매출 한도로",
+        "summary": "증설 목표가 GW 단위로 커지며 자금·안정성 부담도 함께 불어난다.",
         "articles": [
           {
-            "date": "2026-09-08",
-            "file": "20260908-빅웨이브로보틱스-모듈러-주택-제작에-.md",
-            "title": "빅웨이브로보틱스, 모듈러 주택 제작에 휴머노이드 투입"
+            "date": "2026-09-11",
+            "file": "20260911-오픈ai-프로-요금제-신규-가입-일시.md",
+            "title": "오픈AI, '프로 요금제' 신규 가입 일시 중단...\"기존 사용자 경험 우선\""
           },
           {
-            "date": "2026-09-08",
-            "file": "20260908-장병탁-교수-피지컬-ai는-이제-시작.md",
-            "title": "장병탁 교수 \"피지컬 AI는 이제 시작…데이터 팩토리 더 투자해야\""
+            "date": "2026-09-11",
+            "file": "20260911-오라클-ai-데이터센터-수요에-매출-.md",
+            "title": "오라클, AI 데이터센터 수요에 매출 30% 증가…OCI 매출 2배"
           },
           {
-            "date": "2026-09-08",
-            "file": "20260908-노타-lg전자-모빌린트와-k-반도체-.md",
-            "title": "노타, LG전자·모빌린트와 K-반도체 탑재한 휴머노이드 최적화 맡는다"
+            "date": "2026-09-11",
+            "file": "20260911-jensen-huang-explain.md",
+            "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
           },
           {
-            "date": "2026-09-08",
-            "file": "20260908-삼성sds-삼성-생산라인-1000곳-.md",
-            "title": "삼성SDS, 삼성 생산라인 1000곳 RX 추진…“핵심은 로봇 오케스트레이션”"
+            "date": "2026-09-11",
+            "file": "20260911-powering-ai-is-an-ar.md",
+            "title": "Powering AI is an architecture problem"
           },
           {
-            "date": "2026-09-08",
-            "file": "20260908-kt-로봇-데이터-관리-통합-엣지ai.md",
-            "title": "KT, 로봇 데이터 관리 ‘통합 엣지AI 플랫폼’ 구현 나서"
+            "date": "2026-09-11",
+            "file": "20260911-new-deepseek-model-v.md",
+            "title": "New Deepseek model V4.1-Flash cuts memory needs for AI agents"
           },
           {
-            "date": "2026-09-08",
-            "file": "20260908-사이트-김녹원-딥엑스-대표-라즈베리-.md",
-            "title": "[人사이트]김녹원 딥엑스 대표 “라즈베리 파이로 개발자 선점…피지컬 AI 양산 시장 연다”"
+            "date": "2026-09-11",
+            "file": "20260911-스위스-채권-26-삼킨-미국-ai-기.md",
+            "title": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박"
           },
           {
-            "date": "2026-09-08",
-            "file": "20260908-5년-못-푼-자동차-도장-문제-10분.md",
-            "title": "\"5년 못 푼 자동차 도장 문제, 10분 만에 해결\"…앤트로픽이 제시한 AX 생존법"
+            "date": "2026-09-11",
+            "file": "20260911-45조원-국가전략기술-투자에도-aid.md",
+            "title": "45조원 국가전략기술 투자에도…AIDC 세액공제 심의통과 0건"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-ms-2032년까지-데이터센터-용량-.md",
+            "title": "MS, 2032년까지 데이터센터 용량 3배↑…AI·클라우드 수요 대응"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-스페이스x-데이터센터-구축-방식-바꾼.md",
+            "title": "스페이스X, 데이터센터 구축 방식 바꾼다…‘속도’보다 안정성에 무게"
           }
         ]
       },
       {
-        "date": "2026-09-07",
-        "title": "피지컬 AI, 중소 현장으로",
-        "summary": "대기업 실증 단계를 지나 중소 설비 투자와 글로벌 사업자 진입이 동시에 열린다.",
+        "date": "2026-09-11",
+        "title": "AI 과금, 사용량 기준으로 굳는다",
+        "summary": "무료 확산을 끝내고 사용량 과금과 상장으로 수익·자본 경로를 다진다.",
         "articles": [
           {
-            "date": "2026-09-07",
-            "file": "20260907-라이다-비전-센서로-팔레트-스스로-현.md",
-            "title": "라이다·비전 센서로 팔레트 스스로…현대위아, 기아 공장에 '무인지게차' 첫 공급"
+            "date": "2026-09-11",
+            "file": "20260911-amazon-gives-openai-.md",
+            "title": "Amazon gives OpenAI's ad business a boost, letting its advertisers into ChatGPT"
           },
           {
-            "date": "2026-09-07",
-            "file": "20260907-라이드플럭스-타타대우와-레벨2-자율주.md",
-            "title": "라이드플럭스,타타대우와 '레벨2+ 자율주행 트럭' 양산 추진한다"
+            "date": "2026-09-11",
+            "file": "20260911-데빈-개발사-코그니션-몸값-64조-달.md",
+            "title": "'데빈' 개발사 코그니션, 몸값 64조 달성...4개월 만에 85% 급등"
           },
           {
-            "date": "2026-09-07",
-            "file": "20260907-정부-중소-스마트공장에-피지컬-ai-.md",
-            "title": "정부, 중소 스마트공장에 '피지컬 AI' 심는다…특화 지원 프로그램 신설"
+            "date": "2026-09-11",
+            "file": "20260911-now-everyone-can-put.md",
+            "title": "Now everyone can put data to work"
           },
           {
-            "date": "2026-09-07",
-            "file": "20260907-웨이모-한국에-꼭-오고-싶다-진출-일.md",
-            "title": "웨이모 “한국에 꼭 오고 싶다”…진출 일정 미공개[현장+]"
+            "date": "2026-09-11",
+            "file": "20260911-india-s-pocket-fm-do.md",
+            "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-80명이-에이전트-90개-sk스퀘어의.md",
+            "title": "80명이 에이전트 90개…SK스퀘어의 AI 실험"
+          },
+          {
+            "date": "2026-09-11",
+            "file": "20260911-ai는-지금-1달러에-정부-뚫은-오픈.md",
+            "title": "[AI는 지금] 1달러에 美정부 뚫은 오픈AI…100만명 확보하자 '사용량 과금' 전환, 왜"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215147",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-10",
+        "title": "용량이 도입 일정을 정한다",
+        "summary": "성능보다 확보 가능한 연산량이 도입 속도를 가르는 국면이다.",
+        "articles": [
+          {
+            "date": "2026-09-10",
+            "file": "20260910-gpt-6-astra-the-next.md",
+            "title": "GPT-6 Astra: The next generation in intelligence for work"
+          },
+          {
+            "date": "2026-09-10",
+            "file": "20260910-오픈ai-삼성-협력-핵심은-칩-생산과.md",
+            "title": "오픈AI·삼성 협력 핵심은 '칩 생산과 보안'"
+          },
+          {
+            "date": "2026-09-10",
+            "file": "20260910-오픈ai-아스트라-수요-폭증에-유료-.md",
+            "title": "오픈AI, ‘아스트라’ 수요 폭증에 유료 신규 가입 일시 중단 검토"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215098",
+            "title": ""
+          },
+          {
+            "date": "2026-09-10",
+            "file": "20260910-ibib-a-protocol-for-.md",
+            "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-09",
+        "title": "조달 조건이 다시 쓰인다",
+        "summary": "모델 확보 경쟁과 함께 구독 계약의 비용 산정 근거가 흔들린다.",
+        "articles": [
+          {
+            "date": "2026-09-09",
+            "file": "20260909-삼성전자-미스트랄-ai와-맞손-반도체.md",
+            "title": "삼성전자, 미스트랄 AI와 맞손...‘반도체 특화 AI’ 개발 나선다"
+          },
+          {
+            "date": "2026-09-09",
+            "file": "20260909-국가ai전략위-독파모-평가-방식-수술.md",
+            "title": "국가AI전략위, 독파모 평가 방식 수술 예고 [현장+]"
+          },
+          {
+            "date": "2026-09-09",
+            "file": "20260909-토큰값-2-5배-비싼데-더-싸다-ai.md",
+            "title": "\"토큰값 2.5배 비싼데 더 싸다?\"…AI 가격 경쟁 기준이 뒤집혔다 [김주완의 글로벌 머니 X파일]"
+          },
+          {
+            "date": "2026-09-09",
+            "file": "20260909-한국판-미토스-개발-설립에-미래기금-.md",
+            "title": "'한국판 미토스' 개발社 설립에 미래기금 4.7조"
+          },
+          {
+            "date": "2026-09-09",
+            "file": "20260909-앤트로픽-맥스-플랜-허위-광고-혐의로.md",
+            "title": "앤트로픽, '맥스 플랜' 허위 광고 혐의로 집단 소송 당해...\"사용량 속였다\""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=673169",
+            "title": ""
+          },
+          {
+            "url": "https://arxiv.org/abs/2606.19376",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-08",
+        "title": "모델·칩 조달 선택지가 늘었다",
+        "summary": "단일 벤더 전제가 흔들리며 조달 기준을 다시 세울 때다.",
+        "articles": [
+          {
+            "date": "2026-09-08",
+            "file": "20260908-아티피셜-애널리시스-평가-체제-개편-.md",
+            "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 공동 1위로 상승"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-앤트로픽-클로드-수요-폭증에-11개월.md",
+            "title": "앤트로픽, '클로드' 수요 폭증에 11개월간 695조 인프라 확보"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-단독-데이터센터마저-서울공화국-신청-.md",
+            "title": "[단독] 데이터센터마저 서울공화국…신청 160곳중 96곳 수도권 몰렸다"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-미스트랄-삼성전자-주도로-4조-600.md",
+            "title": "미스트랄, 삼성전자 주도로 4조 6000억원 유치…기업가치 32조원"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-구글-딥마인드-실권-잡은-카부크추오글.md",
+            "title": "구글 딥마인드 실권 잡은 카부크추오글루 “목표는 오직 프론티어 복귀”"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-한컴-국산-npu로-ax-승부-퓨리오.md",
+            "title": "한컴, 국산 NPU로 AX 승부…퓨리오사AI와 제품 공동개발"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-삼성전자-2028년-메모리-최초-하이.md",
+            "title": "삼성전자, 2028년 메모리 최초 '하이 NA EUV' 도입... ASML과 포토마스크 개발 협력"
+          },
+          {
+            "date": "2026-09-08",
+            "file": "20260908-말레이시아-화웨이-ai-칩-도입-추진.md",
+            "title": "말레이시아, 中 화웨이 AI 칩 도입 추진…미국과 충돌 우려"
           }
         ]
       },
       {
         "date": "2026-09-06",
-        "title": "기계가 한 사람 몫을 넘겨받는다",
-        "summary": "시연이 끝나고 작업 완결과 요금이 붙자 인증이 실질 병목으로 드러났다.",
+        "title": "모델의 값이 한도와 순위로",
+        "summary": "성능 경쟁의 판정 기준이 점수에서 사용 한도와 배포 범위로 옮겨갔다.",
         "articles": [
           {
             "date": "2026-09-06",
-            "file": "20260906-테슬라-핸들-페달-없는-무인-택시-개.md",
-            "title": "테슬라, '핸들·페달' 없는 무인 택시 개시…당국은 조사 착수"
+            "file": "20260906-openai-rolls-out-gpt.md",
+            "title": "OpenAI rolls out GPT-6 Astra to top-tier ChatGPT plans at half the rate of GPT-5.6 Sol"
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-ifa2026-lg전자-액추에이터로-.md",
-            "title": "[IFA2026] LG전자, 액추에이터로 로봇 승부수...10월 빅테크와 만난다"
+            "file": "20260906-artificial-analysis-.md",
+            "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism"
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-ai-모델-다음은-산업현장-피지컬-a.md",
-            "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\""
+            "file": "20260906-오픈ai-코드-아레나-서-앤트로픽-처.md",
+            "title": "오픈AI, '코드 아레나'서 앤트로픽 처음 제쳐…'아스트라' 웹개발 1위 기염"
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-ifa2026-로봇-이젠-한-사람-몫.md",
-            "title": "[IFA2026]로봇, 이젠 한 사람 몫 한다"
+            "file": "20260906-앤트로픽-클로드-맥스-주간-사용량-초.md",
+            "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불"
           },
           {
             "date": "2026-09-06",
-            "file": "20260906-snt모티브-로봇-자회사-흡수합병-실.md",
-            "title": "SNT모티브, 로봇 자회사 흡수합병…실질 매출 창출 '과제'"
+            "file": "20260906-구글-음악-생성-모델-리리아-3-5-.md",
+            "title": "구글, 음악 생성 모델 ‘리리아 3.5’ 제미나이·API에 적용...대중화 본격화"
           }
         ]
       },
       {
         "date": "2026-09-05",
-        "title": "피지컬 AI, 전시장에서 공정으로",
-        "summary": "평가 기준이 시연에서 성공률과 실주행 조건으로 옮겨갔고 제도가 문턱으로 남았다.",
+        "title": "칩은 갈아타고 자본은 묶는다",
+        "summary": "연산을 자국 칩으로 대체하는 쪽과 지분으로 생태계를 묶는 쪽이 동시에 세를 넓힌다.",
         "articles": [
           {
             "date": "2026-09-05",
-            "file": "20260905-rx-막는-건-기술-아닌-제도-포스코.md",
-            "title": "RX 막는 건 기술 아닌 제도…포스코DX가 짚은 암묵지의 벽[현장+]"
+            "file": "20260905-딥시크-새로운-데이터센터-구축을-위해.md",
+            "title": "딥시크, 새로운 데이터센터 구축을 위해 화웨이 AI 칩 대량 주문 계획"
           },
           {
             "date": "2026-09-05",
-            "file": "20260905-현대차-새만금에-로봇-부품사-유치-특.md",
-            "title": "현대차 \"새만금에 로봇 부품사 유치…특구 지정으로 실증까지\""
+            "file": "20260905-엔비디아-무라티의-tml에-3-3조-.md",
+            "title": "엔비디아, 무라티의 TML에 3.3조 투자 논의…\"오픈소스 생태계 결속\""
           },
           {
             "date": "2026-09-05",
-            "file": "20260905-인력-재배치시-파업가능-에-경영계-우.md",
-            "title": "'인력 재배치시 파업가능'에 경영계 우려↑…\"누더기 지침 한계\""
+            "file": "20260905-ai는-지금-gpu만으론-부족-삼성도.md",
+            "title": "[AI는 지금] \"GPU만으론 부족\"…삼성도 'AI 추론 SW' 짐렛랩스에 베팅"
           },
           {
-            "date": "2026-09-05",
-            "file": "20260905-ifa2026-샤오미-휴머노이드-사이.md",
-            "title": "[IFA2026]샤오미, 휴머노이드 '사이버원' 첫 해외 공개…“작업 성공률 98%”"
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=214878",
+            "title": ""
           },
           {
-            "date": "2026-09-05",
-            "file": "20260905-xdof-just-three-mont.md",
-            "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+            "url": "https://zdnet.co.kr/view/?no=20260905073057",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "title": "실무는 맡기는데 근거는 안 보인다",
+        "summary": "수행 능력이 오른 대신 판단 과정을 확인할 방법이 줄었다.",
+        "articles": [
+          {
+            "date": "2026-09-04",
+            "file": "20260904-오픈ai-압도적-성능-gpt-6-아스.md",
+            "title": "오픈AI, 압도적 성능 'GPT-6 아스트라' 공개…\"AGI 시대 진입\" 선언"
           },
           {
-            "date": "2026-09-05",
-            "file": "20260905-ifa2026-종이컵-들고-버튼-누른.md",
-            "title": "[IFA2026]종이컵 들고 버튼 누른다…모바, 로봇손 'Knot 80'"
+            "date": "2026-09-04",
+            "file": "20260904-ai가-암산-하기-시작했다-오픈ai-.md",
+            "title": "AI가 '암산'하기 시작했다…오픈AI 새 추론법에 안전 우려"
           },
           {
-            "date": "2026-09-05",
-            "file": "20260905-테슬라-fsd-v14-라이트-지하주차.md",
-            "title": "테슬라 FSD V14 라이트, 지하주차장서 길 찾았다[카미경]"
+            "date": "2026-09-04",
+            "file": "20260904-나-이제-퇴근해-카톡-보내면-ai-비.md",
+            "title": "\"나 이제 퇴근해\" 카톡 보내면…AI 비서 \"에어컨 26도로 켜둘게요\""
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-ai앱-1900개가-회사-업무-skb.md",
+            "title": "\"AI앱 1900개가 회사 업무\"…SKB, 상품부터 조직까지 AI로 재설계"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-mastercontrol-sevent.md",
+            "title": "MasterControl Seventeen Every Time"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-dnative-twin-decisio.md",
+            "title": "DNative-Twin: Decision Graphs and Digital Twins for Reconstructable Agentic Decisions"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=672700",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-04",
+        "title": "모델을 손에 넣는 경로가 갈라진다",
+        "summary": "직접 만들기보다 사거나 얹거나 데이터로 값을 치르는 쪽으로 갈린다.",
+        "articles": [
+          {
+            "date": "2026-09-04",
+            "file": "20260904-nvidia-buys-the-fron.md",
+            "title": "Nvidia buys the front door to open AI as closed labs increasingly design their own silicon"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-엔비디아-허깅페이스-17-5조-인수-.md",
+            "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-accel-reportedly-in-.md",
+            "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-사우디-휴메인-미니맥스-협력으로-아랍.md",
+            "title": "사우디 휴메인, 미니맥스 협력으로 아랍어 모델 ‘휴메인-m3’ 공개"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-데이터-공유하면-95-할인-메타-기여.md",
+            "title": "“데이터 공유하면 95% 할인”…메타, ‘기여자 요금제’ 전면 확대"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-문샷-ai-홍콩-증시-ipo-비공개-.md",
+            "title": "문샷 AI, 홍콩 증시 IPO 비공개 신청…중국 AI 기업 자금 조달 가속화"
+          },
+          {
+            "date": "2026-09-04",
+            "file": "20260904-앤트로픽-중국-ai-다크웹서-도난-카.md",
+            "title": "앤트로픽 \"중국 AI, 다크웹서 도난 카드로 클로드 무단 증류\" 폭로"
           }
         ]
       },
       {
         "date": "2026-09-02",
-        "title": "국가 AI가 조달에서 지역·현장으로",
-        "summary": "예산 배분과 발주 확정을 지나 지역 산업과 제조 현장 데이터로 집행 지점이 내려왔다.",
+        "title": "금융 AI, 감독기관에서 사내 업무까지",
+        "summary": "활용 주체가 감독기관으로 넓어지고 적용 지점이 창구 밖 임직원 업무와 전산 인프라까지 내려왔다.",
         "articles": [
           {
             "date": "2026-09-02",
-            "file": "20260902-독파모-넘어-프론티어-ai로-정부-g.md",
-            "title": "\"독파모 넘어 프론티어 AI로\"…정부, GPU 1만장 확보에 3.85조 배정"
+            "file": "20260902-ai가-민원-답변-초안-작성-금감원-.md",
+            "title": "AI가 민원 답변 초안 작성…금감원, 민원·분쟁 AI 시범운영"
           },
           {
             "date": "2026-09-02",
-            "file": "20260902-정부-공공-정보시스템-전수조사-연내-.md",
-            "title": "정부, 공공 정보시스템 전수조사…연내 클라우드 전환 로드맵 만든다"
+            "file": "20260902-ls증권-멀티-llm-기반-사내-업무.md",
+            "title": "LS증권, 멀티 LLM 기반 '사내 업무형 AI 플랫폼' 구축 착수"
           },
           {
             "date": "2026-09-02",
-            "file": "20260902-kosa-한국-풀스택-ai-컨소시엄-.md",
-            "title": "KOSA, '한국 풀스택 AI 컨소시엄' 아람코 디지털 기술 실증 완료"
+            "file": "20260902-dbs-and-stripe-join-.md",
+            "title": "DBS and Stripe join forces"
           },
           {
             "date": "2026-09-02",
-            "file": "20260902-ai는-지금-ai-스타트업에-1857.md",
-            "title": "[AI는 지금] 英, AI 스타트업에 1857억원 투입…의료·국방·보안 기술 키운다"
+            "file": "20260902-빗썸에-ai-붙었다-코인-종목-분석부.md",
+            "title": "빗썸에 AI 붙었다…코인 종목 분석부터 상승·하락 신호까지"
           },
           {
             "date": "2026-09-02",
-            "file": "20260902-ax-대전환-초격차-토론회-수도권-지.md",
-            "title": "[AX 대전환 초격차 토론회] 수도권·지역 AX 격차 줄인다…5극 3특 연계 해법 제시"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672458",
-            "title": ""
+            "file": "20260902-700만명-모은-토스-페이스페이-보안.md",
+            "title": "700만명 모은 토스 ‘페이스페이’…\"보안 난이도 강화…금융권 수준\""
           },
           {
             "date": "2026-09-02",
-            "file": "20260902-엠아이큐브솔루션-피지컬ai-국책과제-.md",
-            "title": "엠아이큐브솔루션, 피지컬AI 국책과제 2건 선정…AI·DT 사업 확대"
+            "file": "20260902-주택금융공사-새-데이터센터-구축-상암.md",
+            "title": "주택금융공사, 새 데이터센터 구축…상암·재해복구센터 통합"
           },
           {
             "date": "2026-09-02",
-            "file": "20260902-두산로보틱스-산업부-m-ax-과제로-.md",
-            "title": "두산로보틱스, 산업부 M.AX 과제로 '제조 암묵지 획득' 추진...3분기 판가름"
+            "file": "20260902-플레이디-ai-에이전트-42개-자체-.md",
+            "title": "플레이디, AI 에이전트 42개 자체 구축…\"전사 생산성 극대화\""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-01",
+        "title": "규제가 플랫폼과 금융안정으로",
+        "summary": "AI 전용 규제를 넘어 기존 플랫폼 규제와 금융 시스템 리스크로 감독 축이 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-09-01",
+            "file": "20260901-chatgpt-now-faces-st.md",
+            "title": "ChatGPT now faces stricter EU oversight as a very large search engine"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260902144028",
+            "date": "2026-09-01",
+            "file": "20260901-bank-of-england-chie.md",
+            "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-단독-국토부-테슬라-감독형-fsd-국.md",
+            "title": "[단독] 국토부 “테슬라 감독형 FSD 국내 기준 부적합”…미국산 예외"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-eu-챗gpt-초대형-검색엔진-지정-.md",
+            "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-첨단-ai-금융-시스템-위협-영국-중.md",
+            "title": "\"첨단 AI, 금융 시스템 위협\"…영국 중앙은행 총재, G20에 경고"
+          },
+          {
+            "date": "2026-09-01",
+            "file": "20260901-유재수의-특이점-singularity.md",
+            "title": "[유재수의 특이점(Singularity) 시대] 〈13〉AI 시대의 금융, AI 활용보다 보안이 우선이다"
+          },
+          {
+            "url": "https://www.etnews.com/20260901000226",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-09-01",
-        "title": "AI 예산이 사업 단위로",
-        "summary": "총액 구호가 부처별 사업과 자본 공급 수단으로 쪼개지며 발주 시점이 계산 가능해졌다.",
+        "title": "AI 경쟁이 운영 역량으로",
+        "summary": "모델 선택이 끝난 자리에서 조직의 연결·운영·인력 구성이 성과를 가르기 시작했다.",
         "articles": [
           {
             "date": "2026-09-01",
-            "file": "20260901-3대-메가프로젝트-ai에-21-3조원.md",
-            "title": "3대 메가프로젝트·AI에 21.3조원 투입해 총력 지원 나선다[2027년 예산안]"
+            "file": "20260901-이커머스-빅테크-증권사도-ai를-잘-.md",
+            "title": "이커머스, 빅테크, 증권사도 'AI를 잘 썼는가' 묻기 시작한 기업들"
           },
           {
             "date": "2026-09-01",
-            "file": "20260901-2027예산-피지컬-ai에-3-1조-.md",
-            "title": "[2027예산] 피지컬 AI에 3.1조…'모두의 AI' 에이전트로 진화"
+            "file": "20260901-금융-ax-힘주는-kt-5대은행-중-.md",
+            "title": "'금융 AX' 힘주는 KT…5대은행 중 4곳 구축"
           },
           {
             "date": "2026-09-01",
-            "file": "20260901-산업부-내년-40-5-늘어난-13-3.md",
-            "title": "산업부 내년 40.5% 늘어난 13.3조 '역대 최대'…AI·반도체 집중[2027년 예산안]"
+            "file": "20260901-현장-이수정-ibm-사장-ai-경쟁-.md",
+            "title": "[현장] 이수정 IBM 사장 \"AI 경쟁, 핵심은 모델 아닌 운영\""
           },
           {
             "date": "2026-09-01",
-            "file": "20260901-27-과기정통부-예산-ai에-9-4조.md",
-            "title": "[27 과기정통부 예산] ②AI에 9.4조 쏟는다…'3대 강국' 총력전"
+            "file": "20260901-미국-국방부-군용-챗gpt-그록-도입.md",
+            "title": "미국 국방부, 군용 챗GPT·그록 도입…민감 데이터 보호 나선다"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672242",
+            "date": "2026-09-01",
+            "file": "20260901-ai-시대-일의-재편-채용-시장-판도.md",
+            "title": "[AI 시대 일의 재편]① 채용 시장 판도 변화…연구서 '실무·AX'로"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260901135343",
+            "title": ""
+          },
+          {
+            "url": "https://www.fnnews.com/news/202609011402002196",
             "title": ""
           },
           {
             "date": "2026-09-01",
-            "file": "20260901-2027-예산안-20조원-넘는-한국판.md",
-            "title": "[2027 예산안]20조원 넘는 한국판 국부펀드 띄운다…모태펀드 출자도 역대 최대"
+            "file": "20260901-롯데이노베이트-분산-데이터-온톨로지로.md",
+            "title": "롯데이노베이트, 분산 데이터 온톨로지로 묶어 롯데백화점 ‘브랜드 AI’ 구축"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-29",
+        "title": "조달 통로와 모델 크기가 함께 흔들린다",
+        "summary": "어디서 받을지에 더해 얼마나 큰 모델이 필요한지가 다시 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-29",
+            "file": "20260829-앤트로픽-b2b-공략-속도-리셀러-s.md",
+            "title": "앤트로픽, 韓 B2B 공략 속도…리셀러·SI 채널 키운다"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=672352",
-            "title": ""
+            "date": "2026-08-29",
+            "file": "20260829-open-weight-ai-compa.md",
+            "title": "Open-weight AI companies are the Valley’s hottest acquisition targets"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20260901112400017",
+            "date": "2026-08-29",
+            "file": "20260829-코히어-대규모-엔터프라이즈-문서-분석.md",
+            "title": "코히어, 대규모 엔터프라이즈 문서 분석 AI ‘파스’ 공개...“성능·비용 다 잡았다”"
+          },
+          {
+            "date": "2026-08-29",
+            "file": "20260829-텐센트-차세대-모델-hy4-프리뷰-오.md",
+            "title": "텐센트, 차세대 모델 'Hy4 프리뷰' 오픈 출시로 기업용 시장 정조준"
+          },
+          {
+            "date": "2026-08-29",
+            "file": "20260829-메타-80억-소형-ai로-클로드-오퍼.md",
+            "title": "메타, 80억 소형 AI로 ‘클로드 오퍼스 4.5’급 성능 구현…‘에보하네스-RL’ 공개"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-28",
+        "title": "국민 AI, 접점 전략까지 나왔다",
+        "summary": "국산 모델이 어느 채널로 국민에게 닿는지가 확정됐다.",
+        "articles": [
+          {
+            "date": "2026-08-28",
+            "file": "20260828-skt-카카오-kt-모두의-ai-사업.md",
+            "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시”"
+          },
+          {
+            "date": "2026-08-28",
+            "file": "20260828-모두의-ai-증명서-떼고-병원-예약-.md",
+            "title": "[모두의 AI] \"증명서 떼고 병원 예약\"...SKT, 국민 AI 서비스 10월 공개"
+          },
+          {
+            "date": "2026-08-28",
+            "file": "20260828-skt는-행동형-비서-카카오는-카톡-.md",
+            "title": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 3사 전략은"
+          },
+          {
+            "url": "https://www.etnews.com/20260828000246",
             "title": ""
           }
         ]
       },
       {
-        "date": "2026-08-30",
-        "title": "제조 현장이 피지컬AI로 넘어간다",
-        "summary": "설비 자동화를 넘어 공장 운영 계층과 사업 포트폴리오 자체가 재편되고 있다.",
+        "date": "2026-08-27",
+        "title": "연산 원가, 위아래서 동시에 흔들린다",
+        "summary": "수요와 효율, 규제가 함께 움직이며 원가 기준선이 다시 잡힌다.",
         "articles": [
           {
-            "date": "2026-08-30",
-            "file": "20260830-공장장은-ai-로봇은-동료-전북-피지.md",
-            "title": "공장장은 AI, 로봇은 동료…전북 피지컬AI 심장부 가보니"
+            "date": "2026-08-27",
+            "file": "20260827-nvidia-forecasts-fis.md",
+            "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates"
           },
           {
-            "date": "2026-08-30",
-            "file": "20260830-가전회사가-로봇기업-됐다-가전공룡도-.md",
-            "title": "가전회사가 로봇기업 됐다... 中 가전공룡도 '변신'"
+            "date": "2026-08-27",
+            "file": "20260827-amazon-just-tripled-.md",
+            "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’"
           },
           {
-            "date": "2026-08-30",
-            "file": "20260830-웨이모-자율주행-카메라만으론-역부족-.md",
-            "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판"
+            "date": "2026-08-27",
+            "file": "20260827-anthropic-continues-.md",
+            "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale"
           },
           {
-            "url": "https://www.etnews.com/20260830000078",
-            "title": ""
+            "date": "2026-08-27",
+            "file": "20260827-엔비디아-ai-맞춤형-메모리-nvhb.md",
+            "title": "엔비디아, AI 맞춤형 메모리 'NVHBM' 공개"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-ai-칩-팔려고-은행-된-엔비디아-수.md",
+            "title": "AI 칩 팔려고 '은행' 된 엔비디아…수요 둔화 시 재무 충격 우려"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-산업용-지역-전기요금-최대-10-인하.md",
+            "title": "산업용 지역 전기요금 최대 10% 인하…지역별 조정 요금 신설"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-nvidia-closes-in-on-.md",
+            "title": "Nvidia closes in on Hugging Face acquisition"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-ai-데이터센터-전력-0-001초마다.md",
+            "title": "AI 데이터센터 전력 0.001초마다 '출렁'…정부, 전용 그리드코드 만든다"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-스페인-데이터센터-규제-강화-전력-8.md",
+            "title": "스페인, 데이터센터 규제 강화…전력 80% 재생에너지로 조달"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-알리바바-큐원4-예고편-나왔다-훈련비.md",
+            "title": "알리바바 '큐원4' 예고편 나왔다…훈련비용 9분의 1 절감"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-옥스-알파-정체는-glm-5-3-플래.md",
+            "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”"
+          },
+          {
+            "date": "2026-08-27",
+            "file": "20260827-ai시대-통신망-투자-논의-시동-연내.md",
+            "title": "AI시대 통신망 투자 논의 시동…연내 규제 개선안 마련"
           }
         ]
       },
@@ -128858,192 +128852,504 @@
         ]
       },
       {
+        "date": "2026-08-26",
+        "title": "국산 모델과 정부 조직이 함께 선다",
+        "summary": "모델 저변 확대와 정부의 직접 개발 전환이 조달 구도를 바꾼다.",
+        "articles": [
+          {
+            "date": "2026-08-26",
+            "file": "20260826-미스트랄-중동-소버린-ai-시장-공략.md",
+            "title": "미스트랄, '중동 소버린 AI' 시장 공략…휴메인 맞손"
+          },
+          {
+            "date": "2026-08-26",
+            "file": "20260826-ai픽-리벨리온-영국-소버린-ai-진.md",
+            "title": "[AI픽] 리벨리온, 영국 소버린 AI 진출…NPU 랙 100대 공급 추진"
+          },
+          {
+            "date": "2026-08-26",
+            "file": "20260826-한국-ai-이어-3위-굳히기-독파모-.md",
+            "title": "한국 AI, 美中 이어 '3위' 굳히기…독파모 성과 주목"
+          },
+          {
+            "date": "2026-08-26",
+            "file": "20260826-정부-개발자-조직-국민ai서비스혁신추.md",
+            "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 신설…서비스 신속 개발 기대"
+          },
+          {
+            "date": "2026-08-26",
+            "file": "20260826-일론-머스크-ceo-그록-시장서-뒤처.md",
+            "title": "일론 머스크 CEO \"그록, 시장서 뒤처져…앤트로픽이 선두\""
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=214378",
+            "title": ""
+          }
+        ]
+      },
+      {
         "date": "2026-08-25",
-        "title": "피지컬 AI에 돈과 노선이 붙었다",
-        "summary": "자본 규모와 기술 노선은 정해졌지만 확산 속도는 사람이 정한다.",
+        "title": "모델 주권이 안보 의제로",
+        "summary": "조달의 축이 성능 비교에서 확보 가능성과 데이터 주권으로 옮겨갔다.",
         "articles": [
           {
             "date": "2026-08-25",
-            "file": "20260825-테슬라-우버-웨이모-라스베이거스서-로.md",
-            "title": "테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득"
+            "file": "20260825-thomson-reuters-bets.md",
+            "title": "Thomson Reuters bets $40M on owning its AI instead of renting from OpenAI or Anthropic"
           },
           {
             "date": "2026-08-25",
-            "file": "20260825-lg이노텍-서-피지컬-ai-인재-확보.md",
-            "title": "LG이노텍, 美서 '피지컬 AI' 인재 확보 총력…현지서 채용 행사"
+            "file": "20260825-ls-모티프테크놀로지스와-제조-현장-.md",
+            "title": "LS, 모티프테크놀로지스와 제조 현장 맞춤형 AI 모델 공동개발"
           },
           {
             "date": "2026-08-25",
-            "file": "20260825-현대차-노사-임협-잠정합의-정년-65.md",
-            "title": "현대차 노사, 임협 잠정합의…정년 65세 '임금피크 확대 없다'"
+            "file": "20260825-인터뷰-클라우드는-사치재-소버린-ai.md",
+            "title": "[인터뷰] \"클라우드는 사치재\"…'소버린 AI' 강조한 클라우데라 CEO, 韓 투자 검토"
           },
           {
             "date": "2026-08-25",
-            "file": "20260825-샤오펑-로봇-자회사-도고틱스-1-2조.md",
-            "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모"
+            "file": "20260825-배경훈-ai-모델은-국가-안보-독자-.md",
+            "title": "배경훈 \"AI 모델은 국가 안보\"…독자 AI 글로벌 톱티어 도전"
           },
           {
             "date": "2026-08-25",
-            "file": "20260825-fsd-온로드-테슬라-e2e-넘겠다는.md",
-            "title": "[FSD 온로드] '테슬라 E2E' 넘겠다는 정부…VLA 승부수"
+            "file": "20260825-영국-우크라이나-전장-ai-빅데이터-.md",
+            "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수"
           },
           {
-            "url": "https://www.etnews.com/20260825000157",
+            "date": "2026-08-25",
+            "file": "20260825-메타-ai-에이전트-해치-출시-임박-.md",
+            "title": "메타, AI 에이전트 '해치' 출시 임박...10월엔 새 모델 '워터멜론' 공개"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-24",
+        "title": "모델 유통 길목 인수전",
+        "summary": "경쟁의 초점이 모델 성능에서 배포·조달 통로로 옮겨갔다.",
+        "articles": [
+          {
+            "date": "2026-08-24",
+            "file": "20260824-허깅페이스-18조-매각-추진-빅테크-.md",
+            "title": "허깅페이스, 18조 매각 추진...빅테크 인수전 펼쳐지나"
+          },
+          {
+            "date": "2026-08-24",
+            "file": "20260824-스트라이프-ai-모델-허브-오픈라우터.md",
+            "title": "스트라이프, AI 모델 허브 오픈라우터 75억달러에 인수…'AI 경제 인프라' 강화"
+          },
+          {
+            "date": "2026-08-24",
+            "file": "20260824-엔비디아-중국-오픈-모델-독주-막는다.md",
+            "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 개발로 전면전"
+          },
+          {
+            "date": "2026-08-24",
+            "file": "20260824-엔비디아-ai-스타트업-풀사이드와-6.md",
+            "title": "엔비디아, AI 스타트업 풀사이드와 60억달러 라이선스 계약"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-21",
+        "title": "AI가 조직도를 다시 그린다",
+        "summary": "법인 분리와 온디바이스 전략이 맞물리며 자본배분 단위가 AI 기준으로 굳었다.",
+        "articles": [
+          {
+            "date": "2026-08-21",
+            "file": "20260821-카카오-두-개로-나뉜다-카카오ai-카.md",
+            "title": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속”"
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-카카오-지배구조-개편-카카오ai-x-.md",
+            "title": "[카카오 지배구조 개편] '카카오AI·X'로 인적분할…투트랙 승부수"
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-정신아-카카오ai-온디바이스로-승부-.md",
+            "title": "정신아 \"카카오AI 온디바이스로 승부…고용 100% 승계\""
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-카카오-카카오x-지주사-전환-없다-a.md",
+            "title": "카카오 \"카카오X 지주사 전환 없다\"…AI·투자 독립경영(종합)"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=671487",
             "title": ""
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-또-쪼개기-상장-에-카카오-160만-.md",
+            "title": "“또 쪼개기 상장”에 카카오 160만 주주 ‘부들부들’ … 새로 상장하는 AI 회사의 정체는"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-21",
+        "title": "자본시장이 AI를 값 매긴다",
+        "summary": "공모와 분기 손익이 동시에 드러나며 AI가 평가받는 대상으로 내려왔다.",
+        "articles": [
+          {
+            "date": "2026-08-21",
+            "file": "20260821-오픈ai-2분기-매출-9조-영업손실-.md",
+            "title": "오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져"
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-단독-국민연금-누가-ai거품론을-말했.md",
+            "title": "[단독] 국민연금 “누가 AI거품론을 말했는가”…오픈AI·앤트로픽 IPO 참여"
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-앤트로픽-역대-최대-ipo-도전-스페.md",
+            "title": "앤트로픽, 역대 최대 IPO 도전…\"스페이스X 기록 깬다\""
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-알리바바-ai-클라우드-성장에도-대규.md",
+            "title": "알리바바, AI·클라우드 성장에도 대규모 투자로 순이익 75% 급감"
+          },
+          {
+            "date": "2026-08-21",
+            "file": "20260821-엔비디아-코딩-스타트업-풀사이드와-8.md",
+            "title": "엔비디아, 코딩 스타트업 풀사이드와 8조 규모 라이선스·인재 채용 계약"
           }
         ]
       },
       {
         "date": "2026-08-20",
-        "title": "로봇이 현장 계약으로 들어왔다",
-        "summary": "제조에서 다수 선택이 된 데 이어 생활 공간 운영 업무까지 상용 계약이 붙기 시작했다.",
+        "title": "정책 축이 활용으로 옮겨갔다",
+        "summary": "지원의 판단 기준이 성능 지표에서 실사용 성과로 바뀌며 조달 경쟁 구도도 넓어졌다.",
         "articles": [
           {
             "date": "2026-08-20",
-            "file": "20260820-제조기업-84-피지컬ai-도입한다-다.md",
-            "title": "제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”"
+            "file": "20260820-배경훈-ai-모델-인프라-넘어-산업-.md",
+            "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\""
           },
           {
             "date": "2026-08-20",
-            "file": "20260820-lg-cns-피지컬-ai-상용화-속도.md",
-            "title": "LG CNS, 피지컬 AI 상용화 속도…타워팰리스에 경비로봇 도입"
+            "file": "20260820-이스트소프트-모두의-ai-도전장-ai.md",
+            "title": "이스트소프트, '모두의 AI' 도전장…AI 비서 '알비서' 앞세운다"
           },
           {
             "date": "2026-08-20",
-            "file": "20260820-aws-한국-피지컬-ai-생태계-육성.md",
-            "title": "AWS, 한국 피지컬 AI 생태계 육성한다…로보틱스 상용화 앞장"
+            "file": "20260820-kt-ai-스타트업-16곳-선정해-a.md",
+            "title": "KT, AI 스타트업 16곳 선정해 AX 사업 개발 협력"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671335",
-            "title": ""
+            "date": "2026-08-20",
+            "file": "20260820-팀스파르타-폐쇄망서-활용-가능한-생성.md",
+            "title": "팀스파르타, 폐쇄망서 활용 가능한 생성 AI 코딩 에이전트 전면에"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-19",
+        "title": "국산 AI가 진영 대결로 굳었다",
+        "summary": "개별 모델 경쟁이 아니라 어느 연합에 속하느냐가 쓸 수 있는 서비스 범위를 정한다.",
+        "articles": [
+          {
+            "date": "2026-08-19",
+            "file": "20260819-ai-활용성-이-독파모-2차-평가-당.md",
+            "title": "'AI 활용성'이 독파모 2차 평가 당락 갈랐다"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=671305",
+            "date": "2026-08-19",
+            "file": "20260819-풀스택부터-대규모-연합까지-모두의-a.md",
+            "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은"
+          },
+          {
+            "date": "2026-08-19",
+            "file": "20260819-kt-국산-npu-llm-한-서버에-.md",
+            "title": "KT, 국산 NPU·LLM 한 서버에 담았다...'모두의AI'에도 활용"
+          },
+          {
+            "date": "2026-08-19",
+            "file": "20260819-모두의-ai-출사표-skt-풀스택-역.md",
+            "title": "'모두의 AI' 출사표 SKT, 풀스택 역량 앞세워 범국민 서비스 지원"
+          },
+          {
+            "date": "2026-08-19",
+            "file": "20260819-포스코dx-국산-npu로-산업현장-비.md",
+            "title": "포스코DX, 국산 NPU로 산업현장 비전 플랫폼 개발"
+          },
+          {
+            "date": "2026-08-19",
+            "file": "20260819-kt-컨소시엄-모두의-ai-출사표-서.md",
+            "title": "KT 컨소시엄, '모두의 AI' 출사표…서비스부터 반도체까지 전방위 결합"
+          },
+          {
+            "date": "2026-08-19",
+            "file": "20260819-누구나-쉽게-vs-생활-밀착-연합-s.md",
+            "title": "\"누구나 쉽게 vs 생활 밀착 연합\"...SKT·카카오, '모두의 AI' 전략 공개"
+          },
+          {
+            "date": "2026-08-19",
+            "file": "20260819-카카오-모두의-ai-참여-국민-생활-.md",
+            "title": "카카오, ‘모두의 AI’ 참여…국민 생활 편의성 높인다"
+          },
+          {
+            "url": "https://www.etnews.com/20260819000321",
             "title": ""
           }
         ]
       },
       {
-        "date": "2026-08-17",
-        "title": "AI 인프라 부담이 팩토리·소재로 번진다",
-        "summary": "공급 단위가 부품에서 데이터센터 전체로 커지고 조달 병목은 소재까지 내려갔다.",
+        "date": "2026-08-19",
+        "title": "AI 통제가 개발 단계까지 내려왔다",
+        "summary": "배포 후 관리가 아니라 모델을 만드는 과정 자체가 안전 검토 대상이 됐다.",
         "articles": [
           {
-            "date": "2026-08-17",
-            "file": "20260817-광통신-강국-ai-핵심-프리폼-역량은.md",
-            "title": "'광통신 강국' 韓, AI 핵심 '프리폼' 역량은 빈껍데기"
+            "date": "2026-08-19",
+            "file": "20260819-pacing-model-develop.md",
+            "title": "Pacing model development in an era of cyber-critical capabilities"
           },
           {
-            "date": "2026-08-17",
-            "file": "20260817-lg-냉각장치-넘어-ai팩토리-통째로.md",
-            "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다"
+            "date": "2026-08-19",
+            "file": "20260819-오픈ai-ai-위험-감시-대비팀-해체.md",
+            "title": "오픈AI, AI 위험 감시 '대비팀' 해체…안전 조직 또 흔들"
           },
           {
-            "date": "2026-08-17",
-            "file": "20260817-ai추론-확산-프론트엔드-스위치-시장.md",
-            "title": "AI추론 확산...프론트엔드 스위치 시장 커진다"
+            "date": "2026-08-19",
+            "file": "20260819-ai-에이전트도-내부자-sk쉴더스가-.md",
+            "title": "AI 에이전트도 '내부자'...SK쉴더스가 짚은 제로트러스트 전환"
           },
           {
-            "date": "2026-08-17",
-            "file": "20260817-사이트-김장우-망고부스트-대표-ai-.md",
-            "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 '혈관' 네트워크·패브릭”"
+            "date": "2026-08-19",
+            "file": "20260819-오픈ai-사이버-보안-위험으로-차세대.md",
+            "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단"
           },
           {
-            "date": "2026-08-17",
-            "file": "20260817-구리-공급-걱정마세요-수은-글로벌-자.md",
-            "title": "“구리 공급 걱정마세요”…수은, 글로벌 자원기업에 1.4조 금융지원"
+            "url": "https://www.hankyung.com/article/202608199384g",
+            "title": ""
           },
           {
-            "date": "2026-08-17",
-            "file": "20260817-젠슨-황-장녀-매디슨-황-lg-r-d.md",
-            "title": "젠슨 황 장녀 매디슨 황, LG R&D 캠퍼스 방문…피지컬 AI 동맹 가속"
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=214102",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-18",
+        "title": "국산 모델 판이 3파전으로 좁혀졌다",
+        "summary": "평가와 자원 배분에 이어 지원 체계 자체가 재설계되며 조달 후보군이 정책으로 확정됐다.",
+        "articles": [
+          {
+            "date": "2026-08-18",
+            "file": "20260818-ai-is-독파모-2차-평가-발표-임.md",
+            "title": "[AI is] 독파모 2차 평가 발표 임박…국민평가·전문가 심사 변수"
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-독파모-2차전-모티프-탈락-업스테이지.md",
+            "title": "독파모 2차전 '모티프' 탈락…업스테이지·SKT·LG 진출"
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-속보-정부-lg-skt-업스테이지에-.md",
+            "title": "[속보] 정부, LG·SKT·업스테이지에 엔비디아 B200 1000장 지원"
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-업스테이지-다음-ai-요약에-솔라-전.md",
+            "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”"
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-카카오-카나나2-안전성서-구글-알리바.md",
+            "title": "카카오 카나나2, 안전성서 구글·알리바바 AI 제쳤다"
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-독파모-2차-발표-lg-k-엑사원-3.md",
+            "title": "[독파모 2차 발표] LG 'K-엑사원' 3차 진출…\"승부처는 활용성\""
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-독파모-2차-발표-업스테이지-3차-진.md",
+            "title": "[독파모 2차 발표] 업스테이지, 3차 진출…\"국산 NPU로 실증·아시아권 공략\""
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-독파모-2차-발표-예정대로-2곳-선정.md",
+            "title": "[독파모 2차 발표] 예정대로 2곳 선정…AI 개발 지원책은 재검토"
+          },
+          {
+            "date": "2026-08-18",
+            "file": "20260818-독파모-탈락-모티프-kt와-모두의-a.md",
+            "title": "독파모 탈락 모티프, KT와 '모두의 AI' 재도전"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-16",
+        "title": "오픈 가중치가 최상위로",
+        "summary": "자체 구축이 성능을 포기하지 않는 선택지가 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-16",
+            "file": "20260816-알리바바-큐원3-8-27b-가중치-공.md",
+            "title": "알리바바, ‘큐원3.8-27B’ 가중치 공개...오퍼스 4.6급 성능 도전"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-알리바바-큐원3-8-맥스-가중치-공개.md",
+            "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요"
+          },
+          {
+            "date": "2026-08-16",
+            "file": "20260816-optima-tackles-ai-be.md",
+            "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-15",
+        "title": "AI 수익의 무게중심이 기업으로",
+        "summary": "공급사 매출과 흑자가 기업 계약에서 나오며 협상 구도가 바뀐다.",
+        "articles": [
+          {
+            "date": "2026-08-15",
+            "file": "20260815-8월14일-ai는-싸졌는데-비용은-늘.md",
+            "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표"
+          },
+          {
+            "date": "2026-08-15",
+            "file": "20260815-openai-and-anthropic.md",
+            "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground"
+          },
+          {
+            "date": "2026-08-15",
+            "file": "20260815-오픈ai-기업용-매출-챗gpt-넘어섰.md",
+            "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”"
+          },
+          {
+            "date": "2026-08-15",
+            "file": "20260815-앤트로픽-ipo-앞두고-첫-흑자-달성.md",
+            "title": "앤트로픽, IPO 앞두고 첫 흑자 달성…2분기 매출 16.3조 돌파"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-15",
+        "title": "AI 도구가 모델사로 흡수된다",
+        "summary": "개발 도구와 비서 앱이 공급사 계약 안으로 묶이는 통합이 확인됐다.",
+        "articles": [
+          {
+            "date": "2026-08-15",
+            "file": "20260815-ms-소비자-기업용-코파일럿-통합-개.md",
+            "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화"
+          },
+          {
+            "date": "2026-08-15",
+            "file": "20260815-귀해진-ai에이전트용-데이터-직원-p.md",
+            "title": "귀해진 AI에이전트용 데이터…직원 PC부터 인도 공장까지 뒤진다[김인엽의 AI 프런티어]"
+          },
+          {
+            "date": "2026-08-15",
+            "file": "20260815-스페이스x-85조-규모-커서-인수-최.md",
+            "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속"
           }
         ]
       },
       {
         "date": "2026-08-14",
-        "title": "피지컬 AI가 그룹 전략으로 올라섰다",
-        "summary": "개별 사업부 과제였던 로봇·자율주행이 그룹 자원 배분과 국가 예산 의제가 됐다.",
+        "title": "싼 토큰의 시대가 저문다",
+        "summary": "가격이 오르고 오픈 모델이 따라붙으며 조달 계산이 통째로 바뀐다.",
         "articles": [
           {
             "date": "2026-08-14",
-            "file": "20260814-lg-엔비디아-아이작-그루트-기반-휴.md",
-            "title": "LG, 엔비디아 아이작 그루트 기반 휴머노이드 로봇 내년 1분기 공개"
+            "file": "20260814-fable-5-s-slow-adopt.md",
+            "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling"
           },
           {
             "date": "2026-08-14",
-            "file": "20260814-로보티즈-안방서-휴머노이드-공개-최신.md",
-            "title": "로보티즈, 中 안방서 휴머노이드 공개…최신 액추에이터 판매 시동"
+            "file": "20260814-오픈ai-기업-ai-지출서-앤트로픽에.md",
+            "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…'GPT-5.6 솔', 페이블 5 제쳤다"
           },
           {
             "date": "2026-08-14",
-            "file": "20260814-uber-partners-with-c.md",
-            "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe"
+            "file": "20260814-오픈ai-연환산-매출-56조원-돌파-.md",
+            "title": "오픈AI, 연환산 매출 56조원 돌파 전망…영업 수장도 교체"
           },
           {
             "date": "2026-08-14",
-            "file": "20260814-피지컬-ai-흐름은-피할-수-없다-증.md",
-            "title": "“피지컬 AI 흐름은 피할 수 없다…증권가, LG에 러브콜 [오늘 나온 보고서]"
+            "file": "20260814-딥시크-v4-모델-api-가격-최대-.md",
+            "title": "딥시크, V4 모델 API 가격 최대 1100% 인상...혼잡 시간대 2배 부과"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213974",
+            "title": ""
           },
           {
             "date": "2026-08-14",
-            "file": "20260814-구광모-젠슨-황과-ai-동맹-강화-원.md",
-            "title": "구광모, 젠슨 황과 'AI 동맹' 강화…'원 LG' 역량 총결집"
+            "file": "20260814-앤트로픽-데카르트-ai-8조-규모-인.md",
+            "title": "앤트로픽, 데카르트 AI 8조 규모 인수 추진…'클로드' 인프라 강화"
           },
           {
             "date": "2026-08-14",
-            "file": "20260814-kosa-피지컬-ai-메가프로젝트-승.md",
-            "title": "KOSA \"피지컬 AI, 메가프로젝트 승부처\"…국회에 예산 지원 촉구"
+            "file": "20260814-업스테이지-솔라-프로-4-모델-최초-.md",
+            "title": "업스테이지 '솔라 프로 4', 韓 모델 최초 글로벌 개발자 플랫폼에"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-13",
+        "title": "에이전트 통제가 인프라 계층으로",
+        "summary": "모델을 손보는 대신 실행 권한과 조회 범위로 위험을 관리하는 방식이 제품이 됐다.",
+        "articles": [
+          {
+            "date": "2026-08-13",
+            "file": "20260813-암호화-추론의-허점-오픈ai-앤트로픽.md",
+            "title": "'암호화' 추론의 허점…오픈AI·앤트로픽·구글 API에서 숨은 사고 과정 추출"
           },
           {
-            "date": "2026-08-14",
-            "file": "20260814-장외-설전-벌이던-택시-플랫폼-카셰어.md",
-            "title": "'장외 설전' 벌이던 택시·플랫폼·카셰어링…서울 로보택시 플랫폼 두고 첫 '격돌'"
+            "date": "2026-08-13",
+            "file": "20260813-terabytes-of-credent.md",
+            "title": "Terabytes of credentials leaked in massive supply-chain attack"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
+            "date": "2026-08-13",
+            "file": "20260813-메타-ai-안경-독일서-고발당해-사생.md",
+            "title": "메타 AI 안경, 독일서 고발당해…\"사생활 보호법 위반\""
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-ai-에이전트-행동-흐름-통제한다-a.md",
+            "title": "AI 에이전트 행동 흐름 통제한다…AWS, 오픈소스 정책 언어 '도그우드' 공개"
+          },
+          {
+            "date": "2026-08-13",
+            "file": "20260813-답변-대신-조회를-막는다-오라클의-a.md",
+            "title": "답변 대신 조회를 막는다…오라클의 AI 보안 해법"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670869",
+            "title": ""
+          },
+          {
+            "url": "https://arxiv.org/abs/2608.11274",
             "title": ""
           }
         ]
       },
       {
-        "date": "2026-08-12",
-        "title": "성과의 잣대가 리드타임으로",
-        "summary": "비용 절감을 넘어 제품 개발 속도까지 AI 성과 지표가 확장됐다.",
+        "date": "2026-08-13",
+        "title": "국산 모델에 공통 잣대가 생겼다",
+        "summary": "공급사 자체 발표 대신 제3자 지표로 국산 모델을 비교할 근거가 처음 마련됐다.",
         "articles": [
           {
-            "date": "2026-08-12",
-            "file": "20260812-연간-52억-비용-아꼈다-현대차-공장.md",
-            "title": "\"연간 52억 비용 아꼈다\"…현대차 공장에 도입된 'AI 기술' 정체"
+            "date": "2026-08-13",
+            "file": "20260813-모티프-독파모-후발주자-한계-넘었다-.md",
+            "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록"
           },
           {
-            "date": "2026-08-12",
-            "file": "20260812-기업-내부회계-수작업-대신-ai로-삼.md",
-            "title": "\"기업 내부회계, 수작업 대신 AI로\"…삼정KPMG 특화 솔루션 출시"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-문서-재검수-87-한국딥러닝-딥에이전.md",
-            "title": "\"문서 재검수 87%↓\"…한국딥러닝 '딥에이전트' 보험사 공급"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-현대차그룹-세계-톱-ax-기업으로-변.md",
-            "title": "현대차그룹, 세계 톱 AX 기업으로 변신...신차 개발 기간 단축"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20260812135258",
-            "title": ""
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-데스크가-만났습니다-김민철-스위트케이.md",
-            "title": "[데스크가 만났습니다]김민철 스위트케이 대표 “명장 노하우를 데이터화…피지컬AI 완성”"
-          },
-          {
-            "date": "2026-08-12",
-            "file": "20260812-혁신플랫폼톡-하네스-엔지니어링이-여는.md",
-            "title": "[혁신플랫폼톡] 하네스 엔지니어링이 여는 기업 AX"
+            "date": "2026-08-13",
+            "file": "20260813-업스테이지-솔라-프로-4-aaii-아.md",
+            "title": "업스테이지 ‘솔라 프로 4’, AAII·아레나 지표로 에이전트 성능 입증"
           }
         ]
       },
@@ -129075,23 +129381,209 @@
         ]
       },
       {
-        "date": "2026-08-07",
-        "title": "피지컬 AI, 시연을 지나 요금·표준·인수합병으로",
-        "summary": "피지컬 AI가 시연을 지나 요금·표준 경쟁 단계로 넘어갔다.",
+        "date": "2026-08-11",
+        "title": "모델 조달의 선택지가 넓어졌다",
+        "summary": "성능이 아니라 어디서 어떻게 돌릴 수 있느냐가 채택 기준이 됐다.",
         "articles": [
           {
-            "url": "https://zdnet.co.kr/view/?no=20260807140334",
+            "date": "2026-08-11",
+            "file": "20260811-meta-returns-to-open.md",
+            "title": "Meta returns to open models with Zuckerberg's plan to out-copy China and sell compute by auction"
+          },
+          {
+            "date": "2026-08-11",
+            "file": "20260811-메타-노트북서-구동되는-300억-매개.md",
+            "title": "메타, 노트북서 구동되는 300억 매개변수 오픈 모델 '뮤즈 글리머' 출시"
+          },
+          {
+            "date": "2026-08-11",
+            "file": "20260811-skt-독자-모델-a-x-k2-로-수.md",
+            "title": "SKT, 독자 모델 'A.X K2'로 수학올림피아드 금메달·'AIME' 글로벌 1위"
+          },
+          {
+            "date": "2026-08-11",
+            "file": "20260811-추론-특화-모티프-2-ms-애저서-쓴.md",
+            "title": "추론 특화 '모티프 2', MS 애저서 쓴다"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=670539",
             "title": ""
           },
           {
+            "date": "2026-08-11",
+            "file": "20260811-보안-특화-ai-2파전-네이버클라우드.md",
+            "title": "보안 특화 AI '2파전'…네이버클라우드-SKT 격돌"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "사고의 원인은 모델이 아니라 통제 설계",
+        "summary": "위험이 모델 역량이 아니라 실행 환경 설계에서 발생한다는 점이 실측으로 드러났다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-허깅페이스-자율-해킹-전말-.md",
+            "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…\"에이전트끼리 비밀 소통\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-아스트라-개발-일시-중단-치.md",
+            "title": "오픈AI, '아스트라' 개발 일시 중단…\"치명적 사이버공격 가능성\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-the-ai-safety-test-i.md",
+            "title": "The AI safety test is becoming a safety risk"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-오픈ai-앤트로픽-메타-흔든-이레귤러.md",
+            "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-미토스5-aisi-평가서-122회-반.md",
+            "title": "미토스5, AISI 평가서 122회 반복 중 19건 비승인 행동…가짜 신분 확보 17건"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-키미-k3-안전-테스트에서-샌드박스-.md",
+            "title": "키미 K3, 안전 테스트에서 샌드박스 이탈…오픈가중치로 더 주목"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=213726",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-10",
+        "title": "국내 기업, AI 역량을 자본으로 확보",
+        "summary": "계약과 조달을 넘어 지분과 연합으로 모델·기술을 직접 쥐려는 국면이 열렸다.",
+        "articles": [
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-네이버-클로드-개발사-앤트로픽에.md",
+            "title": "[단독]네이버, '클로드' 개발사 美 앤트로픽에 투자했다"
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-단독-방산-라이벌-한화-lig의-동맹.md",
+            "title": "[단독]방산 라이벌 한화·LIG의 동맹…'AI 참모' 공동 개발 착수"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260810150051",
+            "title": ""
+          },
+          {
+            "date": "2026-08-10",
+            "file": "20260810-기획부터-본사업까지-4년-낡은-조달-.md",
+            "title": "기획부터 본사업까지 4년…낡은 조달 혁신 없인 '공공 AX' 성공없다"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-07",
+        "title": "에이전트 통제 실패, 오픈소스로 번지고 통제가 상품이 되다",
+        "summary": "통제 부담은 조달 방식과 무관하게 상품 계층으로 내려왔다.",
+        "articles": [
+          {
             "date": "2026-08-07",
-            "file": "20260807-리얼월드-국내-3사와-엔비디아-아이작.md",
-            "title": "리얼월드, 국내 3사와 엔비디아 '아이작' 벤치마크 고도화 나선다"
+            "file": "20260807-문샷-ai-키미-k3-보안-테스트-중.md",
+            "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\""
           },
           {
             "date": "2026-08-07",
-            "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
-            "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
+            "file": "20260807-ai-사용-한눈에-클라우드플레어-신원.md",
+            "title": "\"AI 사용 한눈에\"…클라우드플레어, '신원 인식 AI 게이트웨이' 출시"
+          },
+          {
+            "date": "2026-08-07",
+            "file": "20260807-국내-대리인-신고-앤트로픽-뿐-정부-.md",
+            "title": "국내 대리인 신고 '앤트로픽'뿐…정부, 해외 AI 기업과 연내 회동"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20260807131003",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-08-05",
+        "title": "엔터프라이즈 AI 도입 저변 확대",
+        "summary": "엔터프라이즈 AI 도입 저변이 밸류체인 전체로 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-08-05",
+            "file": "20260805-법무법인-태평양-국내-로펌-최초-챗g.md",
+            "title": "태평양, 국내 로펌 최초 챗GPT 엔터프라이즈 전사 도입"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-lg-엑사원-제조현장-전파-대기업과-.md",
+            "title": "LG 엑사원, 중소 제조현장에 AI 에이전트로 확산"
+          },
+          {
+            "date": "2026-08-05",
+            "file": "20260805-독파모-2차-모델-공개-skt-김태윤.md",
+            "title": "SKT, 688B 'A.X K2' 공개…산업 에이전트 정조준"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-04",
+        "title": "오픈웨이트 경쟁 격화",
+        "summary": "오픈웨이트 성능 추격으로 조달 선택지가 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-08-04",
+            "file": "20260804-알리바바-큐원-3-8-맥스-공개-키미.md",
+            "title": "알리바바 큐원 3.8 맥스 공개, 2.4조 파라미터"
+          },
+          {
+            "date": "2026-08-04",
+            "file": "20260804-개방형-국산-ai-출격-국가대표-4사.md",
+            "title": "국산 독자 AI 4사, 오픈웨이트 모델 공개"
+          },
+          {
+            "date": "2026-08-04",
+            "file": "20260804-ai는-지금-105분의-1-가격-딥시.md",
+            "title": "딥시크, 저가 에이전트 하네스로 판 흔든다"
+          }
+        ]
+      },
+      {
+        "date": "2026-08-03",
+        "title": "가격 인하가 부른 수요 폭발",
+        "summary": "AI 도입의 걸림돌이 비용에서 활용 역량으로 옮겨갔다.",
+        "articles": [
+          {
+            "date": "2026-08-03",
+            "file": "20260803-저렴한-ai가-더-많은-수요-만든다-.md",
+            "title": "오픈AI, 가격 인하 후 사용자 10억 돌파"
+          },
+          {
+            "date": "2026-08-03",
+            "file": "20260803-아마존-오픈ai에-50조-추가-투자-.md",
+            "title": "아마존, 오픈AI에 72조 투자 완료"
+          }
+        ]
+      },
+      {
+        "date": "2026-07-31",
+        "title": "AI 도입 원가 구조 재편",
+        "summary": "프리미엄과 저가 모델을 업무별로 조합하는 전략이 현실화됐다.",
+        "articles": [
+          {
+            "date": "2026-07-31",
+            "file": "20260731-오픈ai-기업용-요금-최대-80-인하.md",
+            "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류"
+          },
+          {
+            "date": "2026-07-31",
+            "file": "20260731-microsoft-ai-bets-on.md",
+            "title": "Microsoft AI bets on cheap specialist models"
           }
         ]
       }
