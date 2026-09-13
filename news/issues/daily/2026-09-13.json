@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "updated_at": "2026-09-13T12:22:27.771761+09:00",
-  "run_id": "run_20260913_122227",
-  "summary_ko": "외부 AI 채널 확장과 연산 자본 쏠림에 통제 요구가 겹친 하루다.",
+  "updated_at": "2026-09-13T16:16:44.035820+09:00",
+  "run_id": "run_20260913_161644",
+  "summary_ko": "감속 요구와 연산 쏠림에 로봇 통상 장벽까지 겹친 하루다.",
   "issues": [
     {
       "title": "프론티어 감속이 업계 의제로",
@@ -71,8 +71,8 @@
       ]
     },
     {
-      "title": "금융, 외부 AI 창구와 통제 강화",
-      "summary_ko": "상품 추천은 외부 AI로 나가고 안에서는 유출·공격 감시가 조여졌다.",
+      "title": "AI 접점은 밖으로, 통제는 한 계층으로",
+      "summary_ko": "서비스 창구는 외부 AI로 넓히고 에이전트·보안 통제는 한곳에 모은다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -98,18 +98,7 @@
           "date": "2026-09-13",
           "file": "20260913-앱-설치-없이-포털-쇼핑서-바로-쓴다.md",
           "title": "\"앱 설치 없이 포털·쇼핑서 바로 쓴다\"…KT, 대국민 AI '이음' 승부수"
-        }
-      ]
-    },
-    {
-      "title": "에이전트, 늘리기에서 묶기로",
-      "summary_ko": "에이전트를 한 계층에서 통제·조합하고 코딩 역량을 사들이는 쪽으로 경쟁 축이 옮겨간다.",
-      "topics": [
-        "ai_agents",
-        "llm_models",
-        "ai_industry"
-      ],
-      "articles": [
+        },
         {
           "date": "2026-09-13",
           "file": "20260913-세일즈포스-에이전트-난립-잡는다-통합.md",
@@ -122,18 +111,24 @@
         },
         {
           "date": "2026-09-13",
-          "file": "20260913-gpt-6-astra-needs-le.md",
-          "title": "GPT-6 Astra needs leaner prompts and fewer guardrails, OpenAI recommends"
-        },
-        {
-          "date": "2026-09-13",
-          "file": "20260913-google-s-new-ai-mode.md",
-          "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules"
-        },
-        {
-          "date": "2026-09-13",
           "file": "20260913-구글-코딩-강화-위해-스타트업-메카나.md",
           "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약"
+        }
+      ]
+    },
+    {
+      "title": "로봇 수출, 공급망이 관문",
+      "summary_ko": "미국 규제로 로봇 경쟁력이 성능보다 현지화 요건에서 갈린다.",
+      "topics": [
+        "physical_ai_robotics",
+        "physical_ai",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-13",
+          "file": "20260913-새우등-터진-로봇-수출-제동.md",
+          "title": "새우등 터진 韓 로봇, 美 수출 제동"
         }
       ]
     }
