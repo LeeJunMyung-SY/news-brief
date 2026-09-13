@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-14",
+  "updated_at": "2026-09-14T08:18:23.236177+09:00",
+  "run_id": "run_20260914_081823",
+  "summary_ko": "AI 감속론이 정치·자본 일정을 흔드는 사이 인프라 투자는 가속한다.",
+  "issues": [
+    {
+      "title": "감속론, 정치 쟁점으로 번지다",
+      "summary_ko": "업계 자율 규제 합의가 정치 대립으로 옮겨가며 규제 방향이 불투명해졌다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-altman-musk-and-hass.md",
+          "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-washington-scrambles.md",
+          "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-anthropic-s-amodei-s.md",
+          "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-trump-and-mike-johns.md",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting"
+        }
+      ]
+    },
+    {
+      "title": "AI 병목, 전력 설비로 이동",
+      "summary_ko": "연산 수요가 전력·저장장치 투자로 번지며 중후장대 산업이 수혜 축에 합류했다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-엔진부터-smr까지-hd현대중공업-a.md",
+          "title": "엔진부터 SMR까지…HD현대중공업, AI 인프라 1조 베팅"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-ai-데이터센터가-키우는-ess-k배.md",
+          "title": "美 AI 데이터센터가 키우는 ESS…K배터리도 대응 속도"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-오라클-ai-투자에-델-hpe-12-.md",
+          "title": "오라클 AI 투자에 … 델·HPE 12% 급등"
+        }
+      ]
+    },
+    {
+      "title": "국내 AX, 제휴·현업 주도로",
+      "summary_ko": "기업 AI 도입이 자체 구축에서 제휴형·현업 과제 중심으로 넓어지고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-kt-다음-무신사-직방에-ai-심는다.md",
+          "title": "KT, 다음·무신사·직방에 AI 심는다"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-lg디스플레이-ax-속도-ai-활용한.md",
+          "title": "LG디스플레이, AX 속도 AI 활용한 문제 해결 확대"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 평가 기준의 전환",
+      "summary_ko": "모델 경쟁이 장기 자율 과업 성과와 규범 준수 능력으로 옮겨가고 있다.",
+      "topics": [
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-gpt-6-astra-pilots-a.md",
+          "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own"
+        }
+      ]
+    }
+  ]
+}

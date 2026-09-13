@@ -1,0 +1,89 @@
+{
+  "week": "2026-W38",
+  "updated_at": "2026-09-14T08:18:23.236177+09:00",
+  "run_id": "run_20260914_081823",
+  "summary_ko": "프론티어 감속론이 규제·자본 일정을 흔드는 가운데 AI 인프라 투자는 전력으로 확장된다.",
+  "issues": [
+    {
+      "title": "프론티어 감속론의 정치화",
+      "body_ko": "업계 자율 감속 합의가 선거 의제로 번지며 연방 규제 공백과 불확실성이 커진다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-altman-musk-and-hass.md",
+          "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-washington-scrambles.md",
+          "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-anthropic-s-amodei-s.md",
+          "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-trump-and-mike-johns.md",
+          "title": "Trump and Mike Johnson think the AI industry is overreacting"
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라, 전력·저장으로 확장",
+      "body_ko": "연산 병목이 발전 설비와 장주기 저장으로 옮겨가며 인프라 투자 지형이 넓어진다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-엔진부터-smr까지-hd현대중공업-a.md",
+          "title": "엔진부터 SMR까지…HD현대중공업, AI 인프라 1조 베팅"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-ai-데이터센터가-키우는-ess-k배.md",
+          "title": "美 AI 데이터센터가 키우는 ESS…K배터리도 대응 속도"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-오라클-ai-투자에-델-hpe-12-.md",
+          "title": "오라클 AI 투자에 … 델·HPE 12% 급등"
+        }
+      ]
+    },
+    {
+      "title": "제휴·현업 주도형 AX 확산",
+      "body_ko": "국내 기업 AI 도입이 제휴 공급과 현업 과제 중심 확산 모델로 다변화하고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-kt-다음-무신사-직방에-ai-심는다.md",
+          "title": "KT, 다음·무신사·직방에 AI 심는다"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-lg디스플레이-ax-속도-ai-활용한.md",
+          "title": "LG디스플레이, AX 속도 AI 활용한 문제 해결 확대"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-gpt-6-astra-pilots-a.md",
+          "title": "GPT-6 Astra pilots a surveillance drone and runs a business on its own"
+        }
+      ]
+    }
+  ]
+}
