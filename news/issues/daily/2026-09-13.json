@@ -1,8 +1,8 @@
 {
   "date": "2026-09-13",
-  "updated_at": "2026-09-13T08:17:15.889982+09:00",
-  "run_id": "run_20260913_081715",
-  "summary_ko": "속도 조절 합의와 자본·통제 인프라 확충이 맞물린 하루다.",
+  "updated_at": "2026-09-13T12:22:27.771761+09:00",
+  "run_id": "run_20260913_122227",
+  "summary_ko": "외부 AI 채널 확장과 연산 자본 쏠림에 통제 요구가 겹친 하루다.",
   "issues": [
     {
       "title": "프론티어 감속이 업계 의제로",
@@ -22,16 +22,12 @@
           "date": "2026-09-13",
           "file": "20260913-openai-agents-launch.md",
           "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-          "title": ""
         }
       ]
     },
     {
-      "title": "상장 자금이 컴퓨트로 되돌아간다",
-      "summary_ko": "모델사 자본 조달이 곧 칩·데이터센터 수요로 환류되는 구조가 굳었다.",
+      "title": "자본과 계약이 연산으로 쏠린다",
+      "summary_ko": "호스팅 계약과 공모 자금이 용량에 몰리며 공급사 재무 부담도 드러났다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -56,12 +52,58 @@
           "date": "2026-09-13",
           "file": "20260913-trump-is-giving-data.md",
           "title": "Trump is giving data centers a pass to pollute"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-스페이스x-미공개-고객과-월-1-5조.md",
+          "title": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-ai-데이터센터에-발목-잡힌-오라클-.md",
+          "title": "AI 데이터센터에 발목 잡힌 오라클…매출 폭증에도 재무 부담 가중"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-ai-데이터센터-투자-가속도-반도체-.md",
+          "title": "AI 데이터센터 투자 가속도...반도체·부품 매출 182% 급증"
+        }
+      ]
+    },
+    {
+      "title": "금융, 외부 AI 창구와 통제 강화",
+      "summary_ko": "상품 추천은 외부 AI로 나가고 안에서는 유출·공격 감시가 조여졌다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-13",
+          "file": "20260913-신한카드-카카오와-협업-ai-대화로-.md",
+          "title": "신한카드, 카카오와 협업…AI 대화로 금융서비스 제공"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-삼성자산운용-섀도우-ai-정보유출-막.md",
+          "title": "삼성자산운용, '섀도우 AI' 정보유출 막는다…新 보안체계 구축"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-해커-취약점-발견-하루-전부터-공격-.md",
+          "title": "\"해커, 취약점 발견 하루 전부터 공격…AI 모델도 '공격표면'\""
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-앱-설치-없이-포털-쇼핑서-바로-쓴다.md",
+          "title": "\"앱 설치 없이 포털·쇼핑서 바로 쓴다\"…KT, 대국민 AI '이음' 승부수"
         }
       ]
     },
     {
       "title": "에이전트, 늘리기에서 묶기로",
-      "summary_ko": "난립한 에이전트를 한 계층에서 통제·조합하는 쪽으로 경쟁 축이 옮겨간다.",
+      "summary_ko": "에이전트를 한 계층에서 통제·조합하고 코딩 역량을 사들이는 쪽으로 경쟁 축이 옮겨간다.",
       "topics": [
         "ai_agents",
         "llm_models",
@@ -87,6 +129,11 @@
           "date": "2026-09-13",
           "file": "20260913-google-s-new-ai-mode.md",
           "title": "Google's new AI model predicts the future from sales data, weather, and discount schedules"
+        },
+        {
+          "date": "2026-09-13",
+          "file": "20260913-구글-코딩-강화-위해-스타트업-메카나.md",
+          "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약"
         }
       ]
     }
