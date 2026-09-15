@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-16",
+  "updated_at": "2026-09-16T08:27:40.637243+09:00",
+  "run_id": "run_20260916_082740",
+  "summary_ko": "감속론이 두 진영 대치로 굳는 사이 금융·현장 AI는 결제와 심사까지 파고들었다.",
+  "issues": [
+    {
+      "title": "감속론, 진영 대치로 교착",
+      "summary_ko": "안전 담론이 실행 수단을 찾지 못한 채 정치 대립으로 굳어지는 국면이다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-16",
+          "file": "20260916-two-camps-have-emerg.md",
+          "title": "Two camps have emerged in the debate over AI safety and regulation"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-nvidia-s-huang-rips-.md",
+          "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260916000009",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260916000011",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215269",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 결제·심사로 진입",
+      "summary_ko": "AI가 상담 보조를 넘어 돈이 움직이는 의사결정 지점으로 들어왔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-16",
+          "file": "20260916-앤트로픽-금융-시장-본격-공략-클로드.md",
+          "title": "앤트로픽, 금융 시장 본격 공략…'클로드 포 파이낸셜 어드바이저스' 출시"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-ai-에이전트가-상호-거래-정산까지-.md",
+          "title": "“AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673628",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110915/ts-imagine-ships-ai-platform-for-capital-markets",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs",
+          "title": ""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-early-anthropic-hire.md",
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
+        }
+      ]
+    },
+    {
+      "title": "데이터 통제가 조달을 가른다",
+      "summary_ko": "성능이 아니라 데이터 처리 방식이 모델 선택을 결정하기 시작했다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-16",
+          "file": "20260916-ai-labs-have-a-data-.md",
+          "title": "AI labs have a data trust problem that their policies haven't solved"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215294",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673685",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673688",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "전력·원가가 확산 속도 제약",
+      "summary_ko": "AI 확산의 병목이 모델에서 전원 확보와 부품 원가로 옮겨갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-16",
+          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
+          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-hd한국조선해양-ai-데이터센터-전력.md",
+          "title": "HD한국조선해양, AI 데이터센터 전력 해상서 공급"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673658",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609166987i",
+          "title": ""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-us-data-centers-coul.md",
+          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035"
+        }
+      ]
+    }
+  ]
+}
