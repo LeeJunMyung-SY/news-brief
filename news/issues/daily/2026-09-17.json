@@ -1,0 +1,154 @@
+{
+  "date": "2026-09-17",
+  "updated_at": "2026-09-17T08:25:08.780099+09:00",
+  "run_id": "run_20260917_082508",
+  "summary_ko": "규제는 미·EU 두 갈래로 갈라지고, AI 벤더는 수익 접점을, 금융은 고객 접점을 넓혔다.",
+  "issues": [
+    {
+      "title": "규제, 미·EU 두 갈래로",
+      "summary_ko": "미국이 입법 교착에 빠진 사이 EU가 표준 주도를 선언해 준거 기준이 갈라졌다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-17",
+          "file": "20260917-eu-president-warns-a.md",
+          "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260916191007",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260917000074",
+          "title": ""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-anthropic-and-openai.md",
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260917000073",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델사, 수익 접점 확장",
+      "summary_ko": "구독을 넘어 광고·오피스·수직 모델로 매출 축을 동시에 넓히는 국면이다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-17",
+          "file": "20260917-reimagining-advertis.md",
+          "title": "Reimagining advertising with AI"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-세일즈포스-엔비디아-crm-전용-추론.md",
+          "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-claude-comes-for-gem.md",
+          "title": "Claude comes for Gemini with its own take on Docs and Slides"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215353",
+          "title": ""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-ai-문어발-오픈ai-ipo-미루고-.md",
+          "title": "AI 문어발 오픈AI, IPO 미루고 대규모 자금 유치 추진"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 상시 접점으로",
+      "summary_ko": "시범 운영을 지나 전 고객 채널과 결제 정산까지 범위가 넓어졌다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-17",
+          "file": "20260917-zopa-rolls-out-perso.md",
+          "title": "Zopa rolls out personal banking agent"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-mastercard-and-trip-.md",
+          "title": "Mastercard and Trip.com target travel sector agentic commerce"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48419/circle-launches-arc-mainnet?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673731",
+          "title": ""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-삼성생명-시니어케어-테크-주목한-까닭.md",
+          "title": "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-래리-핑크-ai-구축-지연땐-대기업-.md",
+          "title": "래리 핑크 \"AI 구축 지연땐 대기업 전유물 될 것\""
+        }
+      ]
+    },
+    {
+      "title": "인프라, 칩·전력 직접 확보로",
+      "summary_ko": "조달 대응이 구매 계약을 넘어 자체 칩과 발전 자산 확보로 이동했다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215334",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260916221024",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215358",
+          "title": ""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-apple-is-reportedly-.md",
+          "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-sk-hynix-reportedly-.md",
+          "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-ai-인프라-최대-시장-한국-기업-러.md",
+          "title": "\"美 AI 인프라 최대 시장\"…한국 기업 러시"
+        }
+      ]
+    }
+  ]
+}

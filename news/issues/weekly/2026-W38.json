@@ -1,42 +1,22 @@
 {
   "week": "2026-W38",
-  "updated_at": "2026-09-16T16:22:43.970816+09:00",
-  "run_id": "run_20260916_162243",
-  "summary_ko": "감속 논쟁이 정부 중재로 넘어가는 사이 AI 제약은 여론·공급망으로, 경쟁은 통제와 접점으로 옮겨갔다.",
+  "updated_at": "2026-09-17T08:25:08.780099+09:00",
+  "run_id": "run_20260917_082508",
+  "summary_ko": "감속 논쟁이 제도 경쟁으로 번지는 사이 AI의 무게중심은 담론에서 조달과 접점으로 옮겨갔다.",
   "issues": [
     {
-      "title": "감속론, 중재 국면으로",
-      "body_ko": "개발사 연대가 깨지면서 규제 주도권이 업계 자율 협약에서 입법·행정 일정으로 넘어갔다.",
+      "title": "감속론, 제도 경쟁으로",
+      "body_ko": "업계 자율 합의가 깨진 뒤 규제 주도권이 미국 정치 일정과 EU 표준 경쟁으로 넘어갔다.",
       "topics": [
         "ai_policy",
-        "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
-        {
-          "date": "2026-09-14",
-          "file": "20260914-altman-musk-and-hass.md",
-          "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
-        },
-        {
-          "date": "2026-09-14",
-          "file": "20260914-구글-ms도-ai-속도-조절-동감-안.md",
-          "title": "구글·MS도 \"AI 속도 조절 동감\"...'안전 연합전선' 5곳으로 확대"
-        },
         {
           "date": "2026-09-16",
           "file": "20260916-two-camps-have-emerg.md",
           "title": "Two camps have emerged in the debate over AI safety and regulation"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-nvidia-s-huang-rips-.md",
-          "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-버니-샌더스-초지능-ai-개발-금지법.md",
-          "title": "버니 샌더스 '초지능 AI 개발 금지법' 추진…\"통제 불능 개발 막자\""
         },
         {
           "date": "2026-09-16",
@@ -45,69 +25,97 @@
         },
         {
           "date": "2026-09-16",
+          "file": "20260916-버니-샌더스-초지능-ai-개발-금지법.md",
+          "title": "버니 샌더스 '초지능 AI 개발 금지법' 추진…\"통제 불능 개발 막자\""
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-altman-musk-and-hass.md",
+          "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
+        },
+        {
+          "date": "2026-09-16",
           "file": "20260916-배경훈-장관-ai-속도-늦출-여유-없.md",
           "title": "배경훈 장관 \"AI 속도 늦출 여유 없다...중요한 것은 속도책임\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215328",
+          "date": "2026-09-17",
+          "file": "20260917-eu-president-warns-a.md",
+          "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260916191007",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20260917000074",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/16/openai-altman-trump-xi-summit.html",
           "title": ""
         }
       ]
     },
     {
-      "title": "담론과 실물의 괴리",
-      "body_ko": "감속 발언이 주가를 흔드는 동안 인프라 발주와 반도체 수요는 오히려 버티며 두 리스크가 분리됐다.",
+      "title": "병목 대응, 직접 확보로",
+      "body_ko": "부품 납기와 전력 제약이 길어지자 자체 칩과 발전 자산을 직접 쥐는 방식으로 대응이 바뀌었다.",
       "topics": [
-        "ai_industry",
         "ai_compute_energy",
-        "금융회사 AI"
+        "ai_industry"
       ],
       "articles": [
         {
-          "date": "2026-09-14",
-          "file": "20260914-ai-속도-조절-에-블랙-먼데이-오나.md",
-          "title": "'AI 속도 조절'에 블랙 먼데이 오나...전문가들 \"반도체 장기 수요는 탄탄\""
-        },
-        {
-          "date": "2026-09-14",
-          "file": "20260914-고유가-고금리에-ai-브레이크-까지-.md",
-          "title": "고유가·고금리에 'AI 브레이크'까지…외국인 3조 던졌다"
+          "date": "2026-09-16",
+          "file": "20260916-반도체-장비-부품-납기-2배로-최대-.md",
+          "title": "반도체 장비 부품 납기 2배로…최대 40개월도 걸려"
         },
         {
           "date": "2026-09-16",
-          "file": "20260916-ai-감속-경고에-갈린-주가-칩-지고.md",
-          "title": "AI 감속 경고에 갈린 주가…칩 지고 보안·빅테크 떴다"
+          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
+          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
         },
         {
           "date": "2026-09-16",
-          "file": "20260916-ai-우려에도-인프라-투자는-늘어-삼.md",
-          "title": "AI 우려에도 인프라 투자는 늘어…“삼전닉스 반등 준비”"
+          "file": "20260916-ai-and-data-centers-.md",
+          "title": "AI and data centers are incredibly unpopular in every poll"
         },
         {
-          "url": "https://www.hankyung.com/article/202609155367i",
+          "date": "2026-09-14",
+          "file": "20260914-aidc-알박기-막아야-전력계통평가-.md",
+          "title": "“AIDC  '알박기' 막아야”...전력계통평가 신청 93%가 데이터센터"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215334",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260916221024",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215358",
+          "title": ""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-ai-인프라-최대-시장-한국-기업-러.md",
+          "title": "\"美 AI 인프라 최대 시장\"…한국 기업 러시"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609168809i",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 결제에서 내부통제로",
-      "body_ko": "자율 결제와 여신을 지나 감사·제보 검토까지 닿으며 논점이 속도에서 증빙 체계로 옮겨갔다.",
+      "title": "금융 AI, 통제에서 접점으로",
+      "body_ko": "감사·내부통제로 들어간 데 이어 전 고객 상시 채널과 결제 정산까지 범위가 넓어졌다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_policy"
+        "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-09-14",
-          "file": "20260914-kt-ax-인사이트-리포트-발간-금융.md",
-          "title": "KT, 'AX 인사이트 리포트' 발간…\"금융기관 60%가 AX 실행 단계 진입\""
-        },
-        {
-          "date": "2026-09-14",
-          "file": "20260914-이재근-kb금융-첫-출근-ai-시대-.md",
-          "title": "이재근 KB금융 첫 출근 \"AI 시대 3∼5년간 큰 변화 온다\"…연말 인사는?"
-        },
         {
           "date": "2026-09-16",
           "file": "20260916-앤트로픽-금융-시장-본격-공략-클로드.md",
@@ -124,81 +132,44 @@
           "title": "AI가 내부고발 신고서 검토…기업 감사·컴플라이언스까지 확대"
         },
         {
-          "date": "2026-09-16",
-          "file": "20260916-데스크가-만났습니다-이희수-제주은행장.md",
-          "title": "[데스크가 만났습니다]이희수 제주은행장 “2030년 여신 10조…전국구 디지털은행 도약”"
+          "date": "2026-09-14",
+          "file": "20260914-kt-ax-인사이트-리포트-발간-금융.md",
+          "title": "KT, 'AX 인사이트 리포트' 발간…\"금융기관 60%가 AX 실행 단계 진입\""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-zopa-rolls-out-perso.md",
+          "title": "Zopa rolls out personal banking agent"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-mastercard-and-trip-.md",
+          "title": "Mastercard and Trip.com target travel sector agentic commerce"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-삼성생명-시니어케어-테크-주목한-까닭.md",
+          "title": "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673731",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 제약, 전력에서 공급망으로",
-      "body_ko": "전력과 입지 수용성에 더해 장비 부품 납기와 메모리 부족이 증설 속도를 직접 묶기 시작했다.",
+      "title": "경쟁축, 접점과 수직 모델",
+      "body_ko": "벤더가 생활 접점을 파고드는 한편 도메인 데이터로 자체 모델을 만드는 경로가 함께 열렸다.",
       "topics": [
-        "ai_compute_energy",
-        "ai_policy",
+        "ai_agents",
+        "llm_models",
         "ai_industry"
       ],
       "articles": [
         {
-          "date": "2026-09-14",
-          "file": "20260914-aidc-알박기-막아야-전력계통평가-.md",
-          "title": "“AIDC  '알박기' 막아야”...전력계통평가 신청 93%가 데이터센터"
-        },
-        {
           "date": "2026-09-16",
-          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
-          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-ai-and-data-centers-.md",
-          "title": "AI and data centers are incredibly unpopular in every poll"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-반도체-장비-부품-납기-2배로-최대-.md",
-          "title": "반도체 장비 부품 납기 2배로…최대 40개월도 걸려"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-ai-tv-대중화-복병-된-메모리-삼.md",
-          "title": "'AI TV 대중화' 복병 된 메모리…삼성·LG, 전략 새로짠다"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-데이터센터부터-안방까지-삼성-lg-부.md",
-          "title": "\"데이터센터부터 안방까지\"…삼성·LG, 부산서 초격차 AI 공조 맞대결"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-베슬ai-포항-데이터센터-gpu-운영.md",
-          "title": "베슬AI, 포항 데이터센터 GPU 운영 맡는다...\"네오클라우드 영토 확장\""
-        }
-      ]
-    },
-    {
-      "title": "벤더가 접점으로 내려온다",
-      "body_ko": "글로벌 AI 기업이 국내 조직을 세우고 에이전트가 차량·업무 접점을 파고들며 채널이 경쟁 축이 됐다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry",
-        "llm_models"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-14",
-          "file": "20260914-lg-제조-금융-과학에-엑사원-투입-.md",
-          "title": "LG, 제조·금융·과학에 '엑사원' 투입…전문가 AI 사업화 속도"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-오픈ai-추가-투자-유치-검토-기업가.md",
-          "title": "오픈AI, 추가 투자 유치 검토…기업가치 1조2000억 달러 전망"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-sk-구성원-아이디어로-업무-ai-개.md",
-          "title": "SK, 구성원 아이디어로 업무 AI 개발…현업 적용 검토"
+          "file": "20260916-단독-lg유플러스-차량용-ai-에이전.md",
+          "title": "[단독] LG유플러스, 차량용 AI 에이전트 출격…'익시 드라이브' 선보인다"
         },
         {
           "date": "2026-09-16",
@@ -207,18 +178,73 @@
         },
         {
           "date": "2026-09-16",
-          "file": "20260916-단독-lg유플러스-차량용-ai-에이전.md",
-          "title": "[단독] LG유플러스, 차량용 AI 에이전트 출격…'익시 드라이브' 선보인다"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-구글-말하며-생각하는-제미나이-3-8.md",
-          "title": "구글, 말하며 생각하는 '제미나이 3.8 라이브' 공개...\"음성 품질 1위\""
-        },
-        {
-          "date": "2026-09-16",
           "file": "20260916-기고-삼성은-왜-공짜로-쓸-수-있는-.md",
           "title": "[기고] 삼성은 왜 공짜로 쓸 수 있는 미스트랄 모델에 돈을 냈나"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-lg-제조-금융-과학에-엑사원-투입-.md",
+          "title": "LG, 제조·금융·과학에 '엑사원' 투입…전문가 AI 사업화 속도"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-세일즈포스-엔비디아-crm-전용-추론.md",
+          "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\""
+        },
+        {
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "title": ""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-reimagining-advertis.md",
+          "title": "Reimagining advertising with AI"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026091693881",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI, 예산이 붙었다",
+      "body_ko": "국책 자금이 조 단위로 투입되며 검증 무대가 연구실에서 제조 현장으로 완전히 넘어갔다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-14",
+          "file": "20260914-aws가-본-피지컬ai-성과-가르는-.md",
+          "title": "AWS가 본 피지컬AI 성과 가르는 조건 '데이터·인력'[현장+]"
+        },
+        {
+          "date": "2026-09-14",
+          "file": "20260914-현대차-자율주행-해부-판단-오류-영상.md",
+          "title": "[현대차 자율주행 해부] '판단 오류' 영상 공개…VLA 답될까"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-과기정통부-전북-경남에-피지컬ai-1.md",
+          "title": "과기정통부, 전북·경남에 피지컬AI 1.4조원 투자"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-어질리티-사람-접근하면-멈추는-차세대.md",
+          "title": "어질리티, 사람 접근하면 멈추는 차세대 휴머노이드 '디지트 5' 공개"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260916193013",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260916094143",
+          "title": ""
         }
       ]
     }
