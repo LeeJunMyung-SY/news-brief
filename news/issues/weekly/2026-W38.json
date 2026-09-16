@@ -1,12 +1,12 @@
 {
   "week": "2026-W38",
-  "updated_at": "2026-09-16T08:27:40.637243+09:00",
-  "run_id": "run_20260916_082740",
-  "summary_ko": "감속론이 제도화 벽에 부딪히는 사이 AI는 결제·심사와 전력망으로 실물화됐다.",
+  "updated_at": "2026-09-16T12:22:20.663639+09:00",
+  "run_id": "run_20260916_122220",
+  "summary_ko": "감속론이 제도 시험대에서 갈라지는 동안 AI 제약은 여론·전력·통제 기반으로 실물화됐다.",
   "issues": [
     {
-      "title": "감속론, 선언에서 제도 시험대로",
-      "body_ko": "안전 연대가 넓어졌지만 반독점 면제 거부와 행정부 반대로 실행 수단을 찾지 못하고 있다.",
+      "title": "감속론, 전선이 갈라지다",
+      "body_ko": "안전 연대가 넓어지자마자 주요 개발사와 인프라 진영이 이탈해 자율 규범 대신 금지형 입법이 앞서는 국면이다.",
       "topics": [
         "ai_policy",
         "llm_models",
@@ -39,14 +39,25 @@
           "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'"
         },
         {
-          "url": "https://www.etnews.com/20260916000009",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-meta-ceo-mark-zucker.md",
+          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-버니-샌더스-초지능-ai-개발-금지법.md",
+          "title": "버니 샌더스 '초지능 AI 개발 금지법' 추진…\"통제 불능 개발 막자\""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-we-don-t-need-ai-reg.md",
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says"
         }
       ]
     },
     {
-      "title": "안전 담론이 자금을 흔들다",
-      "body_ko": "담론 한 마디에 반도체가 급락하고 보안주로 자금이 옮겨가며 거버넌스가 밸류에이션 변수로 굳었다.",
+      "title": "담론과 실물 투자의 괴리",
+      "body_ko": "감속 발언이 업종별 자금 이동을 일으키는데도 인프라 발주와 메모리 주문은 오히려 늘며 두 리스크가 분리됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -64,26 +75,28 @@
           "title": "고유가·고금리에 'AI 브레이크'까지…외국인 3조 던졌다"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215273",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-ai-감속-경고에-갈린-주가-칩-지고.md",
+          "title": "AI 감속 경고에 갈린 주가…칩 지고 보안·빅테크 떴다"
         },
         {
-          "url": "https://www.hankyung.com/article/2026091565111",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-ai-우려에도-인프라-투자는-늘어-삼.md",
+          "title": "AI 우려에도 인프라 투자는 늘어…“삼전닉스 반등 준비”"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12153239",
+          "url": "https://www.yna.co.kr/view/AKR20260916029200008",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 실행에서 결제로",
-      "body_ko": "도입 단계를 지나 자율 결제와 여신심사 등 돈이 움직이는 지점까지 AI가 들어왔다.",
+      "title": "금융 AI, 결제에서 통제로",
+      "body_ko": "자율 결제와 여신심사까지 진입하면서 논점이 도입 속도에서 망 구조·데이터 연계 같은 통제 기반으로 옮겨갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_industry"
+        "ai_policy"
       ],
       "articles": [
         {
@@ -107,16 +120,26 @@
           "title": "“AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673628",
+          "date": "2026-09-16",
+          "file": "20260916-sga솔루션즈-n2sf-전환-전략-핵.md",
+          "title": "SGA솔루션즈, N2SF 전환 전략 핵심 '제로트러스트 솔루션'"
+        },
+        {
+          "url": "https://www.etnews.com/20260915000300",
+          "title": ""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20260916045200008",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 병목, 전력과 원가로",
-      "body_ko": "연산 수요가 전원 확보 방식과 부품 가격으로 옮겨가며 확산 속도를 실물이 제약한다.",
+      "title": "인프라 제약, 전력에서 여론으로",
+      "body_ko": "전원 확보와 부품 원가에 더해 데이터센터 반대 여론이 다수로 확인되며 입지 자체가 최대 변수가 됐다.",
       "topics": [
         "ai_compute_energy",
+        "ai_policy",
         "ai_industry"
       ],
       "articles": [
@@ -124,11 +147,6 @@
           "date": "2026-09-14",
           "file": "20260914-엔진부터-smr까지-hd현대중공업-a.md",
           "title": "엔진부터 SMR까지…HD현대중공업, AI 인프라 1조 베팅"
-        },
-        {
-          "date": "2026-09-14",
-          "file": "20260914-ls일렉트릭-송전-변전-배전-앞세워-.md",
-          "title": "LS일렉트릭,  송전·변전·배전 앞세워 美 AI 데이터센터 판도 재편"
         },
         {
           "date": "2026-09-14",
@@ -146,42 +164,62 @@
           "title": "HD한국조선해양, AI 데이터센터 전력 해상서 공급"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673658",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-ai-and-data-centers-.md",
+          "title": "AI and data centers are incredibly unpopular in every poll"
         },
         {
-          "url": "https://www.hankyung.com/article/202609166987i",
+          "date": "2026-09-16",
+          "file": "20260916-허태수-gs-회장-스타트업-기술로-a.md",
+          "title": "허태수 GS 회장 \"스타트업 기술로 AI 데이터센터 병목 해소\""
+        },
+        {
+          "url": "https://www.etnews.com/20260916000163",
           "title": ""
         }
       ]
     },
     {
-      "title": "통제 역량이 도입 조건으로",
-      "body_ko": "데이터 처리 방식과 에이전트 사고 책임이 모델 성능을 제치고 도입 승인의 관문이 됐다.",
+      "title": "AI 역량, 조직과 자본으로",
+      "body_ko": "AI 인재 수요가 비개발 직군까지 번지고 자본 경쟁이 조 단위로 커지며 조달 판단에 조직·재무 실사가 들어왔다.",
       "topics": [
-        "ai_policy",
+        "ai_industry",
         "ai_agents",
         "llm_models"
       ],
       "articles": [
         {
           "date": "2026-09-14",
-          "file": "20260914-aws가-본-피지컬ai-성과-가르는-.md",
-          "title": "AWS가 본 피지컬AI 성과 가르는 조건 '데이터·인력'[현장+]"
+          "file": "20260914-ai-시대-일의-재편-시스템-설계자-.md",
+          "title": "[AI 시대 일의 재편]'시스템 설계자'가 된 롯데이노베이트 감사담당자"
         },
         {
-          "date": "2026-09-16",
-          "file": "20260916-ai-labs-have-a-data-.md",
-          "title": "AI labs have a data trust problem that their policies haven't solved"
+          "date": "2026-09-14",
+          "file": "20260914-lg-제조-금융-과학에-엑사원-투입-.md",
+          "title": "LG, 제조·금융·과학에 '엑사원' 투입…전문가 AI 사업화 속도"
         },
         {
-          "date": "2026-09-16",
-          "file": "20260916-early-anthropic-hire.md",
-          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "url": "https://www.yna.co.kr/view/AKR20260916032000003",
           "title": ""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-오픈ai-추가-투자-유치-검토-기업가.md",
+          "title": "오픈AI, 추가 투자 유치 검토…기업가치 1조2000억 달러 전망"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-sk-구성원-아이디어로-업무-ai-개.md",
+          "title": "SK, 구성원 아이디어로 업무 AI 개발…현업 적용 검토"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673722",
+          "title": ""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-인터뷰-ai에서-누구도-소외되지-않게.md",
+          "title": "[인터뷰] \"AI에서 누구도 소외되지 않게\"…SKT, 일상 속 '실행형 AI' 만든다"
         }
       ]
     }

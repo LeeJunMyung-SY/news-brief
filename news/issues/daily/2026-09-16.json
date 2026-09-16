@@ -1,12 +1,12 @@
 {
   "date": "2026-09-16",
-  "updated_at": "2026-09-16T08:27:40.637243+09:00",
-  "run_id": "run_20260916_082740",
-  "summary_ko": "감속론이 두 진영 대치로 굳는 사이 금융·현장 AI는 결제와 심사까지 파고들었다.",
+  "updated_at": "2026-09-16T12:22:20.663639+09:00",
+  "run_id": "run_20260916_122220",
+  "summary_ko": "감속론이 입법과 진영 분열로 번지는 사이 AI의 제약은 여론과 통제 기반으로 옮겨갔다.",
   "issues": [
     {
-      "title": "감속론, 진영 대치로 교착",
-      "summary_ko": "안전 담론이 실행 수단을 찾지 못한 채 정치 대립으로 굳어지는 국면이다.",
+      "title": "감속론, 분열과 입법 사이",
+      "summary_ko": "개발사 전선이 깨지면서 자율 규범 대신 금지형 입법이 앞서기 시작했다.",
       "topics": [
         "ai_policy",
         "llm_models",
@@ -24,38 +24,73 @@
           "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-meta-ceo-mark-zucker.md",
+          "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
         },
         {
-          "url": "https://www.etnews.com/20260916000009",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-we-don-t-need-ai-reg.md",
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says"
         },
         {
-          "url": "https://www.etnews.com/20260916000011",
-          "title": ""
+          "date": "2026-09-16",
+          "file": "20260916-버니-샌더스-초지능-ai-개발-금지법.md",
+          "title": "버니 샌더스 '초지능 AI 개발 금지법' 추진…\"통제 불능 개발 막자\""
         },
         {
-          "url": "https://www.cnbc.com/2026/09/15/elon-musk-ai-safety-testing.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215269",
-          "title": ""
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "url": "https://zdnet.co.kr/view/?no=20260916085822",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 결제·심사로 진입",
-      "summary_ko": "AI가 상담 보조를 넘어 돈이 움직이는 의사결정 지점으로 들어왔다.",
+      "title": "여론이 데이터센터를 막는다",
+      "summary_ko": "인프라 확장의 제약이 전력·원가에서 지역 수용성으로 넘어왔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-16",
+          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
+          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-us-data-centers-coul.md",
+          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-ai-and-data-centers-.md",
+          "title": "AI and data centers are incredibly unpopular in every poll"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-허태수-gs-회장-스타트업-기술로-a.md",
+          "title": "허태수 GS 회장 \"스타트업 기술로 AI 데이터센터 병목 해소\""
+        },
+        {
+          "url": "https://www.etnews.com/20260916000163",
+          "title": ""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-aws-미-이란-전쟁-중-피격된-중동.md",
+          "title": "AWS, 미-이란 전쟁 중 피격된 중동 데이터 일부 복구 실패"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 통제 기반이 관문",
+      "summary_ko": "모델 성능보다 망 구조와 데이터 연계 범위가 도입 성패를 가른다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_industry"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -69,86 +104,59 @@
           "title": "“AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673628",
-          "title": ""
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/110915/ts-imagine-ships-ai-platform-for-capital-markets",
-          "title": ""
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/110914/paynearme-acquires-ai-company-marr-labs",
-          "title": ""
-        },
-        {
           "date": "2026-09-16",
-          "file": "20260916-early-anthropic-hire.md",
-          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
-        }
-      ]
-    },
-    {
-      "title": "데이터 통제가 조달을 가른다",
-      "summary_ko": "성능이 아니라 데이터 처리 방식이 모델 선택을 결정하기 시작했다.",
-      "topics": [
-        "llm_models",
-        "ai_policy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-16",
-          "file": "20260916-ai-labs-have-a-data-.md",
-          "title": "AI labs have a data trust problem that their policies haven't solved"
+          "file": "20260916-sga솔루션즈-n2sf-전환-전략-핵.md",
+          "title": "SGA솔루션즈, N2SF 전환 전략 핵심 '제로트러스트 솔루션'"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215294",
+          "url": "https://www.etnews.com/20260915000300",
           "title": ""
         },
         {
-          "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+          "url": "https://www.yna.co.kr/view/AKR20260916045200008",
           "title": ""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673685",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673688",
+          "url": "https://www.etnews.com/20260916000161",
           "title": ""
         }
       ]
     },
     {
-      "title": "전력·원가가 확산 속도 제약",
-      "summary_ko": "AI 확산의 병목이 모델에서 전원 확보와 부품 원가로 옮겨갔다.",
+      "title": "자본과 인력이 동시 재편",
+      "summary_ko": "조 단위 자본 경쟁과 비개발 직군 확산이 AI 조달·조직 기준을 함께 바꾼다.",
       "topics": [
-        "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-09-16",
-          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
-          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
+          "file": "20260916-오픈ai-추가-투자-유치-검토-기업가.md",
+          "title": "오픈AI, 추가 투자 유치 검토…기업가치 1조2000억 달러 전망"
         },
         {
-          "date": "2026-09-16",
-          "file": "20260916-hd한국조선해양-ai-데이터센터-전력.md",
-          "title": "HD한국조선해양, AI 데이터센터 전력 해상서 공급"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673658",
-          "title": ""
-        },
-        {
-          "url": "https://www.hankyung.com/article/202609166987i",
+          "url": "https://www.yna.co.kr/view/AKR20260916032000003",
           "title": ""
         },
         {
           "date": "2026-09-16",
-          "file": "20260916-us-data-centers-coul.md",
-          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035"
+          "file": "20260916-ai-감속-경고에-갈린-주가-칩-지고.md",
+          "title": "AI 감속 경고에 갈린 주가…칩 지고 보안·빅테크 떴다"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-ai-우려에도-인프라-투자는-늘어-삼.md",
+          "title": "AI 우려에도 인프라 투자는 늘어…“삼전닉스 반등 준비”"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673722",
+          "title": ""
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-단독-피지컬-ai-선도주자-딥엑스에-.md",
+          "title": "[단독] 피지컬 AI 선도주자 딥엑스에 ‘플립’ 제안까지…글로벌 거래소 5곳 유치전"
         }
       ]
     }
