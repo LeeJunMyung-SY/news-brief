@@ -1,83 +1,12 @@
 {
   "date": "2026-09-17",
-  "updated_at": "2026-09-17T08:25:08.780099+09:00",
-  "run_id": "run_20260917_082508",
-  "summary_ko": "규제는 미·EU 두 갈래로 갈라지고, AI 벤더는 수익 접점을, 금융은 고객 접점을 넓혔다.",
+  "updated_at": "2026-09-17T12:25:09.819556+09:00",
+  "run_id": "run_20260917_122509",
+  "summary_ko": "AI가 은행 거래와 공장 설비까지 직접 맡는 단계로 넘어갔다.",
   "issues": [
     {
-      "title": "규제, 미·EU 두 갈래로",
-      "summary_ko": "미국이 입법 교착에 빠진 사이 EU가 표준 주도를 선언해 준거 기준이 갈라졌다.",
-      "topics": [
-        "ai_policy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-17",
-          "file": "20260917-eu-president-warns-a.md",
-          "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260916191007",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20260917000074",
-          "title": ""
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-anthropic-and-openai.md",
-          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
-        },
-        {
-          "url": "https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20260917000073",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "모델사, 수익 접점 확장",
-      "summary_ko": "구독을 넘어 광고·오피스·수직 모델로 매출 축을 동시에 넓히는 국면이다.",
-      "topics": [
-        "ai_industry",
-        "llm_models",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-17",
-          "file": "20260917-reimagining-advertis.md",
-          "title": "Reimagining advertising with AI"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-세일즈포스-엔비디아-crm-전용-추론.md",
-          "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\""
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-claude-comes-for-gem.md",
-          "title": "Claude comes for Gemini with its own take on Docs and Slides"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215353",
-          "title": ""
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-ai-문어발-오픈ai-ipo-미루고-.md",
-          "title": "AI 문어발 오픈AI, IPO 미루고 대규모 자금 유치 추진"
-        }
-      ]
-    },
-    {
-      "title": "금융 AI, 상시 접점으로",
-      "summary_ko": "시범 운영을 지나 전 고객 채널과 결제 정산까지 범위가 넓어졌다.",
+      "title": "금융 AI, 앱 전면으로",
+      "summary_ko": "상담 보조를 지나 핵심 거래와 심사 모형까지 AI가 맡는 단계로 넘어갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -94,45 +23,106 @@
           "title": "Mastercard and Trip.com target travel sector agentic commerce"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48419/circle-launches-arc-mainnet?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673731",
-          "title": ""
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-삼성생명-시니어케어-테크-주목한-까닭.md",
-          "title": "삼성생명, 시니어케어 '테크' 주목한 까닭…요양 인력난 해법 찾을까"
-        },
-        {
           "date": "2026-09-17",
           "file": "20260917-래리-핑크-ai-구축-지연땐-대기업-.md",
           "title": "래리 핑크 \"AI 구축 지연땐 대기업 전유물 될 것\""
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-아들에게-30만원-보내주렴-알아듣는-.md",
+          "title": "“아들에게 30만원 보내주렴”…알아듣는 금융 AI 나왔다"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-카카오페이-sbi저축은행-kcb와-포.md",
+          "title": "카카오페이, SBI저축은행·KCB와 포용금융 확대 위한 MOU 체결"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-게시판-교보증권-그룹웨어-개편-ai-.md",
+          "title": "[게시판] 교보증권, 그룹웨어 개편…AI 문서작성·메일요약 도입"
         }
       ]
     },
     {
-      "title": "인프라, 칩·전력 직접 확보로",
-      "summary_ko": "조달 대응이 구매 계약을 넘어 자체 칩과 발전 자산 확보로 이동했다.",
+      "title": "감독, 실효성 시험대",
+      "summary_ko": "준거 기준이 갈라진 가운데 에이전트 사고 기록이 규제 논거로 쌓인다.",
       "topics": [
-        "ai_compute_energy",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-17",
+          "file": "20260917-eu-president-warns-a.md",
+          "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-anthropic-and-openai.md",
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-ai는-지금-오픈ai-에이전트-5월부.md",
+          "title": "[AI는 지금] 오픈AI 에이전트, 5월부터 허깅페이스 침투 시도…초기 경고 놓쳤나"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260917092025",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델사, 접점을 하나로",
+      "summary_ko": "쪼개 팔던 제품을 단일 인터페이스로 합치고 생활 채널 선점으로 옮겨간다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
         "ai_industry"
       ],
       "articles": [
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215334",
-          "title": ""
+          "date": "2026-09-17",
+          "file": "20260917-claude-comes-for-gem.md",
+          "title": "Claude comes for Gemini with its own take on Docs and Slides"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260916221024",
-          "title": ""
+          "date": "2026-09-17",
+          "file": "20260917-세일즈포스-엔비디아-crm-전용-추론.md",
+          "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 '코아' 공개...\"빅테크 의존 낮춘다\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215358",
-          "title": ""
+          "date": "2026-09-17",
+          "file": "20260917-reimagining-advertis.md",
+          "title": "Reimagining advertising with AI"
         },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-앤트로픽-코워크-브랜드-접고-챗봇에-.md",
+          "title": "앤트로픽, '코워크' 브랜드 접고 챗봇에 통합…'AI 슈퍼 앱' 경쟁 가열"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-카톡-전화로-ai-쓴다-카카오-lgu.md",
+          "title": "카톡·전화로 AI 쓴다…카카오, LGU+와 '모두의 AI' 시동"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-네이버클라우드-보안-ai-개발-나선-.md",
+          "title": "네이버클라우드, 보안 AI 개발 나선 이유 '산업 현장 이해'[현장+]"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자, 물리 영역으로",
+      "summary_ko": "자금의 초점이 모델에서 공장 설비와 전력·연산 자산으로 옮겨갔다.",
+      "topics": [
+        "physical_ai",
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
         {
           "date": "2026-09-17",
           "file": "20260917-apple-is-reportedly-.md",
@@ -140,13 +130,37 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-sk-hynix-reportedly-.md",
-          "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
+          "file": "20260917-ai-인프라-최대-시장-한국-기업-러.md",
+          "title": "\"美 AI 인프라 최대 시장\"…한국 기업 러시"
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-ai-인프라-최대-시장-한국-기업-러.md",
-          "title": "\"美 AI 인프라 최대 시장\"…한국 기업 러시"
+          "file": "20260917-과기정통부-전북-경남에-피지컬ai-1.md",
+          "title": "과기정통부, 전북·경남에 피지컬AI 1.4조원 투자"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-제조-현장-파고든-nc-ai-1-4조.md",
+          "title": "제조 현장 파고든 NC AI, 1.4조 피지컬 AI 국책사업 올라탔다"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-kt-전북-다크팩토리-구축-참여-엣지.md",
+          "title": "KT, 전북 '다크팩토리' 구축 참여…엣지 AI 데이터센터 개발"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-송전망-기다리지-않고-ai-구동한다-.md",
+          "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-삼성-p5-sk하이닉스-y1-2027.md",
+          "title": "삼성 P5·SK하이닉스 Y1, 2027년 출격…새 팹 경쟁 막 오른다"
+        },
+        {
+          "url": "https://www.etnews.com/20260917000246",
+          "title": ""
         }
       ]
     }
