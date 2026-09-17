@@ -1,0 +1,137 @@
+{
+  "date": "2026-09-18",
+  "updated_at": "2026-09-18T08:26:47.064279+09:00",
+  "run_id": "run_20260918_082647",
+  "summary_ko": "규제 기구가 무산된 사이 AI는 금융 코어와 인사 제도까지 파고들었다.",
+  "issues": [
+    {
+      "title": "규제기구, 정치에서 멈췄다",
+      "summary_ko": "자율 감독 요구가 정치 테이블에서 좌초하며 기업 자체 기준이 사실상 규범이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-18",
+          "file": "20260918-젠슨황-저커버그-머스크-트럼프-설득-.md",
+          "title": "젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-house-heads-home-to-.md",
+          "title": "House heads home to campaign amid calls for urgent AI action"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215397",
+          "title": ""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-anthropic-shares-3-m.md",
+          "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260917111252",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215390",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 코어 업무로",
+      "summary_ko": "상담 보조를 지나 여신 실행과 시장 데이터 접근으로 적용 지점이 내려갔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-a-chinese-ai-company.md",
+          "title": "A Chinese AI company just connected its model to Wall Street's leading data providers"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-포토-금융-특화-ai-개발-손잡은-j.md",
+          "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-who-is-allowed-to-ac.md",
+          "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "접점 주도권, 대화창으로",
+      "summary_ko": "행정·의료·결제가 한 대화창에 모이며 개별 서비스의 고객 접점이 뒤로 밀린다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-18",
+          "file": "20260918-카톡-모두의-ai-로-서류-떼고-병원.md",
+          "title": "카톡 '모두의 AI'로 서류 떼고 병원 예약·결제…카카오 \"3년 뒤 챗GPT 넘겠다\""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
+          "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215389",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673947",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 역량이 인사 기준으로",
+      "summary_ko": "도구 배포 단계를 지나 채용·평가 기준 자체가 다시 쓰이기 시작했다.",
+      "topics": [
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-18",
+          "file": "20260918-ai-시대-일의-재편-채용-승진-기준.md",
+          "title": "[AI 시대 일의 재편] 채용·승진 기준에 AI 넣은 CJ올리브네트웍스"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-america-s-ai-chip-ta.md",
+          "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260917164557",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

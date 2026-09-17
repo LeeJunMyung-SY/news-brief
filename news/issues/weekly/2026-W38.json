@@ -1,12 +1,12 @@
 {
   "week": "2026-W38",
-  "updated_at": "2026-09-17T16:27:20.715601+09:00",
-  "run_id": "run_20260917_162720",
-  "summary_ko": "규제 주도권 다툼과 조달 병목을 지나 AI의 거래·현장 확산과 비용 청구서가 함께 드러났다.",
+  "updated_at": "2026-09-18T08:26:47.064279+09:00",
+  "run_id": "run_20260918_082647",
+  "summary_ko": "감속 논쟁이 정치에서 결판난 사이 AI는 금융 코어와 인사 제도까지 내려갔다.",
   "issues": [
     {
-      "title": "감속론, 실행에서 시험대",
-      "body_ko": "규제 주도권 다툼이 자율 감독을 실제로 실행할 수 있느냐는 문제로 좁혀졌다.",
+      "title": "감속론, 정치에서 결판났다",
+      "body_ko": "자율 감독 구상이 내부 반발과 정치 개입에 막히며 규범 형성이 다시 기업 손으로 돌아갔다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -35,28 +35,28 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-eu-president-warns-a.md",
-          "title": "EU president warns AI agents \"escaping their environment\" are just a preview of what's coming"
-        },
-        {
-          "date": "2026-09-17",
           "file": "20260917-외부-감사에-연구실-개방하라-오픈ai.md",
           "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215375",
-          "title": ""
+          "date": "2026-09-18",
+          "file": "20260918-젠슨황-저커버그-머스크-트럼프-설득-.md",
+          "title": "젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지"
         },
         {
-          "date": "2026-09-17",
-          "file": "20260917-who-audits-whom-on-w.md",
-          "title": "Who Audits Whom, on What Substrate, with What Evidence? An Independence-Graded Audit Protocol for Agentic AI"
+          "date": "2026-09-18",
+          "file": "20260918-house-heads-home-to-.md",
+          "title": "House heads home to campaign amid calls for urgent AI action"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215397",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 거래에서 채널로",
-      "body_ko": "거래 실행을 맡은 데 이어 국가 플랫폼 접점까지 금융이 자리를 잡아간다.",
+      "title": "금융 AI, 채널에서 코어로",
+      "body_ko": "접점 확장에 이어 여신 실행과 시장 데이터 접근이라는 코어 업무로 적용 지점이 내려갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -84,9 +84,39 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-게시판-교보증권-그룹웨어-개편-ai-.md",
-          "title": "[게시판] 교보증권, 그룹웨어 개편…AI 문서작성·메일요약 도입"
+          "file": "20260917-기고-망분리-완화-후-최소-권한의-원.md",
+          "title": "[기고] 망분리 완화 후 최소 권한의 원칙이 더욱 중요한 이유"
         },
+        {
+          "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-a-chinese-ai-company.md",
+          "title": "A Chinese AI company just connected its model to Wall Street's leading data providers"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-포토-금융-특화-ai-개발-손잡은-j.md",
+          "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-who-is-allowed-to-ac.md",
+          "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
+        }
+      ]
+    },
+    {
+      "title": "접점 주도권, 대화창으로",
+      "body_ko": "행정·의료·결제가 하나의 대화창에 모이며 개별 서비스의 고객 접점이 채널 뒤로 밀린다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
         {
           "date": "2026-09-17",
           "file": "20260917-신한은행-모두의-ai-카카오-컨소시엄.md",
@@ -94,14 +124,33 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-기고-망분리-완화-후-최소-권한의-원.md",
-          "title": "[기고] 망분리 완화 후 최소 권한의 원칙이 더욱 중요한 이유"
+          "file": "20260917-mastercard-and-trip-.md",
+          "title": "Mastercard and Trip.com target travel sector agentic commerce"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-단독-lg유플러스-차량용-ai-에이전.md",
+          "title": "[단독] LG유플러스, 차량용 AI 에이전트 출격…'익시 드라이브' 선보인다"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-카톡-모두의-ai-로-서류-떼고-병원.md",
+          "title": "카톡 '모두의 AI'로 서류 떼고 병원 예약·결제…카카오 \"3년 뒤 챗GPT 넘겠다\""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
+          "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+          "title": ""
         }
       ]
     },
     {
-      "title": "병목 대응, 직접 확보로",
-      "body_ko": "납기·전력 제약이 길어지자 자체 연산 자산과 소재 증설로 대응이 옮겨갔다.",
+      "title": "병목, 계통과 인력으로",
+      "body_ko": "납기·전력 제약에 더해 계통 접속 권한과 숙련 인력이 확장의 실질 한계로 드러났다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -124,38 +173,41 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-apple-is-reportedly-.md",
-          "title": "Apple is reportedly building an enterprise AI server with its own M8 Ultra chips"
-        },
-        {
-          "date": "2026-09-17",
           "file": "20260917-송전망-기다리지-않고-ai-구동한다-.md",
           "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-삼성-p5-sk하이닉스-y1-2027.md",
-          "title": "삼성 P5·SK하이닉스 Y1, 2027년 출격…새 팹 경쟁 막 오른다"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-lg-cns-3814억원-투자에-담긴.md",
-          "title": "LG CNS, 3814억원 투자에 담긴 AI 인프라 사업 전략"
-        },
-        {
-          "date": "2026-09-17",
           "file": "20260917-두산-하이엔드-ccl에-9700억-투.md",
           "title": "㈜두산, 하이엔드 CCL에 9700억 투자…AI 데이터센터 수요 정조준"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-google-nvidia-and-an.md",
+          "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-america-s-ai-chip-ta.md",
+          "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260917165320",
+          "title": ""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-huawei-plans-q1-2027.md",
+          "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia"
         }
       ]
     },
     {
-      "title": "AI 비용이 지표로 올라왔다",
-      "body_ko": "구독 지출이 국가 수지와 개인 결제로 드러나며 원가 관리가 도입의 과제가 됐다.",
+      "title": "비용 다음은 역량",
+      "body_ko": "지출이 국가 수지에 찍힌 데 이어 AI 역량이 채용·승진 기준으로 제도화되기 시작했다.",
       "topics": [
         "ai_industry",
-        "금융회사 AI",
-        "llm_models"
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -170,25 +222,32 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-the-inference-engine.md",
-          "title": "The Inference Engineering Pareto Atlas: Which Optimizations Dominate the Cost, Quality, and Latency Frontier?"
+          "file": "20260917-팀스파르타-국내-10대-그룹-9곳에-.md",
+          "title": "팀스파르타, 국내 10대 그룹 9곳에 AI 교육 제공…계약 규모 220% 증가"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-ai-시대-일의-재편-채용-승진-기준.md",
+          "title": "[AI 시대 일의 재편] 채용·승진 기준에 AI 넣은 CJ올리브네트웍스"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260917164557",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+          "title": ""
         }
       ]
     },
     {
-      "title": "피지컬 AI, 인프라가 먼저",
-      "body_ko": "국책 예산이 현장으로 내려가며 관문이 로봇 성능에서 현장 연산·안전 기준으로 옮겨갔다.",
+      "title": "피지컬 AI, 현장 실증으로",
+      "body_ko": "국책 예산이 현장으로 내려가며 비정형 작업장과 의료까지 실증 범위가 넓어졌다.",
       "topics": [
         "physical_ai",
-        "physical_ai_robotics",
-        "ai_compute_energy"
+        "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-09-14",
-          "file": "20260914-aws가-본-피지컬ai-성과-가르는-.md",
-          "title": "AWS가 본 피지컬AI 성과 가르는 조건 '데이터·인력'[현장+]"
-        },
         {
           "date": "2026-09-17",
           "file": "20260917-과기정통부-전북-경남에-피지컬ai-1.md",
@@ -201,28 +260,32 @@
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-제조-현장-파고든-nc-ai-1-4조.md",
-          "title": "제조 현장 파고든 NC AI, 1.4조 피지컬 AI 국책사업 올라탔다"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-kt-전북-다크팩토리-구축-참여-엣지.md",
-          "title": "KT, 전북 '다크팩토리' 구축 참여…엣지 AI 데이터센터 개발"
-        },
-        {
-          "date": "2026-09-17",
           "file": "20260917-kiro-삼성중공업-조선-특화-자율작.md",
           "title": "KIRO-삼성중공업, 조선 특화 자율작업로봇·산업제조 휴머노이드·AI 로봇솔루션 공동연구 추진"
         },
         {
           "date": "2026-09-17",
-          "file": "20260917-경남-첫-공공형-제조-ai-센터-가동.md",
-          "title": "경남 첫 공공형 제조 AI 센터 가동…고성능 GPU 40장 구축"
-        },
-        {
-          "date": "2026-09-17",
           "file": "20260917-에임인텔리전스-피지컬-ai-안전-컨소.md",
           "title": "에임인텔리전스, 피지컬 AI 안전 컨소시엄 출범...\"구글·MS·오라클도 모였다\""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-국산-휴머노이드로-담낭-절제까지-삼성.md",
+          "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-피지컬-ai-너-내-동료가-돼라-hd.md",
+          "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-kt-nc가-주도하는-피지컬-ai-제.md",
+          "title": "KT·NC가 주도하는 피지컬 AI 제조혁신"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026091720541",
+          "title": ""
         }
       ]
     }
