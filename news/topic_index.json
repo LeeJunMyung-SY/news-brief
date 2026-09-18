@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T23:26:54+00:00",
+  "generated_at": "2026-09-18T03:14:36+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,7 +12,7 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1124,
+      "count": 1125,
       "latest_date": "2026-09-18"
     },
     {
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2744,
+      "count": 2746,
       "latest_date": "2026-09-18"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 813,
+      "count": 814,
       "latest_date": "2026-09-18"
     },
     {
@@ -131,6 +131,20 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/blogposting/32902/who-is-allowed-to-act-the-delegated-authority-problem-in-agentic-banking?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-18",
+        "file": "20260918-앤트로픽-장기-개발-관리-에이전트-클.md",
+        "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#coding",
+          "#enterprise-ai",
+          "#product-launch"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215430"
       },
       {
         "date": "2026-09-18",
@@ -47355,6 +47369,21 @@
       },
       {
         "date": "2026-09-18",
+        "file": "20260918-ai-시대-일의-재편-경계-허물고-역.md",
+        "title": "[AI 시대 일의 재편] 경계 허물고 역할 재설계…LGU+ AX 현장",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#ax",
+          "#future-of-work",
+          "#telecom"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=673719"
+      },
+      {
+        "date": "2026-09-18",
         "file": "20260918-google-nvidia-and-an.md",
         "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
         "importance": 7,
@@ -47620,6 +47649,20 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12155707"
+      },
+      {
+        "date": "2026-09-18",
+        "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
+        "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#ai-capex",
+          "#memory",
+          "#capital-markets"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12156151"
       },
       {
         "date": "2026-09-17",
@@ -93730,6 +93773,20 @@
         "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/"
       },
       {
+        "date": "2026-09-18",
+        "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
+        "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#ai-capex",
+          "#memory",
+          "#capital-markets"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12156151"
+      },
+      {
         "date": "2026-09-17",
         "file": "20260917-9월16일-ai-속도-조절-은-투자의.md",
         "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
@@ -121818,7 +121875,7 @@
       {
         "date": "2026-09-18",
         "title": "규제기구, 정치에서 멈췄다",
-        "summary": "자율 감독 요구가 정치 테이블에서 좌초하며 기업 자체 기준이 사실상 규범이 됐다.",
+        "summary": "자율 감독이 정치에서 좌초하고, 감속론의 여파는 반도체 매도로 번졌다.",
         "articles": [
           {
             "date": "2026-09-18",
@@ -121831,21 +121888,14 @@
             "title": "House heads home to campaign amid calls for urgent AI action"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215397",
-            "title": ""
-          },
-          {
             "date": "2026-09-18",
             "file": "20260918-anthropic-shares-3-m.md",
             "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260917111252",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215390",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
+            "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려"
           }
         ]
       },
@@ -124574,7 +124624,7 @@
       {
         "date": "2026-09-18",
         "title": "규제기구, 정치에서 멈췄다",
-        "summary": "자율 감독 요구가 정치 테이블에서 좌초하며 기업 자체 기준이 사실상 규범이 됐다.",
+        "summary": "자율 감독이 정치에서 좌초하고, 감속론의 여파는 반도체 매도로 번졌다.",
         "articles": [
           {
             "date": "2026-09-18",
@@ -124587,21 +124637,14 @@
             "title": "House heads home to campaign amid calls for urgent AI action"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215397",
-            "title": ""
-          },
-          {
             "date": "2026-09-18",
             "file": "20260918-anthropic-shares-3-m.md",
             "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260917111252",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215390",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
+            "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려"
           }
         ]
       },
@@ -124619,25 +124662,13 @@
             "date": "2026-09-18",
             "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
             "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
-          },
-          {
-            "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215389",
-            "title": ""
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=673947",
-            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-18",
-        "title": "AI 역량이 인사 기준으로",
-        "summary": "도구 배포 단계를 지나 채용·평가 기준 자체가 다시 쓰이기 시작했다.",
+        "title": "일의 단위가 재설계된다",
+        "summary": "인사 기준과 직무 경계가 바뀌고, 에이전트는 프로젝트 전체를 맡기 시작했다.",
         "articles": [
           {
             "date": "2026-09-18",
@@ -124650,12 +124681,14 @@
             "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260917164557",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-ai-시대-일의-재편-경계-허물고-역.md",
+            "title": "[AI 시대 일의 재편] 경계 허물고 역할 재설계…LGU+ AX 현장"
           },
           {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-앤트로픽-장기-개발-관리-에이전트-클.md",
+            "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개"
           }
         ]
       },
@@ -128699,10 +128732,6 @@
         "summary": "상담 보조를 지나 여신 실행과 시장 데이터 접근으로 적용 지점이 내려갔다.",
         "articles": [
           {
-            "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-09-18",
             "file": "20260918-a-chinese-ai-company.md",
             "title": "A Chinese AI company just connected its model to Wall Street's leading data providers"
@@ -128716,10 +128745,6 @@
             "date": "2026-09-18",
             "file": "20260918-who-is-allowed-to-ac.md",
             "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
-          },
-          {
-            "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
           }
         ]
       },
@@ -131242,10 +131267,6 @@
         "summary": "상담 보조를 지나 여신 실행과 시장 데이터 접근으로 적용 지점이 내려갔다.",
         "articles": [
           {
-            "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-09-18",
             "file": "20260918-a-chinese-ai-company.md",
             "title": "A Chinese AI company just connected its model to Wall Street's leading data providers"
@@ -131259,10 +131280,6 @@
             "date": "2026-09-18",
             "file": "20260918-who-is-allowed-to-ac.md",
             "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
-          },
-          {
-            "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
           }
         ]
       },
@@ -131280,18 +131297,33 @@
             "date": "2026-09-18",
             "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
             "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-18",
+        "title": "일의 단위가 재설계된다",
+        "summary": "인사 기준과 직무 경계가 바뀌고, 에이전트는 프로젝트 전체를 맡기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-09-18",
+            "file": "20260918-ai-시대-일의-재편-채용-승진-기준.md",
+            "title": "[AI 시대 일의 재편] 채용·승진 기준에 AI 넣은 CJ올리브네트웍스"
           },
           {
-            "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-america-s-ai-chip-ta.md",
+            "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215389",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-ai-시대-일의-재편-경계-허물고-역.md",
+            "title": "[AI 시대 일의 재편] 경계 허물고 역할 재설계…LGU+ AX 현장"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=673947",
-            "title": ""
+            "date": "2026-09-18",
+            "file": "20260918-앤트로픽-장기-개발-관리-에이전트-클.md",
+            "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개"
           }
         ]
       },

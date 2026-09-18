@@ -1,12 +1,12 @@
 {
   "date": "2026-09-18",
-  "updated_at": "2026-09-18T08:26:47.064279+09:00",
-  "run_id": "run_20260918_082647",
-  "summary_ko": "규제 기구가 무산된 사이 AI는 금융 코어와 인사 제도까지 파고들었다.",
+  "updated_at": "2026-09-18T12:14:29.273413+09:00",
+  "run_id": "run_20260918_121429",
+  "summary_ko": "규제 기구가 무산된 사이 AI는 금융 코어와 일의 단위까지 파고들었다.",
   "issues": [
     {
       "title": "규제기구, 정치에서 멈췄다",
-      "summary_ko": "자율 감독 요구가 정치 테이블에서 좌초하며 기업 자체 기준이 사실상 규범이 됐다.",
+      "summary_ko": "자율 감독이 정치에서 좌초하고, 감속론의 여파는 반도체 매도로 번졌다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -23,21 +23,14 @@
           "title": "House heads home to campaign amid calls for urgent AI action"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215397",
-          "title": ""
-        },
-        {
           "date": "2026-09-18",
           "file": "20260918-anthropic-shares-3-m.md",
           "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260917111252",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215390",
-          "title": ""
+          "date": "2026-09-18",
+          "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
+          "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려"
         }
       ]
     },
@@ -49,10 +42,6 @@
         "ai_agents"
       ],
       "articles": [
-        {
-          "url": "https://www.finextra.com/pressarticle/110936/saffron-building-society-taps-fintechos-for-ai-powered-mortgage-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
         {
           "date": "2026-09-18",
           "file": "20260918-a-chinese-ai-company.md",
@@ -67,10 +56,6 @@
           "date": "2026-09-18",
           "file": "20260918-who-is-allowed-to-ac.md",
           "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/110937/nexi-and-refibuy-boost-merchant-discoverability-for-agentic-commerce?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
         }
       ]
     },
@@ -91,26 +76,15 @@
           "date": "2026-09-18",
           "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
           "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215389",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673947",
-          "title": ""
         }
       ]
     },
     {
-      "title": "AI 역량이 인사 기준으로",
-      "summary_ko": "도구 배포 단계를 지나 채용·평가 기준 자체가 다시 쓰이기 시작했다.",
+      "title": "일의 단위가 재설계된다",
+      "summary_ko": "인사 기준과 직무 경계가 바뀌고, 에이전트는 프로젝트 전체를 맡기 시작했다.",
       "topics": [
-        "ai_industry"
+        "ai_industry",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -124,12 +98,14 @@
           "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260917164557",
-          "title": ""
+          "date": "2026-09-18",
+          "file": "20260918-ai-시대-일의-재편-경계-허물고-역.md",
+          "title": "[AI 시대 일의 재편] 경계 허물고 역할 재설계…LGU+ AX 현장"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-          "title": ""
+          "date": "2026-09-18",
+          "file": "20260918-앤트로픽-장기-개발-관리-에이전트-클.md",
+          "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개"
         }
       ]
     }
