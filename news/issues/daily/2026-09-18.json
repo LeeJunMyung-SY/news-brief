@@ -1,15 +1,16 @@
 {
   "date": "2026-09-18",
-  "updated_at": "2026-09-18T12:14:29.273413+09:00",
-  "run_id": "run_20260918_121429",
-  "summary_ko": "규제 기구가 무산된 사이 AI는 금융 코어와 일의 단위까지 파고들었다.",
+  "updated_at": "2026-09-18T16:19:12.435171+09:00",
+  "run_id": "run_20260918_161912",
+  "summary_ko": "규제가 멈춘 사이 AI는 업무 깊숙이, 인프라는 수익 검증대로 갔다.",
   "issues": [
     {
-      "title": "규제기구, 정치에서 멈췄다",
-      "summary_ko": "자율 감독이 정치에서 좌초하고, 감속론의 여파는 반도체 매도로 번졌다.",
+      "title": "규제 멈춤, 인프라는 검증대",
+      "summary_ko": "감독 논의가 정치에서 멈춘 사이 시장은 AI 인프라의 전력·수익성을 따지기 시작했다.",
       "topics": [
         "ai_policy",
-        "ai_industry"
+        "ai_industry",
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -31,12 +32,27 @@
           "date": "2026-09-18",
           "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
           "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-네이버-ai-데이터센터-전력-확보-확.md",
+          "title": "네이버, AI 데이터센터 전력 확보 확대…진도 태양광 지분 투자 추진"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-삼성sds-nhn-38-뛸때-홀로-떨.md",
+          "title": "삼성SDS·NHN 38% 뛸때, 홀로 떨어진 네이버…AIDC 사업자株 희비 가른 것은?"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-sk하이닉스-손자회사-솔리다임-첫-낸.md",
+          "title": "SK하이닉스 손자회사 솔리다임, 美 첫 낸드 공장 구축 추진"
         }
       ]
     },
     {
       "title": "금융 AI, 코어 업무로",
-      "summary_ko": "상담 보조를 지나 여신 실행과 시장 데이터 접근으로 적용 지점이 내려갔다.",
+      "summary_ko": "적용 지점이 여신·시장데이터로 내려가며 데이터 기반 정비가 선결 과제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -56,14 +72,30 @@
           "date": "2026-09-18",
           "file": "20260918-who-is-allowed-to-ac.md",
           "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-데이터브릭스-아태-지역-투자-확대-한.md",
+          "title": "데이터브릭스, 아태 지역 투자 확대…한국선 금융권 공략·AI 인재 양성"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-from-who-is-this-use.md",
+          "title": "From \"Who Is This User?\" to \"What Does This Purchase Mean?\": A Deployed Pipeline for Semantic User Profiling at Bank Scale"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-perception-layout-an.md",
+          "title": "Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents"
         }
       ]
     },
     {
-      "title": "접점 주도권, 대화창으로",
-      "summary_ko": "행정·의료·결제가 한 대화창에 모이며 개별 서비스의 고객 접점이 뒤로 밀린다.",
+      "title": "접점, 대화창과 업무 도구로",
+      "summary_ko": "생활은 메신저로, 전문 업무는 문서 도구와 직역 플랫폼으로 AI 접점이 흡수된다.",
       "topics": [
         "ai_agents",
+        "llm_models",
         "ai_industry"
       ],
       "articles": [
@@ -76,12 +108,22 @@
           "date": "2026-09-18",
           "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
           "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-오픈ai-법률용-아스트라-발표-빅-로.md",
+          "title": "오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-워드-안에서-챗gpt-쓴다-오픈ai-.md",
+          "title": "\"워드 안에서 챗GPT 쓴다\"...오픈AI, MS 워드 통합 기능 확대"
         }
       ]
     },
     {
-      "title": "일의 단위가 재설계된다",
-      "summary_ko": "인사 기준과 직무 경계가 바뀌고, 에이전트는 프로젝트 전체를 맡기 시작했다.",
+      "title": "일과 조직이 재설계된다",
+      "summary_ko": "인사 기준과 직무 경계에 이어 그룹 컨트롤타워까지 AI 중심으로 다시 짜인다.",
       "topics": [
         "ai_industry",
         "ai_agents"
@@ -106,6 +148,15 @@
           "date": "2026-09-18",
           "file": "20260918-앤트로픽-장기-개발-관리-에이전트-클.md",
           "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=673988",
+          "title": ""
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-ai-에이전트의-다음-병목은-맥락-기.md",
+          "title": "AI 에이전트의 다음 병목은 '맥락'… 기업 AX, 온톨로지 다시 본다"
         }
       ]
     }
