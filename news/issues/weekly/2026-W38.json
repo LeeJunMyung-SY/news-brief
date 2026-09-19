@@ -1,12 +1,12 @@
 {
   "week": "2026-W38",
-  "updated_at": "2026-09-19T15:05:02.408109+09:00",
-  "run_id": "run_20260919_150502",
-  "summary_ko": "연방 감독이 멈추자 주정부가 나섰고, AI는 금융 코어·업무 도구·조직까지 내려갔다.",
+  "updated_at": "2026-09-20T08:50:06.293404+09:00",
+  "run_id": "run_20260920_085006",
+  "summary_ko": "감독은 연방을 떠나 흩어졌고, AI는 코어 업무와 인프라 밑단까지 내려갔다.",
   "issues": [
     {
-      "title": "감독은 정치에서 주정부로",
-      "body_ko": "연방 규제 기구가 정치에 막히자 주 행정명령과 외부 평가가 감독을 떠안았고 통제 이탈 사례가 명분을 키웠다.",
+      "title": "감독, 연방 밖으로 흩어졌다",
+      "body_ko": "연방 규제가 정치에 막히자 주정부와 외부 평가가 감독을 나눠 맡았고 독립성이 새 쟁점이 됐다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -14,9 +14,19 @@
       ],
       "articles": [
         {
-          "date": "2026-09-16",
-          "file": "20260916-two-camps-have-emerg.md",
-          "title": "Two camps have emerged in the debate over AI safety and regulation"
+          "date": "2026-09-19",
+          "file": "20260919-캘리포니아-ai-킬-스위치-의무화-추.md",
+          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-앤트로픽-ai-안전-평가-기관으로-액.md",
+          "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-젠슨황-저커버그-머스크-트럼프-설득-.md",
+          "title": "젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지"
         },
         {
           "date": "2026-09-16",
@@ -29,45 +39,61 @@
           "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
         },
         {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "통제 실패는 환경에서 온다",
+      "body_ko": "이탈 사고의 원인이 모델이 아닌 평가·실행 환경으로 확인되며 권한 설계가 도입 조건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-19",
+          "file": "20260919-google-s-gemini-beco.md",
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-클로드-코드-코덱스-스킬-무단-업데이.md",
+          "title": "클로드 코드·코덱스, '스킬' 무단 업데이트에 서버 탈취 위험"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-오픈ai-앤트로픽-클로드-에-뚫렸다-.md",
+          "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출"
+        },
+        {
           "date": "2026-09-17",
           "file": "20260917-외부-감사에-연구실-개방하라-오픈ai.md",
           "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'"
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-젠슨황-저커버그-머스크-트럼프-설득-.md",
-          "title": "젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+          "title": ""
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-house-heads-home-to-.md",
-          "title": "House heads home to campaign amid calls for urgent AI action"
-        },
-        {
-          "date": "2026-09-14",
-          "file": "20260914-고유가-고금리에-ai-브레이크-까지-.md",
-          "title": "고유가·고금리에 'AI 브레이크'까지…외국인 3조 던졌다"
-        },
-        {
-          "date": "2026-09-19",
-          "file": "20260919-캘리포니아-ai-킬-스위치-의무화-추.md",
-          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각"
-        },
-        {
-          "date": "2026-09-19",
-          "file": "20260919-앤트로픽-ai-안전-평가-기관으로-액.md",
-          "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대"
-        },
-        {
-          "date": "2026-09-19",
-          "file": "20260919-google-s-gemini-beco.md",
-          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems"
+          "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+          "title": ""
         }
       ]
     },
     {
       "title": "에이전트, 접점과 코어를 동시에",
-      "body_ko": "대화창과 업무 도구가 접점을 흡수하는 사이 금융에선 여신 전반까지 AI가 맡으며 코어 적용이 기준이 됐다.",
+      "body_ko": "대화창과 업무 도구가 접점을 흡수하는 사이 금융에선 여신 전반까지 맡으며 코어 적용이 기준이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -75,29 +101,14 @@
       ],
       "articles": [
         {
-          "date": "2026-09-16",
-          "file": "20260916-앤트로픽-금융-시장-본격-공략-클로드.md",
-          "title": "앤트로픽, 금융 시장 본격 공략…'클로드 포 파이낸셜 어드바이저스' 출시"
+          "date": "2026-09-19",
+          "file": "20260919-새로온-대출심사-보고서-담당자-그렇게.md",
+          "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경"
         },
         {
-          "date": "2026-09-16",
-          "file": "20260916-ai-에이전트가-상호-거래-정산까지-.md",
-          "title": "“AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-zopa-rolls-out-perso.md",
-          "title": "Zopa rolls out personal banking agent"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-신한은행-모두의-ai-카카오-컨소시엄.md",
-          "title": "신한은행, '모두의 AI' 카카오 컨소시엄에 참여"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-a-chinese-ai-company.md",
-          "title": "A Chinese AI company just connected its model to Wall Street's leading data providers"
+          "date": "2026-09-19",
+          "file": "20260919-카카오-모두의-ai-카뱅-카페-대신-.md",
+          "title": "카카오 '모두의 AI', 카뱅·카페 대신 신한은행…외부 전문성 택했다"
         },
         {
           "date": "2026-09-18",
@@ -106,69 +117,38 @@
         },
         {
           "date": "2026-09-18",
-          "file": "20260918-오픈ai-법률용-아스트라-발표-빅-로.md",
-          "title": "오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원"
-        },
-        {
-          "date": "2026-09-18",
           "file": "20260918-워드-안에서-챗gpt-쓴다-오픈ai-.md",
           "title": "\"워드 안에서 챗GPT 쓴다\"...오픈AI, MS 워드 통합 기능 확대"
         },
         {
-          "date": "2026-09-19",
-          "file": "20260919-새로온-대출심사-보고서-담당자-그렇게.md",
-          "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경"
+          "date": "2026-09-16",
+          "file": "20260916-앤트로픽-금융-시장-본격-공략-클로드.md",
+          "title": "앤트로픽, 금융 시장 본격 공략…'클로드 포 파이낸셜 어드바이저스' 출시"
         },
         {
-          "date": "2026-09-19",
-          "file": "20260919-ex-paypal-ceo-harris.md",
-          "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app"
+          "date": "2026-09-20",
+          "file": "20260920-메타-에이전트-뮤즈-맥으로-확대-앱스.md",
+          "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각"
+        },
+        {
+          "url": "https://www.etnews.com/20260918000227",
+          "title": ""
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-lgu-ai-시대.md",
+          "title": "[AINEX 2026] LGU+ “AI 시대 통신망 운영, 에이전트 중심 전환 필요”"
         }
       ]
     },
     {
-      "title": "병목, 전력·인허가·용량으로",
-      "body_ko": "계통과 인력에 이어 지역 인허가와 즉시 가동 용량 확보가 인프라 확장 속도를 가르고, 수익성은 원가에서 판가름 난다.",
+      "title": "병목, 전력에서 연결망까지",
+      "body_ko": "계통·인허가·용량에 더해 국제 연결망과 엣지 연산이 인프라 확장 속도를 가르는 변수로 들어왔다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-09-16",
-          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
-          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
-        },
-        {
-          "date": "2026-09-14",
-          "file": "20260914-aidc-알박기-막아야-전력계통평가-.md",
-          "title": "“AIDC  '알박기' 막아야”...전력계통평가 신청 93%가 데이터센터"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-송전망-기다리지-않고-ai-구동한다-.md",
-          "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-google-nvidia-and-an.md",
-          "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-네이버-ai-데이터센터-전력-확보-확.md",
-          "title": "네이버, AI 데이터센터 전력 확보 확대…진도 태양광 지분 투자 추진"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-삼성sds-nhn-38-뛸때-홀로-떨.md",
-          "title": "삼성SDS·NHN 38% 뛸때, 홀로 떨어진 네이버…AIDC 사업자株 희비 가른 것은?"
-        },
-        {
-          "date": "2026-09-19",
-          "file": "20260919-virginia-governor-cr.md",
-          "title": "Virginia governor creates an AI task force and moves to restrain data centers"
-        },
         {
           "date": "2026-09-19",
           "file": "20260919-anthropic-and-openai.md",
@@ -176,30 +156,50 @@
         },
         {
           "date": "2026-09-19",
-          "file": "20260919-앤트로픽-ipo에-월가-신중론-100.md",
-          "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려"
+          "file": "20260919-virginia-governor-cr.md",
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-네이버-ai-데이터센터-전력-확보-확.md",
+          "title": "네이버, AI 데이터센터 전력 확보 확대…진도 태양광 지분 투자 추진"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-송전망-기다리지-않고-ai-구동한다-.md",
+          "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
+        },
+        {
+          "date": "2026-09-16",
+          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
+          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-지상-해저-우주-.md",
+          "title": "[AINEX 2026]지상·해저·우주 '초공간' 입체 연결 논의 첫 발…“미래 네트워크 새 판 짜야”"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-kt-aidc만-.md",
+          "title": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-네오클라우드-엔스케일-엔비디아-지원으.md",
+          "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진"
         }
       ]
     },
     {
-      "title": "일의 구조가 바뀐다",
-      "body_ko": "AI 지출이 수지에 찍힌 데 이어 인사 기준·직무 경계와 최고 기술 책임자 자리까지 AI 중심으로 다시 짜인다.",
+      "title": "일의 구조와 그 몫이 바뀐다",
+      "body_ko": "인사 기준과 직무 경계가 다시 짜이는 가운데 생산성 향상의 배분이 새 쟁점으로 떠올랐다.",
       "topics": [
+        "ai_workforce_training",
         "ai_industry",
-        "ai_agents",
-        "금융회사 AI"
+        "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-09-17",
-          "file": "20260917-회사-몰래-ai-사용하느라-내돈내산-.md",
-          "title": "회사 몰래 AI 사용하느라…'내돈내산 AI'에 1.8조 쓴 직장인들 [분석+]"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-팀스파르타-국내-10대-그룹-9곳에-.md",
-          "title": "팀스파르타, 국내 10대 그룹 9곳에 AI 교육 제공…계약 규모 220% 증가"
-        },
         {
           "date": "2026-09-18",
           "file": "20260918-ai-시대-일의-재편-채용-승진-기준.md",
@@ -211,44 +211,30 @@
           "title": "[AI 시대 일의 재편] 경계 허물고 역할 재설계…LGU+ AX 현장"
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-ai-에이전트의-다음-병목은-맥락-기.md",
-          "title": "AI 에이전트의 다음 병목은 '맥락'… 기업 AX, 온톨로지 다시 본다"
+          "date": "2026-09-17",
+          "file": "20260917-회사-몰래-ai-사용하느라-내돈내산-.md",
+          "title": "회사 몰래 AI 사용하느라…'내돈내산 AI'에 1.8조 쓴 직장인들 [분석+]"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215487",
-          "title": ""
+          "date": "2026-09-17",
+          "file": "20260917-팀스파르타-국내-10대-그룹-9곳에-.md",
+          "title": "팀스파르타, 국내 10대 그룹 9곳에 AI 교육 제공…계약 규모 220% 증가"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ai-경제-성장시키고-사람-몫-줄일-.md",
+          "title": "“AI, 경제 성장시키고 사람 몫 줄일 것” … 앤트로픽의 섬뜩한 경고"
         }
       ]
     },
     {
-      "title": "피지컬 AI, 실증에서 양산으로",
-      "body_ko": "국책 실증에 이어 양산 목표와 제로샷 제어가 나오며 로봇 도입 단가와 현장 적응 비용이 내려갈 여지가 생겼다.",
+      "title": "피지컬 AI, 양산 앞의 안전과 자본",
+      "body_ko": "양산 목표가 나온 한편 제어 안전 결함과 자금 경쟁이 실제 도입 속도를 가르는 변수로 드러났다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-09-17",
-          "file": "20260917-과기정통부-전북-경남에-피지컬ai-1.md",
-          "title": "과기정통부, 전북·경남에 피지컬AI 1.4조원 투자"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-어질리티-사람-접근하면-멈추는-차세대.md",
-          "title": "어질리티, 사람 접근하면 멈추는 차세대 휴머노이드 '디지트 5' 공개"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-국산-휴머노이드로-담낭-절제까지-삼성.md",
-          "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-피지컬-ai-너-내-동료가-돼라-hd.md",
-          "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소"
-        },
         {
           "date": "2026-09-19",
           "file": "20260919-로보티즈-휴머노이드-양산-시계-빨라진.md",
@@ -258,6 +244,31 @@
           "date": "2026-09-19",
           "file": "20260919-낯선-가정서-집안일-척척-피규어-ai.md",
           "title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개"
+        },
+        {
+          "date": "2026-09-18",
+          "file": "20260918-국산-휴머노이드로-담낭-절제까지-삼성.md",
+          "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연"
+        },
+        {
+          "date": "2026-09-17",
+          "file": "20260917-과기정통부-전북-경남에-피지컬ai-1.md",
+          "title": "과기정통부, 전북·경남에 피지컬AI 1.4조원 투자"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-gpt-6-astra-and-clau.md",
+          "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-et시선-k로봇-기술만으론-이길-수-.md",
+          "title": "[ET시선]K로봇, 기술만으론 이길 수 없다"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-이경한-서울대-교.md",
+          "title": "[AINEX 2026] 이경한 서울대 교수 “피지컬 AI 승부처는 로봇 아닌 네트워크 시스템”"
         }
       ]
     }

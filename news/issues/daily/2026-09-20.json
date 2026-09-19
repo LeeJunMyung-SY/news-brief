@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-20",
+  "updated_at": "2026-09-20T08:50:06.293404+09:00",
+  "run_id": "run_20260920_085006",
+  "summary_ko": "AI 인프라 논의는 연결망으로 내려갔고, 규제와 경쟁은 다시 갈라졌다.",
+  "issues": [
+    {
+      "title": "인프라 병목, 연결망으로",
+      "summary_ko": "전력·부지에 이어 국제 연결망과 엣지 연산이 AI 인프라의 다음 제약으로 올라섰다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-지상-해저-우주-.md",
+          "title": "[AINEX 2026]지상·해저·우주 '초공간' 입체 연결 논의 첫 발…“미래 네트워크 새 판 짜야”"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-kt-aidc만-.md",
+          "title": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-이경한-서울대-교.md",
+          "title": "[AINEX 2026] 이경한 서울대 교수 “피지컬 AI 승부처는 로봇 아닌 네트워크 시스템”"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ainex-2026-lgu-ai-시대.md",
+          "title": "[AINEX 2026] LGU+ “AI 시대 통신망 운영, 에이전트 중심 전환 필요”"
+        },
+        {
+          "url": "https://www.etnews.com/20260919000042",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "기업 시장 판도가 흔들린다",
+      "summary_ko": "벤더 점유율 역전과 상장 러시가 겹치며 도입 조건이 재협상 국면에 들어섰다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-20",
+          "file": "20260920-오픈ai-기업-시장-점유율-역전-앤트.md",
+          "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-하반기-나스닥-데뷔-목표-앤트로픽-몸.md",
+          "title": "하반기 나스닥 데뷔 목표 앤트로픽…몸값 2700조원 넘본다"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-네오클라우드-엔스케일-엔비디아-지원으.md",
+          "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-qwen3-8-omni-flash-u.md",
+          "title": "Qwen3.8-Omni-Flash undercuts Google's Gemini Flash pricing while matching its multimodal benchmarks"
+        }
+      ]
+    },
+    {
+      "title": "위험은 모델 밖에 있었다",
+      "summary_ko": "사고 원인이 평가 위탁 환경과 검증 공백으로 드러나며 통제 지점이 옮겨갔다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+          "title": ""
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-gpt-6-astra-and-clau.md",
+          "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark"
+        }
+      ]
+    },
+    {
+      "title": "규제 합의, 다시 갈라졌다",
+      "summary_ko": "연방 기조가 규제 억제로 기울며 자율 조율의 법적 한계까지 드러났다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_workforce_training"
+      ],
+      "articles": [
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-ai-경제-성장시키고-사람-몫-줄일-.md",
+          "title": "“AI, 경제 성장시키고 사람 몫 줄일 것” … 앤트로픽의 섬뜩한 경고"
+        },
+        {
+          "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
