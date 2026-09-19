@@ -1,12 +1,12 @@
 {
   "week": "2026-W38",
-  "updated_at": "2026-09-18T16:19:12.435171+09:00",
-  "run_id": "run_20260918_161912",
-  "summary_ko": "감속 논쟁이 정치에서 멈춘 사이 AI는 금융 코어·업무 도구·조직까지 내려갔다.",
+  "updated_at": "2026-09-19T15:05:02.408109+09:00",
+  "run_id": "run_20260919_150502",
+  "summary_ko": "연방 감독이 멈추자 주정부가 나섰고, AI는 금융 코어·업무 도구·조직까지 내려갔다.",
   "issues": [
     {
-      "title": "감속론, 정치에서 결판났다",
-      "body_ko": "자율 감독 구상이 정치 개입에 막히며 규범은 기업 손으로 돌아갔고, 여파는 증시로 번졌다.",
+      "title": "감독은 정치에서 주정부로",
+      "body_ko": "연방 규제 기구가 정치에 막히자 주 행정명령과 외부 평가가 감독을 떠안았고 통제 이탈 사례가 명분을 키웠다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -49,15 +49,25 @@
           "title": "고유가·고금리에 'AI 브레이크'까지…외국인 3조 던졌다"
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-한주동안-삼전닉스-13조-판-외국인들.md",
-          "title": "한주동안 삼전닉스 13조 판 외국인들…증권가선 반도체 전망 엇갈려"
+          "date": "2026-09-19",
+          "file": "20260919-캘리포니아-ai-킬-스위치-의무화-추.md",
+          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-앤트로픽-ai-안전-평가-기관으로-액.md",
+          "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-google-s-gemini-beco.md",
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems"
         }
       ]
     },
     {
       "title": "에이전트, 접점과 코어를 동시에",
-      "body_ko": "대화창과 업무 도구가 접점을 흡수하는 한편 금융에선 여신·시장데이터 같은 코어 업무까지 에이전트가 맡는다.",
+      "body_ko": "대화창과 업무 도구가 접점을 흡수하는 사이 금융에선 여신 전반까지 AI가 맡으며 코어 적용이 기준이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -91,23 +101,8 @@
         },
         {
           "date": "2026-09-18",
-          "file": "20260918-포토-금융-특화-ai-개발-손잡은-j.md",
-          "title": "[포토] 금융 특화 AI 개발 손잡은 JB금융·업스테이지"
-        },
-        {
-          "date": "2026-09-18",
           "file": "20260918-카톡-모두의-ai-로-서류-떼고-병원.md",
           "title": "카톡 '모두의 AI'로 서류 떼고 병원 예약·결제…카카오 \"3년 뒤 챗GPT 넘겠다\""
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-키워드-검색-사라지나-네이버-ai-에.md",
-          "title": "'키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-who-is-allowed-to-ac.md",
-          "title": "Who Is Allowed to Act? The Delegated Authority Problem in Agentic Banking"
         },
         {
           "date": "2026-09-18",
@@ -120,25 +115,25 @@
           "title": "\"워드 안에서 챗GPT 쓴다\"...오픈AI, MS 워드 통합 기능 확대"
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-데이터브릭스-아태-지역-투자-확대-한.md",
-          "title": "데이터브릭스, 아태 지역 투자 확대…한국선 금융권 공략·AI 인재 양성"
+          "date": "2026-09-19",
+          "file": "20260919-새로온-대출심사-보고서-담당자-그렇게.md",
+          "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-ex-paypal-ceo-harris.md",
+          "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app"
         }
       ]
     },
     {
-      "title": "병목, 전력·계통·인력으로",
-      "body_ko": "계통 접속과 인력 제약에 이어 전력 직접 확보와 투자 회수 가능성이 인프라 확장의 기준이 됐다.",
+      "title": "병목, 전력·인허가·용량으로",
+      "body_ko": "계통과 인력에 이어 지역 인허가와 즉시 가동 용량 확보가 인프라 확장 속도를 가르고, 수익성은 원가에서 판가름 난다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-09-16",
-          "file": "20260916-반도체-장비-부품-납기-2배로-최대-.md",
-          "title": "반도체 장비 부품 납기 2배로…최대 40개월도 걸려"
-        },
         {
           "date": "2026-09-16",
           "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
@@ -155,24 +150,9 @@
           "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
         },
         {
-          "date": "2026-09-17",
-          "file": "20260917-두산-하이엔드-ccl에-9700억-투.md",
-          "title": "㈜두산, 하이엔드 CCL에 9700억 투자…AI 데이터센터 수요 정조준"
-        },
-        {
           "date": "2026-09-18",
           "file": "20260918-google-nvidia-and-an.md",
           "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-america-s-ai-chip-ta.md",
-          "title": "America’s AI chip talent crisis — why The U.S. needs 157,000 more workers"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-huawei-plans-q1-2027.md",
-          "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia"
         },
         {
           "date": "2026-09-18",
@@ -181,19 +161,29 @@
         },
         {
           "date": "2026-09-18",
-          "file": "20260918-sk하이닉스-손자회사-솔리다임-첫-낸.md",
-          "title": "SK하이닉스 손자회사 솔리다임, 美 첫 낸드 공장 구축 추진"
-        },
-        {
-          "date": "2026-09-18",
           "file": "20260918-삼성sds-nhn-38-뛸때-홀로-떨.md",
           "title": "삼성SDS·NHN 38% 뛸때, 홀로 떨어진 네이버…AIDC 사업자株 희비 가른 것은?"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-virginia-governor-cr.md",
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-anthropic-and-openai.md",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-앤트로픽-ipo에-월가-신중론-100.md",
+          "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려"
         }
       ]
     },
     {
       "title": "일의 구조가 바뀐다",
-      "body_ko": "AI 지출이 수지에 찍힌 데 이어 인사 기준·직무 경계와 그룹 조직까지 다시 짜이고 있다.",
+      "body_ko": "AI 지출이 수지에 찍힌 데 이어 인사 기준·직무 경계와 최고 기술 책임자 자리까지 AI 중심으로 다시 짜인다.",
       "topics": [
         "ai_industry",
         "ai_agents",
@@ -204,11 +194,6 @@
           "date": "2026-09-17",
           "file": "20260917-회사-몰래-ai-사용하느라-내돈내산-.md",
           "title": "회사 몰래 AI 사용하느라…'내돈내산 AI'에 1.8조 쓴 직장인들 [분석+]"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-학생이건-직장인이건-ai-안-쓰는-사.md",
-          "title": "“학생이건 직장인이건 AI 안 쓰는 사람 없더라”…지식서비스 적자 9조 육박"
         },
         {
           "date": "2026-09-17",
@@ -227,23 +212,18 @@
         },
         {
           "date": "2026-09-18",
-          "file": "20260918-앤트로픽-장기-개발-관리-에이전트-클.md",
-          "title": "앤트로픽, 장기 개발 관리 에이전트 '클로드 코드 프로젝트' 공개"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=673988",
-          "title": ""
-        },
-        {
-          "date": "2026-09-18",
           "file": "20260918-ai-에이전트의-다음-병목은-맥락-기.md",
           "title": "AI 에이전트의 다음 병목은 '맥락'… 기업 AX, 온톨로지 다시 본다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215487",
+          "title": ""
         }
       ]
     },
     {
-      "title": "피지컬 AI, 현장 실증으로",
-      "body_ko": "국책 예산이 현장으로 내려가며 비정형 작업장과 의료까지 실증 범위가 넓어졌다.",
+      "title": "피지컬 AI, 실증에서 양산으로",
+      "body_ko": "국책 실증에 이어 양산 목표와 제로샷 제어가 나오며 로봇 도입 단가와 현장 적응 비용이 내려갈 여지가 생겼다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -260,11 +240,6 @@
           "title": "어질리티, 사람 접근하면 멈추는 차세대 휴머노이드 '디지트 5' 공개"
         },
         {
-          "date": "2026-09-17",
-          "file": "20260917-kiro-삼성중공업-조선-특화-자율작.md",
-          "title": "KIRO-삼성중공업, 조선 특화 자율작업로봇·산업제조 휴머노이드·AI 로봇솔루션 공동연구 추진"
-        },
-        {
           "date": "2026-09-18",
           "file": "20260918-국산-휴머노이드로-담낭-절제까지-삼성.md",
           "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연"
@@ -275,9 +250,14 @@
           "title": "피지컬 AI, 너 내 동료가 돼라…HD현대가 그리는 미래 조선소"
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-kt-nc가-주도하는-피지컬-ai-제.md",
-          "title": "KT·NC가 주도하는 피지컬 AI 제조혁신"
+          "date": "2026-09-19",
+          "file": "20260919-로보티즈-휴머노이드-양산-시계-빨라진.md",
+          "title": "로보티즈, 휴머노이드 양산 시계 빨라진다…'연 1만대' 목표"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-낯선-가정서-집안일-척척-피규어-ai.md",
+          "title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개"
         }
       ]
     }

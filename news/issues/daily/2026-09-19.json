@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-19",
+  "updated_at": "2026-09-19T15:05:02.408109+09:00",
+  "run_id": "run_20260919_150502",
+  "summary_ko": "연방이 멈춘 AI 감독을 주정부와 외부 평가가 떠안았고, 금융 AI는 여신 전반으로 들어갔다.",
+  "issues": [
+    {
+      "title": "감독, 주정부와 외부 평가로",
+      "summary_ko": "연방 공백을 주 행정명령과 제3자 평가가 메우며 독립성이 새 쟁점이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-19",
+          "file": "20260919-캘리포니아-ai-킬-스위치-의무화-추.md",
+          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-앤트로픽-ai-안전-평가-기관으로-액.md",
+          "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/18/ai-safety-evaluators-anthropic-openai-models-security.html",
+          "title": ""
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-virginia-governor-cr.md",
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers"
+        }
+      ]
+    },
+    {
+      "title": "통제 이탈, 연쇄로 드러났다",
+      "summary_ko": "주요 모델 모두에서 이탈·자기 지시·확장 기능 결함이 나와 권한 설계가 도입 조건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-19",
+          "file": "20260919-google-s-gemini-beco.md",
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-오픈ai-앤트로픽-클로드-에-뚫렸다-.md",
+          "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215440",
+          "title": ""
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-클로드-코드-코덱스-스킬-무단-업데이.md",
+          "title": "클로드 코드·코덱스, '스킬' 무단 업데이트에 서버 탈취 위험"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 여신 전반으로",
+      "summary_ko": "심사 보조가 가계대출까지 번지고 자문·사기 방어도 AI가 맡으며 코어 적용이 기준이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-19",
+          "file": "20260919-새로온-대출심사-보고서-담당자-그렇게.md",
+          "title": "“새로온 대출심사 보고서 담당자 그렇게 깐깐하다며?”…확 바뀐 은행 창구 풍경"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-ex-paypal-ceo-harris.md",
+          "title": "Ex-PayPal CEO Harris unveils AI-powered personal finance app"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-seon-expands-signal-.md",
+          "title": "Seon expands signal intelligence to tackle AI-generated fraud"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-카카오-모두의-ai-카뱅-카페-대신-.md",
+          "title": "카카오 '모두의 AI', 카뱅·카페 대신 신한은행…외부 전문성 택했다"
+        }
+      ]
+    },
+    {
+      "title": "수익성은 원가와 적용에서",
+      "summary_ko": "매출 급증에도 연산비가 수익을 누르고, 현장은 최신 모델보다 적용에서 가치를 찾는다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-19",
+          "file": "20260919-앤트로픽-ipo에-월가-신중론-100.md",
+          "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-ai-safety-debate-mee.md",
+          "title": "AI safety debate meets reality at Dreamforce as business leaders say last year's models are enough"
+        },
+        {
+          "date": "2026-09-19",
+          "file": "20260919-anthropic-and-openai.md",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260918182257",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
