@@ -1,12 +1,12 @@
 {
   "week": "2026-W38",
-  "updated_at": "2026-09-20T08:50:06.293404+09:00",
-  "run_id": "run_20260920_085006",
-  "summary_ko": "감독은 연방을 떠나 흩어졌고, AI는 코어 업무와 인프라 밑단까지 내려갔다.",
+  "updated_at": "2026-09-20T12:08:23.668683+09:00",
+  "run_id": "run_20260920_120823",
+  "summary_ko": "감독은 흩어지고 비용은 드러난 주, AI는 코어 업무와 현장 데이터로 내려갔다.",
   "issues": [
     {
       "title": "감독, 연방 밖으로 흩어졌다",
-      "body_ko": "연방 규제가 정치에 막히자 주정부와 외부 평가가 감독을 나눠 맡았고 독립성이 새 쟁점이 됐다.",
+      "body_ko": "연방 규제가 미뤄지자 주정부·외부 평가·법원이 감독을 나눠 맡는 구도가 굳어졌다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -39,22 +39,24 @@
           "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-          "title": ""
+          "date": "2026-09-20",
+          "file": "20260920-트럼프-ai-포스-창설-예고-산업-성.md",
+          "title": "트럼프, 'AI 포스' 창설 예고…\"산업 성장 막지 않을 것\""
         },
         {
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-          "title": ""
+          "date": "2026-09-20",
+          "file": "20260920-안전-핑계-대고-밀실-담합-앤트로픽-.md",
+          "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/19/ai-kill-switch-explained.html",
+          "url": "https://zdnet.co.kr/view/?no=20260919224205",
           "title": ""
         }
       ]
     },
     {
       "title": "통제 실패는 환경에서 온다",
-      "body_ko": "이탈 사고의 원인이 모델이 아닌 평가·실행 환경으로 확인되며 권한 설계가 도입 조건이 됐다.",
+      "body_ko": "이탈과 오판의 원인이 모델이 아니라 평가·검증 환경으로 확인되며 절차 설계가 도입 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -82,18 +84,20 @@
           "title": "\"외부 감사에 연구실 개방하라\"…오픈AI·앤트로픽, 내부 반발로 '몸살'"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
-          "title": ""
+          "date": "2026-09-20",
+          "file": "20260920-gpt-6-astra-and-clau.md",
+          "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark"
         },
         {
-          "url": "https://the-decoder.com/u-s-military-nearly-boarded-a-chinese-ship-over-a-hallucinated-ai-intelligence-report/",
-          "title": ""
+          "date": "2026-09-20",
+          "file": "20260920-ai-오판에-미-중-군사-충돌-직전까.md",
+          "title": "AI 오판에 미·중 군사 충돌 직전까지…미군, 군용기까지 띄웠다"
         }
       ]
     },
     {
       "title": "에이전트, 접점과 코어를 동시에",
-      "body_ko": "대화창과 업무 도구가 접점을 흡수하는 사이 금융에선 여신 전반까지 맡으며 코어 적용이 기준이 됐다.",
+      "body_ko": "생활 접점이 대화창으로 흡수되는 사이 금융 여신과 상담 운영까지 실제 처리 비중을 맡기 시작했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -116,11 +120,6 @@
           "title": "카톡 '모두의 AI'로 서류 떼고 병원 예약·결제…카카오 \"3년 뒤 챗GPT 넘겠다\""
         },
         {
-          "date": "2026-09-18",
-          "file": "20260918-워드-안에서-챗gpt-쓴다-오픈ai-.md",
-          "title": "\"워드 안에서 챗GPT 쓴다\"...오픈AI, MS 워드 통합 기능 확대"
-        },
-        {
           "date": "2026-09-16",
           "file": "20260916-앤트로픽-금융-시장-본격-공략-클로드.md",
           "title": "앤트로픽, 금융 시장 본격 공략…'클로드 포 파이낸셜 어드바이저스' 출시"
@@ -131,19 +130,19 @@
           "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각"
         },
         {
-          "url": "https://www.etnews.com/20260918000227",
-          "title": ""
+          "date": "2026-09-20",
+          "file": "20260920-유베이스가-그리는-ai-시대-컨택센터.md",
+          "title": "유베이스가 그리는 AI 시대 컨택센터 생태계는"
         },
         {
-          "date": "2026-09-20",
-          "file": "20260920-ainex-2026-lgu-ai-시대.md",
-          "title": "[AINEX 2026] LGU+ “AI 시대 통신망 운영, 에이전트 중심 전환 필요”"
+          "url": "https://zdnet.co.kr/view/?no=20260919153200",
+          "title": ""
         }
       ]
     },
     {
-      "title": "병목, 전력에서 연결망까지",
-      "body_ko": "계통·인허가·용량에 더해 국제 연결망과 엣지 연산이 인프라 확장 속도를 가르는 변수로 들어왔다.",
+      "title": "비용이 전면에 나왔다",
+      "body_ko": "연산비가 공급사 수익을 누르는 구조가 드러나며 도입 가격과 전력 조달이 함께 계산 대상이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -151,13 +150,13 @@
       "articles": [
         {
           "date": "2026-09-19",
-          "file": "20260919-anthropic-and-openai.md",
-          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity"
+          "file": "20260919-앤트로픽-ipo에-월가-신중론-100.md",
+          "title": "앤트로픽 IPO에 월가 신중론...1000억달러 매출 속 '적자 전환' 우려"
         },
         {
           "date": "2026-09-19",
-          "file": "20260919-virginia-governor-cr.md",
-          "title": "Virginia governor creates an AI task force and moves to restrain data centers"
+          "file": "20260919-anthropic-and-openai.md",
+          "title": "Anthropic and OpenAI hunt for smaller data center deals, sources tell CNBC, in race to deploy AI capacity"
         },
         {
           "date": "2026-09-18",
@@ -165,39 +164,38 @@
           "title": "네이버, AI 데이터센터 전력 확보 확대…진도 태양광 지분 투자 추진"
         },
         {
-          "date": "2026-09-17",
-          "file": "20260917-송전망-기다리지-않고-ai-구동한다-.md",
-          "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
-        },
-        {
-          "date": "2026-09-16",
-          "file": "20260916-kt-ai-데이터센터에-5년간-6조-.md",
-          "title": "KT \"AI 데이터센터에 5년간 6조 투자\""
-        },
-        {
-          "date": "2026-09-20",
-          "file": "20260920-ainex-2026-지상-해저-우주-.md",
-          "title": "[AINEX 2026]지상·해저·우주 '초공간' 입체 연결 논의 첫 발…“미래 네트워크 새 판 짜야”"
-        },
-        {
           "date": "2026-09-20",
           "file": "20260920-ainex-2026-kt-aidc만-.md",
           "title": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”"
         },
         {
+          "date": "2026-09-17",
+          "file": "20260917-송전망-기다리지-않고-ai-구동한다-.md",
+          "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장"
+        },
+        {
           "date": "2026-09-20",
-          "file": "20260920-네오클라우드-엔스케일-엔비디아-지원으.md",
-          "title": "네오클라우드 엔스케일, 엔비디아 지원으로 뉴욕증시 상장 추진"
+          "file": "20260920-오픈ai-2030년까지-386조-소진.md",
+          "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-lg전자-ai-데이터센터-특화-터보-.md",
+          "title": "LG전자, 'AI 데이터센터' 특화 터보 칠러 출시…“전력 소비량 30% 절감”"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215395",
+          "title": ""
         }
       ]
     },
     {
-      "title": "일의 구조와 그 몫이 바뀐다",
-      "body_ko": "인사 기준과 직무 경계가 다시 짜이는 가운데 생산성 향상의 배분이 새 쟁점으로 떠올랐다.",
+      "title": "현장 적용은 데이터가 가른다",
+      "body_ko": "설비와 인력이 아니라 축적된 공정·업무 데이터가 도입 성과와 일자리 구조를 함께 결정하고 있다.",
       "topics": [
-        "ai_workforce_training",
+        "physical_ai",
         "ai_industry",
-        "ai_agents"
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -211,44 +209,9 @@
           "title": "[AI 시대 일의 재편] 경계 허물고 역할 재설계…LGU+ AX 현장"
         },
         {
-          "date": "2026-09-17",
-          "file": "20260917-회사-몰래-ai-사용하느라-내돈내산-.md",
-          "title": "회사 몰래 AI 사용하느라…'내돈내산 AI'에 1.8조 쓴 직장인들 [분석+]"
-        },
-        {
-          "date": "2026-09-17",
-          "file": "20260917-팀스파르타-국내-10대-그룹-9곳에-.md",
-          "title": "팀스파르타, 국내 10대 그룹 9곳에 AI 교육 제공…계약 규모 220% 증가"
-        },
-        {
-          "date": "2026-09-20",
-          "file": "20260920-ai-경제-성장시키고-사람-몫-줄일-.md",
-          "title": "“AI, 경제 성장시키고 사람 몫 줄일 것” … 앤트로픽의 섬뜩한 경고"
-        }
-      ]
-    },
-    {
-      "title": "피지컬 AI, 양산 앞의 안전과 자본",
-      "body_ko": "양산 목표가 나온 한편 제어 안전 결함과 자금 경쟁이 실제 도입 속도를 가르는 변수로 드러났다.",
-      "topics": [
-        "physical_ai",
-        "physical_ai_robotics"
-      ],
-      "articles": [
-        {
           "date": "2026-09-19",
           "file": "20260919-로보티즈-휴머노이드-양산-시계-빨라진.md",
           "title": "로보티즈, 휴머노이드 양산 시계 빨라진다…'연 1만대' 목표"
-        },
-        {
-          "date": "2026-09-19",
-          "file": "20260919-낯선-가정서-집안일-척척-피규어-ai.md",
-          "title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개"
-        },
-        {
-          "date": "2026-09-18",
-          "file": "20260918-국산-휴머노이드로-담낭-절제까지-삼성.md",
-          "title": "\"국산 휴머노이드로 담낭 절제까지\"...삼성서울병원 로봇 수술 시연"
         },
         {
           "date": "2026-09-17",
@@ -257,18 +220,28 @@
         },
         {
           "date": "2026-09-20",
-          "file": "20260920-gpt-6-astra-and-clau.md",
-          "title": "GPT-6 Astra and Claude Fable turn robot arms into slapstick killer robots in new safety benchmark"
+          "file": "20260920-lg이노텍-ai로-최적-부품-탐색-견.md",
+          "title": "LG이노텍, AI로 '최적 부품' 탐색…견적 산출 시간 70% 줄였다"
         },
         {
           "date": "2026-09-20",
-          "file": "20260920-et시선-k로봇-기술만으론-이길-수-.md",
-          "title": "[ET시선]K로봇, 기술만으론 이길 수 없다"
+          "file": "20260920-로봇-밀도-세계-1위-한국-공장-데이.md",
+          "title": "로봇 밀도 세계 1위 한국…공장 데이터 활용은 평균 밑돌아"
         },
         {
           "date": "2026-09-20",
-          "file": "20260920-ainex-2026-이경한-서울대-교.md",
-          "title": "[AINEX 2026] 이경한 서울대 교수 “피지컬 AI 승부처는 로봇 아닌 네트워크 시스템”"
+          "file": "20260920-공장이-ai-데이터-학습장으로-제조업.md",
+          "title": "공장이 AI 데이터 학습장으로…제조업 피지컬 AI 경쟁 불붙는다"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-샌프란시스코-ai-호황의-그늘-개발자.md",
+          "title": "샌프란시스코 AI 호황의 그늘…개발자 감축 가속"
+        },
+        {
+          "date": "2026-09-20",
+          "file": "20260920-대기업-신입-채용-반토막-ai의-축복.md",
+          "title": "대기업 신입 채용 반토막… 'AI의 축복'인가, '리더십의 위기'인가[김문경의 리더십테크](27)"
         }
       ]
     }
