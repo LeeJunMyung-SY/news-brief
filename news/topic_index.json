@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-09-21T03:22:31+00:00",
+  "generated_at": "2026-09-21T07:21:04+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 981,
+      "count": 985,
       "latest_date": "2026-09-21"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1159,
+      "count": 1165,
       "latest_date": "2026-09-21"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1204,
+      "count": 1209,
       "latest_date": "2026-09-21"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2831,
+      "count": 2848,
       "latest_date": "2026-09-21"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 468,
+      "count": 471,
       "latest_date": "2026-09-21"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 843,
+      "count": 848,
       "latest_date": "2026-09-21"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 673,
+      "count": 679,
       "latest_date": "2026-09-21"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 473,
+      "count": 476,
       "latest_date": "2026-09-21"
     },
     {
@@ -82,7 +82,7 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 16,
+      "count": 19,
       "latest_date": "2026-09-21"
     },
     {
@@ -139,6 +139,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260921092152"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-바이브-코딩으로-앱은-늘어났지만-이용.md",
+        "title": "'바이브 코딩으로 앱은 늘어났지만'…이용자 외면으로 '앱 슬롭' 확산",
+        "importance": 7,
+        "tags": [
+          "#vibe-coding",
+          "#app-economy",
+          "#ai-slop",
+          "#productivity"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215524"
       },
       {
         "date": "2026-09-21",
@@ -212,6 +226,20 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-ai-grace-a-use-case-.md",
+        "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#governance",
+          "#agent-framework",
+          "#risk-management"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21192"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-ai가-읽기-쉬운-예산안-설명자료-기.md",
         "title": "AI가 읽기 쉬운 예산안 설명자료…기획처, 양식 개편",
         "importance": 6,
@@ -223,6 +251,34 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260921043900002"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-authorization-revoca.md",
+        "title": "Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-security",
+          "#authorization",
+          "#delegation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21284"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-enterpriseval-quanti.md",
+        "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#roi-case",
+          "#enterprise-ai",
+          "#evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21841"
       },
       {
         "date": "2026-09-21",
@@ -254,6 +310,20 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-앱-여러-개-오갈-필요-없게-kosa.md",
+        "title": "앱 여러 개 오갈 필요 없게…KOSA, 국민 체감형 AI 에이전트 발굴",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#public-policy",
+          "#ecosystem",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260921132142"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-창간기획-크래프톤-게임-넘어-피지컬-.md",
         "title": "[창간기획]크래프톤, 게임 넘어 피지컬 AI까지…'AI 퍼스트' 기업 전환 가속",
         "importance": 6,
@@ -266,6 +336,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260910000216"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-포티투마루-에이전틱-ai-특허망-확대.md",
+        "title": "포티투마루, 에이전틱 AI 특허망 확대한다",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#patent",
+          "#slm",
+          "#hallucination"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260921134240"
       },
       {
         "date": "2026-09-20",
@@ -17009,6 +17094,20 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-암호-해독-마인크래프트-성과-낸-발스.md",
+        "title": "‘암호 해독·마인크래프트’ 성과 낸 발스, AI 벤치마크 강자로 주목",
+        "importance": 7,
+        "tags": [
+          "#benchmark",
+          "#investment",
+          "#model-evaluation",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215535"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-창간기획-skt-인프라-모델-서비스-.md",
         "title": "[창간기획] SKT, '인프라·모델·서비스' 풀스택으로 AI 국가대표 굳힌다",
         "importance": 7,
@@ -17038,6 +17137,34 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-enterpriseval-quanti.md",
+        "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#roi-case",
+          "#enterprise-ai",
+          "#evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21841"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-샤오미-ai-훈련-과정-첫-생중계-일.md",
+        "title": "샤오미, AI 훈련 과정 첫 '생중계'…일주일 만에 50억 투입",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#transparency",
+          "#reinforcement-learning",
+          "#china-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215528"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-창간기획-ax-베스트-프랙티스-라이너.md",
         "title": "[창간기획]AX 베스트 프랙티스/ 라이너, '모델 API'로 AX 시장 공략 본격화",
         "importance": 6,
@@ -17049,6 +17176,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260910000396"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-포티투마루-에이전틱-ai-특허망-확대.md",
+        "title": "포티투마루, 에이전틱 AI 특허망 확대한다",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#patent",
+          "#slm",
+          "#hallucination"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260921134240"
       },
       {
         "date": "2026-09-20",
@@ -31163,6 +31305,20 @@
     "ai_policy": [
       {
         "date": "2026-09-21",
+        "file": "20260921-트럼프-행정부-ai-속도-조절-원하면.md",
+        "title": "트럼프 행정부 'AI 속도 조절 원하면 정부 탓 말고 스스로 멈춰라'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#ai-governance",
+          "#us-policy",
+          "#self-regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215510"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-50대-서민이-투자전략-물어봐도-ai.md",
         "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 ‘20대 고소득자’로 보는 까닭은?",
         "importance": 7,
@@ -31207,6 +31363,21 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
+        "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#ai-adoption",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000063"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-창간특집-인터뷰-김성환-기후부-장관-.md",
         "title": "[창간특집 인터뷰] 김성환 기후부 장관 “AI 시대, 전력수요 3배 가까이 늘 수도…'탈탄소 AI 강국' 만든다”",
         "importance": 7,
@@ -31218,6 +31389,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260915000078"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-grace-a-use-case-.md",
+        "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#governance",
+          "#agent-framework",
+          "#risk-management"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21192"
       },
       {
         "date": "2026-09-21",
@@ -31263,6 +31448,20 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-authorization-revoca.md",
+        "title": "Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-security",
+          "#authorization",
+          "#delegation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21284"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-bessent-meets-china-.md",
         "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
         "importance": 6,
@@ -31288,6 +31487,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215505"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-앱-여러-개-오갈-필요-없게-kosa.md",
+        "title": "앱 여러 개 오갈 필요 없게…KOSA, 국민 체감형 AI 에이전트 발굴",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#public-policy",
+          "#ecosystem",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260921132142"
       },
       {
         "date": "2026-09-21",
@@ -48666,6 +48879,35 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-이규성-삼성서울병원-ax추진단장-ai.md",
+        "title": "이규성 삼성서울병원 AX추진단장 “AI, 사람 대체 아닌 지원 도구…환자 케어 질이 최종 목표”",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#healthcare",
+          "#org-change",
+          "#cloud-migration"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000319"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-트럼프-행정부-ai-속도-조절-원하면.md",
+        "title": "트럼프 행정부 'AI 속도 조절 원하면 정부 탓 말고 스스로 멈춰라'",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#ai-governance",
+          "#us-policy",
+          "#self-regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215510"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-ai-대전환-리딩-전략-ls일렉트릭-.md",
         "title": "[AI 대전환 리딩 전략]LS일렉트릭, AI 수요 사로잡은 직류 배전",
         "importance": 7,
@@ -48736,6 +48978,20 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-바이브-코딩으로-앱은-늘어났지만-이용.md",
+        "title": "'바이브 코딩으로 앱은 늘어났지만'…이용자 외면으로 '앱 슬롭' 확산",
+        "importance": 7,
+        "tags": [
+          "#vibe-coding",
+          "#app-economy",
+          "#ai-slop",
+          "#productivity"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215524"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-삼성전자-전남-광주사업장에-hvac-.md",
         "title": "삼성전자, 전남 광주사업장에 HVAC 생산라인 착공…내후년 초 가동 목표",
         "importance": 7,
@@ -48761,6 +49017,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260920215302"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-암호-해독-마인크래프트-성과-낸-발스.md",
+        "title": "‘암호 해독·마인크래프트’ 성과 낸 발스, AI 벤치마크 강자로 주목",
+        "importance": 7,
+        "tags": [
+          "#benchmark",
+          "#investment",
+          "#model-evaluation",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215535"
       },
       {
         "date": "2026-09-21",
@@ -48876,6 +49146,20 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-현대차그룹-모베드-판매-개시-시속-1.md",
+        "title": "현대차그룹, '모베드' 판매 개시…시속 10㎞로 200㎜ 장애물 넘는다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#commercialization",
+          "#physical-ai",
+          "#b2b"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000270"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-ai-기술-새-보호원칙-필요-무조건-.md",
         "title": "'AI 기술, 새 보호원칙 필요…무조건 규제부터 적용하진 않을 것'",
         "importance": 6,
@@ -48890,6 +49174,49 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-ai-대전환-리딩-전략-에코프로비엠-.md",
+        "title": "[AI 대전환 리딩 전략] 에코프로비엠, 'AIDC·로봇' 새 먹거리로",
+        "importance": 6,
+        "tags": [
+          "#battery",
+          "#datacenter",
+          "#robotics",
+          "#business-pivot",
+          "#ess"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674145"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-데이터센터-해저케이블-품은-kt.md",
+        "title": "AI 데이터센터·해저케이블 품은 KT…'주가 재평가 기대”",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#telecom",
+          "#valuation",
+          "#infrastructure"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202609218284i"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-속도조절은-사이클-종료-아냐-3.md",
+        "title": "'AI 속도조절은 사이클 종료 아냐'…33년 전문가의 진단",
+        "importance": 6,
+        "tags": [
+          "#investment-cycle",
+          "#market-outlook",
+          "#capex",
+          "#finance"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202609171694i"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-bessent-meets-china-.md",
         "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
         "importance": 6,
@@ -48901,6 +49228,48 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-bnk운용-미국-ai-우주항공-양자컴.md",
+        "title": "BNK운용, '미국 AI·우주항공·양자컴퓨팅 투자' 펀드 출시",
+        "importance": 6,
+        "tags": [
+          "#fund-launch",
+          "#asset-management",
+          "#quantum",
+          "#thematic-investing"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260921127300008"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-enterpriseval-quanti.md",
+        "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#roi-case",
+          "#enterprise-ai",
+          "#evaluation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21841"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-et시론-ai-시대의-데이터센터-구축.md",
+        "title": "[ET시론] AI 시대의 데이터센터 구축 전략",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#infrastructure",
+          "#energy",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000145"
       },
       {
         "date": "2026-09-21",
@@ -48943,6 +49312,76 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12157516"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+        "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#asset-management",
+          "#physical-ai",
+          "#product-launch"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260921098600008"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-생산력-50-높인-cxmt-5세대-d.md",
+        "title": "생산력 50% 높인 CXMT 5세대 D램…삼성·SK 가격경쟁 불씨되나",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#dram",
+          "#china-supply",
+          "#price-competition"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674124"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-샤오미-ai-훈련-과정-첫-생중계-일.md",
+        "title": "샤오미, AI 훈련 과정 첫 '생중계'…일주일 만에 50억 투입",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#transparency",
+          "#reinforcement-learning",
+          "#china-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215528"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-송민택-교수의-d-엣지-비전을-외치는.md",
+        "title": "[송민택 교수의 D-엣지] 비전을 외치는 리더, 변화를 만드는 리더",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ai-adoption",
+          "#leadership",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000164"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-앱-여러-개-오갈-필요-없게-kosa.md",
+        "title": "앱 여러 개 오갈 필요 없게…KOSA, 국민 체감형 AI 에이전트 발굴",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#public-policy",
+          "#ecosystem",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260921132142"
       },
       {
         "date": "2026-09-21",
@@ -49014,6 +49453,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215507"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-포티투마루-에이전틱-ai-특허망-확대.md",
+        "title": "포티투마루, 에이전틱 AI 특허망 확대한다",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#patent",
+          "#slm",
+          "#hallucination"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260921134240"
       },
       {
         "date": "2026-09-20",
@@ -89688,6 +90142,35 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-현대차그룹-모베드-판매-개시-시속-1.md",
+        "title": "현대차그룹, '모베드' 판매 개시…시속 10㎞로 200㎜ 장애물 넘는다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#commercialization",
+          "#physical-ai",
+          "#b2b"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000270"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-대전환-리딩-전략-에코프로비엠-.md",
+        "title": "[AI 대전환 리딩 전략] 에코프로비엠, 'AIDC·로봇' 새 먹거리로",
+        "importance": 6,
+        "tags": [
+          "#battery",
+          "#datacenter",
+          "#robotics",
+          "#business-pivot",
+          "#ess"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674145"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-the-robot-relations-.md",
         "title": "The 'robot relations' department may become reality in workplace of the future",
         "importance": 6,
@@ -89699,6 +90182,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+        "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#asset-management",
+          "#physical-ai",
+          "#product-launch"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260921098600008"
       },
       {
         "date": "2026-09-21",
@@ -96569,6 +97066,49 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-ai-대전환-리딩-전략-에코프로비엠-.md",
+        "title": "[AI 대전환 리딩 전략] 에코프로비엠, 'AIDC·로봇' 새 먹거리로",
+        "importance": 6,
+        "tags": [
+          "#battery",
+          "#datacenter",
+          "#robotics",
+          "#business-pivot",
+          "#ess"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674145"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-데이터센터-해저케이블-품은-kt.md",
+        "title": "AI 데이터센터·해저케이블 품은 KT…'주가 재평가 기대”",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#telecom",
+          "#valuation",
+          "#infrastructure"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202609218284i"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-속도조절은-사이클-종료-아냐-3.md",
+        "title": "'AI 속도조절은 사이클 종료 아냐'…33년 전문가의 진단",
+        "importance": 6,
+        "tags": [
+          "#investment-cycle",
+          "#market-outlook",
+          "#capex",
+          "#finance"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202609171694i"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-bessent-meets-china-.md",
         "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
         "importance": 6,
@@ -96580,6 +97120,34 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-et시론-ai-시대의-데이터센터-구축.md",
+        "title": "[ET시론] AI 시대의 데이터센터 구축 전략",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#infrastructure",
+          "#energy",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000145"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-생산력-50-높인-cxmt-5세대-d.md",
+        "title": "생산력 50% 높인 CXMT 5세대 D램…삼성·SK 가격경쟁 불씨되나",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#dram",
+          "#china-supply",
+          "#price-competition"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674124"
       },
       {
         "date": "2026-09-21",
@@ -108687,6 +109255,77 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
+        "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#ai-adoption",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000063"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-grace-a-use-case-.md",
+        "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#governance",
+          "#agent-framework",
+          "#risk-management"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21192"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-속도조절은-사이클-종료-아냐-3.md",
+        "title": "'AI 속도조절은 사이클 종료 아냐'…33년 전문가의 진단",
+        "importance": 6,
+        "tags": [
+          "#investment-cycle",
+          "#market-outlook",
+          "#capex",
+          "#finance"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202609171694i"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-authorization-revoca.md",
+        "title": "Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#agent-security",
+          "#authorization",
+          "#delegation"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.21284"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-bnk운용-미국-ai-우주항공-양자컴.md",
+        "title": "BNK운용, '미국 AI·우주항공·양자컴퓨팅 투자' 펀드 출시",
+        "importance": 6,
+        "tags": [
+          "#fund-launch",
+          "#asset-management",
+          "#quantum",
+          "#thematic-investing"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260921127300008"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-디깅노트-신창재-13년-김동원-6년-.md",
         "title": "[디깅노트] 신창재 13년·김동원 6년…오너의 꿈은 누가 멈추나",
         "importance": 6,
@@ -108698,6 +109337,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=674070"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+        "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#asset-management",
+          "#physical-ai",
+          "#product-launch"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260921098600008"
       },
       {
         "date": "2026-09-21",
@@ -118589,6 +119242,35 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-현대차그룹-모베드-판매-개시-시속-1.md",
+        "title": "현대차그룹, '모베드' 판매 개시…시속 10㎞로 200㎜ 장애물 넘는다",
+        "importance": 7,
+        "tags": [
+          "#robotics",
+          "#commercialization",
+          "#physical-ai",
+          "#b2b"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000270"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-ai-대전환-리딩-전략-에코프로비엠-.md",
+        "title": "[AI 대전환 리딩 전략] 에코프로비엠, 'AIDC·로봇' 새 먹거리로",
+        "importance": 6,
+        "tags": [
+          "#battery",
+          "#datacenter",
+          "#robotics",
+          "#business-pivot",
+          "#ess"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674145"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-the-robot-relations-.md",
         "title": "The 'robot relations' department may become reality in workplace of the future",
         "importance": 6,
@@ -118600,6 +119282,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+        "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장",
+        "importance": 6,
+        "tags": [
+          "#etf",
+          "#asset-management",
+          "#physical-ai",
+          "#product-launch"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260921098600008"
       },
       {
         "date": "2026-09-21",
@@ -125541,6 +126237,21 @@
       },
       {
         "date": "2026-09-21",
+        "file": "20260921-이규성-삼성서울병원-ax추진단장-ai.md",
+        "title": "이규성 삼성서울병원 AX추진단장 “AI, 사람 대체 아닌 지원 도구…환자 케어 질이 최종 목표”",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#healthcare",
+          "#org-change",
+          "#cloud-migration"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000319"
+      },
+      {
+        "date": "2026-09-21",
         "file": "20260921-daily-ai-usage-in-th.md",
         "title": "Daily AI usage in the U.S. has more than doubled in just six months",
         "importance": 7,
@@ -125551,6 +126262,21 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
+        "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#org-change",
+          "#ai-adoption",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000063"
       },
       {
         "date": "2026-09-21",
@@ -125621,6 +126347,20 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12157975"
+      },
+      {
+        "date": "2026-09-21",
+        "file": "20260921-송민택-교수의-d-엣지-비전을-외치는.md",
+        "title": "[송민택 교수의 D-엣지] 비전을 외치는 리더, 변화를 만드는 리더",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ai-adoption",
+          "#leadership",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260921000164"
       },
       {
         "date": "2026-09-21",
@@ -125757,8 +126497,8 @@
     "ai_policy": [
       {
         "date": "2026-09-21",
-        "title": "가속 기조에 기준 요구가 맞붙다",
-        "summary": "완화 일변도에 업계·국제기구발 공통 기준 요구가 더해져 검증 책임이 도입 측에 남는다.",
+        "title": "속도조절 책임이 기업으로 넘어왔다",
+        "summary": "정부가 일률 규제에 선을 그으면서 안전 검증 부담이 도입·조달 측에 남았다.",
         "articles": [
           {
             "date": "2026-09-21",
@@ -125772,16 +126512,20 @@
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-작은-ai가-더-위험-통제-불능-ai.md",
-            "title": "작은 AI가 더 위험…'통제 불능 AI'의 경고"
-          },
-          {
-            "date": "2026-09-21",
             "file": "20260921-ai는-지금-마이크로소프트-ai-수장.md",
             "title": "[AI는 지금] 마이크로소프트 AI 수장 \"중국 핑계로 AI 안전 미뤄선 안 돼\""
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20260921056400008",
+            "date": "2026-09-21",
+            "file": "20260921-트럼프-행정부-ai-속도-조절-원하면.md",
+            "title": "트럼프 행정부 \"AI 속도 조절 원하면 정부 탓 말고 스스로 멈춰라\""
+          },
+          {
+            "url": "https://www.etnews.com/20260921000374",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674119",
             "title": ""
           }
         ]
@@ -128635,8 +129379,8 @@
     "ai_industry": [
       {
         "date": "2026-09-21",
-        "title": "가속 기조에 기준 요구가 맞붙다",
-        "summary": "완화 일변도에 업계·국제기구발 공통 기준 요구가 더해져 검증 책임이 도입 측에 남는다.",
+        "title": "속도조절 책임이 기업으로 넘어왔다",
+        "summary": "정부가 일률 규제에 선을 그으면서 안전 검증 부담이 도입·조달 측에 남았다.",
         "articles": [
           {
             "date": "2026-09-21",
@@ -128650,24 +129394,28 @@
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-작은-ai가-더-위험-통제-불능-ai.md",
-            "title": "작은 AI가 더 위험…'통제 불능 AI'의 경고"
-          },
-          {
-            "date": "2026-09-21",
             "file": "20260921-ai는-지금-마이크로소프트-ai-수장.md",
             "title": "[AI는 지금] 마이크로소프트 AI 수장 \"중국 핑계로 AI 안전 미뤄선 안 돼\""
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20260921056400008",
+            "date": "2026-09-21",
+            "file": "20260921-트럼프-행정부-ai-속도-조절-원하면.md",
+            "title": "트럼프 행정부 \"AI 속도 조절 원하면 정부 탓 말고 스스로 멈춰라\""
+          },
+          {
+            "url": "https://www.etnews.com/20260921000374",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674119",
             "title": ""
           }
         ]
       },
       {
         "date": "2026-09-21",
-        "title": "인프라, 설비와 국산칩으로 내려왔다",
-        "summary": "투자 병목이 전력·공조 설비와 착공 속도로 옮겨가고 국산 칩이 조달 대안에 올랐다.",
+        "title": "인프라 경쟁, 설비에서 후방 산업으로",
+        "summary": "전력·설비 병목에 부품 공급과 소재 수요까지 엮이며 파급 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-09-21",
@@ -128686,25 +129434,39 @@
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-ai-대전환-리딩-전략-ls일렉트릭-.md",
-            "title": "[AI 대전환 리딩 전략]LS일렉트릭, AI 수요 사로잡은 직류 배전"
-          },
-          {
-            "date": "2026-09-21",
             "file": "20260921-삼성전자-전남-광주사업장에-hvac-.md",
             "title": "삼성전자, 전남 광주사업장에 HVAC 생산라인 착공…내후년 초 가동 목표"
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-전략경제자문단-딥엑스-찾아-반도체-정.md",
-            "title": "전략경제자문단, 딥엑스 찾아 반도체 정책 논의…“국산칩 인센티브 필요”"
+            "file": "20260921-생산력-50-높인-cxmt-5세대-d.md",
+            "title": "생산력 50% 높인 CXMT 5세대 D램…삼성·SK 가격경쟁 불씨되나"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-ai-대전환-리딩-전략-에코프로비엠-.md",
+            "title": "[AI 대전환 리딩 전략] 에코프로비엠, 'AIDC·로봇' 새 먹거리로"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-ai-데이터센터-해저케이블-품은-kt.md",
+            "title": "AI 데이터센터·해저케이블 품은 KT…\"주가 재평가 기대”"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-et시론-ai-시대의-데이터센터-구축.md",
+            "title": "[ET시론] AI 시대의 데이터센터 구축 전략"
+          },
+          {
+            "url": "https://www.etnews.com/20260921000390",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-21",
-        "title": "에이전트가 업무와 구매를 대신한다",
-        "summary": "적용이 실증을 지나 비용·권한 설계 문제로 넘어갔다.",
+        "title": "에이전트, 권한 회수가 쟁점으로",
+        "summary": "적용 확산과 함께 위임한 권한을 실제로 거둬들이는 절차가 과제로 떠올랐다.",
         "articles": [
           {
             "date": "2026-09-21",
@@ -128718,18 +129480,28 @@
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-창간기획-ai-커머스-시대-카카오-에.md",
-            "title": "[창간기획]AI 커머스 시대/ 카카오, 에이전틱 커머스 시동…상품 탐색부터 결제까지 연결"
-          },
-          {
-            "date": "2026-09-21",
             "file": "20260921-ai-에이전트-신원과-권한-어떻게-검.md",
             "title": "AI 에이전트 신원과 권한 어떻게 검증…'2026 차세대 인증 워크숍' 성료"
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-gs건설-사내-경진대회-ax-레시피-.md",
-            "title": "GS건설, 사내 경진대회 'AX 레시피'…AI 현업 적용 본격화"
+            "file": "20260921-authorization-revoca.md",
+            "title": "Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-앱-여러-개-오갈-필요-없게-kosa.md",
+            "title": "앱 여러 개 오갈 필요 없게…KOSA, 국민 체감형 AI 에이전트 발굴"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-포티투마루-에이전틱-ai-특허망-확대.md",
+            "title": "포티투마루, 에이전틱 AI 특허망 확대한다"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-바이브-코딩으로-앱은-늘어났지만-이용.md",
+            "title": "\"바이브 코딩으로 앱은 늘어났지만\"…이용자 외면으로 '앱 슬롭' 확산"
           }
         ]
       },
@@ -133046,8 +133818,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-21",
-        "title": "인프라, 설비와 국산칩으로 내려왔다",
-        "summary": "투자 병목이 전력·공조 설비와 착공 속도로 옮겨가고 국산 칩이 조달 대안에 올랐다.",
+        "title": "인프라 경쟁, 설비에서 후방 산업으로",
+        "summary": "전력·설비 병목에 부품 공급과 소재 수요까지 엮이며 파급 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-09-21",
@@ -133066,18 +133838,32 @@
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-ai-대전환-리딩-전략-ls일렉트릭-.md",
-            "title": "[AI 대전환 리딩 전략]LS일렉트릭, AI 수요 사로잡은 직류 배전"
-          },
-          {
-            "date": "2026-09-21",
             "file": "20260921-삼성전자-전남-광주사업장에-hvac-.md",
             "title": "삼성전자, 전남 광주사업장에 HVAC 생산라인 착공…내후년 초 가동 목표"
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-전략경제자문단-딥엑스-찾아-반도체-정.md",
-            "title": "전략경제자문단, 딥엑스 찾아 반도체 정책 논의…“국산칩 인센티브 필요”"
+            "file": "20260921-생산력-50-높인-cxmt-5세대-d.md",
+            "title": "생산력 50% 높인 CXMT 5세대 D램…삼성·SK 가격경쟁 불씨되나"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-ai-대전환-리딩-전략-에코프로비엠-.md",
+            "title": "[AI 대전환 리딩 전략] 에코프로비엠, 'AIDC·로봇' 새 먹거리로"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-ai-데이터센터-해저케이블-품은-kt.md",
+            "title": "AI 데이터센터·해저케이블 품은 KT…\"주가 재평가 기대”"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-et시론-ai-시대의-데이터센터-구축.md",
+            "title": "[ET시론] AI 시대의 데이터센터 구축 전략"
+          },
+          {
+            "url": "https://www.etnews.com/20260921000390",
+            "title": ""
           }
         ]
       },
@@ -135015,8 +135801,8 @@
     "ai_agents": [
       {
         "date": "2026-09-21",
-        "title": "에이전트가 업무와 구매를 대신한다",
-        "summary": "적용이 실증을 지나 비용·권한 설계 문제로 넘어갔다.",
+        "title": "에이전트, 권한 회수가 쟁점으로",
+        "summary": "적용 확산과 함께 위임한 권한을 실제로 거둬들이는 절차가 과제로 떠올랐다.",
         "articles": [
           {
             "date": "2026-09-21",
@@ -135030,18 +135816,28 @@
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-창간기획-ai-커머스-시대-카카오-에.md",
-            "title": "[창간기획]AI 커머스 시대/ 카카오, 에이전틱 커머스 시동…상품 탐색부터 결제까지 연결"
-          },
-          {
-            "date": "2026-09-21",
             "file": "20260921-ai-에이전트-신원과-권한-어떻게-검.md",
             "title": "AI 에이전트 신원과 권한 어떻게 검증…'2026 차세대 인증 워크숍' 성료"
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-gs건설-사내-경진대회-ax-레시피-.md",
-            "title": "GS건설, 사내 경진대회 'AX 레시피'…AI 현업 적용 본격화"
+            "file": "20260921-authorization-revoca.md",
+            "title": "Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-앱-여러-개-오갈-필요-없게-kosa.md",
+            "title": "앱 여러 개 오갈 필요 없게…KOSA, 국민 체감형 AI 에이전트 발굴"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-포티투마루-에이전틱-ai-특허망-확대.md",
+            "title": "포티투마루, 에이전틱 AI 특허망 확대한다"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-바이브-코딩으로-앱은-늘어났지만-이용.md",
+            "title": "\"바이브 코딩으로 앱은 늘어났지만\"…이용자 외면으로 '앱 슬롭' 확산"
           }
         ]
       },
@@ -137488,13 +138284,13 @@
     "금융회사 AI": [
       {
         "date": "2026-09-21",
-        "title": "금융 AI, 운영과 인력으로",
-        "summary": "적용 지점이 상담을 지나 내부 운영과 채용 직군 설계까지 확장됐다.",
+        "title": "금융·현장 AI, 운영에서 상품까지",
+        "summary": "내부 업무 적용에 더해 AI 자체가 판매 상품 라인업으로 올라섰다.",
         "articles": [
           {
             "date": "2026-09-21",
             "file": "20260921-50대-서민이-투자전략-물어봐도-ai.md",
-            "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 ‘20대 고소득자’로 보는 까닭은?"
+            "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 '20대 고소득자'로 보는 까닭은?"
           },
           {
             "date": "2026-09-21",
@@ -137507,18 +138303,33 @@
             "title": "삼성화재, AI로 피난훈련 효과 평가한다…정량평가 시스템 개발"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20260921022300008",
-            "title": ""
-          },
-          {
             "date": "2026-09-21",
             "file": "20260921-부산-경남은행-신입행원-공개채용-디지.md",
             "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발"
           },
           {
             "date": "2026-09-21",
-            "file": "20260921-블록체인서-당일-결제-지원하는-디지털.md",
-            "title": "블록체인서 당일 결제 지원하는 디지털채권 발행"
+            "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+            "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-bnk운용-미국-ai-우주항공-양자컴.md",
+            "title": "BNK운용, '미국 AI·우주항공·양자컴퓨팅 투자' 펀드 출시"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-이규성-삼성서울병원-ax추진단장-ai.md",
+            "title": "이규성 삼성서울병원 AX추진단장 “AI, 사람 대체 아닌 지원 도구…환자 케어 질이 최종 목표”"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
+            "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면"
+          },
+          {
+            "url": "https://www.etnews.com/20260921000380",
+            "title": ""
           }
         ]
       },
@@ -140120,6 +140931,57 @@
       }
     ],
     "ai_workforce_training": [
+      {
+        "date": "2026-09-21",
+        "title": "금융·현장 AI, 운영에서 상품까지",
+        "summary": "내부 업무 적용에 더해 AI 자체가 판매 상품 라인업으로 올라섰다.",
+        "articles": [
+          {
+            "date": "2026-09-21",
+            "file": "20260921-50대-서민이-투자전략-물어봐도-ai.md",
+            "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 '20대 고소득자'로 보는 까닭은?"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-ant-international-la.md",
+            "title": "Ant International launches financial AI stack"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-삼성화재-ai로-피난훈련-효과-평가한.md",
+            "title": "삼성화재, AI로 피난훈련 효과 평가한다…정량평가 시스템 개발"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-부산-경남은행-신입행원-공개채용-디지.md",
+            "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+            "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-bnk운용-미국-ai-우주항공-양자컴.md",
+            "title": "BNK운용, '미국 AI·우주항공·양자컴퓨팅 투자' 펀드 출시"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-이규성-삼성서울병원-ax추진단장-ai.md",
+            "title": "이규성 삼성서울병원 AX추진단장 “AI, 사람 대체 아닌 지원 도구…환자 케어 질이 최종 목표”"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
+            "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면"
+          },
+          {
+            "url": "https://www.etnews.com/20260921000380",
+            "title": ""
+          }
+        ]
+      },
       {
         "date": "2026-09-20",
         "title": "실행 체계가 성과를 가른다",
