@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-22",
+  "updated_at": "2026-09-22T08:19:12.376509+09:00",
+  "run_id": "run_20260922_081912",
+  "summary_ko": "에이전트의 경계 문제가 플랫폼·결제·보안으로 번지고, 규제는 사후 책임 쪽으로 정리됐다.",
+  "issues": [
+    {
+      "title": "에이전트, 접근권이 관문으로",
+      "summary_ko": "기술 구현보다 상대 플랫폼의 허용 여부가 서비스 성립을 좌우하는 국면으로 넘어갔다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-22",
+          "file": "20260922-amazon-blocks-meta-s.md",
+          "title": "Amazon blocks Meta’s Muse AI agent"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-muse-meta-s-extraord.md",
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-un-science-panel-say.md",
+          "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents"
+        }
+      ]
+    },
+    {
+      "title": "규제, 사후 책임으로 방향 잡혔다",
+      "summary_ko": "사전 기준 대신 사고 책임을 개발사에 묻는 방식이 통제 수단으로 굳어지고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-22",
+          "file": "20260922-베선트-ai-모델이-해킹-사고-내면-.md",
+          "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-미-중-ai-위험-방지-대화-시동-재.md",
+          "title": "미·중 'AI 위험 방지' 대화 시동…美 재무부 장관 공식화"
+        },
+        {
+          "url": "https://www.etnews.com/20260922000070",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215518",
+          "title": ""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-california-tightens-.md",
+          "title": "California tightens rules on AI data center energy and water use"
+        }
+      ]
+    },
+    {
+      "title": "도입 단위가 조직·클러스터로",
+      "summary_ko": "개별 기업 단위 도입의 한계가 확인되며 거버넌스 조직과 공동 모델이 대안으로 떠올랐다.",
+      "topics": [
+        "ai_industry",
+        "ai_workforce_training"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-22",
+          "file": "20260922-더존비즈온-ai-관리-전담-조직-신설.md",
+          "title": "더존비즈온, AI 관리 전담 조직 신설…개발부터 감사까지 통합"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-ms-기업-ai-전환-지침서-프런티어.md",
+          "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-홀로-ai-도입땐-필패-산단-전체가-.md",
+          "title": "\"中企 홀로 AI 도입땐 필패…산단 전체가 공용 AX모델로 뭉쳐야\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-경쟁사와-데이터-공유-나홀로-ai-버.md",
+          "title": "\"경쟁사와 데이터 공유\"…'나홀로 AI' 버리고 '동맹' 맺은 제조업체들"
+        }
+      ]
+    },
+    {
+      "title": "금융, 결제 인프라와 공급망 방어로",
+      "summary_ko": "금융권의 AI 적용이 상담·상품을 지나 결제망과 보안 인프라 층으로 내려왔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard",
+          "title": ""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-금융권-sw-공급망-보안-플랫폼-시선.md",
+          "title": "'금융권 SW 공급망 보안 플랫폼' 시선...178곳 참여"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/110954/aegis-trace-and-intersystems-team-to-strengthen-ai-decision-traceability-for-regulated-organisations",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609219320i",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
