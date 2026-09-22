@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-22T16:19:13.396632+09:00",
-  "run_id": "run_20260922_161913",
-  "summary_ko": "규제가 증거를 요구하는 사이, AI는 공급 계약과 고정비 예산으로 자리를 옮겼다.",
+  "updated_at": "2026-09-23T08:15:35.009880+09:00",
+  "run_id": "run_20260923_081535",
+  "summary_ko": "규제가 증거를 요구하는 사이, 모델 단가는 떨어지고 AI는 결제와 고정비로 들어왔다.",
   "issues": [
     {
-      "title": "규제, 인허가 제동에서 증거 검증으로",
-      "body_ko": "설비 인허가를 멈추는 단계를 지나, 안전을 입증할 증거와 표준을 요구하는 국면에 들어섰다.",
+      "title": "규제, 검증 요구 속 공조 균열",
+      "body_ko": "안전 증거를 요구하는 표준 논의와 달리 국제 공조는 미국 이탈로 흔들렸다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -24,23 +24,8 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-california-tightens-.md",
-          "title": "California tightens rules on AI data center energy and water use"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-ai는-지금-영국-ai-규제-육성-사.md",
-          "title": "[AI는 지금] 영국, AI 규제·육성 사이 균형 찾는다…\"중재자 역할 할 것\""
-        },
-        {
-          "date": "2026-09-22",
           "file": "20260922-ai-안전-선언보단-검증으로-국제표준.md",
           "title": "AI 안전, 선언보단 검증으로…국제표준도 달라진다"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-오픈ai-ai-국제표준-미국이-주도해.md",
-          "title": "오픈AI \"AI 국제표준, 미국이 주도해야\""
         },
         {
           "date": "2026-09-22",
@@ -48,33 +33,65 @@
           "title": "'AI 학습데이터 통합관리' 근거 마련…과방위, AI기본법 개정안 통과"
         },
         {
-          "url": "https://www.etnews.com/20260922000437",
-          "title": ""
+          "date": "2026-09-23",
+          "file": "20260923-트럼프-국제-ai-규제협정-거부-초지.md",
+          "title": "트럼프, 국제 AI 규제협정 거부…\"초지능 개발 장려할 것\""
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-캐나다-bc주-오픈ai-고소-총격-사.md",
+          "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\""
         }
       ]
     },
     {
-      "title": "에이전트, 통제에서 업무 대체로",
-      "body_ko": "권한 회수 논쟁을 지나 특정 업무와 설비 제어를 통째로 맡는 단위로 도입이 옮겨갔다.",
+      "title": "모델 단가 급락, 계산식이 바뀐다",
+      "body_ko": "최상위 모델 가격이 절반 가까이 내려 도입 비용과 계약 조건을 재검토할 국면이다.",
       "topics": [
-        "ai_agents",
+        "llm_models",
         "ai_industry"
       ],
       "articles": [
         {
+          "date": "2026-09-22",
+          "file": "20260922-알리바바-10조-파라미터-ai-만든다.md",
+          "title": "알리바바, 10조 파라미터 AI 만든다…자체 칩·20GW 데이터센터도 확장"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-오픈ai-gpt-6-솔-루나-공개-필.md",
+          "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\""
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-새로운-최고-성능-가격-40-인하-앤.md",
+          "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-네이버클라우드-모델-크기-넘어-보안-.md",
+          "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”"
+        }
+      ]
+    },
+    {
+      "title": "금융, 에이전트 거래의 신뢰 계층으로",
+      "body_ko": "내부 업무 적용과 정책금융을 넘어 에이전트 결제의 규칙을 은행이 먼저 쥐었다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "physical_ai"
+      ],
+      "articles": [
+        {
           "date": "2026-09-21",
-          "file": "20260921-ai-에이전트-신원과-권한-어떻게-검.md",
-          "title": "AI 에이전트 신원과 권한 어떻게 검증…'2026 차세대 인증 워크숍' 성료"
+          "file": "20260921-ant-international-la.md",
+          "title": "Ant International launches financial AI stack"
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-amazon-blocks-meta-s.md",
-          "title": "Amazon blocks Meta’s Muse AI agent"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-포스코dx-ai-에이전트-구축-컨설팅.md",
-          "title": "포스코DX, AI 에이전트 구축 컨설팅도 AI가 수행...도입 기간 절반 단축"
+          "file": "20260922-이억원-금융위원장-지역-제조현장-피지.md",
+          "title": "이억원 금융위원장 \"지역 제조현장, 피지컬 AI 거점되도록 지원\""
         },
         {
           "date": "2026-09-22",
@@ -82,24 +99,24 @@
           "title": "Kastle raises $24m to build AI agents for lending"
         },
         {
-          "date": "2026-09-22",
-          "file": "20260922-카카오-lg-cns와-협력으로-데이터.md",
-          "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용"
+          "date": "2026-09-23",
+          "file": "20260923-global-banks-take-on.md",
+          "title": "Global banks take on agentic commerce scam and fraud concerns"
         },
         {
-          "date": "2026-09-22",
-          "file": "20260922-챗gpt-제친-메타-뮤즈-ai-비서-.md",
-          "title": "챗GPT 제친 메타 '뮤즈'…AI 비서 열풍에 CPU주도 들썩"
+          "date": "2026-09-23",
+          "file": "20260923-agent-workflow-platf.md",
+          "title": "Agent workflow platform Promenaut goes live at HSBC"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260922151224",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
           "title": ""
         }
       ]
     },
     {
-      "title": "인프라 경쟁, 규격 승인이 관문",
-      "body_ko": "전력·냉각 설비의 플랫폼 인증이 수주 자격이 되면서 경쟁 축이 부품에서 공급 자격으로 옮겨갔다.",
+      "title": "인프라, 공급 자격과 집행력",
+      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 투자는 수요처 확보로 실행력을 검증받는다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -109,11 +126,6 @@
           "date": "2026-09-21",
           "file": "20260921-gs-15조-ai-데이터센터-추진-출.md",
           "title": "㈜GS, 15조 AI 데이터센터 추진...출자 여력에도 수익성 과제"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-기판-병목-낙수효과-mlcc-2부리그.md",
-          "title": "기판 병목 낙수효과 … MLCC '2부리그'까지 급등세"
         },
         {
           "date": "2026-09-22",
@@ -127,77 +139,34 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-엔비디아-손잡은-lg엔솔-선그로우-노.md",
-          "title": "엔비디아 손잡은 LG엔솔, 선그로우 노리는 삼성SDI…ESS '연합전'"
+          "file": "20260922-california-tightens-.md",
+          "title": "California tightens rules on AI data center energy and water use"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260922143908",
-          "title": ""
+          "date": "2026-09-23",
+          "file": "20260923-ai프리즘-한국-아태-ai-수도로-블.md",
+          "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'"
         },
         {
-          "url": "https://www.etnews.com/20260921000346",
-          "title": ""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-알리바바-10조-파라미터-ai-만든다.md",
-          "title": "알리바바, 10조 파라미터 AI 만든다…자체 칩·20GW 데이터센터도 확장"
+          "date": "2026-09-23",
+          "file": "20260923-nscale-s-ipo-will-te.md",
+          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
         }
       ]
     },
     {
-      "title": "금융권 AI, 도구에서 자금 공급으로",
-      "body_ko": "내부 업무 적용을 넘어, 금융이 피지컬 AI 사업화에 자금을 대는 주체로 나섰다.",
-      "topics": [
-        "금융회사 AI",
-        "physical_ai"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-21",
-          "file": "20260921-ant-international-la.md",
-          "title": "Ant International launches financial AI stack"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-메리츠증권-금리인상-ai-투자-부채부.md",
-          "title": "메리츠증권 \"美 금리인상, AI 투자 부채부담 키워…경착륙 위험\""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-금융-들의-궤적-삼성카드-김이태-순익.md",
-          "title": "[금융★들의 궤적] 삼성카드 김이태, 순익 1위 넘어 데이터 영토 확장"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-이억원-금융위원장-지역-제조현장-피지.md",
-          "title": "이억원 금융위원장 \"지역 제조현장, 피지컬 AI 거점되도록 지원\""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-뉴로퓨전-ai-미래-예측-벤치마크-f.md",
-          "title": "뉴로퓨전, AI 미래 예측 벤치마크 'ForecastBench' 선행 리더보드 1위…미래 사건 확률 예측 능력 입증"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-human-engagement-is-.md",
-          "title": "Human engagement is the centre of AI adoption - Kaplan"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-엔비디아-투자받은-ai-신약개발사-뉴.md",
-          "title": "엔비디아 투자받은 AI 신약개발사, 뉴욕 증시 IPO 신청"
-        }
-      ]
-    },
-    {
-      "title": "도입 단위가 조직과 예산으로",
-      "body_ko": "공동 모델과 상설 조직에 이어, 다년 대형 계약으로 AI 지출이 고정비에 편입됐다.",
+      "title": "도입이 고정비와 조직으로",
+      "body_ko": "전사 좌석 계약과 전담 조직·법인 분리로 AI 지출이 상시 운영 구조에 편입됐다.",
       "topics": [
         "ai_industry",
-        "ai_workforce_training"
+        "ai_agents"
       ],
       "articles": [
+        {
+          "date": "2026-09-22",
+          "file": "20260922-lg-cns-lg전자와-2578억원-.md",
+          "title": "LG CNS, LG전자와 2578억원 규모 코파일럿 계약"
+        },
         {
           "date": "2026-09-22",
           "file": "20260922-더존비즈온-ai-관리-전담-조직-신설.md",
@@ -210,32 +179,16 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-경쟁사와-데이터-공유-나홀로-ai-버.md",
-          "title": "\"경쟁사와 데이터 공유\"…'나홀로 AI' 버리고 '동맹' 맺은 제조업체들"
+          "file": "20260922-카카오-lg-cns와-협력으로-데이터.md",
+          "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용"
         },
         {
-          "date": "2026-09-22",
-          "file": "20260922-산업부-ai와-기업의-미래-연구회-발.md",
-          "title": "산업부, 'AI와 기업의 미래 연구회' 발족… 연내 인재·노동 개편안 낸다"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-lg-cns-lg전자와-2578억원-.md",
-          "title": "LG CNS, LG전자와 2578억원 규모 코파일럿 계약"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20260922155943",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215581",
           "title": ""
         },
         {
-          "date": "2026-09-22",
-          "file": "20260922-kt-nia와-베트남-등-3개국서-a.md",
-          "title": "KT, NIA와 베트남 등 3개국서 AI 교육"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-ai-시대-청년-일자리-해법은-노동부.md",
-          "title": "AI 시대 청년 일자리 해법은…노동부·대한상의 포럼"
+          "url": "https://www.bloter.net/news/articleView.html?idxno=674273",
+          "title": ""
         }
       ]
     }

@@ -1,0 +1,126 @@
+{
+  "date": "2026-09-23",
+  "updated_at": "2026-09-23T08:15:35.009880+09:00",
+  "run_id": "run_20260923_081535",
+  "summary_ko": "모델 단가가 반값이 된 날, 금융은 에이전트 결제 규칙을 먼저 쥐었다.",
+  "issues": [
+    {
+      "title": "프런티어 모델, 가격 경쟁 돌입",
+      "summary_ko": "성능 경쟁이 단가 경쟁으로 바뀌며 도입 비용 계산이 다시 열렸다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-23",
+          "file": "20260923-오픈ai-gpt-6-솔-루나-공개-필.md",
+          "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\""
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-새로운-최고-성능-가격-40-인하-앤.md",
+          "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-네이버클라우드-모델-크기-넘어-보안-.md",
+          "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215581",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "은행, 에이전트 결제 규칙 선점",
+      "summary_ko": "에이전트가 거래를 실행하자 은행이 신뢰 계층 자리를 먼저 잡았다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-23",
+          "file": "20260923-global-banks-take-on.md",
+          "title": "Global banks take on agentic commerce scam and fraud concerns"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-agent-workflow-platf.md",
+          "title": "Agent workflow platform Promenaut goes live at HSBC"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-rogers-bank-complete.md",
+          "title": "Rogers Bank completes agentic commerce transactions with Flybits and Mastercard"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-gocardless-processes.md",
+          "title": "GoCardless processes first agentic account-to-account transaction in the UK"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=674241",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "국제 공조 빠진 안전 책임",
+      "summary_ko": "공통 규범이 멀어지면서 사고 책임이 개별 소송과 기업 몫으로 남았다.",
+      "topics": [
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-23",
+          "file": "20260923-트럼프-국제-ai-규제협정-거부-초지.md",
+          "title": "트럼프, 국제 AI 규제협정 거부…\"초지능 개발 장려할 것\""
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-캐나다-bc주-오픈ai-고소-총격-사.md",
+          "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215553",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 투자, 집행력 검증대",
+      "summary_ko": "대형 투자 발표가 수요처·고객 집중 리스크로 실행력을 검증받고 있다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-23",
+          "file": "20260923-ai프리즘-한국-아태-ai-수도로-블.md",
+          "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-nscale-s-ipo-will-te.md",
+          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+        },
+        {
+          "url": "https://www.fnnews.com/news/202609221917183399",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
