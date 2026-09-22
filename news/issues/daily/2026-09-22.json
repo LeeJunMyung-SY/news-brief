@@ -1,26 +1,21 @@
 {
   "date": "2026-09-22",
-  "updated_at": "2026-09-22T12:18:51.986514+09:00",
-  "run_id": "run_20260922_121851",
-  "summary_ko": "규제가 설비 인허가까지 내려온 사이, 로봇과 에이전트는 실제 업무 라인으로 들어왔다.",
+  "updated_at": "2026-09-22T16:19:13.396632+09:00",
+  "run_id": "run_20260922_161913",
+  "summary_ko": "규제가 증거 검증을 요구하는 사이, AI 도입은 장기 계약과 정책금융으로 제도화됐다.",
   "issues": [
     {
-      "title": "규제, 책임에서 인허가로",
-      "summary_ko": "사고 책임 추궁에 더해 설비 인허가 자체를 멈추는 단계로 넘어갔다.",
+      "title": "규제, 책임에서 검증으로",
+      "summary_ko": "사후 책임 추궁을 넘어 안전을 증거로 입증하라는 요구가 표준·입법 양쪽에서 나왔다.",
       "topics": [
         "ai_policy",
-        "ai_compute_energy"
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-09-22",
           "file": "20260922-베선트-ai-모델이-해킹-사고-내면-.md",
           "title": "베선트 \"AI 모델이 해킹 사고 내면 해당 AI 회사 경영진 책임\""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-미-중-ai-위험-방지-대화-시동-재.md",
-          "title": "미·중 'AI 위험 방지' 대화 시동…美 재무부 장관 공식화"
         },
         {
           "date": "2026-09-22",
@@ -34,38 +29,42 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-ai는-지금-영국-ai-규제-육성-사.md",
-          "title": "[AI는 지금] 영국, AI 규제·육성 사이 균형 찾는다…\"중재자 역할 할 것\""
+          "file": "20260922-ai-안전-선언보단-검증으로-국제표준.md",
+          "title": "AI 안전, 선언보단 검증으로…국제표준도 달라진다"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260922075912",
+          "date": "2026-09-22",
+          "file": "20260922-오픈ai-ai-국제표준-미국이-주도해.md",
+          "title": "오픈AI \"AI 국제표준, 미국이 주도해야\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-오픈ai-앤트로픽-ai-모델-교차-검.md",
+          "title": "오픈AI·앤트로픽, AI 모델 교차 검증 합의 임박...미공개 모델은 제외"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-ai-학습데이터-통합관리-근거-마련-.md",
+          "title": "'AI 학습데이터 통합관리' 근거 마련…과방위, AI기본법 개정안 통과"
+        },
+        {
+          "url": "https://www.etnews.com/20260922000437",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260922152926",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트, 업무 대체 단계로",
-      "summary_ko": "접근권 다툼과 별개로, 특정 업무를 통째로 맡기는 단위로 도입이 옮겨갔다.",
+      "title": "AI 도입이 고정비가 됐다",
+      "summary_ko": "시범 예산이던 생산성 AI가 5년 단위 대형 계약으로 집행 구조를 바꿨다.",
       "topics": [
-        "ai_agents",
-        "금융회사 AI"
+        "ai_industry",
+        "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-09-22",
-          "file": "20260922-amazon-blocks-meta-s.md",
-          "title": "Amazon blocks Meta’s Muse AI agent"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-muse-meta-s-extraord.md",
-          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-un-science-panel-say.md",
-          "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents"
-        },
         {
           "date": "2026-09-22",
           "file": "20260922-포스코dx-ai-에이전트-구축-컨설팅.md",
@@ -73,28 +72,43 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-kastle-raises-24m-to.md",
-          "title": "Kastle raises $24m to build AI agents for lending"
+          "file": "20260922-ms-기업-ai-전환-지침서-프런티어.md",
+          "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\""
         },
         {
-          "url": "https://www.hankyung.com/article/202609220575i",
+          "date": "2026-09-22",
+          "file": "20260922-lg-cns-lg전자와-2578억원-.md",
+          "title": "LG CNS, LG전자와 2578억원 규모 코파일럿 계약"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-카카오-lg-cns와-협력으로-데이터.md",
+          "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=674205",
           "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260922151947",
+          "title": ""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-챗gpt-제친-메타-뮤즈-ai-비서-.md",
+          "title": "챗GPT 제친 메타 '뮤즈'…AI 비서 열풍에 CPU주도 들썩"
         }
       ]
     },
     {
-      "title": "로봇, 학습장에서 라인으로",
-      "summary_ko": "실증 단계를 지나 실제 공정에 배치되면서 사전 검증이 도입 요건이 됐다.",
+      "title": "피지컬 AI에 정책금융이 붙었다",
+      "summary_ko": "실증을 지난 로봇 도입이 지역 제조업 자금 지원 대상으로 올라섰다.",
       "topics": [
+        "physical_ai",
         "physical_ai_robotics",
-        "physical_ai"
+        "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-09-22",
-          "file": "20260922-보스턴다이나믹스-로봇-학교-rmac-.md",
-          "title": "보스턴다이나믹스, 美 '로봇 학교' RMAC 개소…아틀라스 2.5만대 투입"
-        },
         {
           "date": "2026-09-22",
           "file": "20260922-변압기-공장-누비는-로봇개-ls일렉트.md",
@@ -106,23 +120,37 @@
           "title": "GS건설, 건설로봇 현장 투입 전 검증…사전검증센터 구축"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260922093451",
-          "title": ""
+          "date": "2026-09-22",
+          "file": "20260922-이억원-금융위원장-지역-제조현장-피지.md",
+          "title": "이억원 금융위원장 \"지역 제조현장, 피지컬 AI 거점되도록 지원\""
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-현대차-자율주행-해부-웨이모-아이오닉.md",
-          "title": "[현대차 자율주행 해부] ‘웨이모’ 아이오닉5, EV 둔화 돌파하나"
+          "file": "20260922-김병수-로보티즈-대표-휴머노이드-스마.md",
+          "title": "김병수 로보티즈 대표 \"휴머노이드, 스마트폰 같은 만능 플랫폼 될 것\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-노타-퀄컴-npu로-로봇-모델-최적화.md",
+          "title": "노타, 퀄컴 NPU로 로봇 모델 최적화 성공...\"로봇팔 작업 속도 3배 향상\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-유정훈-도공-사장-도로-건설-넘어-b.md",
+          "title": "유정훈 도공 사장 “도로 건설 넘어 B2C로”…자율주행·전력망 혁신"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260922151106",
+          "title": ""
         }
       ]
     },
     {
       "title": "한국 기업, AI 공급망 안쪽으로",
-      "summary_ko": "도입자가 아니라 인프라 공급자로 자리를 잡는 선택이 잇따르며 투자 리스크도 같이 커졌다.",
+      "summary_ko": "규격 승인을 통과한 설비 기업들이 도입자가 아닌 공급자 자리를 굳혔다.",
       "topics": [
-        "ai_industry",
         "ai_compute_energy",
-        "금융회사 AI"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -136,13 +164,27 @@
           "title": "LG, 엔비디아 AI 생태계 합류…액체냉각·BESS 협력 확대"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=674219",
+          "date": "2026-09-22",
+          "file": "20260922-lg전자-lg엔솔-엔비디아-ai-팩토.md",
+          "title": "LG전자·LG엔솔, 엔비디아 AI 팩토리 인프라 ‘DSX 레디’ 합류"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-엔비디아-손잡은-lg엔솔-선그로우-노.md",
+          "title": "엔비디아 손잡은 LG엔솔, 선그로우 노리는 삼성SDI…ESS '연합전'"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260922143908",
           "title": ""
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-메리츠증권-금리인상-ai-투자-부채부.md",
-          "title": "메리츠증권 \"美 금리인상, AI 투자 부채부담 키워…경착륙 위험\""
+          "file": "20260922-법무법인-세종-aidc-전담조직-띄운.md",
+          "title": "법무법인 세종, AIDC 전담조직 띄운다...전문가 100여명 투입"
+        },
+        {
+          "url": "https://www.etnews.com/20260921000346",
+          "title": ""
         }
       ]
     }
