@@ -1,44 +1,15 @@
 {
   "date": "2026-09-22",
-  "updated_at": "2026-09-22T08:19:12.376509+09:00",
-  "run_id": "run_20260922_081912",
-  "summary_ko": "에이전트의 경계 문제가 플랫폼·결제·보안으로 번지고, 규제는 사후 책임 쪽으로 정리됐다.",
+  "updated_at": "2026-09-22T12:18:51.986514+09:00",
+  "run_id": "run_20260922_121851",
+  "summary_ko": "규제가 설비 인허가까지 내려온 사이, 로봇과 에이전트는 실제 업무 라인으로 들어왔다.",
   "issues": [
     {
-      "title": "에이전트, 접근권이 관문으로",
-      "summary_ko": "기술 구현보다 상대 플랫폼의 허용 여부가 서비스 성립을 좌우하는 국면으로 넘어갔다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-22",
-          "file": "20260922-amazon-blocks-meta-s.md",
-          "title": "Amazon blocks Meta’s Muse AI agent"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-muse-meta-s-extraord.md",
-          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day"
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-          "title": ""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-un-science-panel-say.md",
-          "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents"
-        }
-      ]
-    },
-    {
-      "title": "규제, 사후 책임으로 방향 잡혔다",
-      "summary_ko": "사전 기준 대신 사고 책임을 개발사에 묻는 방식이 통제 수단으로 굳어지고 있다.",
+      "title": "규제, 책임에서 인허가로",
+      "summary_ko": "사고 책임 추궁에 더해 설비 인허가 자체를 멈추는 단계로 넘어갔다.",
       "topics": [
         "ai_policy",
-        "ai_industry"
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -52,74 +23,126 @@
           "title": "미·중 'AI 위험 방지' 대화 시동…美 재무부 장관 공식화"
         },
         {
-          "url": "https://www.etnews.com/20260922000070",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215518",
-          "title": ""
-        },
-        {
           "date": "2026-09-22",
           "file": "20260922-california-tightens-.md",
           "title": "California tightens rules on AI data center energy and water use"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-ai-고속도로-ai-데이터센터-키우던.md",
+          "title": "[AI 고속도로] AI 데이터센터 키우던 텍사스도 제동…美 규제 확산"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-ai는-지금-영국-ai-규제-육성-사.md",
+          "title": "[AI는 지금] 영국, AI 규제·육성 사이 균형 찾는다…\"중재자 역할 할 것\""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260922075912",
+          "title": ""
         }
       ]
     },
     {
-      "title": "도입 단위가 조직·클러스터로",
-      "summary_ko": "개별 기업 단위 도입의 한계가 확인되며 거버넌스 조직과 공동 모델이 대안으로 떠올랐다.",
+      "title": "에이전트, 업무 대체 단계로",
+      "summary_ko": "접근권 다툼과 별개로, 특정 업무를 통째로 맡기는 단위로 도입이 옮겨갔다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-22",
+          "file": "20260922-amazon-blocks-meta-s.md",
+          "title": "Amazon blocks Meta’s Muse AI agent"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-muse-meta-s-extraord.md",
+          "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-un-science-panel-say.md",
+          "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-포스코dx-ai-에이전트-구축-컨설팅.md",
+          "title": "포스코DX, AI 에이전트 구축 컨설팅도 AI가 수행...도입 기간 절반 단축"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-kastle-raises-24m-to.md",
+          "title": "Kastle raises $24m to build AI agents for lending"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609220575i",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "로봇, 학습장에서 라인으로",
+      "summary_ko": "실증 단계를 지나 실제 공정에 배치되면서 사전 검증이 도입 요건이 됐다.",
+      "topics": [
+        "physical_ai_robotics",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-22",
+          "file": "20260922-보스턴다이나믹스-로봇-학교-rmac-.md",
+          "title": "보스턴다이나믹스, 美 '로봇 학교' RMAC 개소…아틀라스 2.5만대 투입"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-변압기-공장-누비는-로봇개-ls일렉트.md",
+          "title": "변압기 공장 누비는 로봇개…LS일렉트릭, 보스턴다이내믹스 '스팟' 도입"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-gs건설-건설로봇-현장-투입-전-검증.md",
+          "title": "GS건설, 건설로봇 현장 투입 전 검증…사전검증센터 구축"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260922093451",
+          "title": ""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-현대차-자율주행-해부-웨이모-아이오닉.md",
+          "title": "[현대차 자율주행 해부] ‘웨이모’ 아이오닉5, EV 둔화 돌파하나"
+        }
+      ]
+    },
+    {
+      "title": "한국 기업, AI 공급망 안쪽으로",
+      "summary_ko": "도입자가 아니라 인프라 공급자로 자리를 잡는 선택이 잇따르며 투자 리스크도 같이 커졌다.",
       "topics": [
         "ai_industry",
-        "ai_workforce_training"
+        "ai_compute_energy",
+        "금융회사 AI"
       ],
       "articles": [
         {
           "date": "2026-09-22",
-          "file": "20260922-더존비즈온-ai-관리-전담-조직-신설.md",
-          "title": "더존비즈온, AI 관리 전담 조직 신설…개발부터 감사까지 통합"
+          "file": "20260922-lg-ms와-파트너십-체결-ai-데이.md",
+          "title": "LG, MS와 파트너십 체결...\"AI 데이터센터·AX·피지컬AI 3대 협력\""
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-ms-기업-ai-전환-지침서-프런티어.md",
-          "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\""
+          "file": "20260922-lg-엔비디아-ai-생태계-합류-액체.md",
+          "title": "LG, 엔비디아 AI 생태계 합류…액체냉각·BESS 협력 확대"
         },
         {
-          "date": "2026-09-22",
-          "file": "20260922-홀로-ai-도입땐-필패-산단-전체가-.md",
-          "title": "\"中企 홀로 AI 도입땐 필패…산단 전체가 공용 AX모델로 뭉쳐야\""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-경쟁사와-데이터-공유-나홀로-ai-버.md",
-          "title": "\"경쟁사와 데이터 공유\"…'나홀로 AI' 버리고 '동맹' 맺은 제조업체들"
-        }
-      ]
-    },
-    {
-      "title": "금융, 결제 인프라와 공급망 방어로",
-      "summary_ko": "금융권의 AI 적용이 상담·상품을 지나 결제망과 보안 인프라 층으로 내려왔다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard",
+          "url": "https://www.bloter.net/news/articleView.html?idxno=674219",
           "title": ""
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-금융권-sw-공급망-보안-플랫폼-시선.md",
-          "title": "'금융권 SW 공급망 보안 플랫폼' 시선...178곳 참여"
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/110954/aegis-trace-and-intersystems-team-to-strengthen-ai-decision-traceability-for-regulated-organisations",
-          "title": ""
-        },
-        {
-          "url": "https://www.hankyung.com/article/202609219320i",
-          "title": ""
+          "file": "20260922-메리츠증권-금리인상-ai-투자-부채부.md",
+          "title": "메리츠증권 \"美 금리인상, AI 투자 부채부담 키워…경착륙 위험\""
         }
       ]
     }

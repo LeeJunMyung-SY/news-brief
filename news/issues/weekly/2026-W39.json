@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-22T08:19:12.376509+09:00",
-  "run_id": "run_20260922_081912",
-  "summary_ko": "규제가 사후 책임으로 정리되는 사이 경쟁은 접근권과 조달 원가로 내려갔다.",
+  "updated_at": "2026-09-22T12:18:51.986514+09:00",
+  "run_id": "run_20260922_121851",
+  "summary_ko": "규제가 설비 인허가로 내려오는 사이, AI는 공급 계약과 실제 공정 안으로 들어갔다.",
   "issues": [
     {
-      "title": "규제 공백에서 사후 책임으로",
-      "body_ko": "일률 규제를 접은 자리를 사고 책임 추궁과 국제 통보 체계가 메우는 구도로 정리됐다.",
+      "title": "규제, 사후 책임에서 인허가 제동으로",
+      "body_ko": "책임 추궁으로 방향을 잡은 규제가 데이터센터 인허가 중단까지 내려왔다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -16,11 +16,6 @@
           "date": "2026-09-21",
           "file": "20260921-trump-announces-ai-f.md",
           "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
-        },
-        {
-          "date": "2026-09-21",
-          "file": "20260921-최경진의-프런티어-ai-시대-한국-답.md",
-          "title": "[최경진의 未來法道] 프런티어 AI 시대, 한국 답은 검증 가능한 가속"
         },
         {
           "date": "2026-09-21",
@@ -38,21 +33,28 @@
           "title": "미·중 'AI 위험 방지' 대화 시동…美 재무부 장관 공식화"
         },
         {
-          "url": "https://www.etnews.com/20260922000070",
-          "title": ""
+          "date": "2026-09-22",
+          "file": "20260922-california-tightens-.md",
+          "title": "California tightens rules on AI data center energy and water use"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215518",
-          "title": ""
+          "date": "2026-09-22",
+          "file": "20260922-ai-고속도로-ai-데이터센터-키우던.md",
+          "title": "[AI 고속도로] AI 데이터센터 키우던 텍사스도 제동…美 규제 확산"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-ai는-지금-영국-ai-규제-육성-사.md",
+          "title": "[AI는 지금] 영국, AI 규제·육성 사이 균형 찾는다…\"중재자 역할 할 것\""
         }
       ]
     },
     {
-      "title": "에이전트, 통제에서 접근권까지",
-      "body_ko": "위임 권한 회수 문제에 더해 상대 플랫폼의 허용 여부가 사업 성립 조건으로 올라왔다.",
+      "title": "에이전트, 통제에서 업무 대체로",
+      "body_ko": "권한 회수와 접근권 다툼을 지나, 특정 업무를 통째로 맡는 단위로 도입이 옮겨갔다.",
       "topics": [
         "ai_agents",
-        "ai_industry"
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -64,11 +66,6 @@
           "date": "2026-09-21",
           "file": "20260921-authorization-revoca.md",
           "title": "Authorization Revocation for Long-Running AI Agents: Root-Scoped Quiescence under Delegation and Asynchronous Execution"
-        },
-        {
-          "date": "2026-09-21",
-          "file": "20260921-ms-ai-에이전트로-코파일럿-런타임.md",
-          "title": "MS, AI 에이전트로 코파일럿 런타임 러스트 전환…속도 최대 15.9배 향상"
         },
         {
           "date": "2026-09-22",
@@ -87,14 +84,19 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-앤돈랩스-ai가-기업-전반-자율-운영.md",
-          "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 '파이온' 공개"
+          "file": "20260922-포스코dx-ai-에이전트-구축-컨설팅.md",
+          "title": "포스코DX, AI 에이전트 구축 컨설팅도 AI가 수행...도입 기간 절반 단축"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-kastle-raises-24m-to.md",
+          "title": "Kastle raises $24m to build AI agents for lending"
         }
       ]
     },
     {
-      "title": "인프라 병목이 부품 원가로",
-      "body_ko": "전력·설비 제약에 부품 품귀와 메모리 공급 변수가 겹치며 투자 성패가 조달 단가로 옮겨갔다.",
+      "title": "인프라 경쟁, 부품에서 공급 계약으로",
+      "body_ko": "연산 장비보다 냉각·전력 설비가 증설 속도를 가르며 규격 승인이 진입 관문이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -111,18 +113,9 @@
           "title": "생산력 50% 높인 CXMT 5세대 D램…삼성·SK 가격경쟁 불씨되나"
         },
         {
-          "date": "2026-09-21",
-          "file": "20260921-리벨리온-npu-skt-4대-상용-a.md",
-          "title": "리벨리온 NPU, SKT 4대 상용 AI 서비스에 채택…'하루 40억 토큰' 처리"
-        },
-        {
           "date": "2026-09-22",
           "file": "20260922-기판-병목-낙수효과-mlcc-2부리그.md",
           "title": "기판 병목 낙수효과 … MLCC '2부리그'까지 급등세"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215529",
-          "title": ""
         },
         {
           "date": "2026-09-22",
@@ -131,17 +124,26 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-california-tightens-.md",
-          "title": "California tightens rules on AI data center energy and water use"
+          "file": "20260922-lg-ms와-파트너십-체결-ai-데이.md",
+          "title": "LG, MS와 파트너십 체결...\"AI 데이터센터·AX·피지컬AI 3대 협력\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-lg-엔비디아-ai-생태계-합류-액체.md",
+          "title": "LG, 엔비디아 AI 생태계 합류…액체냉각·BESS 협력 확대"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=674219",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI, 상품에서 인프라로",
-      "body_ko": "테마 상품 출시를 넘어 결제망과 공급망 보안 같은 기반 계층으로 적용이 내려갔다.",
+      "title": "금융권 AI, 도구에서 익스포저로",
+      "body_ko": "결제·보안 인프라로 적용이 내려간 한편, AI 투자 자체가 리스크 관리 대상이 됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -151,17 +153,8 @@
         },
         {
           "date": "2026-09-21",
-          "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
-          "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장"
-        },
-        {
-          "date": "2026-09-21",
           "file": "20260921-50대-서민이-투자전략-물어봐도-ai.md",
           "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 '20대 고소득자'로 보는 까닭은?"
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/110960/danske-bank-performs-ai-agent-transaction-with-mastercard",
-          "title": ""
         },
         {
           "date": "2026-09-22",
@@ -169,29 +162,25 @@
           "title": "'금융권 SW 공급망 보안 플랫폼' 시선...178곳 참여"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/110954/aegis-trace-and-intersystems-team-to-strengthen-ai-decision-traceability-for-regulated-organisations",
-          "title": ""
+          "date": "2026-09-22",
+          "file": "20260922-메리츠증권-금리인상-ai-투자-부채부.md",
+          "title": "메리츠증권 \"美 금리인상, AI 투자 부채부담 키워…경착륙 위험\""
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-금융-들의-궤적-삼성카드-김이태-순익.md",
+          "title": "[금융★들의 궤적] 삼성카드 김이태, 순익 1위 넘어 데이터 영토 확장"
         }
       ]
     },
     {
-      "title": "도입 단위가 조직·클러스터로",
-      "body_ko": "개별 기업 단위로는 데이터도 역량도 부족하다는 판단이 공동 모델과 상설 거버넌스로 이어졌다.",
+      "title": "도입 단위가 조직·현장으로",
+      "body_ko": "공동 모델과 상설 거버넌스에 더해, 로봇이 실제 공정에 배치되는 단계로 넘어갔다.",
       "topics": [
         "ai_industry",
-        "ai_workforce_training"
+        "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-09-21",
-          "file": "20260921-부산-경남은행-신입행원-공개채용-디지.md",
-          "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발"
-        },
-        {
-          "date": "2026-09-21",
-          "file": "20260921-창간기획-ai가-바꾸는-현장-전자신문.md",
-          "title": "[창간기획] AI가 바꾸는 현장 - 전자신문 기자들이 직접 만든 AI 뉴스 에이전트 'ETA 2.0' 고도화"
-        },
         {
           "date": "2026-09-22",
           "file": "20260922-더존비즈온-ai-관리-전담-조직-신설.md",
@@ -204,13 +193,28 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-홀로-ai-도입땐-필패-산단-전체가-.md",
-          "title": "\"中企 홀로 AI 도입땐 필패…산단 전체가 공용 AX모델로 뭉쳐야\""
+          "file": "20260922-경쟁사와-데이터-공유-나홀로-ai-버.md",
+          "title": "\"경쟁사와 데이터 공유\"…'나홀로 AI' 버리고 '동맹' 맺은 제조업체들"
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-경쟁사와-데이터-공유-나홀로-ai-버.md",
-          "title": "\"경쟁사와 데이터 공유\"…'나홀로 AI' 버리고 '동맹' 맺은 제조업체들"
+          "file": "20260922-보스턴다이나믹스-로봇-학교-rmac-.md",
+          "title": "보스턴다이나믹스, 美 '로봇 학교' RMAC 개소…아틀라스 2.5만대 투입"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-변압기-공장-누비는-로봇개-ls일렉트.md",
+          "title": "변압기 공장 누비는 로봇개…LS일렉트릭, 보스턴다이내믹스 '스팟' 도입"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-울산시-산업ax-nexus-실증단지-.md",
+          "title": "울산시, '산업AX NEXUS 실증단지' 조성"
+        },
+        {
+          "date": "2026-09-22",
+          "file": "20260922-산업부-ai와-기업의-미래-연구회-발.md",
+          "title": "산업부, 'AI와 기업의 미래 연구회' 발족… 연내 인재·노동 개편안 낸다"
         }
       ]
     }
