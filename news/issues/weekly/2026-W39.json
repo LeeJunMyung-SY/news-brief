@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-23T16:16:55.549316+09:00",
-  "run_id": "run_20260923_161655",
-  "summary_ko": "규제가 증거를 요구하는 사이, 모델 단가는 떨어지고 AI는 결제·규제 업무와 고정비로 들어왔다.",
+  "updated_at": "2026-09-24T08:17:05.341735+09:00",
+  "run_id": "run_20260924_081705",
+  "summary_ko": "규제가 외교 의제로 오르는 사이, 모델은 싸지고 에이전트는 금융·일상에 들어왔다.",
   "issues": [
     {
-      "title": "규제, 검증 요구 속 공조 균열",
-      "body_ko": "미국 이탈로 공조가 흔들리자 개발 단계 외부 검증과 안보리 논의가 대안으로 떴다.",
+      "title": "AI 안전, 안보·정상 의제로",
+      "body_ko": "미국 이탈로 공조가 흔들리자 외부 검증과 안보리·정상회담이 대안 채널로 떴다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -56,12 +56,22 @@
           "date": "2026-09-23",
           "file": "20260923-개인정보위-민관-정책협의회-개최-ai.md",
           "title": "개인정보위, 민관 정책협의회 개최…AI 에이전트 개인정보 보호 방안 논의"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-openai-and-anthropic.md",
+          "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-trump-xi-summit-puts.md",
+          "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
         }
       ]
     },
     {
       "title": "모델 단가 급락, 계산식이 바뀐다",
-      "body_ko": "최상위 모델 가격이 절반 가까이 내려 도입 비용과 계약 조건을 재검토할 국면이다.",
+      "body_ko": "최상위에 이어 음성 모델까지 가격이 급락해 도입 비용과 계약 조건 재검토 국면이다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -91,12 +101,17 @@
           "date": "2026-09-23",
           "file": "20260923-ai는-지금-속도조절론-속-쏟아진-신.md",
           "title": "[AI는 지금] 속도조절론 속 쏟아진 신모델…AI 3사 승부처는"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-alibaba-launches-qwe.md",
+          "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent"
         }
       ]
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "결제 규칙 선점에 이어 KYC 같은 규제 업무까지 에이전트가 실가동되기 시작했다.",
+      "body_ko": "결제·KYC에 이어 은행 채널과 신원 인프라까지 에이전트 기준으로 재편되고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -139,19 +154,30 @@
           "title": "신한증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
-          "title": ""
-        },
-        {
           "date": "2026-09-23",
           "file": "20260923-와디즈-ai로-펀딩-프로젝트-대기-시.md",
           "title": "와디즈, AI로 펀딩 프로젝트 대기 시간 확 줄였다"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-paywhere-launches-ai.md",
+          "title": "Paywhere launches AI banking channel"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-baselayer-raises-35-.md",
+          "title": "Baselayer raises $35 million; rolls out agentic identtity suite"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-tink-founders-return.md",
+          "title": "Tink founders return with agentic compliance startup"
         }
       ]
     },
     {
       "title": "인프라, 공급 자격과 집행력",
-      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 투자는 상장 지연 속에 수요 실체를 검증받는다.",
+      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 투자는 고객 집중과 집행 속도로 검증받는다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -201,12 +227,22 @@
           "date": "2026-09-23",
           "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
           "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-nvidia-backed-nscale.md",
+          "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-새만금개발청-현대차그룹-ai-데이터센.md",
+          "title": "새만금개발청, 현대차그룹  'AI 데이터센터' 건축심의 본격 착수"
         }
       ]
     },
     {
-      "title": "도입이 고정비와 조직으로",
-      "body_ko": "전사 계약·전담 조직·상시 인사에 이어 신입 채용 구조까지 AI 기준으로 바뀐다.",
+      "title": "에이전트, 조직과 일상으로",
+      "body_ko": "기업은 전사 계약·조직 개편으로, 소비자는 개인 에이전트로 AI를 상시 인프라로 들였다.",
       "topics": [
         "ai_industry",
         "ai_agents",
@@ -239,17 +275,24 @@
           "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215581",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=674273",
-          "title": ""
-        },
-        {
           "date": "2026-09-23",
           "file": "20260923-ai-is-killing-the-gr.md",
           "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-meta-s-standoff-with.md",
+          "title": "Meta's standoff with Amazon over Muse could be a sign of things to come"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-ema-raises-77m-as-ai.md",
+          "title": "Ema raises $77M as AI starts eating into enterprise software and services"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-ringg-s-ai-agents-re.md",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
         }
       ]
     }

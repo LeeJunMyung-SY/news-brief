@@ -1,0 +1,107 @@
+{
+  "date": "2026-09-24",
+  "updated_at": "2026-09-24T08:17:05.341735+09:00",
+  "run_id": "run_20260924_081705",
+  "summary_ko": "소비자 에이전트가 판을 키우자 접근권과 금융 신뢰 계층이 쟁점이 됐다.",
+  "issues": [
+    {
+      "title": "에이전트, 플랫폼 접근권 다툼",
+      "summary_ko": "소비자 에이전트 흥행이 기존 플랫폼과의 접근 협상 문제로 번졌다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-24",
+          "file": "20260924-meta-s-standoff-with.md",
+          "title": "Meta's standoff with Amazon over Muse could be a sign of things to come"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-메타-뮤즈-전화-예약-콜센터-상담원이.md",
+          "title": "메타 뮤즈 전화 예약, 콜센터 상담원이 걸었다…사내 시험에서 확인"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-chatgpt-voice-gets-c.md",
+          "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access"
+        }
+      ]
+    },
+    {
+      "title": "은행, AI 비서를 채널로",
+      "summary_ko": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들이기 시작했다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-24",
+          "file": "20260924-paywhere-launches-ai.md",
+          "title": "Paywhere launches AI banking channel"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-baselayer-raises-35-.md",
+          "title": "Baselayer raises $35 million; rolls out agentic identtity suite"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-tink-founders-return.md",
+          "title": "Tink founders return with agentic compliance startup"
+        }
+      ]
+    },
+    {
+      "title": "AI 안전, 정상 외교 의제로",
+      "summary_ko": "국제 협정 공백을 안보리와 미·중 정상 채널이 대신 채우고 있다.",
+      "topics": [
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-24",
+          "file": "20260924-openai-and-anthropic.md",
+          "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-trump-xi-summit-puts.md",
+          "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
+        }
+      ]
+    },
+    {
+      "title": "도입 비용 계산이 선명해졌다",
+      "summary_ko": "처리율·단가 인하 수치가 에이전트 도입의 손익을 구체화했다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-24",
+          "file": "20260924-ringg-s-ai-agents-re.md",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-ema-raises-77m-as-ai.md",
+          "title": "Ema raises $77M as AI starts eating into enterprise software and services"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-alibaba-launches-qwe.md",
+          "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
