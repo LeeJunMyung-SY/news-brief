@@ -1,8 +1,8 @@
 {
   "date": "2026-09-23",
-  "updated_at": "2026-09-23T08:15:35.009880+09:00",
-  "run_id": "run_20260923_081535",
-  "summary_ko": "모델 단가가 반값이 된 날, 금융은 에이전트 결제 규칙을 먼저 쥐었다.",
+  "updated_at": "2026-09-23T12:14:31.895294+09:00",
+  "run_id": "run_20260923_121431",
+  "summary_ko": "모델 단가는 반값이 됐고, 금융은 에이전트를 규제 업무까지 투입했다.",
   "issues": [
     {
       "title": "프런티어 모델, 가격 경쟁 돌입",
@@ -34,8 +34,8 @@
       ]
     },
     {
-      "title": "은행, 에이전트 결제 규칙 선점",
-      "summary_ko": "에이전트가 거래를 실행하자 은행이 신뢰 계층 자리를 먼저 잡았다.",
+      "title": "금융, 에이전트를 실무에 투입",
+      "summary_ko": "결제 규칙 선점에 이어 규제 업무와 고객 서비스까지 AI가 들어갔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -60,6 +60,16 @@
           "date": "2026-09-23",
           "file": "20260923-gocardless-processes.md",
           "title": "GoCardless processes first agentic account-to-account transaction in the UK"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-deutsche-bank-estima.md",
+          "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-신한증권-ai서비스-2종-출시-관심종.md",
+          "title": "신한증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\""
         },
         {
           "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
@@ -99,11 +109,12 @@
       ]
     },
     {
-      "title": "인프라 투자, 집행력 검증대",
-      "summary_ko": "대형 투자 발표가 수요처·고객 집중 리스크로 실행력을 검증받고 있다.",
+      "title": "인프라 투자, 수요 실체 검증",
+      "summary_ko": "상장 지연과 투자 답보 속에 금융·합작이 새 자금 경로로 떴다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -115,6 +126,21 @@
           "date": "2026-09-23",
           "file": "20260923-nscale-s-ipo-will-te.md",
           "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+          "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+          "title": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\""
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+          "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
         },
         {
           "url": "https://www.fnnews.com/news/202609221917183399",

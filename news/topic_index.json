@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:15:42+00:00",
+  "generated_at": "2026-09-23T03:14:39+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,7 +12,7 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1189,
+      "count": 1190,
       "latest_date": "2026-09-23"
     },
     {
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2908,
+      "count": 2914,
       "latest_date": "2026-09-23"
     },
     {
@@ -40,21 +40,21 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 867,
+      "count": 871,
       "latest_date": "2026-09-23"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 698,
+      "count": 701,
       "latest_date": "2026-09-23"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 490,
+      "count": 491,
       "latest_date": "2026-09-23"
     },
     {
@@ -82,8 +82,8 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 28,
-      "latest_date": "2026-09-22"
+      "count": 29,
+      "latest_date": "2026-09-23"
     },
     {
       "key": "robotics",
@@ -95,6 +95,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-09-23",
+        "file": "20260923-deutsche-bank-estima.md",
+        "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#agentic-ai",
+          "#kyc",
+          "#roi-case",
+          "#compliance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48452/deutsche-bank-estimates-30-uplift-in-client-onboarding-by-deploying-kyc-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
       {
         "date": "2026-09-23",
         "file": "20260923-global-banks-take-on.md",
@@ -49812,6 +49827,36 @@
       },
       {
         "date": "2026-09-23",
+        "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+        "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#ipo",
+          "#investment",
+          "#softbank",
+          "#ai-bubble"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260923084137"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+        "title": "우리금융 '포항 AI 데이터센터에 생산적 금융 공급'",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#productive-finance",
+          "#data-center",
+          "#ai-infrastructure",
+          "#woori"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260923071800002"
+      },
+      {
+        "date": "2026-09-23",
         "file": "20260923-ai프리즘-한국-아태-ai-수도로-블.md",
         "title": "[AI프리즘] '한국, 아태 AI 수도로'…블랙록 20조 투자 1년째 '답보'",
         "importance": 6,
@@ -49837,6 +49882,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/110972/creatio-invests-300-million-in-its-bankai-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+        "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#joint-venture",
+          "#lg-cns",
+          "#southeast-asia",
+          "#ai-infrastructure"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674299"
       },
       {
         "date": "2026-09-23",
@@ -49867,6 +49927,36 @@
       },
       {
         "date": "2026-09-23",
+        "file": "20260923-삼성전자-sk하이닉스-인사-패러다임-.md",
+        "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#hr",
+          "#samsung",
+          "#sk-hynix",
+          "#talent"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674327"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-스냅드래곤-서밋-모듈러-인수한-퀄컴-.md",
+        "title": "[스냅드래곤 서밋]모듈러 인수한 퀄컴 “특정 벤더 의존 않는 '개방형 AI 소프트웨어 플랫폼' 구축”",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#qualcomm",
+          "#sovereign-ai",
+          "#open-ecosystem",
+          "#ai-infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260923000105"
+      },
+      {
+        "date": "2026-09-23",
         "file": "20260923-퀄컴-20년-만에-스마트폰-재정의-앱.md",
         "title": "퀄컴, 20년 만에 스마트폰 재정의…'앱 중심서 '에이전틱 AI'로 대전환'",
         "importance": 6,
@@ -49877,6 +49967,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260923045809"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-핑거-1550억에-세아fsi-품는다-.md",
+        "title": "핑거, 1550억에 세아FSI 품는다…피지컬AI 사업 본격화",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#physical-ai",
+          "#fintech",
+          "#manufacturing"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674333"
       },
       {
         "date": "2026-09-23",
@@ -98881,6 +98985,36 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-23",
+        "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+        "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#ipo",
+          "#investment",
+          "#softbank",
+          "#ai-bubble"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260923084137"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+        "title": "우리금융 '포항 AI 데이터센터에 생산적 금융 공급'",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#productive-finance",
+          "#data-center",
+          "#ai-infrastructure",
+          "#woori"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260923071800002"
+      },
+      {
+        "date": "2026-09-23",
         "file": "20260923-ai프리즘-한국-아태-ai-수도로-블.md",
         "title": "[AI프리즘] '한국, 아태 AI 수도로'…블랙록 20조 투자 1년째 '답보'",
         "importance": 6,
@@ -98895,6 +99029,21 @@
       },
       {
         "date": "2026-09-23",
+        "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+        "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#joint-venture",
+          "#lg-cns",
+          "#southeast-asia",
+          "#ai-infrastructure"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674299"
+      },
+      {
+        "date": "2026-09-23",
         "file": "20260923-nscale-s-ipo-will-te.md",
         "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
         "importance": 6,
@@ -98905,6 +99054,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-스냅드래곤-서밋-모듈러-인수한-퀄컴-.md",
+        "title": "[스냅드래곤 서밋]모듈러 인수한 퀄컴 “특정 벤더 의존 않는 '개방형 AI 소프트웨어 플랫폼' 구축”",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#qualcomm",
+          "#sovereign-ai",
+          "#open-ecosystem",
+          "#ai-infrastructure"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260923000105"
       },
       {
         "date": "2026-09-22",
@@ -111411,6 +111575,21 @@
     "금융회사 AI": [
       {
         "date": "2026-09-23",
+        "file": "20260923-deutsche-bank-estima.md",
+        "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#agentic-ai",
+          "#kyc",
+          "#roi-case",
+          "#compliance"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48452/deutsche-bank-estimates-30-uplift-in-client-onboarding-by-deploying-kyc-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-23",
         "file": "20260923-global-banks-take-on.md",
         "title": "Global banks take on agentic commerce scam and fraud concerns",
         "importance": 8,
@@ -111436,6 +111615,35 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48450/agent-workflow-platform-promenaut-goes-live-at-hsbc?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-신한증권-ai서비스-2종-출시-관심종.md",
+        "title": "신한증권, AI서비스 2종 출시…'관심종목·미국공시 브리핑'",
+        "importance": 7,
+        "tags": [
+          "#securities",
+          "#ai-adoption",
+          "#customer-service",
+          "#shinhan"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260923048700008"
+      },
+      {
+        "date": "2026-09-23",
+        "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+        "title": "우리금융 '포항 AI 데이터센터에 생산적 금융 공급'",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#productive-finance",
+          "#data-center",
+          "#ai-infrastructure",
+          "#woori"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260923071800002"
       },
       {
         "date": "2026-09-23",
@@ -121688,6 +121896,20 @@
     "physical_ai": [
       {
         "date": "2026-09-23",
+        "file": "20260923-핑거-1550억에-세아fsi-품는다-.md",
+        "title": "핑거, 1550억에 세아FSI 품는다…피지컬AI 사업 본격화",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#physical-ai",
+          "#fintech",
+          "#manufacturing"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674333"
+      },
+      {
+        "date": "2026-09-23",
         "file": "20260923-핑거-1550억원-들여-제조업체-인수.md",
         "title": "핑거, 1550억원 들여 제조업체 인수…피지컬 AI 사업 확장",
         "importance": 6,
@@ -128913,6 +129135,21 @@
     ],
     "ai_workforce_training": [
       {
+        "date": "2026-09-23",
+        "file": "20260923-삼성전자-sk하이닉스-인사-패러다임-.md",
+        "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#hr",
+          "#samsung",
+          "#sk-hynix",
+          "#talent"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674327"
+      },
+      {
         "date": "2026-09-22",
         "file": "20260922-더존비즈온-ai-관리-전담-조직-신설.md",
         "title": "더존비즈온, AI 관리 전담 조직 신설…개발부터 감사까지 통합",
@@ -131049,8 +131286,8 @@
       },
       {
         "date": "2026-09-23",
-        "title": "인프라 투자, 집행력 검증대",
-        "summary": "대형 투자 발표가 수요처·고객 집중 리스크로 실행력을 검증받고 있다.",
+        "title": "인프라 투자, 수요 실체 검증",
+        "summary": "상장 지연과 투자 답보 속에 금융·합작이 새 자금 경로로 떴다.",
         "articles": [
           {
             "date": "2026-09-23",
@@ -131061,6 +131298,21 @@
             "date": "2026-09-23",
             "file": "20260923-nscale-s-ipo-will-te.md",
             "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+            "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+            "title": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\""
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+            "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
           },
           {
             "url": "https://www.fnnews.com/news/202609221917183399",
@@ -135639,8 +135891,8 @@
     "금융회사 AI": [
       {
         "date": "2026-09-23",
-        "title": "은행, 에이전트 결제 규칙 선점",
-        "summary": "에이전트가 거래를 실행하자 은행이 신뢰 계층 자리를 먼저 잡았다.",
+        "title": "금융, 에이전트를 실무에 투입",
+        "summary": "결제 규칙 선점에 이어 규제 업무와 고객 서비스까지 AI가 들어갔다.",
         "articles": [
           {
             "date": "2026-09-23",
@@ -135663,11 +135915,57 @@
             "title": "GoCardless processes first agentic account-to-account transaction in the UK"
           },
           {
+            "date": "2026-09-23",
+            "file": "20260923-deutsche-bank-estima.md",
+            "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-신한증권-ai서비스-2종-출시-관심종.md",
+            "title": "신한증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\""
+          },
+          {
             "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
             "title": ""
           },
           {
             "url": "https://www.bloter.net/news/articleView.html?idxno=674241",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-23",
+        "title": "인프라 투자, 수요 실체 검증",
+        "summary": "상장 지연과 투자 답보 속에 금융·합작이 새 자금 경로로 떴다.",
+        "articles": [
+          {
+            "date": "2026-09-23",
+            "file": "20260923-ai프리즘-한국-아태-ai-수도로-블.md",
+            "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-nscale-s-ipo-will-te.md",
+            "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+            "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+            "title": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\""
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+            "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
+          },
+          {
+            "url": "https://www.fnnews.com/news/202609221917183399",
             "title": ""
           }
         ]
@@ -138364,8 +138662,8 @@
     "ai_agents": [
       {
         "date": "2026-09-23",
-        "title": "은행, 에이전트 결제 규칙 선점",
-        "summary": "에이전트가 거래를 실행하자 은행이 신뢰 계층 자리를 먼저 잡았다.",
+        "title": "금융, 에이전트를 실무에 투입",
+        "summary": "결제 규칙 선점에 이어 규제 업무와 고객 서비스까지 AI가 들어갔다.",
         "articles": [
           {
             "date": "2026-09-23",
@@ -138386,6 +138684,16 @@
             "date": "2026-09-23",
             "file": "20260923-gocardless-processes.md",
             "title": "GoCardless processes first agentic account-to-account transaction in the UK"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-deutsche-bank-estima.md",
+            "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-신한증권-ai서비스-2종-출시-관심종.md",
+            "title": "신한증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\""
           },
           {
             "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
@@ -143879,8 +144187,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-23",
-        "title": "인프라 투자, 집행력 검증대",
-        "summary": "대형 투자 발표가 수요처·고객 집중 리스크로 실행력을 검증받고 있다.",
+        "title": "인프라 투자, 수요 실체 검증",
+        "summary": "상장 지연과 투자 답보 속에 금융·합작이 새 자금 경로로 떴다.",
         "articles": [
           {
             "date": "2026-09-23",
@@ -143891,6 +144199,21 @@
             "date": "2026-09-23",
             "file": "20260923-nscale-s-ipo-will-te.md",
             "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+            "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+            "title": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\""
+          },
+          {
+            "date": "2026-09-23",
+            "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+            "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
           },
           {
             "url": "https://www.fnnews.com/news/202609221917183399",

@@ -1,8 +1,8 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-23T08:15:35.009880+09:00",
-  "run_id": "run_20260923_081535",
-  "summary_ko": "규제가 증거를 요구하는 사이, 모델 단가는 떨어지고 AI는 결제와 고정비로 들어왔다.",
+  "updated_at": "2026-09-23T12:14:31.895294+09:00",
+  "run_id": "run_20260923_121431",
+  "summary_ko": "규제가 증거를 요구하는 사이, 모델 단가는 떨어지고 AI는 결제·규제 업무와 고정비로 들어왔다.",
   "issues": [
     {
       "title": "규제, 검증 요구 속 공조 균열",
@@ -76,7 +76,7 @@
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "내부 업무 적용과 정책금융을 넘어 에이전트 결제의 규칙을 은행이 먼저 쥐었다.",
+      "body_ko": "결제 규칙 선점에 이어 KYC 같은 규제 업무까지 에이전트가 실가동되기 시작했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -109,6 +109,16 @@
           "title": "Agent workflow platform Promenaut goes live at HSBC"
         },
         {
+          "date": "2026-09-23",
+          "file": "20260923-deutsche-bank-estima.md",
+          "title": "Deutsche Bank estimates 30% uplift in client onboarding by deploying KYC AI"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-신한증권-ai서비스-2종-출시-관심종.md",
+          "title": "신한증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\""
+        },
+        {
           "url": "https://www.aitimes.com/news/articleView.html?idxno=215567",
           "title": ""
         }
@@ -116,7 +126,7 @@
     },
     {
       "title": "인프라, 공급 자격과 집행력",
-      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 투자는 수요처 확보로 실행력을 검증받는다.",
+      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 투자는 상장 지연 속에 수요 실체를 검증받는다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -151,15 +161,31 @@
           "date": "2026-09-23",
           "file": "20260923-nscale-s-ipo-will-te.md",
           "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
+          "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
+          "title": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\""
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
+          "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
         }
       ]
     },
     {
       "title": "도입이 고정비와 조직으로",
-      "body_ko": "전사 좌석 계약과 전담 조직·법인 분리로 AI 지출이 상시 운영 구조에 편입됐다.",
+      "body_ko": "전사 좌석 계약과 전담 조직, 상시 인사 체제로 AI가 상시 운영 구조에 편입됐다.",
       "topics": [
         "ai_industry",
-        "ai_agents"
+        "ai_agents",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -181,6 +207,11 @@
           "date": "2026-09-22",
           "file": "20260922-카카오-lg-cns와-협력으로-데이터.md",
           "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용"
+        },
+        {
+          "date": "2026-09-23",
+          "file": "20260923-삼성전자-sk하이닉스-인사-패러다임-.md",
+          "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동"
         },
         {
           "url": "https://www.aitimes.com/news/articleView.html?idxno=215581",
