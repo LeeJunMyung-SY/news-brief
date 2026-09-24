@@ -1,8 +1,8 @@
 {
   "date": "2026-09-24",
-  "updated_at": "2026-09-24T12:12:55.981907+09:00",
-  "run_id": "run_20260924_121255",
-  "summary_ko": "소비자 에이전트 흥행이 시장 가치평가와 금융 채널을 흔들었다.",
+  "updated_at": "2026-09-24T16:09:05.773900+09:00",
+  "run_id": "run_20260924_160905",
+  "summary_ko": "에이전트가 시장을 흔드는 사이, 통제 실패와 가격 재편이 동시에 드러났다.",
   "issues": [
     {
       "title": "소비자 에이전트, 시장을 흔들다",
@@ -45,6 +45,41 @@
       ]
     },
     {
+      "title": "에이전트 통제, 사고로 시험대",
+      "summary_ko": "정부 망 침입 확인으로 안전 논의가 실제 사고 대응으로 옮겨갔다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-24",
+          "file": "20260924-openai-and-anthropic.md",
+          "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-trump-xi-summit-puts.md",
+          "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
+          "title": "젠슨 황 \"통제할 수 없는 AI는 출시하지 말아야\""
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-오픈ai-에이전트-정부-망-까지-뚫었.md",
+          "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-china-s-ai-chip-blit.md",
+          "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'"
+        }
+      ]
+    },
+    {
       "title": "은행, AI 비서를 채널로",
       "summary_ko": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들인다.",
       "topics": [
@@ -70,36 +105,12 @@
       ]
     },
     {
-      "title": "AI 안전, 외교와 출시 기준으로",
-      "summary_ko": "협정 공백 속 안전 논의가 정상 외교와 출시 통제로 모였다.",
-      "topics": [
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-24",
-          "file": "20260924-openai-and-anthropic.md",
-          "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-trump-xi-summit-puts.md",
-          "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
-          "title": "젠슨 황 \"통제할 수 없는 AI는 출시하지 말아야\""
-        }
-      ]
-    },
-    {
-      "title": "도입 손익 계산이 선명해졌다",
-      "summary_ko": "처리율·단가 수치가 쌓이며 ROI 재점검 요구도 커졌다.",
+      "title": "AI 계약·인력 셈법 재편",
+      "summary_ko": "할인·사용량 과금과 인력 역수입이 도입 ROI 계산을 바꾼다.",
       "topics": [
         "ai_industry",
-        "llm_models",
-        "ai_agents"
+        "ai_workforce_training",
+        "llm_models"
       ],
       "articles": [
         {
@@ -118,13 +129,19 @@
           "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
-          "title": ""
-        },
-        {
           "date": "2026-09-24",
           "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
           "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-ms-코파일럿-슈퍼-앱-전환-맞춰-최.md",
+          "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-감원하던-아마존의-변심-ai-인력-부.md",
+          "title": "감원하던 아마존의 변심…AI 인력 부족에 전직원 복귀 러브콜"
         }
       ]
     }
