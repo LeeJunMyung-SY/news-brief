@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-23T23:17:12+00:00",
+  "generated_at": "2026-09-24T03:13:03+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1005,
+      "count": 1006,
       "latest_date": "2026-09-24"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1202,
+      "count": 1205,
       "latest_date": "2026-09-24"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1244,
+      "count": 1245,
       "latest_date": "2026-09-24"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2927,
+      "count": 2933,
       "latest_date": "2026-09-24"
     },
     {
@@ -47,14 +47,14 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 706,
+      "count": 707,
       "latest_date": "2026-09-24"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 495,
+      "count": 496,
       "latest_date": "2026-09-24"
     },
     {
@@ -97,6 +97,21 @@
     "ai_agents": [
       {
         "date": "2026-09-24",
+        "file": "20260924-everything-new-comin.md",
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#consumer-ai",
+          "#meta",
+          "#platform-strategy",
+          "#wearables"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      },
+      {
+        "date": "2026-09-24",
         "file": "20260924-meta-s-standoff-with.md",
         "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
         "importance": 7,
@@ -108,6 +123,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+        "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#consumer-ai",
+          "#market-impact",
+          "#finance",
+          "#disruption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215632"
       },
       {
         "date": "2026-09-24",
@@ -206,6 +236,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260923212526"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
+        "title": "'추석 장 봐줘' 한마디에 구매·결제까지…AI 쇼핑 현실로",
+        "importance": 6,
+        "tags": [
+          "#agentic-commerce",
+          "#ai-agent",
+          "#payments",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260923154625"
       },
       {
         "date": "2026-09-23",
@@ -17630,6 +17675,20 @@
         "url": "https://the-decoder.com/chatgpt-voice-gets-closer-to-her-with-email-calendar-and-slack-access/"
       },
       {
+        "date": "2026-09-24",
+        "file": "20260924-앤트로픽-유전자-편집-효소-시스템-발.md",
+        "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
+        "importance": 6,
+        "tags": [
+          "#ai-for-science",
+          "#biotech",
+          "#anthropic",
+          "#new-business"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215633"
+      },
+      {
         "date": "2026-09-23",
         "file": "20260923-새로운-최고-성능-가격-40-인하-앤.md",
         "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개",
@@ -32134,6 +32193,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
+        "title": "젠슨 황 '통제할 수 없는 AI는 출시하지 말아야'",
+        "importance": 6,
+        "tags": [
+          "#ai-safety",
+          "#governance",
+          "#nvidia",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260924074657"
       },
       {
         "date": "2026-09-23",
@@ -50107,6 +50180,21 @@
     "ai_industry": [
       {
         "date": "2026-09-24",
+        "file": "20260924-everything-new-comin.md",
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#consumer-ai",
+          "#meta",
+          "#platform-strategy",
+          "#wearables"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/"
+      },
+      {
+        "date": "2026-09-24",
         "file": "20260924-meta-s-standoff-with.md",
         "title": "Meta's standoff with Amazon over Muse could be a sign of things to come",
         "importance": 7,
@@ -50118,6 +50206,35 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+        "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#consumer-ai",
+          "#market-impact",
+          "#finance",
+          "#disruption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215632"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
+        "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까",
+        "importance": 6,
+        "tags": [
+          "#roi-case",
+          "#workforce",
+          "#enterprise-ai",
+          "#org-change"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260923085800017"
       },
       {
         "date": "2026-09-24",
@@ -50191,6 +50308,20 @@
       },
       {
         "date": "2026-09-24",
+        "file": "20260924-메르세데스-벤츠-웨이브와-제휴-도심-.md",
+        "title": "메르세데스-벤츠, 웨이브와 제휴…도심 자율주행 구현",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#physical-ai",
+          "#automotive"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260924000032"
+      },
+      {
+        "date": "2026-09-24",
         "file": "20260924-새만금개발청-현대차그룹-ai-데이터센.md",
         "title": "새만금개발청, 현대차그룹  'AI 데이터센터' 건축심의 본격 착수",
         "importance": 6,
@@ -50202,6 +50333,35 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260922000449"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-앤트로픽-유전자-편집-효소-시스템-발.md",
+        "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
+        "importance": 6,
+        "tags": [
+          "#ai-for-science",
+          "#biotech",
+          "#anthropic",
+          "#new-business"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215633"
+      },
+      {
+        "date": "2026-09-24",
+        "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
+        "title": "'추석 장 봐줘' 한마디에 구매·결제까지…AI 쇼핑 현실로",
+        "importance": 6,
+        "tags": [
+          "#agentic-commerce",
+          "#ai-agent",
+          "#payments",
+          "#korea",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260923154625"
       },
       {
         "date": "2026-09-23",
@@ -112149,6 +112309,21 @@
     "금융회사 AI": [
       {
         "date": "2026-09-24",
+        "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+        "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#consumer-ai",
+          "#market-impact",
+          "#finance",
+          "#disruption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215632"
+      },
+      {
+        "date": "2026-09-24",
         "file": "20260924-baselayer-raises-35-.md",
         "title": "Baselayer raises $35 million; rolls out agentic identtity suite",
         "importance": 6,
@@ -122541,6 +122716,20 @@
     "physical_ai": [
       {
         "date": "2026-09-24",
+        "file": "20260924-메르세데스-벤츠-웨이브와-제휴-도심-.md",
+        "title": "메르세데스-벤츠, 웨이브와 제휴…도심 자율주행 구현",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#physical-ai",
+          "#automotive"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260924000032"
+      },
+      {
+        "date": "2026-09-24",
         "file": "20260924-새만금개발청-현대차그룹-ai-데이터센.md",
         "title": "새만금개발청, 현대차그룹  'AI 데이터센터' 건축심의 본격 착수",
         "importance": 6,
@@ -130256,8 +130445,8 @@
     "ai_agents": [
       {
         "date": "2026-09-24",
-        "title": "에이전트, 플랫폼 접근권 다툼",
-        "summary": "소비자 에이전트 흥행이 기존 플랫폼과의 접근 협상 문제로 번졌다.",
+        "title": "소비자 에이전트, 시장을 흔들다",
+        "summary": "에이전트 흥행이 접근권 다툼과 중개 기업 재평가로 번졌다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -130273,13 +130462,28 @@
             "date": "2026-09-24",
             "file": "20260924-chatgpt-voice-gets-c.md",
             "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-everything-new-comin.md",
+            "title": "Everything new coming to Meta’s AI agent Muse"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+            "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
+            "title": "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로"
           }
         ]
       },
       {
         "date": "2026-09-24",
         "title": "은행, AI 비서를 채널로",
-        "summary": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들이기 시작했다.",
+        "summary": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들인다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -130300,8 +130504,8 @@
       },
       {
         "date": "2026-09-24",
-        "title": "도입 비용 계산이 선명해졌다",
-        "summary": "처리율·단가 인하 수치가 에이전트 도입의 손익을 구체화했다.",
+        "title": "도입 손익 계산이 선명해졌다",
+        "summary": "처리율·단가 수치가 쌓이며 ROI 재점검 요구도 커졌다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -130321,6 +130525,11 @@
           {
             "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
             "title": ""
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
+            "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
           }
         ]
       },
@@ -132944,8 +133153,8 @@
     "ai_industry": [
       {
         "date": "2026-09-24",
-        "title": "에이전트, 플랫폼 접근권 다툼",
-        "summary": "소비자 에이전트 흥행이 기존 플랫폼과의 접근 협상 문제로 번졌다.",
+        "title": "소비자 에이전트, 시장을 흔들다",
+        "summary": "에이전트 흥행이 접근권 다툼과 중개 기업 재평가로 번졌다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -132961,13 +133170,28 @@
             "date": "2026-09-24",
             "file": "20260924-chatgpt-voice-gets-c.md",
             "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-everything-new-comin.md",
+            "title": "Everything new coming to Meta’s AI agent Muse"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+            "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
+            "title": "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로"
           }
         ]
       },
       {
         "date": "2026-09-24",
-        "title": "도입 비용 계산이 선명해졌다",
-        "summary": "처리율·단가 인하 수치가 에이전트 도입의 손익을 구체화했다.",
+        "title": "도입 손익 계산이 선명해졌다",
+        "summary": "처리율·단가 수치가 쌓이며 ROI 재점검 요구도 커졌다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -132987,6 +133211,11 @@
           {
             "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
             "title": ""
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
+            "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
           }
         ]
       },
@@ -137629,7 +137858,7 @@
       {
         "date": "2026-09-24",
         "title": "은행, AI 비서를 채널로",
-        "summary": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들이기 시작했다.",
+        "summary": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들인다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -140426,8 +140655,8 @@
     "ai_policy": [
       {
         "date": "2026-09-24",
-        "title": "AI 안전, 정상 외교 의제로",
-        "summary": "국제 협정 공백을 안보리와 미·중 정상 채널이 대신 채우고 있다.",
+        "title": "AI 안전, 외교와 출시 기준으로",
+        "summary": "협정 공백 속 안전 논의가 정상 외교와 출시 통제로 모였다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -140438,6 +140667,11 @@
             "date": "2026-09-24",
             "file": "20260924-trump-xi-summit-puts.md",
             "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
+            "title": "젠슨 황 \"통제할 수 없는 AI는 출시하지 말아야\""
           }
         ]
       },
@@ -143420,8 +143654,8 @@
     "llm_models": [
       {
         "date": "2026-09-24",
-        "title": "도입 비용 계산이 선명해졌다",
-        "summary": "처리율·단가 인하 수치가 에이전트 도입의 손익을 구체화했다.",
+        "title": "도입 손익 계산이 선명해졌다",
+        "summary": "처리율·단가 수치가 쌓이며 ROI 재점검 요구도 커졌다.",
         "articles": [
           {
             "date": "2026-09-24",
@@ -143441,6 +143675,11 @@
           {
             "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
             "title": ""
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
+            "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
           }
         ]
       },

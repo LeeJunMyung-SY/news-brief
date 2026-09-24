@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-23T23:17:12+00:00",
+  "generated_at": "2026-09-24T03:13:03+00:00",
   "latest_date": "2026-09-24",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1005
+      "count": 1006
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1202
+      "count": 1205
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1244
+      "count": 1245
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2927
+      "count": 2933
     },
     {
       "key": "physical_ai_robotics",
@@ -42,13 +42,13 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 706
+      "count": 707
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 495
+      "count": 496
     }
   ],
   "daily": [
@@ -60,6 +60,12 @@
           "file": "digest_0817.md",
           "selected": 14,
           "new": 139
+        },
+        {
+          "time": "12:12",
+          "file": "digest_1212.md",
+          "selected": 7,
+          "new": 86
         }
       ]
     },
@@ -2355,7 +2361,7 @@
       "file": "2026-W39.md",
       "week_start": "2026-09-21",
       "week_end": "2026-09-27",
-      "total_selected_this_week": 412
+      "total_selected_this_week": 425
     },
     {
       "week": "2026-W38",

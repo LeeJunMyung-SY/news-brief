@@ -1,12 +1,12 @@
 {
   "date": "2026-09-24",
-  "updated_at": "2026-09-24T08:17:05.341735+09:00",
-  "run_id": "run_20260924_081705",
-  "summary_ko": "소비자 에이전트가 판을 키우자 접근권과 금융 신뢰 계층이 쟁점이 됐다.",
+  "updated_at": "2026-09-24T12:12:55.981907+09:00",
+  "run_id": "run_20260924_121255",
+  "summary_ko": "소비자 에이전트 흥행이 시장 가치평가와 금융 채널을 흔들었다.",
   "issues": [
     {
-      "title": "에이전트, 플랫폼 접근권 다툼",
-      "summary_ko": "소비자 에이전트 흥행이 기존 플랫폼과의 접근 협상 문제로 번졌다.",
+      "title": "소비자 에이전트, 시장을 흔들다",
+      "summary_ko": "에이전트 흥행이 접근권 다툼과 중개 기업 재평가로 번졌다.",
       "topics": [
         "ai_agents",
         "ai_industry"
@@ -26,12 +26,27 @@
           "date": "2026-09-24",
           "file": "20260924-chatgpt-voice-gets-c.md",
           "title": "ChatGPT Voice gets closer to \"Her\" with email, calendar, and Slack access"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-everything-new-comin.md",
+          "title": "Everything new coming to Meta’s AI agent Muse"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+          "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
+          "title": "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로"
         }
       ]
     },
     {
       "title": "은행, AI 비서를 채널로",
-      "summary_ko": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들이기 시작했다.",
+      "summary_ko": "금융이 외부 에이전트를 고객 창구이자 검증 인프라로 받아들인다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -55,8 +70,8 @@
       ]
     },
     {
-      "title": "AI 안전, 정상 외교 의제로",
-      "summary_ko": "국제 협정 공백을 안보리와 미·중 정상 채널이 대신 채우고 있다.",
+      "title": "AI 안전, 외교와 출시 기준으로",
+      "summary_ko": "협정 공백 속 안전 논의가 정상 외교와 출시 통제로 모였다.",
       "topics": [
         "ai_policy"
       ],
@@ -70,12 +85,17 @@
           "date": "2026-09-24",
           "file": "20260924-trump-xi-summit-puts.md",
           "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
+          "title": "젠슨 황 \"통제할 수 없는 AI는 출시하지 말아야\""
         }
       ]
     },
     {
-      "title": "도입 비용 계산이 선명해졌다",
-      "summary_ko": "처리율·단가 인하 수치가 에이전트 도입의 손익을 구체화했다.",
+      "title": "도입 손익 계산이 선명해졌다",
+      "summary_ko": "처리율·단가 수치가 쌓이며 ROI 재점검 요구도 커졌다.",
       "topics": [
         "ai_industry",
         "llm_models",
@@ -100,6 +120,11 @@
         {
           "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
           "title": ""
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
+          "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
         }
       ]
     }

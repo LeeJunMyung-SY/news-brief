@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-24T08:17:05.341735+09:00",
-  "run_id": "run_20260924_081705",
+  "updated_at": "2026-09-24T12:12:55.981907+09:00",
+  "run_id": "run_20260924_121255",
   "summary_ko": "규제가 외교 의제로 오르는 사이, 모델은 싸지고 에이전트는 금융·일상에 들어왔다.",
   "issues": [
     {
       "title": "AI 안전, 안보·정상 의제로",
-      "body_ko": "미국 이탈로 공조가 흔들리자 외부 검증과 안보리·정상회담이 대안 채널로 떴다.",
+      "body_ko": "공조 공백을 외부 검증·안보리·정상회담과 출시 통제 기준이 메우고 있다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -66,12 +66,17 @@
           "date": "2026-09-24",
           "file": "20260924-trump-xi-summit-puts.md",
           "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
+          "title": "젠슨 황 \"통제할 수 없는 AI는 출시하지 말아야\""
         }
       ]
     },
     {
       "title": "모델 단가 급락, 계산식이 바뀐다",
-      "body_ko": "최상위에 이어 음성 모델까지 가격이 급락해 도입 비용과 계약 조건 재검토 국면이다.",
+      "body_ko": "최상위에 이어 음성 모델까지 가격이 급락해 도입 비용 재검토 국면이다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -111,7 +116,7 @@
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "결제·KYC에 이어 은행 채널과 신원 인프라까지 에이전트 기준으로 재편되고 있다.",
+      "body_ko": "결제·KYC에 이어 은행 채널과 신원 인프라가 에이전트 기준으로 재편된다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -177,7 +182,7 @@
     },
     {
       "title": "인프라, 공급 자격과 집행력",
-      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 투자는 고객 집중과 집행 속도로 검증받는다.",
+      "body_ko": "규격 승인이 수주 자격이 됐고, 대형 투자는 고객 집중과 집행 속도로 검증받는다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -242,11 +247,10 @@
     },
     {
       "title": "에이전트, 조직과 일상으로",
-      "body_ko": "기업은 전사 계약·조직 개편으로, 소비자는 개인 에이전트로 AI를 상시 인프라로 들였다.",
+      "body_ko": "기업은 전사 계약으로, 소비자는 개인 에이전트로 AI를 상시 인프라로 들였다.",
       "topics": [
         "ai_industry",
-        "ai_agents",
-        "ai_workforce_training"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -293,6 +297,21 @@
           "date": "2026-09-24",
           "file": "20260924-ringg-s-ai-agents-re.md",
           "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-everything-new-comin.md",
+          "title": "Everything new coming to Meta’s AI agent Muse"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
+          "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포"
+        },
+        {
+          "date": "2026-09-24",
+          "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
+          "title": "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로"
         }
       ]
     }
