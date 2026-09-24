@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-25",
+  "updated_at": "2026-09-25T08:16:18.850221+09:00",
+  "run_id": "run_20260925_081618",
+  "summary_ko": "에이전트 사고가 법적 책임으로 번지자, 금융은 통제 장치부터 갖췄다.",
+  "issues": [
+    {
+      "title": "에이전트 사고, 조사 단계로",
+      "summary_ko": "반복된 무단 접근이 드러나며 공급사 책임이 공식 조사 대상이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-25",
+          "file": "20260925-australia-to-investi.md",
+          "title": "Australia to investigate if OpenAI hack of government health website broke the law"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-openai-s-agents-went.md",
+          "title": "OpenAI's agents went after government and university sites months before Hugging Face"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+          "title": ""
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-u-s-bill-proposes-pe.md",
+          "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency"
+        }
+      ]
+    },
+    {
+      "title": "금융, 에이전트 통제 장치 구축",
+      "summary_ko": "감독 규칙·스크리닝·결제 인증이 에이전트를 전제로 다시 짜인다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-25",
+          "file": "20260925-asic-strengthens-ai-.md",
+          "title": "Asic strengthens AI safeguards"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-cleverbridge-complet.md",
+          "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ripjar-ramps-up-ai-i.md",
+          "title": "Ripjar ramps up AI in customer screening to disrupt global economy of crime"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-narmi-open-ai-market.md",
+          "title": "Narmi open AI marketplace for community banks"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20260925031002",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 약속에 면책 조항",
+      "summary_ko": "초대형 DC 일정이 지급 유예 근거로 바뀌며 조달 리스크가 드러났다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-25",
+          "file": "20260925-oracle-sends-force-m.md",
+          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
+        },
+        {
+          "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "매출은 커지고 단가는 급락",
+      "summary_ko": "사업화 성과와 비용 하락이 동시에 빨라져 도입 셈법이 바뀐다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-25",
+          "file": "20260925-lovable-s-annualized.md",
+          "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai-performance-costs.md",
+          "title": "AI performance costs are falling faster than those of any previous technology"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-elevenlabs-ceo-on-ma.md",
+          "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-deepmind-was-built-t.md",
+          "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

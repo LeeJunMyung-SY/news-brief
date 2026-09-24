@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-24T16:09:05.773900+09:00",
-  "run_id": "run_20260924_160905",
-  "summary_ko": "규제가 외교·사고 대응으로 번지는 사이, AI는 싸지고 금융·일상에 들어왔다.",
+  "updated_at": "2026-09-25T08:16:18.850221+09:00",
+  "run_id": "run_20260925_081618",
+  "summary_ko": "안전은 사고·책임 단계로 넘어갔고, AI는 싸지며 금융·일상에 깊이 들어왔다.",
   "issues": [
     {
-      "title": "AI 안전, 안보·사고 대응으로",
-      "body_ko": "공조 공백을 외부 검증·안보리 논의가 메우던 중 실제 에이전트 사고가 터졌다.",
+      "title": "AI 안전, 사고·책임 단계로",
+      "body_ko": "외교 논의가 공전하는 사이 실제 에이전트 사고가 국가 조사로 이어졌다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -76,12 +76,22 @@
           "date": "2026-09-24",
           "file": "20260924-오픈ai-에이전트-정부-망-까지-뚫었.md",
           "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-australia-to-investi.md",
+          "title": "Australia to investigate if OpenAI hack of government health website broke the law"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-openai-s-agents-went.md",
+          "title": "OpenAI's agents went after government and university sites months before Hugging Face"
         }
       ]
     },
     {
       "title": "AI 가격, 단가에서 계약 구조로",
-      "body_ko": "모델 단가 급락이 업무용 AI 할인·사용량 과금으로 번져 도입 비용 재산정 국면이다.",
+      "body_ko": "구조적 단가 하락이 할인·사용량 과금으로 번져 계약 주기를 짧게 만든다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -121,12 +131,22 @@
           "date": "2026-09-24",
           "file": "20260924-ms-코파일럿-슈퍼-앱-전환-맞춰-최.md",
           "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai-performance-costs.md",
+          "title": "AI performance costs are falling faster than those of any previous technology"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-deepmind-was-built-t.md",
+          "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
         }
       ]
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "결제·KYC에 이어 은행 채널과 신원 인프라가 에이전트 기준으로 재편된다.",
+      "body_ko": "결제·KYC에 이어 감독 규칙과 심사 도구까지 에이전트 기준으로 재편된다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -187,12 +207,32 @@
           "date": "2026-09-24",
           "file": "20260924-tink-founders-return.md",
           "title": "Tink founders return with agentic compliance startup"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-asic-strengthens-ai-.md",
+          "title": "Asic strengthens AI safeguards"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-cleverbridge-complet.md",
+          "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ripjar-ramps-up-ai-i.md",
+          "title": "Ripjar ramps up AI in customer screening to disrupt global economy of crime"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-narmi-open-ai-market.md",
+          "title": "Narmi open AI marketplace for community banks"
         }
       ]
     },
     {
       "title": "인프라, 공급 자격과 집행력",
-      "body_ko": "규격 승인이 수주 자격이 됐고, 대형 투자는 고객 집중·지정학과 집행 속도로 검증받는다.",
+      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 DC 약속은 면책·지연으로 검증받는다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -257,12 +297,17 @@
           "date": "2026-09-24",
           "file": "20260924-china-s-ai-chip-blit.md",
           "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-oracle-sends-force-m.md",
+          "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
         }
       ]
     },
     {
       "title": "에이전트, 조직과 일상으로",
-      "body_ko": "기업은 전사 계약·인력 재편으로, 소비자는 개인 에이전트로 AI를 상시 인프라로 들였다.",
+      "body_ko": "전사 계약·인력 재편과 개인 에이전트 확산으로 AI가 상시 업무 인프라가 됐다.",
       "topics": [
         "ai_industry",
         "ai_agents",
@@ -333,6 +378,16 @@
           "date": "2026-09-24",
           "file": "20260924-감원하던-아마존의-변심-ai-인력-부.md",
           "title": "감원하던 아마존의 변심…AI 인력 부족에 전직원 복귀 러브콜"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-lovable-s-annualized.md",
+          "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ando-wants-to-take-o.md",
+          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together"
         }
       ]
     }
