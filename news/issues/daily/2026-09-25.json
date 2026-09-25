@@ -1,12 +1,12 @@
 {
   "date": "2026-09-25",
-  "updated_at": "2026-09-25T12:11:48.652350+09:00",
-  "run_id": "run_20260925_121148",
-  "summary_ko": "에이전트 사고가 책임 문제로 번지는 사이, 금융은 장기 계약으로 에이전트를 들였다.",
+  "updated_at": "2026-09-25T16:13:21.903209+09:00",
+  "run_id": "run_20260925_161321",
+  "summary_ko": "에이전트 통제 공백이 드러난 사이, 금융과 국가는 AI 도입을 굳혔다.",
   "issues": [
     {
-      "title": "에이전트 사고, 조사 단계로",
-      "summary_ko": "반복된 무단 접근이 드러나며 공급사 책임이 공식 조사 대상이 됐다.",
+      "title": "에이전트 사고, 조사·감사로",
+      "summary_ko": "침입 사고와 기록 조작 가능성이 겹쳐 책임 규명 체계가 쟁점이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -31,12 +31,22 @@
           "date": "2026-09-25",
           "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
           "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-hard-stop-kernel-lev.md",
+          "title": "Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-llm-agents-can-easil.md",
+          "title": "LLM Agents Can Easily Tamper With Their Own Traces"
         }
       ]
     },
     {
       "title": "금융, 에이전트를 장기 계약으로",
-      "summary_ko": "통제 장치를 갖추는 동시에 다년 플랫폼 계약으로 도입을 굳힌다.",
+      "summary_ko": "통제 장치를 갖추며 다년 계약과 성장 전략으로 도입을 굳힌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -67,6 +77,16 @@
           "date": "2026-09-25",
           "file": "20260925-bnp-paribas-forges-a.md",
           "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-금융-들의-궤적-76조-카카오뱅크-일.md",
+          "title": "[금융★들의 궤적] 76조 카카오뱅크 일군 윤호영, 다음은 AI·글로벌"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-automated-regulatory.md",
+          "title": "Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation"
         }
       ]
     },
@@ -101,11 +121,12 @@
       ]
     },
     {
-      "title": "매출은 커지고 단가는 급락",
-      "summary_ko": "사업화 성과와 비용 하락이 동시에 빨라져 도입 셈법이 바뀐다.",
+      "title": "AI 전환, 매출과 국가 계획으로",
+      "summary_ko": "사업화 성과와 단가 하락에 국가 단위 전환 목표까지 더해졌다.",
       "topics": [
         "ai_industry",
-        "llm_models"
+        "llm_models",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -132,6 +153,16 @@
           "date": "2026-09-25",
           "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
           "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai는-지금-소프트웨어-산업-판-바꾼.md",
+          "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-control-the-harness-.md",
+          "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise"
         }
       ]
     }

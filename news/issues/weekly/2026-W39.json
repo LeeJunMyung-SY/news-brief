@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-25T12:11:48.652350+09:00",
-  "run_id": "run_20260925_121148",
-  "summary_ko": "안전은 사고·책임 단계로 넘어갔고, AI는 싸지는 한편 인프라는 무거워졌다.",
+  "updated_at": "2026-09-25T16:13:21.903209+09:00",
+  "run_id": "run_20260925_161321",
+  "summary_ko": "안전은 사고·감사 단계로 넘어갔고, AI는 싸지는 한편 인프라는 무거워졌다.",
   "issues": [
     {
       "title": "AI 안전, 사고·책임 단계로",
-      "body_ko": "외교 논의가 갈라지는 사이 실제 에이전트 사고가 국가 조사로 이어졌다.",
+      "body_ko": "실제 에이전트 사고가 국가 조사로 번지고, 로그 무결성까지 검증 대상이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -91,6 +91,16 @@
           "date": "2026-09-25",
           "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
           "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-hard-stop-kernel-lev.md",
+          "title": "Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-llm-agents-can-easil.md",
+          "title": "LLM Agents Can Easily Tamper With Their Own Traces"
         }
       ]
     },
@@ -151,7 +161,7 @@
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "결제·KYC·감독 규칙이 에이전트 기준으로 재편되고 다년 계약까지 나왔다.",
+      "body_ko": "결제·KYC·감독 규칙이 에이전트 기준으로 재편되고 AI가 성장축이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -237,6 +247,16 @@
           "date": "2026-09-25",
           "file": "20260925-bnp-paribas-forges-a.md",
           "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-금융-들의-궤적-76조-카카오뱅크-일.md",
+          "title": "[금융★들의 궤적] 76조 카카오뱅크 일군 윤호영, 다음은 AI·글로벌"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-automated-regulatory.md",
+          "title": "Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation"
         }
       ]
     },
@@ -331,8 +351,8 @@
       ]
     },
     {
-      "title": "에이전트, 조직과 일상으로",
-      "body_ko": "전사 계약·인력 재편과 개인 에이전트 확산으로 AI가 상시 업무 인프라가 됐다.",
+      "title": "에이전트, 조직과 국가 계획으로",
+      "body_ko": "전사 계약·AI 팀원 배치에 국가 전환 목표까지 더해져 에이전트가 업무 인프라가 됐다.",
       "topics": [
         "ai_industry",
         "ai_agents",
@@ -418,6 +438,21 @@
           "date": "2026-09-25",
           "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
           "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai는-지금-소프트웨어-산업-판-바꾼.md",
+          "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-control-the-harness-.md",
+          "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-working-with-agentic.md",
+          "title": "Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work"
         }
       ]
     }
