@@ -1,22 +1,17 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-25T16:13:21.903209+09:00",
-  "run_id": "run_20260925_161321",
-  "summary_ko": "안전은 사고·감사 단계로 넘어갔고, AI는 싸지는 한편 인프라는 무거워졌다.",
+  "updated_at": "2026-09-26T08:15:27.494551+09:00",
+  "run_id": "run_20260926_081527",
+  "summary_ko": "안전은 사고와 검증 주도권 다툼으로, 비용은 과금 구조와 초대형 약정으로 재편됐다.",
   "issues": [
     {
-      "title": "AI 안전, 사고·책임 단계로",
-      "body_ko": "실제 에이전트 사고가 국가 조사로 번지고, 로그 무결성까지 검증 대상이 됐다.",
+      "title": "AI 안전, 사고·검증 주도권으로",
+      "body_ko": "에이전트 사고가 업계 전반으로 번지며 검증 창구를 누가 쥘지가 쟁점이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-09-21",
-          "file": "20260921-trump-announces-ai-f.md",
-          "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth"
-        },
         {
           "date": "2026-09-22",
           "file": "20260922-베선트-ai-모델이-해킹-사고-내면-.md",
@@ -28,19 +23,9 @@
           "title": "AI 안전, 선언보단 검증으로…국제표준도 달라진다"
         },
         {
-          "date": "2026-09-22",
-          "file": "20260922-ai-학습데이터-통합관리-근거-마련-.md",
-          "title": "'AI 학습데이터 통합관리' 근거 마련…과방위, AI기본법 개정안 통과"
-        },
-        {
           "date": "2026-09-23",
           "file": "20260923-트럼프-국제-ai-규제협정-거부-초지.md",
           "title": "트럼프, 국제 AI 규제협정 거부…\"초지능 개발 장려할 것\""
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-캐나다-bc주-오픈ai-고소-총격-사.md",
-          "title": "캐나다 BC주, 오픈AI 고소...\"총격 사건 전 위험 신호 무시\""
         },
         {
           "date": "2026-09-23",
@@ -53,29 +38,14 @@
           "title": "알트먼·아모데이·딥시크 총출동…유엔 안보리서 'AI 안전' 논의"
         },
         {
-          "date": "2026-09-23",
-          "file": "20260923-개인정보위-민관-정책협의회-개최-ai.md",
-          "title": "개인정보위, 민관 정책협의회 개최…AI 에이전트 개인정보 보호 방안 논의"
-        },
-        {
           "date": "2026-09-24",
-          "file": "20260924-openai-and-anthropic.md",
-          "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it"
+          "file": "20260924-오픈ai-에이전트-정부-망-까지-뚫었.md",
+          "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인"
         },
         {
           "date": "2026-09-24",
           "file": "20260924-trump-xi-summit-puts.md",
           "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-젠슨-황-통제할-수-없는-ai는-출시.md",
-          "title": "젠슨 황 \"통제할 수 없는 AI는 출시하지 말아야\""
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-오픈ai-에이전트-정부-망-까지-뚫었.md",
-          "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인"
         },
         {
           "date": "2026-09-25",
@@ -89,34 +59,38 @@
         },
         {
           "date": "2026-09-25",
-          "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
-          "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
-        },
-        {
-          "date": "2026-09-25",
-          "file": "20260925-hard-stop-kernel-lev.md",
-          "title": "Hard Stop: Kernel-Level Preemption and Containment for Rogue Agentic Execution"
-        },
-        {
-          "date": "2026-09-25",
           "file": "20260925-llm-agents-can-easil.md",
           "title": "LLM Agents Can Easily Tamper With Their Own Traces"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-one-company-is-at-th.md",
+          "title": "One company is at the center of a wave of rogue AI attacks"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-unsecured-openai-age.md",
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-백악관-오픈ai-앤트로픽에-신모델-영.md",
+          "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+          "title": ""
         }
       ]
     },
     {
-      "title": "AI 가격, 단가에서 계약 구조로",
-      "body_ko": "구조적 단가 하락이 할인·사용량 과금으로 번져 계약 주기를 짧게 만든다.",
+      "title": "AI 가격, 단가에서 과금 구조로",
+      "body_ko": "단가 하락이 할인·사용량 과금·거부 요청 과금으로 번져 예산 관리 방식이 바뀐다.",
       "topics": [
         "llm_models",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-09-22",
-          "file": "20260922-알리바바-10조-파라미터-ai-만든다.md",
-          "title": "알리바바, 10조 파라미터 AI 만든다…자체 칩·20GW 데이터센터도 확장"
-        },
         {
           "date": "2026-09-23",
           "file": "20260923-오픈ai-gpt-6-솔-루나-공개-필.md",
@@ -126,16 +100,6 @@
           "date": "2026-09-23",
           "file": "20260923-새로운-최고-성능-가격-40-인하-앤.md",
           "title": "새로운 최고 성능·가격 40% 인하…앤트로픽, '클로드 오퍼스 5.5' 공개"
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-네이버클라우드-모델-크기-넘어-보안-.md",
-          "title": "네이버클라우드 “모델 크기 넘어 ‘보안 역량’ 집중…프런티어 도달할 것”"
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-ai는-지금-속도조절론-속-쏟아진-신.md",
-          "title": "[AI는 지금] 속도조절론 속 쏟아진 신모델…AI 3사 승부처는"
         },
         {
           "date": "2026-09-24",
@@ -156,32 +120,36 @@
           "date": "2026-09-25",
           "file": "20260925-deepmind-was-built-t.md",
           "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-microsoft-gives-copi.md",
+          "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-오픈ai-gpt-6-프롬프트-캐싱-강.md",
+          "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-앤트로픽-모델-증류-방어선-구축-거부.md",
+          "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
         }
       ]
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "결제·KYC·감독 규칙이 에이전트 기준으로 재편되고 AI가 성장축이 됐다.",
+      "body_ko": "결제·KYC·사기조사가 에이전트 기준으로 재편되고 고객 채널도 대화형으로 바뀐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "physical_ai"
+        "ai_agents"
       ],
       "articles": [
         {
           "date": "2026-09-21",
           "file": "20260921-ant-international-la.md",
           "title": "Ant International launches financial AI stack"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-이억원-금융위원장-지역-제조현장-피지.md",
-          "title": "이억원 금융위원장 \"지역 제조현장, 피지컬 AI 거점되도록 지원\""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-kastle-raises-24m-to.md",
-          "title": "Kastle raises $24m to build AI agents for lending"
         },
         {
           "date": "2026-09-23",
@@ -204,11 +172,6 @@
           "title": "신한증권, AI서비스 2종 출시…\"관심종목·미국공시 브리핑\""
         },
         {
-          "date": "2026-09-23",
-          "file": "20260923-와디즈-ai로-펀딩-프로젝트-대기-시.md",
-          "title": "와디즈, AI로 펀딩 프로젝트 대기 시간 확 줄였다"
-        },
-        {
           "date": "2026-09-24",
           "file": "20260924-paywhere-launches-ai.md",
           "title": "Paywhere launches AI banking channel"
@@ -217,11 +180,6 @@
           "date": "2026-09-24",
           "file": "20260924-baselayer-raises-35-.md",
           "title": "Baselayer raises $35 million; rolls out agentic identtity suite"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-tink-founders-return.md",
-          "title": "Tink founders return with agentic compliance startup"
         },
         {
           "date": "2026-09-25",
@@ -235,16 +193,6 @@
         },
         {
           "date": "2026-09-25",
-          "file": "20260925-ripjar-ramps-up-ai-i.md",
-          "title": "Ripjar ramps up AI in customer screening to disrupt global economy of crime"
-        },
-        {
-          "date": "2026-09-25",
-          "file": "20260925-narmi-open-ai-market.md",
-          "title": "Narmi open AI marketplace for community banks"
-        },
-        {
-          "date": "2026-09-25",
           "file": "20260925-bnp-paribas-forges-a.md",
           "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
         },
@@ -254,15 +202,20 @@
           "title": "[금융★들의 궤적] 76조 카카오뱅크 일군 윤호영, 다음은 AI·글로벌"
         },
         {
-          "date": "2026-09-25",
-          "file": "20260925-automated-regulatory.md",
-          "title": "Automated Regulatory Compliance Question Answering in Financial Services with Domain-Adapted Retrieval-Augmented Generation"
+          "date": "2026-09-26",
+          "file": "20260926-natwest-unveils-ai-p.md",
+          "title": "NatWest unveils AI-powered audio-visual spending insights tool"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-feedzai-tackles-bank.md",
+          "title": "Feedzai tackles banks’ agentic AI integration gap with Farol agent"
         }
       ]
     },
     {
-      "title": "인프라, 집행력과 원가 부담",
-      "body_ko": "면책 통지·고금리 차입·칩값 인상이 겹쳐 인프라 약속의 실행력이 검증받는다.",
+      "title": "인프라, 초대형 약정과 부채",
+      "body_ko": "수천억 달러 약정을 부채성 자금이 받치며 집행력과 원가 부담이 동시에 커졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -280,23 +233,8 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-lg전자-lg엔솔-엔비디아-ai-팩토.md",
-          "title": "LG전자·LG엔솔, 엔비디아 AI 팩토리 인프라 ‘DSX 레디’ 합류"
-        },
-        {
-          "date": "2026-09-22",
           "file": "20260922-california-tightens-.md",
           "title": "California tightens rules on AI data center energy and water use"
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-ai프리즘-한국-아태-ai-수도로-블.md",
-          "title": "[AI프리즘] \"한국, 아태 AI 수도로\"…블랙록 20조 투자 1년째 '답보'"
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-nscale-s-ipo-will-te.md",
-          "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again"
         },
         {
           "date": "2026-09-23",
@@ -304,29 +242,9 @@
           "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
         },
         {
-          "date": "2026-09-23",
-          "file": "20260923-우리금융-포항-ai-데이터센터에-생산.md",
-          "title": "우리금융 \"포항 AI 데이터센터에 생산적 금융 공급\""
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-lg-cns-인니-공략-방정식-단독법.md",
-          "title": "LG CNS 인니 공략 방정식, '단독법인' 넘어 '합작법인' 키운다"
-        },
-        {
           "date": "2026-09-24",
           "file": "20260924-nvidia-backed-nscale.md",
           "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-새만금개발청-현대차그룹-ai-데이터센.md",
-          "title": "새만금개발청, 현대차그룹  'AI 데이터센터' 건축심의 본격 착수"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-china-s-ai-chip-blit.md",
-          "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'"
         },
         {
           "date": "2026-09-25",
@@ -340,22 +258,31 @@
         },
         {
           "date": "2026-09-25",
-          "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
-          "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모"
-        },
-        {
-          "date": "2026-09-25",
           "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
           "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-anthropic-signs-11-6.md",
+          "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
+          "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
         }
       ]
     },
     {
-      "title": "에이전트, 조직과 국가 계획으로",
-      "body_ko": "전사 계약·AI 팀원 배치에 국가 전환 목표까지 더해져 에이전트가 업무 인프라가 됐다.",
+      "title": "에이전트, 조직과 플랫폼 인프라로",
+      "body_ko": "전사 계약과 소비자 에이전트 흥행이 겹쳐 에이전트가 업무·유통의 기본 계층이 됐다.",
       "topics": [
-        "ai_industry",
         "ai_agents",
+        "ai_industry",
         "ai_workforce_training"
       ],
       "articles": [
@@ -366,28 +293,8 @@
         },
         {
           "date": "2026-09-22",
-          "file": "20260922-더존비즈온-ai-관리-전담-조직-신설.md",
-          "title": "더존비즈온, AI 관리 전담 조직 신설…개발부터 감사까지 통합"
-        },
-        {
-          "date": "2026-09-22",
           "file": "20260922-ms-기업-ai-전환-지침서-프런티어.md",
           "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\""
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-카카오-lg-cns와-협력으로-데이터.md",
-          "title": "카카오, LG CNS와 협력으로 ‘데이터센터 냉방설비 제어’에 에이전트 적용"
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-삼성전자-sk하이닉스-인사-패러다임-.md",
-          "title": "삼성전자·SK하이닉스, 인사 패러다임 전환…'정기·상시' 투트랙 가동"
-        },
-        {
-          "date": "2026-09-23",
-          "file": "20260923-ai-is-killing-the-gr.md",
-          "title": "AI is killing the grunt work, forcing companies to rethink entry-level hiring"
         },
         {
           "date": "2026-09-24",
@@ -396,28 +303,8 @@
         },
         {
           "date": "2026-09-24",
-          "file": "20260924-ema-raises-77m-as-ai.md",
-          "title": "Ema raises $77M as AI starts eating into enterprise software and services"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-ringg-s-ai-agents-re.md",
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-everything-new-comin.md",
-          "title": "Everything new coming to Meta’s AI agent Muse"
-        },
-        {
-          "date": "2026-09-24",
           "file": "20260924-메타-뮤즈-돌풍에-증시-흔들-금융-구.md",
           "title": "메타 '뮤즈' 돌풍에 증시 흔들…금융·구독주 덮친 에이전트 공포"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-추석-장-봐줘-한마디에-구매-결제까지.md",
-          "title": "\"추석 장 봐줘\" 한마디에 구매·결제까지…AI 쇼핑 현실로"
         },
         {
           "date": "2026-09-24",
@@ -431,16 +318,6 @@
         },
         {
           "date": "2026-09-25",
-          "file": "20260925-ando-wants-to-take-o.md",
-          "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together"
-        },
-        {
-          "date": "2026-09-25",
-          "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
-          "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
-        },
-        {
-          "date": "2026-09-25",
           "file": "20260925-ai는-지금-소프트웨어-산업-판-바꾼.md",
           "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환"
         },
@@ -450,9 +327,17 @@
           "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise"
         },
         {
-          "date": "2026-09-25",
-          "file": "20260925-working-with-agentic.md",
-          "title": "Working with Agentic `Teammates': When a New Organizational Actor Collides with the Human Ecosystem of Work"
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-깃허브-폐쇄망-ai-코딩-지원-확대-.md",
+          "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다"
         }
       ]
     }

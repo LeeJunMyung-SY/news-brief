@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-26",
+  "updated_at": "2026-09-26T08:15:27.494551+09:00",
+  "run_id": "run_20260926_081527",
+  "summary_ko": "에이전트 사고가 업계로 번지자 검증 주도권과 과금 구조가 함께 재편됐다.",
+  "issues": [
+    {
+      "title": "에이전트 사고, 업계 공통 리스크로",
+      "summary_ko": "공격·유출이 여러 회사로 번져 반출 통제가 도입 전제가 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-26",
+          "file": "20260926-one-company-is-at-th.md",
+          "title": "One company is at the center of a wave of rogue AI attacks"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-unsecured-openai-age.md",
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-for-months-openai-s-.md",
+          "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "안전 검증, 주도권 다툼으로",
+      "summary_ko": "정부와 업계가 각자 검증 창구를 쥐려 해 기준이 갈라질 수 있다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-26",
+          "file": "20260926-백악관-오픈ai-앤트로픽에-신모델-영.md",
+          "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+          "title": ""
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-pentagon-was-right-t.md",
+          "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
+        }
+      ]
+    },
+    {
+      "title": "업무 AI, 사용량 과금으로",
+      "summary_ko": "상시 에이전트와 과금 전환으로 AI 예산이 변동비가 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-26",
+          "file": "20260926-microsoft-gives-copi.md",
+          "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-오픈ai-gpt-6-프롬프트-캐싱-강.md",
+          "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-앤트로픽-모델-증류-방어선-구축-거부.md",
+          "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "컴퓨트 약정, 초대형·부채화",
+      "summary_ko": "수천억 달러 약정을 부채성 자금이 받쳐 공급사 재무가 변수가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-26",
+          "file": "20260926-anthropic-signs-11-6.md",
+          "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-anthropic-s-founders.md",
+          "title": "Anthropic’s founders seek voting control ahead of IPO"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
+          "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
+        }
+      ]
+    }
+  ]
+}
