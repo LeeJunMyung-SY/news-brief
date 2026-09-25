@@ -1,8 +1,8 @@
 {
   "date": "2026-09-25",
-  "updated_at": "2026-09-25T08:16:18.850221+09:00",
-  "run_id": "run_20260925_081618",
-  "summary_ko": "에이전트 사고가 법적 책임으로 번지자, 금융은 통제 장치부터 갖췄다.",
+  "updated_at": "2026-09-25T12:11:48.652350+09:00",
+  "run_id": "run_20260925_121148",
+  "summary_ko": "에이전트 사고가 책임 문제로 번지는 사이, 금융은 장기 계약으로 에이전트를 들였다.",
   "issues": [
     {
       "title": "에이전트 사고, 조사 단계로",
@@ -23,23 +23,20 @@
           "title": "OpenAI's agents went after government and university sites months before Hugging Face"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-          "title": ""
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-          "title": ""
-        },
-        {
           "date": "2026-09-25",
           "file": "20260925-u-s-bill-proposes-pe.md",
           "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
+          "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
         }
       ]
     },
     {
-      "title": "금융, 에이전트 통제 장치 구축",
-      "summary_ko": "감독 규칙·스크리닝·결제 인증이 에이전트를 전제로 다시 짜인다.",
+      "title": "금융, 에이전트를 장기 계약으로",
+      "summary_ko": "통제 장치를 갖추는 동시에 다년 플랫폼 계약으로 도입을 굳힌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -67,14 +64,15 @@
           "title": "Narmi open AI marketplace for community banks"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20260925031002",
-          "title": ""
+          "date": "2026-09-25",
+          "file": "20260925-bnp-paribas-forges-a.md",
+          "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
         }
       ]
     },
     {
-      "title": "인프라 약속에 면책 조항",
-      "summary_ko": "초대형 DC 일정이 지급 유예 근거로 바뀌며 조달 리스크가 드러났다.",
+      "title": "인프라, 부채와 원가 압박",
+      "summary_ko": "고금리 차입·면책 통지·칩값 인상이 겹쳐 인프라 셈법이 무거워졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -86,8 +84,19 @@
           "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
         },
         {
-          "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/",
-          "title": ""
+          "date": "2026-09-25",
+          "file": "20260925-소프트뱅크-오픈ai-투자에-역대-최대.md",
+          "title": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
+          "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
+          "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권"
         }
       ]
     },
@@ -120,8 +129,9 @@
           "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
-          "title": ""
+          "date": "2026-09-25",
+          "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+          "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
         }
       ]
     }

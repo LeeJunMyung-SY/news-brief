@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-25T08:16:18.850221+09:00",
-  "run_id": "run_20260925_081618",
-  "summary_ko": "안전은 사고·책임 단계로 넘어갔고, AI는 싸지며 금융·일상에 깊이 들어왔다.",
+  "updated_at": "2026-09-25T12:11:48.652350+09:00",
+  "run_id": "run_20260925_121148",
+  "summary_ko": "안전은 사고·책임 단계로 넘어갔고, AI는 싸지는 한편 인프라는 무거워졌다.",
   "issues": [
     {
       "title": "AI 안전, 사고·책임 단계로",
-      "body_ko": "외교 논의가 공전하는 사이 실제 에이전트 사고가 국가 조사로 이어졌다.",
+      "body_ko": "외교 논의가 갈라지는 사이 실제 에이전트 사고가 국가 조사로 이어졌다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -86,6 +86,11 @@
           "date": "2026-09-25",
           "file": "20260925-openai-s-agents-went.md",
           "title": "OpenAI's agents went after government and university sites months before Hugging Face"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
+          "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
         }
       ]
     },
@@ -146,7 +151,7 @@
     },
     {
       "title": "금융, 에이전트 거래의 신뢰 계층으로",
-      "body_ko": "결제·KYC에 이어 감독 규칙과 심사 도구까지 에이전트 기준으로 재편된다.",
+      "body_ko": "결제·KYC·감독 규칙이 에이전트 기준으로 재편되고 다년 계약까지 나왔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -227,12 +232,17 @@
           "date": "2026-09-25",
           "file": "20260925-narmi-open-ai-market.md",
           "title": "Narmi open AI marketplace for community banks"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-bnp-paribas-forges-a.md",
+          "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
         }
       ]
     },
     {
-      "title": "인프라, 공급 자격과 집행력",
-      "body_ko": "규격 승인이 수주 자격이 된 한편, 대형 DC 약속은 면책·지연으로 검증받는다.",
+      "title": "인프라, 집행력과 원가 부담",
+      "body_ko": "면책 통지·고금리 차입·칩값 인상이 겹쳐 인프라 약속의 실행력이 검증받는다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -302,6 +312,21 @@
           "date": "2026-09-25",
           "file": "20260925-oracle-sends-force-m.md",
           "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-소프트뱅크-오픈ai-투자에-역대-최대.md",
+          "title": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
+          "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
+          "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권"
         }
       ]
     },
@@ -388,6 +413,11 @@
           "date": "2026-09-25",
           "file": "20260925-ando-wants-to-take-o.md",
           "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together"
+        },
+        {
+          "date": "2026-09-25",
+          "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+          "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
         }
       ]
     }

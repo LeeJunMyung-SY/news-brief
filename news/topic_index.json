@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T23:16:26+00:00",
+  "generated_at": "2026-09-25T03:11:56+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1213,
+      "count": 1215,
       "latest_date": "2026-09-25"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1251,
+      "count": 1252,
       "latest_date": "2026-09-25"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2943,
+      "count": 2948,
       "latest_date": "2026-09-25"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 875,
+      "count": 878,
       "latest_date": "2026-09-25"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 711,
+      "count": 712,
       "latest_date": "2026-09-25"
     },
     {
@@ -82,8 +82,8 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 30,
-      "latest_date": "2026-09-24"
+      "count": 31,
+      "latest_date": "2026-09-25"
     },
     {
       "key": "robotics",
@@ -111,6 +111,21 @@
       },
       {
         "date": "2026-09-25",
+        "file": "20260925-bnp-paribas-forges-a.md",
+        "title": "BNP Paribas forges agentic AI partnership with Google Cloud",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#agentic-ai",
+          "#cloud"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48475/bnp-paribas-forges-agentic-ai-partnership-with-google-cloud?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-25",
         "file": "20260925-lovable-s-annualized.md",
         "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
         "importance": 7,
@@ -135,6 +150,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/"
+      },
+      {
+        "date": "2026-09-25",
+        "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+        "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#org-change",
+          "#future-of-work"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674169"
       },
       {
         "date": "2026-09-25",
@@ -32362,6 +32391,20 @@
         "url": "https://the-decoder.com/u-s-bill-proposes-permanent-ban-on-artificial-superintelligence-and-creation-of-new-federal-ai-agency/"
       },
       {
+        "date": "2026-09-25",
+        "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
+        "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#ai-safety",
+          "#geopolitics"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260925071820"
+      },
+      {
         "date": "2026-09-24",
         "file": "20260924-오픈ai-에이전트-정부-망-까지-뚫었.md",
         "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
@@ -50404,6 +50447,21 @@
     "ai_industry": [
       {
         "date": "2026-09-25",
+        "file": "20260925-bnp-paribas-forges-a.md",
+        "title": "BNP Paribas forges agentic AI partnership with Google Cloud",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#agentic-ai",
+          "#cloud"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48475/bnp-paribas-forges-agentic-ai-partnership-with-google-cloud?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-09-25",
         "file": "20260925-oracle-sends-force-m.md",
         "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
         "importance": 8,
@@ -50415,6 +50473,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
+      },
+      {
+        "date": "2026-09-25",
+        "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
+        "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#macro",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260925071429"
       },
       {
         "date": "2026-09-25",
@@ -50432,6 +50504,20 @@
       },
       {
         "date": "2026-09-25",
+        "file": "20260925-소프트뱅크-오픈ai-투자에-역대-최대.md",
+        "title": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#financing",
+          "#openai",
+          "#softbank"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260925072651"
+      },
+      {
+        "date": "2026-09-25",
         "file": "20260925-ai-performance-costs.md",
         "title": "AI performance costs are falling faster than those of any previous technology",
         "importance": 6,
@@ -50443,6 +50529,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/"
+      },
+      {
+        "date": "2026-09-25",
+        "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+        "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#org-change",
+          "#future-of-work"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674169"
       },
       {
         "date": "2026-09-25",
@@ -50485,6 +50585,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/"
+      },
+      {
+        "date": "2026-09-25",
+        "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
+        "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#foundry",
+          "#pricing",
+          "#supply-chain"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260925000007"
       },
       {
         "date": "2026-09-24",
@@ -100084,6 +100198,48 @@
         "url": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/"
       },
       {
+        "date": "2026-09-25",
+        "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
+        "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#macro",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260925071429"
+      },
+      {
+        "date": "2026-09-25",
+        "file": "20260925-소프트뱅크-오픈ai-투자에-역대-최대.md",
+        "title": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#financing",
+          "#openai",
+          "#softbank"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260925072651"
+      },
+      {
+        "date": "2026-09-25",
+        "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
+        "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#foundry",
+          "#pricing",
+          "#supply-chain"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260925000007"
+      },
+      {
         "date": "2026-09-24",
         "file": "20260924-china-s-ai-chip-blit.md",
         "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off'",
@@ -112715,6 +112871,21 @@
       }
     ],
     "금융회사 AI": [
+      {
+        "date": "2026-09-25",
+        "file": "20260925-bnp-paribas-forges-a.md",
+        "title": "BNP Paribas forges agentic AI partnership with Google Cloud",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#partnership",
+          "#enterprise-ai",
+          "#agentic-ai",
+          "#cloud"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48475/bnp-paribas-forges-agentic-ai-partnership-with-google-cloud?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
       {
         "date": "2026-09-25",
         "file": "20260925-asic-strengthens-ai-.md",
@@ -130503,6 +130674,20 @@
     ],
     "ai_workforce_training": [
       {
+        "date": "2026-09-25",
+        "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+        "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#agent-framework",
+          "#org-change",
+          "#future-of-work"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674169"
+      },
+      {
         "date": "2026-09-24",
         "file": "20260924-감원하던-아마존의-변심-ai-인력-부.md",
         "title": "감원하던 아마존의 변심…AI 인력 부족에 전직원 복귀 러브콜",
@@ -130951,24 +131136,21 @@
             "title": "OpenAI's agents went after government and university sites months before Hugging Face"
           },
           {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-            "title": ""
-          },
-          {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-            "title": ""
-          },
-          {
             "date": "2026-09-25",
             "file": "20260925-u-s-bill-proposes-pe.md",
             "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency"
+          },
+          {
+            "date": "2026-09-25",
+            "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
+            "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
           }
         ]
       },
       {
         "date": "2026-09-25",
-        "title": "금융, 에이전트 통제 장치 구축",
-        "summary": "감독 규칙·스크리닝·결제 인증이 에이전트를 전제로 다시 짜인다.",
+        "title": "금융, 에이전트를 장기 계약으로",
+        "summary": "통제 장치를 갖추는 동시에 다년 플랫폼 계약으로 도입을 굳힌다.",
         "articles": [
           {
             "date": "2026-09-25",
@@ -130991,8 +131173,9 @@
             "title": "Narmi open AI marketplace for community banks"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260925031002",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-bnp-paribas-forges-a.md",
+            "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
           }
         ]
       },
@@ -134021,24 +134204,21 @@
             "title": "OpenAI's agents went after government and university sites months before Hugging Face"
           },
           {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-            "title": ""
-          },
-          {
-            "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-            "title": ""
-          },
-          {
             "date": "2026-09-25",
             "file": "20260925-u-s-bill-proposes-pe.md",
             "title": "U.S. bill proposes permanent ban on artificial superintelligence and creation of new federal AI agency"
+          },
+          {
+            "date": "2026-09-25",
+            "file": "20260925-트럼프는-평화와-번영-시진핑은-인간-.md",
+            "title": "트럼프는 '평화와 번영'·시진핑은 '인간 통제'…미중 정상 AI 시각차"
           }
         ]
       },
       {
         "date": "2026-09-25",
-        "title": "금융, 에이전트 통제 장치 구축",
-        "summary": "감독 규칙·스크리닝·결제 인증이 에이전트를 전제로 다시 짜인다.",
+        "title": "금융, 에이전트를 장기 계약으로",
+        "summary": "통제 장치를 갖추는 동시에 다년 플랫폼 계약으로 도입을 굳힌다.",
         "articles": [
           {
             "date": "2026-09-25",
@@ -134061,8 +134241,9 @@
             "title": "Narmi open AI marketplace for community banks"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260925031002",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-bnp-paribas-forges-a.md",
+            "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
           }
         ]
       },
@@ -136777,8 +136958,8 @@
     "금융회사 AI": [
       {
         "date": "2026-09-25",
-        "title": "금융, 에이전트 통제 장치 구축",
-        "summary": "감독 규칙·스크리닝·결제 인증이 에이전트를 전제로 다시 짜인다.",
+        "title": "금융, 에이전트를 장기 계약으로",
+        "summary": "통제 장치를 갖추는 동시에 다년 플랫폼 계약으로 도입을 굳힌다.",
         "articles": [
           {
             "date": "2026-09-25",
@@ -136801,8 +136982,9 @@
             "title": "Narmi open AI marketplace for community banks"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20260925031002",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-bnp-paribas-forges-a.md",
+            "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
           }
         ]
       },
@@ -139606,8 +139788,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-25",
-        "title": "인프라 약속에 면책 조항",
-        "summary": "초대형 DC 일정이 지급 유예 근거로 바뀌며 조달 리스크가 드러났다.",
+        "title": "인프라, 부채와 원가 압박",
+        "summary": "고금리 차입·면책 통지·칩값 인상이 겹쳐 인프라 셈법이 무거워졌다.",
         "articles": [
           {
             "date": "2026-09-25",
@@ -139615,8 +139797,19 @@
             "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
           },
           {
-            "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-소프트뱅크-오픈ai-투자에-역대-최대.md",
+            "title": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달"
+          },
+          {
+            "date": "2026-09-25",
+            "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
+            "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모"
+          },
+          {
+            "date": "2026-09-25",
+            "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
+            "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권"
           }
         ]
       },
@@ -141681,8 +141874,8 @@
     "ai_industry": [
       {
         "date": "2026-09-25",
-        "title": "인프라 약속에 면책 조항",
-        "summary": "초대형 DC 일정이 지급 유예 근거로 바뀌며 조달 리스크가 드러났다.",
+        "title": "인프라, 부채와 원가 압박",
+        "summary": "고금리 차입·면책 통지·칩값 인상이 겹쳐 인프라 셈법이 무거워졌다.",
         "articles": [
           {
             "date": "2026-09-25",
@@ -141690,8 +141883,19 @@
             "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
           },
           {
-            "url": "https://the-decoder.com/googles-suncatcher-project-aims-to-put-ai-data-centers-in-orbit-powered-by-solar-energy/",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-소프트뱅크-오픈ai-투자에-역대-최대.md",
+            "title": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달"
+          },
+          {
+            "date": "2026-09-25",
+            "file": "20260925-ai-데이터센터-투자-10조-달러-전.md",
+            "title": "美 AI·데이터센터 투자 10조 달러 전망…GDP 연평균 3.6% 규모"
+          },
+          {
+            "date": "2026-09-25",
+            "file": "20260925-tsmc-파운드리-3-6-인상-전망-.md",
+            "title": "TSMC 파운드리 3~6% 인상 전망…삼성·인텔·후공정도 영향권"
           }
         ]
       },
@@ -141721,8 +141925,9 @@
             "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
           },
           {
-            "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+            "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
           }
         ]
       },
@@ -146462,8 +146667,9 @@
             "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
           },
           {
-            "url": "https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html",
-            "title": ""
+            "date": "2026-09-25",
+            "file": "20260925-ai-시대-일의-재편-젠스파크가-ai.md",
+            "title": "[AI 시대 일의 재편] 젠스파크가 AI를 '동료'로 쓰는 방식"
           }
         ]
       },
