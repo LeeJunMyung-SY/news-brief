@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-26T03:10:55+00:00",
+  "generated_at": "2026-09-26T07:10:54+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1012,
+      "count": 1015,
       "latest_date": "2026-09-26"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1228,
+      "count": 1229,
       "latest_date": "2026-09-26"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1262,
+      "count": 1265,
       "latest_date": "2026-09-26"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2959,
+      "count": 2965,
       "latest_date": "2026-09-26"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 885,
+      "count": 886,
       "latest_date": "2026-09-26"
     },
     {
@@ -54,7 +54,7 @@
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 498,
+      "count": 499,
       "latest_date": "2026-09-26"
     },
     {
@@ -194,6 +194,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260925080611"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-메타-ai-에이전트-뮤즈-보안-취약점.md",
+        "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화",
+        "importance": 6,
+        "tags": [
+          "#safety-incident",
+          "#agent-security",
+          "#prompt-injection",
+          "#consumer-agent"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215666"
       },
       {
         "date": "2026-09-26",
@@ -17965,6 +17979,48 @@
     "llm_models": [
       {
         "date": "2026-09-26",
+        "file": "20260926-chinese-ai-models-su.md",
+        "title": "Chinese AI models surge in global popularity — and Washington is worried",
+        "importance": 7,
+        "tags": [
+          "#china-ai",
+          "#open-weights",
+          "#enterprise-ai",
+          "#geopolitics"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-딥시크-매출-두-달-만에-2배-껑충-.md",
+        "title": "딥시크, 매출 두 달 만에 2배 껑충...'가격 인상에도 1.4조 달성'",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#pricing",
+          "#china-ai",
+          "#deepseek"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215672"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-말-못하는-ai-제브-가-실리콘밸리-.md",
+        "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...'일주일 새 몸값 50배 뛰어'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#investment",
+          "#efficiency",
+          "#startup-valuation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215675"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
         "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
         "importance": 7,
@@ -32585,6 +32641,20 @@
     "ai_policy": [
       {
         "date": "2026-09-26",
+        "file": "20260926-chinese-ai-models-su.md",
+        "title": "Chinese AI models surge in global popularity — and Washington is worried",
+        "importance": 7,
+        "tags": [
+          "#china-ai",
+          "#open-weights",
+          "#enterprise-ai",
+          "#geopolitics"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-for-months-openai-s-.md",
         "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
         "importance": 7,
@@ -32642,6 +32712,20 @@
       },
       {
         "date": "2026-09-26",
+        "file": "20260926-미-중-사고-시-소통-ai-협의체-가.md",
+        "title": "미·중. '사고 시 소통' AI 협의체 가동하기로…11월 후속회의 개최",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-china",
+          "#ai-safety",
+          "#incident-response"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202609266568i"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-백악관-오픈ai-앤트로픽에-신모델-영.md",
         "title": "백악관, 오픈AI·앤트로픽에 '신모델, 영국 사전 검증 거부하라' 압박",
         "importance": 7,
@@ -32682,6 +32766,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260925082237"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-트럼프-미-하원의장-빅테크-수장들과-.md",
+        "title": "트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#ai-safety",
+          "#us-policy",
+          "#big-tech"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215673"
       },
       {
         "date": "2026-09-25",
@@ -50883,6 +50981,20 @@
       },
       {
         "date": "2026-09-26",
+        "file": "20260926-chinese-ai-models-su.md",
+        "title": "Chinese AI models surge in global popularity — and Washington is worried",
+        "importance": 7,
+        "tags": [
+          "#china-ai",
+          "#open-weights",
+          "#enterprise-ai",
+          "#geopolitics"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/09/26/china-ai-global-adoption.html"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-pentagon-was-right-t.md",
         "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says",
         "importance": 7,
@@ -50895,6 +51007,48 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/pentagon-was-right-to-slap-anthropic-with-a-security-supply-chain-risk-label-federal-court-says/"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-딥시크-매출-두-달-만에-2배-껑충-.md",
+        "title": "딥시크, 매출 두 달 만에 2배 껑충...'가격 인상에도 1.4조 달성'",
+        "importance": 7,
+        "tags": [
+          "#monetization",
+          "#pricing",
+          "#china-ai",
+          "#deepseek"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215672"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-말-못하는-ai-제브-가-실리콘밸리-.md",
+        "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...'일주일 새 몸값 50배 뛰어'",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#investment",
+          "#efficiency",
+          "#startup-valuation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215675"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-앤트로픽-ipo-앞두고-공동-창립자-.md",
+        "title": "앤트로픽, IPO 앞두고 공동 창립자 7명에 의결권 50.1% 부여 추진",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#governance",
+          "#dual-class",
+          "#anthropic"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215665"
       },
       {
         "date": "2026-09-26",
@@ -50943,6 +51097,20 @@
       },
       {
         "date": "2026-09-26",
+        "file": "20260926-머스크-연말까지-콜로서스-2-gpu-.md",
+        "title": "머스크 '연말까지 콜로서스 2 GPU 두 배 증설'... 최대 121만개 달성",
+        "importance": 6,
+        "tags": [
+          "#gpu",
+          "#data-center",
+          "#compute-race",
+          "#nvidia"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215674"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-배민-가게배달에-ai-도입-도착-예정.md",
         "title": "배민, 가게배달에 AI 도입…도착 예정시간 정확도 높인다",
         "importance": 6,
@@ -50955,6 +51123,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20260926000004"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-트웰브랩스-스마트-제조-피지컬-ai로.md",
+        "title": "트웰브랩스, 스마트 제조·피지컬 AI로 B2B 사업 영토 대폭 확장",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#smart-manufacturing",
+          "#video-ai",
+          "#b2b"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215656"
       },
       {
         "date": "2026-09-25",
@@ -100800,6 +100983,20 @@
       },
       {
         "date": "2026-09-26",
+        "file": "20260926-머스크-연말까지-콜로서스-2-gpu-.md",
+        "title": "머스크 '연말까지 콜로서스 2 GPU 두 배 증설'... 최대 121만개 달성",
+        "importance": 6,
+        "tags": [
+          "#gpu",
+          "#data-center",
+          "#compute-race",
+          "#nvidia"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215674"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-머스크-콜로서스-2-투자-고삐-연내-.md",
         "title": "머스크, '콜로서스 2' 투자 고삐…연내 엔비디아 칩 탑재 2배 늘린다",
         "importance": 6,
@@ -124080,6 +124277,21 @@
         "url": "https://www.mk.co.kr/news/stock/12161547"
       },
       {
+        "date": "2026-09-26",
+        "file": "20260926-트웰브랩스-스마트-제조-피지컬-ai로.md",
+        "title": "트웰브랩스, 스마트 제조·피지컬 AI로 B2B 사업 영토 대폭 확장",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#physical-ai",
+          "#smart-manufacturing",
+          "#video-ai",
+          "#b2b"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215656"
+      },
+      {
         "date": "2026-09-25",
         "file": "20260925-black-forest-labs-la.md",
         "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
@@ -131853,7 +132065,7 @@
       {
         "date": "2026-09-26",
         "title": "에이전트 사고·자율 운영 한계",
-        "summary": "유출·공격에 재무 실패까지 겹쳐 위임 범위 설계가 도입 전제가 됐다.",
+        "summary": "유출·공격에 소비자 에이전트 취약점까지 겹쳐 권한 설계가 도입 전제가 됐다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -131874,13 +132086,18 @@
             "date": "2026-09-26",
             "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
             "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 \"돈 관리 내 일 아냐\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-메타-ai-에이전트-뮤즈-보안-취약점.md",
+            "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화"
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "과금·판매 방식 재편",
-        "summary": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
+        "title": "모델사 수익화·과금 재편",
+        "summary": "가격 인상과 효율 특화가 매출로 이어지며 AI 조달 셈법이 달라지고 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -131899,8 +132116,23 @@
           },
           {
             "date": "2026-09-26",
-            "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
-            "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
+            "file": "20260926-딥시크-매출-두-달-만에-2배-껑충-.md",
+            "title": "딥시크, 매출 두 달 만에 2배 껑충...\"가격 인상에도 1.4조 달성\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-말-못하는-ai-제브-가-실리콘밸리-.md",
+            "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-chinese-ai-models-su.md",
+            "title": "Chinese AI models surge in global popularity — and Washington is worried"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-앤트로픽-ipo-앞두고-공동-창립자-.md",
+            "title": "앤트로픽, IPO 앞두고 공동 창립자 7명에 의결권 50.1% 부여 추진"
           }
         ]
       },
@@ -134737,7 +134969,7 @@
       {
         "date": "2026-09-26",
         "title": "에이전트 사고·자율 운영 한계",
-        "summary": "유출·공격에 재무 실패까지 겹쳐 위임 범위 설계가 도입 전제가 됐다.",
+        "summary": "유출·공격에 소비자 에이전트 취약점까지 겹쳐 권한 설계가 도입 전제가 됐다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -134758,13 +134990,18 @@
             "date": "2026-09-26",
             "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
             "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 \"돈 관리 내 일 아냐\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-메타-ai-에이전트-뮤즈-보안-취약점.md",
+            "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화"
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "안전 검증, 주도권 다툼으로",
-        "summary": "검증 창구 경쟁 속 규제 입법 요구도 커져 기준이 갈라질 수 있다.",
+        "title": "AI 안전, 정상 외교 채널로",
+        "summary": "사고 소통 협의체와 정상급 회동으로 안전 논의가 정부 간 위기관리로 올라섰다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -134777,15 +135014,21 @@
             "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
-            "title": ""
+            "date": "2026-09-26",
+            "file": "20260926-미-중-사고-시-소통-ai-협의체-가.md",
+            "title": "미·중. '사고 시 소통' AI 협의체 가동하기로…11월 후속회의 개최"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-트럼프-미-하원의장-빅테크-수장들과-.md",
+            "title": "트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정"
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "인프라, 우주·해저·부품으로",
-        "summary": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
+        "title": "인프라, 규모·입지·부품 경쟁",
+        "summary": "GPU 규모 경쟁에 전력·부품 제약이 겹쳐 인프라 경쟁 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -134816,6 +135059,11 @@
             "date": "2026-09-26",
             "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
             "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-머스크-연말까지-콜로서스-2-gpu-.md",
+            "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성"
           }
         ]
       },
@@ -137909,29 +138157,8 @@
     "llm_models": [
       {
         "date": "2026-09-26",
-        "title": "안전 검증, 주도권 다툼으로",
-        "summary": "검증 창구 경쟁 속 규제 입법 요구도 커져 기준이 갈라질 수 있다.",
-        "articles": [
-          {
-            "date": "2026-09-26",
-            "file": "20260926-백악관-오픈ai-앤트로픽에-신모델-영.md",
-            "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
-          },
-          {
-            "date": "2026-09-26",
-            "file": "20260926-pentagon-was-right-t.md",
-            "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-26",
-        "title": "과금·판매 방식 재편",
-        "summary": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
+        "title": "모델사 수익화·과금 재편",
+        "summary": "가격 인상과 효율 특화가 매출로 이어지며 AI 조달 셈법이 달라지고 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -137950,8 +138177,23 @@
           },
           {
             "date": "2026-09-26",
-            "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
-            "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
+            "file": "20260926-딥시크-매출-두-달-만에-2배-껑충-.md",
+            "title": "딥시크, 매출 두 달 만에 2배 껑충...\"가격 인상에도 1.4조 달성\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-말-못하는-ai-제브-가-실리콘밸리-.md",
+            "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-chinese-ai-models-su.md",
+            "title": "Chinese AI models surge in global popularity — and Washington is worried"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-앤트로픽-ipo-앞두고-공동-창립자-.md",
+            "title": "앤트로픽, IPO 앞두고 공동 창립자 7명에 의결권 50.1% 부여 추진"
           }
         ]
       },
@@ -139746,8 +139988,8 @@
     "ai_industry": [
       {
         "date": "2026-09-26",
-        "title": "과금·판매 방식 재편",
-        "summary": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
+        "title": "모델사 수익화·과금 재편",
+        "summary": "가격 인상과 효율 특화가 매출로 이어지며 AI 조달 셈법이 달라지고 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -139766,15 +140008,30 @@
           },
           {
             "date": "2026-09-26",
-            "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
-            "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
+            "file": "20260926-딥시크-매출-두-달-만에-2배-껑충-.md",
+            "title": "딥시크, 매출 두 달 만에 2배 껑충...\"가격 인상에도 1.4조 달성\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-말-못하는-ai-제브-가-실리콘밸리-.md",
+            "title": "말 못하는 AI '제브'가 실리콘밸리 흔들었다...\"일주일 새 몸값 50배 뛰어\""
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-chinese-ai-models-su.md",
+            "title": "Chinese AI models surge in global popularity — and Washington is worried"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-앤트로픽-ipo-앞두고-공동-창립자-.md",
+            "title": "앤트로픽, IPO 앞두고 공동 창립자 7명에 의결권 50.1% 부여 추진"
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "인프라, 우주·해저·부품으로",
-        "summary": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
+        "title": "인프라, 규모·입지·부품 경쟁",
+        "summary": "GPU 규모 경쟁에 전력·부품 제약이 겹쳐 인프라 경쟁 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -139805,6 +140062,11 @@
             "date": "2026-09-26",
             "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
             "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-머스크-연말까지-콜로서스-2-gpu-.md",
+            "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성"
           }
         ]
       },
@@ -144589,8 +144851,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-26",
-        "title": "인프라, 우주·해저·부품으로",
-        "summary": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
+        "title": "인프라, 규모·입지·부품 경쟁",
+        "summary": "GPU 규모 경쟁에 전력·부품 제약이 겹쳐 인프라 경쟁 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -144621,6 +144883,11 @@
             "date": "2026-09-26",
             "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
             "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-머스크-연말까지-콜로서스-2-gpu-.md",
+            "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성"
           }
         ]
       },
