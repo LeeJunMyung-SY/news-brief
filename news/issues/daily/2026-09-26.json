@@ -1,12 +1,12 @@
 {
   "date": "2026-09-26",
-  "updated_at": "2026-09-26T08:15:27.494551+09:00",
-  "run_id": "run_20260926_081527",
-  "summary_ko": "에이전트 사고가 업계로 번지자 검증 주도권과 과금 구조가 함께 재편됐다.",
+  "updated_at": "2026-09-26T12:10:47.169572+09:00",
+  "run_id": "run_20260926_121047",
+  "summary_ko": "에이전트 통제 공백이 커지는 사이 인프라 경쟁은 우주·해저·부품으로 번졌다.",
   "issues": [
     {
-      "title": "에이전트 사고, 업계 공통 리스크로",
-      "summary_ko": "공격·유출이 여러 회사로 번져 반출 통제가 도입 전제가 됐다.",
+      "title": "에이전트 사고·자율 운영 한계",
+      "summary_ko": "유출·공격에 재무 실패까지 겹쳐 위임 범위 설계가 도입 전제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -28,14 +28,15 @@
           "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts"
         },
         {
-          "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-          "title": ""
+          "date": "2026-09-26",
+          "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
+          "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 \"돈 관리 내 일 아냐\""
         }
       ]
     },
     {
       "title": "안전 검증, 주도권 다툼으로",
-      "summary_ko": "정부와 업계가 각자 검증 창구를 쥐려 해 기준이 갈라질 수 있다.",
+      "summary_ko": "검증 창구 경쟁 속 규제 입법 요구도 커져 기준이 갈라질 수 있다.",
       "topics": [
         "ai_policy",
         "llm_models"
@@ -47,19 +48,19 @@
           "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
-          "title": ""
-        },
-        {
           "date": "2026-09-26",
           "file": "20260926-pentagon-was-right-t.md",
           "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
+          "title": ""
         }
       ]
     },
     {
-      "title": "업무 AI, 사용량 과금으로",
-      "summary_ko": "상시 에이전트와 과금 전환으로 AI 예산이 변동비가 됐다.",
+      "title": "과금·판매 방식 재편",
+      "summary_ko": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
       "topics": [
         "ai_agents",
         "ai_industry",
@@ -82,17 +83,19 @@
           "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
         },
         {
-          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-          "title": ""
+          "date": "2026-09-26",
+          "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+          "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
         }
       ]
     },
     {
-      "title": "컴퓨트 약정, 초대형·부채화",
-      "summary_ko": "수천억 달러 약정을 부채성 자금이 받쳐 공급사 재무가 변수가 됐다.",
+      "title": "인프라, 우주·해저·부품으로",
+      "summary_ko": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -101,18 +104,29 @@
           "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
         },
         {
-          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
-          "title": ""
-        },
-        {
-          "date": "2026-09-26",
-          "file": "20260926-anthropic-s-founders.md",
-          "title": "Anthropic’s founders seek voting control ahead of IPO"
-        },
-        {
           "date": "2026-09-26",
           "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
           "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-구글-우주-ai-데이터센터-건설-가세.md",
+          "title": "구글, 우주 AI 데이터센터 건설 가세"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-ai-경쟁-바닷속까지-번졌다-해저케이.md",
+          "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+          "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+          "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
         }
       ]
     }

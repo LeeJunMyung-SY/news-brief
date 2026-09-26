@@ -1,12 +1,12 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-26T08:15:27.494551+09:00",
-  "run_id": "run_20260926_081527",
-  "summary_ko": "안전은 사고와 검증 주도권 다툼으로, 비용은 과금 구조와 초대형 약정으로 재편됐다.",
+  "updated_at": "2026-09-26T12:10:47.169572+09:00",
+  "run_id": "run_20260926_121047",
+  "summary_ko": "에이전트 사고가 검증 경쟁을 부르고, 비용과 인프라 셈법은 통째로 재편됐다.",
   "issues": [
     {
       "title": "AI 안전, 사고·검증 주도권으로",
-      "body_ko": "에이전트 사고가 업계 전반으로 번지며 검증 창구를 누가 쥘지가 쟁점이 됐다.",
+      "body_ko": "에이전트 사고가 업계 전반으로 번지며 검증 창구와 책임 소재가 쟁점이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -43,11 +43,6 @@
           "title": "오픈AI 에이전트, '정부 망'까지 뚫었다…호주, 국가 인프라 침투 첫 확인"
         },
         {
-          "date": "2026-09-24",
-          "file": "20260924-trump-xi-summit-puts.md",
-          "title": "Trump-Xi summit puts AI safety talks on the table but neither side wants to slow down"
-        },
-        {
           "date": "2026-09-25",
           "file": "20260925-australia-to-investi.md",
           "title": "Australia to investigate if OpenAI hack of government health website broke the law"
@@ -78,14 +73,19 @@
           "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
           "title": ""
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
+          "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 \"돈 관리 내 일 아냐\""
         }
       ]
     },
     {
-      "title": "AI 가격, 단가에서 과금 구조로",
-      "body_ko": "단가 하락이 할인·사용량 과금·거부 요청 과금으로 번져 예산 관리 방식이 바뀐다.",
+      "title": "AI 가격, 과금·제품 구조로",
+      "body_ko": "단가 하락이 사용량 과금·전용 제품화로 번져 예산과 조달 방식이 바뀐다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -117,11 +117,6 @@
           "title": "AI performance costs are falling faster than those of any previous technology"
         },
         {
-          "date": "2026-09-25",
-          "file": "20260925-deepmind-was-built-t.md",
-          "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door"
-        },
-        {
           "date": "2026-09-26",
           "file": "20260926-microsoft-gives-copi.md",
           "title": "Microsoft gives Copilot another makeover, adding an Autopilot agent and usage-based billing"
@@ -135,6 +130,11 @@
           "date": "2026-09-26",
           "file": "20260926-앤트로픽-모델-증류-방어선-구축-거부.md",
           "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+          "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
         }
       ]
     },
@@ -188,11 +188,6 @@
         },
         {
           "date": "2026-09-25",
-          "file": "20260925-cleverbridge-complet.md",
-          "title": "Cleverbridge completes France's first Passkey-authenticated agentic purchase, on a Revolut card"
-        },
-        {
-          "date": "2026-09-25",
           "file": "20260925-bnp-paribas-forges-a.md",
           "title": "BNP Paribas forges agentic AI partnership with Google Cloud"
         },
@@ -214,22 +209,18 @@
       ]
     },
     {
-      "title": "인프라, 초대형 약정과 부채",
-      "body_ko": "수천억 달러 약정을 부채성 자금이 받치며 집행력과 원가 부담이 동시에 커졌다.",
+      "title": "인프라, 부채·입지·공급망 압박",
+      "body_ko": "초대형 약정을 부채가 받치는 가운데 전력·부품 제약이 입지 전략을 흔든다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
           "date": "2026-09-21",
           "file": "20260921-gs-15조-ai-데이터센터-추진-출.md",
           "title": "㈜GS, 15조 AI 데이터센터 추진...출자 여력에도 수익성 과제"
-        },
-        {
-          "date": "2026-09-22",
-          "file": "20260922-lg-엔비디아-ai-생태계-합류-액체.md",
-          "title": "LG, 엔비디아 AI 생태계 합류…액체냉각·BESS 협력 확대"
         },
         {
           "date": "2026-09-22",
@@ -240,11 +231,6 @@
           "date": "2026-09-23",
           "file": "20260923-ai-고속도로-ai-데이터센터-투자-.md",
           "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절"
-        },
-        {
-          "date": "2026-09-24",
-          "file": "20260924-nvidia-backed-nscale.md",
-          "title": "Nvidia-backed Nscale keeps its biggest customer, Bytedance, out of its IPO filing"
         },
         {
           "date": "2026-09-25",
@@ -267,13 +253,29 @@
           "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
         },
         {
-          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
-          "title": ""
-        },
-        {
           "date": "2026-09-26",
           "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
           "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-구글-우주-ai-데이터센터-건설-가세.md",
+          "title": "구글, 우주 AI 데이터센터 건설 가세"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-ai-경쟁-바닷속까지-번졌다-해저케이.md",
+          "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+          "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진"
+        },
+        {
+          "date": "2026-09-26",
+          "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+          "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
         }
       ]
     },
@@ -322,22 +324,13 @@
           "title": "[AI는 지금] 中, 소프트웨어 산업 판 바꾼다…2030년까지 개발·서비스 AI 전환"
         },
         {
-          "date": "2026-09-25",
-          "file": "20260925-control-the-harness-.md",
-          "title": "Control the Harness, Control the Cost: Routing and Governing AI Coding Agents in the Enterprise"
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
-          "title": ""
-        },
-        {
           "date": "2026-09-26",
           "file": "20260926-깃허브-폐쇄망-ai-코딩-지원-확대-.md",
           "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609170171g",
+          "title": ""
         }
       ]
     }

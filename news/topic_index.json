@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-25T23:15:35+00:00",
+  "generated_at": "2026-09-26T03:10:55+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1011,
+      "count": 1012,
       "latest_date": "2026-09-26"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1227,
+      "count": 1228,
       "latest_date": "2026-09-26"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1261,
+      "count": 1262,
       "latest_date": "2026-09-26"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2956,
+      "count": 2959,
       "latest_date": "2026-09-26"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 881,
+      "count": 885,
       "latest_date": "2026-09-26"
     },
     {
@@ -151,6 +151,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
+        "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 '돈 관리 내 일 아냐'",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#autonomous-business",
+          "#retail",
+          "#agent-risk"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202609232649i"
       },
       {
         "date": "2026-09-26",
@@ -17951,6 +17965,21 @@
     "llm_models": [
       {
         "date": "2026-09-26",
+        "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+        "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#cybersecurity",
+          "#enterprise-ai",
+          "#monetization",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215667"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-앤트로픽-모델-증류-방어선-구축-거부.md",
         "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금",
         "importance": 6,
@@ -32624,6 +32653,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215658"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+        "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#us-china",
+          "#data-center",
+          "#optical-transceiver"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260926095439"
       },
       {
         "date": "2026-09-26",
@@ -50854,6 +50898,21 @@
       },
       {
         "date": "2026-09-26",
+        "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+        "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#cybersecurity",
+          "#enterprise-ai",
+          "#monetization",
+          "#openai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215667"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-깃허브-폐쇄망-ai-코딩-지원-확대-.md",
         "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다",
         "importance": 6,
@@ -50866,6 +50925,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260925080611"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+        "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#storage",
+          "#sk-hynix",
+          "#ai-infrastructure",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260926000010"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-배민-가게배달에-ai-도입-도착-예정.md",
+        "title": "배민, 가게배달에 AI 도입…도착 예정시간 정확도 높인다",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#delivery",
+          "#baemin",
+          "#prediction",
+          "#operations"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260926000004"
       },
       {
         "date": "2026-09-25",
@@ -100667,6 +100756,50 @@
       },
       {
         "date": "2026-09-26",
+        "file": "20260926-ai-경쟁-바닷속까지-번졌다-해저케이.md",
+        "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속",
+        "importance": 6,
+        "tags": [
+          "#subsea-cable",
+          "#infrastructure",
+          "#meta",
+          "#network"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260926082858"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-구글-우주-ai-데이터센터-건설-가세.md",
+        "title": "구글, 우주 AI 데이터센터 건설 가세",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#space",
+          "#google",
+          "#tpu",
+          "#energy"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260926074204"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+        "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#storage",
+          "#sk-hynix",
+          "#ai-infrastructure",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260926000010"
+      },
+      {
+        "date": "2026-09-26",
         "file": "20260926-머스크-콜로서스-2-투자-고삐-연내-.md",
         "title": "머스크, '콜로서스 2' 투자 고삐…연내 엔비디아 칩 탑재 2배 늘린다",
         "importance": 6,
@@ -100678,6 +100811,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260925153817"
+      },
+      {
+        "date": "2026-09-26",
+        "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+        "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#supply-chain",
+          "#us-china",
+          "#data-center",
+          "#optical-transceiver"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260926095439"
       },
       {
         "date": "2026-09-26",
@@ -131704,8 +131852,8 @@
     "ai_agents": [
       {
         "date": "2026-09-26",
-        "title": "에이전트 사고, 업계 공통 리스크로",
-        "summary": "공격·유출이 여러 회사로 번져 반출 통제가 도입 전제가 됐다.",
+        "title": "에이전트 사고·자율 운영 한계",
+        "summary": "유출·공격에 재무 실패까지 겹쳐 위임 범위 설계가 도입 전제가 됐다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -131723,15 +131871,16 @@
             "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-            "title": ""
+            "date": "2026-09-26",
+            "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
+            "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 \"돈 관리 내 일 아냐\""
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "업무 AI, 사용량 과금으로",
-        "summary": "상시 에이전트와 과금 전환으로 AI 예산이 변동비가 됐다.",
+        "title": "과금·판매 방식 재편",
+        "summary": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -131749,8 +131898,9 @@
             "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-            "title": ""
+            "date": "2026-09-26",
+            "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+            "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
           }
         ]
       },
@@ -134586,8 +134736,8 @@
     "ai_policy": [
       {
         "date": "2026-09-26",
-        "title": "에이전트 사고, 업계 공통 리스크로",
-        "summary": "공격·유출이 여러 회사로 번져 반출 통제가 도입 전제가 됐다.",
+        "title": "에이전트 사고·자율 운영 한계",
+        "summary": "유출·공격에 재무 실패까지 겹쳐 위임 범위 설계가 도입 전제가 됐다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -134605,15 +134755,16 @@
             "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-            "title": ""
+            "date": "2026-09-26",
+            "file": "20260926-ai-운영-매장-가보니-자본금-97-.md",
+            "title": "美 AI 운영 매장 가보니…자본금 97% 까먹고 \"돈 관리 내 일 아냐\""
           }
         ]
       },
       {
         "date": "2026-09-26",
         "title": "안전 검증, 주도권 다툼으로",
-        "summary": "정부와 업계가 각자 검증 창구를 쥐려 해 기준이 갈라질 수 있다.",
+        "summary": "검증 창구 경쟁 속 규제 입법 요구도 커져 기준이 갈라질 수 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -134621,13 +134772,50 @@
             "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
-            "title": ""
-          },
-          {
             "date": "2026-09-26",
             "file": "20260926-pentagon-was-right-t.md",
             "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-26",
+        "title": "인프라, 우주·해저·부품으로",
+        "summary": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
+        "articles": [
+          {
+            "date": "2026-09-26",
+            "file": "20260926-anthropic-signs-11-6.md",
+            "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
+            "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-구글-우주-ai-데이터센터-건설-가세.md",
+            "title": "구글, 우주 AI 데이터센터 건설 가세"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-ai-경쟁-바닷속까지-번졌다-해저케이.md",
+            "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+            "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+            "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
           }
         ]
       },
@@ -137722,7 +137910,7 @@
       {
         "date": "2026-09-26",
         "title": "안전 검증, 주도권 다툼으로",
-        "summary": "정부와 업계가 각자 검증 창구를 쥐려 해 기준이 갈라질 수 있다.",
+        "summary": "검증 창구 경쟁 속 규제 입법 요구도 커져 기준이 갈라질 수 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -137730,20 +137918,20 @@
             "title": "백악관, 오픈AI·앤트로픽에 \"신모델, 영국 사전 검증 거부하라\" 압박"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215651",
-            "title": ""
-          },
-          {
             "date": "2026-09-26",
             "file": "20260926-pentagon-was-right-t.md",
             "title": "Pentagon was right to slap Anthropic with a security supply chain risk label, federal court says"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215669",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "업무 AI, 사용량 과금으로",
-        "summary": "상시 에이전트와 과금 전환으로 AI 예산이 변동비가 됐다.",
+        "title": "과금·판매 방식 재편",
+        "summary": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -137761,8 +137949,9 @@
             "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-            "title": ""
+            "date": "2026-09-26",
+            "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+            "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
           }
         ]
       },
@@ -139557,8 +139746,8 @@
     "ai_industry": [
       {
         "date": "2026-09-26",
-        "title": "업무 AI, 사용량 과금으로",
-        "summary": "상시 에이전트와 과금 전환으로 AI 예산이 변동비가 됐다.",
+        "title": "과금·판매 방식 재편",
+        "summary": "사용량 과금과 전용 제품화로 AI 조달 단위가 바뀌고 있다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -139576,15 +139765,16 @@
             "title": "앤트로픽, ‘모델 증류’ 방어선 구축...거부된 클로드 요청도 과금"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-            "title": ""
+            "date": "2026-09-26",
+            "file": "20260926-오픈ai-gpt-6-사이버-공개-임박.md",
+            "title": "오픈AI, 'GPT-6 사이버' 공개 임박…API 넘어서는 '전용 배포 제품' 선보인다"
           }
         ]
       },
       {
         "date": "2026-09-26",
-        "title": "컴퓨트 약정, 초대형·부채화",
-        "summary": "수천억 달러 약정을 부채성 자금이 받쳐 공급사 재무가 변수가 됐다.",
+        "title": "인프라, 우주·해저·부품으로",
+        "summary": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -139592,18 +139782,29 @@
             "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
-            "title": ""
-          },
-          {
-            "date": "2026-09-26",
-            "file": "20260926-anthropic-s-founders.md",
-            "title": "Anthropic’s founders seek voting control ahead of IPO"
-          },
-          {
             "date": "2026-09-26",
             "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
             "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-구글-우주-ai-데이터센터-건설-가세.md",
+            "title": "구글, 우주 AI 데이터센터 건설 가세"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-ai-경쟁-바닷속까지-번졌다-해저케이.md",
+            "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+            "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+            "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
           }
         ]
       },
@@ -144388,8 +144589,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-26",
-        "title": "컴퓨트 약정, 초대형·부채화",
-        "summary": "수천억 달러 약정을 부채성 자금이 받쳐 공급사 재무가 변수가 됐다.",
+        "title": "인프라, 우주·해저·부품으로",
+        "summary": "전력 병목과 공급망 규제가 인프라 경쟁 범위를 넓혔다.",
         "articles": [
           {
             "date": "2026-09-26",
@@ -144397,18 +144598,29 @@
             "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year"
           },
           {
-            "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-financing/",
-            "title": ""
-          },
-          {
-            "date": "2026-09-26",
-            "file": "20260926-anthropic-s-founders.md",
-            "title": "Anthropic’s founders seek voting control ahead of IPO"
-          },
-          {
             "date": "2026-09-26",
             "file": "20260926-전력-이어-물까지-텍사스-수백개-데이.md",
             "title": "전력 이어 물까지…美 텍사스, 수백개 데이터센터 용수 조사"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-구글-우주-ai-데이터센터-건설-가세.md",
+            "title": "구글, 우주 AI 데이터센터 건설 가세"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-ai-경쟁-바닷속까지-번졌다-해저케이.md",
+            "title": "AI 경쟁 바닷속까지 번졌다...해저케이블 구축 가속"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-미-중-ai-협력-논의-직후-미-의회.md",
+            "title": "미·중 AI 협력 논의 직후…미 의회, 중국산 부품 차단 추진"
+          },
+          {
+            "date": "2026-09-26",
+            "file": "20260926-로이터-sk하이닉스-손자회사-솔리다임.md",
+            "title": "로이터 “SK하이닉스 손자회사 솔리다임, 이르면 내년 美상장 검토”"
           }
         ]
       },
