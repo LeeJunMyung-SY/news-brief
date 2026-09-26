@@ -1,15 +1,16 @@
 {
   "week": "2026-W39",
-  "updated_at": "2026-09-26T16:10:46.199132+09:00",
-  "run_id": "run_20260926_161046",
-  "summary_ko": "에이전트 사고가 정부 간 안전 의제로 올랐고, 비용·수익과 인프라 셈법은 재편됐다.",
+  "updated_at": "2026-09-27T08:11:57.772980+09:00",
+  "run_id": "run_20260927_081157",
+  "summary_ko": "에이전트 사고가 최상위 모델 개발 중단까지 불렀고, 수익·인프라 셈법은 재편됐다.",
   "issues": [
     {
-      "title": "AI 안전, 사고에서 외교 의제로",
-      "body_ko": "에이전트 사고가 잇따르며 검증·책임 논의가 정부 간 위기관리 채널로 올라섰다.",
+      "title": "AI 안전, 사고에서 개발 중단으로",
+      "body_ko": "연이은 에이전트 사고가 외교 의제를 넘어 선두 모델사의 개발 중단으로 번졌다.",
       "topics": [
         "ai_policy",
-        "ai_agents"
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
@@ -91,6 +92,21 @@
           "date": "2026-09-26",
           "file": "20260926-메타-ai-에이전트-뮤즈-보안-취약점.md",
           "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화"
+        },
+        {
+          "date": "2026-09-27",
+          "file": "20260927-openai-pauses-its-mo.md",
+          "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data"
+        },
+        {
+          "date": "2026-09-27",
+          "file": "20260927-오픈ai-ai-에이전트-정부-사이트-.md",
+          "title": "“오픈AI AI 에이전트, 美 정부 사이트 비정상 접근”"
+        },
+        {
+          "date": "2026-09-27",
+          "file": "20260927-미-중-정상회담-뒤-미-의회서-ai-.md",
+          "title": "미·중 정상회담 뒤…미 의회서 AI 안전협정 요구"
         }
       ]
     },
@@ -241,7 +257,7 @@
     },
     {
       "title": "인프라, 부채·입지·공급망 압박",
-      "body_ko": "초대형 약정과 GPU 증설을 부채가 받치는 가운데 전력·부품 제약이 입지를 흔든다.",
+      "body_ko": "부채로 받친 증설에 전력·지역 반발·부품 원산지 제약이 겹쳐 입지 셈법이 복잡해졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -312,6 +328,15 @@
           "date": "2026-09-26",
           "file": "20260926-머스크-연말까지-콜로서스-2-gpu-.md",
           "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성"
+        },
+        {
+          "date": "2026-09-27",
+          "file": "20260927-the-blue-collar-ai-j.md",
+          "title": "The blue-collar AI job market is booming. Will data center backlash make it go bust?"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/26/china-us-ai-data-centers.html",
+          "title": ""
         }
       ]
     },
@@ -363,6 +388,16 @@
           "date": "2026-09-26",
           "file": "20260926-깃허브-폐쇄망-ai-코딩-지원-확대-.md",
           "title": "깃허브, 폐쇄망 AI 코딩 지원 확대…개발·관리 편의 높인다"
+        },
+        {
+          "date": "2026-09-27",
+          "file": "20260927-메타-ai-비서-뮤즈-흥행-ai-투자.md",
+          "title": "메타 AI 비서 '뮤즈' 흥행…AI 투자 수익성 시험대"
+        },
+        {
+          "date": "2026-09-27",
+          "file": "20260927-월마트-고객-개인정보로-상품-가격-책.md",
+          "title": "월마트 \"고객 개인정보로 상품 가격 책정 않겠다\""
         }
       ]
     }
