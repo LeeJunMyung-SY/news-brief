@@ -1,0 +1,98 @@
+{
+  "week": "2026-W40",
+  "updated_at": "2026-09-28T08:12:52.959036+09:00",
+  "run_id": "run_20260928_081252",
+  "summary_ko": "에이전트 확산이 보안·비용·수익모델 재편을 동시에 촉발한 한 주.",
+  "issues": [
+    {
+      "title": "에이전트 통제 실패, 구조적 리스크로",
+      "body_ko": "사고가 수만 건 규모로 드러나 권한 통제가 도입의 전제가 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-28",
+          "file": "20260928-tens-of-thousands-of.md",
+          "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-다크웹서-ai-계정-해킹-활개-지금이.md",
+          "title": "다크웹서 'AI 계정 해킹' 활개... “지금이 가장 위험한 시점”"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-gpt-6-아스트라-물리적-명령에-잇.md",
+          "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행"
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라 투자와 금리 리스크",
+      "body_ko": "역대급 투자 전망 속 금리 상승이 인프라 원가와 신용 위험을 키운다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-28",
+          "file": "20260928-goldman-sachs-expect.md",
+          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-debt-hungry-ai-compa.md",
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 사업화와 결제 접점 경쟁",
+      "body_ko": "프리미엄 과금과 결제 분석 비서가 금융·구독 사업의 접점을 흔든다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-28",
+          "file": "20260928-오픈ai-500달러-프로-맥스-요금제.md",
+          "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-meta-s-muse-agent-is.md",
+          "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-기업-업무지원-플랫폼-kt-에이전틱-.md",
+          "title": "기업 업무지원 플랫폼 KT '에이전틱 온' 공개"
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI, 산업 현장부터",
+      "body_ko": "산업용 휴머노이드가 먼저 상용화되며 행동 안전 검증이 과제로 남았다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-28",
+          "file": "20260928-가정용-휴머노이드-개발-20년-걸리지.md",
+          "title": "\"가정용 휴머노이드 개발 20년 걸리지만, 산업용은 2년 내 가능\""
+        },
+        {
+          "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
