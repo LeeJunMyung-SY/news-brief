@@ -1,0 +1,129 @@
+{
+  "date": "2026-09-29",
+  "updated_at": "2026-09-29T08:27:08.767797+09:00",
+  "run_id": "run_20260929_082708",
+  "summary_ko": "에이전트 통제가 인프라 상품이 되고 프런티어 속도조절이 정치 의제로 올라온 하루.",
+  "issues": [
+    {
+      "title": "에이전트 통제, 칩과 공시로 제도화",
+      "summary_ko": "폭주 대응이 가드레일을 넘어 인프라 상품과 공급사 공시로 굳어지고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-29",
+          "file": "20260929-nvidia-wants-to-keep.md",
+          "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+          "title": ""
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "프런티어 속도조절, 정치 의제로",
+      "summary_ko": "출시 철회와 자기개선 금지 법안으로 모델 로드맵이 정책 변수가 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-29",
+          "file": "20260929-openai-abandons-plan.md",
+          "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-트럼프-오픈ai-앤트로픽-메타-만난다.md",
+          "title": "트럼프, 오픈AI·앤트로픽·메타 만난다…AI 혁신·안전 논의"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-khanna-to-introduce-.md",
+          "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-more-than-20-leading.md",
+          "title": "More than 20 leading AI researchers warn that automated AI research poses extreme risks"
+        }
+      ]
+    },
+    {
+      "title": "빅테크, 기업 시장과 결제 접점 공략",
+      "summary_ko": "B2B 사업부 신설·대형 인수·가성비 모델로 공급 지형이 재편되고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-29",
+          "file": "20260929-meta-launches-enterp.md",
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-amd-is-acquiring-ai-.md",
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-앤트로픽-클로드-소네트-5-5-공개-.md",
+          "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-shopify-opens-checko.md",
+          "title": "Shopify opens checkout to browser-based AI agents"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 접점, 에이전트로 이동",
+      "summary_ko": "은행은 전 부서 에이전트로, 빅테크 비서는 계좌 안으로 들어오고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-29",
+          "file": "20260929-장민영-행장의-ai-경영-기업은행-1.md",
+          "title": "장민영 행장의 AI 경영…기업은행 '1부 1에이전트'"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-스페이스xai-그록-봇-은행일-대신-.md",
+          "title": "스페이스XAI 그록 봇, 은행일 대신 처리해준다…카드·증권 계좌 연동 시작"
+        },
+        {
+          "url": "https://www.finextra.com/blogposting/33002/why-an-agentic-bank-run-is-the-latest-worry?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-ai-is-supercharging-.md",
+          "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready"
+        }
+      ]
+    }
+  ]
+}

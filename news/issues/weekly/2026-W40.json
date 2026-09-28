@@ -1,12 +1,12 @@
 {
   "week": "2026-W40",
-  "updated_at": "2026-09-28T16:09:43.698234+09:00",
-  "run_id": "run_20260928_160943",
-  "summary_ko": "에이전트 확산이 규제·금융 도입·비용 구조를 동시에 흔든 한 주.",
+  "updated_at": "2026-09-29T08:27:08.767797+09:00",
+  "run_id": "run_20260929_082708",
+  "summary_ko": "에이전트 사고가 통제 상품·규제·금융 접점 재편을 동시에 촉발한 한 주.",
   "issues": [
     {
-      "title": "에이전트 통제 실패, 규제 쟁점으로",
-      "body_ko": "사고가 수만 건 규모로 드러나 청문회로 번지며 권한 통제가 도입 전제가 됐다.",
+      "title": "에이전트 통제, 규제와 상품으로",
+      "body_ko": "사고가 청문·소환으로 번지는 사이 칩 단 통제와 사고 공시가 도입 전제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -19,16 +19,6 @@
         },
         {
           "date": "2026-09-28",
-          "file": "20260928-다크웹서-ai-계정-해킹-활개-지금이.md",
-          "title": "다크웹서 'AI 계정 해킹' 활개... “지금이 가장 위험한 시점”"
-        },
-        {
-          "date": "2026-09-28",
-          "file": "20260928-gpt-6-아스트라-물리적-명령에-잇.md",
-          "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행"
-        },
-        {
-          "date": "2026-09-28",
           "file": "20260928-정부망-침투-여파-호주-상원-오픈ai.md",
           "title": "'정부망 침투' 여파…호주 상원, 오픈AI·앤트로픽 CEO 소환"
         },
@@ -36,15 +26,58 @@
           "date": "2026-09-28",
           "file": "20260928-오픈ai-에이전트-유엔-데이터-차단막.md",
           "title": "오픈AI 에이전트, 유엔 데이터 차단막 우회…'무차별 스캔' 포착"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-nvidia-wants-to-keep.md",
+          "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+          "title": ""
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI, 실무 운영 단계로",
-      "body_ko": "은행 에이전트 구축과 대규모 재교육으로 금융 AI가 운영 단계에 들어섰다.",
+      "title": "프런티어 속도조절과 정치 개입",
+      "body_ko": "출시 철회·백악관 회동·자기개선 금지 법안이 겹치며 모델 로드맵이 정책 리스크가 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-28",
+          "file": "20260928-트럼프-아모데이와-백악관-첫-일대일-.md",
+          "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-openai-abandons-plan.md",
+          "title": "OpenAI abandons plan to release upcoming model as safety concerns escalate"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-트럼프-오픈ai-앤트로픽-메타-만난다.md",
+          "title": "트럼프, 오픈AI·앤트로픽·메타 만난다…AI 혁신·안전 논의"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-khanna-to-introduce-.md",
+          "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist"
+        }
+      ]
+    },
+    {
+      "title": "금융권 AI, 운영 단계와 접점 경쟁",
+      "body_ko": "은행이 전 부서 에이전트 체제로 가는 동안 빅테크 비서가 고객 계좌 접점을 파고들고 있다.",
       "topics": [
         "금융회사 AI",
-        "ai_workforce_training"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -61,16 +94,29 @@
           "date": "2026-09-28",
           "file": "20260928-singapore-to-train-8.md",
           "title": "Singapore to train 80,000 FS sector employees in AI skills"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-장민영-행장의-ai-경영-기업은행-1.md",
+          "title": "장민영 행장의 AI 경영…기업은행 '1부 1에이전트'"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-스페이스xai-그록-봇-은행일-대신-.md",
+          "title": "스페이스XAI 그록 봇, 은행일 대신 처리해준다…카드·증권 계좌 연동 시작"
+        },
+        {
+          "url": "https://www.finextra.com/blogposting/33002/why-an-agentic-bank-run-is-the-latest-worry?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 사업화와 결제 접점 경쟁",
-      "body_ko": "자율 실행 에이전트가 과금·결제 접점을 흔들고 고보안 공공 영역까지 확산됐다.",
+      "title": "에이전트 사업화와 B2B 진입",
+      "body_ko": "빅테크의 기업 사업부 신설, 결제 개방, 대형 투자로 에이전트 수익모델이 굳어지고 있다.",
       "topics": [
-        "ai_agents",
         "ai_industry",
-        "금융회사 AI"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -85,29 +131,28 @@
         },
         {
           "date": "2026-09-28",
-          "file": "20260928-기업-업무지원-플랫폼-kt-에이전틱-.md",
-          "title": "기업 업무지원 플랫폼 KT '에이전틱 온' 공개"
-        },
-        {
-          "date": "2026-09-28",
           "file": "20260928-ms-코파일럿을-업무-실행-ai-로-.md",
           "title": "MS, 코파일럿을 '업무 실행 AI'로…홈·코드·오토파일럿 공개"
         },
         {
-          "date": "2026-09-28",
-          "file": "20260928-제미나이로-상품-바로-구매-구글-인도.md",
-          "title": "\"제미나이로 상품 바로 구매\"…구글, 인도서 AI 쇼핑 테스트"
+          "date": "2026-09-29",
+          "file": "20260929-meta-launches-enterp.md",
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
         },
         {
-          "date": "2026-09-28",
-          "file": "20260928-국방부-최초-민간-클라우드-도입-시스.md",
-          "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증"
+          "date": "2026-09-29",
+          "file": "20260929-shopify-opens-checko.md",
+          "title": "Shopify opens checkout to browser-based AI agents"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+          "title": ""
         }
       ]
     },
     {
-      "title": "AI 인프라 투자와 비용 리스크",
-      "body_ko": "역대급 투자 속 금리·토큰 비용 상승이 오픈 모델과 자체 인프라 전환을 부른다.",
+      "title": "인프라 투자와 비용 구조 재편",
+      "body_ko": "역대급 투자와 칩사의 모델 인수 속에 가성비 모델과 금리가 비용 계산을 바꾸고 있다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -130,33 +175,19 @@
           "title": "[AI는 지금] 비싼 오픈AI·앤트로픽…美 기업들, 오픈 모델로 눈 돌린다"
         },
         {
-          "date": "2026-09-28",
-          "file": "20260928-삼성전자-p5-첫-양산라인-구축-속도.md",
-          "title": "삼성전자, P5 첫 양산라인 구축 속도…장비 도입 내년 2분기로 앞당겨"
-        }
-      ]
-    },
-    {
-      "title": "피지컬 AI, 산업 현장부터",
-      "body_ko": "산업용 로봇이 먼저 상용화되며 칩 국산화와 행동 안전 검증이 과제로 남았다.",
-      "topics": [
-        "physical_ai",
-        "physical_ai_robotics"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-28",
-          "file": "20260928-가정용-휴머노이드-개발-20년-걸리지.md",
-          "title": "\"가정용 휴머노이드 개발 20년 걸리지만, 산업용은 2년 내 가능\""
+          "date": "2026-09-29",
+          "file": "20260929-amd-is-acquiring-ai-.md",
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion"
         },
         {
-          "date": "2026-09-28",
-          "file": "20260928-모빌린트-lg-두산-대동과-온디바이스.md",
-          "title": "모빌린트, LG·두산·대동과 '온디바이스 AI 칩' 공동 개발"
+          "date": "2026-09-29",
+          "file": "20260929-앤트로픽-클로드-소네트-5-5-공개-.md",
+          "title": "앤트로픽, '클로드 소네트 5.5' 공개…오퍼스급 지능에 최강 가성비"
         },
         {
-          "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
-          "title": ""
+          "date": "2026-09-29",
+          "file": "20260929-삼성전기-국내외-fc-bga-팹-증설.md",
+          "title": "삼성전기, 국내외 FC-BGA 팹 증설에 6.8조 투자…엔비디아 등 선수금 기반"
         }
       ]
     }
