@@ -1,12 +1,12 @@
 {
   "date": "2026-09-28",
-  "updated_at": "2026-09-28T08:12:52.959036+09:00",
-  "run_id": "run_20260928_081252",
-  "summary_ko": "에이전트 확산 속 통제·비용 리스크가 동시에 커졌다.",
+  "updated_at": "2026-09-28T15:43:28.693450+09:00",
+  "run_id": "run_20260928_154328",
+  "summary_ko": "에이전트가 업무·금융 현장에 깊이 들어온 만큼 통제 리스크도 커졌다.",
   "issues": [
     {
-      "title": "에이전트 보안 사고의 대규모화",
-      "summary_ko": "에이전트 통제 실패가 개별 사고가 아닌 구조적 리스크로 확인됐다.",
+      "title": "에이전트 사고, 규제 청문으로 번져",
+      "summary_ko": "에이전트 통제 실패가 의회의 책임 추궁으로 이어지는 단계에 들어섰다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -24,43 +24,58 @@
         },
         {
           "date": "2026-09-28",
-          "file": "20260928-gpt-6-아스트라-물리적-명령에-잇.md",
-          "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행"
+          "file": "20260928-트럼프-아모데이와-백악관-첫-일대일-.md",
+          "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-정부망-침투-여파-호주-상원-오픈ai.md",
+          "title": "'정부망 침투' 여파…호주 상원, 오픈AI·앤트로픽 CEO 소환"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-오픈ai-에이전트-유엔-데이터-차단막.md",
+          "title": "오픈AI 에이전트, 유엔 데이터 차단막 우회…'무차별 스캔' 포착"
         }
       ]
     },
     {
-      "title": "AI 인프라 투자, 금리 부담 직면",
-      "summary_ko": "투자 규모는 커지지만 차입 비용 상승이 새 변수로 떠올랐다.",
+      "title": "금융권 AI, 운영 단계로",
+      "summary_ko": "은행·운용사가 AI를 실제 고객 서비스와 전사 업무에 올리기 시작했다.",
       "topics": [
-        "ai_compute_energy",
-        "ai_industry"
+        "금융회사 AI",
+        "ai_agents",
+        "ai_workforce_training"
       ],
       "articles": [
         {
           "date": "2026-09-28",
-          "file": "20260928-goldman-sachs-expect.md",
-          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
+          "file": "20260928-포지큐브-하나은행에-ai-에이전트-서.md",
+          "title": "포지큐브, 하나은행에 AI 에이전트 서비스 구축...\"금융 AX 가속\""
         },
         {
           "date": "2026-09-28",
-          "file": "20260928-debt-hungry-ai-compa.md",
-          "title": "Debt-hungry AI companies face increased risk as bond yields spike"
+          "file": "20260928-ai가-내-펀드-매일-봐준다-농협은행.md",
+          "title": "AI가 내 펀드 매일 봐준다…농협은행 ‘NH펀드케어’ 출시"
         },
         {
           "date": "2026-09-28",
-          "file": "20260928-이재용-최태원-젠슨-황-28일-뉴욕서.md",
-          "title": "이재용·최태원·젠슨 황, 28일 뉴욕서 만난다"
+          "file": "20260928-한화운용-ai-플랫폼-오딘-오픈-디지.md",
+          "title": "한화운용, AI 플랫폼 '오딘' 오픈…\"디지털 전환 가속\""
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-singapore-to-train-8.md",
+          "title": "Singapore to train 80,000 FS sector employees in AI skills"
         }
       ]
     },
     {
-      "title": "에이전트 수익화와 소비자 접점 경쟁",
-      "summary_ko": "고가 요금제와 결제 분석 비서로 에이전트 사업화가 본격화됐다.",
+      "title": "에이전트, 업무 실행·구매 창구로",
+      "summary_ko": "AI가 보조를 넘어 직접 일하고 결제하는 주체로 바뀌고 있다.",
       "topics": [
         "ai_agents",
-        "ai_industry",
-        "금융회사 AI"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -77,20 +92,47 @@
           "date": "2026-09-28",
           "file": "20260928-기업-업무지원-플랫폼-kt-에이전틱-.md",
           "title": "기업 업무지원 플랫폼 KT '에이전틱 온' 공개"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-ms-코파일럿을-업무-실행-ai-로-.md",
+          "title": "MS, 코파일럿을 '업무 실행 AI'로…홈·코드·오토파일럿 공개"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-제미나이로-상품-바로-구매-구글-인도.md",
+          "title": "\"제미나이로 상품 바로 구매\"…구글, 인도서 AI 쇼핑 테스트"
         }
       ]
     },
     {
-      "title": "미 행정부-앤트로픽 관계 변화",
-      "summary_ko": "정부-모델사 관계가 조달·규제 환경의 변수로 부상했다.",
+      "title": "AI 비용, 금리·토큰 이중 압박",
+      "summary_ko": "투자는 늘지만 조달 비용과 모델 사용료 부담이 함께 커졌다.",
       "topics": [
-        "ai_policy"
+        "ai_compute_energy",
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-09-28",
-          "file": "20260928-트럼프-아모데이와-백악관-첫-일대일-.md",
-          "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최"
+          "file": "20260928-goldman-sachs-expect.md",
+          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-debt-hungry-ai-compa.md",
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-ai는-지금-비싼-오픈ai-앤트로픽-.md",
+          "title": "[AI는 지금] 비싼 오픈AI·앤트로픽…美 기업들, 오픈 모델로 눈 돌린다"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-삼성전자-p5-첫-양산라인-구축-속도.md",
+          "title": "삼성전자, P5 첫 양산라인 구축 속도…장비 도입 내년 2분기로 앞당겨"
         }
       ]
     }
