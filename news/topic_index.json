@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:43:36+00:00",
+  "generated_at": "2026-09-28T07:09:50+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,7 +12,7 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1248,
+      "count": 1249,
       "latest_date": "2026-09-28"
     },
     {
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 2998,
+      "count": 2999,
       "latest_date": "2026-09-28"
     },
     {
@@ -208,6 +208,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215720"
+      },
+      {
+        "date": "2026-09-28",
+        "file": "20260928-국방부-최초-민간-클라우드-도입-시스.md",
+        "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#cloud",
+          "#ai-adoption",
+          "#defense-ai",
+          "#agent"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260928000345"
       },
       {
         "date": "2026-09-28",
@@ -51672,6 +51687,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=674492"
+      },
+      {
+        "date": "2026-09-28",
+        "file": "20260928-국방부-최초-민간-클라우드-도입-시스.md",
+        "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증",
+        "importance": 6,
+        "tags": [
+          "#public-sector",
+          "#cloud",
+          "#ai-adoption",
+          "#defense-ai",
+          "#agent"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260928000345"
       },
       {
         "date": "2026-09-28",
@@ -133703,7 +133733,7 @@
       {
         "date": "2026-09-28",
         "title": "에이전트, 업무 실행·구매 창구로",
-        "summary": "AI가 보조를 넘어 직접 일하고 결제하는 주체로 바뀌고 있다.",
+        "summary": "AI가 보조를 넘어 직접 일하고 결제하는 주체로 바뀌고, 고보안 공공 영역까지 번졌다.",
         "articles": [
           {
             "date": "2026-09-28",
@@ -133729,6 +133759,11 @@
             "date": "2026-09-28",
             "file": "20260928-제미나이로-상품-바로-구매-구글-인도.md",
             "title": "\"제미나이로 상품 바로 구매\"…구글, 인도서 AI 쇼핑 테스트"
+          },
+          {
+            "date": "2026-09-28",
+            "file": "20260928-국방부-최초-민간-클라우드-도입-시스.md",
+            "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증"
           }
         ]
       },
@@ -143081,7 +143116,7 @@
       {
         "date": "2026-09-28",
         "title": "에이전트, 업무 실행·구매 창구로",
-        "summary": "AI가 보조를 넘어 직접 일하고 결제하는 주체로 바뀌고 있다.",
+        "summary": "AI가 보조를 넘어 직접 일하고 결제하는 주체로 바뀌고, 고보안 공공 영역까지 번졌다.",
         "articles": [
           {
             "date": "2026-09-28",
@@ -143107,6 +143142,11 @@
             "date": "2026-09-28",
             "file": "20260928-제미나이로-상품-바로-구매-구글-인도.md",
             "title": "\"제미나이로 상품 바로 구매\"…구글, 인도서 AI 쇼핑 테스트"
+          },
+          {
+            "date": "2026-09-28",
+            "file": "20260928-국방부-최초-민간-클라우드-도입-시스.md",
+            "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증"
           }
         ]
       },
