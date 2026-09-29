@@ -1,0 +1,148 @@
+{
+  "date": "2026-09-30",
+  "updated_at": "2026-09-30T08:19:40.017033+09:00",
+  "run_id": "run_20260930_081940",
+  "summary_ko": "오픈AI가 업무 플랫폼을 선언한 날, 통제 공백과 가격 경쟁이 함께 드러났다.",
+  "issues": [
+    {
+      "title": "오픈AI, 챗봇에서 업무 플랫폼으로",
+      "summary_ko": "모델·에이전트·앱 유통을 묶어 기업 업무의 기본 창구를 노린다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-30",
+          "file": "20260930-openai-launches-alwa.md",
+          "title": "OpenAI launches always-on Dots agents to rival Meta's Muse"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-openai-s-reveals-a-n.md",
+          "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-챗gpt-외부-서비스까지-품는다-오픈.md",
+          "title": "챗GPT, 외부 서비스까지 품는다…오픈AI 생태계 확장"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
+          "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
+        },
+        {
+          "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "가격 전쟁과 초대형 자본전",
+      "summary_ko": "매출 급증 속 할인·가격 인하 경쟁이 겹쳐 구매자 협상력이 커졌다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-30",
+          "file": "20260930-gpt-6-1-sol-comes-cl.md",
+          "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-chatgpt-now-reaches-.md",
+          "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215761",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215768",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제, 자율 협약에 머물러",
+      "summary_ko": "사고와 위험 평가는 쌓이는데 규제는 자율에 맡겨져 기업 몫이 커졌다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-30",
+          "file": "20260930-openai-apologizes-to.md",
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-uk-ai-security-insti.md",
+          "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-ai도-거짓말-위조-드러나-알리바바-.md",
+          "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+          "title": ""
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-trump-says-he-and-te.md",
+          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
+        },
+        {
+          "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "은행 AI, 자율 워크플로 단계로",
+      "summary_ko": "글로벌 은행은 업무 자동 실행으로 가는데 딥보이스가 통제 공백을 드러냈다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-09-30",
+          "file": "20260930-sibos-2026-google-cl.md",
+          "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-sibos-2026-bofa-expa.md",
+          "title": "Sibos 2026: BofA expands payments capabilities with new intelligence and real-time services"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-throught-machine-and.md",
+          "title": "Throught Machine and AWS to drive AI-powered core migrations"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-회장님까지-속인-그놈-목소리-회삿돈-.md",
+          "title": "회장님까지 속인 '그놈 목소리'…회삿돈 1500억 날아갔다 [이슈+]"
+        }
+      ]
+    }
+  ]
+}

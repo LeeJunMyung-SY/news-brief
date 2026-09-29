@@ -1,22 +1,17 @@
 {
   "week": "2026-W40",
-  "updated_at": "2026-09-29T16:15:48.760845+09:00",
-  "run_id": "run_20260929_161548",
-  "summary_ko": "에이전트 통제와 AI 자본 리스크 관리가 나란히 제도화되는 한 주.",
+  "updated_at": "2026-09-30T08:19:40.017033+09:00",
+  "run_id": "run_20260930_081940",
+  "summary_ko": "에이전트가 업무 플랫폼으로 올라서는 동안 통제와 자본 리스크가 함께 커진 한 주.",
   "issues": [
     {
-      "title": "에이전트 통제, 규제와 상품으로",
-      "body_ko": "사고가 청문·소환으로 번지는 사이 칩 단 통제와 사고 공시가 도입 전제가 됐다.",
+      "title": "에이전트 통제, 사고 책임과 자율 협약",
+      "body_ko": "사고가 사과·청문으로 이어졌지만 규제는 자율 협약에 머물러 기업 자체 통제가 관건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-09-28",
-          "file": "20260928-tens-of-thousands-of.md",
-          "title": "Tens of thousands of security probes show OpenAI's Hugging Face incident was just the beginning"
-        },
         {
           "date": "2026-09-28",
           "file": "20260928-정부망-침투-여파-호주-상원-오픈ai.md",
@@ -36,22 +31,31 @@
           "date": "2026-09-29",
           "file": "20260929-오픈ai-ai-에이전트-캡차-우회-위.md",
           "title": "오픈AI AI 에이전트, 캡차 우회 위해 다른 AI까지 동원 시도"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-openai-apologizes-to.md",
+          "title": "OpenAI apologizes to Australia after its AI agents breached government sites"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-ai도-거짓말-위조-드러나-알리바바-.md",
+          "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+          "title": ""
         }
       ]
     },
     {
       "title": "프런티어 속도조절과 정치 개입",
-      "body_ko": "출시 철회·백악관 회동·자기개선 금지 법안이 겹치며 모델 로드맵이 정책 리스크가 됐다.",
+      "body_ko": "출시 보류와 위험 평가가 이어지는 사이 백악관은 자율 합의를 택해 로드맵 리스크가 커졌다.",
       "topics": [
         "llm_models",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-09-28",
-          "file": "20260928-트럼프-아모데이와-백악관-첫-일대일-.md",
-          "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최"
-        },
         {
           "date": "2026-09-29",
           "file": "20260929-openai-abandons-plan.md",
@@ -59,75 +63,39 @@
         },
         {
           "date": "2026-09-29",
-          "file": "20260929-트럼프-오픈ai-앤트로픽-메타-만난다.md",
-          "title": "트럼프, 오픈AI·앤트로픽·메타 만난다…AI 혁신·안전 논의"
-        },
-        {
-          "date": "2026-09-29",
           "file": "20260929-khanna-to-introduce-.md",
           "title": "Khanna to introduce AI safety bill with ban on 'recursive' technology until safeguards exist"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-트럼프-아모데이와-백악관-첫-일대일-.md",
+          "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-uk-ai-security-insti.md",
+          "title": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-trump-says-he-and-te.md",
+          "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
+        },
+        {
+          "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI, 경영 과제와 접점 경쟁",
-      "body_ko": "은행·보험사가 AI를 전사 전략으로 올리는 동안 빅테크 비서와 생활 플랫폼이 고객 접점을 파고든다.",
+      "title": "에이전트가 업무 플랫폼으로",
+      "body_ko": "빅테크가 상시형 에이전트와 업무 OS로 기업 시장을 겨냥하며 업무 도구의 중심이 옮겨가고 있다.",
       "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-09-28",
-          "file": "20260928-포지큐브-하나은행에-ai-에이전트-서.md",
-          "title": "포지큐브, 하나은행에 AI 에이전트 서비스 구축...\"금융 AX 가속\""
-        },
-        {
-          "date": "2026-09-28",
-          "file": "20260928-ai가-내-펀드-매일-봐준다-농협은행.md",
-          "title": "AI가 내 펀드 매일 봐준다…농협은행 ‘NH펀드케어’ 출시"
-        },
-        {
-          "date": "2026-09-28",
-          "file": "20260928-singapore-to-train-8.md",
-          "title": "Singapore to train 80,000 FS sector employees in AI skills"
-        },
-        {
-          "date": "2026-09-29",
-          "file": "20260929-장민영-행장의-ai-경영-기업은행-1.md",
-          "title": "장민영 행장의 AI 경영…기업은행 '1부 1에이전트'"
-        },
-        {
-          "date": "2026-09-29",
-          "file": "20260929-스페이스xai-그록-봇-은행일-대신-.md",
-          "title": "스페이스XAI 그록 봇, 은행일 대신 처리해준다…카드·증권 계좌 연동 시작"
-        },
-        {
-          "date": "2026-09-29",
-          "file": "20260929-ok캐쉬백서-주식-사고판다-sk플래닛.md",
-          "title": "OK캐쉬백서 주식 사고판다…SK플래닛, KB증권 연계 서비스 출시"
-        },
-        {
-          "date": "2026-09-29",
-          "file": "20260929-금융-들의-궤적-미래에셋생명-투톱-건.md",
-          "title": "[금융★들의 궤적] 미래에셋생명 투톱, 건강보험 키우고 AI 입힌다"
-        }
-      ]
-    },
-    {
-      "title": "에이전트 사업화와 기업 현장 도입",
-      "body_ko": "빅테크가 상시형 비서와 기업 사업부로 영역을 넓히는 동안 기업은 인재 격차 속에 현장 정착을 검증 중이다.",
-      "topics": [
-        "ai_industry",
         "ai_agents",
+        "ai_industry",
         "ai_workforce_training"
       ],
       "articles": [
-        {
-          "date": "2026-09-28",
-          "file": "20260928-오픈ai-500달러-프로-맥스-요금제.md",
-          "title": "오픈AI, 500달러 ‘프로 맥스’ 요금제 출시하나…‘워크·코덱스’ 고속 처리"
-        },
         {
           "date": "2026-09-28",
           "file": "20260928-ms-코파일럿을-업무-실행-ai-로-.md",
@@ -140,60 +108,84 @@
         },
         {
           "date": "2026-09-29",
-          "file": "20260929-shopify-opens-checko.md",
-          "title": "Shopify opens checkout to browser-based AI agents"
-        },
-        {
-          "date": "2026-09-29",
           "file": "20260929-ai-시대-일의-재편-nhn-디자이너.md",
           "title": "[AI 시대 일의 재편]NHN, 디자이너·영업도 클로드로 '자동화'한다"
         },
         {
-          "date": "2026-09-29",
-          "file": "20260929-오픈ai-데브데이서-신제품-20개-예.md",
-          "title": "오픈AI, 데브데이서 신제품 20개 예고...'상시 작동 에이전트' 주목"
+          "date": "2026-09-30",
+          "file": "20260930-openai-launches-alwa.md",
+          "title": "OpenAI launches always-on Dots agents to rival Meta's Muse"
         },
         {
-          "date": "2026-09-29",
-          "file": "20260929-기업들-ai-활용-능력-가장-앞선-직.md",
-          "title": "기업들, AI 활용 능력 가장 앞선 직원 잃고 대다수 직원 뒤처질 위험에 처해: PwC"
+          "date": "2026-09-30",
+          "file": "20260930-openai-s-reveals-a-n.md",
+          "title": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-챗gpt-외부-서비스까지-품는다-오픈.md",
+          "title": "챗GPT, 외부 서비스까지 품는다…오픈AI 생태계 확장"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라 자본 확대와 위험 분산",
-      "body_ko": "역대급 투자와 그룹 출자가 이어지는 한편, 공급사 적자 공개와 담보대출 보험화로 위험 분담 구조가 드러났다.",
+      "title": "금융권 AI, 경영 과제에서 자율 업무로",
+      "body_ko": "국내외 금융사가 AI를 전사 전략과 업무 자동 실행으로 끌어올리지만 사기·보안 통제가 과제다.",
       "topics": [
-        "ai_compute_energy",
-        "ai_industry",
-        "금융회사 AI"
+        "금융회사 AI",
+        "ai_agents"
       ],
       "articles": [
         {
           "date": "2026-09-28",
-          "file": "20260928-goldman-sachs-expect.md",
-          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
+          "file": "20260928-포지큐브-하나은행에-ai-에이전트-서.md",
+          "title": "포지큐브, 하나은행에 AI 에이전트 서비스 구축...\"금융 AX 가속\""
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-장민영-행장의-ai-경영-기업은행-1.md",
+          "title": "장민영 행장의 AI 경영…기업은행 '1부 1에이전트'"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-스페이스xai-그록-봇-은행일-대신-.md",
+          "title": "스페이스XAI 그록 봇, 은행일 대신 처리해준다…카드·증권 계좌 연동 시작"
         },
         {
           "date": "2026-09-28",
-          "file": "20260928-debt-hungry-ai-compa.md",
-          "title": "Debt-hungry AI companies face increased risk as bond yields spike"
+          "file": "20260928-singapore-to-train-8.md",
+          "title": "Singapore to train 80,000 FS sector employees in AI skills"
         },
         {
-          "date": "2026-09-29",
-          "file": "20260929-amd-is-acquiring-ai-.md",
-          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion"
+          "date": "2026-09-30",
+          "file": "20260930-sibos-2026-google-cl.md",
+          "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
         },
         {
-          "date": "2026-09-29",
-          "file": "20260929-삼성-6개사-헬릭스에-1-3조-투자-.md",
-          "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략"
+          "date": "2026-09-30",
+          "file": "20260930-sibos-2026-bofa-expa.md",
+          "title": "Sibos 2026: BofA expands payments capabilities with new intelligence and real-time services"
         },
         {
-          "date": "2026-09-29",
-          "file": "20260929-삼성전기-국내외-fc-bga-팹-증설.md",
-          "title": "삼성전기, 국내외 FC-BGA 팹 증설에 6.8조 투자…엔비디아 등 선수금 기반"
-        },
+          "date": "2026-09-30",
+          "file": "20260930-회장님까지-속인-그놈-목소리-회삿돈-.md",
+          "title": "회장님까지 속인 '그놈 목소리'…회삿돈 1500억 날아갔다 [이슈+]"
+        }
+      ]
+    },
+    {
+      "title": "AI 자본, 가격 경쟁과 위험 분산",
+      "body_ko": "초대형 조달과 상장이 이어지는 한편 가격 인하·할인 경쟁과 조달 비용 상승이 공존한다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "llm_models"
+      ],
+      "articles": [
         {
           "date": "2026-09-29",
           "file": "20260929-anthropic-s-prospect.md",
@@ -203,6 +195,34 @@
           "date": "2026-09-29",
           "file": "20260929-엔비디아-ai칩-담보대출-보험-추진-.md",
           "title": "\"엔비디아, 'AI칩 담보대출' 보험 추진…AI 인프라 위험 분산\""
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-삼성-6개사-헬릭스에-1-3조-투자-.md",
+          "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략"
+        },
+        {
+          "date": "2026-09-28",
+          "file": "20260928-goldman-sachs-expect.md",
+          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-chatgpt-now-reaches-.md",
+          "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says"
+        },
+        {
+          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "title": ""
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-gpt-6-1-sol-comes-cl.md",
+          "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215761",
+          "title": ""
         }
       ]
     }
