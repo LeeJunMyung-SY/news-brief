@@ -1,8 +1,8 @@
 {
   "date": "2026-09-29",
-  "updated_at": "2026-09-29T08:27:08.767797+09:00",
-  "run_id": "run_20260929_082708",
-  "summary_ko": "에이전트 통제가 인프라 상품이 되고 프런티어 속도조절이 정치 의제로 올라온 하루.",
+  "updated_at": "2026-09-29T12:22:25.738033+09:00",
+  "run_id": "run_20260929_122225",
+  "summary_ko": "에이전트 통제가 제도화되고 국내 그룹 자본이 AI 인프라 사업에 뛰어든 하루.",
   "issues": [
     {
       "title": "에이전트 통제, 칩과 공시로 제도화",
@@ -16,18 +16,6 @@
           "date": "2026-09-29",
           "file": "20260929-nvidia-wants-to-keep.md",
           "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips"
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-          "title": ""
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-          "title": ""
-        },
-        {
-          "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-          "title": ""
         }
       ]
     },
@@ -62,18 +50,18 @@
       ]
     },
     {
-      "title": "빅테크, 기업 시장과 결제 접점 공략",
-      "summary_ko": "B2B 사업부 신설·대형 인수·가성비 모델로 공급 지형이 재편되고 있다.",
+      "title": "공급 지형과 인프라 자본의 재편",
+      "summary_ko": "빅테크의 B2B 진입과 국내 그룹의 데이터센터 출자로 공급·인프라 지형이 함께 바뀌고 있다.",
       "topics": [
         "ai_industry",
-        "ai_agents",
+        "ai_compute_energy",
         "llm_models"
       ],
       "articles": [
         {
           "date": "2026-09-29",
           "file": "20260929-meta-launches-enterp.md",
-          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
         },
         {
           "date": "2026-09-29",
@@ -91,14 +79,20 @@
           "title": "Shopify opens checkout to browser-based AI agents"
         },
         {
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-          "title": ""
+          "date": "2026-09-29",
+          "file": "20260929-삼성-6개사-헬릭스에-1-3조-투자-.md",
+          "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-lg전자-aidc-토털-솔루션-공개-.md",
+          "title": "LG전자, AIDC 토털 솔루션 공개...구축 기간·투자비 절감"
         }
       ]
     },
     {
-      "title": "금융 접점, 에이전트로 이동",
-      "summary_ko": "은행은 전 부서 에이전트로, 빅테크 비서는 계좌 안으로 들어오고 있다.",
+      "title": "금융 접점, 에이전트와 임베디드로 이동",
+      "summary_ko": "은행은 전 부서 에이전트로, 고객 접점은 빅테크 비서와 생활 플랫폼 안으로 옮겨가고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -115,13 +109,14 @@
           "title": "스페이스XAI 그록 봇, 은행일 대신 처리해준다…카드·증권 계좌 연동 시작"
         },
         {
-          "url": "https://www.finextra.com/blogposting/33002/why-an-agentic-bank-run-is-the-latest-worry?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-09-29",
           "file": "20260929-ai-is-supercharging-.md",
           "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-ok캐쉬백서-주식-사고판다-sk플래닛.md",
+          "title": "OK캐쉬백서 주식 사고판다…SK플래닛, KB증권 연계 서비스 출시"
         }
       ]
     }

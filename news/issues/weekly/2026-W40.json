@@ -1,8 +1,8 @@
 {
   "week": "2026-W40",
-  "updated_at": "2026-09-29T08:27:08.767797+09:00",
-  "run_id": "run_20260929_082708",
-  "summary_ko": "에이전트 사고가 통제 상품·규제·금융 접점 재편을 동시에 촉발한 한 주.",
+  "updated_at": "2026-09-29T12:22:25.738033+09:00",
+  "run_id": "run_20260929_122225",
+  "summary_ko": "에이전트 사고 통제와 국내 자본의 인프라 진입이 나란히 진행된 한 주.",
   "issues": [
     {
       "title": "에이전트 통제, 규제와 상품으로",
@@ -31,14 +31,6 @@
           "date": "2026-09-29",
           "file": "20260929-nvidia-wants-to-keep.md",
           "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips"
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-          "title": ""
-        },
-        {
-          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-          "title": ""
         }
       ]
     },
@@ -74,7 +66,7 @@
     },
     {
       "title": "금융권 AI, 운영 단계와 접점 경쟁",
-      "body_ko": "은행이 전 부서 에이전트 체제로 가는 동안 빅테크 비서가 고객 계좌 접점을 파고들고 있다.",
+      "body_ko": "은행이 전 부서 에이전트로 가는 동안 빅테크 비서와 생활 플랫폼이 고객 계좌 접점을 파고들고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -106,17 +98,19 @@
           "title": "스페이스XAI 그록 봇, 은행일 대신 처리해준다…카드·증권 계좌 연동 시작"
         },
         {
-          "url": "https://www.finextra.com/blogposting/33002/why-an-agentic-bank-run-is-the-latest-worry?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-09-29",
+          "file": "20260929-ok캐쉬백서-주식-사고판다-sk플래닛.md",
+          "title": "OK캐쉬백서 주식 사고판다…SK플래닛, KB증권 연계 서비스 출시"
         }
       ]
     },
     {
-      "title": "에이전트 사업화와 B2B 진입",
-      "body_ko": "빅테크의 기업 사업부 신설, 결제 개방, 대형 투자로 에이전트 수익모델이 굳어지고 있다.",
+      "title": "에이전트 사업화와 기업 현장 도입",
+      "body_ko": "빅테크의 기업 사업부 신설과 결제 개방에 이어 국내 기업은 전 직군 자동화로 도입 성과를 검증하고 있다.",
       "topics": [
         "ai_industry",
-        "ai_agents"
+        "ai_agents",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -137,7 +131,7 @@
         {
           "date": "2026-09-29",
           "file": "20260929-meta-launches-enterp.md",
-          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
         },
         {
           "date": "2026-09-29",
@@ -145,14 +139,15 @@
           "title": "Shopify opens checkout to browser-based AI agents"
         },
         {
-          "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-          "title": ""
+          "date": "2026-09-29",
+          "file": "20260929-ai-시대-일의-재편-nhn-디자이너.md",
+          "title": "[AI 시대 일의 재편]NHN, 디자이너·영업도 클로드로 '자동화'한다"
         }
       ]
     },
     {
       "title": "인프라 투자와 비용 구조 재편",
-      "body_ko": "역대급 투자와 칩사의 모델 인수 속에 가성비 모델과 금리가 비용 계산을 바꾸고 있다.",
+      "body_ko": "역대급 투자와 칩사의 모델 인수에 국내 그룹의 데이터센터 출자까지 더해져, 인프라 자본의 주체와 비용 계산이 함께 바뀌고 있다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -188,6 +183,16 @@
           "date": "2026-09-29",
           "file": "20260929-삼성전기-국내외-fc-bga-팹-증설.md",
           "title": "삼성전기, 국내외 FC-BGA 팹 증설에 6.8조 투자…엔비디아 등 선수금 기반"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-삼성-6개사-헬릭스에-1-3조-투자-.md",
+          "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-lg전자-aidc-토털-솔루션-공개-.md",
+          "title": "LG전자, AIDC 토털 솔루션 공개...구축 기간·투자비 절감"
         }
       ]
     }
