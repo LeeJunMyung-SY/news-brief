@@ -1,12 +1,12 @@
 {
   "date": "2026-09-29",
-  "updated_at": "2026-09-29T12:22:25.738033+09:00",
-  "run_id": "run_20260929_122225",
-  "summary_ko": "에이전트 통제가 제도화되고 국내 그룹 자본이 AI 인프라 사업에 뛰어든 하루.",
+  "updated_at": "2026-09-29T16:15:48.760845+09:00",
+  "run_id": "run_20260929_161548",
+  "summary_ko": "에이전트 통제와 AI 자본의 리스크 관리가 함께 제도화된 하루.",
   "issues": [
     {
       "title": "에이전트 통제, 칩과 공시로 제도화",
-      "summary_ko": "폭주 대응이 가드레일을 넘어 인프라 상품과 공급사 공시로 굳어지고 있다.",
+      "summary_ko": "통제 이탈 사례가 쌓이며 가드레일이 인프라 상품과 공시로 굳어지고 있다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -16,6 +16,11 @@
           "date": "2026-09-29",
           "file": "20260929-nvidia-wants-to-keep.md",
           "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-오픈ai-ai-에이전트-캡차-우회-위.md",
+          "title": "오픈AI AI 에이전트, 캡차 우회 위해 다른 AI까지 동원 시도"
         }
       ]
     },
@@ -50,8 +55,8 @@
       ]
     },
     {
-      "title": "공급 지형과 인프라 자본의 재편",
-      "summary_ko": "빅테크의 B2B 진입과 국내 그룹의 데이터센터 출자로 공급·인프라 지형이 함께 바뀌고 있다.",
+      "title": "AI 자본, 확장과 위험 분산 동시 진행",
+      "summary_ko": "인프라 출자가 늘수록 공급사 적자와 담보 위험을 공시·보험으로 나누는 단계에 들어섰다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -75,11 +80,6 @@
         },
         {
           "date": "2026-09-29",
-          "file": "20260929-shopify-opens-checko.md",
-          "title": "Shopify opens checkout to browser-based AI agents"
-        },
-        {
-          "date": "2026-09-29",
           "file": "20260929-삼성-6개사-헬릭스에-1-3조-투자-.md",
           "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략"
         },
@@ -87,12 +87,32 @@
           "date": "2026-09-29",
           "file": "20260929-lg전자-aidc-토털-솔루션-공개-.md",
           "title": "LG전자, AIDC 토털 솔루션 공개...구축 기간·투자비 절감"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-anthropic-s-prospect.md",
+          "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-엔비디아-ai칩-담보대출-보험-추진-.md",
+          "title": "\"엔비디아, 'AI칩 담보대출' 보험 추진…AI 인프라 위험 분산\""
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-슈퍼마이크로-엔비디아-베라-루빈-출하.md",
+          "title": "슈퍼마이크로, 엔비디아 베라 루빈 출하 시작…AI 인프라 공략 가속"
+        },
+        {
+          "date": "2026-09-29",
+          "file": "20260929-오픈ai-데브데이서-신제품-20개-예.md",
+          "title": "오픈AI, 데브데이서 신제품 20개 예고...'상시 작동 에이전트' 주목"
         }
       ]
     },
     {
-      "title": "금융 접점, 에이전트와 임베디드로 이동",
-      "summary_ko": "은행은 전 부서 에이전트로, 고객 접점은 빅테크 비서와 생활 플랫폼 안으로 옮겨가고 있다.",
+      "title": "금융 AI, 경영 전략과 접점 이동",
+      "summary_ko": "금융사는 AI를 전사 전략으로 올리는 사이 고객 접점은 외부 비서와 플랫폼으로 흩어지고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -110,13 +130,18 @@
         },
         {
           "date": "2026-09-29",
+          "file": "20260929-ok캐쉬백서-주식-사고판다-sk플래닛.md",
+          "title": "OK캐쉬백서 주식 사고판다…SK플래닛, KB증권 연계 서비스 출시"
+        },
+        {
+          "date": "2026-09-29",
           "file": "20260929-ai-is-supercharging-.md",
           "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready"
         },
         {
           "date": "2026-09-29",
-          "file": "20260929-ok캐쉬백서-주식-사고판다-sk플래닛.md",
-          "title": "OK캐쉬백서 주식 사고판다…SK플래닛, KB증권 연계 서비스 출시"
+          "file": "20260929-금융-들의-궤적-미래에셋생명-투톱-건.md",
+          "title": "[금융★들의 궤적] 미래에셋생명 투톱, 건강보험 키우고 AI 입힌다"
         }
       ]
     }
