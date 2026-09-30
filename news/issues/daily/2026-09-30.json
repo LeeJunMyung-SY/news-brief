@@ -1,8 +1,8 @@
 {
   "date": "2026-09-30",
-  "updated_at": "2026-09-30T08:19:40.017033+09:00",
-  "run_id": "run_20260930_081940",
-  "summary_ko": "오픈AI가 업무 플랫폼을 선언한 날, 통제 공백과 가격 경쟁이 함께 드러났다.",
+  "updated_at": "2026-09-30T12:17:07.069204+09:00",
+  "run_id": "run_20260930_121707",
+  "summary_ko": "오픈AI는 자본으로, 미 정부는 자율 서약으로 답했고 국내는 도입 성과를 수치로 내놨다.",
   "issues": [
     {
       "title": "오픈AI, 챗봇에서 업무 플랫폼으로",
@@ -34,21 +34,18 @@
           "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
         },
         {
-          "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
-          "title": ""
-        },
-        {
-          "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-          "title": ""
+          "date": "2026-09-30",
+          "file": "20260930-메타-소상공인용-ai-에이전트-출시-.md",
+          "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대"
         }
       ]
     },
     {
-      "title": "가격 전쟁과 초대형 자본전",
-      "summary_ko": "매출 급증 속 할인·가격 인하 경쟁이 겹쳐 구매자 협상력이 커졌다.",
+      "title": "상장은 미루고 자본은 키운다",
+      "summary_ko": "매출이 급증해도 안전을 조건으로 상장을 늦추고 비공개 조달로 몸집을 키우는 국면이다.",
       "topics": [
-        "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
@@ -62,26 +59,23 @@
           "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says"
         },
         {
-          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-          "title": ""
+          "date": "2026-09-30",
+          "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
+          "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215761",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215768",
-          "title": ""
+          "date": "2026-09-30",
+          "file": "20260930-알트먼-기업공개-압박-없이-ai-안전.md",
+          "title": "알트먼 \"기업공개 압박 없이 AI 안전 확보가 우선\""
         }
       ]
     },
     {
-      "title": "에이전트 통제, 자율 협약에 머물러",
-      "summary_ko": "사고와 위험 평가는 쌓이는데 규제는 자율에 맡겨져 기업 몫이 커졌다.",
+      "title": "규제는 자율, 통제는 기업 몫",
+      "summary_ko": "강제 기준 대신 자율 서약이 확정되면서 사고 대비 부담이 도입 기업으로 넘어왔다.",
       "topics": [
-        "ai_agents",
         "ai_policy",
-        "llm_models"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -96,30 +90,33 @@
         },
         {
           "date": "2026-09-30",
-          "file": "20260930-ai도-거짓말-위조-드러나-알리바바-.md",
-          "title": "中 AI도 '거짓말·위조'드러나…알리바바·딥시크 에이전트 기만행동"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-          "title": ""
-        },
-        {
-          "date": "2026-09-30",
           "file": "20260930-trump-says-he-and-te.md",
           "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
         },
         {
-          "url": "https://the-decoder.com/florida-wants-a-court-to-stop-chatgpt-from-pretending-to-be-human-and-talking-to-kids/",
-          "title": ""
+          "date": "2026-09-30",
+          "file": "20260930-트럼프-빅테크-대거-소집해-규제-불가.md",
+          "title": "트럼프, 빅테크 대거 소집해 '규제 불가' 재확인…업계 자발적 서약에 그쳐"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-ai는-지금-트럼프-인공지능-슈퍼-인.md",
+          "title": "[AI는 지금] 트럼프, 인공지능→슈퍼 인텔리전스로…왜"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-신뢰로-도약하는-ai혁신-사회를-6회.md",
+          "title": "\"신뢰로 도약하는 AI혁신 사회를\"...'6회 개인정보보호의 날' 열려"
         }
       ]
     },
     {
-      "title": "은행 AI, 자율 워크플로 단계로",
-      "summary_ko": "글로벌 은행은 업무 자동 실행으로 가는데 딥보이스가 통제 공백을 드러냈다.",
+      "title": "국내 도입, 성과 지표로 말한다",
+      "summary_ko": "AI 효과를 운영 지표와 근로조건으로 환산해 제시하는 단계로 넘어왔다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_industry",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -129,18 +126,23 @@
         },
         {
           "date": "2026-09-30",
-          "file": "20260930-sibos-2026-bofa-expa.md",
-          "title": "Sibos 2026: BofA expands payments capabilities with new intelligence and real-time services"
-        },
-        {
-          "date": "2026-09-30",
-          "file": "20260930-throught-machine-and.md",
-          "title": "Throught Machine and AWS to drive AI-powered core migrations"
-        },
-        {
-          "date": "2026-09-30",
           "file": "20260930-회장님까지-속인-그놈-목소리-회삿돈-.md",
           "title": "회장님까지 속인 '그놈 목소리'…회삿돈 1500억 날아갔다 [이슈+]"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-lgu-ai로-상담-대기-47초-5초.md",
+          "title": "LGU+, AI로 상담 대기 47초→5초…AICC 기업시장 공략"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-게시판-bc카드-법률ai로-준법업무-.md",
+          "title": "[게시판] BC카드, 법률AI로 준법업무 혁신…리걸테크기업과 MOU"
+        },
+        {
+          "date": "2026-09-30",
+          "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
+          "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
         }
       ]
     }
