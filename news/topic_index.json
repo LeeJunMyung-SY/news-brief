@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-09-30T03:17:15+00:00",
+  "generated_at": "2026-09-30T07:19:55+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1039,
+      "count": 1043,
       "latest_date": "2026-09-30"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1274,
+      "count": 1285,
       "latest_date": "2026-09-30"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1298,
+      "count": 1307,
       "latest_date": "2026-09-30"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3036,
+      "count": 3055,
       "latest_date": "2026-09-30"
     },
     {
@@ -40,21 +40,21 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 911,
+      "count": 916,
       "latest_date": "2026-09-30"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 741,
+      "count": 746,
       "latest_date": "2026-09-30"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 511,
+      "count": 512,
       "latest_date": "2026-09-30"
     },
     {
@@ -82,7 +82,7 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 39,
+      "count": 44,
       "latest_date": "2026-09-30"
     },
     {
@@ -95,6 +95,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-09-30",
+        "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+        "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#roi-case",
+          "#finance",
+          "#agent-framework"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674726"
+      },
       {
         "date": "2026-09-30",
         "file": "20260930-openai-launches-alwa.md",
@@ -126,6 +141,36 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+        "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다",
+        "importance": 8,
+        "tags": [
+          "#data-standard",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#partnership",
+          "#open-source"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215803"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+        "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#enterprise-ai",
+          "#automation",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674580"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
         "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화",
         "importance": 7,
@@ -137,6 +182,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930051109"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+        "title": "HD현대, AI 활용·관리 문화 확산…'실무 교육으로 '코파일럿' 이용률↑'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#copilot",
+          "#change-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930142636"
       },
       {
         "date": "2026-09-30",
@@ -155,6 +215,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-lg전자-ms-사람처럼-대화하는-씽큐.md",
+        "title": "LG전자-MS, '사람처럼 대화하는' 씽큐온 만든다…끼어들기도 척척",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#multimodal",
+          "#agent-framework",
+          "#ai-adoption"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000216"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-openai-apologizes-to.md",
         "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
         "importance": 7,
@@ -166,6 +241,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-openai-huggingface-a.md",
+        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#agent-governance",
+          "#safety-incident",
+          "#red-teaming",
+          "#alignment"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.35799"
       },
       {
         "date": "2026-09-30",
@@ -213,6 +303,36 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
+        "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]",
+        "importance": 7,
+        "tags": [
+          "#ai-security",
+          "#agent-governance",
+          "#enterprise-ai",
+          "#safety-incident",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674713"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+        "title": "롯데면세점·신세계인터내셔날 'AI 전환의 핵심은 현업'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#retail",
+          "#agent-framework",
+          "#change-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930120627"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-챗gpt-외부-서비스까지-품는다-오픈.md",
         "title": "챗GPT, 외부 서비스까지 품는다…오픈AI 생태계 확장",
         "importance": 7,
@@ -227,6 +347,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+        "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#identity-verification",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215800"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-트럼프-빅테크-대거-소집해-규제-불가.md",
         "title": "트럼프, 빅테크 대거 소집해 '규제 불가' 재확인…업계 자발적 서약에 그쳐",
         "importance": 7,
@@ -238,6 +373,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215791"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+        "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증",
+        "importance": 7,
+        "tags": [
+          "#mcp",
+          "#public-ai",
+          "#agent-framework",
+          "#data-standard",
+          "#ai-adoption"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000400"
       },
       {
         "date": "2026-09-30",
@@ -267,6 +417,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930102359"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-is-agent-code-less-m.md",
+        "title": "Is Agent Code Less Maintainable Than Human Code?",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#coding",
+          "#agent-framework",
+          "#technical-debt",
+          "#maintainability"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2606.21804"
       },
       {
         "date": "2026-09-30",
@@ -18653,6 +18818,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+        "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속",
+        "importance": 8,
+        "tags": [
+          "#open-source",
+          "#semiconductor",
+          "#supply-chain",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215798"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
         "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박",
         "importance": 8,
@@ -18678,6 +18858,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930051109"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-lg전자-ms-사람처럼-대화하는-씽큐.md",
+        "title": "LG전자-MS, '사람처럼 대화하는' 씽큐온 만든다…끼어들기도 척척",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#multimodal",
+          "#agent-framework",
+          "#ai-adoption"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000216"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-openai-huggingface-a.md",
+        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#agent-governance",
+          "#safety-incident",
+          "#red-teaming",
+          "#alignment"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.35799"
       },
       {
         "date": "2026-09-30",
@@ -18735,6 +18945,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930102359"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-독파모와-프런티어-ai를-계속-가져가.md",
+        "title": "독파모와 프런티어 AI를 계속 가져가야 하는 다섯 가지 이유",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#policy",
+          "#foundation-model",
+          "#open-weights"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930135449"
       },
       {
         "date": "2026-09-30",
@@ -33632,6 +33856,36 @@
     "ai_policy": [
       {
         "date": "2026-09-30",
+        "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+        "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속",
+        "importance": 8,
+        "tags": [
+          "#open-source",
+          "#semiconductor",
+          "#supply-chain",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215798"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+        "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다",
+        "importance": 7,
+        "tags": [
+          "#data-governance",
+          "#privacy",
+          "#public-ai",
+          "#ai-infrastructure",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930135045"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-openai-apologizes-to.md",
         "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
         "importance": 7,
@@ -33643,6 +33897,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-openai-huggingface-a.md",
+        "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing",
+        "importance": 7,
+        "tags": [
+          "#research-paper",
+          "#agent-governance",
+          "#safety-incident",
+          "#red-teaming",
+          "#alignment"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2609.35799"
       },
       {
         "date": "2026-09-30",
@@ -33674,6 +33943,36 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
+        "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]",
+        "importance": 7,
+        "tags": [
+          "#ai-security",
+          "#agent-governance",
+          "#enterprise-ai",
+          "#safety-incident",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674713"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+        "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#identity-verification",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215800"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-트럼프-빅테크-대거-소집해-규제-불가.md",
         "title": "트럼프, 빅테크 대거 소집해 '규제 불가' 재확인…업계 자발적 서약에 그쳐",
         "importance": 7,
@@ -33685,6 +33984,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215791"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+        "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증",
+        "importance": 7,
+        "tags": [
+          "#mcp",
+          "#public-ai",
+          "#agent-framework",
+          "#data-standard",
+          "#ai-adoption"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000400"
       },
       {
         "date": "2026-09-30",
@@ -33743,6 +34057,35 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-독파모와-프런티어-ai를-계속-가져가.md",
+        "title": "독파모와 프런티어 AI를 계속 가져가야 하는 다섯 가지 이유",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#policy",
+          "#foundation-model",
+          "#open-weights"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930135449"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-박세웅-etri-원장-3년간-ai-피.md",
+        "title": "박세웅 ETRI 원장 '3년간 AI·피지컬 AI·입체통신·공간결합·ADX 올인'",
+        "importance": 6,
+        "tags": [
+          "#rnd",
+          "#public-research",
+          "#physical-ai",
+          "#org-change",
+          "#policy"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930095316"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-배경훈-부총리-독파모-계속된다-프런티.md",
         "title": "배경훈 부총리 “독파모 계속된다…프런티어 AI에도 도전”",
         "importance": 6,
@@ -33795,6 +34138,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=674666"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-우상호-강원지사-sk에-400mw-1.md",
+        "title": "우상호 강원지사 'SK에 400MW 1단계 AI 데이터센터 제안'",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power",
+          "#local-government",
+          "#ai-infrastructure",
+          "#investment"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260930135800062"
       },
       {
         "date": "2026-09-29",
@@ -52421,6 +52779,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+        "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#roi-case",
+          "#finance",
+          "#agent-framework"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674726"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-openai-launches-alwa.md",
         "title": "OpenAI launches always-on Dots agents to rival Meta's Muse",
         "importance": 8,
@@ -52450,6 +52823,36 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+        "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다",
+        "importance": 8,
+        "tags": [
+          "#data-standard",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#partnership",
+          "#open-source"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215803"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+        "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속",
+        "importance": 8,
+        "tags": [
+          "#open-source",
+          "#semiconductor",
+          "#supply-chain",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215798"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
         "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박",
         "importance": 8,
@@ -52464,6 +52867,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+        "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#enterprise-ai",
+          "#automation",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674580"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
         "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화",
         "importance": 7,
@@ -52475,6 +52893,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930051109"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+        "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다",
+        "importance": 7,
+        "tags": [
+          "#data-governance",
+          "#privacy",
+          "#public-ai",
+          "#ai-infrastructure",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930135045"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+        "title": "HD현대, AI 활용·관리 문화 확산…'실무 교육으로 '코파일럿' 이용률↑'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#copilot",
+          "#change-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930142636"
       },
       {
         "date": "2026-09-30",
@@ -52508,6 +52956,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-lg전자-ms-사람처럼-대화하는-씽큐.md",
+        "title": "LG전자-MS, '사람처럼 대화하는' 씽큐온 만든다…끼어들기도 척척",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#multimodal",
+          "#agent-framework",
+          "#ai-adoption"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000216"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-sibos-2026-google-cl.md",
         "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows",
         "importance": 7,
@@ -52538,6 +53001,66 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
+        "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]",
+        "importance": 7,
+        "tags": [
+          "#ai-security",
+          "#agent-governance",
+          "#enterprise-ai",
+          "#safety-incident",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674713"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+        "title": "롯데면세점·신세계인터내셔날 'AI 전환의 핵심은 현업'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#retail",
+          "#agent-framework",
+          "#change-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930120627"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-엘리스그룹-1조-몸값-코스닥-도전-글.md",
+        "title": "엘리스그룹, '1조 몸값' 코스닥 도전…글로벌 네오클라우드 노린다",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#neocloud",
+          "#datacenter",
+          "#investment",
+          "#ai-infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930123837"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-역대급-r-d-ls-hd현대-효성-전.md",
+        "title": "'역대급 R&D' LS·HD현대·효성重, 韓 전력기기 역사 새로 쓴다",
+        "importance": 7,
+        "tags": [
+          "#power",
+          "#grid",
+          "#datacenter",
+          "#capex",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674694"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-챗gpt-외부-서비스까지-품는다-오픈.md",
         "title": "챗GPT, 외부 서비스까지 품는다…오픈AI 생태계 확장",
         "importance": 7,
@@ -52552,6 +53075,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+        "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#identity-verification",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215800"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-트럼프-빅테크-대거-소집해-규제-불가.md",
         "title": "트럼프, 빅테크 대거 소집해 '규제 불가' 재확인…업계 자발적 서약에 그쳐",
         "importance": 7,
@@ -52563,6 +53101,35 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215791"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+        "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증",
+        "importance": 7,
+        "tags": [
+          "#mcp",
+          "#public-ai",
+          "#agent-framework",
+          "#data-standard",
+          "#ai-adoption"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000400"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ai-broke-the-job-app.md",
+        "title": "AI broke the job application. What replaces it?",
+        "importance": 6,
+        "tags": [
+          "#hr",
+          "#recruiting",
+          "#ai-adoption",
+          "#process-redesign"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html"
       },
       {
         "date": "2026-09-30",
@@ -52609,6 +53176,35 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-is-agent-code-less-m.md",
+        "title": "Is Agent Code Less Maintainable Than Human Code?",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#coding",
+          "#agent-framework",
+          "#technical-debt",
+          "#maintainability"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2606.21804"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ls마린-해저광통신-사업-제2-전성기.md",
+        "title": "LS마린, 해저광통신 사업 제2 전성기…빅테크 AI 인프라 투자 수혜",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#network",
+          "#supply-chain",
+          "#capex"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674668"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-s2w-ai로-기업-의사결정-지원-비.md",
         "title": "S2W, AI로 기업 의사결정 지원…비보안 사업 확대",
         "importance": 6,
@@ -52620,6 +53216,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=674688"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-독파모와-프런티어-ai를-계속-가져가.md",
+        "title": "독파모와 프런티어 AI를 계속 가져가야 하는 다섯 가지 이유",
+        "importance": 6,
+        "tags": [
+          "#sovereign-ai",
+          "#policy",
+          "#foundation-model",
+          "#open-weights"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930135449"
       },
       {
         "date": "2026-09-30",
@@ -52637,6 +53247,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-박세웅-etri-원장-3년간-ai-피.md",
+        "title": "박세웅 ETRI 원장 '3년간 AI·피지컬 AI·입체통신·공간결합·ADX 올인'",
+        "importance": 6,
+        "tags": [
+          "#rnd",
+          "#public-research",
+          "#physical-ai",
+          "#org-change",
+          "#policy"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930095316"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-알트먼-기업공개-압박-없이-ai-안전.md",
         "title": "알트먼 '기업공개 압박 없이 AI 안전 확보가 우선'",
         "importance": 6,
@@ -52648,6 +53273,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215787"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-우상호-강원지사-sk에-400mw-1.md",
+        "title": "우상호 강원지사 'SK에 400MW 1단계 AI 데이터센터 제안'",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power",
+          "#local-government",
+          "#ai-infrastructure",
+          "#investment"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260930135800062"
       },
       {
         "date": "2026-09-30",
@@ -103532,6 +104172,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-09-30",
+        "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+        "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속",
+        "importance": 8,
+        "tags": [
+          "#open-source",
+          "#semiconductor",
+          "#supply-chain",
+          "#china-ai",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215798"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
         "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박",
         "importance": 8,
@@ -103558,6 +104213,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930084417"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-엘리스그룹-1조-몸값-코스닥-도전-글.md",
+        "title": "엘리스그룹, '1조 몸값' 코스닥 도전…글로벌 네오클라우드 노린다",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#neocloud",
+          "#datacenter",
+          "#investment",
+          "#ai-infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930123837"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-역대급-r-d-ls-hd현대-효성-전.md",
+        "title": "'역대급 R&D' LS·HD현대·효성重, 韓 전력기기 역사 새로 쓴다",
+        "importance": 7,
+        "tags": [
+          "#power",
+          "#grid",
+          "#datacenter",
+          "#capex",
+          "#supply-chain"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674694"
       },
       {
         "date": "2026-09-30",
@@ -103590,6 +104275,20 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-ls마린-해저광통신-사업-제2-전성기.md",
+        "title": "LS마린, 해저광통신 사업 제2 전성기…빅테크 AI 인프라 투자 수혜",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#network",
+          "#supply-chain",
+          "#capex"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674668"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-연내-도입한다더니-조경태-국감서-ai.md",
         "title": "연내 도입한다더니…조경태, 국감서 AIDC 전용 요금제 송곳 검증 예고",
         "importance": 6,
@@ -103601,6 +104300,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=674666"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-우상호-강원지사-sk에-400mw-1.md",
+        "title": "우상호 강원지사 'SK에 400MW 1단계 AI 데이터센터 제안'",
+        "importance": 6,
+        "tags": [
+          "#datacenter",
+          "#power",
+          "#local-government",
+          "#ai-infrastructure",
+          "#investment"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20260930135800062"
       },
       {
         "date": "2026-09-29",
@@ -116696,6 +117410,51 @@
     "금융회사 AI": [
       {
         "date": "2026-09-30",
+        "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+        "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#roi-case",
+          "#finance",
+          "#agent-framework"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674726"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+        "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다",
+        "importance": 8,
+        "tags": [
+          "#data-standard",
+          "#enterprise-ai",
+          "#agent-framework",
+          "#partnership",
+          "#open-source"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215803"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+        "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다",
+        "importance": 7,
+        "tags": [
+          "#data-governance",
+          "#privacy",
+          "#public-ai",
+          "#ai-infrastructure",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930135045"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-sibos-2026-google-cl.md",
         "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows",
         "importance": 7,
@@ -116723,6 +117482,36 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260930047200002"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
+        "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]",
+        "importance": 7,
+        "tags": [
+          "#ai-security",
+          "#agent-governance",
+          "#enterprise-ai",
+          "#safety-incident",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674713"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+        "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대",
+        "importance": 7,
+        "tags": [
+          "#public-ai",
+          "#agent-framework",
+          "#ai-adoption",
+          "#identity-verification",
+          "#partnership"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215800"
       },
       {
         "date": "2026-09-30",
@@ -127607,6 +128396,21 @@
       },
       {
         "date": "2026-09-30",
+        "file": "20260930-박세웅-etri-원장-3년간-ai-피.md",
+        "title": "박세웅 ETRI 원장 '3년간 AI·피지컬 AI·입체통신·공간결합·ADX 올인'",
+        "importance": 6,
+        "tags": [
+          "#rnd",
+          "#public-research",
+          "#physical-ai",
+          "#org-change",
+          "#policy"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930095316"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-이족보행-대신-휠-선택-뉴빌리티-제조.md",
         "title": "'이족보행 대신 휠 선택'...뉴빌리티, 제조·물류 로봇 '빌리' 공개",
         "importance": 6,
@@ -135118,6 +135922,65 @@
     "ai_workforce_training": [
       {
         "date": "2026-09-30",
+        "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+        "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#enterprise-ai",
+          "#automation",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674580"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+        "title": "HD현대, AI 활용·관리 문화 확산…'실무 교육으로 '코파일럿' 이용률↑'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#copilot",
+          "#change-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930142636"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+        "title": "롯데면세점·신세계인터내셔날 'AI 전환의 핵심은 현업'",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#retail",
+          "#agent-framework",
+          "#change-management"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20260930120627"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-ai-broke-the-job-app.md",
+        "title": "AI broke the job application. What replaces it?",
+        "importance": 6,
+        "tags": [
+          "#hr",
+          "#recruiting",
+          "#ai-adoption",
+          "#process-redesign"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/09/30/ai-resume-cv-job-application-interview.html"
+      },
+      {
+        "date": "2026-09-30",
         "file": "20260930-ai프리즘-원가-경쟁력-한계-짚은-m.md",
         "title": "[AI프리즘] 원가 경쟁력 한계 짚은 MS…한국 제조업에 AI 해법",
         "importance": 6,
@@ -135129,6 +135992,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20260930080900017"
+      },
+      {
+        "date": "2026-09-30",
+        "file": "20260930-is-agent-code-less-m.md",
+        "title": "Is Agent Code Less Maintainable Than Human Code?",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#coding",
+          "#agent-framework",
+          "#technical-debt",
+          "#maintainability"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2606.21804"
       },
       {
         "date": "2026-09-30",
@@ -135699,20 +136577,19 @@
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
-            "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
+            "file": "20260930-메타-소상공인용-ai-에이전트-출시-.md",
+            "title": "메타, 소상공인용 AI 에이전트 출시…'뮤즈'로 B2B 시장 확대"
           },
           {
-            "date": "2026-09-30",
-            "file": "20260930-메타-소상공인용-ai-에이전트-출시-.md",
-            "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대"
+            "url": "https://arxiv.org/abs/2605.30152",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-30",
-        "title": "규제는 자율, 통제는 기업 몫",
-        "summary": "강제 기준 대신 자율 서약이 확정되면서 사고 대비 부담이 도입 기업으로 넘어왔다.",
+        "title": "통제는 기업 몫, 방어선은 행동 감시",
+        "summary": "강제 규제가 미뤄진 자리를 에이전트 행동 통제 체계가 대신 메우는 국면이다.",
         "articles": [
           {
             "date": "2026-09-30",
@@ -135736,13 +136613,54 @@
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-ai는-지금-트럼프-인공지능-슈퍼-인.md",
-            "title": "[AI는 지금] 트럼프, 인공지능→슈퍼 인텔리전스로…왜"
+            "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
+            "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-신뢰로-도약하는-ai혁신-사회를-6회.md",
-            "title": "\"신뢰로 도약하는 AI혁신 사회를\"...'6회 개인정보보호의 날' 열려"
+            "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
+            "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-openai-huggingface-a.md",
+            "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing"
+          },
+          {
+            "url": "https://www.hankyung.com/article/2026093050207",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "title": "데이터·칩 표준이 새 전선",
+        "summary": "에이전트가 데이터에 닿는 규격과 칩 실행 환경이 동시에 재편되기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-09-30",
+            "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+            "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+            "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+            "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+            "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+            "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대"
           }
         ]
       },
@@ -138900,57 +139818,24 @@
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
-            "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
-          },
-          {
-            "date": "2026-09-30",
             "file": "20260930-메타-소상공인용-ai-에이전트-출시-.md",
-            "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대"
+            "title": "메타, 소상공인용 AI 에이전트 출시…'뮤즈'로 B2B 시장 확대"
+          },
+          {
+            "url": "https://arxiv.org/abs/2605.30152",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-09-30",
-        "title": "상장은 미루고 자본은 키운다",
-        "summary": "매출이 급증해도 안전을 조건으로 상장을 늦추고 비공개 조달로 몸집을 키우는 국면이다.",
-        "articles": [
-          {
-            "date": "2026-09-30",
-            "file": "20260930-gpt-6-1-sol-comes-cl.md",
-            "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-chatgpt-now-reaches-.md",
-            "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
-            "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-알트먼-기업공개-압박-없이-ai-안전.md",
-            "title": "알트먼 \"기업공개 압박 없이 AI 안전 확보가 우선\""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-30",
-        "title": "국내 도입, 성과 지표로 말한다",
-        "summary": "AI 효과를 운영 지표와 근로조건으로 환산해 제시하는 단계로 넘어왔다.",
+        "title": "도입 성과, 공시 지표로 증명 단계",
+        "summary": "AI 효과를 외부에서 검증 가능한 숫자로 내놓는 기업이 다음 수주에서 앞서간다.",
         "articles": [
           {
             "date": "2026-09-30",
             "file": "20260930-sibos-2026-google-cl.md",
             "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-회장님까지-속인-그놈-목소리-회삿돈-.md",
-            "title": "회장님까지 속인 '그놈 목소리'…회삿돈 1500억 날아갔다 [이슈+]"
           },
           {
             "date": "2026-09-30",
@@ -138966,6 +139851,62 @@
             "date": "2026-09-30",
             "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
             "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+            "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+            "title": "HD현대, AI 활용·관리 문화 확산…\"실무 교육으로 '코파일럿' 이용률↑\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+            "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+            "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674714",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "title": "데이터·칩 표준이 새 전선",
+        "summary": "에이전트가 데이터에 닿는 규격과 칩 실행 환경이 동시에 재편되기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-09-30",
+            "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+            "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+            "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+            "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+            "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+            "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대"
           }
         ]
       },
@@ -144039,40 +144980,12 @@
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
-            "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
-          },
-          {
-            "date": "2026-09-30",
             "file": "20260930-메타-소상공인용-ai-에이전트-출시-.md",
-            "title": "메타, 소상공인용 AI 에이전트 출시…‘뮤즈’로 B2B 시장 확대"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-30",
-        "title": "상장은 미루고 자본은 키운다",
-        "summary": "매출이 급증해도 안전을 조건으로 상장을 늦추고 비공개 조달로 몸집을 키우는 국면이다.",
-        "articles": [
-          {
-            "date": "2026-09-30",
-            "file": "20260930-gpt-6-1-sol-comes-cl.md",
-            "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price"
+            "title": "메타, 소상공인용 AI 에이전트 출시…'뮤즈'로 B2B 시장 확대"
           },
           {
-            "date": "2026-09-30",
-            "file": "20260930-chatgpt-now-reaches-.md",
-            "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
-            "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-알트먼-기업공개-압박-없이-ai-안전.md",
-            "title": "알트먼 \"기업공개 압박 없이 AI 안전 확보가 우선\""
+            "url": "https://arxiv.org/abs/2605.30152",
+            "title": ""
           }
         ]
       },
@@ -146051,8 +146964,8 @@
     "ai_policy": [
       {
         "date": "2026-09-30",
-        "title": "규제는 자율, 통제는 기업 몫",
-        "summary": "강제 기준 대신 자율 서약이 확정되면서 사고 대비 부담이 도입 기업으로 넘어왔다.",
+        "title": "통제는 기업 몫, 방어선은 행동 감시",
+        "summary": "강제 규제가 미뤄진 자리를 에이전트 행동 통제 체계가 대신 메우는 국면이다.",
         "articles": [
           {
             "date": "2026-09-30",
@@ -146076,13 +146989,54 @@
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-ai는-지금-트럼프-인공지능-슈퍼-인.md",
-            "title": "[AI는 지금] 트럼프, 인공지능→슈퍼 인텔리전스로…왜"
+            "file": "20260930-ai-안전망-넓히는-오픈ai-에이전트.md",
+            "title": "AI 안전망 넓히는 오픈AI, 에이전트 보안 강화"
           },
           {
             "date": "2026-09-30",
-            "file": "20260930-신뢰로-도약하는-ai혁신-사회를-6회.md",
-            "title": "\"신뢰로 도약하는 AI혁신 사회를\"...'6회 개인정보보호의 날' 열려"
+            "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
+            "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-openai-huggingface-a.md",
+            "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing"
+          },
+          {
+            "url": "https://www.hankyung.com/article/2026093050207",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "title": "데이터·칩 표준이 새 전선",
+        "summary": "에이전트가 데이터에 닿는 규격과 칩 실행 환경이 동시에 재편되기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-09-30",
+            "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+            "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+            "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+            "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+            "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+            "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대"
           }
         ]
       },
@@ -149389,18 +150343,13 @@
     "금융회사 AI": [
       {
         "date": "2026-09-30",
-        "title": "국내 도입, 성과 지표로 말한다",
-        "summary": "AI 효과를 운영 지표와 근로조건으로 환산해 제시하는 단계로 넘어왔다.",
+        "title": "도입 성과, 공시 지표로 증명 단계",
+        "summary": "AI 효과를 외부에서 검증 가능한 숫자로 내놓는 기업이 다음 수주에서 앞서간다.",
         "articles": [
           {
             "date": "2026-09-30",
             "file": "20260930-sibos-2026-google-cl.md",
             "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-회장님까지-속인-그놈-목소리-회삿돈-.md",
-            "title": "회장님까지 속인 '그놈 목소리'…회삿돈 1500억 날아갔다 [이슈+]"
           },
           {
             "date": "2026-09-30",
@@ -149416,6 +150365,30 @@
             "date": "2026-09-30",
             "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
             "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+            "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+            "title": "HD현대, AI 활용·관리 문화 확산…\"실무 교육으로 '코파일럿' 이용률↑\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+            "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+            "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674714",
+            "title": ""
           }
         ]
       },
@@ -152379,18 +153352,13 @@
     "ai_workforce_training": [
       {
         "date": "2026-09-30",
-        "title": "국내 도입, 성과 지표로 말한다",
-        "summary": "AI 효과를 운영 지표와 근로조건으로 환산해 제시하는 단계로 넘어왔다.",
+        "title": "도입 성과, 공시 지표로 증명 단계",
+        "summary": "AI 효과를 외부에서 검증 가능한 숫자로 내놓는 기업이 다음 수주에서 앞서간다.",
         "articles": [
           {
             "date": "2026-09-30",
             "file": "20260930-sibos-2026-google-cl.md",
             "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-회장님까지-속인-그놈-목소리-회삿돈-.md",
-            "title": "회장님까지 속인 '그놈 목소리'…회삿돈 1500억 날아갔다 [이슈+]"
           },
           {
             "date": "2026-09-30",
@@ -152406,6 +153374,30 @@
             "date": "2026-09-30",
             "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
             "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+            "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+            "title": "HD현대, AI 활용·관리 문화 확산…\"실무 교육으로 '코파일럿' 이용률↑\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+            "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+            "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674714",
+            "title": ""
           }
         ]
       },
@@ -152585,6 +153577,38 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-09-30",
+        "title": "데이터·칩 표준이 새 전선",
+        "summary": "에이전트가 데이터에 닿는 규격과 칩 실행 환경이 동시에 재편되기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-09-30",
+            "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
+            "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-딥시크-화웨이-어센드-용-핵심-소프트.md",
+            "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-화이트스캔-서울시와-공공데이터-최초-.md",
+            "title": "화이트스캔, 서울시와 공공데이터 최초 MCP 구축 및 시범운영...공공 AI 활용성 검증"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-학습데이터-부족-문제-풀까-ni.md",
+            "title": "AI 학습데이터 부족 문제 풀까…NIA, 민감정보 안전 활용센터 열었다"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-카카오-ai-국민비서-로-국민연금-조.md",
+            "title": "카카오, 'AI 국민비서'로 국민연금 조회·신청까지 확대"
+          }
+        ]
+      },
       {
         "date": "2026-09-29",
         "title": "AI 자본, 확장과 위험 분산 동시 진행",
