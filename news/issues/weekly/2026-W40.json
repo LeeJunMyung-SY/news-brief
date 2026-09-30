@@ -1,12 +1,12 @@
 {
   "week": "2026-W40",
-  "updated_at": "2026-09-30T16:19:47.206201+09:00",
-  "run_id": "run_20260930_161947",
-  "summary_ko": "에이전트가 업무 플랫폼으로 올라서는 동안 통제·표준·자본 리스크가 함께 기업 몫이 된 한 주.",
+  "updated_at": "2026-10-01T08:21:29.002100+09:00",
+  "run_id": "run_20261001_082129",
+  "summary_ko": "에이전트가 업무 플랫폼이 되는 사이 통제·모델 접근·전력 리스크가 모두 기업 몫이 된 한 주.",
   "issues": [
     {
-      "title": "에이전트 통제, 자율 협약 뒤의 자체 방어",
-      "body_ko": "사고가 사과와 청문으로 번졌지만 규제는 자율 협약으로 확정돼, 행동 권한 통제와 사후 감사가 유일한 방어선으로 남았다.",
+      "title": "에이전트 통제, 협약에서 법적 책임으로",
+      "body_ko": "규제는 자율 협약으로 비었지만 소송·조사가 열리며 사고 책임이 계약과 법정의 문제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -34,24 +34,28 @@
         },
         {
           "date": "2026-09-30",
-          "file": "20260930-트럼프-빅테크-대거-소집해-규제-불가.md",
-          "title": "트럼프, 빅테크 대거 소집해 '규제 불가' 재확인…업계 자발적 서약에 그쳐"
-        },
-        {
-          "date": "2026-09-30",
           "file": "20260930-라온시큐어-ai-보안-축-바꾼다-자율.md",
           "title": "라온시큐어, AI 보안 축 바꾼다…'자율행동 통제'가 핵심[현장+]"
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-openai-huggingface-a.md",
-          "title": "OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing"
+          "date": "2026-10-01",
+          "file": "20261001-openai-is-sued-over-.md",
+          "title": "OpenAI is sued over rogue AI Hugging Face cyberattack"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-ftc-launches-sweepin.md",
+          "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+          "title": ""
         }
       ]
     },
     {
-      "title": "프런티어 속도조절이 도입 변수로",
-      "body_ko": "출시 보류와 상장 유보가 안전을 이유로 이어지며 공급사 로드맵 자체가 도입 일정의 리스크가 됐다.",
+      "title": "프런티어 모델, 속도조절에서 제한 출시로",
+      "body_ko": "출시 보류에 이어 최상위 모델의 선별 공개까지 나와 최신 모델 접근이 조달 리스크가 됐다.",
       "topics": [
         "llm_models",
         "ai_policy"
@@ -78,19 +82,23 @@
           "title": "알트먼 \"기업공개 압박 없이 AI 안전 확보가 우선\""
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-독파모와-프런티어-ai를-계속-가져가.md",
-          "title": "독파모와 프런티어 AI를 계속 가져가야 하는 다섯 가지 이유"
+          "date": "2026-10-01",
+          "file": "20261001-google-announces-gem.md",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now"
+        },
+        {
+          "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+          "title": ""
         }
       ]
     },
     {
       "title": "에이전트가 업무 플랫폼으로",
-      "body_ko": "상시형 에이전트가 업무 OS와 소상공인 운영까지 파고들며 업무 소프트웨어 유통 경로가 재편되고 있다.",
+      "body_ko": "상시형 에이전트와 공통 스킬 규격이 자리 잡으며 업무 소프트웨어 유통 경로가 재편되고 있다.",
       "topics": [
         "ai_agents",
         "ai_industry",
-        "ai_workforce_training"
+        "llm_models"
       ],
       "articles": [
         {
@@ -119,20 +127,19 @@
           "title": "메타, 소상공인용 AI 에이전트 출시…'뮤즈'로 B2B 시장 확대"
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-lg전자-ms-사람처럼-대화하는-씽큐.md",
-          "title": "LG전자-MS, '사람처럼 대화하는' 씽큐온 만든다…끼어들기도 척척"
+          "url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
+          "title": ""
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-is-agent-code-less-m.md",
-          "title": "Is Agent Code Less Maintainable Than Human Code?"
+          "date": "2026-10-01",
+          "file": "20261001-openai-s-jev-clone-c.md",
+          "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents"
         }
       ]
     },
     {
-      "title": "국내 AI 도입, 공시 지표로 증명",
-      "body_ko": "금융·통신·유통 기업이 도입 효과를 감독 공시와 운영 지표로 환산해 내놓으며 검증된 사례가 영업 자산이 됐다.",
+      "title": "AI 도입 성과, 숫자로 증명",
+      "body_ko": "금융·통신·광고 기업이 도입 효과를 공시·운영 지표로 내놓으며 검증된 사례가 영업 자산이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -161,44 +168,37 @@
         },
         {
           "date": "2026-09-30",
-          "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
-          "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
-        },
-        {
-          "date": "2026-09-30",
           "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
           "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트"
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
-          "title": "HD현대, AI 활용·관리 문화 확산…\"실무 교육으로 '코파일럿' 이용률↑\""
+          "date": "2026-10-01",
+          "file": "20261001-duco-clients-report-.md",
+          "title": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform"
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
-          "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\""
+          "url": "https://www.mk.co.kr/news/economy/12165096",
+          "title": ""
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
-          "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다"
+          "date": "2026-10-01",
+          "file": "20261001-유미-s-픽-1년-만에-기업용-챗gp.md",
+          "title": "[유미's 픽] \"1년 만에 기업용 챗GPT 28배\"…김경훈, 오픈AI코리아 몸집 키웠다"
         }
       ]
     },
     {
-      "title": "인프라·표준, 자본과 진영 양쪽 압박",
-      "body_ko": "초대형 조달과 전력 병목이 겹치는 사이 데이터 규격과 칩 실행 환경까지 진영별로 갈라지며 조달 전략의 변수가 늘었다.",
+      "title": "인프라 압박, 전력·자본으로 확산",
+      "body_ko": "초대형 조달에 이어 발전소 선투자와 금융자본의 전력 인수까지 번지며 전력이 AI 비용의 주 전선이 됐다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry",
-        "ai_agents"
+        "ai_industry"
       ],
       "articles": [
         {
-          "date": "2026-09-29",
-          "file": "20260929-엔비디아-ai칩-담보대출-보험-추진-.md",
-          "title": "\"엔비디아, 'AI칩 담보대출' 보험 추진…AI 인프라 위험 분산\""
+          "date": "2026-09-28",
+          "file": "20260928-goldman-sachs-expect.md",
+          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
         },
         {
           "date": "2026-09-29",
@@ -206,19 +206,9 @@
           "title": "삼성 6개사, 美 헬릭스에 1.3조 투자…AI 데이터센터 전방위 공략"
         },
         {
-          "date": "2026-09-28",
-          "file": "20260928-goldman-sachs-expect.md",
-          "title": "Goldman Sachs expects Big Tech to spend $1.2 trillion on AI infrastructure by 2027, dwarfing Wall Street estimates"
-        },
-        {
-          "date": "2026-09-30",
-          "file": "20260930-오픈ai-추가-투자-유치-목표는-19.md",
-          "title": "오픈AI 추가 투자 유치 목표는 '1900조 가치'...연 매출은 95조 육박"
-        },
-        {
-          "date": "2026-09-30",
-          "file": "20260930-lg-cns-베라-루빈-품은-모듈형-.md",
-          "title": "LG CNS, 베라 루빈 품은 모듈형 AI 팩토리 출사표…'원 LG' 역량 결집"
+          "date": "2026-09-29",
+          "file": "20260929-엔비디아-ai칩-담보대출-보험-추진-.md",
+          "title": "\"엔비디아, 'AI칩 담보대출' 보험 추진…AI 인프라 위험 분산\""
         },
         {
           "date": "2026-09-30",
@@ -227,23 +217,23 @@
         },
         {
           "date": "2026-09-30",
-          "file": "20260930-구글-ms-ai-데이터-표준-아파치-.md",
-          "title": "구글·MS, AI 데이터 표준 '아파치 오시' 합류…'폐쇄 생태계' 연다"
-        },
-        {
-          "date": "2026-09-30",
           "file": "20260930-역대급-r-d-ls-hd현대-효성-전.md",
           "title": "'역대급 R&D' LS·HD현대·효성重, 韓 전력기기 역사 새로 쓴다"
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-엘리스그룹-1조-몸값-코스닥-도전-글.md",
-          "title": "엘리스그룹, '1조 몸값' 코스닥 도전…글로벌 네오클라우드 노린다"
+          "date": "2026-10-01",
+          "file": "20261001-대미투자-1호-엔시날-개발형-투자-승.md",
+          "title": "대미투자 1호 엔시날 '개발형 투자' 승부…美, 전력 수요처 확보 지원"
         },
         {
-          "date": "2026-09-30",
-          "file": "20260930-우상호-강원지사-sk에-400mw-1.md",
-          "title": "우상호 강원지사 \"SK에 400MW 1단계 AI 데이터센터 제안\""
+          "date": "2026-10-01",
+          "file": "20261001-데이터센터-사고-발전사도-산다-블랙록.md",
+          "title": "데이터센터 사고 발전사도 산다…블랙록, AI 투자 확장에 전기료 논란 [김주완의 글로벌머니 X파일]"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-lg전자-에-칠러-공장-신설-aidc.md",
+          "title": "LG전자, 美에 칠러 공장 신설…AIDC 냉각 솔루션 공급 늘린다"
         }
       ]
     }

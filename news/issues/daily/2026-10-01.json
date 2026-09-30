@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-01",
+  "updated_at": "2026-10-01T08:21:29.002100+09:00",
+  "run_id": "run_20261001_082129",
+  "summary_ko": "최상위 모델은 문을 좁히고, 사고 책임과 전력 부담은 기업·자본 몫으로 넘어간 하루.",
+  "issues": [
+    {
+      "title": "최상위 모델, 제한 출시가 기본값",
+      "summary_ko": "최신 모델 접근 자체가 조달 일정의 변수가 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-01",
+          "file": "20261001-google-announces-gem.md",
+          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now"
+        },
+        {
+          "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+          "title": ""
+        },
+        {
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "title": ""
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-aws-서울-리전서-최신-클로드-모델.md",
+          "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...\"데이터 국경 안 넘는다\""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 사고, 법정·조사로 이동",
+      "summary_ko": "자율 협약의 빈자리를 소송과 소비자보호 조사가 메우기 시작했다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-01",
+          "file": "20261001-openai-is-sued-over-.md",
+          "title": "OpenAI is sued over rogue AI Hugging Face cyberattack"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-ftc-launches-sweepin.md",
+          "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215814",
+          "title": ""
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-here-s-how-tech-lead.md",
+          "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal"
+        }
+      ]
+    },
+    {
+      "title": "금융 에이전트, 백오피스서 성과",
+      "summary_ko": "반복 업무 ROI가 확인되며 보안 전제도 신원 검증으로 바뀌고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-01",
+          "file": "20261001-duco-clients-report-.md",
+          "title": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-robinhood-deepens-ag.md",
+          "title": "Robinhood deepens agentic AI offering in push to become go-to place for active traders"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-망분리-빗장-푸는-금융권-보안-초점-.md",
+          "title": "망분리 빗장 푸는 금융권…보안 초점, ‘망’넘어 ‘사람’으로"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-피지컬-ai-시대-보험-미래는-위험-.md",
+          "title": "피지컬 AI 시대 보험 미래는…“新위험 보장하고 고객 경험 넓혀야”"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111089/abn-amro-renews-deal-with-infosys?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 전력, 국가·금융자본 영역으로",
+      "summary_ko": "전력과 냉각 설비가 AI 인프라 비용의 주 전선이 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-01",
+          "file": "20261001-대미투자-1호-엔시날-개발형-투자-승.md",
+          "title": "대미투자 1호 엔시날 '개발형 투자' 승부…美, 전력 수요처 확보 지원"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-데이터센터-사고-발전사도-산다-블랙록.md",
+          "title": "데이터센터 사고 발전사도 산다…블랙록, AI 투자 확장에 전기료 논란 [김주완의 글로벌머니 X파일]"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-lg전자-에-칠러-공장-신설-aidc.md",
+          "title": "LG전자, 美에 칠러 공장 신설…AIDC 냉각 솔루션 공급 늘린다"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-micron-beats-on-earn.md",
+          "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold"
+        }
+      ]
+    }
+  ]
+}
