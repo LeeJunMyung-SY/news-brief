@@ -1,12 +1,12 @@
 {
   "date": "2026-10-01",
-  "updated_at": "2026-10-01T08:21:29.002100+09:00",
-  "run_id": "run_20261001_082129",
-  "summary_ko": "최상위 모델은 문을 좁히고, 사고 책임과 전력 부담은 기업·자본 몫으로 넘어간 하루.",
+  "updated_at": "2026-10-01T12:12:00.733020+09:00",
+  "run_id": "run_20261001_121200",
+  "summary_ko": "모델 접근은 좁아지고, AI 결정의 책임과 성과 증명은 기업 몫이 된 하루.",
   "issues": [
     {
       "title": "최상위 모델, 제한 출시가 기본값",
-      "summary_ko": "최신 모델 접근 자체가 조달 일정의 변수가 됐다.",
+      "summary_ko": "최신 모델 접근과 실무 성능 모두 도입 일정의 변수가 됐다.",
       "topics": [
         "llm_models",
         "ai_policy"
@@ -18,26 +18,33 @@
           "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now"
         },
         {
-          "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
-          "title": ""
+          "date": "2026-10-01",
+          "file": "20261001-aws-서울-리전서-최신-클로드-모델.md",
+          "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...\"데이터 국경 안 넘는다\""
         },
         {
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "date": "2026-10-01",
+          "file": "20261001-google-releases-gemi.md",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215824",
           "title": ""
         },
         {
           "date": "2026-10-01",
-          "file": "20261001-aws-서울-리전서-최신-클로드-모델.md",
-          "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...\"데이터 국경 안 넘는다\""
+          "file": "20261001-업스테이지-slm-솔라-미니-4-출시.md",
+          "title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화"
         }
       ]
     },
     {
-      "title": "에이전트 사고, 법정·조사로 이동",
-      "summary_ko": "자율 협약의 빈자리를 소송과 소비자보호 조사가 메우기 시작했다.",
+      "title": "AI 결정, 법과 승인 게이트로",
+      "summary_ko": "에이전트·인사 AI의 최종 판단에 사람과 법적 책임이 다시 묶이고 있다.",
       "topics": [
         "ai_policy",
-        "ai_agents"
+        "ai_agents",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -51,25 +58,28 @@
           "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215814",
-          "title": ""
-        },
-        {
           "date": "2026-10-01",
           "file": "20261001-here-s-how-tech-lead.md",
           "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-california-gov-gavin.md",
+          "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-오픈ai-디시전스-api-ai-에이전.md",
+          "title": "오픈AI '디시전스 API', AI 에이전트 안전장치로 주목"
         }
       ]
     },
     {
-      "title": "금융 에이전트, 백오피스서 성과",
-      "summary_ko": "반복 업무 ROI가 확인되며 보안 전제도 신원 검증으로 바뀌고 있다.",
+      "title": "AI 성과, 백오피스·매출로 증명",
+      "summary_ko": "시간 절감과 매출 비중이 AI 투자 판단의 기준 지표가 됐다.",
       "topics": [
         "금융회사 AI",
+        "ai_industry",
         "ai_agents"
       ],
       "articles": [
@@ -90,18 +100,24 @@
         },
         {
           "date": "2026-10-01",
-          "file": "20261001-피지컬-ai-시대-보험-미래는-위험-.md",
-          "title": "피지컬 AI 시대 보험 미래는…“新위험 보장하고 고객 경험 넓혀야”"
+          "file": "20261001-poc는-이제-그만-돈-버는-ai-한.md",
+          "title": "\"PoC는 이제 그만\"…돈 버는 AI, 한자리서 공개된다"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111089/abn-amro-renews-deal-with-infosys?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-10-01",
+          "file": "20261001-ai-솔루션기업-올거나이즈-증시-입성.md",
+          "title": "AI 솔루션기업 '올거나이즈' 日증시 입성"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-lg-cns-175조-굴리는-미국-투.md",
+          "title": "LG CNS, 175조 굴리는 미국 투자사와 SW·AI 기업 공동투자"
         }
       ]
     },
     {
-      "title": "AI 전력, 국가·금융자본 영역으로",
-      "summary_ko": "전력과 냉각 설비가 AI 인프라 비용의 주 전선이 됐다.",
+      "title": "AI 인프라, 전력·운영 경쟁으로",
+      "summary_ko": "GPU 확보를 넘어 전력·냉각·운영 역량이 인프라 경쟁력을 가른다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -126,6 +142,16 @@
           "date": "2026-10-01",
           "file": "20261001-micron-beats-on-earn.md",
           "title": "Micron beats on earnings and issues strong guidance as data center revenue jumps 11-fold"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-반도체-수출-단일품목-첫-600억-달.md",
+          "title": "반도체 수출, 단일품목 첫 600억 달러…9월 수출 1200억 달러 역대 최대"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
+          "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]"
         }
       ]
     }

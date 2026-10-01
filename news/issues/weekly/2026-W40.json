@@ -1,15 +1,16 @@
 {
   "week": "2026-W40",
-  "updated_at": "2026-10-01T08:21:29.002100+09:00",
-  "run_id": "run_20261001_082129",
+  "updated_at": "2026-10-01T12:12:00.733020+09:00",
+  "run_id": "run_20261001_121200",
   "summary_ko": "에이전트가 업무 플랫폼이 되는 사이 통제·모델 접근·전력 리스크가 모두 기업 몫이 된 한 주.",
   "issues": [
     {
-      "title": "에이전트 통제, 협약에서 법적 책임으로",
-      "body_ko": "규제는 자율 협약으로 비었지만 소송·조사가 열리며 사고 책임이 계약과 법정의 문제가 됐다.",
+      "title": "AI 통제, 협약에서 법적 책임으로",
+      "body_ko": "연방 규제는 자율 협약에 그쳤지만 소송·조사·주법이 열리며 AI 결정의 책임이 법정으로 옮겨갔다.",
       "topics": [
         "ai_agents",
-        "ai_policy"
+        "ai_policy",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -48,14 +49,15 @@
           "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
         },
         {
-          "url": "https://www.cnbc.com/2026/09/30/hawley-openai-sam-altman-rogue-ai.html",
-          "title": ""
+          "date": "2026-10-01",
+          "file": "20261001-california-gov-gavin.md",
+          "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto"
         }
       ]
     },
     {
       "title": "프런티어 모델, 속도조절에서 제한 출시로",
-      "body_ko": "출시 보류에 이어 최상위 모델의 선별 공개까지 나와 최신 모델 접근이 조달 리스크가 됐다.",
+      "body_ko": "출시 보류에 이어 최상위 모델의 선별 공개가 표준이 되며 최신 모델 접근이 조달 리스크가 됐다.",
       "topics": [
         "llm_models",
         "ai_policy"
@@ -87,8 +89,9 @@
           "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now"
         },
         {
-          "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
-          "title": ""
+          "date": "2026-10-01",
+          "file": "20261001-google-releases-gemi.md",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet"
         }
       ]
     },
@@ -127,19 +130,20 @@
           "title": "메타, 소상공인용 AI 에이전트 출시…'뮤즈'로 B2B 시장 확대"
         },
         {
-          "url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
-          "title": ""
-        },
-        {
           "date": "2026-10-01",
           "file": "20261001-openai-s-jev-clone-c.md",
           "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-오픈ai-디시전스-api-ai-에이전.md",
+          "title": "오픈AI '디시전스 API', AI 에이전트 안전장치로 주목"
         }
       ]
     },
     {
       "title": "AI 도입 성과, 숫자로 증명",
-      "body_ko": "금융·통신·광고 기업이 도입 효과를 공시·운영 지표로 내놓으며 검증된 사례가 영업 자산이 됐다.",
+      "body_ko": "금융·통신·SW 기업이 시간 절감과 매출 비중을 공개하며 검증된 성과가 투자·수주의 기준이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -177,13 +181,14 @@
           "title": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12165096",
-          "title": ""
-        },
-        {
           "date": "2026-10-01",
           "file": "20261001-유미-s-픽-1년-만에-기업용-챗gp.md",
           "title": "[유미's 픽] \"1년 만에 기업용 챗GPT 28배\"…김경훈, 오픈AI코리아 몸집 키웠다"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-poc는-이제-그만-돈-버는-ai-한.md",
+          "title": "\"PoC는 이제 그만\"…돈 버는 AI, 한자리서 공개된다"
         }
       ]
     },
@@ -234,6 +239,16 @@
           "date": "2026-10-01",
           "file": "20261001-lg전자-에-칠러-공장-신설-aidc.md",
           "title": "LG전자, 美에 칠러 공장 신설…AIDC 냉각 솔루션 공급 늘린다"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-반도체-수출-단일품목-첫-600억-달.md",
+          "title": "반도체 수출, 단일품목 첫 600억 달러…9월 수출 1200억 달러 역대 최대"
+        },
+        {
+          "date": "2026-10-01",
+          "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
+          "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]"
         }
       ]
     }
