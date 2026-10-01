@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-10-01T03:12:08+00:00",
+  "generated_at": "2026-10-01T07:18:34+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1051,
+      "count": 1053,
       "latest_date": "2026-10-01"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1292,
+      "count": 1296,
       "latest_date": "2026-10-01"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1313,
+      "count": 1315,
       "latest_date": "2026-10-01"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3068,
+      "count": 3080,
       "latest_date": "2026-10-01"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 494,
+      "count": 496,
       "latest_date": "2026-10-01"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 922,
+      "count": 926,
       "latest_date": "2026-10-01"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 752,
+      "count": 754,
       "latest_date": "2026-10-01"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 515,
+      "count": 517,
       "latest_date": "2026-10-01"
     },
     {
@@ -112,6 +112,21 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-ibk기업은행-업무지식-ai-자산으로.md",
+        "title": "IBK기업은행 업무지식 AI 자산으로…인핸스, 온톨로지 실증 나",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#ontology",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12166130"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-duco-clients-report-.md",
         "title": "Duco clients report 76% time savings in post-trade reconciliation operations with AI platform",
         "importance": 7,
@@ -123,6 +138,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/111081/duco-clients-report-76-time-savings-in-post-trade-reconciliation-operations-with-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-kt-병원-ax-전문-내부-조직-개설.md",
+        "title": "KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선'",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#healthcare-ai",
+          "#enterprise-ai",
+          "#vertical-ai",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215840"
       },
       {
         "date": "2026-10-01",
@@ -182,6 +212,21 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-메타-뮤즈-흥행에-월간-주가-29-껑.md",
+        "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대",
+        "importance": 6,
+        "tags": [
+          "#consumer-agent",
+          "#monetization",
+          "#meta",
+          "#stock-market",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215838"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-오픈ai-디시전스-api-ai-에이전.md",
         "title": "오픈AI '디시전스 API', AI 에이전트 안전장치로 주목",
         "importance": 6,
@@ -193,6 +238,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261001095814"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-정구민의-테크읽기-플랫폼-주도권-경쟁.md",
+        "title": "[정구민의 테크읽기] 플랫폼 주도권 경쟁을 가속하는 AI에이전트의 진화",
+        "importance": 6,
+        "tags": [
+          "#agent-platform",
+          "#platform-competition",
+          "#agent-security",
+          "#column",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261001000139"
       },
       {
         "date": "2026-09-30",
@@ -18904,6 +18964,21 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-오픈ai-반도체-설계-전용-gpt-시.md",
+        "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#monetization",
+          "#revenue-sharing",
+          "#vertical-model",
+          "#semiconductor-design"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215839"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-aws-서울-리전서-최신-클로드-모델.md",
         "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...'데이터 국경 안 넘는다'",
         "importance": 7,
@@ -18972,6 +19047,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-sw키트-구글-오픈ai-앤트로픽-신모.md",
+        "title": "[SW키트] 구글·오픈AI·앤트로픽, 신모델 안전 확보 제각각…'검증 한계 여전'",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#ai-safety",
+          "#staged-rollout",
+          "#vendor-governance",
+          "#frontier-models"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261001151648"
       },
       {
         "date": "2026-10-01",
@@ -34151,6 +34241,36 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930180634"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-메타-ai-데이터센터-실험-시설-지정.md",
+        "title": "메타, AI 데이터센터 '실험 시설' 지정...수십억달러 세액공제 논란",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#tax-credit",
+          "#capex",
+          "#meta",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215841"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-sw키트-구글-오픈ai-앤트로픽-신모.md",
+        "title": "[SW키트] 구글·오픈AI·앤트로픽, 신모델 안전 확보 제각각…'검증 한계 여전'",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#ai-safety",
+          "#staged-rollout",
+          "#vendor-governance",
+          "#frontier-models"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261001151648"
       },
       {
         "date": "2026-09-30",
@@ -53064,6 +53184,36 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-ibk기업은행-업무지식-ai-자산으로.md",
+        "title": "IBK기업은행 업무지식 AI 자산으로…인핸스, 온톨로지 실증 나",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#ontology",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12166130"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-오픈ai-반도체-설계-전용-gpt-시.md",
+        "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용",
+        "importance": 8,
+        "tags": [
+          "#partnership",
+          "#monetization",
+          "#revenue-sharing",
+          "#vertical-model",
+          "#semiconductor-design"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215839"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-aws-서울-리전서-최신-클로드-모델.md",
         "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...'데이터 국경 안 넘는다'",
         "importance": 7,
@@ -53089,6 +53239,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/pressarticle/111081/duco-clients-report-76-time-savings-in-post-trade-reconciliation-operations-with-ai-platform?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-kt-병원-ax-전문-내부-조직-개설.md",
+        "title": "KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선'",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#healthcare-ai",
+          "#enterprise-ai",
+          "#vertical-ai",
+          "#ai-adoption"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215840"
       },
       {
         "date": "2026-10-01",
@@ -53135,6 +53300,51 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-대미-투자-ai-전력-골든타임-잡은-.md",
+        "title": "[대미 투자]'AI 전력' 골든타임 잡은 美…韓은 지재권 족쇄 풀고 K-원전 르네상스 주도",
+        "importance": 7,
+        "tags": [
+          "#power-infrastructure",
+          "#us-investment",
+          "#nuclear",
+          "#data-center",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261001000299"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-르포-실험실-나온-자율주행-광저우-도.md",
+        "title": "[르포]실험실 나온 자율주행…中 광저우 도심서 '돈 버는 로보택시'로",
+        "importance": 7,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#commercialization",
+          "#china",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000454"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-메타-ai-데이터센터-실험-시설-지정.md",
+        "title": "메타, AI 데이터센터 '실험 시설' 지정...수십억달러 세액공제 논란",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#tax-credit",
+          "#capex",
+          "#meta",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215841"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-유미-s-픽-1년-만에-기업용-챗gp.md",
         "title": "[유미's 픽] '1년 만에 기업용 챗GPT 28배'…김경훈, 오픈AI코리아 몸집 키웠다",
         "importance": 7,
@@ -53150,6 +53360,21 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-현대차-자율주행-해부-박민우-데이터-.md",
+        "title": "[현대차 자율주행 해부] 박민우 '데이터' 전략, 자율주행버스서 시험대",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#level4",
+          "#partnership",
+          "#data-strategy",
+          "#public-transport"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674853"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-ai-솔루션기업-올거나이즈-증시-입성.md",
         "title": "AI 솔루션기업 '올거나이즈' 日증시 입성",
         "importance": 6,
@@ -53161,6 +53386,21 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/2026093055551"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-hpe-ai-양산-병목-푼다-비용-운.md",
+        "title": "HPE, AI 양산 병목 푼다…비용·운영 효율화에 초점 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#poc-to-production",
+          "#inference-cost",
+          "#ai-operations",
+          "#ai-adoption"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674807"
       },
       {
         "date": "2026-10-01",
@@ -53205,6 +53445,36 @@
       },
       {
         "date": "2026-10-01",
+        "file": "20261001-네이버클라우드-ai-팩토리-승부수는-.md",
+        "title": "네이버클라우드, AI 팩토리 승부수는 '풀스택' [현장+]",
+        "importance": 6,
+        "tags": [
+          "#ai-factory",
+          "#cloud",
+          "#inference",
+          "#data-center",
+          "#full-stack"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674818"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-메타-뮤즈-흥행에-월간-주가-29-껑.md",
+        "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대",
+        "importance": 6,
+        "tags": [
+          "#consumer-agent",
+          "#monetization",
+          "#meta",
+          "#stock-market",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215838"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-반도체-수출-단일품목-첫-600억-달.md",
         "title": "반도체 수출, 단일품목 첫 600억 달러…9월 수출 1200억 달러 역대 최대",
         "importance": 6,
@@ -53230,6 +53500,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=215826"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-정구민의-테크읽기-플랫폼-주도권-경쟁.md",
+        "title": "[정구민의 테크읽기] 플랫폼 주도권 경쟁을 가속하는 AI에이전트의 진화",
+        "importance": 6,
+        "tags": [
+          "#agent-platform",
+          "#platform-competition",
+          "#agent-security",
+          "#column",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261001000139"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-퍼플렉시티-기업가치-1년여만-1-7배.md",
+        "title": "퍼플렉시티 기업가치 1년여만 1.7배로…미래에셋 투자성과 주목",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#ai-search",
+          "#securities",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261001137000008"
       },
       {
         "date": "2026-09-30",
@@ -97511,6 +97811,36 @@
     "physical_ai_robotics": [
       {
         "date": "2026-10-01",
+        "file": "20261001-르포-실험실-나온-자율주행-광저우-도.md",
+        "title": "[르포]실험실 나온 자율주행…中 광저우 도심서 '돈 버는 로보택시'로",
+        "importance": 7,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#commercialization",
+          "#china",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000454"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-현대차-자율주행-해부-박민우-데이터-.md",
+        "title": "[현대차 자율주행 해부] 박민우 '데이터' 전략, 자율주행버스서 시험대",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#level4",
+          "#partnership",
+          "#data-strategy",
+          "#public-transport"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674853"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-sfa-휴머노이드로-2028년-물류-.md",
         "title": "SFA '휴머노이드로 2028년 물류 95% 무인화 목표'",
         "importance": 6,
@@ -104682,6 +105012,51 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-01",
+        "file": "20261001-대미-투자-ai-전력-골든타임-잡은-.md",
+        "title": "[대미 투자]'AI 전력' 골든타임 잡은 美…韓은 지재권 족쇄 풀고 K-원전 르네상스 주도",
+        "importance": 7,
+        "tags": [
+          "#power-infrastructure",
+          "#us-investment",
+          "#nuclear",
+          "#data-center",
+          "#investment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261001000299"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-메타-ai-데이터센터-실험-시설-지정.md",
+        "title": "메타, AI 데이터센터 '실험 시설' 지정...수십억달러 세액공제 논란",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#tax-credit",
+          "#capex",
+          "#meta",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=215841"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-hpe-ai-양산-병목-푼다-비용-운.md",
+        "title": "HPE, AI 양산 병목 푼다…비용·운영 효율화에 초점 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#poc-to-production",
+          "#inference-cost",
+          "#ai-operations",
+          "#ai-adoption"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674807"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
         "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]",
         "importance": 6,
@@ -104721,6 +105096,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/09/30/micron-mu-q4-earnings-report-2026.html"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-네이버클라우드-ai-팩토리-승부수는-.md",
+        "title": "네이버클라우드, AI 팩토리 승부수는 '풀스택' [현장+]",
+        "importance": 6,
+        "tags": [
+          "#ai-factory",
+          "#cloud",
+          "#inference",
+          "#data-center",
+          "#full-stack"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674818"
       },
       {
         "date": "2026-10-01",
@@ -118004,6 +118394,21 @@
     "금융회사 AI": [
       {
         "date": "2026-10-01",
+        "file": "20261001-ibk기업은행-업무지식-ai-자산으로.md",
+        "title": "IBK기업은행 업무지식 AI 자산으로…인핸스, 온톨로지 실증 나",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#ontology",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12166130"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-aws-서울-리전서-최신-클로드-모델.md",
         "title": "AWS, 서울 리전서 최신 '클로드' 모델 제공...'데이터 국경 안 넘는다'",
         "importance": 7,
@@ -118072,6 +118477,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20260930180634"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-퍼플렉시티-기업가치-1년여만-1-7배.md",
+        "title": "퍼플렉시티 기업가치 1년여만 1.7배로…미래에셋 투자성과 주목",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#ai-search",
+          "#securities",
+          "#finance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261001137000008"
       },
       {
         "date": "2026-10-01",
@@ -129062,6 +129482,36 @@
     "physical_ai": [
       {
         "date": "2026-10-01",
+        "file": "20261001-르포-실험실-나온-자율주행-광저우-도.md",
+        "title": "[르포]실험실 나온 자율주행…中 광저우 도심서 '돈 버는 로보택시'로",
+        "importance": 7,
+        "tags": [
+          "#robotaxi",
+          "#autonomous-driving",
+          "#commercialization",
+          "#china",
+          "#monetization"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20260930000454"
+      },
+      {
+        "date": "2026-10-01",
+        "file": "20261001-현대차-자율주행-해부-박민우-데이터-.md",
+        "title": "[현대차 자율주행 해부] 박민우 '데이터' 전략, 자율주행버스서 시험대",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#level4",
+          "#partnership",
+          "#data-strategy",
+          "#public-transport"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674853"
+      },
+      {
+        "date": "2026-10-01",
         "file": "20261001-sfa-휴머노이드로-2028년-물류-.md",
         "title": "SFA '휴머노이드로 2028년 물류 95% 무인화 목표'",
         "importance": 6,
@@ -137293,7 +137743,7 @@
       {
         "date": "2026-10-01",
         "title": "최상위 모델, 제한 출시가 기본값",
-        "summary": "최신 모델 접근과 실무 성능 모두 도입 일정의 변수가 됐다.",
+        "summary": "최신 모델의 공개 범위와 시점을 공급사가 각자 정하는 구도가 굳어졌다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -137311,13 +137761,14 @@
             "title": "Google releases Gemini 4 Argon, called its most powerful model yet"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215824",
-            "title": ""
-          },
-          {
             "date": "2026-10-01",
             "file": "20261001-업스테이지-slm-솔라-미니-4-출시.md",
             "title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-sw키트-구글-오픈ai-앤트로픽-신모.md",
+            "title": "[SW키트] 구글·오픈AI·앤트로픽, 신모델 안전 확보 제각각…\"검증 한계 여전\""
           }
         ]
       },
@@ -139328,7 +139779,7 @@
       {
         "date": "2026-10-01",
         "title": "최상위 모델, 제한 출시가 기본값",
-        "summary": "최신 모델 접근과 실무 성능 모두 도입 일정의 변수가 됐다.",
+        "summary": "최신 모델의 공개 범위와 시점을 공급사가 각자 정하는 구도가 굳어졌다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -139346,13 +139797,14 @@
             "title": "Google releases Gemini 4 Argon, called its most powerful model yet"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215824",
-            "title": ""
-          },
-          {
             "date": "2026-10-01",
             "file": "20261001-업스테이지-slm-솔라-미니-4-출시.md",
             "title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-sw키트-구글-오픈ai-앤트로픽-신모.md",
+            "title": "[SW키트] 구글·오픈AI·앤트로픽, 신모델 안전 확보 제각각…\"검증 한계 여전\""
           }
         ]
       },
@@ -142801,8 +143253,8 @@
       },
       {
         "date": "2026-10-01",
-        "title": "AI 성과, 백오피스·매출로 증명",
-        "summary": "시간 절감과 매출 비중이 AI 투자 판단의 기준 지표가 됐다.",
+        "title": "AI 가치, 성과 연동·양산으로 증명",
+        "summary": "수익 공유 계약과 실서비스 전환이 AI 투자의 새 판단 기준이 됐다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -142826,13 +143278,28 @@
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-ai-솔루션기업-올거나이즈-증시-입성.md",
-            "title": "AI 솔루션기업 '올거나이즈' 日증시 입성"
+            "file": "20261001-ibk기업은행-업무지식-ai-자산으로.md",
+            "title": "IBK기업은행 업무지식 AI 자산으로…인핸스, 온톨로지 실증 나"
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-lg-cns-175조-굴리는-미국-투.md",
-            "title": "LG CNS, 175조 굴리는 미국 투자사와 SW·AI 기업 공동투자"
+            "file": "20261001-오픈ai-반도체-설계-전용-gpt-시.md",
+            "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-kt-병원-ax-전문-내부-조직-개설.md",
+            "title": "KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선\""
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-hpe-ai-양산-병목-푼다-비용-운.md",
+            "title": "HPE, AI 양산 병목 푼다…비용·운영 효율화에 초점 [현장+]"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-메타-뮤즈-흥행에-월간-주가-29-껑.md",
+            "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대"
           }
         ]
       },
@@ -146338,8 +146805,8 @@
     "금융회사 AI": [
       {
         "date": "2026-10-01",
-        "title": "AI 성과, 백오피스·매출로 증명",
-        "summary": "시간 절감과 매출 비중이 AI 투자 판단의 기준 지표가 됐다.",
+        "title": "AI 가치, 성과 연동·양산으로 증명",
+        "summary": "수익 공유 계약과 실서비스 전환이 AI 투자의 새 판단 기준이 됐다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -146363,13 +146830,28 @@
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-ai-솔루션기업-올거나이즈-증시-입성.md",
-            "title": "AI 솔루션기업 '올거나이즈' 日증시 입성"
+            "file": "20261001-ibk기업은행-업무지식-ai-자산으로.md",
+            "title": "IBK기업은행 업무지식 AI 자산으로…인핸스, 온톨로지 실증 나"
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-lg-cns-175조-굴리는-미국-투.md",
-            "title": "LG CNS, 175조 굴리는 미국 투자사와 SW·AI 기업 공동투자"
+            "file": "20261001-오픈ai-반도체-설계-전용-gpt-시.md",
+            "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-kt-병원-ax-전문-내부-조직-개설.md",
+            "title": "KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선\""
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-hpe-ai-양산-병목-푼다-비용-운.md",
+            "title": "HPE, AI 양산 병목 푼다…비용·운영 효율화에 초점 [현장+]"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-메타-뮤즈-흥행에-월간-주가-29-껑.md",
+            "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대"
           }
         ]
       },
@@ -149384,8 +149866,8 @@
     "ai_industry": [
       {
         "date": "2026-10-01",
-        "title": "AI 성과, 백오피스·매출로 증명",
-        "summary": "시간 절감과 매출 비중이 AI 투자 판단의 기준 지표가 됐다.",
+        "title": "AI 가치, 성과 연동·양산으로 증명",
+        "summary": "수익 공유 계약과 실서비스 전환이 AI 투자의 새 판단 기준이 됐다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -149409,20 +149891,35 @@
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-ai-솔루션기업-올거나이즈-증시-입성.md",
-            "title": "AI 솔루션기업 '올거나이즈' 日증시 입성"
+            "file": "20261001-ibk기업은행-업무지식-ai-자산으로.md",
+            "title": "IBK기업은행 업무지식 AI 자산으로…인핸스, 온톨로지 실증 나"
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-lg-cns-175조-굴리는-미국-투.md",
-            "title": "LG CNS, 175조 굴리는 미국 투자사와 SW·AI 기업 공동투자"
+            "file": "20261001-오픈ai-반도체-설계-전용-gpt-시.md",
+            "title": "오픈AI, 반도체 설계 전용 'GPT-시놉시스' 개발 합의…'수익 공유' 적용"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-kt-병원-ax-전문-내부-조직-개설.md",
+            "title": "KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선\""
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-hpe-ai-양산-병목-푼다-비용-운.md",
+            "title": "HPE, AI 양산 병목 푼다…비용·운영 효율화에 초점 [현장+]"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-메타-뮤즈-흥행에-월간-주가-29-껑.md",
+            "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대"
           }
         ]
       },
       {
         "date": "2026-10-01",
         "title": "AI 인프라, 전력·운영 경쟁으로",
-        "summary": "GPU 확보를 넘어 전력·냉각·운영 역량이 인프라 경쟁력을 가른다.",
+        "summary": "전력 확보가 통상 의제가 되고 운영 역량이 인프라 승부처로 떠올랐다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -149446,13 +149943,23 @@
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-반도체-수출-단일품목-첫-600억-달.md",
-            "title": "반도체 수출, 단일품목 첫 600억 달러…9월 수출 1200억 달러 역대 최대"
+            "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
+            "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]"
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
-            "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]"
+            "file": "20261001-대미-투자-ai-전력-골든타임-잡은-.md",
+            "title": "[대미 투자]'AI 전력' 골든타임 잡은 美…韓은 지재권 족쇄 풀고 K-원전 르네상스 주도"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-메타-ai-데이터센터-실험-시설-지정.md",
+            "title": "메타, AI 데이터센터 '실험 시설' 지정...수십억달러 세액공제 논란"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-네이버클라우드-ai-팩토리-승부수는-.md",
+            "title": "네이버클라우드, AI 팩토리 승부수는 '풀스택' [현장+]"
           }
         ]
       },
@@ -154621,7 +155128,7 @@
       {
         "date": "2026-10-01",
         "title": "AI 인프라, 전력·운영 경쟁으로",
-        "summary": "GPU 확보를 넘어 전력·냉각·운영 역량이 인프라 경쟁력을 가른다.",
+        "summary": "전력 확보가 통상 의제가 되고 운영 역량이 인프라 승부처로 떠올랐다.",
         "articles": [
           {
             "date": "2026-10-01",
@@ -154645,13 +155152,23 @@
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-반도체-수출-단일품목-첫-600억-달.md",
-            "title": "반도체 수출, 단일품목 첫 600억 달러…9월 수출 1200억 달러 역대 최대"
+            "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
+            "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]"
           },
           {
             "date": "2026-10-01",
-            "file": "20261001-kt클라우드-aidc-경쟁-gpu-서.md",
-            "title": "KT클라우드, AIDC 경쟁 'GPU'서 '서비스'로 옮긴다 [현장+]"
+            "file": "20261001-대미-투자-ai-전력-골든타임-잡은-.md",
+            "title": "[대미 투자]'AI 전력' 골든타임 잡은 美…韓은 지재권 족쇄 풀고 K-원전 르네상스 주도"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-메타-ai-데이터센터-실험-시설-지정.md",
+            "title": "메타, AI 데이터센터 '실험 시설' 지정...수십억달러 세액공제 논란"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-네이버클라우드-ai-팩토리-승부수는-.md",
+            "title": "네이버클라우드, AI 팩토리 승부수는 '풀스택' [현장+]"
           }
         ]
       },
