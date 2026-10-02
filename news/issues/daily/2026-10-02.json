@@ -1,12 +1,12 @@
 {
   "date": "2026-10-02",
-  "updated_at": "2026-10-02T08:18:51.623070+09:00",
-  "run_id": "run_20261002_081851",
-  "summary_ko": "에이전트가 금융 사고의 도구가 된 날, 금융 접점은 오히려 에이전트로 더 열렸다.",
+  "updated_at": "2026-10-02T12:15:29.467299+09:00",
+  "run_id": "run_20261002_121529",
+  "summary_ko": "AI 에이전트발 은행 해킹이 구체화된 날, 금융 접점과 AI 자본 투입은 오히려 커졌다.",
   "issues": [
     {
-      "title": "에이전트, 공격·유출의 주체로",
-      "summary_ko": "에이전트 통제 실패가 금융·기업 현장의 실제 피해로 번지기 시작했다.",
+      "title": "에이전트, 은행 해킹의 도구로",
+      "summary_ko": "공개 AI 침투도구만으로 대형 은행 방어선이 뚫릴 수 있음이 드러났다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -24,19 +24,34 @@
           "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
-          "title": ""
-        },
-        {
           "date": "2026-10-02",
           "file": "20261002-amazon-releases-its-.md",
           "title": "Amazon releases its own Jev clone as decision models flood the web"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+          "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-속보-kb국민은행도-고객-100여명-.md",
+          "title": "[속보] KB국민은행도 고객 100여명 정보유출"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-interpol-says-ai-is-.md",
+          "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융 접점, 에이전트로 개방",
-      "summary_ko": "계좌·여신·데이터 업무가 외부 AI와 직접 연결되는 단계로 넘어갔다.",
+      "title": "금융 접점, 대화형 AI로 개방",
+      "summary_ko": "계좌·검색·여신이 대화형 AI와 외부 에이전트로 직접 연결되고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -59,19 +74,28 @@
           "title": "Bloomberg closes Canoe Intelligence acquisition"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
-          "title": ""
-        },
-        {
           "date": "2026-10-02",
           "file": "20261002-sibos-2026-don-t-jus.md",
           "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+          "title": "키움증권, 대화형 통합 'AI 검색' 출시"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261002049500002",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
+          "title": ""
         }
       ]
     },
     {
-      "title": "모델 경쟁, 단가 하락 속 방어전",
-      "summary_ko": "지능 단가는 급락하는데 모델 지식 탈취와 과잉 차단이 새 비용이 됐다.",
+      "title": "모델사, 보안·상장 시험대",
+      "summary_ko": "단가 급락 속에 내부 통제와 상장 검증까지 공급사 리스크가 커졌다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -97,12 +121,22 @@
           "date": "2026-10-02",
           "file": "20261002-anthropic-brings-cla.md",
           "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-내부-기밀-유출-의혹-오픈ai-안전-.md",
+          "title": "\"내부 기밀 유출 의혹\"…오픈AI, 안전 연구원 3명 해고"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-ai는-지금-앤트로픽-메가-ipo-초.md",
+          "title": "[AI는 지금] 앤트로픽, '메가 IPO' 초읽기…연내 상장 가시화"
         }
       ]
     },
     {
-      "title": "인프라 병목, 메모리·자본으로",
-      "summary_ko": "메모리 부족 장기화와 부채형 조달이 AI 인프라 비용의 새 변수가 됐다.",
+      "title": "AI 인프라, 자본·임차 경쟁",
+      "summary_ko": "칩 임차와 초대형 라운드로 인프라 비용이 자본력 싸움이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -122,6 +156,26 @@
           "date": "2026-10-02",
           "file": "20261002-ai-인프라-힘-싣는-lg-cns-사.md",
           "title": "AI 인프라 힘 싣는 LG CNS…美 사모펀드와 '투자 동맹'"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-ai-고속도로-서-못-구하니-해외로-.md",
+          "title": "[AI 고속도로] \"中서 못 구하니 해외로\"…텐센트, 오라클서 AI칩 10만개 확보"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-sbva-데이터브릭스-50억달러-라운.md",
+          "title": "SBVA, 데이터브릭스 50억달러 라운드 참여…글로벌 AI 포트폴리오 확대"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-동해시-gs그룹-ai-데이터센터-10.md",
+          "title": "동해시, GS그룹 AI 데이터센터 100MW 건축허가…올해 착공"
+        },
+        {
+          "date": "2026-10-02",
+          "file": "20261002-한전-국산-ai반도체-평가-지표-첫-.md",
+          "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손"
         },
         {
           "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",

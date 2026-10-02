@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T23:18:59+00:00",
+  "generated_at": "2026-10-02T03:15:37+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1302,
+      "count": 1308,
       "latest_date": "2026-10-02"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1320,
+      "count": 1323,
       "latest_date": "2026-10-02"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3087,
+      "count": 3096,
       "latest_date": "2026-10-02"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 929,
+      "count": 932,
       "latest_date": "2026-10-02"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 759,
+      "count": 762,
       "latest_date": "2026-10-02"
     },
     {
@@ -112,6 +112,21 @@
       },
       {
         "date": "2026-10-02",
+        "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+        "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#security-incident",
+          "#ai-agent-attack",
+          "#data-breach",
+          "#shinhan"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261002042351017"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-10주만-사줘-다올증권-ai-증권계좌.md",
         "title": "'10주만 사줘'…다올증권, AI-증권계좌 연결 서비스 출시",
         "importance": 7,
@@ -123,6 +138,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261001170100008"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-ibm-기업-통제-환경서-운영-가능한.md",
+        "title": "IBM, 기업 통제 환경서 운영 가능한 'IBM 밥' 자체 호스팅 버전 출시",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#on-premise",
+          "#coding",
+          "#agent-framework",
+          "#regulated-industry"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002111825"
       },
       {
         "date": "2026-10-02",
@@ -140,6 +170,21 @@
       },
       {
         "date": "2026-10-02",
+        "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+        "title": "키움증권, 대화형 통합 'AI 검색' 출시",
+        "importance": 7,
+        "tags": [
+          "#securities",
+          "#ai-adoption",
+          "#conversational-ai",
+          "#multi-agent",
+          "#customer-experience"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000106"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-amazon-releases-its-.md",
         "title": "Amazon releases its own Jev clone as decision models flood the web",
         "importance": 6,
@@ -154,6 +199,20 @@
       },
       {
         "date": "2026-10-02",
+        "file": "20261002-interpol-says-ai-is-.md",
+        "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch",
+        "importance": 6,
+        "tags": [
+          "#cybersecurity",
+          "#agentic-ai",
+          "#threat-intelligence",
+          "#interpol"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-sk-ax-비개발자도-ai-에이전트-.md",
         "title": "SK AX, 비개발자도 AI 에이전트 만든다…'부트캠프 바이브' 출시",
         "importance": 6,
@@ -165,6 +224,34 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=674847"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-링크드인-6년-이끈-라이언-로슬랜스키.md",
+        "title": "링크드인 6년 이끈 라이언 로슬랜스키, 연말 마이크로소프트 떠난다",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#microsoft",
+          "#copilot",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002102511"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-시높시스-ai-에이전트-기반-자율-엔.md",
+        "title": "시높시스, AI 에이전트 기반 '자율 엔지니어링' 본격화…설계·검증 전 과정 혁신",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#semiconductor",
+          "#autonomous-engineering"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000087"
       },
       {
         "date": "2026-10-02",
@@ -34329,6 +34416,21 @@
       },
       {
         "date": "2026-10-02",
+        "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+        "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#security-incident",
+          "#ai-agent-attack",
+          "#data-breach",
+          "#shinhan"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261002042351017"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-anthropic-brings-cla.md",
         "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
         "importance": 7,
@@ -34371,6 +34473,20 @@
       },
       {
         "date": "2026-10-02",
+        "file": "20261002-interpol-says-ai-is-.md",
+        "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch",
+        "importance": 6,
+        "tags": [
+          "#cybersecurity",
+          "#agentic-ai",
+          "#threat-intelligence",
+          "#interpol"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/02/interpol-cyberattack-cyberthreat-agentic-ai.html"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-openai-says-it-stopp.md",
         "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
         "importance": 6,
@@ -34382,6 +34498,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-내부-기밀-유출-의혹-오픈ai-안전-.md",
+        "title": "'내부 기밀 유출 의혹'…오픈AI, 안전 연구원 3명 해고",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ai-safety",
+          "#governance",
+          "#openai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002110850"
       },
       {
         "date": "2026-10-01",
@@ -53395,6 +53525,35 @@
     "ai_industry": [
       {
         "date": "2026-10-02",
+        "file": "20261002-ai-고속도로-서-못-구하니-해외로-.md",
+        "title": "[AI 고속도로] '中서 못 구하니 해외로'…텐센트, 오라클서 AI칩 10만개 확보",
+        "importance": 7,
+        "tags": [
+          "#compute-procurement",
+          "#export-control",
+          "#cloud",
+          "#tencent",
+          "#oracle"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002104307"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-ai는-지금-앤트로픽-메가-ipo-초.md",
+        "title": "[AI는 지금] 앤트로픽, '메가 IPO' 초읽기…연내 상장 가시화",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#anthropic",
+          "#investment",
+          "#valuation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002083313"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-anthropic-brings-cla.md",
         "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
         "importance": 7,
@@ -53406,6 +53565,36 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-ibm-기업-통제-환경서-운영-가능한.md",
+        "title": "IBM, 기업 통제 환경서 운영 가능한 'IBM 밥' 자체 호스팅 버전 출시",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#on-premise",
+          "#coding",
+          "#agent-framework",
+          "#regulated-industry"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002111825"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-sbva-데이터브릭스-50억달러-라운.md",
+        "title": "SBVA, 데이터브릭스 50억달러 라운드 참여…글로벌 AI 포트폴리오 확대",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#enterprise-ai",
+          "#data-platform",
+          "#databricks",
+          "#valuation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=674901"
       },
       {
         "date": "2026-10-02",
@@ -53490,6 +53679,78 @@
         ],
         "source": "OpenAI Blog",
         "url": "https://openai.com/index/albertsons-reimagining-retail"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-내부-기밀-유출-의혹-오픈ai-안전-.md",
+        "title": "'내부 기밀 유출 의혹'…오픈AI, 안전 연구원 3명 해고",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ai-safety",
+          "#governance",
+          "#openai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002110850"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-링크드인-6년-이끈-라이언-로슬랜스키.md",
+        "title": "링크드인 6년 이끈 라이언 로슬랜스키, 연말 마이크로소프트 떠난다",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#microsoft",
+          "#copilot",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002102511"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-시높시스-ai-에이전트-기반-자율-엔.md",
+        "title": "시높시스, AI 에이전트 기반 '자율 엔지니어링' 본격화…설계·검증 전 과정 혁신",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#enterprise-ai",
+          "#semiconductor",
+          "#autonomous-engineering"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000087"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-전기안전공사-ai로-ess-열폭주-3.md",
+        "title": "전기안전공사, AI로 ESS 열폭주 355건 막았다…4037억 손실 절감",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#roi-case",
+          "#public-sector",
+          "#safety",
+          "#energy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000118"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-한전-국산-ai반도체-평가-지표-첫-.md",
+        "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손",
+        "importance": 6,
+        "tags": [
+          "#npu",
+          "#sovereign-ai",
+          "#procurement",
+          "#partnership",
+          "#public-sector"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000009"
       },
       {
         "date": "2026-10-01",
@@ -105350,6 +105611,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-02",
+        "file": "20261002-ai-고속도로-서-못-구하니-해외로-.md",
+        "title": "[AI 고속도로] '中서 못 구하니 해외로'…텐센트, 오라클서 AI칩 10만개 확보",
+        "importance": 7,
+        "tags": [
+          "#compute-procurement",
+          "#export-control",
+          "#cloud",
+          "#tencent",
+          "#oracle"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261002104307"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-ai-인프라-힘-싣는-lg-cns-사.md",
         "title": "AI 인프라 힘 싣는 LG CNS…美 사모펀드와 '투자 동맹'",
         "importance": 6,
@@ -105389,6 +105665,35 @@
         ],
         "source": "Ars Technica Tech",
         "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-동해시-gs그룹-ai-데이터센터-10.md",
+        "title": "동해시, GS그룹 AI 데이터센터 100MW 건축허가…올해 착공",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#infrastructure",
+          "#gs-group",
+          "#korea"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261002076200062"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-한전-국산-ai반도체-평가-지표-첫-.md",
+        "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손",
+        "importance": 6,
+        "tags": [
+          "#npu",
+          "#sovereign-ai",
+          "#procurement",
+          "#partnership",
+          "#public-sector"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000009"
       },
       {
         "date": "2026-10-01",
@@ -118789,6 +119094,21 @@
       },
       {
         "date": "2026-10-02",
+        "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+        "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#security-incident",
+          "#ai-agent-attack",
+          "#data-breach",
+          "#shinhan"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261002042351017"
+      },
+      {
+        "date": "2026-10-02",
         "file": "20261002-10주만-사줘-다올증권-ai-증권계좌.md",
         "title": "'10주만 사줘'…다올증권, AI-증권계좌 연결 서비스 출시",
         "importance": 7,
@@ -118800,6 +119120,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261001170100008"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+        "title": "키움증권, 대화형 통합 'AI 검색' 출시",
+        "importance": 7,
+        "tags": [
+          "#securities",
+          "#ai-adoption",
+          "#conversational-ai",
+          "#multi-agent",
+          "#customer-experience"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000106"
       },
       {
         "date": "2026-10-02",
@@ -118842,6 +119177,20 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48521/sibos-2026-dont-just-think-tech-think-talent-to-achieve-broad-ai-literacy?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-02",
+        "file": "20261002-속보-kb국민은행도-고객-100여명-.md",
+        "title": "[속보] KB국민은행도 고객 100여명 정보유출",
+        "importance": 6,
+        "tags": [
+          "#banking",
+          "#security-incident",
+          "#data-breach",
+          "#finance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261002000109"
       },
       {
         "date": "2026-10-01",
@@ -138249,8 +138598,8 @@
     "ai_agents": [
       {
         "date": "2026-10-02",
-        "title": "에이전트, 공격·유출의 주체로",
-        "summary": "에이전트 통제 실패가 금융·기업 현장의 실제 피해로 번지기 시작했다.",
+        "title": "에이전트, 은행 해킹의 도구로",
+        "summary": "공개 AI 침투도구만으로 대형 은행 방어선이 뚫릴 수 있음이 드러났다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -138263,20 +138612,35 @@
             "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
-            "title": ""
-          },
-          {
             "date": "2026-10-02",
             "file": "20261002-amazon-releases-its-.md",
             "title": "Amazon releases its own Jev clone as decision models flood the web"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+            "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-속보-kb국민은행도-고객-100여명-.md",
+            "title": "[속보] KB국민은행도 고객 100여명 정보유출"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-interpol-says-ai-is-.md",
+            "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-10-02",
-        "title": "금융 접점, 에이전트로 개방",
-        "summary": "계좌·여신·데이터 업무가 외부 AI와 직접 연결되는 단계로 넘어갔다.",
+        "title": "금융 접점, 대화형 AI로 개방",
+        "summary": "계좌·검색·여신이 대화형 AI와 외부 에이전트로 직접 연결되고 있다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -138294,13 +138658,22 @@
             "title": "Bloomberg closes Canoe Intelligence acquisition"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
-            "title": ""
-          },
-          {
             "date": "2026-10-02",
             "file": "20261002-sibos-2026-don-t-jus.md",
             "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+            "title": "키움증권, 대화형 통합 'AI 검색' 출시"
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261002049500002",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
+            "title": ""
           }
         ]
       },
@@ -141631,8 +142004,8 @@
     "금융회사 AI": [
       {
         "date": "2026-10-02",
-        "title": "에이전트, 공격·유출의 주체로",
-        "summary": "에이전트 통제 실패가 금융·기업 현장의 실제 피해로 번지기 시작했다.",
+        "title": "에이전트, 은행 해킹의 도구로",
+        "summary": "공개 AI 침투도구만으로 대형 은행 방어선이 뚫릴 수 있음이 드러났다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -141645,20 +142018,35 @@
             "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
-            "title": ""
-          },
-          {
             "date": "2026-10-02",
             "file": "20261002-amazon-releases-its-.md",
             "title": "Amazon releases its own Jev clone as decision models flood the web"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+            "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-속보-kb국민은행도-고객-100여명-.md",
+            "title": "[속보] KB국민은행도 고객 100여명 정보유출"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-interpol-says-ai-is-.md",
+            "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-10-02",
-        "title": "금융 접점, 에이전트로 개방",
-        "summary": "계좌·여신·데이터 업무가 외부 AI와 직접 연결되는 단계로 넘어갔다.",
+        "title": "금융 접점, 대화형 AI로 개방",
+        "summary": "계좌·검색·여신이 대화형 AI와 외부 에이전트로 직접 연결되고 있다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -141676,13 +142064,22 @@
             "title": "Bloomberg closes Canoe Intelligence acquisition"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
-            "title": ""
-          },
-          {
             "date": "2026-10-02",
             "file": "20261002-sibos-2026-don-t-jus.md",
             "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+            "title": "키움증권, 대화형 통합 'AI 검색' 출시"
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261002049500002",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
+            "title": ""
           }
         ]
       },
@@ -144749,8 +145146,8 @@
     "ai_policy": [
       {
         "date": "2026-10-02",
-        "title": "에이전트, 공격·유출의 주체로",
-        "summary": "에이전트 통제 실패가 금융·기업 현장의 실제 피해로 번지기 시작했다.",
+        "title": "에이전트, 은행 해킹의 도구로",
+        "summary": "공개 AI 침투도구만으로 대형 은행 방어선이 뚫릴 수 있음이 드러났다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -144763,20 +145160,35 @@
             "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
-            "title": ""
-          },
-          {
             "date": "2026-10-02",
             "file": "20261002-amazon-releases-its-.md",
             "title": "Amazon releases its own Jev clone as decision models flood the web"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-신한은행-해킹에-ai-동원됐나-서버서.md",
+            "title": "신한은행 해킹에 AI 동원됐나…서버서 '중국어 침투도구' 흔적(종합)"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-속보-kb국민은행도-고객-100여명-.md",
+            "title": "[속보] KB국민은행도 고객 100여명 정보유출"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-interpol-says-ai-is-.md",
+            "title": "Interpol says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-10-02",
-        "title": "모델 경쟁, 단가 하락 속 방어전",
-        "summary": "지능 단가는 급락하는데 모델 지식 탈취와 과잉 차단이 새 비용이 됐다.",
+        "title": "모델사, 보안·상장 시험대",
+        "summary": "단가 급락 속에 내부 통제와 상장 검증까지 공급사 리스크가 커졌다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -144797,6 +145209,16 @@
             "date": "2026-10-02",
             "file": "20261002-anthropic-brings-cla.md",
             "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-내부-기밀-유출-의혹-오픈ai-안전-.md",
+            "title": "\"내부 기밀 유출 의혹\"…오픈AI, 안전 연구원 3명 해고"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-ai는-지금-앤트로픽-메가-ipo-초.md",
+            "title": "[AI는 지금] 앤트로픽, '메가 IPO' 초읽기…연내 상장 가시화"
           }
         ]
       },
@@ -148245,8 +148667,8 @@
     "ai_workforce_training": [
       {
         "date": "2026-10-02",
-        "title": "금융 접점, 에이전트로 개방",
-        "summary": "계좌·여신·데이터 업무가 외부 AI와 직접 연결되는 단계로 넘어갔다.",
+        "title": "금융 접점, 대화형 AI로 개방",
+        "summary": "계좌·검색·여신이 대화형 AI와 외부 에이전트로 직접 연결되고 있다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -148264,13 +148686,22 @@
             "title": "Bloomberg closes Canoe Intelligence acquisition"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
-            "title": ""
-          },
-          {
             "date": "2026-10-02",
             "file": "20261002-sibos-2026-don-t-jus.md",
             "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+            "title": "키움증권, 대화형 통합 'AI 검색' 출시"
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261002049500002",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
+            "title": ""
           }
         ]
       },
@@ -148535,8 +148966,8 @@
     "llm_models": [
       {
         "date": "2026-10-02",
-        "title": "모델 경쟁, 단가 하락 속 방어전",
-        "summary": "지능 단가는 급락하는데 모델 지식 탈취와 과잉 차단이 새 비용이 됐다.",
+        "title": "모델사, 보안·상장 시험대",
+        "summary": "단가 급락 속에 내부 통제와 상장 검증까지 공급사 리스크가 커졌다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -148557,6 +148988,16 @@
             "date": "2026-10-02",
             "file": "20261002-anthropic-brings-cla.md",
             "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-내부-기밀-유출-의혹-오픈ai-안전-.md",
+            "title": "\"내부 기밀 유출 의혹\"…오픈AI, 안전 연구원 3명 해고"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-ai는-지금-앤트로픽-메가-ipo-초.md",
+            "title": "[AI는 지금] 앤트로픽, '메가 IPO' 초읽기…연내 상장 가시화"
           }
         ]
       },
@@ -150598,8 +151039,8 @@
     "ai_industry": [
       {
         "date": "2026-10-02",
-        "title": "모델 경쟁, 단가 하락 속 방어전",
-        "summary": "지능 단가는 급락하는데 모델 지식 탈취와 과잉 차단이 새 비용이 됐다.",
+        "title": "모델사, 보안·상장 시험대",
+        "summary": "단가 급락 속에 내부 통제와 상장 검증까지 공급사 리스크가 커졌다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -150620,13 +151061,23 @@
             "date": "2026-10-02",
             "file": "20261002-anthropic-brings-cla.md",
             "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-내부-기밀-유출-의혹-오픈ai-안전-.md",
+            "title": "\"내부 기밀 유출 의혹\"…오픈AI, 안전 연구원 3명 해고"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-ai는-지금-앤트로픽-메가-ipo-초.md",
+            "title": "[AI는 지금] 앤트로픽, '메가 IPO' 초읽기…연내 상장 가시화"
           }
         ]
       },
       {
         "date": "2026-10-02",
-        "title": "인프라 병목, 메모리·자본으로",
-        "summary": "메모리 부족 장기화와 부채형 조달이 AI 인프라 비용의 새 변수가 됐다.",
+        "title": "AI 인프라, 자본·임차 경쟁",
+        "summary": "칩 임차와 초대형 라운드로 인프라 비용이 자본력 싸움이 됐다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -150642,6 +151093,26 @@
             "date": "2026-10-02",
             "file": "20261002-ai-인프라-힘-싣는-lg-cns-사.md",
             "title": "AI 인프라 힘 싣는 LG CNS…美 사모펀드와 '투자 동맹'"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-ai-고속도로-서-못-구하니-해외로-.md",
+            "title": "[AI 고속도로] \"中서 못 구하니 해외로\"…텐센트, 오라클서 AI칩 10만개 확보"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-sbva-데이터브릭스-50억달러-라운.md",
+            "title": "SBVA, 데이터브릭스 50억달러 라운드 참여…글로벌 AI 포트폴리오 확대"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-동해시-gs그룹-ai-데이터센터-10.md",
+            "title": "동해시, GS그룹 AI 데이터센터 100MW 건축허가…올해 착공"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-한전-국산-ai반도체-평가-지표-첫-.md",
+            "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손"
           },
           {
             "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
@@ -155912,8 +156383,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-02",
-        "title": "인프라 병목, 메모리·자본으로",
-        "summary": "메모리 부족 장기화와 부채형 조달이 AI 인프라 비용의 새 변수가 됐다.",
+        "title": "AI 인프라, 자본·임차 경쟁",
+        "summary": "칩 임차와 초대형 라운드로 인프라 비용이 자본력 싸움이 됐다.",
         "articles": [
           {
             "date": "2026-10-02",
@@ -155929,6 +156400,26 @@
             "date": "2026-10-02",
             "file": "20261002-ai-인프라-힘-싣는-lg-cns-사.md",
             "title": "AI 인프라 힘 싣는 LG CNS…美 사모펀드와 '투자 동맹'"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-ai-고속도로-서-못-구하니-해외로-.md",
+            "title": "[AI 고속도로] \"中서 못 구하니 해외로\"…텐센트, 오라클서 AI칩 10만개 확보"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-sbva-데이터브릭스-50억달러-라운.md",
+            "title": "SBVA, 데이터브릭스 50억달러 라운드 참여…글로벌 AI 포트폴리오 확대"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-동해시-gs그룹-ai-데이터센터-10.md",
+            "title": "동해시, GS그룹 AI 데이터센터 100MW 건축허가…올해 착공"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-한전-국산-ai반도체-평가-지표-첫-.md",
+            "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손"
           },
           {
             "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
