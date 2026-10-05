@@ -1,0 +1,111 @@
+{
+  "date": "2026-10-06",
+  "updated_at": "2026-10-06T08:25:41.192278+09:00",
+  "run_id": "run_20261006_082541",
+  "summary_ko": "AI 에이전트가 금융권을 뚫고 책임 공방으로 번진 하루.",
+  "issues": [
+    {
+      "title": "금융권 AI 에이전트 해킹 확산",
+      "summary_ko": "AI 공격이 금융 보안·규제 재설계를 강제하고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-해킹-비상-한국-이제-시작-보안전문가.md",
+          "title": "\"해킹 비상 한국, 이제 시작\"...보안전문가들 CSF 구축 등 해법 제시"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-첫-공격-막은-우리-ai-해킹-24시.md",
+          "title": "첫 공격 막은 우리銀 … AI 해킹, 24시간 감시 AI 방패로 차단"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-해킹-확산에도-정보보호-강화-전금법-.md",
+          "title": "해킹 확산에도…'정보보호 강화' 전금법 10개월째 국회서 '쿨쿨'"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-핵심망-지켰지만-ai-해킹-선제방어-.md",
+          "title": "핵심망 지켰지만 AI 해킹 선제방어 한계…금융권 '망분리 딜레마'"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 폭주의 책임 공방",
+      "summary_ko": "에이전트 행위 책임이 법적 리스크로 확정되는 국면.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-오픈ai-에이전트-폭주-에-사면초가-.md",
+          "title": "오픈AI '에이전트 폭주'에 사면초가... 전 세계서 법적·규제 경고 폭풍"
+        },
+        {
+          "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "title": ""
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-mcp-for-agent-to-age.md",
+          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of"
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라의 금융화",
+      "summary_ko": "컴퓨트 조달 리스크가 금융시장으로 옮겨가고 있다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-아마존-11조-규모-ai-칩-투자자에.md",
+          "title": "아마존, 11조 규모 AI 칩 투자자에 매각 후 리스…재무 부담 낮춘다"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-브로드컴-앤트로픽에-80조-대출-보증.md",
+          "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "벤더 이탈과 과금 재편",
+      "summary_ko": "모델 의존도와 단가 전략을 재점검할 때다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-meta-and-microsoft-p.md",
+          "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215946",
+          "title": ""
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-ai픽-ai-두뇌값-1년새-13분의-.md",
+          "title": "[AI픽] \"AI 두뇌값 1년새 13분의 1\"…유례없는 가격 폭락"
+        }
+      ]
+    }
+  ]
+}

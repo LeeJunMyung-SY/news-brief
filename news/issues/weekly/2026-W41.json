@@ -1,0 +1,114 @@
+{
+  "week": "2026-W41",
+  "updated_at": "2026-10-06T08:25:41.192278+09:00",
+  "run_id": "run_20261006_082541",
+  "summary_ko": "에이전트 리스크가 금융 보안과 법적 책임의 핵심 쟁점으로 부상한 주.",
+  "issues": [
+    {
+      "title": "금융권 AI 해킹과 규제 재강화",
+      "body_ko": "AI 자동화 공격이 망분리 완화·보안 규제의 재검토를 부르고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-해킹-비상-한국-이제-시작-보안전문가.md",
+          "title": "\"해킹 비상 한국, 이제 시작\"...보안전문가들 CSF 구축 등 해법 제시"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261004024951002",
+          "title": ""
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-핵심망-지켰지만-ai-해킹-선제방어-.md",
+          "title": "핵심망 지켰지만 AI 해킹 선제방어 한계…금융권 '망분리 딜레마'"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 책임과 통제 계층",
+      "body_ko": "에이전트 피해의 법적 책임이 커지며 권한 통제가 표준이 되고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-오픈ai-에이전트-폭주-에-사면초가-.md",
+          "title": "오픈AI '에이전트 폭주'에 사면초가... 전 세계서 법적·규제 경고 폭풍"
+        },
+        {
+          "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라 금융화와 거품 경고",
+      "body_ko": "컴퓨트 투자가 부채·리스로 조달되며 회수 리스크가 커지고 있다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-브로드컴-앤트로픽에-80조-대출-보증.md",
+          "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=215942",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "벤더 재편과 단가 하락",
+      "body_ko": "추론 단가 급락 속에 멀티벤더·등급별 모델 배분이 조달 표준이 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-meta-and-microsoft-p.md",
+          "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-ai픽-ai-두뇌값-1년새-13분의-.md",
+          "title": "[AI픽] \"AI 두뇌값 1년새 13분의 1\"…유례없는 가격 폭락"
+        }
+      ]
+    },
+    {
+      "title": "금융권의 에이전트 인재 경쟁",
+      "body_ko": "보안·오케스트레이션 인재 확보가 금융사 AI 전략의 새 축이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-the-hottest-skill-on.md",
+          "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-ai-해킹-막을-방패-찾아라-금융권-.md",
+          "title": "AI 해킹 막을 '방패' 찾아라…금융권 '인재 전쟁' 예고"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48528/caixabank-establishes-new-ai-and-data-division?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
