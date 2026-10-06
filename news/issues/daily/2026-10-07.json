@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-07",
+  "updated_at": "2026-10-07T08:29:09.732715+09:00",
+  "run_id": "run_20261007_082909",
+  "summary_ko": "AI 해킹이 신용·제재 리스크로 번지는 사이 은행 AI 전환은 조직 재편 단계로 들어섰다.",
+  "issues": [
+    {
+      "title": "AI 해킹, 신용·제재 리스크로 확산",
+      "summary_ko": "공격 도구 규명과 신평사 점검, 징벌적 제재가 겹쳐 보안 미비가 재무 리스크가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-07",
+          "file": "20261007-은행-해킹-악용-정황-artex-서-.md",
+          "title": "韓은행 해킹 악용 정황 'ARTEX'…中서 개발된 개방형 AI보안도구"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-ai-해킹-신용-영향-점검-나선-신평.md",
+          "title": "'AI 해킹' 신용 영향 점검 나선 신평사…뒤늦게 보안 강화하는 은행"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675041",
+          "title": ""
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-과기정통부-내년-민간-정보보호-예산-.md",
+          "title": "과기정통부 \"내년 민간 정보보호 예산 44% 증액…보안 공백 없다”"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-kisa-ai로-취약점-523건-찾아.md",
+          "title": "KISA, AI로 취약점 523건 찾아냈는데…내년 예산은 '0'"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026100662881",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "은행 AI 전환, 조직 재편 단계로",
+      "summary_ko": "선두 은행의 격차 확대와 인력 감축·에이전트 투자가 함께 나타나는 국면이다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-07",
+          "file": "20261007-jpmorgan-chase-exten.md",
+          "title": "JPMorgan Chase extends lead as world's most AI-advanced bank"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-dnb-to-lay-off-400-a.md",
+          "title": "DNB to lay off 400 and expand use of AI agents"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-plaid-launches-credi.md",
+          "title": "Plaid launches credit, fraud and payment risk AI models"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111163/alphasense-unveils-superanalyst-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 피해, 보험·표준으로",
+      "summary_ko": "피해 공식화가 보험 책임과 에이전트 식별·거래 표준 논의를 촉발했다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-07",
+          "file": "20261007-wikimedia-confirms-o.md",
+          "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure"
+        },
+        {
+          "url": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-meta-joins-with-grou.md",
+          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "주권 모델·인프라 자본 경쟁",
+      "summary_ko": "유럽·한국·중국의 모델 투자와 GPU 클라우드 상장 조달이 동시에 속도를 낸다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-07",
+          "file": "20261007-mistral-large-4-is-e.md",
+          "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-south-korea-bets-3-4.md",
+          "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best"
+        },
+        {
+          "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-ai-computing-startup.md",
+          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO"
+        }
+      ]
+    }
+  ]
+}
