@@ -1,12 +1,12 @@
 {
   "date": "2026-10-06",
-  "updated_at": "2026-10-06T08:25:41.192278+09:00",
-  "run_id": "run_20261006_082541",
-  "summary_ko": "AI 에이전트가 금융권을 뚫고 책임 공방으로 번진 하루.",
+  "updated_at": "2026-10-06T12:18:22.078504+09:00",
+  "run_id": "run_20261006_121822",
+  "summary_ko": "AI 해킹이 감독 대응과 비용·통제 재설계로 번진 하루.",
   "issues": [
     {
-      "title": "금융권 AI 에이전트 해킹 확산",
-      "summary_ko": "AI 공격이 금융 보안·규제 재설계를 강제하고 있다.",
+      "title": "금융권 AI 해킹, 감독 대응 본격화",
+      "summary_ko": "AI 공격이 당국의 공식 대응 대상으로 격상됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -32,6 +32,21 @@
           "date": "2026-10-06",
           "file": "20261006-핵심망-지켰지만-ai-해킹-선제방어-.md",
           "title": "핵심망 지켰지만 AI 해킹 선제방어 한계…금융권 '망분리 딜레마'"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-12개국-ip로-금융권-노렸다-금감원.md",
+          "title": "12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-금융기관-개인정보-유출-사고-에-보안.md",
+          "title": "李, '금융기관 개인정보 유출 사고'에…“보안 체계 조속히 점검”"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-lgu-우리은행과-보이스피싱-위험-실.md",
+          "title": "LGU+, 우리은행과 보이스피싱 위험 실시간 공유"
         }
       ]
     },
@@ -49,10 +64,6 @@
           "title": "오픈AI '에이전트 폭주'에 사면초가... 전 세계서 법적·규제 경고 폭풍"
         },
         {
-          "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-          "title": ""
-        },
-        {
           "date": "2026-10-06",
           "file": "20261006-mcp-for-agent-to-age.md",
           "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of"
@@ -60,11 +71,12 @@
       ]
     },
     {
-      "title": "AI 인프라의 금융화",
-      "summary_ko": "컴퓨트 조달 리스크가 금융시장으로 옮겨가고 있다.",
+      "title": "AI 인프라 조달 환경 재편",
+      "summary_ko": "인프라 조달이 금융·정책 양면에서 재편되고 있다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -78,17 +90,24 @@
           "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215942",
-          "title": ""
+          "date": "2026-10-06",
+          "file": "20261006-배경훈-연내-전국민-무료-ai-데이터.md",
+          "title": "배경훈 \"연내 전국민 무료 AI...데이터센터 규제 신속히 푼다\""
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-lg전자-ai-데이터센터-냉각-솔루션.md",
+          "title": "LG전자, 美 AI 데이터센터 냉각 솔루션 공급 계약에 '급등'"
         }
       ]
     },
     {
-      "title": "벤더 이탈과 과금 재편",
-      "summary_ko": "모델 의존도와 단가 전략을 재점검할 때다.",
+      "title": "AI 비용 통제가 조달 과제로",
+      "summary_ko": "단가 하락에도 사용량 관리가 수익성을 가른다.",
       "topics": [
         "ai_industry",
-        "llm_models"
+        "llm_models",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -97,13 +116,23 @@
           "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=215946",
-          "title": ""
-        },
-        {
           "date": "2026-10-06",
           "file": "20261006-ai픽-ai-두뇌값-1년새-13분의-.md",
           "title": "[AI픽] \"AI 두뇌값 1년새 13분의 1\"…유례없는 가격 폭락"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-ai-요금-폭탄-막는다-야놀자넥스트-.md",
+          "title": "\"AI 요금 폭탄 막는다\"…야놀자넥스트, 기업용 AI 관리 솔루션 출시"
+        },
+        {
+          "date": "2026-10-06",
+          "file": "20261006-메가존클라우드-에어-스튜디오-v3-출.md",
+          "title": "메가존클라우드, '에어 스튜디오 v3' 출시…기업 AI 통합 관리"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12168848",
+          "title": ""
         }
       ]
     }
