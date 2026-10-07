@@ -1,22 +1,17 @@
 {
   "week": "2026-W41",
-  "updated_at": "2026-10-07T08:29:09.732715+09:00",
-  "run_id": "run_20261007_082909",
-  "summary_ko": "에이전트·해킹 리스크가 보험·신용 리스크로 번지고 AX는 조직 재편 단계에 들어선 주.",
+  "updated_at": "2026-10-07T12:20:58.612876+09:00",
+  "run_id": "run_20261007_122058",
+  "summary_ko": "해킹·에이전트 리스크가 재무·규제 리스크로 굳어지는 가운데 금융 에이전트 도입이 제도권에 들어선 주.",
   "issues": [
     {
       "title": "금융권 AI 해킹, 공동 대응에서 신용 리스크로",
-      "body_ko": "당국 공동 대응을 넘어 공격 도구 규명·신평사 점검·징벌 제재로 보안 리스크가 재무화됐다.",
+      "body_ko": "당국 공동 대응을 넘어 공격 도구 규명·실탐지, 신평사 점검, 은행별 피해 격차가 드러나 보안이 재무 리스크로 자리 잡았다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-10-06",
-          "file": "20261006-해킹-비상-한국-이제-시작-보안전문가.md",
-          "title": "\"해킹 비상 한국, 이제 시작\"...보안전문가들 CSF 구축 등 해법 제시"
-        },
         {
           "date": "2026-10-06",
           "file": "20261006-핵심망-지켰지만-ai-해킹-선제방어-.md",
@@ -26,16 +21,6 @@
           "date": "2026-10-06",
           "file": "20261006-12개국-ip로-금융권-노렸다-금감원.md",
           "title": "12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-금융기관-개인정보-유출-사고-에-보안.md",
-          "title": "李, '금융기관 개인정보 유출 사고'에…“보안 체계 조속히 점검”"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-금감원-금융권-해킹-공격-주소-28개.md",
-          "title": "금감원 \"금융권 해킹 공격 주소 28개 전파…국가 정보도 공유\"(종합)"
         },
         {
           "date": "2026-10-06",
@@ -53,8 +38,60 @@
           "title": "'AI 해킹' 신용 영향 점검 나선 신평사…뒤늦게 보안 강화하는 은행"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675041",
-          "title": ""
+          "date": "2026-10-07",
+          "file": "20261007-같은-ip가-두드렸는데-은행-보안-수.md",
+          "title": "같은 IP가 두드렸는데…은행 보안 수준은 엇갈렸다"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-금융권-노리는-ai-해킹-artex-.md",
+          "title": "금융권 노리는 AI 해킹…'ARTEX' 특징 공격 시도 포착"
+        }
+      ]
+    },
+    {
+      "title": "금융 에이전트, 서비스·제도 동시 진입",
+      "body_ko": "은행 상담 에이전트 성과 공개와 마이데이터 실행 확장, 전용 보안 평가기준이 겹쳐 에이전트가 금융 거래 주체로 제도화되기 시작했다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-06",
+          "file": "20261006-the-hottest-skill-on.md",
+          "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-jpmorgan-chase-exten.md",
+          "title": "JPMorgan Chase extends lead as world's most AI-advanced bank"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-dnb-to-lay-off-400-a.md",
+          "title": "DNB to lay off 400 and expand use of AI agents"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-카드-분실신고도-대화로-토스뱅크-ai.md",
+          "title": "“카드 분실신고도 대화로”…토스뱅크, AI 채팅 에이전트 도입"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-ai가-금리인하-대환대출-대신-해준다.md",
+          "title": "AI가 금리인하·대환대출 대신 해준다…진화하는 마이데이터"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-금융보안원-금융분야-ai-에이전트-보.md",
+          "title": "금융보안원, 금융분야 AI 에이전트 보안 평가기준 마련"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-게시판-bc카드-챗gpt-연계-쇼핑-.md",
+          "title": "[게시판] BC카드, 챗GPT 연계 '쇼핑 적립' 서비스 출시"
         }
       ]
     },
@@ -73,11 +110,6 @@
         },
         {
           "date": "2026-10-06",
-          "file": "20261006-메가존클라우드-에어-스튜디오-v3-출.md",
-          "title": "메가존클라우드, '에어 스튜디오 v3' 출시…기업 AI 통합 관리"
-        },
-        {
-          "date": "2026-10-06",
           "file": "20261006-cohere-pitches-north.md",
           "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model"
         },
@@ -87,10 +119,6 @@
           "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure"
         },
         {
-          "url": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
-          "title": ""
-        },
-        {
           "date": "2026-10-07",
           "file": "20261007-meta-joins-with-grou.md",
           "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots"
@@ -98,8 +126,8 @@
       ]
     },
     {
-      "title": "AI 인프라 금융화와 설비 확산",
-      "body_ko": "리스·보증 대출에 이어 GPU 클라우드 상장 조달까지, 인프라 자본화가 공급망 전반으로 넓어졌다.",
+      "title": "AI 인프라 금융화와 국내 조달 대안",
+      "body_ko": "리스·보증·상장 조달로 인프라 자본화가 넓어지는 한편 해외 칩 기업 연구센터와 국내 AIDC 투자로 조달 대안이 국내에서 구체화됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -112,18 +140,8 @@
         },
         {
           "date": "2026-10-06",
-          "file": "20261006-배경훈-연내-전국민-무료-ai-데이터.md",
-          "title": "배경훈 \"연내 전국민 무료 AI...데이터센터 규제 신속히 푼다\""
-        },
-        {
-          "date": "2026-10-06",
           "file": "20261006-lg전자-북미서-5gw-규모-aidc.md",
           "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기계약 체결"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-두산에너빌리티-스페이스xai-공급망-.md",
-          "title": "두산에너빌리티, 스페이스XAI 공급망 진입…북미 가스터빈 공략"
         },
         {
           "date": "2026-10-07",
@@ -131,18 +149,29 @@
           "title": "AI computing startup Lambda to raise $4B ahead of planned IPO"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/06/meta-muse-gives-amd-a-boost-as-ai-momentum-shifts-to-personal-agents-.html",
-          "title": ""
+          "date": "2026-10-07",
+          "file": "20261007-amd-리사-수-방한-한국에-ai-연.md",
+          "title": "AMD 리사 수 방한…한국에 'AI 연구센터' 세우고 수백명 채용한다"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-kt클라우드-청라-50mw-aidc-.md",
+          "title": "KT클라우드, 청라 50MW AIDC 구축 참여…수도권 공급 확대"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-세종-국가산단에-100-데이터센터-1.md",
+          "title": "세종 국가산단에 100㎿ 데이터센터…1조8천억원 투자 계획"
         }
       ]
     },
     {
-      "title": "벤더 재편과 주권 모델 경쟁",
-      "body_ko": "단가 급락·멀티벤더 흐름 속에 유럽·한국·중국의 주권형 모델 투자가 조달 선택지를 넓히고 있다.",
+      "title": "주권 모델 경쟁과 AX 조직 재편",
+      "body_ko": "유럽·한국의 주권형 모델 투자와 실행형 AI 베타, 은행·제조사의 조직 재편이 겹쳐 AX가 실행과 조직 구조 단계로 들어섰다.",
       "topics": [
         "llm_models",
         "ai_industry",
-        "ai_policy"
+        "physical_ai_robotics"
       ],
       "articles": [
         {
@@ -152,18 +181,8 @@
         },
         {
           "date": "2026-10-06",
-          "file": "20261006-ai픽-ai-두뇌값-1년새-13분의-.md",
-          "title": "[AI픽] \"AI 두뇌값 1년새 13분의 1\"…유례없는 가격 폭락"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-ai-요금-폭탄-막는다-야놀자넥스트-.md",
-          "title": "\"AI 요금 폭탄 막는다\"…야놀자넥스트, 기업용 AI 관리 솔루션 출시"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-오픈ai-28일-연속-코덱스-개선-예.md",
-          "title": "오픈AI, 28일 연속 '코덱스' 개선 예고...첫날부터 처리 속도 50% 향상"
+          "file": "20261006-삼성sds-ai가-판단하고-로봇이-움.md",
+          "title": "삼성SDS, AI가 판단하고 로봇이 움직인다…제조 현장 'RX' 속도"
         },
         {
           "date": "2026-10-07",
@@ -176,62 +195,19 @@
           "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best"
         },
         {
-          "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
-          "title": ""
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026100665761",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "AX 실행: 은행 조직 재편과 공공 선구매",
-      "body_ko": "공공 조달 개편·RX에 이어 은행 인력 재편과 피지컬 AI 인재 경쟁이 AX 실행의 승부처가 됐다.",
-      "topics": [
-        "ai_industry",
-        "금융회사 AI",
-        "physical_ai_robotics"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-06",
-          "file": "20261006-the-hottest-skill-on.md",
-          "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-ai-해킹-막을-방패-찾아라-금융권-.md",
-          "title": "AI 해킹 막을 '방패' 찾아라…금융권 '인재 전쟁' 예고"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-국가ai전략위-정부-ai-도입-기술보.md",
-          "title": "국가AI전략위 \"정부 AI 도입, 기술보다 제도가 발목…공공 AX 규칙 다시 짠다\""
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-삼성sds-ai가-판단하고-로봇이-움.md",
-          "title": "삼성SDS, AI가 판단하고 로봇이 움직인다…제조 현장 'RX' 속도"
-        },
-        {
-          "date": "2026-10-07",
-          "file": "20261007-jpmorgan-chase-exten.md",
-          "title": "JPMorgan Chase extends lead as world's most AI-advanced bank"
-        },
-        {
-          "date": "2026-10-07",
-          "file": "20261007-dnb-to-lay-off-400-a.md",
-          "title": "DNB to lay off 400 and expand use of AI agents"
-        },
-        {
           "date": "2026-10-07",
           "file": "20261007-보스턴다이내믹스-아마존-ai-수장-영.md",
           "title": "보스턴다이내믹스, 아마존 AI 수장 영입…현대차그룹과 '피지컬 AI' 상용화 가속"
         },
         {
-          "url": "https://www.etnews.com/20261006000426",
-          "title": ""
+          "date": "2026-10-07",
+          "file": "20261007-ai픽-kt-모두의-ai-이달-베타-.md",
+          "title": "[AI픽] KT '모두의 AI' 이달 베타…검색 넘어 '실행형 AI'로"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-느려도-확실하게-삼성전자-로보틱스도-.md",
+          "title": "\"느려도 확실하게\"…삼성전자, 로보틱스도 '정공법' 택했다"
         }
       ]
     }

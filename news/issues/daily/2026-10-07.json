@@ -1,12 +1,53 @@
 {
   "date": "2026-10-07",
-  "updated_at": "2026-10-07T08:29:09.732715+09:00",
-  "run_id": "run_20261007_082909",
-  "summary_ko": "AI 해킹이 신용·제재 리스크로 번지는 사이 은행 AI 전환은 조직 재편 단계로 들어섰다.",
+  "updated_at": "2026-10-07T12:20:58.612876+09:00",
+  "run_id": "run_20261007_122058",
+  "summary_ko": "금융 에이전트가 서비스·규율 양면에서 본격화되고 해킹 리스크는 재무 리스크로 굳어졌다.",
   "issues": [
     {
+      "title": "금융 에이전트, 출시와 규율 동시 진행",
+      "summary_ko": "상담 실행 성과와 거래 대행 제도, 보안 평가기준이 같은 날 나와 에이전트 도입이 규제 영역에 들어섰다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-07",
+          "file": "20261007-jpmorgan-chase-exten.md",
+          "title": "JPMorgan Chase extends lead as world's most AI-advanced bank"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-dnb-to-lay-off-400-a.md",
+          "title": "DNB to lay off 400 and expand use of AI agents"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-카드-분실신고도-대화로-토스뱅크-ai.md",
+          "title": "“카드 분실신고도 대화로”…토스뱅크, AI 채팅 에이전트 도입"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-ai가-금리인하-대환대출-대신-해준다.md",
+          "title": "AI가 금리인하·대환대출 대신 해준다…진화하는 마이데이터"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-금융보안원-금융분야-ai-에이전트-보.md",
+          "title": "금융보안원, 금융분야 AI 에이전트 보안 평가기준 마련"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-게시판-bc카드-챗gpt-연계-쇼핑-.md",
+          "title": "[게시판] BC카드, 챗GPT 연계 '쇼핑 적립' 서비스 출시"
+        }
+      ]
+    },
+    {
       "title": "AI 해킹, 신용·제재 리스크로 확산",
-      "summary_ko": "공격 도구 규명과 신평사 점검, 징벌적 제재가 겹쳐 보안 미비가 재무 리스크가 됐다.",
+      "summary_ko": "공격 도구 실탐지와 은행별 피해 격차가 드러나 보안 아키텍처가 재무 리스크를 가르는 변수가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -23,10 +64,6 @@
           "title": "'AI 해킹' 신용 영향 점검 나선 신평사…뒤늦게 보안 강화하는 은행"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675041",
-          "title": ""
-        },
-        {
           "date": "2026-10-07",
           "file": "20261007-과기정통부-내년-민간-정보보호-예산-.md",
           "title": "과기정통부 \"내년 민간 정보보호 예산 44% 증액…보안 공백 없다”"
@@ -37,36 +74,17 @@
           "title": "KISA, AI로 취약점 523건 찾아냈는데…내년 예산은 '0'"
         },
         {
-          "url": "https://www.hankyung.com/article/2026100662881",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "은행 AI 전환, 조직 재편 단계로",
-      "summary_ko": "선두 은행의 격차 확대와 인력 감축·에이전트 투자가 함께 나타나는 국면이다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
           "date": "2026-10-07",
-          "file": "20261007-jpmorgan-chase-exten.md",
-          "title": "JPMorgan Chase extends lead as world's most AI-advanced bank"
+          "file": "20261007-같은-ip가-두드렸는데-은행-보안-수.md",
+          "title": "같은 IP가 두드렸는데…은행 보안 수준은 엇갈렸다"
         },
         {
           "date": "2026-10-07",
-          "file": "20261007-dnb-to-lay-off-400-a.md",
-          "title": "DNB to lay off 400 and expand use of AI agents"
+          "file": "20261007-금융권-노리는-ai-해킹-artex-.md",
+          "title": "금융권 노리는 AI 해킹…'ARTEX' 특징 공격 시도 포착"
         },
         {
-          "date": "2026-10-07",
-          "file": "20261007-plaid-launches-credi.md",
-          "title": "Plaid launches credit, fraud and payment risk AI models"
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/111163/alphasense-unveils-superanalyst-ai-agent?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "url": "https://www.etnews.com/20261007000166",
           "title": ""
         }
       ]
@@ -86,23 +104,15 @@
           "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure"
         },
         {
-          "url": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
-          "title": ""
-        },
-        {
           "date": "2026-10-07",
           "file": "20261007-meta-joins-with-grou.md",
           "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots"
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-          "title": ""
         }
       ]
     },
     {
       "title": "주권 모델·인프라 자본 경쟁",
-      "summary_ko": "유럽·한국·중국의 모델 투자와 GPU 클라우드 상장 조달이 동시에 속도를 낸다.",
+      "summary_ko": "해외 칩 기업의 국내 연구센터와 국내 AIDC 투자가 겹쳐 조달 대안이 국내에서 구체화되고 있다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -120,13 +130,29 @@
           "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best"
         },
         {
-          "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
-          "title": ""
-        },
-        {
           "date": "2026-10-07",
           "file": "20261007-ai-computing-startup.md",
           "title": "AI computing startup Lambda to raise $4B ahead of planned IPO"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-amd-리사-수-방한-한국에-ai-연.md",
+          "title": "AMD 리사 수 방한…한국에 'AI 연구센터' 세우고 수백명 채용한다"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-kt클라우드-청라-50mw-aidc-.md",
+          "title": "KT클라우드, 청라 50MW AIDC 구축 참여…수도권 공급 확대"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-세종-국가산단에-100-데이터센터-1.md",
+          "title": "세종 국가산단에 100㎿ 데이터센터…1조8천억원 투자 계획"
+        },
+        {
+          "date": "2026-10-07",
+          "file": "20261007-ai픽-kt-모두의-ai-이달-베타-.md",
+          "title": "[AI픽] KT '모두의 AI' 이달 베타…검색 넘어 '실행형 AI'로"
         }
       ]
     }
