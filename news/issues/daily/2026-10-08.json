@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-08",
+  "updated_at": "2026-10-08T08:17:37.145370+09:00",
+  "run_id": "run_20261008_081737",
+  "summary_ko": "금융 AI가 인력 재편 단계로 넘어가고 에이전트 사고 공시가 제도화되는 하루.",
+  "issues": [
+    {
+      "title": "금융 AI, 인력 재편과 실무 정확도",
+      "summary_ko": "AI가 자문 인력 대체로 번지는 한편, 실무 에이전트는 정확도 통제가 관건이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-08",
+          "file": "20261008-hsbc-to-make-deep-wi.md",
+          "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
+          "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111182/ts-imagine-adds-regulatory-intelligence-to-ai-platform-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 사고 공시·보안 통제",
+      "summary_ko": "사고 의무 신고와 공격 도구 현지화가 겹쳐 에이전트 보안이 제도 과제가 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-08",
+          "file": "20261008-호주-청문회-출석한-오픈ai-앤트로픽.md",
+          "title": "호주 청문회 출석한 오픈AI·앤트로픽 \"에이전트 사고 신고 의무화 찬성\""
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-금융권-해킹-도구-아르텍스-한국어판-.md",
+          "title": "금융권 해킹 도구 '아르텍스' 한국어판 등장…탐지규칙도 공개"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-anthropic-gives-more.md",
+          "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions"
+        },
+        {
+          "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 단가 붕괴와 인터페이스 전환",
+      "summary_ko": "가격 급락과 앱형 답변이 겹쳐 모델 경쟁이 단가와 채널 장악으로 옮겨갔다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-08",
+          "file": "20261008-chatgpt-with-gpt-6-d.md",
+          "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-claude-haiku-5-5-arr.md",
+          "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-openai-launches-deci.md",
+          "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-앤트로픽-구글-워크스페이스-연동-문서.md",
+          "title": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출"
+        }
+      ]
+    },
+    {
+      "title": "인프라, 전력·자본·인허가 삼중 경쟁",
+      "summary_ko": "원전 계약과 GPU 금융, 공사 중단이 겹쳐 인프라가 자본·입지 싸움이 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-08",
+          "file": "20261008-구글-ai-데이터센터-전력-확보-위해.md",
+          "title": "구글, AI 데이터센터 전력 확보 위해 3.6GW 규모 원전 계약 체결"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-apollo-banks-in-talk.md",
+          "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-google-ordered-to-ha.md",
+          "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-samsung-forecasts-re.md",
+          "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom"
+        }
+      ]
+    }
+  ]
+}
