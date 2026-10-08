@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T03:11:29+00:00",
+  "generated_at": "2026-10-08T07:15:51+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1340,
+      "count": 1345,
       "latest_date": "2026-10-08"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1357,
+      "count": 1362,
       "latest_date": "2026-10-08"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3145,
+      "count": 3148,
       "latest_date": "2026-10-08"
     },
     {
@@ -47,15 +47,15 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 793,
+      "count": 799,
       "latest_date": "2026-10-08"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 524,
-      "latest_date": "2026-10-07"
+      "count": 525,
+      "latest_date": "2026-10-08"
     },
     {
       "key": "ai_hardware",
@@ -82,8 +82,8 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 48,
-      "latest_date": "2026-10-02"
+      "count": 49,
+      "latest_date": "2026-10-08"
     },
     {
       "key": "robotics",
@@ -95,6 +95,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-10-08",
+        "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
+        "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#network-separation",
+          "#ai-hacking",
+          "#ai-security"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12171549"
+      },
       {
         "date": "2026-10-08",
         "file": "20261008-chatgpt-with-gpt-6-d.md",
@@ -142,6 +157,21 @@
       },
       {
         "date": "2026-10-08",
+        "file": "20261008-ai-startup-manus-rai.md",
+        "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#ai-agent",
+          "#acquisition",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-claude-haiku-5-5-arr.md",
         "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
         "importance": 7,
@@ -184,6 +214,48 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216035"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-ai-에이전트-도입-늘어도-실제-운영.md",
+        "title": "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#agent-governance",
+          "#enterprise-ai",
+          "#roi-case"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008143522"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
+        "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나",
+        "importance": 6,
+        "tags": [
+          "#agentic-payment",
+          "#authentication",
+          "#regulation",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008133354"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-박종천-지란지교소프트-caio-ax는.md",
+        "title": "박종천 지란지교소프트 CAIO 'AX는 자동화 아닌 'AI 직원' 만드는 일'",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#caio",
+          "#ai-adoption",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008142617"
       },
       {
         "date": "2026-10-08",
@@ -35230,6 +35302,21 @@
     "ai_policy": [
       {
         "date": "2026-10-08",
+        "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
+        "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#network-separation",
+          "#ai-hacking",
+          "#ai-security"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12171549"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-금융-해킹범-중국-국적-26세-추정-.md",
         "title": "금융 해킹범, 중국 국적 26세 추정…단서는 AI에 남긴 흔적",
         "importance": 7,
@@ -35242,6 +35329,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=675258"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-금융권-해킹에-쓰인-ai-도구-전-세.md",
+        "title": "금융권 해킹에 쓰인 AI 도구, 전 세계 서버 수백대서 운영",
+        "importance": 7,
+        "tags": [
+          "#ai-hacking",
+          "#cybersecurity",
+          "#open-source",
+          "#banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261008116200017"
       },
       {
         "date": "2026-10-08",
@@ -35303,6 +35404,20 @@
       },
       {
         "date": "2026-10-08",
+        "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
+        "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나",
+        "importance": 6,
+        "tags": [
+          "#agentic-payment",
+          "#authentication",
+          "#regulation",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008133354"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-디깅노트-보안-100점-신한은행의-실.md",
         "title": "[디깅노트] '보안 100점' 신한은행의 실책…망분리 강화가 답 아니다",
         "importance": 6,
@@ -35315,6 +35430,34 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=675160"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-은행-뚫은-ai-해킹-코인거래소-보안.md",
+        "title": "은행 뚫은 AI 해킹…코인거래소 보안망은 안전하나 [AI 해킹, 다음은 코인①]",
+        "importance": 6,
+        "tags": [
+          "#crypto",
+          "#cybersecurity",
+          "#ai-hacking",
+          "#supervision"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12171395"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-청소년-이용자-절반-ai에-의존-정부.md",
+        "title": "청소년 이용자 절반 “AI에 의존”…정부, 정신건강 이용지침 마련",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#guideline",
+          "#mental-health",
+          "#youth"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261008000280"
       },
       {
         "date": "2026-10-07",
@@ -54894,6 +55037,21 @@
       },
       {
         "date": "2026-10-08",
+        "file": "20261008-ai-startup-manus-rai.md",
+        "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#ai-agent",
+          "#acquisition",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-apollo-banks-in-talk.md",
         "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
         "importance": 7,
@@ -54954,6 +55112,20 @@
       },
       {
         "date": "2026-10-08",
+        "file": "20261008-ai-구현만으론-살아남기-힘들다-퓨처.md",
+        "title": "'AI 구현만으론 살아남기 힘들다'…퓨처플레이가 꼽은 생존 조건",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#unit-economics",
+          "#monetization",
+          "#startup"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008135755"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-openai-launches-deci.md",
         "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
         "importance": 6,
@@ -55008,6 +55180,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216040"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-저커버그-부부의-바이오허브-미-정부-.md",
+        "title": "저커버그 부부의 바이오허브, 미 정부·구글과 2.4조 AI 생물학 데이터 구축",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#bio-ai",
+          "#data-infrastructure",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216081"
       },
       {
         "date": "2026-10-08",
@@ -121474,6 +121660,21 @@
     "금융회사 AI": [
       {
         "date": "2026-10-08",
+        "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
+        "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다",
+        "importance": 9,
+        "tags": [
+          "#banking",
+          "#regulation",
+          "#network-separation",
+          "#ai-hacking",
+          "#ai-security"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12171549"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-hsbc-to-make-deep-wi.md",
         "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push",
         "importance": 8,
@@ -121504,6 +121705,20 @@
       },
       {
         "date": "2026-10-08",
+        "file": "20261008-kb국민-433억-신한은행-70-집행.md",
+        "title": "KB국민 433억·신한은행 70% 집행에도…해킹 방어력 '기대 이하'",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#cybersecurity",
+          "#security-investment",
+          "#ai-hacking"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675276"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-금융-해킹범-중국-국적-26세-추정-.md",
         "title": "금융 해킹범, 중국 국적 26세 추정…단서는 AI에 남긴 흔적",
         "importance": 7,
@@ -121516,6 +121731,34 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=675258"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-금융권-해킹에-쓰인-ai-도구-전-세.md",
+        "title": "금융권 해킹에 쓰인 AI 도구, 전 세계 서버 수백대서 운영",
+        "importance": 7,
+        "tags": [
+          "#ai-hacking",
+          "#cybersecurity",
+          "#open-source",
+          "#banking"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261008116200017"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-동양생명-성대규-대표-주재-위기대응위.md",
+        "title": "동양생명, 성대규 대표 주재 '위기대응위' 가동…해외 IP 차단 등 보안 강화",
+        "importance": 7,
+        "tags": [
+          "#insurance",
+          "#cybersecurity",
+          "#org-change",
+          "#ai-hacking"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261008000267"
       },
       {
         "date": "2026-10-08",
@@ -121533,6 +121776,20 @@
       },
       {
         "date": "2026-10-08",
+        "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
+        "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나",
+        "importance": 6,
+        "tags": [
+          "#agentic-payment",
+          "#authentication",
+          "#regulation",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008133354"
+      },
+      {
+        "date": "2026-10-08",
         "file": "20261008-디깅노트-보안-100점-신한은행의-실.md",
         "title": "[디깅노트] '보안 100점' 신한은행의 실책…망분리 강화가 답 아니다",
         "importance": 6,
@@ -121545,6 +121802,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=675160"
+      },
+      {
+        "date": "2026-10-08",
+        "file": "20261008-은행-뚫은-ai-해킹-코인거래소-보안.md",
+        "title": "은행 뚫은 AI 해킹…코인거래소 보안망은 안전하나 [AI 해킹, 다음은 코인①]",
+        "importance": 6,
+        "tags": [
+          "#crypto",
+          "#cybersecurity",
+          "#ai-hacking",
+          "#supervision"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12171395"
       },
       {
         "date": "2026-10-07",
@@ -133130,6 +133401,20 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-10-08",
+        "file": "20261008-fsd-온로드-서영득-테슬라코리아-대.md",
+        "title": "[FSD 온로드] 서영득 테슬라코리아 대표 “FSD 승인 신청 추진”",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#regulation",
+          "#tesla",
+          "#physical-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675303"
+      },
+      {
         "date": "2026-10-07",
         "file": "20261007-느려도-확실하게-삼성전자-로보틱스도-.md",
         "title": "'느려도 확실하게'…삼성전자, 로보틱스도 '정공법' 택했다",
@@ -140845,6 +141130,20 @@
     ],
     "ai_workforce_training": [
       {
+        "date": "2026-10-08",
+        "file": "20261008-박종천-지란지교소프트-caio-ax는.md",
+        "title": "박종천 지란지교소프트 CAIO 'AX는 자동화 아닌 'AI 직원' 만드는 일'",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#caio",
+          "#ai-adoption",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261008142617"
+      },
+      {
         "date": "2026-10-02",
         "file": "20261002-sibos-2026-don-t-jus.md",
         "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy",
@@ -141537,18 +141836,13 @@
     "금융회사 AI": [
       {
         "date": "2026-10-08",
-        "title": "금융권, 인력 재편과 보안 규율 재설계",
-        "summary": "AI가 금융 조직을 바꾸는 동시에 공격 수단이 되며 망분리 이후 규율 논의가 본격화됐다.",
+        "title": "금융권 AI 해킹, 망분리 완화와 경영진 책임으로",
+        "summary": "보안 규율이 '차단'에서 'AI로 방어'로 바뀌며 책임이 경영진에게 올라갔다.",
         "articles": [
           {
             "date": "2026-10-08",
             "file": "20261008-hsbc-to-make-deep-wi.md",
             "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push"
-          },
-          {
-            "date": "2026-10-08",
-            "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
-            "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
           },
           {
             "date": "2026-10-08",
@@ -141569,6 +141863,31 @@
             "date": "2026-10-08",
             "file": "20261008-국정원-n2sf-데이터-분류-지침-연.md",
             "title": "\"국정원, N2SF 데이터 분류 지침 연내 마련...공공AI 활성화 기대\""
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
+            "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-kb국민-433억-신한은행-70-집행.md",
+            "title": "KB국민 433억·신한은행 70% 집행에도…해킹 방어력 '기대 이하'"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-동양생명-성대규-대표-주재-위기대응위.md",
+            "title": "동양생명, 성대규 대표 주재 '위기대응위' 가동…해외 IP 차단 등 보안 강화"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-금융권-해킹에-쓰인-ai-도구-전-세.md",
+            "title": "금융권 해킹에 쓰인 AI 도구, 전 세계 서버 수백대서 운영"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-은행-뚫은-ai-해킹-코인거래소-보안.md",
+            "title": "은행 뚫은 AI 해킹…코인거래소 보안망은 안전하나 [AI 해킹, 다음은 코인①]"
           }
         ]
       },
@@ -144850,18 +145169,13 @@
     "ai_policy": [
       {
         "date": "2026-10-08",
-        "title": "금융권, 인력 재편과 보안 규율 재설계",
-        "summary": "AI가 금융 조직을 바꾸는 동시에 공격 수단이 되며 망분리 이후 규율 논의가 본격화됐다.",
+        "title": "금융권 AI 해킹, 망분리 완화와 경영진 책임으로",
+        "summary": "보안 규율이 '차단'에서 'AI로 방어'로 바뀌며 책임이 경영진에게 올라갔다.",
         "articles": [
           {
             "date": "2026-10-08",
             "file": "20261008-hsbc-to-make-deep-wi.md",
             "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push"
-          },
-          {
-            "date": "2026-10-08",
-            "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
-            "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
           },
           {
             "date": "2026-10-08",
@@ -144882,13 +145196,38 @@
             "date": "2026-10-08",
             "file": "20261008-국정원-n2sf-데이터-분류-지침-연.md",
             "title": "\"국정원, N2SF 데이터 분류 지침 연내 마련...공공AI 활성화 기대\""
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
+            "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-kb국민-433억-신한은행-70-집행.md",
+            "title": "KB국민 433억·신한은행 70% 집행에도…해킹 방어력 '기대 이하'"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-동양생명-성대규-대표-주재-위기대응위.md",
+            "title": "동양생명, 성대규 대표 주재 '위기대응위' 가동…해외 IP 차단 등 보안 강화"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-금융권-해킹에-쓰인-ai-도구-전-세.md",
+            "title": "금융권 해킹에 쓰인 AI 도구, 전 세계 서버 수백대서 운영"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-은행-뚫은-ai-해킹-코인거래소-보안.md",
+            "title": "은행 뚫은 AI 해킹…코인거래소 보안망은 안전하나 [AI 해킹, 다음은 코인①]"
           }
         ]
       },
       {
         "date": "2026-10-08",
-        "title": "업무 에이전트 대중화와 사고 공시",
-        "summary": "사용량이 급증하는 만큼 사고 신고와 차등 접근 같은 통제 장치가 함께 제도화되고 있다.",
+        "title": "에이전트 확산, 운영 통제와 책임이 관건",
+        "summary": "사용은 폭증했지만 운영 전환·결제 승인·사고 공시가 도입 성패를 가른다.",
         "articles": [
           {
             "date": "2026-10-08",
@@ -144897,18 +145236,38 @@
           },
           {
             "date": "2026-10-08",
-            "file": "20261008-anthropic-gives-more.md",
-            "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions"
-          },
-          {
-            "date": "2026-10-08",
             "file": "20261008-이제-일하는-ai-로-챗gpt-업무형.md",
             "title": "이제 ‘일하는 AI’로...챗GPT 업무형 에이전트 이용자 4천만명 돌파"
           },
           {
             "date": "2026-10-08",
+            "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
+            "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
+          },
+          {
+            "date": "2026-10-08",
             "file": "20261008-한컴-aws-손잡고-ai-시장-공략-.md",
             "title": "한컴, AWS 손잡고 美 AI 시장 공략…'노마디안' 사업화 속도"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-ai-에이전트-도입-늘어도-실제-운영.md",
+            "title": "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
+            "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-박종천-지란지교소프트-caio-ax는.md",
+            "title": "박종천 지란지교소프트 CAIO \"AX는 자동화 아닌 'AI 직원' 만드는 일\""
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-ai-startup-manus-rai.md",
+            "title": "AI startup Manus raises $500 million in first funding round since Meta breakup"
           }
         ]
       },
@@ -148655,8 +149014,8 @@
     "ai_agents": [
       {
         "date": "2026-10-08",
-        "title": "업무 에이전트 대중화와 사고 공시",
-        "summary": "사용량이 급증하는 만큼 사고 신고와 차등 접근 같은 통제 장치가 함께 제도화되고 있다.",
+        "title": "에이전트 확산, 운영 통제와 책임이 관건",
+        "summary": "사용은 폭증했지만 운영 전환·결제 승인·사고 공시가 도입 성패를 가른다.",
         "articles": [
           {
             "date": "2026-10-08",
@@ -148665,25 +149024,45 @@
           },
           {
             "date": "2026-10-08",
-            "file": "20261008-anthropic-gives-more.md",
-            "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions"
-          },
-          {
-            "date": "2026-10-08",
             "file": "20261008-이제-일하는-ai-로-챗gpt-업무형.md",
             "title": "이제 ‘일하는 AI’로...챗GPT 업무형 에이전트 이용자 4천만명 돌파"
           },
           {
             "date": "2026-10-08",
+            "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
+            "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
+          },
+          {
+            "date": "2026-10-08",
             "file": "20261008-한컴-aws-손잡고-ai-시장-공략-.md",
             "title": "한컴, AWS 손잡고 美 AI 시장 공략…'노마디안' 사업화 속도"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-ai-에이전트-도입-늘어도-실제-운영.md",
+            "title": "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
+            "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-박종천-지란지교소프트-caio-ax는.md",
+            "title": "박종천 지란지교소프트 CAIO \"AX는 자동화 아닌 'AI 직원' 만드는 일\""
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-ai-startup-manus-rai.md",
+            "title": "AI startup Manus raises $500 million in first funding round since Meta breakup"
           }
         ]
       },
       {
         "date": "2026-10-08",
-        "title": "모델 단가 붕괴와 인터페이스 전환",
-        "summary": "가격 급락과 앱형 답변이 겹쳐 모델 경쟁이 단가와 채널 장악으로 옮겨갔다.",
+        "title": "단가는 붕괴, 총비용은 상승",
+        "summary": "모델 단가 급락에도 에이전트 사용량이 늘어 비용 관리가 새 과제가 됐다.",
         "articles": [
           {
             "date": "2026-10-08",
@@ -148707,8 +149086,12 @@
           },
           {
             "date": "2026-10-08",
-            "file": "20261008-구글-유니티-ai-게임-제작-플랫폼-.md",
-            "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포"
+            "file": "20261008-ai-구현만으론-살아남기-힘들다-퓨처.md",
+            "title": "\"AI 구현만으론 살아남기 힘들다\"…퓨처플레이가 꼽은 생존 조건"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=216075",
+            "title": ""
           }
         ]
       },
@@ -152253,8 +152636,8 @@
     "ai_industry": [
       {
         "date": "2026-10-08",
-        "title": "업무 에이전트 대중화와 사고 공시",
-        "summary": "사용량이 급증하는 만큼 사고 신고와 차등 접근 같은 통제 장치가 함께 제도화되고 있다.",
+        "title": "에이전트 확산, 운영 통제와 책임이 관건",
+        "summary": "사용은 폭증했지만 운영 전환·결제 승인·사고 공시가 도입 성패를 가른다.",
         "articles": [
           {
             "date": "2026-10-08",
@@ -152263,25 +152646,45 @@
           },
           {
             "date": "2026-10-08",
-            "file": "20261008-anthropic-gives-more.md",
-            "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions"
-          },
-          {
-            "date": "2026-10-08",
             "file": "20261008-이제-일하는-ai-로-챗gpt-업무형.md",
             "title": "이제 ‘일하는 AI’로...챗GPT 업무형 에이전트 이용자 4천만명 돌파"
           },
           {
             "date": "2026-10-08",
+            "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
+            "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
+          },
+          {
+            "date": "2026-10-08",
             "file": "20261008-한컴-aws-손잡고-ai-시장-공략-.md",
             "title": "한컴, AWS 손잡고 美 AI 시장 공략…'노마디안' 사업화 속도"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-ai-에이전트-도입-늘어도-실제-운영.md",
+            "title": "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
+            "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나"
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-박종천-지란지교소프트-caio-ax는.md",
+            "title": "박종천 지란지교소프트 CAIO \"AX는 자동화 아닌 'AI 직원' 만드는 일\""
+          },
+          {
+            "date": "2026-10-08",
+            "file": "20261008-ai-startup-manus-rai.md",
+            "title": "AI startup Manus raises $500 million in first funding round since Meta breakup"
           }
         ]
       },
       {
         "date": "2026-10-08",
-        "title": "모델 단가 붕괴와 인터페이스 전환",
-        "summary": "가격 급락과 앱형 답변이 겹쳐 모델 경쟁이 단가와 채널 장악으로 옮겨갔다.",
+        "title": "단가는 붕괴, 총비용은 상승",
+        "summary": "모델 단가 급락에도 에이전트 사용량이 늘어 비용 관리가 새 과제가 됐다.",
         "articles": [
           {
             "date": "2026-10-08",
@@ -152305,8 +152708,12 @@
           },
           {
             "date": "2026-10-08",
-            "file": "20261008-구글-유니티-ai-게임-제작-플랫폼-.md",
-            "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포"
+            "file": "20261008-ai-구현만으론-살아남기-힘들다-퓨처.md",
+            "title": "\"AI 구현만으론 살아남기 힘들다\"…퓨처플레이가 꼽은 생존 조건"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=216075",
+            "title": ""
           }
         ]
       },
@@ -157835,8 +158242,8 @@
     "llm_models": [
       {
         "date": "2026-10-08",
-        "title": "모델 단가 붕괴와 인터페이스 전환",
-        "summary": "가격 급락과 앱형 답변이 겹쳐 모델 경쟁이 단가와 채널 장악으로 옮겨갔다.",
+        "title": "단가는 붕괴, 총비용은 상승",
+        "summary": "모델 단가 급락에도 에이전트 사용량이 늘어 비용 관리가 새 과제가 됐다.",
         "articles": [
           {
             "date": "2026-10-08",
@@ -157860,8 +158267,12 @@
           },
           {
             "date": "2026-10-08",
-            "file": "20261008-구글-유니티-ai-게임-제작-플랫폼-.md",
-            "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포"
+            "file": "20261008-ai-구현만으론-살아남기-힘들다-퓨처.md",
+            "title": "\"AI 구현만으론 살아남기 힘들다\"…퓨처플레이가 꼽은 생존 조건"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=216075",
+            "title": ""
           }
         ]
       },
