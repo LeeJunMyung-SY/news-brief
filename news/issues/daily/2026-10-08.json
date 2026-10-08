@@ -1,16 +1,15 @@
 {
   "date": "2026-10-08",
-  "updated_at": "2026-10-08T08:17:37.145370+09:00",
-  "run_id": "run_20261008_081737",
-  "summary_ko": "금융 AI가 인력 재편 단계로 넘어가고 에이전트 사고 공시가 제도화되는 하루.",
+  "updated_at": "2026-10-08T12:11:22.013968+09:00",
+  "run_id": "run_20261008_121122",
+  "summary_ko": "금융권이 인력 재편과 보안 규율 재설계를 동시에 맞고, 업무 에이전트가 대중화 단계에 들어선 하루.",
   "issues": [
     {
-      "title": "금융 AI, 인력 재편과 실무 정확도",
-      "summary_ko": "AI가 자문 인력 대체로 번지는 한편, 실무 에이전트는 정확도 통제가 관건이 됐다.",
+      "title": "금융권, 인력 재편과 보안 규율 재설계",
+      "summary_ko": "AI가 금융 조직을 바꾸는 동시에 공격 수단이 되며 망분리 이후 규율 논의가 본격화됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_industry"
+        "ai_policy"
       ],
       "articles": [
         {
@@ -24,18 +23,34 @@
           "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111182/ts-imagine-adds-regulatory-intelligence-to-ai-platform-for-capital-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-10-08",
+          "file": "20261008-금융권-해킹-도구-아르텍스-한국어판-.md",
+          "title": "금융권 해킹 도구 '아르텍스' 한국어판 등장…탐지규칙도 공개"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-금융-해킹범-중국-국적-26세-추정-.md",
+          "title": "금융 해킹범, 중국 국적 26세 추정…단서는 AI에 남긴 흔적"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-디깅노트-보안-100점-신한은행의-실.md",
+          "title": "[디깅노트] '보안 100점' 신한은행의 실책…망분리 강화가 답 아니다"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-국정원-n2sf-데이터-분류-지침-연.md",
+          "title": "\"국정원, N2SF 데이터 분류 지침 연내 마련...공공AI 활성화 기대\""
         }
       ]
     },
     {
-      "title": "에이전트 사고 공시·보안 통제",
-      "summary_ko": "사고 의무 신고와 공격 도구 현지화가 겹쳐 에이전트 보안이 제도 과제가 됐다.",
+      "title": "업무 에이전트 대중화와 사고 공시",
+      "summary_ko": "사용량이 급증하는 만큼 사고 신고와 차등 접근 같은 통제 장치가 함께 제도화되고 있다.",
       "topics": [
-        "ai_policy",
         "ai_agents",
-        "금융회사 AI"
+        "ai_policy",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -45,17 +60,18 @@
         },
         {
           "date": "2026-10-08",
-          "file": "20261008-금융권-해킹-도구-아르텍스-한국어판-.md",
-          "title": "금융권 해킹 도구 '아르텍스' 한국어판 등장…탐지규칙도 공개"
-        },
-        {
-          "date": "2026-10-08",
           "file": "20261008-anthropic-gives-more.md",
           "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions"
         },
         {
-          "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-          "title": ""
+          "date": "2026-10-08",
+          "file": "20261008-이제-일하는-ai-로-챗gpt-업무형.md",
+          "title": "이제 ‘일하는 AI’로...챗GPT 업무형 에이전트 이용자 4천만명 돌파"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-한컴-aws-손잡고-ai-시장-공략-.md",
+          "title": "한컴, AWS 손잡고 美 AI 시장 공략…'노마디안' 사업화 속도"
         }
       ]
     },
@@ -87,12 +103,17 @@
           "date": "2026-10-08",
           "file": "20261008-앤트로픽-구글-워크스페이스-연동-문서.md",
           "title": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-구글-유니티-ai-게임-제작-플랫폼-.md",
+          "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포"
         }
       ]
     },
     {
       "title": "인프라, 전력·자본·인허가 삼중 경쟁",
-      "summary_ko": "원전 계약과 GPU 금융, 공사 중단이 겹쳐 인프라가 자본·입지 싸움이 됐다.",
+      "summary_ko": "원전 계약과 자가발전, GPU 금융이 겹쳐 인프라가 자본·입지 싸움이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -117,6 +138,11 @@
           "date": "2026-10-08",
           "file": "20261008-samsung-forecasts-re.md",
           "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom"
+        },
+        {
+          "date": "2026-10-08",
+          "file": "20261008-sk이터닉스-연료전지-연계형-ai-데.md",
+          "title": "SK이터닉스, '연료전지 연계형' AI 데이터센터 개발한다"
         }
       ]
     }
