@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-09",
+  "updated_at": "2026-10-09T08:13:38.283885+09:00",
+  "run_id": "run_20261009_081338",
+  "summary_ko": "금융 AI 규율이 사전 검증으로 이동하고, AI 수익성 의구심이 처음 시장을 흔든 하루.",
+  "issues": [
+    {
+      "title": "금융 AI, 사전 검증 규율로",
+      "summary_ko": "AI 해킹 대중화 속 도입 전 독립검증이 금융 AI 규율의 기준으로 부상했다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-09",
+          "file": "20261009-singapore-central-ba.md",
+          "title": "Singapore central bank issues risk rules on banks' AI use"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-ai-powered-hacking-t.md",
+          "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-dxc-플랫폼-혁신-워크플로-현대화-.md",
+          "title": "DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진"
+        },
+        {
+          "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 직원화와 보안 격리",
+      "summary_ko": "에이전트가 업무 신원을 얻는 만큼 권한 격리와 감시 비용이 핵심 과제가 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-09",
+          "file": "20261009-google-brings-agenti.md",
+          "title": "Google brings agentic AI to Gemini, starting with businesses"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-a-single-prompt-was-.md",
+          "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-goodfire-says-its-ne.md",
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-헤르메스-에이전트-누스-리서치-대규모.md",
+          "title": "'헤르메스 에이전트' 누스 리서치, 대규모 투자 유치로 기업용 시장 진출"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-how-oracle-turns-day.md",
+          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex"
+        }
+      ]
+    },
+    {
+      "title": "AI 수익성 검증과 인프라 확장",
+      "summary_ko": "매출 기대 하회로 회수 검증이 시작됐지만 칩·데이터센터 투자는 계속된다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-09",
+          "file": "20261009-nvidia-oracle-corewe.md",
+          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-ai-반도체-주문-쏟아진다-tsmc-.md",
+          "title": "\"AI 반도체 주문 쏟아진다\"…TSMC, 3분기 매출 62.5조 '역대 최대'"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-세종시-360-규모-데이터센터-건립-.md",
+          "title": "세종시, 360㎿ 규모 데이터센터 건립 유치…7조원 투자 받는다"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-통신-ai-묶어-토큰경제-선점-정재헌.md",
+          "title": "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다"
+        }
+      ]
+    },
+    {
+      "title": "모델사 정책·저작권 리스크",
+      "summary_ko": "공급사 이용정책과 저작권 분쟁이 기업의 모델 조달 조건으로 번지고 있다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-09",
+          "file": "20261009-anthropic-changes-us.md",
+          "title": "Anthropic changes usage policy to ban model abuse and election interference"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-usa-today-becomes-th.md",
+          "title": "USA Today becomes the latest publisher to sue OpenAI"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-anthropic-launches-f.md",
+          "title": "Anthropic launches free AI security scans for open-source projects"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-claude-can-now-gener.md",
+          "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts"
+        }
+      ]
+    }
+  ]
+}

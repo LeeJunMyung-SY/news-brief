@@ -1,12 +1,12 @@
 {
   "week": "2026-W41",
-  "updated_at": "2026-10-08T16:15:42.965763+09:00",
-  "run_id": "run_20261008_161542",
-  "summary_ko": "AI 해킹이 금융 규제를 망분리 완화로 돌려세우는 사이 에이전트는 대중화와 통제 과제를 함께 맞은 주.",
+  "updated_at": "2026-10-09T08:13:38.283885+09:00",
+  "run_id": "run_20261009_081338",
+  "summary_ko": "AI 해킹이 금융 규제를 AI 방어·사전 검증으로 돌려세우는 사이 에이전트 확산과 AI 수익성 검증이 맞물린 주.",
   "issues": [
     {
       "title": "금융권 AI 해킹, 규제 전환점으로",
-      "body_ko": "피해가 2금융권·보험으로 번지자 당국이 망분리 완화와 AI 방어로 규율 방향을 틀었다.",
+      "body_ko": "저숙련 공격자도 AI로 은행을 뚫자 규율이 망분리 완화와 AI 방어로 방향을 틀었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -16,16 +16,6 @@
           "date": "2026-10-06",
           "file": "20261006-핵심망-지켰지만-ai-해킹-선제방어-.md",
           "title": "핵심망 지켰지만 AI 해킹 선제방어 한계…금융권 '망분리 딜레마'"
-        },
-        {
-          "date": "2026-10-06",
-          "file": "20261006-12개국-ip로-금융권-노렸다-금감원.md",
-          "title": "12개국 IP로 금융권 노렸다…금감원 '공격 주소' 19개 특정"
-        },
-        {
-          "date": "2026-10-07",
-          "file": "20261007-ai-해킹-신용-영향-점검-나선-신평.md",
-          "title": "'AI 해킹' 신용 영향 점검 나선 신평사…뒤늦게 보안 강화하는 은행"
         },
         {
           "date": "2026-10-07",
@@ -44,11 +34,6 @@
         },
         {
           "date": "2026-10-08",
-          "file": "20261008-디깅노트-보안-100점-신한은행의-실.md",
-          "title": "[디깅노트] '보안 100점' 신한은행의 실책…망분리 강화가 답 아니다"
-        },
-        {
-          "date": "2026-10-08",
           "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
           "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다"
         },
@@ -61,23 +46,23 @@
           "date": "2026-10-08",
           "file": "20261008-동양생명-성대규-대표-주재-위기대응위.md",
           "title": "동양생명, 성대규 대표 주재 '위기대응위' 가동…해외 IP 차단 등 보안 강화"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-ai-powered-hacking-t.md",
+          "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks"
         }
       ]
     },
     {
-      "title": "금융 AI, 제도권 진입과 인력 재편",
-      "body_ko": "상담·거래 대행 에이전트가 제도화되는 동시에 자문 인력 대체까지 번져 금융 조직 재설계가 시작됐다.",
+      "title": "금융 AI, 제도화와 인력 재편",
+      "body_ko": "에이전트 제도화·인력 감축에 이어 사전 독립검증 규칙까지 나와 거버넌스가 도입 조건이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_industry"
+        "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-10-06",
-          "file": "20261006-the-hottest-skill-on.md",
-          "title": "'The hottest skill on Wall Street’: Demand for this AI ability jumped 1,721% as banks embrace agents"
-        },
         {
           "date": "2026-10-07",
           "file": "20261007-jpmorgan-chase-exten.md",
@@ -104,25 +89,25 @@
           "title": "HSBC to make 'deep, wide and brutal' UK wealth management job cuts in AI push"
         },
         {
-          "date": "2026-10-08",
-          "file": "20261008-2분기-실적-날짜도-틀리던-ai-웹케.md",
-          "title": "\"2분기 실적 날짜도 틀리던 AI\"…웹케시는 어떻게 은행용 에이전트 바꿨나"
+          "date": "2026-10-09",
+          "file": "20261009-singapore-central-ba.md",
+          "title": "Singapore central bank issues risk rules on banks' AI use"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-dxc-플랫폼-혁신-워크플로-현대화-.md",
+          "title": "DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진"
         }
       ]
     },
     {
-      "title": "에이전트 대중화와 운영 통제",
-      "body_ko": "이용자는 급증했지만 운영 전환율은 낮아, 통제·사고 공시·결제 승인이 확산의 조건이 됐다.",
+      "title": "에이전트 직원화와 운영 통제",
+      "body_ko": "에이전트가 업무 신원을 얻으며 확산하지만, 권한 격리·감시·사고 공시가 운영 전환의 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-10-06",
-          "file": "20261006-오픈ai-에이전트-폭주-에-사면초가-.md",
-          "title": "오픈AI '에이전트 폭주'에 사면초가... 전 세계서 법적·규제 경고 폭풍"
-        },
         {
           "date": "2026-10-06",
           "file": "20261006-cohere-pitches-north.md",
@@ -132,11 +117,6 @@
           "date": "2026-10-07",
           "file": "20261007-wikimedia-confirms-o.md",
           "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure"
-        },
-        {
-          "date": "2026-10-07",
-          "file": "20261007-meta-joins-with-grou.md",
-          "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots"
         },
         {
           "date": "2026-10-08",
@@ -154,20 +134,25 @@
           "title": "AI 에이전트 도입 늘어도 실제 운영은 11%…문제는 '통제'"
         },
         {
-          "date": "2026-10-08",
-          "file": "20261008-기고-ai가-대신-결제한-거래-내-승.md",
-          "title": "[기고] AI가 대신 결제한 거래, '내 승인' 어떻게 증명하나"
+          "date": "2026-10-09",
+          "file": "20261009-google-brings-agenti.md",
+          "title": "Google brings agentic AI to Gemini, starting with businesses"
         },
         {
-          "date": "2026-10-08",
-          "file": "20261008-ai-startup-manus-rai.md",
-          "title": "AI startup Manus raises $500 million in first funding round since Meta breakup"
+          "date": "2026-10-09",
+          "file": "20261009-a-single-prompt-was-.md",
+          "title": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-goodfire-says-its-ne.md",
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost"
         }
       ]
     },
     {
       "title": "AI 인프라, 자본·전력·인허가 싸움",
-      "body_ko": "GPU 금융과 원전 장기계약, 자가발전 DC, 공사 중단이 이어지며 인프라 확보가 자본·입지 리스크 관리로 옮겨갔다.",
+      "body_ko": "GPU 금융과 원전 계약, 지방 대형 AIDC가 이어지며 인프라 확보가 자본·입지 경쟁이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -179,19 +164,9 @@
           "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원"
         },
         {
-          "date": "2026-10-06",
-          "file": "20261006-lg전자-북미서-5gw-규모-aidc.md",
-          "title": "LG전자, 북미서 5GW 규모 AIDC 냉각솔루션 장기계약 체결"
-        },
-        {
           "date": "2026-10-07",
           "file": "20261007-ai-computing-startup.md",
           "title": "AI computing startup Lambda to raise $4B ahead of planned IPO"
-        },
-        {
-          "date": "2026-10-07",
-          "file": "20261007-hd건설기계-데이터센터용-엔진-390.md",
-          "title": "HD건설기계, 美 데이터센터용 엔진 3900억원 계약…상시 발전 수요 겨냥"
         },
         {
           "date": "2026-10-08",
@@ -209,20 +184,20 @@
           "title": "Google ordered to halt work on two data centers in ‘Texas of Europe’"
         },
         {
-          "date": "2026-10-08",
-          "file": "20261008-samsung-forecasts-re.md",
-          "title": "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom"
+          "date": "2026-10-09",
+          "file": "20261009-세종시-360-규모-데이터센터-건립-.md",
+          "title": "세종시, 360㎿ 규모 데이터센터 건립 유치…7조원 투자 받는다"
         },
         {
-          "date": "2026-10-08",
-          "file": "20261008-sk이터닉스-연료전지-연계형-ai-데.md",
-          "title": "SK이터닉스, '연료전지 연계형' AI 데이터센터 개발한다"
+          "date": "2026-10-09",
+          "file": "20261009-ai-반도체-주문-쏟아진다-tsmc-.md",
+          "title": "\"AI 반도체 주문 쏟아진다\"…TSMC, 3분기 매출 62.5조 '역대 최대'"
         }
       ]
     },
     {
-      "title": "모델 가격 붕괴와 비용 구조 전환",
-      "body_ko": "소형 모델 단가 급락에도 에이전트 사용량이 늘어, 모델 선택이 가격보다 총비용 관리 과제가 됐다.",
+      "title": "단가 붕괴와 수익성 검증",
+      "body_ko": "모델 단가가 급락하는 사이 선두 모델사 매출이 기대를 밑돌아, AI 사업의 회수 가능성이 시험대에 올랐다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -239,16 +214,6 @@
           "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work"
         },
         {
-          "date": "2026-10-07",
-          "file": "20261007-south-korea-bets-3-4.md",
-          "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best"
-        },
-        {
-          "date": "2026-10-07",
-          "file": "20261007-딥시크-투자-수요-폭발-ipo-전-자.md",
-          "title": "딥시크, 투자 수요 폭발…IPO 전 자금 조달 규모 2배 확대"
-        },
-        {
           "date": "2026-10-08",
           "file": "20261008-chatgpt-with-gpt-6-d.md",
           "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps"
@@ -259,9 +224,14 @@
           "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over"
         },
         {
-          "date": "2026-10-08",
-          "file": "20261008-ai-구현만으론-살아남기-힘들다-퓨처.md",
-          "title": "\"AI 구현만으론 살아남기 힘들다\"…퓨처플레이가 꼽은 생존 조건"
+          "date": "2026-10-09",
+          "file": "20261009-nvidia-oracle-corewe.md",
+          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-통신-ai-묶어-토큰경제-선점-정재헌.md",
+          "title": "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다"
         }
       ]
     }
