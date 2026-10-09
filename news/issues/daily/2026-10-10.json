@@ -1,0 +1,120 @@
+{
+  "date": "2026-10-10",
+  "updated_at": "2026-10-10T08:14:47.986518+09:00",
+  "run_id": "run_20261010_081447",
+  "summary_ko": "수익성 검증과 공급사 신뢰 리스크 속에 에이전트가 결제·대규모 작업으로 확장된 하루.",
+  "issues": [
+    {
+      "title": "금융 AI, 에이전트 결제·클라우드 동맹",
+      "summary_ko": "결제 신뢰 인프라와 전사 클라우드 제휴가 금융 AI 확장의 토대가 되고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-10",
+          "file": "20261010-mastercard-rolls-out.md",
+          "title": "Mastercard rolls out trust and intelligence services for agentic commerce"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-caixabank-expands-go.md",
+          "title": "CaixaBank expands Google Cloud collaboration"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20261009000057",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12172470",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "프런티어 랩 신뢰 리스크",
+      "summary_ko": "자율 AI 사고와 안전 조직 갈등이 공급사 신뢰를 조달 변수로 만들었다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-10",
+          "file": "20261010-an-anthropic-ai-mode.md",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-openai-s-safety-cris.md",
+          "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-openai-and-anthropic.md",
+          "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust"
+        }
+      ]
+    },
+    {
+      "title": "수익성 조정 속 인프라 장기 선점",
+      "summary_ko": "매출 기대는 꺾여도 부품·전력 선점과 인프라 금융화는 오히려 가속하고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-10",
+          "file": "20261010-openai-revenue-keeps.md",
+          "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-단독-메모리-넘어-ai-부품-전력기기.md",
+          "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-wall-street-is-pitch.md",
+          "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-the-maker-of-non-tex.md",
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 병렬 작업팀으로",
+      "summary_ko": "에이전트가 수백 단위 병렬 작업으로 커지며 결과 검증이 새 병목이 됐다.",
+      "topics": [
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-10",
+          "file": "20261010-anthropic-s-claude-c.md",
+          "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-8216-pure-insanity-8.md",
+          "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "week": "2026-W41",
-  "updated_at": "2026-10-09T16:10:05.593608+09:00",
-  "run_id": "run_20261009_161005",
-  "summary_ko": "AI 해킹이 금융 규제를 AI 방어·사전 검증으로 돌려세우는 사이 에이전트 확산과 AI 수익성 검증이 맞물린 주.",
+  "updated_at": "2026-10-10T08:14:47.986518+09:00",
+  "run_id": "run_20261010_081447",
+  "summary_ko": "AI 해킹이 금융 규율을 AI 방어·검증으로 돌리는 사이 에이전트 확산과 AI 수익성 검증이 맞물린 주.",
   "issues": [
     {
       "title": "금융권 AI 해킹, 규제 전환점으로",
-      "body_ko": "저숙련 공격자도 AI로 은행을 뚫고 추적도 어려워지자 규율이 망분리 완화와 AI 방어로 방향을 틀었다.",
+      "body_ko": "AI가 공격 문턱을 낮추자 금융 규율이 차단에서 AI 방어·사고 회복력으로 방향을 틀었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -56,12 +56,16 @@
           "date": "2026-10-09",
           "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
           "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12172470",
+          "title": ""
         }
       ]
     },
     {
       "title": "금융 AI, 제도화와 인력 재편",
-      "body_ko": "에이전트 제도화·인력 감축에 이어 사전 독립검증 규칙까지 나와 거버넌스가 도입 조건이 됐다.",
+      "body_ko": "에이전트 제도화·인력 감축·사전 검증에 결제 인프라와 클라우드 동맹까지 더해져 조직 재설계가 본격화됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -102,12 +106,22 @@
           "date": "2026-10-09",
           "file": "20261009-dxc-플랫폼-혁신-워크플로-현대화-.md",
           "title": "DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-mastercard-rolls-out.md",
+          "title": "Mastercard rolls out trust and intelligence services for agentic commerce"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-caixabank-expands-go.md",
+          "title": "CaixaBank expands Google Cloud collaboration"
         }
       ]
     },
     {
       "title": "에이전트 직원화와 운영 통제",
-      "body_ko": "에이전트가 업무 신원을 얻으며 확산하지만, 권한 격리·감시·사고 공시가 운영 전환의 조건이 됐다.",
+      "body_ko": "에이전트가 업무 신원과 대규모 병렬 실행력을 얻는 만큼 감시·사고 공시가 운영의 전제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -152,12 +166,22 @@
           "date": "2026-10-09",
           "file": "20261009-goodfire-says-its-ne.md",
           "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-anthropic-s-claude-c.md",
+          "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-an-anthropic-ai-mode.md",
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
         }
       ]
     },
     {
       "title": "AI 인프라, 자본·전력·인허가 싸움",
-      "body_ko": "GPU 금융과 원전 계약, 지방 대형 AIDC가 이어지는 가운데 상장 철회로 자본조달 여건도 시험대에 올랐다.",
+      "body_ko": "부품·전력 장기 선점이 가속하는 반면 상장 철회와 리스크 경고로 자본조달 여건은 시험대에 올랐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -202,12 +226,22 @@
           "date": "2026-10-09",
           "file": "20261009-nvidia-backed-aussie.md",
           "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-단독-메모리-넘어-ai-부품-전력기기.md",
+          "title": "[단독] 메모리 넘어 AI 부품·전력기기 확보전…빅테크 '5년 계약' 줄섰다"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-wall-street-is-pitch.md",
+          "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up"
         }
       ]
     },
     {
       "title": "단가 붕괴와 수익성 검증",
-      "body_ko": "모델 단가가 급락하는 사이 선두 모델사 매출이 기대를 밑돌아, AI 사업의 회수 가능성이 시험대에 올랐다.",
+      "body_ko": "단가 급락과 선두 모델사 매출 정정 속에 자본이 토큰 효율형 대안으로 이동하기 시작했다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -242,6 +276,16 @@
           "date": "2026-10-09",
           "file": "20261009-통신-ai-묶어-토큰경제-선점-정재헌.md",
           "title": "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-openai-revenue-keeps.md",
+          "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-the-maker-of-non-tex.md",
+          "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
         }
       ]
     }
