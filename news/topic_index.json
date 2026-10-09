@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T23:13:46+00:00",
+  "generated_at": "2026-10-09T03:11:22+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -19,14 +19,14 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1366,
+      "count": 1367,
       "latest_date": "2026-10-09"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3157,
+      "count": 3158,
       "latest_date": "2026-10-09"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 957,
+      "count": 958,
       "latest_date": "2026-10-09"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 802,
+      "count": 803,
       "latest_date": "2026-10-09"
     },
     {
@@ -35501,6 +35501,20 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
       },
       {
+        "date": "2026-10-09",
+        "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
+        "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#cybersecurity",
+          "#regulation",
+          "#attribution"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261009000009"
+      },
+      {
         "date": "2026-10-08",
         "file": "20261008-금융위원장-ai-막으려면-결국-ai-.md",
         "title": "금융위원장 “AI 막으려면 결국 AI 써야”…금융권 망분리 규제 푼다",
@@ -55289,6 +55303,21 @@
         ],
         "source": "OpenAI Blog",
         "url": "https://openai.com/index/oracle"
+      },
+      {
+        "date": "2026-10-09",
+        "file": "20261009-nvidia-backed-aussie.md",
+        "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#ai-infrastructure",
+          "#data-center",
+          "#investment",
+          "#nvidia"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html"
       },
       {
         "date": "2026-10-09",
@@ -108263,6 +108292,21 @@
       },
       {
         "date": "2026-10-09",
+        "file": "20261009-nvidia-backed-aussie.md",
+        "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#ai-infrastructure",
+          "#data-center",
+          "#investment",
+          "#nvidia"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html"
+      },
+      {
+        "date": "2026-10-09",
         "file": "20261009-세종시-360-규모-데이터센터-건립-.md",
         "title": "세종시, 360㎿ 규모 데이터센터 건립 유치…7조원 투자 받는다",
         "importance": 6,
@@ -122086,6 +122130,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261008171012"
+      },
+      {
+        "date": "2026-10-09",
+        "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
+        "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#cybersecurity",
+          "#regulation",
+          "#attribution"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261009000009"
       },
       {
         "date": "2026-10-08",
@@ -142266,7 +142324,7 @@
       {
         "date": "2026-10-09",
         "title": "금융 AI, 사전 검증 규율로",
-        "summary": "AI 해킹 대중화 속 도입 전 독립검증이 금융 AI 규율의 기준으로 부상했다.",
+        "summary": "추적이 어려운 AI 해킹 앞에서 도입 전 검증과 선제 방어가 규율의 기준이 됐다.",
         "articles": [
           {
             "date": "2026-10-09",
@@ -142284,12 +142342,9 @@
             "title": "DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진"
           },
           {
-            "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
-            "title": ""
+            "date": "2026-10-09",
+            "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
+            "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나"
           }
         ]
       },
@@ -145629,7 +145684,7 @@
       {
         "date": "2026-10-09",
         "title": "금융 AI, 사전 검증 규율로",
-        "summary": "AI 해킹 대중화 속 도입 전 독립검증이 금융 AI 규율의 기준으로 부상했다.",
+        "summary": "추적이 어려운 AI 해킹 앞에서 도입 전 검증과 선제 방어가 규율의 기준이 됐다.",
         "articles": [
           {
             "date": "2026-10-09",
@@ -145647,12 +145702,9 @@
             "title": "DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진"
           },
           {
-            "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
-            "title": ""
+            "date": "2026-10-09",
+            "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
+            "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나"
           }
         ]
       },
@@ -153216,8 +153268,8 @@
       },
       {
         "date": "2026-10-09",
-        "title": "AI 수익성 검증과 인프라 확장",
-        "summary": "매출 기대 하회로 회수 검증이 시작됐지만 칩·데이터센터 투자는 계속된다.",
+        "title": "AI 수익성 검증, 자본조달로 전이",
+        "summary": "매출 기대 하회가 인프라 상장 철회로 이어지며 자금조달 여건이 흔들리기 시작했다.",
         "articles": [
           {
             "date": "2026-10-09",
@@ -153238,6 +153290,11 @@
             "date": "2026-10-09",
             "file": "20261009-통신-ai-묶어-토큰경제-선점-정재헌.md",
             "title": "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다"
+          },
+          {
+            "date": "2026-10-09",
+            "file": "20261009-nvidia-backed-aussie.md",
+            "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
           }
         ]
       },
@@ -158849,8 +158906,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-09",
-        "title": "AI 수익성 검증과 인프라 확장",
-        "summary": "매출 기대 하회로 회수 검증이 시작됐지만 칩·데이터센터 투자는 계속된다.",
+        "title": "AI 수익성 검증, 자본조달로 전이",
+        "summary": "매출 기대 하회가 인프라 상장 철회로 이어지며 자금조달 여건이 흔들리기 시작했다.",
         "articles": [
           {
             "date": "2026-10-09",
@@ -158871,6 +158928,11 @@
             "date": "2026-10-09",
             "file": "20261009-통신-ai-묶어-토큰경제-선점-정재헌.md",
             "title": "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다"
+          },
+          {
+            "date": "2026-10-09",
+            "file": "20261009-nvidia-backed-aussie.md",
+            "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
           }
         ]
       },

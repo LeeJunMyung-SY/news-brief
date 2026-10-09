@@ -1,12 +1,12 @@
 {
   "date": "2026-10-09",
-  "updated_at": "2026-10-09T08:13:38.283885+09:00",
-  "run_id": "run_20261009_081338",
-  "summary_ko": "금융 AI 규율이 사전 검증으로 이동하고, AI 수익성 의구심이 처음 시장을 흔든 하루.",
+  "updated_at": "2026-10-09T12:11:14.832871+09:00",
+  "run_id": "run_20261009_121114",
+  "summary_ko": "금융 AI 규율이 사전 검증으로 이동하고, AI 수익성 의구심이 자본조달로 번진 하루.",
   "issues": [
     {
       "title": "금융 AI, 사전 검증 규율로",
-      "summary_ko": "AI 해킹 대중화 속 도입 전 독립검증이 금융 AI 규율의 기준으로 부상했다.",
+      "summary_ko": "추적이 어려운 AI 해킹 앞에서 도입 전 검증과 선제 방어가 규율의 기준이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -28,12 +28,9 @@
           "title": "DXC, 플랫폼 혁신, 워크플로 현대화 및 런던 시장 투자로 지능형 보험 발전 추진"
         },
         {
-          "url": "https://www.finextra.com/videoarticle/3608/combatting-the-rise-of-ai-driven-financial-crime-in-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216069",
-          "title": ""
+          "date": "2026-10-09",
+          "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
+          "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나"
         }
       ]
     },
@@ -73,8 +70,8 @@
       ]
     },
     {
-      "title": "AI 수익성 검증과 인프라 확장",
-      "summary_ko": "매출 기대 하회로 회수 검증이 시작됐지만 칩·데이터센터 투자는 계속된다.",
+      "title": "AI 수익성 검증, 자본조달로 전이",
+      "summary_ko": "매출 기대 하회가 인프라 상장 철회로 이어지며 자금조달 여건이 흔들리기 시작했다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -99,6 +96,11 @@
           "date": "2026-10-09",
           "file": "20261009-통신-ai-묶어-토큰경제-선점-정재헌.md",
           "title": "\"통신·AI 묶어 토큰경제 선점\"…정재헌, SKT 새 성장전략 내놨다"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-nvidia-backed-aussie.md",
+          "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
         }
       ]
     },

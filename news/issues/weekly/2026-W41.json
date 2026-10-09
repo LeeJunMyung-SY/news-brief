@@ -1,12 +1,12 @@
 {
   "week": "2026-W41",
-  "updated_at": "2026-10-09T08:13:38.283885+09:00",
-  "run_id": "run_20261009_081338",
+  "updated_at": "2026-10-09T12:11:14.832871+09:00",
+  "run_id": "run_20261009_121114",
   "summary_ko": "AI 해킹이 금융 규제를 AI 방어·사전 검증으로 돌려세우는 사이 에이전트 확산과 AI 수익성 검증이 맞물린 주.",
   "issues": [
     {
       "title": "금융권 AI 해킹, 규제 전환점으로",
-      "body_ko": "저숙련 공격자도 AI로 은행을 뚫자 규율이 망분리 완화와 AI 방어로 방향을 틀었다.",
+      "body_ko": "저숙련 공격자도 AI로 은행을 뚫고 추적도 어려워지자 규율이 망분리 완화와 AI 방어로 방향을 틀었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -51,6 +51,11 @@
           "date": "2026-10-09",
           "file": "20261009-ai-powered-hacking-t.md",
           "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
+          "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나"
         }
       ]
     },
@@ -152,7 +157,7 @@
     },
     {
       "title": "AI 인프라, 자본·전력·인허가 싸움",
-      "body_ko": "GPU 금융과 원전 계약, 지방 대형 AIDC가 이어지며 인프라 확보가 자본·입지 경쟁이 됐다.",
+      "body_ko": "GPU 금융과 원전 계약, 지방 대형 AIDC가 이어지는 가운데 상장 철회로 자본조달 여건도 시험대에 올랐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -192,6 +197,11 @@
           "date": "2026-10-09",
           "file": "20261009-ai-반도체-주문-쏟아진다-tsmc-.md",
           "title": "\"AI 반도체 주문 쏟아진다\"…TSMC, 3분기 매출 62.5조 '역대 최대'"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-nvidia-backed-aussie.md",
+          "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility"
         }
       ]
     },
