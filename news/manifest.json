@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:11:22+00:00",
+  "generated_at": "2026-10-09T07:10:13+00:00",
   "latest_date": "2026-10-09",
   "topics": [
     {
@@ -18,13 +18,13 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1367
+      "count": 1368
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3158
+      "count": 3159
     },
     {
       "key": "physical_ai_robotics",
@@ -66,6 +66,12 @@
           "file": "digest_1211.md",
           "selected": 2,
           "new": 48
+        },
+        {
+          "time": "16:10",
+          "file": "digest_1610.md",
+          "selected": 1,
+          "new": 427
         }
       ]
     },
@@ -2631,7 +2637,7 @@
       "file": "2026-W41.md",
       "week_start": "2026-10-05",
       "week_end": "2026-10-11",
-      "total_selected_this_week": 257
+      "total_selected_this_week": 259
     },
     {
       "week": "2026-W40",

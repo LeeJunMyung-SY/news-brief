@@ -1,8 +1,8 @@
 {
   "date": "2026-10-09",
-  "updated_at": "2026-10-09T12:11:14.832871+09:00",
-  "run_id": "run_20261009_121114",
-  "summary_ko": "금융 AI 규율이 사전 검증으로 이동하고, AI 수익성 의구심이 자본조달로 번진 하루.",
+  "updated_at": "2026-10-09T16:10:05.593608+09:00",
+  "run_id": "run_20261009_161005",
+  "summary_ko": "금융 AI 규율이 사전 검증으로 이동하고, AI 수익성·공급사 신뢰가 동시에 시험받은 하루.",
   "issues": [
     {
       "title": "금융 AI, 사전 검증 규율로",
@@ -105,8 +105,8 @@
       ]
     },
     {
-      "title": "모델사 정책·저작권 리스크",
-      "summary_ko": "공급사 이용정책과 저작권 분쟁이 기업의 모델 조달 조건으로 번지고 있다.",
+      "title": "공급사 정책·신뢰 리스크",
+      "summary_ko": "공급사 정책·안전 거버넌스와 미국 정책 변동성이 모델 조달의 실사 항목이 되고 있다.",
       "topics": [
         "ai_policy",
         "llm_models"
@@ -131,6 +131,19 @@
           "date": "2026-10-09",
           "file": "20261009-claude-can-now-gener.md",
           "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts"
+        },
+        {
+          "date": "2026-10-09",
+          "file": "20261009-트럼프-빅테크에-훈장-수여-주식-매수.md",
+          "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261009073816",
+          "title": ""
         }
       ]
     }

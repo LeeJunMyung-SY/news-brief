@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:11:22+00:00",
+  "generated_at": "2026-10-09T07:10:13+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -19,14 +19,14 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1367,
+      "count": 1368,
       "latest_date": "2026-10-09"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3158,
+      "count": 3159,
       "latest_date": "2026-10-09"
     },
     {
@@ -35502,6 +35502,21 @@
       },
       {
         "date": "2026-10-09",
+        "file": "20261009-트럼프-빅테크에-훈장-수여-주식-매수.md",
+        "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#government",
+          "#ai-safety",
+          "#us-policy",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216102"
+      },
+      {
+        "date": "2026-10-09",
         "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
         "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나",
         "importance": 6,
@@ -55332,6 +55347,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+      },
+      {
+        "date": "2026-10-09",
+        "file": "20261009-트럼프-빅테크에-훈장-수여-주식-매수.md",
+        "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#government",
+          "#ai-safety",
+          "#us-policy",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216102"
       },
       {
         "date": "2026-10-09",
@@ -145710,8 +145740,8 @@
       },
       {
         "date": "2026-10-09",
-        "title": "모델사 정책·저작권 리스크",
-        "summary": "공급사 이용정책과 저작권 분쟁이 기업의 모델 조달 조건으로 번지고 있다.",
+        "title": "공급사 정책·신뢰 리스크",
+        "summary": "공급사 정책·안전 거버넌스와 미국 정책 변동성이 모델 조달의 실사 항목이 되고 있다.",
         "articles": [
           {
             "date": "2026-10-09",
@@ -145732,6 +145762,19 @@
             "date": "2026-10-09",
             "file": "20261009-claude-can-now-gener.md",
             "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts"
+          },
+          {
+            "date": "2026-10-09",
+            "file": "20261009-트럼프-빅테크에-훈장-수여-주식-매수.md",
+            "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+            "title": ""
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20261009073816",
+            "title": ""
           }
         ]
       },
@@ -161427,8 +161470,8 @@
     "llm_models": [
       {
         "date": "2026-10-09",
-        "title": "모델사 정책·저작권 리스크",
-        "summary": "공급사 이용정책과 저작권 분쟁이 기업의 모델 조달 조건으로 번지고 있다.",
+        "title": "공급사 정책·신뢰 리스크",
+        "summary": "공급사 정책·안전 거버넌스와 미국 정책 변동성이 모델 조달의 실사 항목이 되고 있다.",
         "articles": [
           {
             "date": "2026-10-09",
@@ -161449,6 +161492,19 @@
             "date": "2026-10-09",
             "file": "20261009-claude-can-now-gener.md",
             "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts"
+          },
+          {
+            "date": "2026-10-09",
+            "file": "20261009-트럼프-빅테크에-훈장-수여-주식-매수.md",
+            "title": "트럼프, 빅테크에 훈장 수여·주식 매수...이면엔 ‘비자 규제·안전 압박’"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+            "title": ""
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20261009073816",
+            "title": ""
           }
         ]
       },
