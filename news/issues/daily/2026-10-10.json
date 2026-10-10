@@ -1,8 +1,8 @@
 {
   "date": "2026-10-10",
-  "updated_at": "2026-10-10T12:15:56.418396+09:00",
-  "run_id": "run_20261010_121556",
-  "summary_ko": "AI 책임이 자율규제에서 법적 의무로 넘어가는 가운데 금융 보안과 에이전트 통제가 조달의 전제가 된 하루.",
+  "updated_at": "2026-10-10T16:13:42.065693+09:00",
+  "run_id": "run_20261010_161342",
+  "summary_ko": "AI 사고 책임이 법적 의무로 넘어가고 금융 보안과 공공 조달 실태가 전략의 전제가 된 하루.",
   "issues": [
     {
       "title": "AI 책임, 자율규제에서 의무화로",
@@ -46,12 +46,12 @@
       ]
     },
     {
-      "title": "금융 AI, 공격 도구 상수화와 결제 인프라 확장",
-      "summary_ko": "회수 불가한 AI 공격 도구를 전제로 한 방어와 에이전트 결제·클라우드 동맹이 병행되고 있다.",
+      "title": "금융 AI, 공격 상수화와 책임 법제화",
+      "summary_ko": "회수 불가·언어 무관한 AI 공격을 전제로 방어하고 사고 책임을 법에 명문화하는 흐름이 겹쳤다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_policy"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -75,22 +75,20 @@
           "title": "'3755만 명'은 자산인가, 부채인가"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-10-10",
+          "file": "20261010-테크톡노트-중국어로-지시했는데-한국-.md",
+          "title": "[테크톡노트] 중국어로 지시했는데 한국 금융권 공격…어떻게 가능했나"
         },
         {
-          "url": "https://www.etnews.com/20261009000057",
-          "title": ""
-        },
-        {
-          "url": "https://www.mk.co.kr/news/economy/12172470",
-          "title": ""
+          "date": "2026-10-10",
+          "file": "20261010-내-코인-해킹됐는데-누가-책임지나요-.md",
+          "title": "“내 코인 해킹됐는데 누가 책임지나요”…명문화 검토 나선 금융위 [AI 해킹, 다음은 코인③]"
         }
       ]
     },
     {
-      "title": "수익성 조정 속 인프라 장기 선점",
-      "summary_ko": "매출 기대는 꺾여도 부품·전력 선점과 국가 단위 GPU 확보는 오히려 가속하고 있다.",
+      "title": "수익성 검증 속 인프라·공공 조달 실태",
+      "summary_ko": "매출 기대는 꺾여도 인프라 선점은 가속하고, 공공 AI 조달은 외산 우위의 멀티모델 구조로 드러났다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -121,16 +119,21 @@
           "date": "2026-10-10",
           "file": "20261010-ai-직접-만들고-시장도-키운다-세계.md",
           "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-공무원-ai-플랫폼-탑재-llm-국산.md",
+          "title": "공무원 AI 플랫폼 탑재 LLM, 국산 4종·외산 6종…삼성SDS·네이버 구축"
         }
       ]
     },
     {
-      "title": "에이전트, 병렬 작업팀에서 쇼핑 창구로",
-      "summary_ko": "에이전트가 대규모 병렬 작업과 소비자 구매 대행으로 동시에 확장되며 검증과 결제 접점이 과제가 됐다.",
+      "title": "에이전트 확장과 업무 모델 재편",
+      "summary_ko": "에이전트가 병렬 작업팀·쇼핑 창구로 넓어지는 사이 전문 서비스의 시간 과금 모델까지 압박받고 있다.",
       "topics": [
         "ai_agents",
-        "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -149,8 +152,9 @@
           "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
-          "title": ""
+          "date": "2026-10-10",
+          "file": "20261010-ai-is-changing-how-l.md",
+          "title": "AI is changing how lawyers work — and putting the billable hour under pressure"
         }
       ]
     }

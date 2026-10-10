@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-10T03:16:04+00:00",
+  "generated_at": "2026-10-10T07:13:50+00:00",
   "latest_date": "2026-10-10",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1093
+      "count": 1094
     },
     {
       "key": "ai_agents",
@@ -18,13 +18,13 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1377
+      "count": 1379
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3170
+      "count": 3172
     },
     {
       "key": "physical_ai_robotics",
@@ -42,7 +42,7 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 807
+      "count": 809
     },
     {
       "key": "physical_ai",
@@ -66,6 +66,12 @@
           "file": "digest_1215.md",
           "selected": 7,
           "new": 45
+        },
+        {
+          "time": "16:13",
+          "file": "digest_1613.md",
+          "selected": 4,
+          "new": 27
         }
       ]
     },
@@ -2654,7 +2660,7 @@
       "file": "2026-W41.md",
       "week_start": "2026-10-05",
       "week_end": "2026-10-11",
-      "total_selected_this_week": 297
+      "total_selected_this_week": 305
     },
     {
       "week": "2026-W40",
