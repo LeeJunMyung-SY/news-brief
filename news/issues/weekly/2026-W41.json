@@ -1,12 +1,12 @@
 {
   "week": "2026-W41",
-  "updated_at": "2026-10-10T08:14:47.986518+09:00",
-  "run_id": "run_20261010_081447",
-  "summary_ko": "AI 해킹이 금융 규율을 AI 방어·검증으로 돌리는 사이 에이전트 확산과 AI 수익성 검증이 맞물린 주.",
+  "updated_at": "2026-10-10T12:15:56.418396+09:00",
+  "run_id": "run_20261010_121556",
+  "summary_ko": "AI 해킹이 금융 규율을 AI 방어·검증으로 돌리고, 에이전트 확산 속에 공급사 책임이 자율규제에서 법적 의무로 넘어간 주.",
   "issues": [
     {
       "title": "금융권 AI 해킹, 규제 전환점으로",
-      "body_ko": "AI가 공격 문턱을 낮추자 금융 규율이 차단에서 AI 방어·사고 회복력으로 방향을 틀었다.",
+      "body_ko": "AI가 공격 문턱을 낮추고 공격 도구가 회수 불가로 남자 금융 규율이 차단에서 AI 방어·사고 회복력으로 방향을 틀었다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -56,6 +56,16 @@
           "date": "2026-10-09",
           "file": "20261009-해외발-금융-해킹-18건-중-16건-.md",
           "title": "해외발 금융 해킹 18건 중 16건 '공격자 미상'…추적 한계 드러나"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-명령어-몇줄로-ai-해킹-은행-털었던.md",
+          "title": "“명령어 몇줄로 AI 해킹”...은행 털었던 ‘아르텍스’ 결국 개발 중단"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-3755만-명-은-자산인가-부채인가.md",
+          "title": "'3755만 명'은 자산인가, 부채인가"
         },
         {
           "url": "https://www.mk.co.kr/news/economy/12172470",
@@ -120,8 +130,8 @@
       ]
     },
     {
-      "title": "에이전트 직원화와 운영 통제",
-      "body_ko": "에이전트가 업무 신원과 대규모 병렬 실행력을 얻는 만큼 감시·사고 공시가 운영의 전제가 됐다.",
+      "title": "에이전트 통제, 공급사 자제에서 정부 의무로",
+      "body_ko": "에이전트가 업무 신원과 대규모 병렬 실행력을 얻는 사이 공급사가 통제 한계를 인정하고 미국이 사고 책임을 의무화해, 감시·공시가 운영의 법적 전제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -176,12 +186,27 @@
           "date": "2026-10-10",
           "file": "20261010-an-anthropic-ai-mode.md",
           "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-anthropic-can-t-reli.md",
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-트럼프-ai기업에-으름장-사고내면-즉.md",
+          "title": "트럼프 AI기업에 으름장...“사고내면 즉각 피해 책임”"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-6-12개월-내-터진다-주요-ai-기.md",
+          "title": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동"
         }
       ]
     },
     {
       "title": "AI 인프라, 자본·전력·인허가 싸움",
-      "body_ko": "부품·전력 장기 선점이 가속하는 반면 상장 철회와 리스크 경고로 자본조달 여건은 시험대에 올랐다.",
+      "body_ko": "부품·전력 장기 선점과 국가 단위 GPU 확보가 가속하는 반면 상장 철회와 리스크 경고로 자본조달 여건은 시험대에 올랐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -236,12 +261,17 @@
           "date": "2026-10-10",
           "file": "20261010-wall-street-is-pitch.md",
           "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-ai-직접-만들고-시장도-키운다-세계.md",
+          "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국"
         }
       ]
     },
     {
       "title": "단가 붕괴와 수익성 검증",
-      "body_ko": "단가 급락과 선두 모델사 매출 정정 속에 자본이 토큰 효율형 대안으로 이동하기 시작했다.",
+      "body_ko": "단가 급락과 선두 모델사 매출 정정 속에 자본이 토큰 효율형 대안으로 이동하고, 기존 사업 잠식에 맞선 전환 경주가 시작됐다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -286,6 +316,10 @@
           "date": "2026-10-10",
           "file": "20261010-the-maker-of-non-tex.md",
           "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202609144116i",
+          "title": ""
         }
       ]
     }

@@ -1,44 +1,12 @@
 {
   "date": "2026-10-10",
-  "updated_at": "2026-10-10T08:14:47.986518+09:00",
-  "run_id": "run_20261010_081447",
-  "summary_ko": "수익성 검증과 공급사 신뢰 리스크 속에 에이전트가 결제·대규모 작업으로 확장된 하루.",
+  "updated_at": "2026-10-10T12:15:56.418396+09:00",
+  "run_id": "run_20261010_121556",
+  "summary_ko": "AI 책임이 자율규제에서 법적 의무로 넘어가는 가운데 금융 보안과 에이전트 통제가 조달의 전제가 된 하루.",
   "issues": [
     {
-      "title": "금융 AI, 에이전트 결제·클라우드 동맹",
-      "summary_ko": "결제 신뢰 인프라와 전사 클라우드 제휴가 금융 AI 확장의 토대가 되고 있다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-10",
-          "file": "20261010-mastercard-rolls-out.md",
-          "title": "Mastercard rolls out trust and intelligence services for agentic commerce"
-        },
-        {
-          "date": "2026-10-10",
-          "file": "20261010-caixabank-expands-go.md",
-          "title": "CaixaBank expands Google Cloud collaboration"
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20261009000057",
-          "title": ""
-        },
-        {
-          "url": "https://www.mk.co.kr/news/economy/12172470",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "프런티어 랩 신뢰 리스크",
-      "summary_ko": "자율 AI 사고와 안전 조직 갈등이 공급사 신뢰를 조달 변수로 만들었다.",
+      "title": "AI 책임, 자율규제에서 의무화로",
+      "summary_ko": "공급사 통제 한계와 미국의 책임 의무화가 겹쳐 안전 거버넌스가 계약 조건이 됐다.",
       "topics": [
         "ai_policy",
         "llm_models",
@@ -59,15 +27,74 @@
           "date": "2026-10-10",
           "file": "20261010-openai-and-anthropic.md",
           "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-트럼프-ai기업에-으름장-사고내면-즉.md",
+          "title": "트럼프 AI기업에 으름장...“사고내면 즉각 피해 책임”"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-anthropic-can-t-reli.md",
+          "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-6-12개월-내-터진다-주요-ai-기.md",
+          "title": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 공격 도구 상수화와 결제 인프라 확장",
+      "summary_ko": "회수 불가한 AI 공격 도구를 전제로 한 방어와 에이전트 결제·클라우드 동맹이 병행되고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-10",
+          "file": "20261010-mastercard-rolls-out.md",
+          "title": "Mastercard rolls out trust and intelligence services for agentic commerce"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-caixabank-expands-go.md",
+          "title": "CaixaBank expands Google Cloud collaboration"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-명령어-몇줄로-ai-해킹-은행-털었던.md",
+          "title": "“명령어 몇줄로 AI 해킹”...은행 털었던 ‘아르텍스’ 결국 개발 중단"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-3755만-명-은-자산인가-부채인가.md",
+          "title": "'3755만 명'은 자산인가, 부채인가"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111203/nivo-launches-ai-assistant-for-lending?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20261009000057",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12172470",
+          "title": ""
         }
       ]
     },
     {
       "title": "수익성 조정 속 인프라 장기 선점",
-      "summary_ko": "매출 기대는 꺾여도 부품·전력 선점과 인프라 금융화는 오히려 가속하고 있다.",
+      "summary_ko": "매출 기대는 꺾여도 부품·전력 선점과 국가 단위 GPU 확보는 오히려 가속하고 있다.",
       "topics": [
         "ai_industry",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -89,15 +116,21 @@
           "date": "2026-10-10",
           "file": "20261010-the-maker-of-non-tex.md",
           "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-ai-직접-만들고-시장도-키운다-세계.md",
+          "title": "\"AI 직접 만들고 시장도 키운다\"…세계 AI 보고서가 본 한국"
         }
       ]
     },
     {
-      "title": "에이전트, 병렬 작업팀으로",
-      "summary_ko": "에이전트가 수백 단위 병렬 작업으로 커지며 결과 검증이 새 병목이 됐다.",
+      "title": "에이전트, 병렬 작업팀에서 쇼핑 창구로",
+      "summary_ko": "에이전트가 대규모 병렬 작업과 소비자 구매 대행으로 동시에 확장되며 검증과 결제 접점이 과제가 됐다.",
       "topics": [
         "ai_agents",
-        "llm_models"
+        "llm_models",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -109,6 +142,11 @@
           "date": "2026-10-10",
           "file": "20261010-8216-pure-insanity-8.md",
           "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop"
+        },
+        {
+          "date": "2026-10-10",
+          "file": "20261010-쿠팡이-쌀까-무신사가-쌀까-ai-멀티.md",
+          "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다"
         },
         {
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
