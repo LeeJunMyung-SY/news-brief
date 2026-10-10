@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-11",
+  "updated_at": "2026-10-11T08:17:43.878398+09:00",
+  "run_id": "run_20261011_081743",
+  "summary_ko": "AI 사고 책임이 정부 의무로 굳어지고 금융권이 방어 예산을 경영 우선순위로 올린 하루.",
+  "issues": [
+    {
+      "title": "AI 사고 책임, 정부 의무와 업계 자성 동시 진행",
+      "summary_ko": "공급사 통제 실패 자인 위에 미국의 보고 의무와 빅테크의 '모델 불신 전제'가 겹쳐 안전 거버넌스가 운영 요건이 됐다.",
+      "topics": [
+        "ai_policy",
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-11",
+          "file": "20261011-백악관-ai-기업-보안-사고-보고-의.md",
+          "title": "백악관, AI 기업 '보안 사고' 보고 의무화...앤트로픽 침해 사건이 계기"
+        },
+        {
+          "date": "2026-10-11",
+          "file": "20261011-satya-nadella-says-w.md",
+          "title": "Satya Nadella says we should assume all AI models are ‘compromised’"
+        },
+        {
+          "date": "2026-10-11",
+          "file": "20261011-openai-says-a-misali.md",
+          "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data"
+        }
+      ]
+    },
+    {
+      "title": "은행권, AI 방어 예산을 경영 우선순위로",
+      "summary_ko": "규제 최소치에 머물던 보안 투자가 사고 이후 1천억원대 예산과 인력 확충으로 격상됐다.",
+      "topics": [
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-11",
+          "file": "20261011-은행권-ai-방어-투자-확대-kb-내.md",
+          "title": "은행권 'AI 방어' 투자 확대…KB 내년 보안 예산 1천억원대로"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261010201449",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 비용 구조, 판단 전담 모델로 분리",
+      "summary_ko": "의사결정 전담 소형 모델 상용화와 소수 유료 사용자 집중 실측이 겹쳐 AI 수익·비용 설계의 전제가 바뀌고 있다.",
+      "topics": [
+        "ai_agents",
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-11",
+          "file": "20261011-ms-에이전트-의사결정-특화-모델-디.md",
+          "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시"
+        },
+        {
+          "date": "2026-10-11",
+          "file": "20261011-few-people-pay-for-a.md",
+          "title": "Few people pay for AI, but those who do spend big"
+        }
+      ]
+    },
+    {
+      "title": "가치사슬 역전과 피지컬 AI 규제",
+      "summary_ko": "AI 기업이 방산·칩 생태계를 재배치하는 사이 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-11",
+          "file": "20261011-록히드마틴도-ai-하청으로-속도조절론.md",
+          "title": "록히드마틴도 AI 하청으로 … ‘속도조절론’ 중심에 선 AI 방산 미래는[맥킨지·매경 산업분석]"
+        },
+        {
+          "date": "2026-10-11",
+          "file": "20261011-엔비디아-ai-추론-칩-d-매트릭스에.md",
+          "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장"
+        },
+        {
+          "date": "2026-10-11",
+          "file": "20261011-테슬라-유럽-승인-위해-fsd-명칭-.md",
+          "title": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체"
+        }
+      ]
+    }
+  ]
+}
