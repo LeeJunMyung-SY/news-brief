@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:17:52+00:00",
+  "generated_at": "2026-10-11T03:17:00+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1360,
+      "count": 1362,
       "latest_date": "2026-10-11"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1384,
+      "count": 1385,
       "latest_date": "2026-10-11"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3177,
+      "count": 3181,
       "latest_date": "2026-10-11"
     },
     {
@@ -47,7 +47,7 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 810,
+      "count": 812,
       "latest_date": "2026-10-11"
     },
     {
@@ -82,8 +82,8 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 50,
-      "latest_date": "2026-10-10"
+      "count": 51,
+      "latest_date": "2026-10-11"
     },
     {
       "key": "robotics",
@@ -153,6 +153,37 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/"
+      },
+      {
+        "date": "2026-10-11",
+        "file": "20261011-저커버그-경쟁-제품-압박에-안전-우려.md",
+        "title": "저커버그, 경쟁 제품 압박에 안전 우려에도 ‘뮤즈’ 출시 강행",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#ai-safety",
+          "#competition",
+          "#product-launch",
+          "#meta"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216128"
+      },
+      {
+        "date": "2026-10-11",
+        "file": "20261011-포스코dx-인핸스-에-20억-투자-온.md",
+        "title": "포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#ai-adoption",
+          "#agent-framework",
+          "#ontology",
+          "#cvc",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261010000027"
       },
       {
         "date": "2026-10-10",
@@ -35766,6 +35797,22 @@
       },
       {
         "date": "2026-10-11",
+        "file": "20261011-ai-세이프가드-대출-된다-는-ai-.md",
+        "title": "[AI 세이프가드] ③ “대출 된다”는 AI 오답 잡는다…셀렉트스타의 'AI 안전검사' 현장",
+        "importance": 6,
+        "tags": [
+          "#ai-safety",
+          "#evaluation",
+          "#red-teaming",
+          "#finance",
+          "#ai-governance",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261008000310"
+      },
+      {
+        "date": "2026-10-11",
         "file": "20261011-openai-says-a-misali.md",
         "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
         "importance": 6,
@@ -55793,6 +55840,37 @@
       },
       {
         "date": "2026-10-11",
+        "file": "20261011-엔비디아-미국-오픈소스-대표-리플렉션.md",
+        "title": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#acqui-hire",
+          "#investment",
+          "#open-weights",
+          "#nvidia"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216125"
+      },
+      {
+        "date": "2026-10-11",
+        "file": "20261011-siem-모니터링-생성ai로-확대-로.md",
+        "title": "'SIEM 모니터링 생성AI로 확대'...로그프레소, 연동 앱 출시",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#security",
+          "#siem",
+          "#compliance",
+          "#finance",
+          "#ai-governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261011101339"
+      },
+      {
+        "date": "2026-10-11",
         "file": "20261011-록히드마틴도-ai-하청으로-속도조절론.md",
         "title": "록히드마틴도 AI 하청으로 … ‘속도조절론’ 중심에 선 AI 방산 미래는[맥킨지·매경 산업분석]",
         "importance": 6,
@@ -55820,6 +55898,37 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216122"
+      },
+      {
+        "date": "2026-10-11",
+        "file": "20261011-저커버그-경쟁-제품-압박에-안전-우려.md",
+        "title": "저커버그, 경쟁 제품 압박에 안전 우려에도 ‘뮤즈’ 출시 강행",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#ai-safety",
+          "#competition",
+          "#product-launch",
+          "#meta"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216128"
+      },
+      {
+        "date": "2026-10-11",
+        "file": "20261011-포스코dx-인핸스-에-20억-투자-온.md",
+        "title": "포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#ai-adoption",
+          "#agent-framework",
+          "#ontology",
+          "#cvc",
+          "#enterprise-ai"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261010000027"
       },
       {
         "date": "2026-10-10",
@@ -122980,6 +123089,38 @@
         "url": "https://www.yna.co.kr/view/AKR20261010034100002"
       },
       {
+        "date": "2026-10-11",
+        "file": "20261011-ai-세이프가드-대출-된다-는-ai-.md",
+        "title": "[AI 세이프가드] ③ “대출 된다”는 AI 오답 잡는다…셀렉트스타의 'AI 안전검사' 현장",
+        "importance": 6,
+        "tags": [
+          "#ai-safety",
+          "#evaluation",
+          "#red-teaming",
+          "#finance",
+          "#ai-governance",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261008000310"
+      },
+      {
+        "date": "2026-10-11",
+        "file": "20261011-siem-모니터링-생성ai로-확대-로.md",
+        "title": "'SIEM 모니터링 생성AI로 확대'...로그프레소, 연동 앱 출시",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#security",
+          "#siem",
+          "#compliance",
+          "#finance",
+          "#ai-governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261011101339"
+      },
+      {
         "date": "2026-10-10",
         "file": "20261010-caixabank-expands-go.md",
         "title": "CaixaBank expands Google Cloud collaboration",
@@ -142613,6 +142754,21 @@
     ],
     "ai_workforce_training": [
       {
+        "date": "2026-10-11",
+        "file": "20261011-ai가-써준-답만-믿었다간-직원-판단.md",
+        "title": "AI가 써준 답만 믿었다간…직원 판단력 떨어진다",
+        "importance": 6,
+        "tags": [
+          "#workforce",
+          "#ai-adoption",
+          "#gartner",
+          "#critical-thinking",
+          "#ai-governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261011073319"
+      },
+      {
         "date": "2026-10-10",
         "file": "20261010-ai-is-changing-how-l.md",
         "title": "AI is changing how lawyers work — and putting the billable hour under pressure",
@@ -143335,7 +143491,7 @@
       {
         "date": "2026-10-11",
         "title": "AI 사고 책임, 정부 의무와 업계 자성 동시 진행",
-        "summary": "공급사 통제 실패 자인 위에 미국의 보고 의무와 빅테크의 '모델 불신 전제'가 겹쳐 안전 거버넌스가 운영 요건이 됐다.",
+        "summary": "공급사 통제 실패 자인과 미국의 보고 의무 위에 경쟁 압박이 안전 보류를 뒤집는 사례까지 겹쳐, 안전 거버넌스가 운영 요건이자 공급사 실사 항목이 됐다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -143351,6 +143507,33 @@
             "date": "2026-10-11",
             "file": "20261011-openai-says-a-misali.md",
             "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-저커버그-경쟁-제품-압박에-안전-우려.md",
+            "title": "저커버그, 경쟁 제품 압박에 안전 우려에도 ‘뮤즈’ 출시 강행"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-11",
+        "title": "금융권 AI 방어, 예산에서 생성 AI 감시·검증으로",
+        "summary": "1천억원대 보안 예산 격상에 더해 임직원 생성 AI 로그 감시와 서비스 오답 검사가 상품화돼, 방어 범위가 외부 침입에서 내부 AI 이용과 도입 전 검증까지 넓어졌다.",
+        "articles": [
+          {
+            "date": "2026-10-11",
+            "file": "20261011-은행권-ai-방어-투자-확대-kb-내.md",
+            "title": "은행권 'AI 방어' 투자 확대…KB 내년 보안 예산 1천억원대로"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-siem-모니터링-생성ai로-확대-로.md",
+            "title": "\"SIEM 모니터링 생성AI로 확대\"...로그프레소, 연동 앱 출시"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-ai-세이프가드-대출-된다-는-ai-.md",
+            "title": "[AI 세이프가드] ③ “대출 된다”는 AI 오답 잡는다…셀렉트스타의 'AI 안전검사' 현장"
           }
         ]
       },
@@ -147380,7 +147563,7 @@
       {
         "date": "2026-10-11",
         "title": "AI 사고 책임, 정부 의무와 업계 자성 동시 진행",
-        "summary": "공급사 통제 실패 자인 위에 미국의 보고 의무와 빅테크의 '모델 불신 전제'가 겹쳐 안전 거버넌스가 운영 요건이 됐다.",
+        "summary": "공급사 통제 실패 자인과 미국의 보고 의무 위에 경쟁 압박이 안전 보류를 뒤집는 사례까지 겹쳐, 안전 거버넌스가 운영 요건이자 공급사 실사 항목이 됐다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -147396,13 +147579,18 @@
             "date": "2026-10-11",
             "file": "20261011-openai-says-a-misali.md",
             "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-저커버그-경쟁-제품-압박에-안전-우려.md",
+            "title": "저커버그, 경쟁 제품 압박에 안전 우려에도 ‘뮤즈’ 출시 강행"
           }
         ]
       },
       {
         "date": "2026-10-11",
-        "title": "에이전트 비용 구조, 판단 전담 모델로 분리",
-        "summary": "의사결정 전담 소형 모델 상용화와 소수 유료 사용자 집중 실측이 겹쳐 AI 수익·비용 설계의 전제가 바뀌고 있다.",
+        "title": "에이전트 설계, 판단 모델과 지식 계층으로 분리",
+        "summary": "의사결정 전담 소형 모델 상용화에 대기업의 온톨로지 투자가 더해져, 에이전트 경쟁력이 대형 모델 단가가 아닌 아키텍처 분리와 사내 지식 구조화로 옮겨가고 있다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -147413,6 +147601,11 @@
             "date": "2026-10-11",
             "file": "20261011-few-people-pay-for-a.md",
             "title": "Few people pay for AI, but those who do spend big"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-포스코dx-인핸스-에-20억-투자-온.md",
+            "title": "포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화"
           }
         ]
       },
@@ -149683,7 +149876,7 @@
       {
         "date": "2026-10-11",
         "title": "AI 사고 책임, 정부 의무와 업계 자성 동시 진행",
-        "summary": "공급사 통제 실패 자인 위에 미국의 보고 의무와 빅테크의 '모델 불신 전제'가 겹쳐 안전 거버넌스가 운영 요건이 됐다.",
+        "summary": "공급사 통제 실패 자인과 미국의 보고 의무 위에 경쟁 압박이 안전 보류를 뒤집는 사례까지 겹쳐, 안전 거버넌스가 운영 요건이자 공급사 실사 항목이 됐다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -149699,13 +149892,18 @@
             "date": "2026-10-11",
             "file": "20261011-openai-says-a-misali.md",
             "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-저커버그-경쟁-제품-압박에-안전-우려.md",
+            "title": "저커버그, 경쟁 제품 압박에 안전 우려에도 ‘뮤즈’ 출시 강행"
           }
         ]
       },
       {
         "date": "2026-10-11",
-        "title": "에이전트 비용 구조, 판단 전담 모델로 분리",
-        "summary": "의사결정 전담 소형 모델 상용화와 소수 유료 사용자 집중 실측이 겹쳐 AI 수익·비용 설계의 전제가 바뀌고 있다.",
+        "title": "에이전트 설계, 판단 모델과 지식 계층으로 분리",
+        "summary": "의사결정 전담 소형 모델 상용화에 대기업의 온톨로지 투자가 더해져, 에이전트 경쟁력이 대형 모델 단가가 아닌 아키텍처 분리와 사내 지식 구조화로 옮겨가고 있다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -149716,6 +149914,11 @@
             "date": "2026-10-11",
             "file": "20261011-few-people-pay-for-a.md",
             "title": "Few people pay for AI, but those who do spend big"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-포스코dx-인핸스-에-20억-투자-온.md",
+            "title": "포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화"
           }
         ]
       },
@@ -153476,8 +153679,8 @@
     "금융회사 AI": [
       {
         "date": "2026-10-11",
-        "title": "은행권, AI 방어 예산을 경영 우선순위로",
-        "summary": "규제 최소치에 머물던 보안 투자가 사고 이후 1천억원대 예산과 인력 확충으로 격상됐다.",
+        "title": "금융권 AI 방어, 예산에서 생성 AI 감시·검증으로",
+        "summary": "1천억원대 보안 예산 격상에 더해 임직원 생성 AI 로그 감시와 서비스 오답 검사가 상품화돼, 방어 범위가 외부 침입에서 내부 AI 이용과 도입 전 검증까지 넓어졌다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -153485,8 +153688,14 @@
             "title": "은행권 'AI 방어' 투자 확대…KB 내년 보안 예산 1천억원대로"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261010201449",
-            "title": ""
+            "date": "2026-10-11",
+            "file": "20261011-siem-모니터링-생성ai로-확대-로.md",
+            "title": "\"SIEM 모니터링 생성AI로 확대\"...로그프레소, 연동 앱 출시"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-ai-세이프가드-대출-된다-는-ai-.md",
+            "title": "[AI 세이프가드] ③ “대출 된다”는 AI 오답 잡는다…셀렉트스타의 'AI 안전검사' 현장"
           }
         ]
       },
@@ -156889,8 +157098,8 @@
     "ai_industry": [
       {
         "date": "2026-10-11",
-        "title": "에이전트 비용 구조, 판단 전담 모델로 분리",
-        "summary": "의사결정 전담 소형 모델 상용화와 소수 유료 사용자 집중 실측이 겹쳐 AI 수익·비용 설계의 전제가 바뀌고 있다.",
+        "title": "에이전트 설계, 판단 모델과 지식 계층으로 분리",
+        "summary": "의사결정 전담 소형 모델 상용화에 대기업의 온톨로지 투자가 더해져, 에이전트 경쟁력이 대형 모델 단가가 아닌 아키텍처 분리와 사내 지식 구조화로 옮겨가고 있다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -156901,13 +157110,18 @@
             "date": "2026-10-11",
             "file": "20261011-few-people-pay-for-a.md",
             "title": "Few people pay for AI, but those who do spend big"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-포스코dx-인핸스-에-20억-투자-온.md",
+            "title": "포스코DX, '인핸스'에 20억 투자…온톨로지 기반 에이전틱 AI 고도화"
           }
         ]
       },
       {
         "date": "2026-10-11",
-        "title": "가치사슬 역전과 피지컬 AI 규제",
-        "summary": "AI 기업이 방산·칩 생태계를 재배치하는 사이 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
+        "title": "생태계 흡수와 피지컬 AI 규제",
+        "summary": "GPU 선두사가 추론 칩에 이어 오픈소스 모델사까지 인재 인수로 끌어들이고 AI 기업이 방산을 하청화하는 사이, 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -156923,6 +157137,11 @@
             "date": "2026-10-11",
             "file": "20261011-테슬라-유럽-승인-위해-fsd-명칭-.md",
             "title": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-엔비디아-미국-오픈소스-대표-리플렉션.md",
+            "title": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의"
           }
         ]
       },
@@ -162662,8 +162881,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-11",
-        "title": "가치사슬 역전과 피지컬 AI 규제",
-        "summary": "AI 기업이 방산·칩 생태계를 재배치하는 사이 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
+        "title": "생태계 흡수와 피지컬 AI 규제",
+        "summary": "GPU 선두사가 추론 칩에 이어 오픈소스 모델사까지 인재 인수로 끌어들이고 AI 기업이 방산을 하청화하는 사이, 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -162679,6 +162898,11 @@
             "date": "2026-10-11",
             "file": "20261011-테슬라-유럽-승인-위해-fsd-명칭-.md",
             "title": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-엔비디아-미국-오픈소스-대표-리플렉션.md",
+            "title": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의"
           }
         ]
       },
@@ -165242,8 +165466,8 @@
     "physical_ai": [
       {
         "date": "2026-10-11",
-        "title": "가치사슬 역전과 피지컬 AI 규제",
-        "summary": "AI 기업이 방산·칩 생태계를 재배치하는 사이 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
+        "title": "생태계 흡수와 피지컬 AI 규제",
+        "summary": "GPU 선두사가 추론 칩에 이어 오픈소스 모델사까지 인재 인수로 끌어들이고 AI 기업이 방산을 하청화하는 사이, 유럽은 자율주행 표현까지 규제해 상용화 조건이 바뀌고 있다.",
         "articles": [
           {
             "date": "2026-10-11",
@@ -165259,6 +165483,11 @@
             "date": "2026-10-11",
             "file": "20261011-테슬라-유럽-승인-위해-fsd-명칭-.md",
             "title": "테슬라, 유럽 승인 위해 'FSD' 명칭 떼고 '보조 주행'으로 교체"
+          },
+          {
+            "date": "2026-10-11",
+            "file": "20261011-엔비디아-미국-오픈소스-대표-리플렉션.md",
+            "title": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의"
           }
         ]
       },
