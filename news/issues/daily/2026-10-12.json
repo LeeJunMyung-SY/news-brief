@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-12",
+  "updated_at": "2026-10-12T08:19:06.317220+09:00",
+  "run_id": "run_20261012_081906",
+  "summary_ko": "금융 AI 리스크가 공격·생체인식 양면에서 드러나고, 대기업의 AX 조직화와 에이전트 통제 체계화가 동시에 진행됐다.",
+  "issues": [
+    {
+      "title": "AI 공격, 금융안정 리스크로 공식화",
+      "summary_ko": "AI는 신기법이 아닌 기존 공격의 자동화 수단이며, 방어 초점은 사각지대 자산 가시화로 이동한다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-진화하는-ai해킹-금융-안정망-흔들것.md",
+          "title": "\"진화하는 AI해킹, 금융 안정망 흔들것\""
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-sk쉴더스-아르텍스-기존-공격-고도화.md",
+          "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261011211729",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "생체인식 결제의 신뢰 비용",
+      "summary_ko": "오인식 배상과 생체정보 장기 보관이 금융 AI 서비스의 숨은 비용이자 규제 점검 대상으로 드러났다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-단독-손님-대신-직원-얼굴-인식-토스.md",
+          "title": "[단독] 손님 대신 직원 얼굴 인식…토스 오결제 배상 10차례"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-단독-1초-걸리는-얼굴-인식-결제-탈.md",
+          "title": "[단독] '1초' 걸리는 얼굴 인식 결제…탈퇴해도 보관기간은 '1년'"
+        }
+      ]
+    },
+    {
+      "title": "대기업 풀스택·AX 조직화 가속",
+      "summary_ko": "인프라·모델·에이전트 수직통합과 AX 임원 인사로 AI 전환이 사업 구조와 인사 제도에 편입되고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-kt-실행-비서가-손-안에-ai-중심.md",
+          "title": "KT, 실행 비서가 손 안에…AI 중심으로 앱 개편"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-lg-하드웨어에-빅테크-두뇌-장착-글.md",
+          "title": "LG 하드웨어에 빅테크 두뇌 장착…글로벌 AI 판 다시 짠다"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-삼성sds-ai-동맹-늘리고-제조로봇.md",
+          "title": "삼성SDS, AI 동맹 늘리고 제조로봇 전환 이끌어"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026101139971",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675293",
+          "title": ""
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-포스코dx-인핸스에-20억-투자-업무.md",
+          "title": "포스코DX, 인핸스에 20억 투자…업무 실행 특화 AI 공동 개발"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제·검증 체계의 제도화",
+      "summary_ko": "비상 브레이크·인터넷 차단·제3자 평가가 에이전트 운영의 전제 조건으로 자리 잡고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-ms-ceo-ai-비상장치-마련-필요.md",
+          "title": "MS CEO “AI 비상장치 마련 필요...언제든 종료할 수 있어야”"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-앤트로픽-내부-ai-평가서-실시간-인.md",
+          "title": "앤트로픽, 내부 AI 평가서 실시간 인터넷 차단…“안전장치 검증 때까지”"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-ai-s-quiet-safety-ga.md",
+          "title": "AI’s quiet safety gatekeepers are stepping into the spotlight"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216131",
+          "title": ""
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-ai-agent-teams-waste.md",
+          "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds"
+        }
+      ]
+    }
+  ]
+}

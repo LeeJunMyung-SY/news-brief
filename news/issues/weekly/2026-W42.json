@@ -1,0 +1,132 @@
+{
+  "week": "2026-W42",
+  "updated_at": "2026-10-12T08:19:06.317220+09:00",
+  "run_id": "run_20261012_081906",
+  "summary_ko": "주 초반 AI 리스크 관리가 금융 보안·생체인식·에이전트 통제 전반으로 확장되는 가운데 대기업 AX 조직화가 가속되고 있다.",
+  "issues": [
+    {
+      "title": "AI 사이버 공격의 금융 시스템 리스크화",
+      "body_ko": "국제기구 경고와 국내 침해 분석이 겹쳐 AI 보안이 개별 기관 과제에서 금융 감독 의제로 격상됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-진화하는-ai해킹-금융-안정망-흔들것.md",
+          "title": "\"진화하는 AI해킹, 금융 안정망 흔들것\""
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-sk쉴더스-아르텍스-기존-공격-고도화.md",
+          "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI 서비스의 신뢰 비용 가시화",
+      "body_ko": "생체인식 결제의 오인식 배상과 데이터 보관 문제가 드러나 정확도 검증과 파기 기준이 도입 전 필수 과제가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-단독-손님-대신-직원-얼굴-인식-토스.md",
+          "title": "[단독] 손님 대신 직원 얼굴 인식…토스 오결제 배상 10차례"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-단독-1초-걸리는-얼굴-인식-결제-탈.md",
+          "title": "[단독] '1초' 걸리는 얼굴 인식 결제…탈퇴해도 보관기간은 '1년'"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제 체계의 표준화",
+      "body_ko": "격리·즉시 중단·독립 검증이 선두 랩과 빅테크 차원에서 공식화돼 에이전트 도입의 선결 조건으로 굳어지고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-ms-ceo-ai-비상장치-마련-필요.md",
+          "title": "MS CEO “AI 비상장치 마련 필요...언제든 종료할 수 있어야”"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-앤트로픽-내부-ai-평가서-실시간-인.md",
+          "title": "앤트로픽, 내부 AI 평가서 실시간 인터넷 차단…“안전장치 검증 때까지”"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-ai-agent-teams-waste.md",
+          "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-ai-s-quiet-safety-ga.md",
+          "title": "AI’s quiet safety gatekeepers are stepping into the spotlight"
+        }
+      ]
+    },
+    {
+      "title": "국내 대기업의 풀스택·AX 체제 전환",
+      "body_ko": "통신·SI·가전 대기업이 인프라부터 에이전트까지 수직 통합하고 AX 역량을 인사 기준에 반영하며 AI 전환을 제도화하고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-kt-실행-비서가-손-안에-ai-중심.md",
+          "title": "KT, 실행 비서가 손 안에…AI 중심으로 앱 개편"
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-lg-하드웨어에-빅테크-두뇌-장착-글.md",
+          "title": "LG 하드웨어에 빅테크 두뇌 장착…글로벌 AI 판 다시 짠다"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026101139971",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675293",
+          "title": ""
+        },
+        {
+          "date": "2026-10-12",
+          "file": "20261012-포스코dx-인핸스에-20억-투자-업무.md",
+          "title": "포스코DX, 인핸스에 20억 투자…업무 실행 특화 AI 공동 개발"
+        }
+      ]
+    },
+    {
+      "title": "수요 폭증형 AI 비용 구조",
+      "body_ko": "토큰 단가 하락에도 GPU 가격이 유지되는 제번스 역설이 확인돼 AI 예산은 단가가 아닌 사용 총량 관리의 문제가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-12",
+          "file": "20261012-cheaper-ai-tokens-ar.md",
+          "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12173062",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
