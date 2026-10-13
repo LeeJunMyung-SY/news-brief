@@ -1,12 +1,12 @@
 {
   "week": "2026-W42",
-  "updated_at": "2026-10-13T19:20:20.471385+09:00",
-  "run_id": "run_20261013_192020",
-  "summary_ko": "금융 AI가 리스크와 사업화 양면으로 격상되고, 컴퓨트 자립과 에이전트 접점 경쟁 속에 국내 AX가 제도·실증 단계로 들어섰다.",
+  "updated_at": "2026-10-14T08:22:05.674278+09:00",
+  "run_id": "run_20261014_082205",
+  "summary_ko": "금융 AI가 리스크 감독과 에이전트 결제 양면으로 격상되고, 프런티어 공급 확대와 컴퓨트 자립 속에 국내 AX가 제도·실증 단계로 들어섰다.",
   "issues": [
     {
-      "title": "금융 AI 리스크 공식화와 해킹 확산",
-      "body_ko": "국제기구 경고와 생체인식 신뢰 비용에 이어 해킹이 2금융권까지 번져, AI 보안이 감독 의제이자 전 업권 투자 항목이 됐다.",
+      "title": "금융 AI 리스크의 감독 의제화와 해킹 확산",
+      "body_ko": "국내 해킹이 2금융권까지 번지고 미 당국이 AI 해킹을 시스템 리스크로 경고해, AI 보안이 전 업권 투자 항목이자 감독 요건으로 굳어졌다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -38,28 +38,24 @@
           "title": "[단독] 손님 대신 직원 얼굴 인식…토스 오결제 배상 10차례"
         },
         {
-          "date": "2026-10-12",
-          "file": "20261012-단독-1초-걸리는-얼굴-인식-결제-탈.md",
-          "title": "[단독] '1초' 걸리는 얼굴 인식 결제…탈퇴해도 보관기간은 '1년'"
-        },
-        {
           "date": "2026-10-13",
           "file": "20261013-새마을금고도-뚫렸다-금융권-해킹-피해.md",
           "title": "새마을금고도 뚫렸다…금융권 해킹 피해 상호금융으로 확산"
         },
         {
-          "url": "https://www.etnews.com/20261013000442",
-          "title": ""
+          "date": "2026-10-14",
+          "file": "20261014-6개월내-금융시장-큰-피해-ai-해킹.md",
+          "title": "\"6개월내 금융시장 큰 피해\"…AI 해킹 공포에 美금융당국 '비상'"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12174715",
+          "url": "https://www.mk.co.kr/news/stock/12175078",
           "title": ""
         }
       ]
     },
     {
-      "title": "금융사 AI 사업화·제휴 가속",
-      "body_ko": "AI 코칭 적금, 연기금 리서치 에이전트, 카드사 에이전트 결제 제휴가 잇따라 AI가 금융 본업의 상품·운영·결제 계층으로 들어왔다.",
+      "title": "금융사 AI 사업화와 에이전트 결제 표준 경쟁",
+      "body_ko": "AI 적금·리서치 에이전트·결제 제휴에 카드사의 에이전트 결제 통제 프레임워크와 주권형 뱅킹 AI가 더해져, AI가 금융 본업의 상품·운영·결제 계층 표준으로 들어왔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -84,12 +80,32 @@
           "date": "2026-10-13",
           "file": "20261013-fis-launches-agentic.md",
           "title": "FIS launches agentic AI suite for the office of the CFO"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-amex-introduces-a-fr.md",
+          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-shopify-opens-its-ca.md",
+          "title": "Shopify opens its catalog up to more AI agents"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-sbs-unveils-sovereig.md",
+          "title": "SBS unveils sovereign AI platform for core banking"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-단독-카카오-웹툰-음원-카카오t에-스.md",
+          "title": "[단독] 카카오, 웹툰·음원·카카오T에 스테이블코인 결제 연동…소설 원작 AI 애니 제작도"
         }
       ]
     },
     {
       "title": "에이전트 통제 체계의 표준화",
-      "body_ko": "격리·즉시 중단·독립 검증에 사고 보고 의무화 요구와 자기 복제 경고가 더해져, 통제 체계가 에이전트 도입의 선결 조건이자 법적 요건으로 굳어지고 있다.",
+      "body_ko": "비상 정지·인터넷 차단·사고 보고 의무화 요구에 과학계의 격리 공개서한과 AI 경영시스템 인증이 더해져, 통제 체계가 에이전트 도입의 선결 조건이자 인증·법적 요건으로 굳어지고 있다.",
       "topics": [
         "ai_agents",
         "ai_policy",
@@ -108,11 +124,6 @@
         },
         {
           "date": "2026-10-12",
-          "file": "20261012-ai-agent-teams-waste.md",
-          "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds"
-        },
-        {
-          "date": "2026-10-12",
           "file": "20261012-ai-s-quiet-safety-ga.md",
           "title": "AI’s quiet safety gatekeepers are stepping into the spotlight"
         },
@@ -122,37 +133,35 @@
           "title": "MS 사장 \"세탁기·우유보다 못한 AI 규제…이제 법적 의무화 나설 때\""
         },
         {
-          "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-          "title": ""
+          "date": "2026-10-14",
+          "file": "20261014-406-scientists-deman.md",
+          "title": "406 scientists demand AI models be cut off from the internet immediately"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261013155733",
-          "title": ""
+          "date": "2026-10-14",
+          "file": "20261014-표준협회-kt-ds에-ai경영시스템-.md",
+          "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-라이징-2026-헬러마크-워크데이-c.md",
+          "title": "[라이징 2026] 헬러마크 워크데이 CAIO “HR·IT 업무, AI 에이전트 하나로 해결”"
         }
       ]
     },
     {
-      "title": "컴퓨트 품귀와 자체 칩·자본 집중",
-      "body_ko": "GPU 임대료 급등과 VC의 컴퓨트 직접 확보, 빅테크의 자체 칩 전환이 겹치며 컴퓨트 접근권과 자본 조달이 AI 사업의 핵심 원가 변수가 됐다.",
+      "title": "컴퓨트 자립과 프런티어 공급 확대",
+      "body_ko": "GPU 품귀·자체 칩 전환·자본 병목 속에 구글·메타가 프런티어 경쟁에 복귀하고 앤트로픽은 재무를 공개해, 컴퓨트 원가와 모델 조달 협상력이 동시에 AI 사업의 핵심 변수가 됐다.",
       "topics": [
         "ai_compute_energy",
+        "llm_models",
         "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-10-12",
-          "file": "20261012-cheaper-ai-tokens-ar.md",
-          "title": "Cheaper AI tokens are driving more demand, and that's Jensen Huang's best-case scenario"
-        },
-        {
-          "date": "2026-10-12",
           "file": "20261012-돈-있어도-못-구해-ai-열풍에-gp.md",
           "title": "'돈 있어도 못 구해'…AI 열풍에 GPU 임대료 60% '껑충'"
-        },
-        {
-          "date": "2026-10-12",
-          "file": "20261012-네오에이아이클라우드-포항-ai-데이터.md",
-          "title": "네오에이아이클라우드, 포항 AI 데이터센터 6,000억원 규모 자금조달 완료"
         },
         {
           "date": "2026-10-12",
@@ -178,27 +187,41 @@
           "date": "2026-10-13",
           "file": "20261013-데이터센터-수익-ipo-앞둔-앤트로픽.md",
           "title": "'데이터센터=수익'…IPO 앞둔 앤트로픽이 인프라에 사활 건 이유"
+        },
+        {
+          "date": "2026-10-13",
+          "file": "20261013-메타-자체-최고-모델-뮤즈-원더-출시.md",
+          "title": "메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-구글-제미나이-4-아르곤-본격-상용화.md",
+          "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+          "title": ""
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-character-ai-will-sh.md",
+          "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy"
         }
       ]
     },
     {
       "title": "국내 AX 제도화와 피지컬 AI 실증 진입",
-      "body_ko": "풀스택 전환·AX 인사·에이전트 해커톤에 메신저 에이전트 플랫폼과 SI 파트너십이 더해지고 휴머노이드 현장 투입이 규제특례로 열려, AX가 조직 제도와 현장 실증 단계로 들어섰다.",
+      "body_ko": "AX 인사·해커톤·SI 파트너십에 휴머노이드 규제특례와 국방 AX 거점, 프런티어 모델의 로봇 진입이 더해져, AX가 조직 제도와 현장 실증 단계로 들어섰다.",
       "topics": [
         "ai_industry",
-        "ai_agents",
-        "physical_ai"
+        "physical_ai",
+        "ai_agents"
       ],
       "articles": [
         {
           "date": "2026-10-12",
           "file": "20261012-kt-실행-비서가-손-안에-ai-중심.md",
           "title": "KT, 실행 비서가 손 안에…AI 중심으로 앱 개편"
-        },
-        {
-          "date": "2026-10-12",
-          "file": "20261012-lg-하드웨어에-빅테크-두뇌-장착-글.md",
-          "title": "LG 하드웨어에 빅테크 두뇌 장착…글로벌 AI 판 다시 짠다"
         },
         {
           "date": "2026-10-12",
@@ -221,10 +244,6 @@
           "title": "[단독] LG CNS, 앤트로픽 클로드 '프리퍼드' 파트너 선정…\"전 세계 50곳뿐\""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675531",
-          "title": ""
-        },
-        {
           "date": "2026-10-13",
           "file": "20261013-산업부-제조현장-휴머노이드-20대-투.md",
           "title": "산업부, 제조현장 휴머노이드 20대 투입…4족보행 순찰로봇도 허용"
@@ -238,6 +257,15 @@
           "date": "2026-10-13",
           "file": "20261013-lng선도-안심-못해-민관-1-4조-.md",
           "title": "\"LNG선도 안심 못해\"… 민관 1.4조 들여 'AI 조선소' 만든다"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-gemini-4-argon-for-r.md",
+          "title": "Gemini 4 Argon for Robotics"
+        },
+        {
+          "url": "https://www.etnews.com/20261013000452",
+          "title": ""
         }
       ]
     }
