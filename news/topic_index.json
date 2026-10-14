@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-13T23:22:15+00:00",
+  "generated_at": "2026-10-14T03:16:58+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1103,
+      "count": 1104,
       "latest_date": "2026-10-14"
     },
     {
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3218,
+      "count": 3222,
       "latest_date": "2026-10-14"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 971,
-      "latest_date": "2026-10-13"
+      "count": 973,
+      "latest_date": "2026-10-14"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 831,
+      "count": 834,
       "latest_date": "2026-10-14"
     },
     {
@@ -20208,6 +20208,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216220"
+      },
+      {
+        "date": "2026-10-14",
+        "file": "20261014-google-deepmind-and-.md",
+        "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+        "importance": 7,
+        "tags": [
+          "#fraud-detection",
+          "#on-device-ai",
+          "#public-private-partnership",
+          "#small-model",
+          "#privacy"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
       },
       {
         "date": "2026-10-14",
@@ -56409,6 +56424,21 @@
       },
       {
         "date": "2026-10-14",
+        "file": "20261014-google-deepmind-and-.md",
+        "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+        "importance": 7,
+        "tags": [
+          "#fraud-detection",
+          "#on-device-ai",
+          "#public-private-partnership",
+          "#small-model",
+          "#privacy"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "date": "2026-10-14",
         "file": "20261014-sbs-unveils-sovereig.md",
         "title": "SBS unveils sovereign AI platform for core banking",
         "importance": 7,
@@ -56453,6 +56483,20 @@
       },
       {
         "date": "2026-10-14",
+        "file": "20261014-ai-특수에-ict-수출-751억달러.md",
+        "title": "AI 특수에 ICT 수출 751억달러…사상 첫 700억달러 돌파",
+        "importance": 6,
+        "tags": [
+          "#macro",
+          "#semiconductor-export",
+          "#ai-demand",
+          "#record"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261014061500017"
+      },
+      {
+        "date": "2026-10-14",
         "file": "20261014-anthropic-says-it-cu.md",
         "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
         "importance": 6,
@@ -56465,6 +56509,21 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/"
+      },
+      {
+        "date": "2026-10-14",
+        "file": "20261014-lg-cns-일본-kddi와-아태지역.md",
+        "title": "LG CNS, 일본 KDDI와 아태지역 AI·스마트시티 사업협력 추진",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#overseas-expansion",
+          "#smart-city",
+          "#system-integrator",
+          "#apac"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261014025500017"
       },
       {
         "date": "2026-10-14",
@@ -56494,6 +56553,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261014000002"
+      },
+      {
+        "date": "2026-10-14",
+        "file": "20261014-앤트로픽-예상-매출에-벌벌-떠는-ai.md",
+        "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다",
+        "importance": 6,
+        "tags": [
+          "#capital-markets",
+          "#anthropic",
+          "#revenue",
+          "#ai-bubble",
+          "#semiconductor"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/business/12175126"
       },
       {
         "date": "2026-10-14",
@@ -110368,6 +110442,35 @@
     ],
     "ai_compute_energy": [
       {
+        "date": "2026-10-14",
+        "file": "20261014-ai-특수에-ict-수출-751억달러.md",
+        "title": "AI 특수에 ICT 수출 751억달러…사상 첫 700억달러 돌파",
+        "importance": 6,
+        "tags": [
+          "#macro",
+          "#semiconductor-export",
+          "#ai-demand",
+          "#record"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261014061500017"
+      },
+      {
+        "date": "2026-10-14",
+        "file": "20261014-hbm4e부터-용인-산단까지-삼성-a.md",
+        "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개",
+        "importance": 6,
+        "tags": [
+          "#hbm",
+          "#samsung",
+          "#semiconductor",
+          "#capex",
+          "#ai-infrastructure"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202610140735g"
+      },
+      {
         "date": "2026-10-13",
         "file": "20261013-ms-자체-ai-칩-대규모-배치-선언.md",
         "title": "MS, 자체 AI 칩 대규모 배치 선언...차세대 '마이아 300' 공개",
@@ -124426,6 +124529,21 @@
       },
       {
         "date": "2026-10-14",
+        "file": "20261014-google-deepmind-and-.md",
+        "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+        "importance": 7,
+        "tags": [
+          "#fraud-detection",
+          "#on-device-ai",
+          "#public-private-partnership",
+          "#small-model",
+          "#privacy"
+        ],
+        "source": "Google DeepMind",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
+      },
+      {
+        "date": "2026-10-14",
         "file": "20261014-sbs-unveils-sovereig.md",
         "title": "SBS unveils sovereign AI platform for core banking",
         "importance": 7,
@@ -124453,6 +124571,36 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48573/market-data-costs-to-rise-by-up-to-50-thanks-to-ai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-14",
+        "file": "20261014-게시판-토스증권-앱에-시장-탭-신설-.md",
+        "title": "[게시판] 토스증권, 앱에 '시장' 탭 신설…AI시황 요약 제공",
+        "importance": 6,
+        "tags": [
+          "#securities",
+          "#ai-adoption",
+          "#retail-investor",
+          "#content-ai",
+          "#mobile-app"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261014049900008"
+      },
+      {
+        "date": "2026-10-14",
+        "file": "20261014-게시판-한투증권-리서치-내용-ai-음.md",
+        "title": "[게시판] 한투증권, 리서치 내용 AI 음성으로 듣는 서비스 출시",
+        "importance": 6,
+        "tags": [
+          "#securities",
+          "#ai-adoption",
+          "#research",
+          "#voice-ai",
+          "#mobile-app"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261014041000008"
       },
       {
         "date": "2026-10-14",
@@ -145217,8 +145365,8 @@
       },
       {
         "date": "2026-10-14",
-        "title": "금융 AI 보안, 감독 요건으로",
-        "summary": "미 당국의 시스템 리스크 경고와 주권형 뱅킹 AI 등장으로 보안·주권성이 금융 AI 조달 기준이 됐다.",
+        "title": "금융 AI 보안, 감독 요건과 단말 방어로",
+        "summary": "AI 해킹이 감독 의제가 되는 동시에 사기 방어가 이용자 단말 계층으로 확장됐다.",
         "articles": [
           {
             "date": "2026-10-14",
@@ -145231,13 +145379,31 @@
             "title": "SBS unveils sovereign AI platform for core banking"
           },
           {
-            "url": "https://www.mk.co.kr/news/stock/12175078",
-            "title": ""
-          },
-          {
             "date": "2026-10-14",
             "file": "20261014-market-data-costs-to.md",
             "title": "Market data costs to rise by up to 50% thanks to AI"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-google-deepmind-and-.md",
+            "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-14",
+        "title": "증권사 리테일 접점의 AI 콘텐츠화",
+        "summary": "시황·리서치가 AI 요약·음성으로 재가공돼 증권 앱의 기본 기능이 되고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-14",
+            "file": "20261014-게시판-토스증권-앱에-시장-탭-신설-.md",
+            "title": "[게시판] 토스증권, 앱에 '시장' 탭 신설…AI시황 요약 제공"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-게시판-한투증권-리서치-내용-ai-음.md",
+            "title": "[게시판] 한투증권, 리서치 내용 AI 음성으로 듣는 서비스 출시"
           }
         ]
       },
@@ -148777,33 +148943,6 @@
             "date": "2026-10-14",
             "file": "20261014-단독-카카오-웹툰-음원-카카오t에-스.md",
             "title": "[단독] 카카오, 웹툰·음원·카카오T에 스테이블코인 결제 연동…소설 원작 AI 애니 제작도"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-14",
-        "title": "백오피스 에이전트 상품화와 격리 요구",
-        "summary": "HR·IT 에이전트가 SaaS 상품으로 나오는 동시에 과학계가 격리 요구를 공식화해 통제 설계가 도입 전제가 됐다.",
-        "articles": [
-          {
-            "date": "2026-10-14",
-            "file": "20261014-라이징-2026-헬러마크-워크데이-c.md",
-            "title": "[라이징 2026] 헬러마크 워크데이 CAIO “HR·IT 업무, AI 에이전트 하나로 해결”"
-          },
-          {
-            "date": "2026-10-14",
-            "file": "20261014-라이징-2026-워크데이-앤트로픽-일.md",
-            "title": "[라이징 2026] 워크데이, 앤트로픽·일레븐랩스와 협업…“파트너십 지속 확대”"
-          },
-          {
-            "date": "2026-10-14",
-            "file": "20261014-406-scientists-deman.md",
-            "title": "406 scientists demand AI models be cut off from the internet immediately"
-          },
-          {
-            "date": "2026-10-14",
-            "file": "20261014-표준협회-kt-ds에-ai경영시스템-.md",
-            "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여"
           }
         ]
       },
@@ -152742,8 +152881,8 @@
     "ai_policy": [
       {
         "date": "2026-10-14",
-        "title": "금융 AI 보안, 감독 요건으로",
-        "summary": "미 당국의 시스템 리스크 경고와 주권형 뱅킹 AI 등장으로 보안·주권성이 금융 AI 조달 기준이 됐다.",
+        "title": "금융 AI 보안, 감독 요건과 단말 방어로",
+        "summary": "AI 해킹이 감독 의제가 되는 동시에 사기 방어가 이용자 단말 계층으로 확장됐다.",
         "articles": [
           {
             "date": "2026-10-14",
@@ -152756,40 +152895,14 @@
             "title": "SBS unveils sovereign AI platform for core banking"
           },
           {
-            "url": "https://www.mk.co.kr/news/stock/12175078",
-            "title": ""
-          },
-          {
             "date": "2026-10-14",
             "file": "20261014-market-data-costs-to.md",
             "title": "Market data costs to rise by up to 50% thanks to AI"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-14",
-        "title": "백오피스 에이전트 상품화와 격리 요구",
-        "summary": "HR·IT 에이전트가 SaaS 상품으로 나오는 동시에 과학계가 격리 요구를 공식화해 통제 설계가 도입 전제가 됐다.",
-        "articles": [
-          {
-            "date": "2026-10-14",
-            "file": "20261014-라이징-2026-헬러마크-워크데이-c.md",
-            "title": "[라이징 2026] 헬러마크 워크데이 CAIO “HR·IT 업무, AI 에이전트 하나로 해결”"
           },
           {
             "date": "2026-10-14",
-            "file": "20261014-라이징-2026-워크데이-앤트로픽-일.md",
-            "title": "[라이징 2026] 워크데이, 앤트로픽·일레븐랩스와 협업…“파트너십 지속 확대”"
-          },
-          {
-            "date": "2026-10-14",
-            "file": "20261014-406-scientists-deman.md",
-            "title": "406 scientists demand AI models be cut off from the internet immediately"
-          },
-          {
-            "date": "2026-10-14",
-            "file": "20261014-표준협회-kt-ds에-ai경영시스템-.md",
-            "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여"
+            "file": "20261014-google-deepmind-and-.md",
+            "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
           }
         ]
       },
@@ -157001,8 +157114,35 @@
     "llm_models": [
       {
         "date": "2026-10-14",
-        "title": "프런티어 상용화와 소비자 AI 옥석 가리기",
-        "summary": "최상위 모델 공급이 늘어 구매자 우위가 됐지만 단위 경제성 없는 소비자 AI는 퇴출되고 있다.",
+        "title": "금융 AI 보안, 감독 요건과 단말 방어로",
+        "summary": "AI 해킹이 감독 의제가 되는 동시에 사기 방어가 이용자 단말 계층으로 확장됐다.",
+        "articles": [
+          {
+            "date": "2026-10-14",
+            "file": "20261014-6개월내-금융시장-큰-피해-ai-해킹.md",
+            "title": "\"6개월내 금융시장 큰 피해\"…AI 해킹 공포에 美금융당국 '비상'"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-sbs-unveils-sovereig.md",
+            "title": "SBS unveils sovereign AI platform for core banking"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-market-data-costs-to.md",
+            "title": "Market data costs to rise by up to 50% thanks to AI"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-google-deepmind-and-.md",
+            "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-14",
+        "title": "프런티어 경제성과 AI 반도체 수요",
+        "summary": "모델 공급 확대와 매출 공개 압력 속에 AI 수요가 반도체 수출 기록으로 실체화됐다.",
         "articles": [
           {
             "date": "2026-10-14",
@@ -157011,17 +157151,23 @@
           },
           {
             "date": "2026-10-14",
-            "file": "20261014-gemini-4-argon-for-r.md",
-            "title": "Gemini 4 Argon for Robotics"
-          },
-          {
-            "date": "2026-10-14",
             "file": "20261014-character-ai-will-sh.md",
             "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy"
           },
           {
-            "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-            "title": ""
+            "date": "2026-10-14",
+            "file": "20261014-앤트로픽-예상-매출에-벌벌-떠는-ai.md",
+            "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-hbm4e부터-용인-산단까지-삼성-a.md",
+            "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-ai-특수에-ict-수출-751억달러.md",
+            "title": "AI 특수에 ICT 수출 751억달러…사상 첫 700억달러 돌파"
           }
         ]
       },
@@ -159375,8 +159521,8 @@
     "ai_industry": [
       {
         "date": "2026-10-14",
-        "title": "프런티어 상용화와 소비자 AI 옥석 가리기",
-        "summary": "최상위 모델 공급이 늘어 구매자 우위가 됐지만 단위 경제성 없는 소비자 AI는 퇴출되고 있다.",
+        "title": "프런티어 경제성과 AI 반도체 수요",
+        "summary": "모델 공급 확대와 매출 공개 압력 속에 AI 수요가 반도체 수출 기록으로 실체화됐다.",
         "articles": [
           {
             "date": "2026-10-14",
@@ -159385,17 +159531,23 @@
           },
           {
             "date": "2026-10-14",
-            "file": "20261014-gemini-4-argon-for-r.md",
-            "title": "Gemini 4 Argon for Robotics"
-          },
-          {
-            "date": "2026-10-14",
             "file": "20261014-character-ai-will-sh.md",
             "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy"
           },
           {
-            "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-            "title": ""
+            "date": "2026-10-14",
+            "file": "20261014-앤트로픽-예상-매출에-벌벌-떠는-ai.md",
+            "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-hbm4e부터-용인-산단까지-삼성-a.md",
+            "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-ai-특수에-ict-수출-751억달러.md",
+            "title": "AI 특수에 ICT 수출 751억달러…사상 첫 700억달러 돌파"
           }
         ]
       },
@@ -165289,6 +165441,38 @@
       }
     ],
     "ai_compute_energy": [
+      {
+        "date": "2026-10-14",
+        "title": "프런티어 경제성과 AI 반도체 수요",
+        "summary": "모델 공급 확대와 매출 공개 압력 속에 AI 수요가 반도체 수출 기록으로 실체화됐다.",
+        "articles": [
+          {
+            "date": "2026-10-14",
+            "file": "20261014-구글-제미나이-4-아르곤-본격-상용화.md",
+            "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-character-ai-will-sh.md",
+            "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-앤트로픽-예상-매출에-벌벌-떠는-ai.md",
+            "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-hbm4e부터-용인-산단까지-삼성-a.md",
+            "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개"
+          },
+          {
+            "date": "2026-10-14",
+            "file": "20261014-ai-특수에-ict-수출-751억달러.md",
+            "title": "AI 특수에 ICT 수출 751억달러…사상 첫 700억달러 돌파"
+          }
+        ]
+      },
       {
         "date": "2026-10-13",
         "title": "빅테크의 자체 칩·에이전트 플랫폼 장악",

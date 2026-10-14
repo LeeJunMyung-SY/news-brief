@@ -1,8 +1,8 @@
 {
   "date": "2026-10-14",
-  "updated_at": "2026-10-14T08:22:05.674278+09:00",
-  "run_id": "run_20261014_082205",
-  "summary_ko": "에이전트 결제 통제권 경쟁과 금융 AI 보안의 감독 의제화가 동시에 진행됐다.",
+  "updated_at": "2026-10-14T12:16:50.024559+09:00",
+  "run_id": "run_20261014_121650",
+  "summary_ko": "에이전트 결제 통제와 보안 감독화에 더해 증권사 AI 접점과 AI 반도체 수요가 실체화됐다.",
   "issues": [
     {
       "title": "에이전트 결제의 통제 계층 선점",
@@ -30,11 +30,12 @@
       ]
     },
     {
-      "title": "금융 AI 보안, 감독 요건으로",
-      "summary_ko": "미 당국의 시스템 리스크 경고와 주권형 뱅킹 AI 등장으로 보안·주권성이 금융 AI 조달 기준이 됐다.",
+      "title": "금융 AI 보안, 감독 요건과 단말 방어로",
+      "summary_ko": "AI 해킹이 감독 의제가 되는 동시에 사기 방어가 이용자 단말 계층으로 확장됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_policy"
+        "ai_policy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -48,22 +49,43 @@
           "title": "SBS unveils sovereign AI platform for core banking"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12175078",
-          "title": ""
-        },
-        {
           "date": "2026-10-14",
           "file": "20261014-market-data-costs-to.md",
           "title": "Market data costs to rise by up to 50% thanks to AI"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-google-deepmind-and-.md",
+          "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams"
         }
       ]
     },
     {
-      "title": "프런티어 상용화와 소비자 AI 옥석 가리기",
-      "summary_ko": "최상위 모델 공급이 늘어 구매자 우위가 됐지만 단위 경제성 없는 소비자 AI는 퇴출되고 있다.",
+      "title": "증권사 리테일 접점의 AI 콘텐츠화",
+      "summary_ko": "시황·리서치가 AI 요약·음성으로 재가공돼 증권 앱의 기본 기능이 되고 있다.",
+      "topics": [
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-14",
+          "file": "20261014-게시판-토스증권-앱에-시장-탭-신설-.md",
+          "title": "[게시판] 토스증권, 앱에 '시장' 탭 신설…AI시황 요약 제공"
+        },
+        {
+          "date": "2026-10-14",
+          "file": "20261014-게시판-한투증권-리서치-내용-ai-음.md",
+          "title": "[게시판] 한투증권, 리서치 내용 AI 음성으로 듣는 서비스 출시"
+        }
+      ]
+    },
+    {
+      "title": "프런티어 경제성과 AI 반도체 수요",
+      "summary_ko": "모델 공급 확대와 매출 공개 압력 속에 AI 수요가 반도체 수출 기록으로 실체화됐다.",
       "topics": [
         "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -73,47 +95,23 @@
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-gemini-4-argon-for-r.md",
-          "title": "Gemini 4 Argon for Robotics"
-        },
-        {
-          "date": "2026-10-14",
           "file": "20261014-character-ai-will-sh.md",
           "title": "Character.ai will shut down if no buyer emerges, capping a fall from $2.7 billion Google deal to bankruptcy"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "백오피스 에이전트 상품화와 격리 요구",
-      "summary_ko": "HR·IT 에이전트가 SaaS 상품으로 나오는 동시에 과학계가 격리 요구를 공식화해 통제 설계가 도입 전제가 됐다.",
-      "topics": [
-        "ai_agents",
-        "ai_policy"
-      ],
-      "articles": [
-        {
           "date": "2026-10-14",
-          "file": "20261014-라이징-2026-헬러마크-워크데이-c.md",
-          "title": "[라이징 2026] 헬러마크 워크데이 CAIO “HR·IT 업무, AI 에이전트 하나로 해결”"
+          "file": "20261014-앤트로픽-예상-매출에-벌벌-떠는-ai.md",
+          "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다"
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-라이징-2026-워크데이-앤트로픽-일.md",
-          "title": "[라이징 2026] 워크데이, 앤트로픽·일레븐랩스와 협업…“파트너십 지속 확대”"
+          "file": "20261014-hbm4e부터-용인-산단까지-삼성-a.md",
+          "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개"
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-406-scientists-deman.md",
-          "title": "406 scientists demand AI models be cut off from the internet immediately"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-표준협회-kt-ds에-ai경영시스템-.md",
-          "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여"
+          "file": "20261014-ai-특수에-ict-수출-751억달러.md",
+          "title": "AI 특수에 ICT 수출 751억달러…사상 첫 700억달러 돌파"
         }
       ]
     }
