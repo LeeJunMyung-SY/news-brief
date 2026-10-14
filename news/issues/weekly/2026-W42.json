@@ -1,12 +1,12 @@
 {
   "week": "2026-W42",
-  "updated_at": "2026-10-14T16:21:37.411602+09:00",
-  "run_id": "run_20261014_162137",
-  "summary_ko": "금융 AI 해킹이 감독 집계로 공식화되고 에이전트 접점·통제 규범·컴퓨트 표준 경쟁 속에 국내 AX가 실증·수익성 검증 단계로 들어섰다.",
+  "updated_at": "2026-10-15T08:34:04.128430+09:00",
+  "run_id": "run_20261015_083404",
+  "summary_ko": "금융 AI 해킹이 감독 집계와 방어 비용으로 실체화되고, 에이전트 접점 전략이 갈리는 가운데 AI 인프라 부채와 국내 AX 수익성 검증이 동시에 시험대에 올랐다.",
   "issues": [
     {
-      "title": "금융 AI 리스크의 감독 의제화와 해킹 확산",
-      "body_ko": "국내 해킹이 16개사 공식 집계로 확인되고 2금융권까지 번져, AI 보안이 감독 요건이자 전 업권 방어 계층 과제가 됐다.",
+      "title": "금융 AI 리스크의 감독 의제화와 방어 비용 실체화",
+      "body_ko": "침해 금융사 16곳이 전 업권으로 확정되고 대형 은행이 AI가 드러낸 취약점에 인력 1000명을 투입해, AI 보안이 감독 요건이자 대규모 예산 항목이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -19,18 +19,8 @@
         },
         {
           "date": "2026-10-12",
-          "file": "20261012-sk쉴더스-아르텍스-기존-공격-고도화.md",
-          "title": "SK쉴더스 \"아르텍스, 기존 공격 고도화\"...API 보안 대응책 제시"
-        },
-        {
-          "date": "2026-10-12",
           "file": "20261012-국내-금융사기-피해-3년간-3배-늘어.md",
           "title": "국내 금융사기 피해 3년간 3배 늘어…우리은행, 11월 AI 모니터링 시스템 가동"
-        },
-        {
-          "date": "2026-10-12",
-          "file": "20261012-금융보안원-자체개발-ai-보안위험-탐.md",
-          "title": "금융보안원 자체개발 AI 보안위험 탐지기술, 국제학회서 인정"
         },
         {
           "date": "2026-10-13",
@@ -56,12 +46,22 @@
           "date": "2026-10-14",
           "file": "20261014-ok저축은행도-뚫리나-동일한-웹페이지.md",
           "title": "OK저축은행도 뚫리나…동일한 웹페이지 공격 수법에 '촉각'"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-bank-of-america-hire.md",
+          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-은행-이어-가상자산-업계도-해킹-고팍.md",
+          "title": "은행 이어 가상자산 업계도 해킹…고팍스·프라뱅도 개인정보 유출"
         }
       ]
     },
     {
-      "title": "금융사 AI 사업화와 에이전트 접점 경쟁",
-      "body_ko": "AI 적금·리서치 에이전트·결제 통제에 전 국민 에이전트 컨소시엄과 메신저 커머스가 더해져, 금융 접점이 외부 에이전트 플랫폼으로 이동하고 있다.",
+      "title": "금융 접점의 에이전트 통제권 경쟁과 전략 분기",
+      "body_ko": "AI 적금·리서치 에이전트·결제 통제에 이어 선두 은행의 외부 에이전트 차단과 유럽 은행의 프로토콜 합류가 맞서, 접점 전략이 폐쇄와 표준 참여로 갈렸다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -80,11 +80,6 @@
         },
         {
           "date": "2026-10-13",
-          "file": "20261013-kb국민카드-sbi와-연합전선-ai-.md",
-          "title": "KB국민카드, 日 SBI와 연합전선…'AI·디지털자산' 생태계 확장"
-        },
-        {
-          "date": "2026-10-13",
           "file": "20261013-fis-launches-agentic.md",
           "title": "FIS launches agentic AI suite for the office of the CFO"
         },
@@ -100,21 +95,6 @@
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-단독-카카오-웹툰-음원-카카오t에-스.md",
-          "title": "[단독] 카카오, 웹툰·음원·카카오T에 스테이블코인 결제 연동…소설 원작 AI 애니 제작도"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-게시판-토스증권-앱에-시장-탭-신설-.md",
-          "title": "[게시판] 토스증권, 앱에 '시장' 탭 신설…AI시황 요약 제공"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-게시판-한투증권-리서치-내용-ai-음.md",
-          "title": "[게시판] 한투증권, 리서치 내용 AI 음성으로 듣는 서비스 출시"
-        },
-        {
-          "date": "2026-10-14",
           "file": "20261014-전-국민에-ai-에이전트-하나씩-카카.md",
           "title": "\"전 국민에 AI 에이전트 하나씩\"…카카오, '모두의 AI' 청사진 공개"
         },
@@ -124,14 +104,29 @@
           "title": "\"대화방서 쇼핑·일정까지 AI가 처리”…라인 대만, 에이전트 생태계 구축"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216241",
+          "date": "2026-10-15",
+          "file": "20261015-jpmorgan-chase-block.md",
+          "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-bbva-joins-meta-back.md",
+          "title": "BBVA joins Meta-backed Personal Agent Protocol initiative"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-mollie-to-build-bank.md",
+          "title": "Mollie to build banking layer for AI agents"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675709",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 통제·데이터 규범의 제도화",
-      "body_ko": "비상 정지·격리 요구가 국제 감독기구 제안으로 격상되고 조달 배제 소송과 공공 AI 데이터 개방 의무화가 더해져, AI 규범이 자발 약속에서 법·국제 제도로 넘어가고 있다.",
+      "title": "AI 통제·안전 규범의 제도화 압력",
+      "body_ko": "국제 감독기구 제안에 딥마인드 수장의 2년 내 사고 경고와 통제 이탈 에이전트 실증, 주 검찰 소송이 더해져 AI 규범이 자발 약속에서 법·국제 표준으로 넘어가고 있다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -144,11 +139,6 @@
           "title": "MS CEO “AI 비상장치 마련 필요...언제든 종료할 수 있어야”"
         },
         {
-          "date": "2026-10-12",
-          "file": "20261012-앤트로픽-내부-ai-평가서-실시간-인.md",
-          "title": "앤트로픽, 내부 AI 평가서 실시간 인터넷 차단…“안전장치 검증 때까지”"
-        },
-        {
           "date": "2026-10-13",
           "file": "20261013-ms-사장-세탁기-우유보다-못한-ai.md",
           "title": "MS 사장 \"세탁기·우유보다 못한 AI 규제…이제 법적 의무화 나설 때\""
@@ -157,11 +147,6 @@
           "date": "2026-10-14",
           "file": "20261014-406-scientists-deman.md",
           "title": "406 scientists demand AI models be cut off from the internet immediately"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-표준협회-kt-ds에-ai경영시스템-.md",
-          "title": "표준협회, KT DS에 AI경영시스템 국제표준 ISO/IEC 42001 인증 수여"
         },
         {
           "date": "2026-10-14",
@@ -177,16 +162,36 @@
           "date": "2026-10-14",
           "file": "20261014-나랏돈으로-만든-ai-데이터-공개-의.md",
           "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"...AI 기본법 개정안 통과"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-구글-딥마인드-2년-내-대형-ai-보.md",
+          "title": "구글 딥마인드 “2년 내 대형 AI 보안사고 우려…국제 표준 시급”"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-researchers-tracked-.md",
+          "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-eight-states-sue-ope.md",
+          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-앤트로픽-소형-ai-iot-기기-감염.md",
+          "title": "앤트로픽 \"소형 AI, IoT 기기 감염해 자율 복제하는 'AI 웜' 수준 도달\""
         }
       ]
     },
     {
-      "title": "컴퓨트 자립과 메모리 표준 경쟁",
-      "body_ko": "GPU 품귀·자체 칩 전환 속에 AI 메모리 수요가 수출 기록과 차세대 메모리 표준 선점 경쟁으로 이어져, 컴퓨트 원가와 공급망 주도권이 동시에 핵심 변수가 됐다.",
+      "title": "컴퓨트 자립과 AI 인프라 수익성 검증",
+      "body_ko": "GPU 품귀·자체 칩·메모리 표준 경쟁 위에 네오클라우드 채권 금리 급등과 하이퍼스케일러 비용 절감, 기업 도입 지연 우려가 겹쳐 AI 인프라의 자금 조달과 ROI가 시장 변수가 됐다.",
       "topics": [
         "ai_compute_energy",
-        "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
@@ -205,19 +210,9 @@
           "title": "인텔·브로드컴 CEO \"AI 최대 걸림돌은 전력·칩 아닌 자본\""
         },
         {
-          "date": "2026-10-13",
-          "file": "20261013-메타-자체-최고-모델-뮤즈-원더-출시.md",
-          "title": "메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류"
-        },
-        {
           "date": "2026-10-14",
           "file": "20261014-구글-제미나이-4-아르곤-본격-상용화.md",
           "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-hbm4e부터-용인-산단까지-삼성-a.md",
-          "title": "HBM4E부터 용인 산단까지…삼성, AI 반도체 청사진 공개"
         },
         {
           "date": "2026-10-14",
@@ -233,16 +228,36 @@
           "date": "2026-10-14",
           "file": "20261014-sk하이닉스-내년-1월-hbf-최종-.md",
           "title": "SK하이닉스, 내년 1월 HBF 최종 표준 제정 목표…차세대 AI 메모리 선점 시동"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-coreweave-shares-tum.md",
+          "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-dell-stock-plunges-1.md",
+          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-ms-애저-사업부-경영진에-20-비용.md",
+          "title": "MS, 애저 사업부 경영진에 '20% 비용 절감' 지시...\"호황에도 투자비 부담\""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12175822",
+          "title": ""
         }
       ]
     },
     {
-      "title": "국내 AX 확산과 피지컬 AI의 수익성 검증",
-      "body_ko": "AX가 SI 해외 동맹·제조 현장·AI 인재 공채로 넓어지는 한편 휴머노이드는 규제특례 뒤 수익성 증명을 요구받아, 피지컬 AI가 실증 선별과 손익 검증 단계로 들어섰다.",
+      "title": "국내 AX 확산과 조직 재설계, 피지컬 AI 수익성 검증",
+      "body_ko": "SI 해외 동맹·제조 현장 수치 목표·플랫폼 AI 분할 IR에 AI 우선 공정 재설계가 더해지고 휴머노이드는 수익성 증명을 요구받아, AX가 조직 구조와 손익 검증 단계로 들어섰다.",
       "topics": [
         "ai_industry",
         "physical_ai",
-        "physical_ai_robotics"
+        "physical_ai_robotics",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -272,11 +287,6 @@
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-lg-cns-일본-kddi와-아태지역.md",
-          "title": "LG CNS, 일본 KDDI와 아태지역 AI·스마트시티 사업협력 추진"
-        },
-        {
-          "date": "2026-10-14",
           "file": "20261014-kt-피지컬ai-사업화-속도-26개-.md",
           "title": "KT, 피지컬AI 사업화 속도...26개 후보 중 4개 연내 선정"
         },
@@ -291,7 +301,21 @@
           "title": "면 뽑고 불량 잡고…라면업계 'AI 러시'"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261014103500017",
+          "date": "2026-10-15",
+          "file": "20261015-포스코퓨처엠-제조-ai-활용-확대-2.md",
+          "title": "포스코퓨처엠, 제조 AI 활용 확대…2028년 생산성 30% 높인다"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675709",
+          "title": ""
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-에픽게임즈-ai-우선-제작-체계-도입.md",
+          "title": "에픽게임즈, 'AI 우선' 제작 체계 도입...\"수작업 더 이상 없어\""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=675719",
           "title": ""
         }
       ]
