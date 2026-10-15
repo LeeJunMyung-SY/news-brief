@@ -1,12 +1,12 @@
 {
   "week": "2026-W42",
-  "updated_at": "2026-10-15T16:20:27.192815+09:00",
-  "run_id": "run_20261015_162027",
-  "summary_ko": "금융 AI 해킹이 탐지 공백과 방어 비용으로 실체화되고 은행이 인력·접점 전략을 재편하는 가운데 AI 수익성 논란이 서킷브레이커로 번졌다.",
+  "updated_at": "2026-10-16T08:25:57.960759+09:00",
+  "run_id": "run_20261016_082557",
+  "summary_ko": "금융 AI 해킹이 감독 요건과 피해 배상 제도로 실체화되고 AI 부채가 신용 리스크로 번지는 가운데 에이전트 거버넌스가 법 집행 대상이 됐다.",
   "issues": [
     {
-      "title": "금융 AI 리스크의 감독 의제화와 탐지 공백 실체화",
-      "body_ko": "침해 금융사 16곳 확정과 대형 은행의 인력 1000명 투입에 이어 저축은행의 13시간 미인지와 중국산 AI 해킹 도구 조사가 더해져, AI 보안이 감독 요건이자 탐지 역량 격차 문제로 구체화됐다.",
+      "title": "금융 AI 리스크의 감독 의제화와 책임 제도화",
+      "body_ko": "침해 금융사 집계와 탐지 공백 수치화에 이어 대형 은행의 4000명 취약점 대응과 부정결제 선구제 추진이 더해져, AI 보안이 감독 요건을 넘어 피해 배상 책임 구조로 제도화되고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -18,29 +18,14 @@
           "title": "\"진화하는 AI해킹, 금융 안정망 흔들것\""
         },
         {
-          "date": "2026-10-12",
-          "file": "20261012-국내-금융사기-피해-3년간-3배-늘어.md",
-          "title": "국내 금융사기 피해 3년간 3배 늘어…우리은행, 11월 AI 모니터링 시스템 가동"
-        },
-        {
           "date": "2026-10-13",
           "file": "20261013-새마을금고도-뚫렸다-금융권-해킹-피해.md",
           "title": "새마을금고도 뚫렸다…금융권 해킹 피해 상호금융으로 확산"
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-6개월내-금융시장-큰-피해-ai-해킹.md",
-          "title": "\"6개월내 금융시장 큰 피해\"…AI 해킹 공포에 美금융당국 '비상'"
-        },
-        {
-          "date": "2026-10-14",
           "file": "20261014-당국-금융사-침해사고-발생-총-16곳.md",
           "title": "당국 \"금융사 침해사고 발생 총 16곳…약 10만건 유출\""
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-ok저축은행도-뚫리나-동일한-웹페이지.md",
-          "title": "OK저축은행도 뚫리나…동일한 웹페이지 공격 수법에 '촉각'"
         },
         {
           "date": "2026-10-15",
@@ -49,24 +34,28 @@
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-은행-이어-가상자산-업계도-해킹-고팍.md",
-          "title": "은행 이어 가상자산 업계도 해킹…고팍스·프라뱅도 개인정보 유출"
-        },
-        {
-          "date": "2026-10-15",
           "file": "20261015-ok저축은행-해킹-인지-못한-13시간.md",
           "title": "OK저축은행, 해킹 인지 못한 13시간 '깜깜'…계좌번호까지 털렸다"
         },
         {
-          "date": "2026-10-15",
-          "file": "20261015-visual-ai-해킹-금융권이-뚫렸.md",
-          "title": "[Visual] ‘AI 해킹’ 금융권이 뚫렸다"
+          "date": "2026-10-16",
+          "file": "20261016-ai-해킹-부정결제-피해땐-즉시-환불.md",
+          "title": "AI 해킹 부정결제 피해땐 '즉시 환불' 추진"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-bank-of-america-puts.md",
+          "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261015231909",
+          "title": ""
         }
       ]
     },
     {
-      "title": "은행 AI 전략의 재편: 접점 분기와 인력 전환",
-      "body_ko": "AI 적금·리서치 에이전트·결제 통제에 이어 선두 은행의 외부 에이전트 차단과 유럽 은행의 프로토콜 합류, 메가뱅크의 수천 명 AI 개발직 전환이 더해져, 은행 AI 전략이 접점 개방 여부와 인력 재배치 규모로 갈리고 있다.",
+      "title": "은행 AI 전략의 재편: 접점·인력·코어",
+      "body_ko": "AI 적금·리서치 에이전트와 외부 에이전트 차단·프로토콜 합류, 메가뱅크의 수천 명 직무 전환에 이어 AI 네이티브 코어뱅킹 도입과 저자신감 고객의 AI 상담 선호가 더해져, 은행 AI 전략이 접점·인력·코어 아키텍처 세 축에서 갈리고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -84,19 +73,9 @@
           "title": "국민연금이 美 아마존과 손잡은 까닭…“AI로 주식 분석할 것”"
         },
         {
-          "date": "2026-10-13",
-          "file": "20261013-fis-launches-agentic.md",
-          "title": "FIS launches agentic AI suite for the office of the CFO"
-        },
-        {
           "date": "2026-10-14",
           "file": "20261014-amex-introduces-a-fr.md",
           "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-전-국민에-ai-에이전트-하나씩-카카.md",
-          "title": "\"전 국민에 AI 에이전트 하나씩\"…카카오, '모두의 AI' 청사진 공개"
         },
         {
           "date": "2026-10-15",
@@ -110,24 +89,29 @@
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-mollie-to-build-bank.md",
-          "title": "Mollie to build banking layer for AI agents"
-        },
-        {
-          "date": "2026-10-15",
           "file": "20261015-메가뱅크-환골탈태-은행-사무직-수천명.md",
           "title": "日 메가뱅크 '환골탈태'…은행 사무직 수천명, AI개발직 전환"
         },
         {
-          "date": "2026-10-15",
-          "file": "20261015-lg-cns-2910억원-규모-새마을.md",
-          "title": "LG CNS, 2910억원 규모 새마을금고 금융시스템 최신화 사업 수주"
+          "date": "2026-10-16",
+          "file": "20261016-ai-native-core-banki.md",
+          "title": "AI-native core banking startup Maximum signs Emprise Bank"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-lack-of-financial-co.md",
+          "title": "Lack of financial confidence driving consumers to AI assistants"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-pex-brings-ai-powere.md",
+          "title": "PEX brings AI-powered finance workflows to ChatGPT and Claude"
         }
       ]
     },
     {
-      "title": "AI 통제·안전 규범의 제도화 압력",
-      "body_ko": "국제 감독기구 제안에 딥마인드 수장의 2년 내 사고 경고와 통제 이탈 에이전트 실증, 주 검찰 소송, 칩 공급사의 공급 중단 언급이 더해져 AI 규범이 자발 약속에서 법·표준·공급망 집행으로 넘어가고 있다.",
+      "title": "에이전트 통제·거버넌스의 법 집행 대상화",
+      "body_ko": "국제 감독기구 제안과 통제 이탈 에이전트 실증에 이어 FTC의 에이전트 사고 조사, 연기금의 IPO 중단 요구, 외부 평가기관 접근권 부여가 더해져, AI 규범이 자발 약속에서 규제 집행과 자본시장 조건으로 넘어갔다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -140,24 +124,9 @@
           "title": "MS CEO “AI 비상장치 마련 필요...언제든 종료할 수 있어야”"
         },
         {
-          "date": "2026-10-13",
-          "file": "20261013-ms-사장-세탁기-우유보다-못한-ai.md",
-          "title": "MS 사장 \"세탁기·우유보다 못한 AI 규제…이제 법적 의무화 나설 때\""
-        },
-        {
           "date": "2026-10-14",
           "file": "20261014-힌튼-벤지오-등-석학-400명-ai-.md",
           "title": "힌튼·벤지오 등 석학 400명, AI 사이버 위협 감독할 국제기구 설립 촉구"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-앤트로픽-국방부-공급망-위험-지정-불.md",
-          "title": "앤트로픽, 국방부 '공급망 위험' 지정 불복…항소법원에 재심 청구"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-나랏돈으로-만든-ai-데이터-공개-의.md",
-          "title": "\"나랏돈으로 만든 AI 데이터, 공개 의무화된다\"...AI 기본법 개정안 통과"
         },
         {
           "date": "2026-10-15",
@@ -175,23 +144,34 @@
           "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids"
         },
         {
-          "date": "2026-10-15",
-          "file": "20261015-앤트로픽-소형-ai-iot-기기-감염.md",
-          "title": "앤트로픽 \"소형 AI, IoT 기기 감염해 자율 복제하는 'AI 웜' 수준 도달\""
+          "date": "2026-10-16",
+          "file": "20261016-ftc-오픈ai-앤트로픽-보안사고-조.md",
+          "title": "美 FTC, 오픈AI·앤트로픽 보안사고 조사…경영진 소환 추진"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216282",
-          "title": ""
+          "date": "2026-10-16",
+          "file": "20261016-뉴욕시-감사원장-앤트로픽에-ai-위험.md",
+          "title": "美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675755",
+          "date": "2026-10-16",
+          "file": "20261016-anthropic-is-letting.md",
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-텐센트-에이전트도-보안망-우회-알리바.md",
+          "title": "텐센트 에이전트도 보안망 우회...알리바바 지도 서비스 대량 스캔"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216295",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 수익성 검증의 증시 전이와 서킷브레이커",
-      "body_ko": "GPU 품귀·자체 칩 경쟁 위에 프런티어 랩의 IPO 로드쇼 성장 둔화 평가와 네오클라우드 회사채 쇼크가 겹쳐 코스피·코스닥 동시 서킷브레이커로 번졌고, 파운드리 최대 이익과 대비되며 수익 귀속의 비대칭이 드러났다.",
+      "title": "AI 수익성 검증의 신용 이벤트화",
+      "body_ko": "GPU 품귀와 프런티어 랩 IPO 성장 둔화 평가에 네오클라우드 회사채 쇼크와 CDS 부실, 코스피 7000→5000대 추락이 이어져, AI 캐펙스 ROI 의심이 신용시장과 국내 증시의 시스템 리스크로 굳어지고 파운드리 캐파가 상류 병목으로 확인됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -204,16 +184,6 @@
           "title": "'돈 있어도 못 구해'…AI 열풍에 GPU 임대료 60% '껑충'"
         },
         {
-          "date": "2026-10-13",
-          "file": "20261013-ms-자체-ai-칩-대규모-배치-선언.md",
-          "title": "MS, 자체 AI 칩 대규모 배치 선언...차세대 '마이아 300' 공개"
-        },
-        {
-          "date": "2026-10-13",
-          "file": "20261013-인텔-브로드컴-ceo-ai-최대-걸림.md",
-          "title": "인텔·브로드컴 CEO \"AI 최대 걸림돌은 전력·칩 아닌 자본\""
-        },
-        {
           "date": "2026-10-14",
           "file": "20261014-앤트로픽-예상-매출에-벌벌-떠는-ai.md",
           "title": "앤트로픽 예상 매출에 벌벌 떠는 AI 주가...월가의 흐름이 바뀐다"
@@ -222,26 +192,6 @@
           "date": "2026-10-15",
           "file": "20261015-coreweave-shares-tum.md",
           "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-dell-stock-plunges-1.md",
-          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-ai는-지금-앤트로픽-매출-45-뛰고.md",
-          "title": "[AI는 지금] 앤트로픽, 매출 45% 뛰고 흑자…성장 이끈 비결은"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-코어위브-회사채-쇼크-ai-버블-붕괴.md",
-          "title": "코어위브發 회사채 쇼크… 'AI 버블 붕괴'인가 '차입 모델의 경고'인가"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-sk-hynix-shares-plun.md",
-          "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
         },
         {
           "date": "2026-10-15",
@@ -259,32 +209,47 @@
           "title": "TSMC, 3분기 매출 전년대비 41% 증가…2나노 비중 확대"
         },
         {
-          "date": "2026-10-15",
-          "file": "20261015-베슬ai-올해-매출-50배-급증-2조.md",
-          "title": "베슬AI, 올해 매출 50배 급증...2조 규모 GPU 대출 추진"
+          "date": "2026-10-16",
+          "file": "20261016-coreweave-credit-def.md",
+          "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-7거래일만에-7천피-5천피-추락-ai.md",
+          "title": "7거래일만에 7천피→5천피 추락…AI 수익성 논란 등에 첩첩산중(종합2보)"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12177059",
+          "title": ""
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-돈-쏟아부었는데-어쩌나-4700조-a.md",
+          "title": "\"돈 쏟아부었는데 어쩌나\"…4700조 AI 투자에 섬뜩한 '경고' [분석+]"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-tsmc-chip-capacity-i.md",
+          "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-aws-anthropic-race-t.md",
+          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off"
         }
       ]
     },
     {
-      "title": "국내 AX의 공기업 확산과 피지컬 AI 수익 시점",
-      "body_ko": "SI 해외 동맹·제조 수치 목표·통신사 정량 성과에 공기업의 CEO 주도 AX 선포와 대기업 로봇 사업의 2028년 J커브 전망이 더해져, AX가 공공·민간 전반의 KPI 증명과 손익 전환 검증 단계로 들어섰다.",
+      "title": "오픈 모델 재편과 국민 에이전트·피지컬 AI 접점",
+      "body_ko": "공기업 AX 선포와 로봇 사업 2028년 J커브 전망에 미국산 고성능 오픈웨이트, 엔터프라이즈 에이전트용 오픈 모델, 국민 에이전트 베타, 로봇용 단일 모델이 더해져, 모델 자립 경로와 생활·현장 접점의 주도권 경쟁이 동시에 열렸다.",
       "topics": [
+        "llm_models",
+        "ai_agents",
         "ai_industry",
         "physical_ai",
-        "physical_ai_robotics",
-        "ai_workforce_training"
+        "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-10-12",
-          "file": "20261012-포스코dx-인핸스에-20억-투자-업무.md",
-          "title": "포스코DX, 인핸스에 20억 투자…업무 실행 특화 AI 공동 개발"
-        },
-        {
-          "date": "2026-10-13",
-          "file": "20261013-단독-lg-cns-앤트로픽-클로드-프.md",
-          "title": "[단독] LG CNS, 앤트로픽 클로드 '프리퍼드' 파트너 선정…\"전 세계 50곳뿐\""
-        },
         {
           "date": "2026-10-13",
           "file": "20261013-산업부-제조현장-휴머노이드-20대-투.md",
@@ -292,23 +257,8 @@
         },
         {
           "date": "2026-10-14",
-          "file": "20261014-kt-피지컬ai-사업화-속도-26개-.md",
-          "title": "KT, 피지컬AI 사업화 속도...26개 후보 중 4개 연내 선정"
-        },
-        {
-          "date": "2026-10-14",
-          "file": "20261014-정의선-리더십-6년-로봇제국-꿈꾸는-.md",
-          "title": "[정의선 리더십 6년]③ '로봇제국' 꿈꾸는 현대차…기술 다음은 '수익성 증명'"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-포스코퓨처엠-제조-ai-활용-확대-2.md",
-          "title": "포스코퓨처엠, 제조 AI 활용 확대…2028년 생산성 30% 높인다"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-kt-ai로-고객-분석-8시간-10분.md",
-          "title": "KT, AI로 고객 분석 8시간→10분...업무 혁신 성과 공유"
+          "file": "20261014-전-국민에-ai-에이전트-하나씩-카카.md",
+          "title": "\"전 국민에 AI 에이전트 하나씩\"…카카오, '모두의 AI' 청사진 공개"
         },
         {
           "date": "2026-10-15",
@@ -316,17 +266,38 @@
           "title": "삼성·LG, 로봇사업 J커브 진입 시점은 '2028년'"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261015093200003",
-          "title": ""
-        },
-        {
           "date": "2026-10-15",
           "file": "20261015-가스-저탄소-ax-승부수-서버-없어도.md",
           "title": "[가스公, 저탄소·AX 승부수]“서버 없어도 쓰러짐 즉각 탐지”…현장 덮은 'AX 혁신'"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261015003200003",
+          "date": "2026-10-16",
+          "file": "20261016-메타-뮤즈-스파크-오픈-공개-맥-2대.md",
+          "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-nvidia-s-nemotron-3-.md",
+          "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-베타-테스트-앞둔-모두의-ai-skt.md",
+          "title": "베타 테스트 앞둔 '모두의 AI'…SKT·KT·카카오 전략 시험대"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
           "title": ""
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-google-wants-gemini-.md",
+          "title": "Google wants Gemini 4 Argon to be the only AI model robots need"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-6톤-서버도-번쩍-로봇이-데이터센터-.md",
+          "title": "6톤 서버도 번쩍…로봇이 데이터센터 자동으로 만든다"
         }
       ]
     }

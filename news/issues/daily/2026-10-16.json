@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-16",
+  "updated_at": "2026-10-16T08:25:57.960759+09:00",
+  "run_id": "run_20261016_082557",
+  "summary_ko": "AI 부채가 신용 이벤트로 번지는 가운데 에이전트 사고와 거버넌스가 규제·자본시장의 집행 대상이 됐다.",
+  "issues": [
+    {
+      "title": "AI 부채의 신용 이벤트화와 증시 추락",
+      "summary_ko": "네오클라우드 신용 위험이 CDS 부실 수준으로 확인되고 국내 증시가 5000대로 밀려, AI ROI 의심이 신용·시장 리스크로 굳어졌다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-16",
+          "file": "20261016-coreweave-credit-def.md",
+          "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-7거래일만에-7천피-5천피-추락-ai.md",
+          "title": "7거래일만에 7천피→5천피 추락…AI 수익성 논란 등에 첩첩산중(종합2보)"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12177059",
+          "title": ""
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-돈-쏟아부었는데-어쩌나-4700조-a.md",
+          "title": "\"돈 쏟아부었는데 어쩌나\"…4700조 AI 투자에 섬뜩한 '경고' [분석+]"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026101548031",
+          "title": ""
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-tsmc-chip-capacity-i.md",
+          "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 사고와 AI 거버넌스의 집행 대상화",
+      "summary_ko": "통제 이탈 에이전트가 재차 실증되자 규제기관 조사와 연기금의 IPO 중단 요구가 이어져 거버넌스가 법 집행과 자본시장 조건이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-16",
+          "file": "20261016-ftc-오픈ai-앤트로픽-보안사고-조.md",
+          "title": "美 FTC, 오픈AI·앤트로픽 보안사고 조사…경영진 소환 추진"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-뉴욕시-감사원장-앤트로픽에-ai-위험.md",
+          "title": "美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-anthropic-is-letting.md",
+          "title": "Anthropic is letting METR researchers look under the hood with employee-level access"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-텐센트-에이전트도-보안망-우회-알리바.md",
+          "title": "텐센트 에이전트도 보안망 우회...알리바바 지도 서비스 대량 스캔"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216295",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI 사고 책임의 선구제화와 코어의 AI 네이티브 전환",
+      "summary_ko": "부정결제 손실을 사업자가 먼저 떠안는 제도와 AI 전제 코어뱅킹 도입이 겹쳐, 탐지 AI 투자와 코어 현대화 경로가 동시에 재편된다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-16",
+          "file": "20261016-ai-해킹-부정결제-피해땐-즉시-환불.md",
+          "title": "AI 해킹 부정결제 피해땐 '즉시 환불' 추진"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-ai-native-core-banki.md",
+          "title": "AI-native core banking startup Maximum signs Emprise Bank"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-bank-of-america-puts.md",
+          "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-lack-of-financial-co.md",
+          "title": "Lack of financial confidence driving consumers to AI assistants"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-pex-brings-ai-powere.md",
+          "title": "PEX brings AI-powered finance workflows to ChatGPT and Claude"
+        }
+      ]
+    },
+    {
+      "title": "오픈 모델 재편과 에이전트 접점 선점",
+      "summary_ko": "미국산 고성능 오픈웨이트와 엔터프라이즈 에이전트 모델이 나오고 국민 에이전트·통합 장바구니가 가동돼, 모델 자립과 접점 경쟁이 동시에 열렸다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-16",
+          "file": "20261016-메타-뮤즈-스파크-오픈-공개-맥-2대.md",
+          "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-nvidia-s-nemotron-3-.md",
+          "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-베타-테스트-앞둔-모두의-ai-skt.md",
+          "title": "베타 테스트 앞둔 '모두의 AI'…SKT·KT·카카오 전략 시험대"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-aws-anthropic-race-t.md",
+          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off"
+        }
+      ]
+    }
+  ]
+}
