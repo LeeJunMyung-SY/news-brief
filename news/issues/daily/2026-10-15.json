@@ -1,37 +1,12 @@
 {
   "date": "2026-10-15",
-  "updated_at": "2026-10-15T12:22:42.662042+09:00",
-  "run_id": "run_20261015_122242",
-  "summary_ko": "AI 수익성 의심이 증시 급락으로 번진 가운데 은행 에이전트 전략 분기와 AX 성과 수치화가 동시에 진행됐다.",
+  "updated_at": "2026-10-15T16:20:27.192815+09:00",
+  "run_id": "run_20261015_162027",
+  "summary_ko": "AI 수익성 의심이 서킷브레이커로 번진 가운데 은행의 AI 직무 전환과 해킹 탐지 공백이 동시에 드러났다.",
   "issues": [
     {
-      "title": "은행의 에이전트 접점 전략 분기",
-      "summary_ko": "외부 에이전트 접근을 차단할지 프로토콜 표준에 참여할지가 은행 전략의 갈림길이 됐다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-15",
-          "file": "20261015-jpmorgan-chase-block.md",
-          "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-bbva-joins-meta-back.md",
-          "title": "BBVA joins Meta-backed Personal Agent Protocol initiative"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-mollie-to-build-bank.md",
-          "title": "Mollie to build banking layer for AI agents"
-        }
-      ]
-    },
-    {
-      "title": "AI 수익성 논란의 글로벌 증시 전이",
-      "summary_ko": "프런티어 랩 흑자에도 성장 둔화와 회사채 쇼크가 겹쳐 AI 투자 ROI 의심이 증시 가격에 반영됐다.",
+      "title": "AI 수익성 논란의 시스템 리스크화",
+      "summary_ko": "프런티어 랩 IPO의 성장 둔화 평가와 회사채 쇼크가 겹쳐 AI ROI 의심이 증시 전체의 변동성 요인이 됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -50,11 +25,6 @@
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-ms-애저-사업부-경영진에-20-비용.md",
-          "title": "MS, 애저 사업부 경영진에 '20% 비용 절감' 지시...\"호황에도 투자비 부담\""
-        },
-        {
-          "date": "2026-10-15",
           "file": "20261015-ai는-지금-앤트로픽-매출-45-뛰고.md",
           "title": "[AI는 지금] 앤트로픽, 매출 45% 뛰고 흑자…성장 이끈 비결은"
         },
@@ -65,19 +35,64 @@
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-첩첩산중-코스피-ai수익성-논란에-물.md",
-          "title": "'첩첩산중' 코스피, AI수익성 논란에 美 물가 충격까지"
+          "file": "20261015-sk-hynix-shares-plun.md",
+          "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-sk-hynix-shares-plun.md",
-          "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
+          "file": "20261015-코스피-코스닥-두달여만에-동시-서킷브.md",
+          "title": "코스피·코스닥, 두달여만에 동시 서킷브레이커…올해 5번째(종합2보)"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-앤트로픽-ipo-로드쇼-시작-매출-4.md",
+          "title": "앤트로픽, IPO 로드쇼 시작…매출 45% 늘었지만 투자자 기대 밑돌아"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261015112100008",
+          "title": ""
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-tsmc-3분기-매출-전년대비-41-.md",
+          "title": "TSMC, 3분기 매출 전년대비 41% 증가…2나노 비중 확대"
         }
       ]
     },
     {
-      "title": "AI 방어 비용의 실체화와 통제 요구",
-      "summary_ko": "AI 해킹 방어가 인력 1000명 규모의 예산 항목이 되고 에이전트 안전 국제 표준 압력이 커졌다.",
+      "title": "은행 AI 인력 전략의 두 갈래",
+      "summary_ko": "메가뱅크의 수천 명 AI 개발직 전환과 에이전트 접점 차단·개방 분기가 맞물려 은행 AI 전략이 인력·접점 양면에서 갈리고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_workforce_training",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-15",
+          "file": "20261015-jpmorgan-chase-block.md",
+          "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-bbva-joins-meta-back.md",
+          "title": "BBVA joins Meta-backed Personal Agent Protocol initiative"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-mollie-to-build-bank.md",
+          "title": "Mollie to build banking layer for AI agents"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-메가뱅크-환골탈태-은행-사무직-수천명.md",
+          "title": "日 메가뱅크 '환골탈태'…은행 사무직 수천명, AI개발직 전환"
+        }
+      ]
+    },
+    {
+      "title": "AI 해킹 탐지 공백의 수치화",
+      "summary_ko": "13시간 미인지 침해와 중국산 AI 해킹 도구 조사로 2금융권 실시간 탐지 체계 부재가 감독 이슈로 격상됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -101,41 +116,35 @@
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-researchers-tracked-.md",
-          "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it"
+          "file": "20261015-앤트로픽-소형-ai-iot-기기-감염.md",
+          "title": "앤트로픽 \"소형 AI, IoT 기기 감염해 자율 복제하는 'AI 웜' 수준 도달\""
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-앤트로픽-소형-ai-iot-기기-감염.md",
-          "title": "앤트로픽 \"소형 AI, IoT 기기 감염해 자율 복제하는 'AI 웜' 수준 도달\""
+          "file": "20261015-ok저축은행-해킹-인지-못한-13시간.md",
+          "title": "OK저축은행, 해킹 인지 못한 13시간 '깜깜'…계좌번호까지 털렸다"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-visual-ai-해킹-금융권이-뚫렸.md",
+          "title": "[Visual] ‘AI 해킹’ 금융권이 뚫렸다"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-lg-cns-2910억원-규모-새마을.md",
+          "title": "LG CNS, 2910억원 규모 새마을금고 금융시스템 최신화 사업 수주"
         }
       ]
     },
     {
-      "title": "AX 성과 수치화와 피지컬 AI 수익 시점",
-      "summary_ko": "AX 성과가 정량 KPI로 공개되고 로봇 사업 손익 전환이 2028년으로 제시돼 AI 투자 회수 검증이 시작됐다.",
+      "title": "공기업 AX 공식화와 컴퓨트 조달 자본화",
+      "summary_ko": "공기업의 CEO 주도 AX 선포와 네오클라우드의 2조 GPU 금융이 이어져 AI 도입과 인프라가 투자·조달 항목으로 구체화됐다.",
       "topics": [
         "ai_industry",
-        "physical_ai_robotics",
-        "금융회사 AI",
-        "ai_workforce_training"
+        "ai_compute_energy",
+        "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-10-15",
-          "file": "20261015-starling-becomes-fir.md",
-          "title": "Starling becomes first bank to train AI model on UK sovereign cloud"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-에픽게임즈-ai-우선-제작-체계-도입.md",
-          "title": "에픽게임즈, 'AI 우선' 제작 체계 도입...\"수작업 더 이상 없어\""
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-mckinsey-is-making-j.md",
-          "title": "McKinsey is making job applicants spar with a fake AI client"
-        },
         {
           "date": "2026-10-15",
           "file": "20261015-포스코퓨처엠-제조-ai-활용-확대-2.md",
@@ -150,6 +159,24 @@
           "date": "2026-10-15",
           "file": "20261015-삼성-lg-로봇사업-j커브-진입-시점.md",
           "title": "삼성·LG, 로봇사업 J커브 진입 시점은 '2028년'"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261015093200003",
+          "title": ""
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-가스-저탄소-ax-승부수-서버-없어도.md",
+          "title": "[가스公, 저탄소·AX 승부수]“서버 없어도 쓰러짐 즉각 탐지”…현장 덮은 'AX 혁신'"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-베슬ai-올해-매출-50배-급증-2조.md",
+          "title": "베슬AI, 올해 매출 50배 급증...2조 규모 GPU 대출 추진"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261015003200003",
+          "title": ""
         }
       ]
     }
