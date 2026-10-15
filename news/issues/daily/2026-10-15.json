@@ -1,8 +1,8 @@
 {
   "date": "2026-10-15",
-  "updated_at": "2026-10-15T08:34:04.128430+09:00",
-  "run_id": "run_20261015_083404",
-  "summary_ko": "은행의 에이전트 접점 전략이 차단과 표준 참여로 갈리고 AI 방어 비용과 인프라 부채 리스크가 숫자로 드러났다.",
+  "updated_at": "2026-10-15T12:22:42.662042+09:00",
+  "run_id": "run_20261015_122242",
+  "summary_ko": "AI 수익성 의심이 증시 급락으로 번진 가운데 은행 에이전트 전략 분기와 AX 성과 수치화가 동시에 진행됐다.",
   "issues": [
     {
       "title": "은행의 에이전트 접점 전략 분기",
@@ -26,10 +26,52 @@
           "date": "2026-10-15",
           "file": "20261015-mollie-to-build-bank.md",
           "title": "Mollie to build banking layer for AI agents"
+        }
+      ]
+    },
+    {
+      "title": "AI 수익성 논란의 글로벌 증시 전이",
+      "summary_ko": "프런티어 랩 흑자에도 성장 둔화와 회사채 쇼크가 겹쳐 AI 투자 ROI 의심이 증시 가격에 반영됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-15",
+          "file": "20261015-coreweave-shares-tum.md",
+          "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=675709",
-          "title": ""
+          "date": "2026-10-15",
+          "file": "20261015-dell-stock-plunges-1.md",
+          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-ms-애저-사업부-경영진에-20-비용.md",
+          "title": "MS, 애저 사업부 경영진에 '20% 비용 절감' 지시...\"호황에도 투자비 부담\""
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-ai는-지금-앤트로픽-매출-45-뛰고.md",
+          "title": "[AI는 지금] 앤트로픽, 매출 45% 뛰고 흑자…성장 이끈 비결은"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-코어위브-회사채-쇼크-ai-버블-붕괴.md",
+          "title": "코어위브發 회사채 쇼크… 'AI 버블 붕괴'인가 '차입 모델의 경고'인가"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-첩첩산중-코스피-ai수익성-논란에-물.md",
+          "title": "'첩첩산중' 코스피, AI수익성 논란에 美 물가 충격까지"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-sk-hynix-shares-plun.md",
+          "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount"
         }
       ]
     },
@@ -70,40 +112,12 @@
       ]
     },
     {
-      "title": "AI 인프라 부채와 수익성 의심",
-      "summary_ko": "컴퓨트 확장의 부채 의존과 기업 도입 지연 우려가 주가·채권 금리로 반영되기 시작했다.",
+      "title": "AX 성과 수치화와 피지컬 AI 수익 시점",
+      "summary_ko": "AX 성과가 정량 KPI로 공개되고 로봇 사업 손익 전환이 2028년으로 제시돼 AI 투자 회수 검증이 시작됐다.",
       "topics": [
-        "ai_compute_energy",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-15",
-          "file": "20261015-coreweave-shares-tum.md",
-          "title": "CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-dell-stock-plunges-1.md",
-          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'"
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-ms-애저-사업부-경영진에-20-비용.md",
-          "title": "MS, 애저 사업부 경영진에 '20% 비용 절감' 지시...\"호황에도 투자비 부담\""
-        },
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261015018100008",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "주권 인프라 자체 모델과 AI 우선 조직",
-      "summary_ko": "은행의 주권 클라우드 자체 모델 학습과 기업의 AI 우선 공정 재설계가 AX의 다음 단계를 보여준다.",
-      "topics": [
-        "금융회사 AI",
         "ai_industry",
+        "physical_ai_robotics",
+        "금융회사 AI",
         "ai_workforce_training"
       ],
       "articles": [
@@ -126,6 +140,16 @@
           "date": "2026-10-15",
           "file": "20261015-포스코퓨처엠-제조-ai-활용-확대-2.md",
           "title": "포스코퓨처엠, 제조 AI 활용 확대…2028년 생산성 30% 높인다"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-kt-ai로-고객-분석-8시간-10분.md",
+          "title": "KT, AI로 고객 분석 8시간→10분...업무 혁신 성과 공유"
+        },
+        {
+          "date": "2026-10-15",
+          "file": "20261015-삼성-lg-로봇사업-j커브-진입-시점.md",
+          "title": "삼성·LG, 로봇사업 J커브 진입 시점은 '2028년'"
         }
       ]
     }
