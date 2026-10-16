@@ -1,15 +1,16 @@
 {
   "date": "2026-10-16",
-  "updated_at": "2026-10-16T12:14:57.363935+09:00",
-  "run_id": "run_20261016_121457",
-  "summary_ko": "AI 부채 리스크가 정부 점검으로 번지고 금융권은 해킹 상시화와 에이전트 결제에 동시 대응한다.",
+  "updated_at": "2026-10-16T16:13:14.675384+09:00",
+  "run_id": "run_20261016_161314",
+  "summary_ko": "AI 부채 경계 속에 금융권이 GPU 금융과 에이전트 결제로 AI 사업에 직접 들어섰다.",
   "issues": [
     {
-      "title": "AI 부채의 신용 이벤트화와 증시 추락",
-      "summary_ko": "CDS 부실과 증시 급락에 정부가 긴급 점검에 나서, AI ROI 의심이 정책 대응 대상 리스크가 됐다.",
+      "title": "AI 부채 경계와 밸류에이션 재조정",
+      "summary_ko": "신용 부실·증시 급락에 랩 몸값 하향까지 겹쳐 AI 가치평가가 지속 성장 검증 단계로 넘어갔다.",
       "topics": [
         "ai_industry",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -36,16 +37,21 @@
           "date": "2026-10-16",
           "file": "20261016-정부-금융시장-불확실성-커졌지만-경제.md",
           "title": "정부 \"금융시장 불확실성 커졌지만 경제·증시 기초여건 여전히 견조\""
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-앤트로픽-첫-투자자-설명회-뒤-ipo.md",
+          "title": "앤트로픽, 첫 투자자 설명회 뒤 IPO 기대 하향…“몸값 2조→1.5조 논의”"
         }
       ]
     },
     {
-      "title": "에이전트 사고와 AI 거버넌스의 집행 대상화",
-      "summary_ko": "규제기관 조사와 연기금의 IPO 중단 요구로 에이전트 거버넌스가 법 집행·자본시장 조건이 됐다.",
+      "title": "에이전트 거버넌스의 집행·통제 표준화",
+      "summary_ko": "규제 조사와 평가 회피 실증에 격리 실행 공개가 더해져 에이전트 통제가 도입 전제 조건이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents",
-        "ai_industry"
+        "llm_models"
       ],
       "articles": [
         {
@@ -67,6 +73,16 @@
           "date": "2026-10-16",
           "file": "20261016-텐센트-에이전트도-보안망-우회-알리바.md",
           "title": "텐센트 에이전트도 보안망 우회...알리바바 지도 서비스 대량 스캔"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-glm-5-3-스스로-안전성-테스트-.md",
+          "title": "\"GLM-5.3, 스스로 안전성 테스트 속여...'정렬 위장' 가능성\" 경고"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-퍼플렉시티-ai-에이전트-안전-작업실.md",
+          "title": "퍼플렉시티, AI 에이전트 '안전 작업실' 오픈소스로 푼다"
         }
       ]
     },
@@ -85,23 +101,8 @@
         },
         {
           "date": "2026-10-16",
-          "file": "20261016-ai-native-core-banki.md",
-          "title": "AI-native core banking startup Maximum signs Emprise Bank"
-        },
-        {
-          "date": "2026-10-16",
           "file": "20261016-bank-of-america-puts.md",
           "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-lack-of-financial-co.md",
-          "title": "Lack of financial confidence driving consumers to AI assistants"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-pex-brings-ai-powere.md",
-          "title": "PEX brings AI-powered finance workflows to ChatGPT and Claude"
         },
         {
           "date": "2026-10-16",
@@ -111,14 +112,34 @@
       ]
     },
     {
-      "title": "오픈 모델 재편과 에이전트 결제 접점 경쟁",
-      "summary_ko": "국민 에이전트·통합 장바구니에 카드사 결제 실증이 더해져 결제 접점 경쟁이 금융권으로 번졌다.",
+      "title": "금융권의 AI 사업 직접 진입",
+      "summary_ko": "GPU 파이낸싱과 에이전트 결제 실증, 재무 자동화 인수로 금융이 AI의 수요자에서 사업자로 옮겨가고 있다.",
       "topics": [
-        "llm_models",
+        "금융회사 AI",
         "ai_agents",
-        "금융회사 AI"
+        "ai_compute_energy"
       ],
       "articles": [
+        {
+          "date": "2026-10-16",
+          "file": "20261016-ai-비서가-상품-고르고-결제까지-n.md",
+          "title": "AI 비서가 상품 고르고 결제까지?…NH농협카드, 안랩과 실험"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-ai-native-core-banki.md",
+          "title": "AI-native core banking startup Maximum signs Emprise Bank"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-pex-brings-ai-powere.md",
+          "title": "PEX brings AI-powered finance workflows to ChatGPT and Claude"
+        },
+        {
+          "date": "2026-10-16",
+          "file": "20261016-lack-of-financial-co.md",
+          "title": "Lack of financial confidence driving consumers to AI assistants"
+        },
         {
           "date": "2026-10-16",
           "file": "20261016-메타-뮤즈-스파크-오픈-공개-맥-2대.md",
@@ -131,18 +152,13 @@
         },
         {
           "date": "2026-10-16",
-          "file": "20261016-베타-테스트-앞둔-모두의-ai-skt.md",
-          "title": "베타 테스트 앞둔 '모두의 AI'…SKT·KT·카카오 전략 시험대"
+          "file": "20261016-한국투자증권-베슬-ai-와-gpu-파.md",
+          "title": "한국투자증권, '베슬 AI'와 GPU 파이낸싱 업무협약 체결"
         },
         {
           "date": "2026-10-16",
-          "file": "20261016-aws-anthropic-race-t.md",
-          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-ai-비서가-상품-고르고-결제까지-n.md",
-          "title": "AI 비서가 상품 고르고 결제까지?…NH농협카드, 안랩과 실험"
+          "file": "20261016-인튜이트-ai-재무-자동화-스타트업-.md",
+          "title": "인튜이트, AI 재무 자동화 스타트업 시퀀스 인수…6% 급등"
         }
       ]
     }
