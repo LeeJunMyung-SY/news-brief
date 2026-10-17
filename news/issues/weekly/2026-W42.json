@@ -1,12 +1,12 @@
 {
   "week": "2026-W42",
-  "updated_at": "2026-10-17T16:10:06.870274+09:00",
-  "run_id": "run_20261017_161006",
-  "summary_ko": "금융 AI 해킹이 국제 공조 의제로, AI 부채가 거시 리스크로 커지는 사이 모델 공급망과 규제 주도권이 재편됐다.",
+  "updated_at": "2026-10-18T08:12:23.443573+09:00",
+  "run_id": "run_20261018_081223",
+  "summary_ko": "금융 AI 해킹과 AI 부채가 감독 의제로 오르는 사이 에이전트 통제와 모델 조달 구도가 재편됐다.",
   "issues": [
     {
       "title": "금융 AI 리스크의 감독 의제화와 국제 공조",
-      "body_ko": "침해 집계·피해 선구제에 G7 모의훈련 승인이 더해져, AI 보안이 금융사의 상시 배상 책임이자 국제 감독 항목이 됐다.",
+      "body_ko": "침해 집계·피해 선구제에 G7 모의훈련이 더해져 AI 보안이 금융사의 상시 배상 책임이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -26,11 +26,6 @@
           "date": "2026-10-14",
           "file": "20261014-당국-금융사-침해사고-발생-총-16곳.md",
           "title": "당국 \"금융사 침해사고 발생 총 16곳…약 10만건 유출\""
-        },
-        {
-          "date": "2026-10-15",
-          "file": "20261015-bank-of-america-hire.md",
-          "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's Mythos"
         },
         {
           "date": "2026-10-15",
@@ -54,19 +49,14 @@
         },
         {
           "date": "2026-10-17",
-          "file": "20261017-코히어-ai-보안-스타트업-아일-인수.md",
-          "title": "코히어, AI 보안 스타트업 아일 인수 추진"
-        },
-        {
-          "date": "2026-10-17",
           "file": "20261017-g7-ai-금융-사이버-공격-막는다-.md",
           "title": "G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인"
         }
       ]
     },
     {
-      "title": "금융 AI 전략의 재편: 접점·인력·코어·인프라 금융",
-      "body_ko": "에이전트 접점 분기와 직무 전환, 온프레미스 전사 배치와 GPU 금융이 겹쳐 금융이 AI 수요자에서 운영·사업자로 옮겨가고 있다.",
+      "title": "금융 AI 전략의 재편: 접점·인력·코어·노출",
+      "body_ko": "에이전트 접점 분기와 직무 전환, 온프레미스 배치에 AI 답변 노출 경쟁까지 더해져 금융 AI 전략의 범위가 넓어졌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -77,11 +67,6 @@
           "date": "2026-10-13",
           "file": "20261013-카카오뱅크-ai적금-출시-저축목표-따.md",
           "title": "카카오뱅크 'AI적금' 출시…저축목표 따라 맞춤형 조언"
-        },
-        {
-          "date": "2026-10-13",
-          "file": "20261013-국민연금이-아마존과-손잡은-까닭-ai.md",
-          "title": "국민연금이 美 아마존과 손잡은 까닭…“AI로 주식 분석할 것”"
         },
         {
           "date": "2026-10-14",
@@ -95,33 +80,13 @@
         },
         {
           "date": "2026-10-15",
-          "file": "20261015-bbva-joins-meta-back.md",
-          "title": "BBVA joins Meta-backed Personal Agent Protocol initiative"
-        },
-        {
-          "date": "2026-10-15",
           "file": "20261015-메가뱅크-환골탈태-은행-사무직-수천명.md",
           "title": "日 메가뱅크 '환골탈태'…은행 사무직 수천명, AI개발직 전환"
         },
         {
           "date": "2026-10-16",
-          "file": "20261016-ai-native-core-banki.md",
-          "title": "AI-native core banking startup Maximum signs Emprise Bank"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-ai-비서가-상품-고르고-결제까지-n.md",
-          "title": "AI 비서가 상품 고르고 결제까지?…NH농협카드, 안랩과 실험"
-        },
-        {
-          "date": "2026-10-16",
           "file": "20261016-한국투자증권-베슬-ai-와-gpu-파.md",
           "title": "한국투자증권, '베슬 AI'와 GPU 파이낸싱 업무협약 체결"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-인튜이트-ai-재무-자동화-스타트업-.md",
-          "title": "인튜이트, AI 재무 자동화 스타트업 시퀀스 인수…6% 급등"
         },
         {
           "date": "2026-10-17",
@@ -134,20 +99,15 @@
           "title": "\"금융권 AI 활용, 운영 효율화에 치우쳐…혁신 AX로 가야\""
         },
         {
-          "date": "2026-10-17",
-          "file": "20261017-farsight-and-ornn-pa.md",
-          "title": "Farsight and Ornn partner for AI-powered banking"
-        },
-        {
-          "date": "2026-10-17",
-          "file": "20261017-some-companies-give-.md",
-          "title": "Some companies give AI to everyone. This CEO is doing the opposite"
+          "date": "2026-10-18",
+          "file": "20261018-보험-어디서-들까-물어보니-ai가-꼽.md",
+          "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디"
         }
       ]
     },
     {
-      "title": "에이전트 통제·거버넌스의 법 집행 대상화",
-      "body_ko": "규제 조사와 다국 불량 에이전트 사고에 공급사의 권한 통제 원칙화가 더해져, 에이전트 통제가 규제 집행과 도입 실사 요건이 됐다.",
+      "title": "에이전트 통제·검증의 법 집행·실사 요건화",
+      "body_ko": "규제 조사와 모델의 자율 침해·은폐 공개, 웹의 접근 차단이 겹쳐 에이전트 통제가 도입 실사의 핵심이 됐다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -165,29 +125,9 @@
           "title": "힌튼·벤지오 등 석학 400명, AI 사이버 위협 감독할 국제기구 설립 촉구"
         },
         {
-          "date": "2026-10-15",
-          "file": "20261015-researchers-tracked-.md",
-          "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it"
-        },
-        {
           "date": "2026-10-16",
           "file": "20261016-ftc-오픈ai-앤트로픽-보안사고-조.md",
           "title": "美 FTC, 오픈AI·앤트로픽 보안사고 조사…경영진 소환 추진"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-뉴욕시-감사원장-앤트로픽에-ai-위험.md",
-          "title": "美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-anthropic-is-letting.md",
-          "title": "Anthropic is letting METR researchers look under the hood with employee-level access"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-텐센트-에이전트도-보안망-우회-알리바.md",
-          "title": "텐센트 에이전트도 보안망 우회...알리바바 지도 서비스 대량 스캔"
         },
         {
           "date": "2026-10-16",
@@ -206,19 +146,29 @@
         },
         {
           "date": "2026-10-17",
-          "file": "20261017-ai에-권한-줬더니-방송-직전-프로그.md",
-          "title": "AI에 권한 줬더니…방송 직전 프로그램 통째 증발 ‘날벼락"
-        },
-        {
-          "date": "2026-10-17",
           "file": "20261017-라이징-2026-몬로이-워크데이-ct.md",
           "title": "[라이징 2026] 몬로이 워크데이 CTO “AI 속도조절보다 위험 통제가 시급”"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-an-openai-model-hack.md",
+          "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-ai-models-hide-mista.md",
+          "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-websites-are-closing.md",
+          "title": "Websites are closing their doors to AI agents"
         }
       ]
     },
     {
       "title": "AI 수익성 검증의 신용·거시 리스크화",
-      "body_ko": "CDS 부실·증시 추락·랩 몸값 하향에 IMF 성장률 경고와 랩 부채 조달이 겹쳐, AI 캐펙스 ROI 의심이 거시 금융 리스크로 확산됐다.",
+      "body_ko": "CDS 부실·증시 추락·랩 몸값 하향에 IMF 경고가 겹쳐 AI 캐펙스 ROI 의심이 거시 금융 리스크로 번졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -241,39 +191,14 @@
           "title": "코스피·코스닥, 두달여만에 동시 서킷브레이커…올해 5번째(종합2보)"
         },
         {
-          "date": "2026-10-15",
-          "file": "20261015-앤트로픽-ipo-로드쇼-시작-매출-4.md",
-          "title": "앤트로픽, IPO 로드쇼 시작…매출 45% 늘었지만 투자자 기대 밑돌아"
-        },
-        {
           "date": "2026-10-16",
           "file": "20261016-coreweave-credit-def.md",
           "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt"
         },
         {
           "date": "2026-10-16",
-          "file": "20261016-7거래일만에-7천피-5천피-추락-ai.md",
-          "title": "7거래일만에 7천피→5천피 추락…AI 수익성 논란 등에 첩첩산중(종합2보)"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-tsmc-chip-capacity-i.md",
-          "title": "TSMC chip capacity is ‘fierce’ battleground for AI customers, amid record quarter"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-aws-anthropic-race-t.md",
-          "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off"
-        },
-        {
-          "date": "2026-10-16",
           "file": "20261016-앤트로픽-첫-투자자-설명회-뒤-ipo.md",
           "title": "앤트로픽, 첫 투자자 설명회 뒤 IPO 기대 하향…“몸값 2조→1.5조 논의”"
-        },
-        {
-          "date": "2026-10-17",
-          "file": "20261017-코어위브발-경고음-베슬ai-몬드리안a.md",
-          "title": "코어위브발 경고음…베슬AI·몬드리안AI·엘리스 재무 체력 시험대"
         },
         {
           "date": "2026-10-17",
@@ -288,13 +213,13 @@
       ]
     },
     {
-      "title": "모델 공급망 재편과 규제 주도권 경쟁",
-      "body_ko": "오픈웨이트·자체 모델 경쟁에 수출 통제와 랩의 연방법 설계가 겹쳐, 모델 조달과 규제 기준이 함께 지정학·로비 변수가 됐다.",
+      "title": "모델·칩 공급망 재편과 규제 주도권 경쟁",
+      "body_ko": "오픈웨이트 단가 하락과 수출 통제, 칩 공급 다극화에 랩의 연방법 설계가 겹쳐 조달 기준이 지정학 변수가 됐다.",
       "topics": [
         "llm_models",
         "ai_policy",
         "ai_industry",
-        "ai_agents",
+        "ai_compute_energy",
         "physical_ai",
         "physical_ai_robotics"
       ],
@@ -305,19 +230,9 @@
           "title": "산업부, 제조현장 휴머노이드 20대 투입…4족보행 순찰로봇도 허용"
         },
         {
-          "date": "2026-10-14",
-          "file": "20261014-전-국민에-ai-에이전트-하나씩-카카.md",
-          "title": "\"전 국민에 AI 에이전트 하나씩\"…카카오, '모두의 AI' 청사진 공개"
-        },
-        {
           "date": "2026-10-16",
           "file": "20261016-메타-뮤즈-스파크-오픈-공개-맥-2대.md",
           "title": "메타, ‘뮤즈 스파크 오픈’ 공개…맥 2대로 구동·미국 최고 성능 내세워"
-        },
-        {
-          "date": "2026-10-16",
-          "file": "20261016-nvidia-s-nemotron-3-.md",
-          "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop"
         },
         {
           "date": "2026-10-16",
@@ -331,11 +246,6 @@
         },
         {
           "date": "2026-10-17",
-          "file": "20261017-ms-정식-출시-앞서-2-8조-매개변.md",
-          "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각"
-        },
-        {
-          "date": "2026-10-17",
           "file": "20261017-replit-is-no-longer-.md",
           "title": "Replit is no longer working with Anthropic, CEO says"
         },
@@ -343,6 +253,21 @@
           "date": "2026-10-17",
           "file": "20261017-앤트로픽-미-의회에-자체-ai-안전-.md",
           "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\""
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-deepseek-v4-1-flash-.md",
+          "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-cxmt-3분기-매출-23조-전망-전.md",
+          "title": "CXMT, 3분기 매출 23조 전망...전년비 600% '껑충'"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-meta-removes-languag.md",
+          "title": "Meta removes language that may have allowed it to scrape news sites"
         }
       ]
     }

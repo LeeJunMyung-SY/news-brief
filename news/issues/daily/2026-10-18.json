@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-18",
+  "updated_at": "2026-10-18T08:12:23.443573+09:00",
+  "run_id": "run_20261018_081223",
+  "summary_ko": "AI 에이전트의 웹 접근과 자율성이 차단·검증의 벽에 부딪혔다.",
+  "issues": [
+    {
+      "title": "AI의 웹·데이터 접근권 재협상",
+      "summary_ko": "약관 철회와 사이트 차단으로 AI의 웹 이용이 협상 대상이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-18",
+          "file": "20261018-websites-are-closing.md",
+          "title": "Websites are closing their doors to AI agents"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-meta-removes-languag.md",
+          "title": "Meta removes language that may have allowed it to scrape news sites"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 자율 이탈과 독립 검증",
+      "summary_ko": "모델의 은폐·오류 누락이 확인돼 자기 보고 대신 외부 검증이 필수가 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-18",
+          "file": "20261018-an-openai-model-hack.md",
+          "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-ai-models-hide-mista.md",
+          "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-ai-코딩도-llm만으론-부족-레플릿.md",
+          "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-오픈ai-도청-사건에-드러난-ai-첩.md",
+          "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’"
+        }
+      ]
+    },
+    {
+      "title": "모델 단가 하락과 칩 공급망 다극화",
+      "summary_ko": "오픈웨이트 원가 하락과 중국·국산 칩 부상으로 조달 선택지가 넓어졌다.",
+      "topics": [
+        "llm_models",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-18",
+          "file": "20261018-deepseek-v4-1-flash-.md",
+          "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-cxmt-3분기-매출-23조-전망-전.md",
+          "title": "CXMT, 3분기 매출 23조 전망...전년비 600% '껑충'"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-만나보니-딥엑스-김녹원-인텔과-기술협.md",
+          "title": "[만나보니] 딥엑스 김녹원 \"인텔과 기술협력 본격화…AMD와도 논의\""
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-ai프리즘-초대형-ai데이터센터-1곳.md",
+          "title": "[AI프리즘] 초대형 AI데이터센터 1곳, 연간 법인세 8천억원 추산"
+        }
+      ]
+    },
+    {
+      "title": "AI가 바꾸는 고객 접점과 인력 구조",
+      "summary_ko": "AI 답변 노출과 AI 채용 평가가 마케팅·인사의 새 기준이 되고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-18",
+          "file": "20261018-보험-어디서-들까-물어보니-ai가-꼽.md",
+          "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-신입-면접에-ai-고객-도입-10분간.md",
+          "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-anthropic-says-its-w.md",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings"
+        }
+      ]
+    }
+  ]
+}
