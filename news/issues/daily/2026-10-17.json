@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "updated_at": "2026-10-17T12:12:06.968683+09:00",
-  "run_id": "run_20261017_121206",
+  "updated_at": "2026-10-17T16:10:06.870274+09:00",
+  "run_id": "run_20261017_161006",
   "summary_ko": "AI 리스크가 국제 금융안정 의제로 오르는 사이 규제 주도권과 에이전트 통제 경쟁이 붙었다.",
   "issues": [
     {
@@ -114,11 +114,12 @@
       ]
     },
     {
-      "title": "금융권 AI의 사내 플랫폼화와 전략 재정의",
-      "summary_ko": "온프레미스 전사 배치 속에 효율화 너머 성장형 AX가 과제로 올라섰다.",
+      "title": "기업 AI 도입 범위와 인프라 운영의 재설계",
+      "summary_ko": "전사 배치와 선별 배분이 갈리고, DC 경쟁력은 냉각·운영 역량으로 옮겨간다.",
       "topics": [
         "금융회사 AI",
-        "ai_industry"
+        "ai_industry",
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -135,6 +136,21 @@
           "date": "2026-10-17",
           "file": "20261017-farsight-and-ornn-pa.md",
           "title": "Farsight and Ornn partner for AI-powered banking"
+        },
+        {
+          "date": "2026-10-17",
+          "file": "20261017-some-companies-give-.md",
+          "title": "Some companies give AI to everyone. This CEO is doing the opposite"
+        },
+        {
+          "date": "2026-10-17",
+          "file": "20261017-gs건설-ai데이터센터-시공-경쟁력-.md",
+          "title": "GS건설, AI데이터센터 시공 경쟁력 강화…액침냉각 통합설계 개발"
+        },
+        {
+          "date": "2026-10-17",
+          "file": "20261017-롯데이노베이트-베트남-데이터센터-공략.md",
+          "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'"
         }
       ]
     }

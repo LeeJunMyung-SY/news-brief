@@ -1,7 +1,7 @@
 {
   "week": "2026-W42",
-  "updated_at": "2026-10-17T12:12:06.968683+09:00",
-  "run_id": "run_20261017_121206",
+  "updated_at": "2026-10-17T16:10:06.870274+09:00",
+  "run_id": "run_20261017_161006",
   "summary_ko": "금융 AI 해킹이 국제 공조 의제로, AI 부채가 거시 리스크로 커지는 사이 모델 공급망과 규제 주도권이 재편됐다.",
   "issues": [
     {
@@ -137,6 +137,11 @@
           "date": "2026-10-17",
           "file": "20261017-farsight-and-ornn-pa.md",
           "title": "Farsight and Ornn partner for AI-powered banking"
+        },
+        {
+          "date": "2026-10-17",
+          "file": "20261017-some-companies-give-.md",
+          "title": "Some companies give AI to everyone. This CEO is doing the opposite"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T03:12:18+00:00",
+  "generated_at": "2026-10-17T07:10:18+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3287,
+      "count": 3289,
       "latest_date": "2026-10-17"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 996,
+      "count": 998,
       "latest_date": "2026-10-17"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 862,
+      "count": 863,
       "latest_date": "2026-10-17"
     },
     {
@@ -57608,6 +57608,21 @@
       },
       {
         "date": "2026-10-17",
+        "file": "20261017-some-companies-give-.md",
+        "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#enterprise-ai",
+          "#fintech",
+          "#ai-cost"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
+      },
+      {
+        "date": "2026-10-17",
         "file": "20261017-앤트로픽-신용등급-투자적격-까지-한-.md",
         "title": "앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나",
         "importance": 7,
@@ -57662,6 +57677,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      },
+      {
+        "date": "2026-10-17",
+        "file": "20261017-롯데이노베이트-베트남-데이터센터-공략.md",
+        "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#global-expansion",
+          "#partnership",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675842"
       },
       {
         "date": "2026-10-17",
@@ -112658,6 +112687,34 @@
       },
       {
         "date": "2026-10-17",
+        "file": "20261017-gs건설-ai데이터센터-시공-경쟁력-.md",
+        "title": "GS건설, AI데이터센터 시공 경쟁력 강화…액침냉각 통합설계 개발",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#liquid-cooling",
+          "#partnership",
+          "#ai-infrastructure"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675868"
+      },
+      {
+        "date": "2026-10-17",
+        "file": "20261017-롯데이노베이트-베트남-데이터센터-공략.md",
+        "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#global-expansion",
+          "#partnership",
+          "#monetization"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675842"
+      },
+      {
+        "date": "2026-10-17",
         "file": "20261017-코어위브발-경고음-베슬ai-몬드리안a.md",
         "title": "코어위브발 경고음…베슬AI·몬드리안AI·엘리스 재무 체력 시험대",
         "importance": 6,
@@ -127063,6 +127120,21 @@
         ],
         "source": "Ars Technica Tech",
         "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+      },
+      {
+        "date": "2026-10-17",
+        "file": "20261017-some-companies-give-.md",
+        "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#org-change",
+          "#enterprise-ai",
+          "#fintech",
+          "#ai-cost"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
       },
       {
         "date": "2026-10-17",
@@ -148539,8 +148611,8 @@
       },
       {
         "date": "2026-10-17",
-        "title": "금융권 AI의 사내 플랫폼화와 전략 재정의",
-        "summary": "온프레미스 전사 배치 속에 효율화 너머 성장형 AX가 과제로 올라섰다.",
+        "title": "기업 AI 도입 범위와 인프라 운영의 재설계",
+        "summary": "전사 배치와 선별 배분이 갈리고, DC 경쟁력은 냉각·운영 역량으로 옮겨간다.",
         "articles": [
           {
             "date": "2026-10-17",
@@ -148556,6 +148628,21 @@
             "date": "2026-10-17",
             "file": "20261017-farsight-and-ornn-pa.md",
             "title": "Farsight and Ornn partner for AI-powered banking"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-some-companies-give-.md",
+            "title": "Some companies give AI to everyone. This CEO is doing the opposite"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-gs건설-ai데이터센터-시공-경쟁력-.md",
+            "title": "GS건설, AI데이터센터 시공 경쟁력 강화…액침냉각 통합설계 개발"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-롯데이노베이트-베트남-데이터센터-공략.md",
+            "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'"
           }
         ]
       },
@@ -156820,8 +156907,8 @@
       },
       {
         "date": "2026-10-17",
-        "title": "금융권 AI의 사내 플랫폼화와 전략 재정의",
-        "summary": "온프레미스 전사 배치 속에 효율화 너머 성장형 AX가 과제로 올라섰다.",
+        "title": "기업 AI 도입 범위와 인프라 운영의 재설계",
+        "summary": "전사 배치와 선별 배분이 갈리고, DC 경쟁력은 냉각·운영 역량으로 옮겨간다.",
         "articles": [
           {
             "date": "2026-10-17",
@@ -156837,6 +156924,21 @@
             "date": "2026-10-17",
             "file": "20261017-farsight-and-ornn-pa.md",
             "title": "Farsight and Ornn partner for AI-powered banking"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-some-companies-give-.md",
+            "title": "Some companies give AI to everyone. This CEO is doing the opposite"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-gs건설-ai데이터센터-시공-경쟁력-.md",
+            "title": "GS건설, AI데이터센터 시공 경쟁력 강화…액침냉각 통합설계 개발"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-롯데이노베이트-베트남-데이터센터-공략.md",
+            "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'"
           }
         ]
       },
@@ -162965,6 +163067,43 @@
             "date": "2026-10-17",
             "file": "20261017-앤트로픽-신용등급-투자적격-까지-한-.md",
             "title": "앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-17",
+        "title": "기업 AI 도입 범위와 인프라 운영의 재설계",
+        "summary": "전사 배치와 선별 배분이 갈리고, DC 경쟁력은 냉각·운영 역량으로 옮겨간다.",
+        "articles": [
+          {
+            "date": "2026-10-17",
+            "file": "20261017-deutsche-bank-rolls-.md",
+            "title": "Deutsche Bank rolls out on-premise AI system"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-금융권-ai-활용-운영-효율화에-치우.md",
+            "title": "\"금융권 AI 활용, 운영 효율화에 치우쳐…혁신 AX로 가야\""
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-farsight-and-ornn-pa.md",
+            "title": "Farsight and Ornn partner for AI-powered banking"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-some-companies-give-.md",
+            "title": "Some companies give AI to everyone. This CEO is doing the opposite"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-gs건설-ai데이터센터-시공-경쟁력-.md",
+            "title": "GS건설, AI데이터센터 시공 경쟁력 강화…액침냉각 통합설계 개발"
+          },
+          {
+            "date": "2026-10-17",
+            "file": "20261017-롯데이노베이트-베트남-데이터센터-공략.md",
+            "title": "롯데이노베이트, 베트남 데이터센터 공략 승부수는 '운영 경험'"
           }
         ]
       },
