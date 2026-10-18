@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:13:03+00:00",
+  "generated_at": "2026-10-18T07:11:47+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3301,
+      "count": 3303,
       "latest_date": "2026-10-18"
     },
     {
@@ -47,7 +47,7 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 865,
+      "count": 867,
       "latest_date": "2026-10-18"
     },
     {
@@ -57720,6 +57720,21 @@
       },
       {
         "date": "2026-10-18",
+        "file": "20261018-신한라이프-가입설계-70-ai-활용-.md",
+        "title": "신한라이프, 가입설계 70% AI 활용…영업 현장 AX 속도",
+        "importance": 8,
+        "tags": [
+          "#insurance",
+          "#ai-adoption",
+          "#roi-case",
+          "#sales-ax",
+          "#finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675858"
+      },
+      {
+        "date": "2026-10-18",
         "file": "20261018-ai-열풍에-서버값-최대-4배-가격-.md",
         "title": "AI 열풍에 서버값 최대 4배↑…'가격 안정은 2028년 이후에나'",
         "importance": 7,
@@ -57847,6 +57862,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261016157300017"
+      },
+      {
+        "date": "2026-10-18",
+        "file": "20261018-숨은-웹-자산부터-취약점까지-스틸리언.md",
+        "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시",
+        "importance": 6,
+        "tags": [
+          "#ai-security",
+          "#attack-surface",
+          "#finance",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261016000222"
       },
       {
         "date": "2026-10-18",
@@ -127524,6 +127554,21 @@
       },
       {
         "date": "2026-10-18",
+        "file": "20261018-신한라이프-가입설계-70-ai-활용-.md",
+        "title": "신한라이프, 가입설계 70% AI 활용…영업 현장 AX 속도",
+        "importance": 8,
+        "tags": [
+          "#insurance",
+          "#ai-adoption",
+          "#roi-case",
+          "#sales-ax",
+          "#finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=675858"
+      },
+      {
+        "date": "2026-10-18",
         "file": "20261018-보험-어디서-들까-물어보니-ai가-꼽.md",
         "title": "“보험 어디서 들까?” 물어보니…AI가 꼽은 ‘1등 금융사’는 어디",
         "importance": 7,
@@ -127536,6 +127581,21 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12178581"
+      },
+      {
+        "date": "2026-10-18",
+        "file": "20261018-숨은-웹-자산부터-취약점까지-스틸리언.md",
+        "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시",
+        "importance": 6,
+        "tags": [
+          "#ai-security",
+          "#attack-surface",
+          "#finance",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261016000222"
       },
       {
         "date": "2026-10-17",
@@ -153280,8 +153340,8 @@
       },
       {
         "date": "2026-10-18",
-        "title": "AI가 바꾸는 고객 접점과 인력 구조",
-        "summary": "AI 답변 노출과 AI 채용 평가가 마케팅·인사의 새 기준이 되고 있다.",
+        "title": "금융 영업·인사의 AI 기본값화",
+        "summary": "AI 설계·AI 면접·AI 답변 노출이 금융 영업과 인사의 기본 경로가 되고 있다.",
         "articles": [
           {
             "date": "2026-10-18",
@@ -153297,6 +153357,16 @@
             "date": "2026-10-18",
             "file": "20261018-anthropic-says-its-w.md",
             "title": "Anthropic says its workforce has become less junior and is spending more time in meetings"
+          },
+          {
+            "date": "2026-10-18",
+            "file": "20261018-신한라이프-가입설계-70-ai-활용-.md",
+            "title": "신한라이프, 가입설계 70% AI 활용…영업 현장 AX 속도"
+          },
+          {
+            "date": "2026-10-18",
+            "file": "20261018-숨은-웹-자산부터-취약점까지-스틸리언.md",
+            "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시"
           }
         ]
       },
@@ -167256,8 +167326,8 @@
       },
       {
         "date": "2026-10-18",
-        "title": "AI가 바꾸는 고객 접점과 인력 구조",
-        "summary": "AI 답변 노출과 AI 채용 평가가 마케팅·인사의 새 기준이 되고 있다.",
+        "title": "금융 영업·인사의 AI 기본값화",
+        "summary": "AI 설계·AI 면접·AI 답변 노출이 금융 영업과 인사의 기본 경로가 되고 있다.",
         "articles": [
           {
             "date": "2026-10-18",
@@ -167273,6 +167343,16 @@
             "date": "2026-10-18",
             "file": "20261018-anthropic-says-its-w.md",
             "title": "Anthropic says its workforce has become less junior and is spending more time in meetings"
+          },
+          {
+            "date": "2026-10-18",
+            "file": "20261018-신한라이프-가입설계-70-ai-활용-.md",
+            "title": "신한라이프, 가입설계 70% AI 활용…영업 현장 AX 속도"
+          },
+          {
+            "date": "2026-10-18",
+            "file": "20261018-숨은-웹-자산부터-취약점까지-스틸리언.md",
+            "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시"
           }
         ]
       },

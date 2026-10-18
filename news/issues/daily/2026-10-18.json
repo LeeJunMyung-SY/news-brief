@@ -1,8 +1,8 @@
 {
   "date": "2026-10-18",
-  "updated_at": "2026-10-18T12:12:55.330847+09:00",
-  "run_id": "run_20261018_121255",
-  "summary_ko": "에이전트 접근은 막히고 하드웨어 원가는 치솟았다.",
+  "updated_at": "2026-10-18T16:11:38.941777+09:00",
+  "run_id": "run_20261018_161138",
+  "summary_ko": "에이전트 접근은 막히고 원가는 치솟는 사이 금융 현장은 AI를 기본값으로 삼았다.",
   "issues": [
     {
       "title": "에이전트 접근권의 차단과 재협상",
@@ -102,8 +102,8 @@
       ]
     },
     {
-      "title": "AI가 바꾸는 고객 접점과 인력 구조",
-      "summary_ko": "AI 답변 노출과 AI 채용 평가가 마케팅·인사의 새 기준이 되고 있다.",
+      "title": "금융 영업·인사의 AI 기본값화",
+      "summary_ko": "AI 설계·AI 면접·AI 답변 노출이 금융 영업과 인사의 기본 경로가 되고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_industry"
@@ -123,6 +123,16 @@
           "date": "2026-10-18",
           "file": "20261018-anthropic-says-its-w.md",
           "title": "Anthropic says its workforce has become less junior and is spending more time in meetings"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-신한라이프-가입설계-70-ai-활용-.md",
+          "title": "신한라이프, 가입설계 70% AI 활용…영업 현장 AX 속도"
+        },
+        {
+          "date": "2026-10-18",
+          "file": "20261018-숨은-웹-자산부터-취약점까지-스틸리언.md",
+          "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시"
         }
       ]
     }

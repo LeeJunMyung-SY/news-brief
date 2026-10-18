@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:13:03+00:00",
+  "generated_at": "2026-10-18T07:11:47+00:00",
   "latest_date": "2026-10-18",
   "topics": [
     {
@@ -24,7 +24,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3301
+      "count": 3303
     },
     {
       "key": "physical_ai_robotics",
@@ -42,7 +42,7 @@
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 865
+      "count": 867
     },
     {
       "key": "physical_ai",
@@ -66,6 +66,12 @@
           "file": "digest_1212.md",
           "selected": 5,
           "new": 76
+        },
+        {
+          "time": "16:11",
+          "file": "digest_1611.md",
+          "selected": 2,
+          "new": 63
         }
       ]
     },
@@ -2820,7 +2826,7 @@
       "file": "2026-W42.md",
       "week_start": "2026-10-12",
       "week_end": "2026-10-18",
-      "total_selected_this_week": 368
+      "total_selected_this_week": 372
     },
     {
       "week": "2026-W41",
