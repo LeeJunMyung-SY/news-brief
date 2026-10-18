@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-19",
+  "updated_at": "2026-10-19T08:13:39.260726+09:00",
+  "run_id": "run_20261019_081339",
+  "summary_ko": "에이전트 확산 속 책임 규율과 AI 투자 실효성 검증이 동시에 부각됐다.",
+  "issues": [
+    {
+      "title": "금융권 AI 에이전트, 규율과 실험 동시 진행",
+      "summary_ko": "당국 규율 설계와 금융사 실증이 맞물려 국내 에이전트 금융이 제도화 단계로 진입했다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-ai-에이전트-책임-어디까지-금융위-.md",
+          "title": "AI 에이전트 책임 어디까지… 금융위 연구용역 착수"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-nh농협카드-ai-블록체인-결합-결제.md",
+          "title": "NH농협카드, AI·블록체인 결합 결제 실험…관건은 '상용화 연계'"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-핀다-핀테크-최초-저축은행-인수-눈앞.md",
+          "title": "핀다, 핀테크 최초 저축은행 인수 눈앞…AI 활용 비대면 영업"
+        }
+      ]
+    },
+    {
+      "title": "에이전트가 인력 구조를 바꾸기 시작",
+      "summary_ko": "에이전트 대체와 인재 인수가 동시에 진행되며 AI 인력 전략이 양극화되고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-anthropic-has-nearly.md",
+          "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-disney-agrees-to-hir.md",
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce"
+        },
+        {
+          "url": "https://www.etnews.com/20261019000002",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 출력·기기에 대한 법적 책임 확대",
+      "summary_ko": "AI 답변과 상시 녹음 기기 모두 운영자·사용자 책임으로 귀속되는 흐름이 굳어진다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-two-german-courts-no.md",
+          "title": "Two German courts now hold Google liable for what its AI overviews say"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-always-on-always-lis.md",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
+          "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\""
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라 투자 실현성에 의문",
+      "summary_ko": "저가 모델 충격과 계획 과잉 분석이 겹쳐 캐펙스 ROI 재검증 압력이 커졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-10조달러-ai-투자-흔들-데이터센터.md",
+          "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-삼전닉스-월요일에-주가-어떡해요-딥시.md",
+          "title": "삼전닉스 월요일에 주가 어떡해요?…‘中딥시크 쇼크’ 또 온다는데"
+        }
+      ]
+    }
+  ]
+}

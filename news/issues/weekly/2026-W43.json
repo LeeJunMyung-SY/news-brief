@@ -1,0 +1,105 @@
+{
+  "week": "2026-W43",
+  "updated_at": "2026-10-19T08:13:39.260726+09:00",
+  "run_id": "run_20261019_081339",
+  "summary_ko": "에이전트의 책임·규율 정비와 AI 투자 실효성 검증이 주간 흐름을 이끌고 있다.",
+  "issues": [
+    {
+      "title": "금융권 에이전트 규율체계 착수",
+      "body_ko": "책임 귀속 기준 마련이 국내 금융권 에이전트 도입 속도를 좌우할 핵심 변수로 떠올랐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-ai-에이전트-책임-어디까지-금융위-.md",
+          "title": "AI 에이전트 책임 어디까지… 금융위 연구용역 착수"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-nh농협카드-ai-블록체인-결합-결제.md",
+          "title": "NH농협카드, AI·블록체인 결합 결제 실험…관건은 '상용화 연계'"
+        }
+      ]
+    },
+    {
+      "title": "에이전트발 인력 구조 재편",
+      "body_ko": "에이전트가 주니어 업무를 대체하면서 채용·육성 체계 재설계가 기업 과제가 됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-anthropic-has-nearly.md",
+          "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-disney-agrees-to-hir.md",
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce"
+        }
+      ]
+    },
+    {
+      "title": "AI 산출물 책임의 판례화",
+      "body_ko": "AI 답변을 운영자 발언으로 보는 판례가 쌓여 고객 대상 AI 서비스의 법무 부담이 커진다.",
+      "topics": [
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-two-german-courts-no.md",
+          "title": "Two German courts now hold Google liable for what its AI overviews say"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-always-on-always-lis.md",
+          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라 투자의 실현성 검증",
+      "body_ko": "저가 모델과 계획 과잉 분석이 겹쳐 컴퓨트 수요 전망을 보수적으로 재평가해야 한다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-10조달러-ai-투자-흔들-데이터센터.md",
+          "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-삼전닉스-월요일에-주가-어떡해요-딥시.md",
+          "title": "삼전닉스 월요일에 주가 어떡해요?…‘中딥시크 쇼크’ 또 온다는데"
+        }
+      ]
+    },
+    {
+      "title": "모델 조달의 출처 리스크",
+      "body_ko": "공공 금융기관의 중국산 모델 사용 지적으로 모델 원산지 점검이 조달 기본 항목이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
+          "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\""
+        }
+      ]
+    }
+  ]
+}
