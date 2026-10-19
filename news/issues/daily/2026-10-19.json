@@ -1,12 +1,12 @@
 {
   "date": "2026-10-19",
-  "updated_at": "2026-10-19T12:14:04.018909+09:00",
-  "run_id": "run_20261019_121404",
-  "summary_ko": "AI 투자 의문이 증시로 번진 가운데 금융권은 AI 책임·보안 체계 정비에 속도를 냈다.",
+  "updated_at": "2026-10-19T16:14:46.509630+09:00",
+  "run_id": "run_20261019_161446",
+  "summary_ko": "AI 투자 의문이 인프라 계약까지 흔드는 가운데 금융권은 보안·책임 통제를 조였다.",
   "issues": [
     {
-      "title": "금융 AI, 책임·보안 체계 정비 가속",
-      "summary_ko": "에이전트 규율과 보안 감독이 맞물려 금융 AI 도입의 통제 요건이 구체화되고 있다.",
+      "title": "금융 AI, 책임·보안 통제 강화",
+      "summary_ko": "규율 연구와 보안 감독 압박이 겹쳐 금융 AI 도입의 통제 요건이 구체화되고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -17,16 +17,6 @@
           "date": "2026-10-19",
           "file": "20261019-ai-에이전트-책임-어디까지-금융위-.md",
           "title": "AI 에이전트 책임 어디까지… 금융위 연구용역 착수"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-nh농협카드-ai-블록체인-결합-결제.md",
-          "title": "NH농협카드, AI·블록체인 결합 결제 실험…관건은 '상용화 연계'"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-핀다-핀테크-최초-저축은행-인수-눈앞.md",
-          "title": "핀다, 핀테크 최초 저축은행 인수 눈앞…AI 활용 비대면 영업"
         },
         {
           "date": "2026-10-19",
@@ -42,27 +32,31 @@
           "date": "2026-10-19",
           "file": "20261019-world-takes-on-ai-dr.md",
           "title": "World takes on AI-driven impersonations with new suite for banking and finance"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-은행-해킹-못-막고-검사도-늑장-금감.md",
+          "title": "은행 해킹 못 막고 검사도 늑장…금감원 '감독 부실' 책임론"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-bnk경남은행-업무-전반에-ai-활용.md",
+          "title": "BNK경남은행, 업무 전반에 AI 활용 늘린다…AI 크루 60명 선발"
         }
       ]
     },
     {
-      "title": "AI 투자 의문, 국내 증시 충격으로",
-      "summary_ko": "캐펙스 실효성 논란이 신용위험 우려로 번져 시장 변수로 굳어졌다.",
+      "title": "AI 투자 의문, 인프라 계약으로 번져",
+      "summary_ko": "시장 우려가 전력 병목과 맞물려 실제 데이터센터 계약 해지로 이어졌다.",
       "topics": [
-        "ai_industry",
         "ai_compute_energy",
-        "llm_models"
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-10-19",
           "file": "20261019-10조달러-ai-투자-흔들-데이터센터.md",
           "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-삼전닉스-월요일에-주가-어떡해요-딥시.md",
-          "title": "삼전닉스 월요일에 주가 어떡해요?…‘中딥시크 쇼크’ 또 온다는데"
         },
         {
           "date": "2026-10-19",
@@ -73,15 +67,51 @@
           "date": "2026-10-19",
           "file": "20261019-ls일렉트릭-빅테크에-1689억원-데.md",
           "title": "LS일렉트릭, 美 빅테크에 1689억원 데이터센터 배전반 공급"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-ipo-앞둔-엔스케일에-대형-악재-m.md",
+          "title": "IPO 앞둔 엔스케일에 대형 악재…MS, 영국 데이터센터 계약 철수"
+        },
+        {
+          "url": "https://www.etnews.com/20261019000330",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트가 인력 구조를 바꾸기 시작",
-      "summary_ko": "에이전트 대체와 인재 인수가 동시에 진행되며 AI 인력 전략이 양극화되고 있다.",
+      "title": "모델 공급사 갈아타기 본격화",
+      "summary_ko": "대형 고객의 이탈로 모델 시장이 멀티벤더 경쟁 구도로 재편되고 있다.",
       "topics": [
+        "llm_models",
         "ai_industry",
         "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
+          "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\""
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-앤트로픽-상위-5대-고객-레플릿도-오.md",
+          "title": "앤트로픽 ‘상위 5대 고객’ 레플릿도 오픈AI로…클로드 의존 줄여"
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-센드버드-업스테이지와-ai-에이전트-.md",
+          "title": "센드버드, 업스테이지와 AI 에이전트 상용화 협력"
+        }
+      ]
+    },
+    {
+      "title": "AI발 인력 재편과 사회적 보상",
+      "summary_ko": "주니어 대체와 영업 인력 확충이 엇갈리며 고용 충격 보상 논의도 시작됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -95,33 +125,14 @@
           "title": "Disney agrees to hire the majority of Character.AI’s workforce"
         },
         {
-          "url": "https://www.etnews.com/20261019000002",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "AI 출력·기기에 대한 법적 책임 확대",
-      "summary_ko": "AI 답변과 상시 녹음 기기 모두 운영자·사용자 책임으로 귀속되는 흐름이 굳어진다.",
-      "topics": [
-        "ai_policy",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
           "date": "2026-10-19",
-          "file": "20261019-two-german-courts-no.md",
-          "title": "Two German courts now hold Google liable for what its AI overviews say"
+          "file": "20261019-앤트로픽-지분-5-공익기금에-출연-a.md",
+          "title": "앤트로픽, 지분 5% 공익기금에 출연...AI 일자리 충격 대응 추진"
         },
         {
           "date": "2026-10-19",
-          "file": "20261019-always-on-always-lis.md",
-          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
-          "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\""
+          "file": "20261019-오픈ai-잇단-경영진-이탈-뒤-인력-.md",
+          "title": "오픈AI, 잇단 경영진 이탈 뒤 인력 보강…스페이스X·메타서 영입"
         }
       ]
     }
