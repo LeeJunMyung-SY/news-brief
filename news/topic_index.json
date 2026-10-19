@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-19T07:14:54+00:00",
+  "generated_at": "2026-10-19T23:14:04+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1131,
-      "latest_date": "2026-10-19"
+      "count": 1135,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1423,
-      "latest_date": "2026-10-19"
+      "count": 1429,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1447,
-      "latest_date": "2026-10-19"
+      "count": 1452,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3319,
-      "latest_date": "2026-10-19"
+      "count": 3327,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "physical_ai_robotics",
@@ -40,22 +40,22 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1009,
-      "latest_date": "2026-10-19"
+      "count": 1014,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 876,
-      "latest_date": "2026-10-19"
+      "count": 881,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 540,
-      "latest_date": "2026-10-19"
+      "count": 541,
+      "latest_date": "2026-10-20"
     },
     {
       "key": "ai_hardware",
@@ -95,6 +95,94 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-10-20",
+        "file": "20261020-fca-calls-for-discla.md",
+        "title": "FCA calls for disclaimers on AI financial advice",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#robo-advisor",
+          "#agentic-ai",
+          "#consumer-protection"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48604/fca-calls-for-disclaimers-on-ai-financial-advice?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-huntington-bank-part.md",
+        "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#partnership",
+          "#sme-banking",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+        "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'",
+        "importance": 8,
+        "tags": [
+          "#asset-management",
+          "#ai-adoption",
+          "#ai-fund",
+          "#monetization",
+          "#securities"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=676023"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-microsoft-says-ai-ag.md",
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "importance": 7,
+        "tags": [
+          "#agent-security",
+          "#enterprise-ai",
+          "#governance",
+          "#insider-threat"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-nvidia-launches-new-.md",
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "importance": 7,
+        "tags": [
+          "#open-weights",
+          "#model-release",
+          "#on-premise",
+          "#enterprise-ai",
+          "#ai-agents"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-advancing-coding-in-.md",
+        "title": "Advancing Coding in Low-Resource Programming Languages",
+        "importance": 6,
+        "tags": [
+          "#coding",
+          "#legacy-modernization",
+          "#cobol",
+          "#openai"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/low-resource-programming-languages"
+      },
       {
         "date": "2026-10-19",
         "file": "20261019-ai-에이전트-책임-어디까지-금융위-.md",
@@ -20801,6 +20889,64 @@
     ],
     "llm_models": [
       {
+        "date": "2026-10-20",
+        "file": "20261020-nvidia-launches-new-.md",
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "importance": 7,
+        "tags": [
+          "#open-weights",
+          "#model-release",
+          "#on-premise",
+          "#enterprise-ai",
+          "#ai-agents"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-미국-연방기관서-딥시크-퇴출-기반-기.md",
+        "title": "미국, 연방기관서 딥시크 퇴출…기반 기술 활용 외부 서비스도 포함",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#deepseek",
+          "#procurement",
+          "#model-provenance",
+          "#us-china"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216417"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-advancing-coding-in-.md",
+        "title": "Advancing Coding in Low-Resource Programming Languages",
+        "importance": 6,
+        "tags": [
+          "#coding",
+          "#legacy-modernization",
+          "#cobol",
+          "#openai"
+        ],
+        "source": "OpenAI Blog",
+        "url": "https://openai.com/index/low-resource-programming-languages"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-minimax-m3-1-flash-s.md",
+        "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#pricing",
+          "#china-ai",
+          "#coding"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/"
+      },
+      {
         "date": "2026-10-19",
         "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
         "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…'보안의식 허술'",
@@ -37140,6 +37286,80 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-10-20",
+        "file": "20261020-fca-calls-for-discla.md",
+        "title": "FCA calls for disclaimers on AI financial advice",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#robo-advisor",
+          "#agentic-ai",
+          "#consumer-protection"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48604/fca-calls-for-disclaimers-on-ai-financial-advice?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+        "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-security",
+          "#roi-case",
+          "#false-positive",
+          "#ai-adoption"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12179757"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+        "title": "이찬진 '해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로'(종합)",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#ai-security",
+          "#network-separation",
+          "#governance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261019146751002"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-microsoft-says-ai-ag.md",
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "importance": 7,
+        "tags": [
+          "#agent-security",
+          "#enterprise-ai",
+          "#governance",
+          "#insider-threat"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-미국-연방기관서-딥시크-퇴출-기반-기.md",
+        "title": "미국, 연방기관서 딥시크 퇴출…기반 기술 활용 외부 서비스도 포함",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#deepseek",
+          "#procurement",
+          "#model-provenance",
+          "#us-china"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216417"
+      },
       {
         "date": "2026-10-19",
         "file": "20261019-ai-에이전트-책임-어디까지-금융위-.md",
@@ -58076,6 +58296,120 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-10-20",
+        "file": "20261020-huntington-bank-part.md",
+        "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#partnership",
+          "#sme-banking",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-nvidia-launches-new-.md",
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "importance": 7,
+        "tags": [
+          "#open-weights",
+          "#model-release",
+          "#on-premise",
+          "#enterprise-ai",
+          "#ai-agents"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-the-neocloud-shakeou.md",
+        "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+        "importance": 7,
+        "tags": [
+          "#neocloud",
+          "#gpu-infrastructure",
+          "#credit-risk",
+          "#consolidation"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-amazon-is-taking-its.md",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "importance": 6,
+        "tags": [
+          "#aws",
+          "#custom-silicon",
+          "#pytorch",
+          "#nvidia-alternative"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-coreweave-8217-s-deb.md",
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "importance": 6,
+        "tags": [
+          "#coreweave",
+          "#private-credit",
+          "#credit-risk",
+          "#ai-bubble"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-tenstorrent-hits-6-2.md",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#ai-chips",
+          "#nvidia-alternative",
+          "#open-hardware"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-앰코-광주에-3조-투자-패키징-거점-.md",
+        "title": "앰코, 광주에 3조 투자 … 패키징 거점 육성",
+        "importance": 6,
+        "tags": [
+          "#advanced-packaging",
+          "#semiconductor",
+          "#investment",
+          "#korea"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12179847"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-코오롱베니트-제조-ax-사업-시동-이.md",
+        "title": "코오롱베니트, 제조 AX 사업 시동…이수화학 등 3개사에 AI 도입",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ax",
+          "#ai-adoption",
+          "#predictive-maintenance",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261019165340"
+      },
       {
         "date": "2026-10-19",
         "file": "20261019-anthropic-has-nearly.md",
@@ -113647,6 +113981,76 @@
     ],
     "ai_compute_energy": [
       {
+        "date": "2026-10-20",
+        "file": "20261020-the-neocloud-shakeou.md",
+        "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
+        "importance": 7,
+        "tags": [
+          "#neocloud",
+          "#gpu-infrastructure",
+          "#credit-risk",
+          "#consolidation"
+        ],
+        "source": "The Decoder",
+        "url": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-amazon-is-taking-its.md",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "importance": 6,
+        "tags": [
+          "#aws",
+          "#custom-silicon",
+          "#pytorch",
+          "#nvidia-alternative"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-coreweave-8217-s-deb.md",
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "importance": 6,
+        "tags": [
+          "#coreweave",
+          "#private-credit",
+          "#credit-risk",
+          "#ai-bubble"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-tenstorrent-hits-6-2.md",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#ai-chips",
+          "#nvidia-alternative",
+          "#open-hardware"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-앰코-광주에-3조-투자-패키징-거점-.md",
+        "title": "앰코, 광주에 3조 투자 … 패키징 거점 육성",
+        "importance": 6,
+        "tags": [
+          "#advanced-packaging",
+          "#semiconductor",
+          "#investment",
+          "#korea"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12179847"
+      },
+      {
         "date": "2026-10-19",
         "file": "20261019-10조달러-ai-투자-흔들-데이터센터.md",
         "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성",
@@ -128225,6 +128629,81 @@
     ],
     "금융회사 AI": [
       {
+        "date": "2026-10-20",
+        "file": "20261020-fca-calls-for-discla.md",
+        "title": "FCA calls for disclaimers on AI financial advice",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#robo-advisor",
+          "#agentic-ai",
+          "#consumer-protection"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48604/fca-calls-for-disclaimers-on-ai-financial-advice?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-huntington-bank-part.md",
+        "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system",
+        "importance": 8,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#partnership",
+          "#sme-banking",
+          "#enterprise-ai"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48601/huntington-bank-partners-google-cloud-for-ai-powered-small-business-operating-system?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+        "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#ai-security",
+          "#roi-case",
+          "#false-positive",
+          "#ai-adoption"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12179757"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+        "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'",
+        "importance": 8,
+        "tags": [
+          "#asset-management",
+          "#ai-adoption",
+          "#ai-fund",
+          "#monetization",
+          "#securities"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=676023"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+        "title": "이찬진 '해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로'(종합)",
+        "importance": 8,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#ai-security",
+          "#network-separation",
+          "#governance"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261019146751002"
+      },
+      {
         "date": "2026-10-19",
         "file": "20261019-ai-에이전트-책임-어디까지-금융위-.md",
         "title": "AI 에이전트 책임 어디까지… 금융위 연구용역 착수",
@@ -141125,6 +141604,20 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-10-20",
+        "file": "20261020-코오롱베니트-제조-ax-사업-시동-이.md",
+        "title": "코오롱베니트, 제조 AX 사업 시동…이수화학 등 3개사에 AI 도입",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ax",
+          "#ai-adoption",
+          "#predictive-maintenance",
+          "#government-program"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261019165340"
+      },
+      {
         "date": "2026-10-19",
         "file": "20261019-휴머노이드-가이드라인-마련-착수-내년.md",
         "title": "휴머노이드 가이드라인 마련 착수…내년 시범보급 등 확산 대응",
@@ -149900,6 +150393,53 @@
   "daily_issues": {
     "금융회사 AI": [
       {
+        "date": "2026-10-20",
+        "title": "금융 AI 보안, 경영진 책임으로",
+        "summary": "보안 사고 책임이 CEO까지 올라가며 AI 보안 도구의 실효성 검증이 과제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+            "title": "이찬진 \"해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로\"(종합)"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+            "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=676044",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-10-20",
+        "title": "금융 AI 상품화와 자문 규율 동시 진전",
+        "summary": "AI가 고객 상품으로 전면화되는 만큼 자문 고지·책임 요건도 빠르게 따라붙고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+            "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-huntington-bank-part.md",
+            "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-fca-calls-for-discla.md",
+            "title": "FCA calls for disclaimers on AI financial advice"
+          },
+          {
+            "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+            "title": ""
+          }
+        ]
+      },
+      {
         "date": "2026-10-19",
         "title": "금융 AI, 책임·보안 통제 강화",
         "summary": "규율 연구와 보안 감독 압박이 겹쳐 금융 AI 도입의 통제 요건이 구체화되고 있다.",
@@ -153824,6 +154364,73 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-10-20",
+        "title": "금융 AI 보안, 경영진 책임으로",
+        "summary": "보안 사고 책임이 CEO까지 올라가며 AI 보안 도구의 실효성 검증이 과제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+            "title": "이찬진 \"해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로\"(종합)"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+            "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=676044",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-10-20",
+        "title": "금융 AI 상품화와 자문 규율 동시 진전",
+        "summary": "AI가 고객 상품으로 전면화되는 만큼 자문 고지·책임 요건도 빠르게 따라붙고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+            "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-huntington-bank-part.md",
+            "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-fca-calls-for-discla.md",
+            "title": "FCA calls for disclaimers on AI financial advice"
+          },
+          {
+            "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-10-20",
+        "title": "에이전트, 보안 위협으로 재정의",
+        "summary": "자율 공격과 도구 해킹이 현실화돼 에이전트 권한·감사 통제가 도입 전제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-microsoft-says-ai-ag.md",
+            "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+          },
+          {
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+            "title": ""
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+            "title": ""
+          }
+        ]
+      },
       {
         "date": "2026-10-19",
         "title": "금융 AI, 책임·보안 통제 강화",
@@ -158405,6 +159012,52 @@
     ],
     "ai_agents": [
       {
+        "date": "2026-10-20",
+        "title": "금융 AI 상품화와 자문 규율 동시 진전",
+        "summary": "AI가 고객 상품으로 전면화되는 만큼 자문 고지·책임 요건도 빠르게 따라붙고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+            "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-huntington-bank-part.md",
+            "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-fca-calls-for-discla.md",
+            "title": "FCA calls for disclaimers on AI financial advice"
+          },
+          {
+            "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-10-20",
+        "title": "에이전트, 보안 위협으로 재정의",
+        "summary": "자율 공격과 도구 해킹이 현실화돼 에이전트 권한·감사 통제가 도입 전제가 됐다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-microsoft-says-ai-ag.md",
+            "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+          },
+          {
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+            "title": ""
+          },
+          {
+            "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+            "title": ""
+          }
+        ]
+      },
+      {
         "date": "2026-10-19",
         "title": "금융 AI, 책임·보안 통제 강화",
         "summary": "규율 연구와 보안 감독 압박이 겹쳐 금융 AI 도입의 통제 요건이 구체화되고 있다.",
@@ -162741,6 +163394,28 @@
     ],
     "ai_compute_energy": [
       {
+        "date": "2026-10-20",
+        "title": "네오클라우드 신용 경색",
+        "summary": "AI 인프라 부채 우려가 구조조정 전망으로 번져 컴퓨트 조달처 실사가 중요해졌다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-the-neocloud-shakeou.md",
+            "title": "The neocloud shakeout is coming, and Nvidia has the most to lose"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-coreweave-8217-s-deb.md",
+            "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-amazon-is-taking-its.md",
+            "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+          }
+        ]
+      },
+      {
         "date": "2026-10-19",
         "title": "AI 투자 의문, 인프라 계약으로 번져",
         "summary": "시장 우려가 전력 병목과 맞물려 실제 데이터센터 계약 해지로 이어졌다.",
@@ -165727,6 +166402,28 @@
       }
     ],
     "ai_industry": [
+      {
+        "date": "2026-10-20",
+        "title": "네오클라우드 신용 경색",
+        "summary": "AI 인프라 부채 우려가 구조조정 전망으로 번져 컴퓨트 조달처 실사가 중요해졌다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-the-neocloud-shakeou.md",
+            "title": "The neocloud shakeout is coming, and Nvidia has the most to lose"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-coreweave-8217-s-deb.md",
+            "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-amazon-is-taking-its.md",
+            "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+          }
+        ]
+      },
       {
         "date": "2026-10-19",
         "title": "AI 투자 의문, 인프라 계약으로 번져",

@@ -1,16 +1,16 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-19T16:14:46.509630+09:00",
-  "run_id": "run_20261019_161446",
-  "summary_ko": "금융 AI의 책임·보안 규율 정비와 AI 투자 실효성 검증이 주간 흐름을 이끌고 있다.",
+  "updated_at": "2026-10-20T08:13:55.650135+09:00",
+  "run_id": "run_20261020_081355",
+  "summary_ko": "금융 AI의 책임·보안 규율이 경영진 단위로 조여지고 AI 인프라는 신용 검증 국면에 들어섰다.",
   "issues": [
     {
-      "title": "금융권 AI 책임·보안 규율 착수",
-      "body_ko": "책임 귀속과 보안 실효성 검증이 국내 금융권 AI 도입 속도를 좌우할 변수가 됐다.",
+      "title": "금융권 AI 책임·보안 규율 강화",
+      "body_ko": "에이전트 책임 연구에 CEO 책임론까지 더해져 보안 통제가 금융 AI 추진의 선결 조건이 됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_policy"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -20,23 +20,8 @@
         },
         {
           "date": "2026-10-19",
-          "file": "20261019-nh농협카드-ai-블록체인-결합-결제.md",
-          "title": "NH농협카드, AI·블록체인 결합 결제 실험…관건은 '상용화 연계'"
-        },
-        {
-          "date": "2026-10-19",
           "file": "20261019-이찬진-ai-해킹-사고로-국민-심려-.md",
           "title": "이찬진 \"AI 해킹 사고로 국민 심려 커…보안 제도 보강, 예산 확대 유도\""
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-케이뱅크-ai-경영시스템-국제표준-획.md",
-          "title": "케이뱅크, AI 경영시스템 국제표준 획득"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-world-takes-on-ai-dr.md",
-          "title": "World takes on AI-driven impersonations with new suite for banking and finance"
         },
         {
           "date": "2026-10-19",
@@ -44,19 +29,28 @@
           "title": "은행 해킹 못 막고 검사도 늑장…금감원 '감독 부실' 책임론"
         },
         {
-          "date": "2026-10-19",
-          "file": "20261019-bnk경남은행-업무-전반에-ai-활용.md",
-          "title": "BNK경남은행, 업무 전반에 AI 활용 늘린다…AI 크루 60명 선발"
+          "date": "2026-10-20",
+          "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+          "title": "이찬진 \"해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로\"(종합)"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+          "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-fca-calls-for-discla.md",
+          "title": "FCA calls for disclaimers on AI financial advice"
         }
       ]
     },
     {
-      "title": "AI 투자 실효성 검증의 시장·계약 전이",
-      "body_ko": "신용위험 우려와 전력 병목이 겹쳐 인프라 계약 해지까지 나오며 컴퓨트 수요 재평가가 불가피하다.",
+      "title": "AI 인프라, 신용 리스크 국면 진입",
+      "body_ko": "투자 실효성 의문이 계약 해지와 채권 부실로 이어져 컴퓨트 공급처 재편이 불가피해졌다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry",
-        "llm_models"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -66,18 +60,77 @@
         },
         {
           "date": "2026-10-19",
-          "file": "20261019-삼전닉스-월요일에-주가-어떡해요-딥시.md",
-          "title": "삼전닉스 월요일에 주가 어떡해요?…‘中딥시크 쇼크’ 또 온다는데"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-코스피-바닥-근접-분석-증권가-반등-.md",
-          "title": "코스피 '바닥 근접' 분석…증권가 \"반등 여부 AI 신용위험 달려\""
-        },
-        {
-          "date": "2026-10-19",
           "file": "20261019-ipo-앞둔-엔스케일에-대형-악재-m.md",
           "title": "IPO 앞둔 엔스케일에 대형 악재…MS, 영국 데이터센터 계약 철수"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-the-neocloud-shakeou.md",
+          "title": "The neocloud shakeout is coming, and Nvidia has the most to lose"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-coreweave-8217-s-deb.md",
+          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제가 도입 전제로",
+      "body_ko": "자율 공격과 도구 해킹이 잇따라 에이전트를 내부자처럼 관리하는 체계가 표준이 되고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-20",
+          "file": "20261020-microsoft-says-ai-ag.md",
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 조달 기준의 재편",
+      "body_ko": "원산지 규제와 원가 경쟁, 온프레미스 대안이 겹쳐 멀티모델 조달이 기본값이 되고 있다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
+          "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\""
+        },
+        {
+          "date": "2026-10-19",
+          "file": "20261019-앤트로픽-상위-5대-고객-레플릿도-오.md",
+          "title": "앤트로픽 ‘상위 5대 고객’ 레플릿도 오픈AI로…클로드 의존 줄여"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-미국-연방기관서-딥시크-퇴출-기반-기.md",
+          "title": "미국, 연방기관서 딥시크 퇴출…기반 기술 활용 외부 서비스도 포함"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-nvidia-launches-new-.md",
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-minimax-m3-1-flash-s.md",
+          "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight"
         }
       ]
     },
@@ -104,56 +157,6 @@
           "date": "2026-10-19",
           "file": "20261019-앤트로픽-지분-5-공익기금에-출연-a.md",
           "title": "앤트로픽, 지분 5% 공익기금에 출연...AI 일자리 충격 대응 추진"
-        }
-      ]
-    },
-    {
-      "title": "모델 조달 기준의 재편",
-      "body_ko": "출처 리스크·원가·공급사 이탈이 겹쳐 멀티모델과 국산 대안 확보가 조달 기본값이 되고 있다.",
-      "topics": [
-        "llm_models",
-        "금융회사 AI",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-19",
-          "file": "20261019-339조-굴리는-국부펀드-사내ai-핵.md",
-          "title": "339조 굴리는 국부펀드, 사내AI 핵심은 중국산…\"보안의식 허술\""
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-ai픽-국산-ai-반도체부터-모델까지.md",
-          "title": "[AI픽] 국산 AI 반도체부터 모델까지…5개사, 통합 인프라 개발"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-앤트로픽-상위-5대-고객-레플릿도-오.md",
-          "title": "앤트로픽 ‘상위 5대 고객’ 레플릿도 오픈AI로…클로드 의존 줄여"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-센드버드-업스테이지와-ai-에이전트-.md",
-          "title": "센드버드, 업스테이지와 AI 에이전트 상용화 협력"
-        }
-      ]
-    },
-    {
-      "title": "AI 산출물 책임의 판례화",
-      "body_ko": "AI 답변을 운영자 발언으로 보는 판례가 쌓여 고객 대상 AI 서비스의 법무 부담이 커진다.",
-      "topics": [
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-19",
-          "file": "20261019-two-german-courts-no.md",
-          "title": "Two German courts now hold Google liable for what its AI overviews say"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-always-on-always-lis.md",
-          "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy"
         }
       ]
     }

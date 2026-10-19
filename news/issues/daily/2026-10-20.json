@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-20",
+  "updated_at": "2026-10-20T08:13:55.650135+09:00",
+  "run_id": "run_20261020_081355",
+  "summary_ko": "금융 AI 보안 책임이 경영진으로 향하고 에이전트 통제와 인프라 신용이 핵심 변수로 떠올랐다.",
+  "issues": [
+    {
+      "title": "금융 AI 보안, 경영진 책임으로",
+      "summary_ko": "보안 사고 책임이 CEO까지 올라가며 AI 보안 도구의 실효성 검증이 과제가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-20",
+          "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+          "title": "이찬진 \"해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로\"(종합)"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+          "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=676044",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI 상품화와 자문 규율 동시 진전",
+      "summary_ko": "AI가 고객 상품으로 전면화되는 만큼 자문 고지·책임 요건도 빠르게 따라붙고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-20",
+          "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+          "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-huntington-bank-part.md",
+          "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-fca-calls-for-discla.md",
+          "title": "FCA calls for disclaimers on AI financial advice"
+        },
+        {
+          "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트, 보안 위협으로 재정의",
+      "summary_ko": "자율 공격과 도구 해킹이 현실화돼 에이전트 권한·감사 통제가 도입 전제가 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-20",
+          "file": "20261020-microsoft-says-ai-ag.md",
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "네오클라우드 신용 경색",
+      "summary_ko": "AI 인프라 부채 우려가 구조조정 전망으로 번져 컴퓨트 조달처 실사가 중요해졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-20",
+          "file": "20261020-the-neocloud-shakeou.md",
+          "title": "The neocloud shakeout is coming, and Nvidia has the most to lose"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-coreweave-8217-s-deb.md",
+          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-amazon-is-taking-its.md",
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+        }
+      ]
+    }
+  ]
+}
