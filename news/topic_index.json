@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T03:17:08+00:00",
+  "generated_at": "2026-10-20T07:12:40+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1430,
+      "count": 1433,
       "latest_date": "2026-10-20"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1453,
+      "count": 1456,
       "latest_date": "2026-10-20"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3334,
+      "count": 3340,
       "latest_date": "2026-10-20"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1016,
+      "count": 1019,
       "latest_date": "2026-10-20"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 884,
+      "count": 889,
       "latest_date": "2026-10-20"
     },
     {
@@ -185,6 +185,21 @@
       },
       {
         "date": "2026-10-20",
+        "file": "20261020-한국-금융사-해킹-ai-도구-일본-기.md",
+        "title": "한국 금융사 해킹 中 AI 도구, 일본 기업도 공격",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#ai-hacking",
+          "#finance",
+          "#agent-security",
+          "#japan"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261020152101"
+      },
+      {
+        "date": "2026-10-20",
         "file": "20261020-advancing-coding-in-.md",
         "title": "Advancing Coding in Low-Resource Programming Languages",
         "importance": 6,
@@ -196,6 +211,35 @@
         ],
         "source": "OpenAI Blog",
         "url": "https://openai.com/index/low-resource-programming-languages"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-세일즈포스-파트너-fde-국내-도입-.md",
+        "title": "세일즈포스, '파트너 FDE' 국내 도입…AI 에이전트 전문인력 육성",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#partnership",
+          "#fde",
+          "#talent",
+          "#agent-deployment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261020000342"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-옴니사-기업-ai-사용-작업-통제하는.md",
+        "title": "옴니사, 기업 AI 사용·작업 통제하는 '엘라라' 공개…보안 관리 강화",
+        "importance": 6,
+        "tags": [
+          "#ai-governance",
+          "#agent-security",
+          "#enterprise-ai",
+          "#product-launch"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261020140912"
       },
       {
         "date": "2026-10-19",
@@ -37376,6 +37420,21 @@
       },
       {
         "date": "2026-10-20",
+        "file": "20261020-ai-해킹-대비-점검서-전금-온투업-.md",
+        "title": "AI 해킹 대비 점검서 전금·온투업 71곳 ‘미흡’…보안 사각지대 우려",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#ai-hacking",
+          "#security-audit",
+          "#fintech"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12180480"
+      },
+      {
+        "date": "2026-10-20",
         "file": "20261020-microsoft-says-ai-ag.md",
         "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
         "importance": 7,
@@ -37402,6 +37461,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216417"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-한국-금융사-해킹-ai-도구-일본-기.md",
+        "title": "한국 금융사 해킹 中 AI 도구, 일본 기업도 공격",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#ai-hacking",
+          "#finance",
+          "#agent-security",
+          "#japan"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261020152101"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-ok저축은행-보안-구멍에-500여명-.md",
+        "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#safety-incident",
+          "#accountability",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=676113"
       },
       {
         "date": "2026-10-20",
@@ -58430,6 +58519,20 @@
       },
       {
         "date": "2026-10-20",
+        "file": "20261020-동양생명-보험-가입-지급까지-ai-도.md",
+        "title": "동양생명, 보험 가입·지급까지 AI 도입…보장성 상품 확대",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#finance",
+          "#process-automation"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026102024861"
+      },
+      {
+        "date": "2026-10-20",
         "file": "20261020-드림랩스-1200억원-시드-투자-유치.md",
         "title": "드림랩스, 1200억원 시드 투자 유치…범용 로봇 AI 모델 공개",
         "importance": 7,
@@ -58441,6 +58544,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261020000178"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-텐스토렌트-시리즈-e-15억-달러-유.md",
+        "title": "텐스토렌트, 시리즈 E 15억 달러 유치…기업가치 62억 달러",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#ai-chip",
+          "#risc-v",
+          "#compute"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261020000336"
       },
       {
         "date": "2026-10-20",
@@ -58497,6 +58614,50 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=676057"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-노무라증권-메모리-공급-부족-2028.md",
+        "title": "노무라증권 '메모리 공급 부족 2028년까지…삼전닉스 '매수''",
+        "importance": 6,
+        "tags": [
+          "#memory",
+          "#semiconductor",
+          "#market-outlook",
+          "#hbm"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261020111800008"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-레노버-로민-ai-개인정보-비식별화-.md",
+        "title": "레노버-로민, AI 개인정보 비식별화 솔루션 출시…금융·공공 시장 공략",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#on-premise",
+          "#privacy",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261020140046"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-세일즈포스-파트너-fde-국내-도입-.md",
+        "title": "세일즈포스, '파트너 FDE' 국내 도입…AI 에이전트 전문인력 육성",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#partnership",
+          "#fde",
+          "#talent",
+          "#agent-deployment"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261020000342"
       },
       {
         "date": "2026-10-20",
@@ -58567,6 +58728,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=676082"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-하루-오르더니-다시-와르르-코스피-5.md",
+        "title": "하루 오르더니 다시 와르르…코스피 5550선으로 밀렸다",
+        "importance": 6,
+        "tags": [
+          "#market",
+          "#ai-bubble",
+          "#semiconductor",
+          "#kospi"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12180625"
       },
       {
         "date": "2026-10-19",
@@ -114183,6 +114358,20 @@
       },
       {
         "date": "2026-10-20",
+        "file": "20261020-텐스토렌트-시리즈-e-15억-달러-유.md",
+        "title": "텐스토렌트, 시리즈 E 15억 달러 유치…기업가치 62억 달러",
+        "importance": 7,
+        "tags": [
+          "#investment",
+          "#ai-chip",
+          "#risc-v",
+          "#compute"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261020000336"
+      },
+      {
+        "date": "2026-10-20",
         "file": "20261020-amazon-is-taking-its.md",
         "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
         "importance": 6,
@@ -114225,6 +114414,20 @@
       },
       {
         "date": "2026-10-20",
+        "file": "20261020-노무라증권-메모리-공급-부족-2028.md",
+        "title": "노무라증권 '메모리 공급 부족 2028년까지…삼전닉스 '매수''",
+        "importance": 6,
+        "tags": [
+          "#memory",
+          "#semiconductor",
+          "#market-outlook",
+          "#hbm"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261020111800008"
+      },
+      {
+        "date": "2026-10-20",
         "file": "20261020-앰코-광주에-3조-투자-패키징-거점-.md",
         "title": "앰코, 광주에 3조 투자 … 패키징 거점 육성",
         "importance": 6,
@@ -114250,6 +114453,20 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12180402"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-하루-오르더니-다시-와르르-코스피-5.md",
+        "title": "하루 오르더니 다시 와르르…코스피 5550선으로 밀렸다",
+        "importance": 6,
+        "tags": [
+          "#market",
+          "#ai-bubble",
+          "#semiconductor",
+          "#kospi"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12180625"
       },
       {
         "date": "2026-10-19",
@@ -128921,6 +129138,21 @@
       },
       {
         "date": "2026-10-20",
+        "file": "20261020-ai-해킹-대비-점검서-전금-온투업-.md",
+        "title": "AI 해킹 대비 점검서 전금·온투업 71곳 ‘미흡’…보안 사각지대 우려",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#ai-hacking",
+          "#security-audit",
+          "#fintech"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12180480"
+      },
+      {
+        "date": "2026-10-20",
         "file": "20261020-nh농협은행-고객용-ai-에이전트-구.md",
         "title": "NH농협은행, 고객용 AI 에이전트 구축…'자산관리 서비스 제공'",
         "importance": 7,
@@ -128932,6 +129164,65 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261020055400002"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-동양생명-보험-가입-지급까지-ai-도.md",
+        "title": "동양생명, 보험 가입·지급까지 AI 도입…보장성 상품 확대",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#insurance",
+          "#finance",
+          "#process-automation"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026102024861"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-한국-금융사-해킹-ai-도구-일본-기.md",
+        "title": "한국 금융사 해킹 中 AI 도구, 일본 기업도 공격",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#ai-hacking",
+          "#finance",
+          "#agent-security",
+          "#japan"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261020152101"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-ok저축은행-보안-구멍에-500여명-.md",
+        "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#safety-incident",
+          "#accountability",
+          "#regulation"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=676113"
+      },
+      {
+        "date": "2026-10-20",
+        "file": "20261020-레노버-로민-ai-개인정보-비식별화-.md",
+        "title": "레노버-로민, AI 개인정보 비식별화 솔루션 출시…금융·공공 시장 공략",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#on-premise",
+          "#privacy",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261020140046"
       },
       {
         "date": "2026-10-20",
@@ -150681,7 +150972,7 @@
       {
         "date": "2026-10-20",
         "title": "금융 AI 보안, 경영진 책임으로",
-        "summary": "보안 사고 책임이 CEO까지 올라가며 AI 보안 도구의 실효성 검증이 과제가 됐다.",
+        "summary": "국경 넘은 AI 공격이 중소 금융사의 보안 격차를 CEO 책임 문제로 키웠다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -150692,13 +150983,28 @@
             "date": "2026-10-20",
             "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
             "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-한국-금융사-해킹-ai-도구-일본-기.md",
+            "title": "한국 금융사 해킹 中 AI 도구, 일본 기업도 공격"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-ai-해킹-대비-점검서-전금-온투업-.md",
+            "title": "AI 해킹 대비 점검서 전금·온투업 71곳 ‘미흡’…보안 사각지대 우려"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-ok저축은행-보안-구멍에-500여명-.md",
+            "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나"
           }
         ]
       },
       {
         "date": "2026-10-20",
-        "title": "금융 AI, 고객 채널·지분 투자로 확장",
-        "summary": "AI가 고객 서비스와 공급사 지분으로 깊이 내재화되며 자문 규율도 함께 붙고 있다.",
+        "title": "금융 AI, 고객 채널·핵심 업무로 확장",
+        "summary": "AI가 고객 채널·공급사 지분·보험 심사까지 금융 핵심부로 내재화되고 있다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -150724,6 +151030,11 @@
             "date": "2026-10-20",
             "file": "20261020-빗썸-ai-출시-47일-만에-이용자-.md",
             "title": "빗썸 AI, 출시 47일 만에 이용자 50만명 넘어"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-동양생명-보험-가입-지급까지-ai-도.md",
+            "title": "동양생명, 보험 가입·지급까지 AI 도입…보장성 상품 확대"
           }
         ]
       },
@@ -154655,7 +154966,7 @@
       {
         "date": "2026-10-20",
         "title": "금융 AI 보안, 경영진 책임으로",
-        "summary": "보안 사고 책임이 CEO까지 올라가며 AI 보안 도구의 실효성 검증이 과제가 됐다.",
+        "summary": "국경 넘은 AI 공격이 중소 금융사의 보안 격차를 CEO 책임 문제로 키웠다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -154666,6 +154977,21 @@
             "date": "2026-10-20",
             "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
             "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-한국-금융사-해킹-ai-도구-일본-기.md",
+            "title": "한국 금융사 해킹 中 AI 도구, 일본 기업도 공격"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-ai-해킹-대비-점검서-전금-온투업-.md",
+            "title": "AI 해킹 대비 점검서 전금·온투업 71곳 ‘미흡’…보안 사각지대 우려"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-ok저축은행-보안-구멍에-500여명-.md",
+            "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나"
           }
         ]
       },
@@ -159251,8 +159577,40 @@
     "ai_agents": [
       {
         "date": "2026-10-20",
-        "title": "금융 AI, 고객 채널·지분 투자로 확장",
-        "summary": "AI가 고객 서비스와 공급사 지분으로 깊이 내재화되며 자문 규율도 함께 붙고 있다.",
+        "title": "금융 AI 보안, 경영진 책임으로",
+        "summary": "국경 넘은 AI 공격이 중소 금융사의 보안 격차를 CEO 책임 문제로 키웠다.",
+        "articles": [
+          {
+            "date": "2026-10-20",
+            "file": "20261020-이찬진-해킹때-ceo-책임-강화-망분.md",
+            "title": "이찬진 \"해킹때 CEO 책임 강화...망분리규제 완화는 단계적으로\"(종합)"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
+            "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-한국-금융사-해킹-ai-도구-일본-기.md",
+            "title": "한국 금융사 해킹 中 AI 도구, 일본 기업도 공격"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-ai-해킹-대비-점검서-전금-온투업-.md",
+            "title": "AI 해킹 대비 점검서 전금·온투업 71곳 ‘미흡’…보안 사각지대 우려"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-ok저축은행-보안-구멍에-500여명-.md",
+            "title": "OK저축은행, 보안 구멍에 500여명 털렸다…정길호 책임론 번지나"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-20",
+        "title": "금융 AI, 고객 채널·핵심 업무로 확장",
+        "summary": "AI가 고객 채널·공급사 지분·보험 심사까지 금융 핵심부로 내재화되고 있다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -159278,6 +159636,11 @@
             "date": "2026-10-20",
             "file": "20261020-빗썸-ai-출시-47일-만에-이용자-.md",
             "title": "빗썸 AI, 출시 47일 만에 이용자 50만명 넘어"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-동양생명-보험-가입-지급까지-ai-도.md",
+            "title": "동양생명, 보험 가입·지급까지 AI 도입…보장성 상품 확대"
           }
         ]
       },
@@ -163619,8 +163982,8 @@
     "ai_industry": [
       {
         "date": "2026-10-20",
-        "title": "금융 AI, 고객 채널·지분 투자로 확장",
-        "summary": "AI가 고객 서비스와 공급사 지분으로 깊이 내재화되며 자문 규율도 함께 붙고 있다.",
+        "title": "금융 AI, 고객 채널·핵심 업무로 확장",
+        "summary": "AI가 고객 채널·공급사 지분·보험 심사까지 금융 핵심부로 내재화되고 있다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -163646,13 +164009,18 @@
             "date": "2026-10-20",
             "file": "20261020-빗썸-ai-출시-47일-만에-이용자-.md",
             "title": "빗썸 AI, 출시 47일 만에 이용자 50만명 넘어"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-동양생명-보험-가입-지급까지-ai-도.md",
+            "title": "동양생명, 보험 가입·지급까지 AI 도입…보장성 상품 확대"
           }
         ]
       },
       {
         "date": "2026-10-20",
-        "title": "AI 인프라 신용 우려, 국내로 전이",
-        "summary": "네오클라우드 부채 우려가 국내 증시·신규 상장주로 번지며 앵커 계약 의존이 드러났다.",
+        "title": "AI 인프라 불안, 증시 급락으로",
+        "summary": "부채 우려가 증시를 흔들었지만 메모리·대체칩 수요 낙관이 맞서 옥석 가리기 국면이다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -163673,6 +164041,21 @@
             "date": "2026-10-20",
             "file": "20261020-nscale-and-anthropic.md",
             "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-하루-오르더니-다시-와르르-코스피-5.md",
+            "title": "하루 오르더니 다시 와르르…코스피 5550선으로 밀렸다"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-노무라증권-메모리-공급-부족-2028.md",
+            "title": "노무라증권 \"메모리 공급 부족 2028년까지…삼전닉스 '매수'\""
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-텐스토렌트-시리즈-e-15억-달러-유.md",
+            "title": "텐스토렌트, 시리즈 E 15억 달러 유치…기업가치 62억 달러"
           },
           {
             "url": "https://www.yna.co.kr/view/AKR20261020083200008",
@@ -170050,8 +170433,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-20",
-        "title": "AI 인프라 신용 우려, 국내로 전이",
-        "summary": "네오클라우드 부채 우려가 국내 증시·신규 상장주로 번지며 앵커 계약 의존이 드러났다.",
+        "title": "AI 인프라 불안, 증시 급락으로",
+        "summary": "부채 우려가 증시를 흔들었지만 메모리·대체칩 수요 낙관이 맞서 옥석 가리기 국면이다.",
         "articles": [
           {
             "date": "2026-10-20",
@@ -170072,6 +170455,21 @@
             "date": "2026-10-20",
             "file": "20261020-nscale-and-anthropic.md",
             "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-하루-오르더니-다시-와르르-코스피-5.md",
+            "title": "하루 오르더니 다시 와르르…코스피 5550선으로 밀렸다"
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-노무라증권-메모리-공급-부족-2028.md",
+            "title": "노무라증권 \"메모리 공급 부족 2028년까지…삼전닉스 '매수'\""
+          },
+          {
+            "date": "2026-10-20",
+            "file": "20261020-텐스토렌트-시리즈-e-15억-달러-유.md",
+            "title": "텐스토렌트, 시리즈 E 15억 달러 유치…기업가치 62억 달러"
           },
           {
             "url": "https://www.yna.co.kr/view/AKR20261020083200008",
