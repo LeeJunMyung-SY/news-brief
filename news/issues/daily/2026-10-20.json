@@ -1,8 +1,8 @@
 {
   "date": "2026-10-20",
-  "updated_at": "2026-10-20T08:13:55.650135+09:00",
-  "run_id": "run_20261020_081355",
-  "summary_ko": "금융 AI 보안 책임이 경영진으로 향하고 에이전트 통제와 인프라 신용이 핵심 변수로 떠올랐다.",
+  "updated_at": "2026-10-20T12:16:59.870270+09:00",
+  "run_id": "run_20261020_121659",
+  "summary_ko": "금융사가 AI를 고객 채널·지분으로 내재화하는 사이 인프라 부채 우려는 국내 시장으로 번졌다.",
   "issues": [
     {
       "title": "금융 AI 보안, 경영진 책임으로",
@@ -21,20 +21,16 @@
           "date": "2026-10-20",
           "file": "20261020-단독-ai으로-ai해킹-막겠다지만-정.md",
           "title": "[단독] AI으로 AI해킹 막겠다지만…정상 코드조차 ‘위험’ 판단"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676044",
-          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI 상품화와 자문 규율 동시 진전",
-      "summary_ko": "AI가 고객 상품으로 전면화되는 만큼 자문 고지·책임 요건도 빠르게 따라붙고 있다.",
+      "title": "금융 AI, 고객 채널·지분 투자로 확장",
+      "summary_ko": "AI가 고객 서비스와 공급사 지분으로 깊이 내재화되며 자문 규율도 함께 붙고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_policy"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -44,46 +40,29 @@
         },
         {
           "date": "2026-10-20",
-          "file": "20261020-huntington-bank-part.md",
-          "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
-        },
-        {
-          "date": "2026-10-20",
           "file": "20261020-fca-calls-for-discla.md",
           "title": "FCA calls for disclaimers on AI financial advice"
         },
         {
-          "url": "https://the-decoder.com/stripe-says-ai-agent-purchases-are-adding-up-but-it-wont-share-the-numbers/",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "에이전트, 보안 위협으로 재정의",
-      "summary_ko": "자율 공격과 도구 해킹이 현실화돼 에이전트 권한·감사 통제가 도입 전제가 됐다.",
-      "topics": [
-        "ai_agents",
-        "ai_policy"
-      ],
-      "articles": [
+          "date": "2026-10-20",
+          "file": "20261020-jb금융-업스테이지에-400억-베팅-.md",
+          "title": "JB금융, 업스테이지에 400억 베팅…‘일하는 방식’ 바꾼다"
+        },
         {
           "date": "2026-10-20",
-          "file": "20261020-microsoft-says-ai-ag.md",
-          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+          "file": "20261020-nh농협은행-고객용-ai-에이전트-구.md",
+          "title": "NH농협은행, 고객용 AI 에이전트 구축…\"자산관리 서비스 제공\""
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "title": ""
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-          "title": ""
+          "date": "2026-10-20",
+          "file": "20261020-빗썸-ai-출시-47일-만에-이용자-.md",
+          "title": "빗썸 AI, 출시 47일 만에 이용자 50만명 넘어"
         }
       ]
     },
     {
-      "title": "네오클라우드 신용 경색",
-      "summary_ko": "AI 인프라 부채 우려가 구조조정 전망으로 번져 컴퓨트 조달처 실사가 중요해졌다.",
+      "title": "AI 인프라 신용 우려, 국내로 전이",
+      "summary_ko": "네오클라우드 부채 우려가 국내 증시·신규 상장주로 번지며 앵커 계약 의존이 드러났다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -101,8 +80,43 @@
         },
         {
           "date": "2026-10-20",
-          "file": "20261020-amazon-is-taking-its.md",
-          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+          "file": "20261020-엘리스-상장-첫날-26-폭락-코어위브.md",
+          "title": "엘리스, 상장 첫날 26% 폭락…코어위브 사태 악재 됐나"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-nscale-and-anthropic.md",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261020083200008",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI, 사업성 검증 국면",
+      "summary_ko": "유료 수요 확인과 화물 실증, 로봇 두뇌 투자가 겹쳐 상용화 판단 근거가 쌓이고 있다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-20",
+          "file": "20261020-공짜-끝나도-더-탔다-카카오t로-부른.md",
+          "title": "공짜 끝나도 더 탔다…카카오T로 부른 자율주행 택시 탑승 48% '쑥'"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-판-커지는-자율주행-화물운송-타타대우.md",
+          "title": "판 커지는 ‘자율주행 화물운송’...타타대우 이어 현대차 합세"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-드림랩스-1200억원-시드-투자-유치.md",
+          "title": "드림랩스, 1200억원 시드 투자 유치…범용 로봇 AI 모델 공개"
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-20T08:13:55.650135+09:00",
-  "run_id": "run_20261020_081355",
-  "summary_ko": "금융 AI의 책임·보안 규율이 경영진 단위로 조여지고 AI 인프라는 신용 검증 국면에 들어섰다.",
+  "updated_at": "2026-10-20T12:16:59.870270+09:00",
+  "run_id": "run_20261020_121659",
+  "summary_ko": "금융 AI는 책임 규율과 고객 채널 확장을 동시에 겪고, AI 인프라는 신용 검증 국면에 들어섰다.",
   "issues": [
     {
       "title": "금융권 AI 책임·보안 규율 강화",
@@ -46,8 +46,49 @@
       ]
     },
     {
+      "title": "금융 AI, 고객 채널·지분으로 내재화",
+      "body_ko": "고객용 에이전트와 공급사 지분 투자가 이어져 금융 AI가 내부 도구에서 사업 자산으로 격상되고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-19",
+          "file": "20261019-bnk경남은행-업무-전반에-ai-활용.md",
+          "title": "BNK경남은행, 업무 전반에 AI 활용 늘린다…AI 크루 60명 선발"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-마이다스-ai펀드-잔혹사-끊을까-국민.md",
+          "title": "마이다스, AI펀드 잔혹사 끊을까…국민연금이 주목한 '차별성'"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-huntington-bank-part.md",
+          "title": "Huntington Bank partners Google Cloud for AI-powered small business operating system"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-jb금융-업스테이지에-400억-베팅-.md",
+          "title": "JB금융, 업스테이지에 400억 베팅…‘일하는 방식’ 바꾼다"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-nh농협은행-고객용-ai-에이전트-구.md",
+          "title": "NH농협은행, 고객용 AI 에이전트 구축…\"자산관리 서비스 제공\""
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-빗썸-ai-출시-47일-만에-이용자-.md",
+          "title": "빗썸 AI, 출시 47일 만에 이용자 50만명 넘어"
+        }
+      ]
+    },
+    {
       "title": "AI 인프라, 신용 리스크 국면 진입",
-      "body_ko": "투자 실효성 의문이 계약 해지와 채권 부실로 이어져 컴퓨트 공급처 재편이 불가피해졌다.",
+      "body_ko": "계약 철수와 채권 부실 우려가 국내 시장까지 번져 컴퓨트 공급처의 신용 실사가 필수가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -72,6 +113,16 @@
           "date": "2026-10-20",
           "file": "20261020-coreweave-8217-s-deb.md",
           "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-nscale-and-anthropic.md",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal"
+        },
+        {
+          "date": "2026-10-20",
+          "file": "20261020-엘리스-상장-첫날-26-폭락-코어위브.md",
+          "title": "엘리스, 상장 첫날 26% 폭락…코어위브 사태 악재 됐나"
         }
       ]
     },
@@ -87,20 +138,12 @@
           "date": "2026-10-20",
           "file": "20261020-microsoft-says-ai-ag.md",
           "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216406",
-          "title": ""
         }
       ]
     },
     {
       "title": "모델 조달 기준의 재편",
-      "body_ko": "원산지 규제와 원가 경쟁, 온프레미스 대안이 겹쳐 멀티모델 조달이 기본값이 되고 있다.",
+      "body_ko": "원산지 규제와 원가 경쟁, 짧아진 교체 주기가 겹쳐 멀티모델 조달이 기본값이 되고 있다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -124,39 +167,13 @@
         },
         {
           "date": "2026-10-20",
-          "file": "20261020-nvidia-launches-new-.md",
-          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs"
+          "file": "20261020-minimax-m3-1-flash-s.md",
+          "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight"
         },
         {
           "date": "2026-10-20",
-          "file": "20261020-minimax-m3-1-flash-s.md",
-          "title": "MiniMax M3.1 Flash shows China's AI price race has no floor in sight"
-        }
-      ]
-    },
-    {
-      "title": "에이전트발 인력 구조 재편",
-      "body_ko": "주니어 대체와 고용 충격 보상 논의가 함께 나와 채용·육성 체계 재설계가 기업 과제가 됐다.",
-      "topics": [
-        "ai_industry",
-        "ai_agents",
-        "ai_policy"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-19",
-          "file": "20261019-anthropic-has-nearly.md",
-          "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-disney-agrees-to-hir.md",
-          "title": "Disney agrees to hire the majority of Character.AI’s workforce"
-        },
-        {
-          "date": "2026-10-19",
-          "file": "20261019-앤트로픽-지분-5-공익기금에-출연-a.md",
-          "title": "앤트로픽, 지분 5% 공익기금에 출연...AI 일자리 충격 대응 추진"
+          "file": "20261020-앤트로픽-숨은-의도-읽는-새-모델-준.md",
+          "title": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고"
         }
       ]
     }
