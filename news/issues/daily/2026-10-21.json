@@ -1,8 +1,8 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T08:16:39.659138+09:00",
-  "run_id": "run_20261021_081639",
-  "summary_ko": "에이전트가 금융 실무에 들어온 날, 모델사의 손실 구조도 드러났다.",
+  "updated_at": "2026-10-21T12:21:38.999948+09:00",
+  "run_id": "run_20261021_122138",
+  "summary_ko": "에이전트가 금융 실무에 들어온 날, 모델사의 컴퓨트 부채와 수익 구조가 드러났다.",
   "issues": [
     {
       "title": "에이전트, 금융 결제·조사 실무로",
@@ -44,12 +44,12 @@
       ]
     },
     {
-      "title": "모델사 수익성, 시험대에",
-      "summary_ko": "매출 급증에도 컴퓨트 비용이 손실을 키워 모델 가격 지속성이 의문이다.",
+      "title": "모델사, 컴퓨트 부채와 버티컬 확장",
+      "summary_ko": "취소 불가 컴퓨트 부채가 모델 가격을 묶는 사이 산업 특화 인수로 수익원을 찾고 있다.",
       "topics": [
         "ai_industry",
-        "llm_models",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -61,6 +61,20 @@
           "date": "2026-10-21",
           "file": "20261021-anthropic-s-cloud-pa.md",
           "title": "Anthropic’s cloud partnerships are getting messy"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ai-고속도로-앤트로픽-ai-인프라-.md",
+          "title": "[AI 고속도로] 앤트로픽, AI 인프라 계약 최대 7500억 달러…컴퓨팅 확보 부담 가중"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ai는-지금-오픈ai-신약-개발-속도.md",
+          "title": "[AI는 지금] 오픈AI, 신약 개발 속도 높인다…오케스트라 바이오 인수"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610214923i",
+          "title": ""
         },
         {
           "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
@@ -82,10 +96,6 @@
           "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려"
         },
         {
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
-          "title": ""
-        },
-        {
           "date": "2026-10-21",
           "file": "20261021-미-국방차관-ai-기업-협조-안-하면.md",
           "title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\""
@@ -96,6 +106,10 @@
           "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed"
         },
         {
+          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+          "title": ""
+        },
+        {
           "url": "https://www.bloter.net/news/articleView.html?idxno=676181",
           "title": ""
         }
@@ -103,20 +117,12 @@
     },
     {
       "title": "AI 인프라, 수익성으로 옥석 가리기",
-      "summary_ko": "적자 인프라는 외면받고 흑자 기업과 탈엔비디아 경로에 자금이 몰린다.",
+      "summary_ko": "적자 인프라는 외면받는 반면 전력 설비·서버 실적이 수요를 입증해 선별 투자가 굳어진다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
       ],
       "articles": [
-        {
-          "url": "https://www.etnews.com/20261021000010",
-          "title": ""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261020175204",
-          "title": ""
-        },
         {
           "date": "2026-10-21",
           "file": "20261021-hsbc-ceo-warns-the-a.md",
@@ -131,6 +137,32 @@
           "date": "2026-10-21",
           "file": "20261021-딥시크-플래그십-모델-사전학습에-화웨.md",
           "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ls일렉트릭-3분기-역대-최대-영업익.md",
+          "title": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261021024500008",
+          "title": ""
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-lng-직거래-막더니-전력망-규제까지.md",
+          "title": "\"LNG 직거래 막더니 전력망 규제까지\"...AIDC 투자 차질 우려"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026102155386",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20261021000010",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261020175204",
+          "title": ""
         }
       ]
     }

@@ -1,8 +1,8 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-21T08:16:39.659138+09:00",
-  "run_id": "run_20261021_081639",
-  "summary_ko": "금융 AI는 보안 책임 속에 에이전트 실무로 나아가고, AI 산업은 수익성 검증 국면에 섰다.",
+  "updated_at": "2026-10-21T12:21:38.999948+09:00",
+  "run_id": "run_20261021_122138",
+  "summary_ko": "금융 AI는 보안 책임 속에 에이전트 실무로 나아가고, AI 산업은 컴퓨트 부채와 수익성 검증 국면에 섰다.",
   "issues": [
     {
       "title": "금융권 AI 책임·보안 규율 강화",
@@ -60,7 +60,7 @@
     },
     {
       "title": "금융 AI, 채널을 넘어 실무·경영으로",
-      "body_ko": "고객 에이전트에서 결제·범죄조사·자본관리로 확장되며 금융 AI가 핵심 업무에 내재화되고 있다.",
+      "body_ko": "고객 에이전트에서 결제·범죄조사·자본관리·브랜드 콘텐츠로 확장되며 금융 AI가 핵심 업무와 고객 접점에 내재화되고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -110,12 +110,21 @@
         {
           "url": "https://www.mk.co.kr/news/economy/12180817",
           "title": ""
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-삼성증권-ai걸그룹-돌풍-데뷔-한-달.md",
+          "title": "삼성증권 AI걸그룹 돌풍…데뷔 한 달만에 뮤비 조회수 250만회 돌파"
+        },
+        {
+          "url": "https://www.etnews.com/20261021000181",
+          "title": ""
         }
       ]
     },
     {
       "title": "AI 산업, 신용·수익성 검증 국면",
-      "body_ko": "인프라 부채 우려와 모델사 손실 공개가 겹쳐 수익성을 기준으로 한 옥석 가리기가 시작됐다.",
+      "body_ko": "인프라 부채 우려와 모델사의 손실·컴퓨트 부채 공개가 겹쳐 수익성과 버티컬 수익원을 기준으로 한 옥석 가리기가 시작됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -153,6 +162,11 @@
           "title": "앤트로픽, 상반기 매출 1500% 급증에도 107조원 순손실"
         },
         {
+          "date": "2026-10-21",
+          "file": "20261021-hsbc-ceo-warns-the-a.md",
+          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet"
+        },
+        {
           "url": "https://www.etnews.com/20261021000010",
           "title": ""
         },
@@ -162,8 +176,26 @@
         },
         {
           "date": "2026-10-21",
-          "file": "20261021-hsbc-ceo-warns-the-a.md",
-          "title": "HSBC CEO warns the AI boom won’t make every data center a good bet"
+          "file": "20261021-ai-고속도로-앤트로픽-ai-인프라-.md",
+          "title": "[AI 고속도로] 앤트로픽, AI 인프라 계약 최대 7500억 달러…컴퓨팅 확보 부담 가중"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ai는-지금-오픈ai-신약-개발-속도.md",
+          "title": "[AI는 지금] 오픈AI, 신약 개발 속도 높인다…오케스트라 바이오 인수"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ls일렉트릭-3분기-역대-최대-영업익.md",
+          "title": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261021024500008",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610214923i",
+          "title": ""
         }
       ]
     },
