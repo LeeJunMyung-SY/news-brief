@@ -1,12 +1,12 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-21T16:23:53.199839+09:00",
-  "run_id": "run_20261021_162353",
-  "summary_ko": "금융 AI는 보안 규율 속에 실무로 들어가고, AI 산업은 버블 경고와 자본 선점 경쟁이 동시에 진행되는 국면이다.",
+  "updated_at": "2026-10-22T08:27:54.536472+09:00",
+  "run_id": "run_20261022_082754",
+  "summary_ko": "금융 AI는 보안 설계를 전제로 실무에 들어가고, AI 산업은 조달 자유화와 신용 리스크가 동시에 진행되는 국면이다.",
   "issues": [
     {
       "title": "금융권 AI 책임·보안 규율 강화",
-      "body_ko": "AI 공격이 국경을 넘고 책임·공시 의무가 더해져 보안 역량이 금융 AI의 선결 조건이 됐다.",
+      "body_ko": "AI 공격이 국경을 넘고 책임·공시 의무에 설계 단계 보안 요구가 더해져, 보안 역량이 금융 AI의 선결 조건이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -49,14 +49,20 @@
           "title": "FCA calls for disclaimers on AI financial advice"
         },
         {
-          "url": "https://www.etnews.com/20261021000092",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-bbva-works-with-nvid.md",
+          "title": "BBVA works with Nvidia to boost AI agent security"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-bank-bosses-under-pr.md",
+          "title": "Bank bosses under pressure to implement AI ahead of time"
         }
       ]
     },
     {
-      "title": "금융 AI, 채널을 넘어 실무·경영으로",
-      "body_ko": "고객 에이전트에서 결제·범죄조사·자본관리로 확장되며 에이전트 권한·검증 설계가 금융 AI의 핵심 과제가 됐다.",
+      "title": "금융 AI, 채널을 넘어 실무·결제 표준으로",
+      "body_ko": "에이전트가 결제·조사·여신에 들어오고 유통·결제망이 에이전트 거래 표준을 다투며, 권한·검증 설계가 금융 AI의 핵심 과제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -105,28 +111,36 @@
         },
         {
           "date": "2026-10-21",
-          "file": "20261021-삼성증권-ai걸그룹-돌풍-데뷔-한-달.md",
-          "title": "삼성증권 AI걸그룹 돌풍…데뷔 한 달만에 뮤비 조회수 250만회 돌파"
-        },
-        {
-          "date": "2026-10-21",
           "file": "20261021-securing-agentic-com.md",
           "title": "Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization"
         },
         {
-          "date": "2026-10-21",
-          "file": "20261021-the-more-the-better-.md",
-          "title": "The More the Better? A Comparison of Single- and Multi-Agent LLM Setups on a Financial Review Task"
+          "date": "2026-10-22",
+          "file": "20261022-while-amazon-blocks-.md",
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-ppro-launches-local-.md",
+          "title": "PPRO launches Local Payments Council for agentic commerce"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111392/robbin-launches-credit-integration-with-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20261021000459",
+          "title": ""
         }
       ]
     },
     {
-      "title": "AI 산업, 버블 경고와 자본 선점 경쟁",
-      "body_ko": "인프라 부채 우려와 버블 경고 속에서도 IPO 전 자금 선점과 대형 인수가 이어져 자본력이 승부처가 됐다.",
+      "title": "AI 산업, 버블 경고와 자본 구조 재편",
+      "body_ko": "인프라 부채 우려 속에 빅테크 신주 발행과 신용 헤지, 자본 선점 경쟁이 겹쳐 AI 투자가 신용 리스크 국면에 들어섰다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
-        "llm_models"
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -161,16 +175,6 @@
         },
         {
           "date": "2026-10-21",
-          "file": "20261021-ai는-지금-오픈ai-신약-개발-속도.md",
-          "title": "[AI는 지금] 오픈AI, 신약 개발 속도 높인다…오케스트라 바이오 인수"
-        },
-        {
-          "date": "2026-10-21",
-          "file": "20261021-ls일렉트릭-3분기-역대-최대-영업익.md",
-          "title": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자"
-        },
-        {
-          "date": "2026-10-21",
           "file": "20261021-오픈ai-앤트로픽-ipo-전-투자-유.md",
           "title": "오픈AI, 앤트로픽 IPO 전 투자 유치 서둘러…\"투자금 선점 나서\""
         },
@@ -178,10 +182,6 @@
           "date": "2026-10-21",
           "file": "20261021-ai-마케팅-기업-브레이즈-세일즈포스.md",
           "title": "AI 마케팅 기업 브레이즈, 세일즈포스가 56억6000만달러에 매수...51% 폭등"
-        },
-        {
-          "url": "https://www.hankyung.com/article/202610215997i",
-          "title": ""
         },
         {
           "date": "2026-10-21",
@@ -192,12 +192,41 @@
           "date": "2026-10-21",
           "file": "20261021-공정-바꾸고-대체품까지-금값-ai메모.md",
           "title": "공정 바꾸고 대체품까지…'금값' AI메모리에 빅테크 대응 몸부림"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-meta-to-create-a-new.md",
+          "title": "Meta to create a new class of shares to fund AI push"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-월가-ai-빚투-리스크-대비-빅테크-.md",
+          "title": "월가 \"AI 빚투 리스크 대비\"…빅테크 CDS 거래 급증"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-안광섭-ai-진테제-ai-병목에-대해.md",
+          "title": "[안광섭 AI 진테제] AI 병목에 대해...앤트로픽 성장이 정체"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+          "title": ""
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-blackstone-s-jas-kha.md",
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-삼성전기-엔비디아-차세대-ai-칩-기.md",
+          "title": "삼성전기, 엔비디아 차세대 AI 칩 기판 책임진다…전용 라인 증설"
         }
       ]
     },
     {
-      "title": "에이전트 공격 대중화와 통제",
-      "body_ko": "저비용 자동화 공격이 IoT까지 번지며 에이전트 권한·메모리를 내부자처럼 통제하는 체계가 도입 전제가 됐다.",
+      "title": "에이전트 공격·통제 해제와 거버넌스",
+      "body_ko": "저비용 자동화 공격에 에이전트의 감시 해제 사례와 AI 발견 취약점 사태가 더해져, 런타임 통제와 패치 속도가 도입 전제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -219,22 +248,20 @@
           "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려"
         },
         {
-          "url": "https://www.etnews.com/20261021000329",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-자체-감시-기능-무력화한-오픈ai-에.md",
+          "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사"
         },
         {
-          "url": "https://arxiv.org/abs/2610.27620",
-          "title": ""
-        },
-        {
-          "url": "https://arxiv.org/abs/2610.28425",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-웹사이트-70-쓰는-php서-ai가-.md",
+          "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단"
         }
       ]
     },
     {
-      "title": "모델 공급망의 진영화와 국산 대안",
-      "body_ko": "원산지 규제·자국 칩 학습에 국산 오픈모델 공개가 더해져 멀티모델 조달이 지정학·주권 리스크 관리가 됐다.",
+      "title": "모델 공급망 진영화와 조달 자유화",
+      "body_ko": "원산지 규제와 상호 차단이 굳는 한편 프런티어 모델이 3대 클라우드 모두에 풀려, 지역별 허용 모델 안에서 멀티모델 조달이 기본 전략이 됐다.",
       "topics": [
         "llm_models",
         "ai_policy",
@@ -275,6 +302,19 @@
           "date": "2026-10-21",
           "file": "20261021-크래프톤-자체-개발-llm-라온-1-.md",
           "title": "크래프톤, 자체 개발 LLM ‘라온-1 미니’ 프리뷰 공개"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-오픈ai-구글-클라우드서-최신-모델-.md",
+          "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출"
+        },
+        {
+          "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+          "title": ""
         }
       ]
     }

@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-22",
+  "updated_at": "2026-10-22T08:27:54.536472+09:00",
+  "run_id": "run_20261022_082754",
+  "summary_ko": "모델 조달은 클라우드에서 풀리고, 금융 에이전트는 보안 설계가 선결 조건이 됐다.",
+  "issues": [
+    {
+      "title": "금융 에이전트, 보안 내장이 선결 조건",
+      "summary_ko": "에이전트 통제 해제 사고와 은행 과속 도입 압박이 겹쳐 설계 단계 보안이 금융 AI의 전제가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-22",
+          "file": "20261022-bbva-works-with-nvid.md",
+          "title": "BBVA works with Nvidia to boost AI agent security"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-자체-감시-기능-무력화한-오픈ai-에.md",
+          "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-bank-bosses-under-pr.md",
+          "title": "Bank bosses under pressure to implement AI ahead of time"
+        },
+        {
+          "url": "https://www.etnews.com/20261021000459",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 커머스, 결제 표준 분기점",
+      "summary_ko": "유통의 에이전트 허용·차단 갈림과 결제망 협의체 출범으로 에이전트 거래 설계가 금융 과제로 왔다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-22",
+          "file": "20261022-while-amazon-blocks-.md",
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-ppro-launches-local-.md",
+          "title": "PPRO launches Local Payments Council for agentic commerce"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-anthropic-takes-on-m.md",
+          "title": "Anthropic takes on Muse with Claude Duet, its new AI agent"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216479",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111392/robbin-launches-credit-integration-with-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 조달, 클라우드 종속에서 분리",
+      "summary_ko": "프런티어 모델이 3대 클라우드 모두에 공급돼 기존 계약 안에서 멀티모델 전략이 가능해졌다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-22",
+          "file": "20261022-오픈ai-구글-클라우드서-최신-모델-.md",
+          "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+          "title": ""
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-how-at-t-is-rethinki.md",
+          "title": "How AT&T is rethinking in-house legal work with OpenAI"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자, 신용 리스크 국면 진입",
+      "summary_ko": "빅테크 신주 발행과 CDS 급증, 국내 기판 공급망 편입이 겹쳐 AI 자본 조달의 성격이 바뀌고 있다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-22",
+          "file": "20261022-meta-to-create-a-new.md",
+          "title": "Meta to create a new class of shares to fund AI push"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-월가-ai-빚투-리스크-대비-빅테크-.md",
+          "title": "월가 \"AI 빚투 리스크 대비\"…빅테크 CDS 거래 급증"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-삼성전기-엔비디아-차세대-ai-칩-기.md",
+          "title": "삼성전기, 엔비디아 차세대 AI 칩 기판 책임진다…전용 라인 증설"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-안광섭-ai-진테제-ai-병목에-대해.md",
+          "title": "[안광섭 AI 진테제] AI 병목에 대해...앤트로픽 성장이 정체"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
