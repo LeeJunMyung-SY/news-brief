@@ -1,12 +1,12 @@
 {
   "date": "2026-10-21",
-  "updated_at": "2026-10-21T12:21:38.999948+09:00",
-  "run_id": "run_20261021_122138",
-  "summary_ko": "에이전트가 금융 실무에 들어온 날, 모델사의 컴퓨트 부채와 수익 구조가 드러났다.",
+  "updated_at": "2026-10-21T16:23:53.199839+09:00",
+  "run_id": "run_20261021_162353",
+  "summary_ko": "에이전트가 금융 실무에 들어온 날, 모델사는 자본 선점에 나서고 인프라는 새 조건을 맞았다.",
   "issues": [
     {
       "title": "에이전트, 금융 결제·조사 실무로",
-      "summary_ko": "에이전트가 결제·범죄조사·여신까지 맡으며 금융 1차 처리자가 되고 있다.",
+      "summary_ko": "에이전트가 결제·범죄조사·여신까지 맡으며 권한 위임과 검증 설계가 선결 과제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -38,18 +38,24 @@
           "title": "농협, 전세대출 AI 에이전트 개발"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12180817",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-securing-agentic-com.md",
+          "title": "Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-the-more-the-better-.md",
+          "title": "The More the Better? A Comparison of Single- and Multi-Agent LLM Setups on a Financial Review Task"
         }
       ]
     },
     {
-      "title": "모델사, 컴퓨트 부채와 버티컬 확장",
-      "summary_ko": "취소 불가 컴퓨트 부채가 모델 가격을 묶는 사이 산업 특화 인수로 수익원을 찾고 있다.",
+      "title": "모델사 자본 경쟁과 오픈모델 확산",
+      "summary_ko": "IPO 전 자금 선점과 대형 인수가 벌어지는 한편 국산 오픈모델이 조달 대안으로 늘고 있다.",
       "topics": [
         "ai_industry",
-        "ai_compute_energy",
-        "llm_models"
+        "llm_models",
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -73,18 +79,34 @@
           "title": "[AI는 지금] 오픈AI, 신약 개발 속도 높인다…오케스트라 바이오 인수"
         },
         {
-          "url": "https://www.hankyung.com/article/202610214923i",
+          "date": "2026-10-21",
+          "file": "20261021-오픈ai-앤트로픽-ipo-전-투자-유.md",
+          "title": "오픈AI, 앤트로픽 IPO 전 투자 유치 서둘러…\"투자금 선점 나서\""
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ai-마케팅-기업-브레이즈-세일즈포스.md",
+          "title": "AI 마케팅 기업 브레이즈, 세일즈포스가 56억6000만달러에 매수...51% 폭등"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610215997i",
           "title": ""
         },
         {
-          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-크래프톤-자체-개발-llm-라온-1-.md",
+          "title": "크래프톤, 자체 개발 LLM ‘라온-1 미니’ 프리뷰 공개"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-딥시크-ai-운영-비용-낮출-핵심-추.md",
+          "title": "딥시크, AI 운영 비용 낮출 핵심 추론 기술 '딥인퍼' 오픈소스 공개"
         }
       ]
     },
     {
       "title": "AI 공격 대중화, 안보 통제 강화",
-      "summary_ko": "공격 비용이 붕괴하자 각국 정부가 AI 기업 통제 수단을 꺼내 들었다.",
+      "summary_ko": "공격 비용이 붕괴하고 IoT까지 공격 기반이 되자 정부가 통제 수단을 꺼내 들었다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -106,21 +128,22 @@
           "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed"
         },
         {
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+          "url": "https://www.etnews.com/20261021000329",
           "title": ""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676181",
+          "url": "https://www.etnews.com/20261021000282",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 인프라, 수익성으로 옥석 가리기",
-      "summary_ko": "적자 인프라는 외면받는 반면 전력 설비·서버 실적이 수요를 입증해 선별 투자가 굳어진다.",
+      "title": "AI 인프라, 규모 경쟁과 새 투자 조건",
+      "summary_ko": "초대형 클러스터 경쟁 속 메모리 조달·지역 보상·규제가 인프라 투자 조건이 됐다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -135,17 +158,8 @@
         },
         {
           "date": "2026-10-21",
-          "file": "20261021-딥시크-플래그십-모델-사전학습에-화웨.md",
-          "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도"
-        },
-        {
-          "date": "2026-10-21",
           "file": "20261021-ls일렉트릭-3분기-역대-최대-영업익.md",
           "title": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자"
-        },
-        {
-          "url": "https://www.yna.co.kr/view/AKR20261021024500008",
-          "title": ""
         },
         {
           "date": "2026-10-21",
@@ -153,16 +167,29 @@
           "title": "\"LNG 직거래 막더니 전력망 규제까지\"...AIDC 투자 차질 우려"
         },
         {
-          "url": "https://www.hankyung.com/article/2026102155386",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-메타-뮤즈-학습한-데이터센터-공개-g.md",
+          "title": "메타, '뮤즈' 학습한 데이터센터 공개…GPU 100만까지 늘린다"
         },
         {
-          "url": "https://www.etnews.com/20261021000010",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-공정-바꾸고-대체품까지-금값-ai메모.md",
+          "title": "공정 바꾸고 대체품까지…'금값' AI메모리에 빅테크 대응 몸부림"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261020175204",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-make-deals-trump-say.md",
+          "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-aidc-투자에-대기업집단-지정-변수.md",
+          "title": "AIDC 투자에 '대기업집단 지정' 변수…공정위, 제도 정비 검토"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-유미-s-픽-신성장-동력은-해외-데이.md",
+          "title": "[유미's 픽] 신성장 동력은 해외 데이터센터…LG CNS·롯데이노베이트의 승부수"
         }
       ]
     }

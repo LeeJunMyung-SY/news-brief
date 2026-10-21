@@ -1,8 +1,8 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-21T12:21:38.999948+09:00",
-  "run_id": "run_20261021_122138",
-  "summary_ko": "금융 AI는 보안 책임 속에 에이전트 실무로 나아가고, AI 산업은 컴퓨트 부채와 수익성 검증 국면에 섰다.",
+  "updated_at": "2026-10-21T16:23:53.199839+09:00",
+  "run_id": "run_20261021_162353",
+  "summary_ko": "금융 AI는 보안 규율 속에 실무로 들어가고, AI 산업은 버블 경고와 자본 선점 경쟁이 동시에 진행되는 국면이다.",
   "issues": [
     {
       "title": "금융권 AI 책임·보안 규율 강화",
@@ -49,18 +49,14 @@
           "title": "FCA calls for disclaimers on AI financial advice"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676181",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676130",
+          "url": "https://www.etnews.com/20261021000092",
           "title": ""
         }
       ]
     },
     {
       "title": "금융 AI, 채널을 넘어 실무·경영으로",
-      "body_ko": "고객 에이전트에서 결제·범죄조사·자본관리·브랜드 콘텐츠로 확장되며 금융 AI가 핵심 업무와 고객 접점에 내재화되고 있다.",
+      "body_ko": "고객 에이전트에서 결제·범죄조사·자본관리로 확장되며 에이전트 권한·검증 설계가 금융 AI의 핵심 과제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -108,23 +104,25 @@
           "title": "농협은행, 자산배분 정교화 키맨도 AI…기업여신 적용 사례 보니"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12180817",
-          "title": ""
-        },
-        {
           "date": "2026-10-21",
           "file": "20261021-삼성증권-ai걸그룹-돌풍-데뷔-한-달.md",
           "title": "삼성증권 AI걸그룹 돌풍…데뷔 한 달만에 뮤비 조회수 250만회 돌파"
         },
         {
-          "url": "https://www.etnews.com/20261021000181",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-securing-agentic-com.md",
+          "title": "Securing Agentic Commerce Through Behavior-Aware Fraud Detection and Cybersecurity for Trusted AI-Agent Payment Authorization"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-the-more-the-better-.md",
+          "title": "The More the Better? A Comparison of Single- and Multi-Agent LLM Setups on a Financial Review Task"
         }
       ]
     },
     {
-      "title": "AI 산업, 신용·수익성 검증 국면",
-      "body_ko": "인프라 부채 우려와 모델사의 손실·컴퓨트 부채 공개가 겹쳐 수익성과 버티컬 수익원을 기준으로 한 옥석 가리기가 시작됐다.",
+      "title": "AI 산업, 버블 경고와 자본 선점 경쟁",
+      "body_ko": "인프라 부채 우려와 버블 경고 속에서도 IPO 전 자금 선점과 대형 인수가 이어져 자본력이 승부처가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -137,11 +135,6 @@
           "title": "10조달러 AI 투자 흔들…데이터센터 계획 35%만 현실성"
         },
         {
-          "date": "2026-10-19",
-          "file": "20261019-ipo-앞둔-엔스케일에-대형-악재-m.md",
-          "title": "IPO 앞둔 엔스케일에 대형 악재…MS, 영국 데이터센터 계약 철수"
-        },
-        {
           "date": "2026-10-20",
           "file": "20261020-coreweave-8217-s-deb.md",
           "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem"
@@ -152,11 +145,6 @@
           "title": "엘리스, 상장 첫날 26% 폭락…코어위브 사태 악재 됐나"
         },
         {
-          "date": "2026-10-20",
-          "file": "20261020-텐스토렌트-시리즈-e-15억-달러-유.md",
-          "title": "텐스토렌트, 시리즈 E 15억 달러 유치…기업가치 62억 달러"
-        },
-        {
           "date": "2026-10-21",
           "file": "20261021-앤트로픽-상반기-매출-1500-급증에.md",
           "title": "앤트로픽, 상반기 매출 1500% 급증에도 107조원 순손실"
@@ -165,14 +153,6 @@
           "date": "2026-10-21",
           "file": "20261021-hsbc-ceo-warns-the-a.md",
           "title": "HSBC CEO warns the AI boom won’t make every data center a good bet"
-        },
-        {
-          "url": "https://www.etnews.com/20261021000010",
-          "title": ""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261020175204",
-          "title": ""
         },
         {
           "date": "2026-10-21",
@@ -190,18 +170,34 @@
           "title": "LS일렉트릭, 3분기 '역대 최대' 영업익…100분기 연속 흑자"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261021024500008",
+          "date": "2026-10-21",
+          "file": "20261021-오픈ai-앤트로픽-ipo-전-투자-유.md",
+          "title": "오픈AI, 앤트로픽 IPO 전 투자 유치 서둘러…\"투자금 선점 나서\""
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ai-마케팅-기업-브레이즈-세일즈포스.md",
+          "title": "AI 마케팅 기업 브레이즈, 세일즈포스가 56억6000만달러에 매수...51% 폭등"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610215997i",
           "title": ""
         },
         {
-          "url": "https://www.hankyung.com/article/202610214923i",
-          "title": ""
+          "date": "2026-10-21",
+          "file": "20261021-메타-뮤즈-학습한-데이터센터-공개-g.md",
+          "title": "메타, '뮤즈' 학습한 데이터센터 공개…GPU 100만까지 늘린다"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-공정-바꾸고-대체품까지-금값-ai메모.md",
+          "title": "공정 바꾸고 대체품까지…'금값' AI메모리에 빅테크 대응 몸부림"
         }
       ]
     },
     {
       "title": "에이전트 공격 대중화와 통제",
-      "body_ko": "저비용 자동화 공격이 현실화되며 에이전트를 내부자처럼 통제하는 체계가 도입 전제가 됐다.",
+      "body_ko": "저비용 자동화 공격이 IoT까지 번지며 에이전트 권한·메모리를 내부자처럼 통제하는 체계가 도입 전제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -223,14 +219,22 @@
           "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려"
         },
         {
-          "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons/",
+          "url": "https://www.etnews.com/20261021000329",
+          "title": ""
+        },
+        {
+          "url": "https://arxiv.org/abs/2610.27620",
+          "title": ""
+        },
+        {
+          "url": "https://arxiv.org/abs/2610.28425",
           "title": ""
         }
       ]
     },
     {
-      "title": "모델 공급망의 진영화",
-      "body_ko": "원산지 규제·수출통제 압박과 자국 칩 학습이 맞물려 멀티모델 조달이 지정학 리스크 관리가 됐다.",
+      "title": "모델 공급망의 진영화와 국산 대안",
+      "body_ko": "원산지 규제·자국 칩 학습에 국산 오픈모델 공개가 더해져 멀티모델 조달이 지정학·주권 리스크 관리가 됐다.",
       "topics": [
         "llm_models",
         "ai_policy",
@@ -261,6 +265,16 @@
           "date": "2026-10-21",
           "file": "20261021-미-국방차관-ai-기업-협조-안-하면.md",
           "title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\""
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-딥시크-ai-운영-비용-낮출-핵심-추.md",
+          "title": "딥시크, AI 운영 비용 낮출 핵심 추론 기술 '딥인퍼' 오픈소스 공개"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-크래프톤-자체-개발-llm-라온-1-.md",
+          "title": "크래프톤, 자체 개발 LLM ‘라온-1 미니’ 프리뷰 공개"
         }
       ]
     }
