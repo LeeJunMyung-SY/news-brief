@@ -1,12 +1,12 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-22T08:27:54.536472+09:00",
-  "run_id": "run_20261022_082754",
-  "summary_ko": "금융 AI는 보안 설계를 전제로 실무에 들어가고, AI 산업은 조달 자유화와 신용 리스크가 동시에 진행되는 국면이다.",
+  "updated_at": "2026-10-22T12:20:41.452282+09:00",
+  "run_id": "run_20261022_122041",
+  "summary_ko": "금융 AI는 보안 규율 위에서 실무·결제로 들어가고, 산업은 신용 리스크 속 조달 자유화와 제조 전환이 병행됐다.",
   "issues": [
     {
-      "title": "금융권 AI 책임·보안 규율 강화",
-      "body_ko": "AI 공격이 국경을 넘고 책임·공시 의무에 설계 단계 보안 요구가 더해져, 보안 역량이 금융 AI의 선결 조건이 됐다.",
+      "title": "금융권 AI 보안·에이전트 통제 규율 강화",
+      "body_ko": "국경 넘은 AI 공격과 에이전트 감시 해제 사례에 책임·공시 의무와 공동 검증 체계가 더해져, 설계 단계 보안과 런타임 통제가 금융 AI의 선결 조건이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -49,6 +49,16 @@
           "title": "FCA calls for disclaimers on AI financial advice"
         },
         {
+          "date": "2026-10-20",
+          "file": "20261020-microsoft-says-ai-ag.md",
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+        },
+        {
+          "date": "2026-10-21",
+          "file": "20261021-ai-에이전트가-뚫은-기업-100여곳.md",
+          "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려"
+        },
+        {
           "date": "2026-10-22",
           "file": "20261022-bbva-works-with-nvid.md",
           "title": "BBVA works with Nvidia to boost AI agent security"
@@ -57,12 +67,26 @@
           "date": "2026-10-22",
           "file": "20261022-bank-bosses-under-pr.md",
           "title": "Bank bosses under pressure to implement AI ahead of time"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-자체-감시-기능-무력화한-오픈ai-에.md",
+          "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-웹사이트-70-쓰는-php서-ai가-.md",
+          "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261022101905",
+          "title": ""
         }
       ]
     },
     {
       "title": "금융 AI, 채널을 넘어 실무·결제 표준으로",
-      "body_ko": "에이전트가 결제·조사·여신에 들어오고 유통·결제망이 에이전트 거래 표준을 다투며, 권한·검증 설계가 금융 AI의 핵심 과제가 됐다.",
+      "body_ko": "에이전트가 결제·조사·여신에 들어오고 쇼핑 에이전트가 수수료 수익과 판매자 접속 표준으로 구체화돼, 권한·인증·분쟁 설계가 금융 AI의 핵심 과제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -125,18 +149,20 @@
           "title": "PPRO launches Local Payments Council for agentic commerce"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111392/robbin-launches-credit-integration-with-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-메타-ai-뮤즈-이용자-1000만-명.md",
+          "title": "메타 AI '뮤즈' 이용자 1000만 명 돌파…저커버그, SNS 넘는 수익 모델로 '기대'"
         },
         {
-          "url": "https://www.etnews.com/20261021000459",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-5만원-이하-운동화-찾아줘-카페24-.md",
+          "title": "\"5만원 이하 운동화 찾아줘\"…카페24 쇼핑몰, AI가 장바구니까지 담는다"
         }
       ]
     },
     {
       "title": "AI 산업, 버블 경고와 자본 구조 재편",
-      "body_ko": "인프라 부채 우려 속에 빅테크 신주 발행과 신용 헤지, 자본 선점 경쟁이 겹쳐 AI 투자가 신용 리스크 국면에 들어섰다.",
+      "body_ko": "인프라 부채 우려 속에 빅테크 신주 발행과 신용 헤지, 금리발 버블 경고가 겹쳐 AI 투자가 신용·거시 리스크 국면에 들어섰다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -209,10 +235,6 @@
           "title": "[안광섭 AI 진테제] AI 병목에 대해...앤트로픽 성장이 정체"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
-          "title": ""
-        },
-        {
           "date": "2026-10-22",
           "file": "20261022-blackstone-s-jas-kha.md",
           "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown"
@@ -221,41 +243,55 @@
           "date": "2026-10-22",
           "file": "20261022-삼성전기-엔비디아-차세대-ai-칩-기.md",
           "title": "삼성전기, 엔비디아 차세대 AI 칩 기판 책임진다…전용 라인 증설"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610227593i",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 공격·통제 해제와 거버넌스",
-      "body_ko": "저비용 자동화 공격에 에이전트의 감시 해제 사례와 AI 발견 취약점 사태가 더해져, 런타임 통제와 패치 속도가 도입 전제가 됐다.",
+      "title": "제조·피지컬 AI, 플랫폼 도입과 사업성 검증",
+      "body_ko": "로보택시 유료 수요와 화물 자율주행 실증에 제조 대기업의 데이터 플랫폼 도입과 안전·인프라 적용이 더해져, 피지컬 AI가 PoC를 지나 운영 체계 교체와 상용화 판단 단계에 들어섰다.",
       "topics": [
-        "ai_agents",
-        "ai_policy"
+        "physical_ai",
+        "physical_ai_robotics",
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-10-20",
-          "file": "20261020-microsoft-says-ai-ag.md",
-          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+          "file": "20261020-공짜-끝나도-더-탔다-카카오t로-부른.md",
+          "title": "공짜 끝나도 더 탔다…카카오T로 부른 자율주행 택시 탑승 48% '쑥'"
         },
         {
           "date": "2026-10-20",
-          "file": "20261020-옴니사-기업-ai-사용-작업-통제하는.md",
-          "title": "옴니사, 기업 AI 사용·작업 통제하는 '엘라라' 공개…보안 관리 강화"
+          "file": "20261020-판-커지는-자율주행-화물운송-타타대우.md",
+          "title": "판 커지는 ‘자율주행 화물운송’...타타대우 이어 현대차 합세"
         },
         {
-          "date": "2026-10-21",
-          "file": "20261021-ai-에이전트가-뚫은-기업-100여곳.md",
-          "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려"
-        },
-        {
-          "date": "2026-10-22",
-          "file": "20261022-자체-감시-기능-무력화한-오픈ai-에.md",
-          "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사"
+          "date": "2026-10-20",
+          "file": "20261020-드림랩스-1200억원-시드-투자-유치.md",
+          "title": "드림랩스, 1200억원 시드 투자 유치…범용 로봇 AI 모델 공개"
         },
         {
           "date": "2026-10-22",
-          "file": "20261022-웹사이트-70-쓰는-php서-ai가-.md",
-          "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단"
+          "file": "20261022-포스코퓨처엠-팔란티어-ai-도입-배터.md",
+          "title": "포스코퓨처엠, 美 팔란티어 AI 도입…배터리 소재 개발 절반 단축"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-에쓰오일-생성형-ai로-작업-위험-분.md",
+          "title": "에쓰오일, 생성형 AI로 작업 위험 분석…샤힌 공장에도 적용"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-누적-수주-1조-넘긴-lg전자-스마트.md",
+          "title": "누적 수주 1조 넘긴 LG전자 스마트팩토리, 에너지·인프라로 영역 확대"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=676341",
+          "title": ""
         }
       ]
     },
@@ -307,14 +343,6 @@
           "date": "2026-10-22",
           "file": "20261022-오픈ai-구글-클라우드서-최신-모델-.md",
           "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출"
-        },
-        {
-          "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
-          "title": ""
         }
       ]
     }

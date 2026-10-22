@@ -1,12 +1,12 @@
 {
   "date": "2026-10-22",
-  "updated_at": "2026-10-22T08:27:54.536472+09:00",
-  "run_id": "run_20261022_082754",
-  "summary_ko": "모델 조달은 클라우드에서 풀리고, 금융 에이전트는 보안 설계가 선결 조건이 됐다.",
+  "updated_at": "2026-10-22T12:20:41.452282+09:00",
+  "run_id": "run_20261022_122041",
+  "summary_ko": "에이전트 커머스가 수익으로 검증되고 제조 AX는 데이터 플랫폼 도입으로 옮겨갔다.",
   "issues": [
     {
       "title": "금융 에이전트, 보안 내장이 선결 조건",
-      "summary_ko": "에이전트 통제 해제 사고와 은행 과속 도입 압박이 겹쳐 설계 단계 보안이 금융 AI의 전제가 됐다.",
+      "summary_ko": "에이전트 통제 해제 사고와 은행 과속 도입 압박에 보안 공동 검증 연합까지 더해져 설계 단계 보안이 금융 AI의 전제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -29,14 +29,14 @@
           "title": "Bank bosses under pressure to implement AI ahead of time"
         },
         {
-          "url": "https://www.etnews.com/20261021000459",
+          "url": "https://zdnet.co.kr/view/?no=20261022101905",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 커머스, 결제 표준 분기점",
-      "summary_ko": "유통의 에이전트 허용·차단 갈림과 결제망 협의체 출범으로 에이전트 거래 설계가 금융 과제로 왔다.",
+      "title": "에이전트 커머스, 수익 검증과 접속 표준",
+      "summary_ko": "에이전트 쇼핑이 거래 수수료 수익과 판매자 측 접속 표준으로 구체화돼 결제·인증 설계 과제가 앞당겨졌다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -59,42 +59,51 @@
           "title": "Anthropic takes on Muse with Claude Duet, its new AI agent"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216479",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-메타-ai-뮤즈-이용자-1000만-명.md",
+          "title": "메타 AI '뮤즈' 이용자 1000만 명 돌파…저커버그, SNS 넘는 수익 모델로 '기대'"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111392/robbin-launches-credit-integration-with-chatgpt-and-claude?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-10-22",
+          "file": "20261022-5만원-이하-운동화-찾아줘-카페24-.md",
+          "title": "\"5만원 이하 운동화 찾아줘\"…카페24 쇼핑몰, AI가 장바구니까지 담는다"
         }
       ]
     },
     {
-      "title": "모델 조달, 클라우드 종속에서 분리",
-      "summary_ko": "프런티어 모델이 3대 클라우드 모두에 공급돼 기존 계약 안에서 멀티모델 전략이 가능해졌다.",
+      "title": "제조 AX, 데이터 플랫폼 단위로 전환",
+      "summary_ko": "소재·정유·가전 대기업이 데이터 플랫폼 도입과 안전·인프라 적용으로 제조 AI를 운영 체계 교체 수준으로 끌어올렸다.",
       "topics": [
-        "llm_models",
-        "ai_industry"
+        "physical_ai",
+        "ai_industry",
+        "ai_compute_energy"
       ],
       "articles": [
         {
           "date": "2026-10-22",
-          "file": "20261022-오픈ai-구글-클라우드서-최신-모델-.md",
-          "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
-          "title": ""
+          "file": "20261022-포스코퓨처엠-팔란티어-ai-도입-배터.md",
+          "title": "포스코퓨처엠, 美 팔란티어 AI 도입…배터리 소재 개발 절반 단축"
         },
         {
           "date": "2026-10-22",
-          "file": "20261022-how-at-t-is-rethinki.md",
-          "title": "How AT&T is rethinking in-house legal work with OpenAI"
+          "file": "20261022-에쓰오일-생성형-ai로-작업-위험-분.md",
+          "title": "에쓰오일, 생성형 AI로 작업 위험 분석…샤힌 공장에도 적용"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-누적-수주-1조-넘긴-lg전자-스마트.md",
+          "title": "누적 수주 1조 넘긴 LG전자 스마트팩토리, 에너지·인프라로 영역 확대"
+        },
+        {
+          "date": "2026-10-22",
+          "file": "20261022-델-엔비디아-기업용-ai-인프라-협력.md",
+          "title": "델-엔비디아, 기업용 AI 인프라 협력 확대…차세대 서버·데이터센터 공개"
         }
       ]
     },
     {
       "title": "AI 투자, 신용 리스크 국면 진입",
-      "summary_ko": "빅테크 신주 발행과 CDS 급증, 국내 기판 공급망 편입이 겹쳐 AI 자본 조달의 성격이 바뀌고 있다.",
+      "summary_ko": "빅테크 신주 발행과 CDS 급증에 금리발 버블 경고가 더해져 AI 자본 조달 판단에 거시 변수가 들어왔다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -122,11 +131,11 @@
           "title": "[안광섭 AI 진테제] AI 병목에 대해...앤트로픽 성장이 정체"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+          "url": "https://www.hankyung.com/article/202610227593i",
           "title": ""
         },
         {
-          "url": "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
+          "url": "https://www.hankyung.com/article/2026102274606",
           "title": ""
         }
       ]
