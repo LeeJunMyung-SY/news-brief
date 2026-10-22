@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-23",
+  "updated_at": "2026-10-23T08:27:09.096250+09:00",
+  "run_id": "run_20261023_082709",
+  "summary_ko": "은행이 고객 에이전트 접속을 통제하는 사이 AI 자본은 현금흐름 검증대에 올랐다.",
+  "issues": [
+    {
+      "title": "금융권, 고객 에이전트 접속 통제의 갈림길",
+      "summary_ko": "에이전트 접근이 보안·수익 양면의 리스크로 떠올라 차단과 위임 인증 중 선택이 과제가 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-23",
+          "file": "20261023-major-us-banks-are-l.md",
+          "title": "Major US banks are locking out AI agents that log in with customer credentials"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-못쓰고-사라진-카드포인트-3조원인데-.md",
+          "title": "못쓰고 사라진 카드포인트 3조원인데…금융권 낙전수익 비상걸린 이유"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-클로드-그록으로-무장한-해커들-중남미.md",
+          "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111410/finom-launches-read-only-mcp-connection-for-claude-and-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 그룹 플랫폼 구축과 인력 재편 병행",
+      "summary_ko": "플랫폼 투자와 감원이 같은 날 공식화돼 금융 AI가 인프라와 조직을 동시에 바꾸는 단계다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry",
+        "ai_workforce_training"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-23",
+          "file": "20261023-bnk금융-ai-플랫폼-구축-우선협상.md",
+          "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-barclays-to-cut-5-00.md",
+          "title": "Barclays to cut 5,000 jobs amid AI expansion"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111415/sp-global-expands-ai-powered-capabilities-across-private-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-lg-cns-기업용-챗gpt-이용자-.md",
+          "title": "LG CNS, 기업용 챗GPT 이용자 3만명 확보…공급부터 업무 적용 지원"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-uber-puts-all-30-000.md",
+          "title": "Uber puts all 30,000 employees on ChatGPT Work"
+        }
+      ]
+    },
+    {
+      "title": "AI 자본, 현금흐름과 성과 검증 국면",
+      "summary_ko": "현금흐름 적자와 낮은 성과 확인율이 수치화돼 AI 투자 기준이 규모에서 단위 경제성으로 옮겨갔다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-23",
+          "file": "20261023-meta-stock-sinks-nea.md",
+          "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-only-13-percent-of-c.md",
+          "title": "Only 13 percent of companies see real returns from AI, Gartner survey finds"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-openai-working-on-ne.md",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-deepseek-reportedly-.md",
+          "title": "DeepSeek reportedly raises $15B days after US restrictions"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610229188i",
+          "title": ""
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-삼성전기-엔비디아-등-빅테크로부터-a.md",
+          "title": "삼성전기, 엔비디아 등 美 빅테크로부터 AI 반도체 기판 전용라인 증설 투자 유치"
+        }
+      ]
+    },
+    {
+      "title": "상시 에이전트와 격리 런타임의 동반 등장",
+      "summary_ko": "상시 실행 개인 에이전트가 보편화되는 동시에 실행 격리와 공격 자동화 대응이 인프라 요건이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-an-ai-agent-in-skyne.md",
+          "title": "An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-chinese-hackers-spie.md",
+          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-단독-해외-ai-쓰다가-기술유출범-몰.md",
+          "title": "[단독] 해외 AI 쓰다가 '기술유출범' 몰릴 수 있다?"
+        }
+      ]
+    }
+  ]
+}
