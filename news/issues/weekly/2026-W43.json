@@ -1,8 +1,8 @@
 {
   "week": "2026-W43",
-  "updated_at": "2026-10-23T08:27:09.096250+09:00",
-  "run_id": "run_20261023_082709",
-  "summary_ko": "금융 AI는 보안·접근 통제 위에서 실무로 들어가고, AI 자본은 규모 경쟁에서 현금흐름 검증으로 옮겨갔다.",
+  "updated_at": "2026-10-23T12:21:04.607952+09:00",
+  "run_id": "run_20261023_122104",
+  "summary_ko": "금융 AI는 통제 위에서 실무로 들어가고, AI 자본 검증은 증시 충격과 조달 재편으로 번졌다.",
   "issues": [
     {
       "title": "금융권 AI 보안·에이전트 통제 규율 강화",
@@ -64,23 +64,15 @@
           "title": "Major US banks are locking out AI agents that log in with customer credentials"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48634/banks-move-to-limit-agents-access-to-customer-accounts?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-10-23",
           "file": "20261023-클로드-그록으로-무장한-해커들-중남미.md",
           "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화"
-        },
-        {
-          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 채널을 넘어 실무·수익 구조로",
-      "body_ko": "에이전트가 결제·조사·여신에 이어 휴면자산 이동까지 맡고 은행은 그룹 플랫폼과 감원을 함께 공식화해, 금융 AI가 수익 구조와 조직을 동시에 바꾸고 있다.",
+      "title": "금융 AI, 채널을 넘어 실무·개발·조직으로",
+      "body_ko": "에이전트가 결제·조사·여신·휴면자산까지 맡고 폐쇄망용 개발 에이전트와 그룹 플랫폼·감원이 함께 공식화돼, 금융 AI가 수익 구조·개발 방식·조직을 동시에 바꾸고 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -154,18 +146,15 @@
           "title": "Barclays to cut 5,000 jobs amid AI expansion"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111415/sp-global-expands-ai-powered-capabilities-across-private-markets?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
-          "url": "https://www.finextra.com/pressarticle/111410/finom-launches-read-only-mcp-connection-for-claude-and-chatgpt?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-10-23",
+          "file": "20261023-윈웨이-금융권-폐쇄망-ai-개발-에이.md",
+          "title": "윈웨이, 금융권 폐쇄망 AI 개발 에이전트 'WinPilot' 선보여"
         }
       ]
     },
     {
-      "title": "AI 자본, 버블 경고에서 현금흐름 검증으로",
-      "body_ko": "신주 발행·CDS 급증에 빅테크 현금흐름 적자와 낮은 성과 확인율이 더해져 AI 투자 판단이 규모에서 단위 경제성과 성과 측정으로 좁혀졌다.",
+      "title": "AI 자본, 현금흐름 검증에서 증시 충격·조달 재편으로",
+      "body_ko": "신주 발행·CDS 급증에 빅테크 현금흐름 적자가 더해져 나스닥·코스피 급락으로 번졌고, 인프라 재원은 IPO 대신 담보대출·외부 유치로 옮겨가 AI 투자 판단이 단위 경제성과 조달 구조로 좁혀졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -233,19 +222,39 @@
           "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
         },
         {
-          "url": "https://www.hankyung.com/article/202610229188i",
+          "date": "2026-10-23",
+          "file": "20261023-삼성전기-엔비디아-등-빅테크로부터-a.md",
+          "title": "삼성전기, 엔비디아 등 美 빅테크로부터 AI 반도체 기판 전용라인 증설 투자 유치"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-메타-시총-1240억달러-증발-ai-.md",
+          "title": "메타 시총 1240억달러 증발…AI 투자 불안에 나스닥 급락·국채 급등"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-ai-고속도로-네비우스-gpu-확충에.md",
+          "title": "[AI 고속도로] 네비우스, GPU 확충에 35억 달러 금융 약정…AI 인프라 투자 가속"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-sk하이퍼-ai-데이터센터-구축-자금.md",
+          "title": "SK하이퍼, AI 데이터센터 구축 자금 유치 본격화"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=676511",
           "title": ""
         },
         {
           "date": "2026-10-23",
-          "file": "20261023-삼성전기-엔비디아-등-빅테크로부터-a.md",
-          "title": "삼성전기, 엔비디아 등 美 빅테크로부터 AI 반도체 기판 전용라인 증설 투자 유치"
+          "file": "20261023-앤드리슨-호로위츠-a16z-프론티어-.md",
+          "title": "앤드리슨 호로위츠, ‘a16z 프론티어’로 전면 개편…\"AI·신기술 투자 확대\""
         }
       ]
     },
     {
-      "title": "제조·피지컬 AI, 양산 선언과 손익 검증",
-      "body_ko": "휴머노이드 양산과 무감독 자율주행 일정이 제시되는 한편 AI·로봇 비용이 본업 이익을 잠식해, 피지컬 AI가 PoC를 지나 투자 회수를 검증받는 단계에 들어섰다.",
+      "title": "제조·피지컬 AI, 양산 선언과 손익·인재 검증",
+      "body_ko": "휴머노이드 양산과 무감독 자율주행 일정 속에 AI·로봇 비용이 이익을 잠식하고 대기업 간 로봇 수장 영입전과 현장 주도 AX가 이어져, 피지컬 AI가 PoC를 지나 회수와 인재 확보를 검증받는 단계다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics",
@@ -298,12 +307,18 @@
           "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261022232504",
+          "date": "2026-10-23",
+          "file": "20261023-단독-lg-현대차-로봇-사업-수장-전.md",
+          "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12183878",
           "title": ""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216515",
-          "title": ""
+          "date": "2026-10-23",
+          "file": "20261023-gs칼텍스-ai로-교육부터-보고서까지.md",
+          "title": "GS칼텍스, AI로 교육부터 보고서까지…허세홍 \"개인의 도전 모여 회사 혁신\""
         }
       ]
     },
@@ -346,14 +361,6 @@
           "date": "2026-10-22",
           "file": "20261022-오픈ai-구글-클라우드서-최신-모델-.md",
           "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출"
-        },
-        {
-          "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
-          "title": ""
         },
         {
           "date": "2026-10-23",
