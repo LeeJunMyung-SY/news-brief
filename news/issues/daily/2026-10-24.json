@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-24",
+  "updated_at": "2026-10-24T08:24:12.903059+09:00",
+  "run_id": "run_20261024_082412",
+  "summary_ko": "에이전트가 예금까지 흔들 변수가 된 날, AI 자본은 조건을 낮추고 국내 인프라는 전력 전망 축소와 맞섰다.",
+  "issues": [
+    {
+      "title": "에이전트, 예금 이동과 자율 실행의 변수로",
+      "summary_ko": "에이전트 자율 실행이 기본값이 되며 예금 유지와 통제 설계가 은행 전략 변수로 올라왔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-24",
+          "file": "20261024-ai-agents-could-disr.md",
+          "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-앤트로픽-클로드-오토-모드-기본-적용.md",
+          "title": "앤트로픽, 클로드 ‘오토 모드’ 기본 적용…사용자 승인 절차 줄인다"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-오픈ai-분류-선택-특화-디시전스-a.md",
+          "title": "오픈AI, 분류·선택 특화 ‘디시전스 API’ 정식 출시…최대 10배 빠르게"
+        }
+      ]
+    },
+    {
+      "title": "AI 자본 조정과 컴퓨팅의 금융상품화",
+      "summary_ko": "밸류에이션 하향과 IPO 철회 속에 컴퓨팅 가격이 파생상품으로 거래되기 시작했다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-turmoil-hits-ai-buil.md",
+          "title": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-sk하이닉스-미국-손자회사-솔리다임-.md",
+          "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-10월23일-ai-토큰-가격에-베팅하.md",
+          "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026102317711",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "국내 AIDC, 규모 선언과 전력 전망 축소",
+      "summary_ko": "초대형 데이터센터 계획과 정부의 전력 수요 전망 하향이 맞서 인프라 불확실성이 커졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-24",
+          "file": "20261024-sk하이퍼-국내에-463조-규모-초대.md",
+          "title": "SK하이퍼, 국내에 463조 규모…초대형 AI 데이터센터 짓는다"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-단독-ai인프라-속도가-생명인데-sk.md",
+          "title": "[단독] \"AI인프라 속도가 생명인데…\" SK·GS·네이버 사업 안갯속"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12184424",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델사, 안전 격리와 기업 채널로 경쟁",
+      "summary_ko": "격리 학습·정렬 성적 공개와 SI 파트너망·관리형 학습이 공급사 선택 기준을 넓혔다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-24",
+          "file": "20261024-openai-now-trains-it.md",
+          "title": "OpenAI now trains its frontier AI models with no internet access"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-anthropic-says-its-u.md",
+          "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-스페이스x-엔비디아-등-130여개사와.md",
+          "title": "스페이스X, 엔비디아 등 130여개사와 기업 AI 공략…그록 도입·연동 지원"
+        },
+        {
+          "date": "2026-10-24",
+          "file": "20261024-aws-gpu-관리-없이-맞춤형-ai.md",
+          "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개"
+        }
+      ]
+    }
+  ]
+}
