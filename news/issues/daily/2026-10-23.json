@@ -1,15 +1,16 @@
 {
   "date": "2026-10-23",
-  "updated_at": "2026-10-23T12:21:04.607952+09:00",
-  "run_id": "run_20261023_122104",
-  "summary_ko": "AI 자본 검증이 증시 충격으로 번진 사이 기업 AI는 플랫폼·인력 재편으로 내려왔다.",
+  "updated_at": "2026-10-23T16:26:16.167473+09:00",
+  "run_id": "run_20261023_162616",
+  "summary_ko": "AI 신용 불안이 국내 증시까지 번진 사이 금융·기업 AI는 통제력과 공동 검증을 도입 기준으로 세웠다.",
   "issues": [
     {
-      "title": "금융권, 고객 에이전트 접속 통제의 갈림길",
-      "summary_ko": "에이전트 접근이 보안·수익 양면의 리스크로 떠올라 차단과 위임 인증 중 선택이 과제가 됐다.",
+      "title": "금융 AI, 접속 통제에서 공동 보안 검증으로",
+      "summary_ko": "에이전트 차단·위임 논쟁에 금융사 공동 검증체와 AI 문서 위조 리스크가 더해져 통제 설계가 업계 공동 과제가 됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_agents",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -26,15 +27,31 @@
           "date": "2026-10-23",
           "file": "20261023-클로드-그록으로-무장한-해커들-중남미.md",
           "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-금융-통신-보안기업-뭉쳐-ai-보안-.md",
+          "title": "금융·통신·보안기업 뭉쳐 AI 보안 공동 검증…KOTA 설립 추진"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-can-loan-processors-.md",
+          "title": "Can Loan Processors and Underwriters Spot AI-Edited Statements? An Empirical Study"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-how-firm-are-ai-mode.md",
+          "title": "How Firm Are AI Models' Ethical Boundaries? A Pay-Stub Editing Test of 15 Models"
         }
       ]
     },
     {
-      "title": "AI 플랫폼·인력 재편, 금융 넘어 전 산업으로",
-      "summary_ko": "폐쇄망 개발 에이전트와 현업 주도 AX, 로봇 수장 영입이 겹쳐 AI가 인프라·조직·인재를 함께 바꾸는 단계다.",
+      "title": "기업 AI 도입 기준, 성능에서 통제력으로",
+      "summary_ko": "전사 배포·인력 재편과 함께 업무 절차 준수와 거버넌스 체계가 도입 판단의 핵심 기준으로 올라왔다.",
       "topics": [
         "금융회사 AI",
         "ai_industry",
+        "ai_agents",
         "ai_workforce_training"
       ],
       "articles": [
@@ -72,15 +89,41 @@
           "date": "2026-10-23",
           "file": "20261023-단독-lg-현대차-로봇-사업-수장-전.md",
           "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-달라진-ai-도입-잣대-aws-업스테.md",
+          "title": "달라진 AI 도입 잣대…AWS·업스테이지가 지목한 '통제력' [현장+]"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-더존비즈온-법무법인-세종-ai-거버넌.md",
+          "title": "더존비즈온·법무법인 세종, AI 거버넌스 사업 공동 추진"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-ai-에이전트도-빨리빨리-한국-오픈a.md",
+          "title": "AI 에이전트도 '빨리빨리'...한국, 오픈AI '닷츠' 이용 세계 3위"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-automating-feature-f.md",
+          "title": "Automating Feature Flag Cleanup at Scale with Multi-Agent LLM Systems: An Industrial Experience at DoorDash"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-the-delegation-divid.md",
+          "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries"
         }
       ]
     },
     {
-      "title": "AI 자본 검증, 증시 충격과 조달 재편으로",
-      "summary_ko": "현금흐름 적자 경고가 글로벌 증시 급락으로 번지고 인프라 재원은 담보대출·외부 유치로 옮겨갔다.",
+      "title": "AI 신용 불안 속 국내 인프라 규제 완화",
+      "summary_ko": "AI 신용 리스크가 코스피까지 흔든 날 정부는 AIDC 인허가·시설 규제 정비로 국내 인프라 공급 조건을 개선했다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
+        "ai_policy",
         "금융회사 AI"
       ],
       "articles": [
@@ -125,23 +168,29 @@
           "title": "SK하이퍼, AI 데이터센터 구축 자금 유치 본격화"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676511",
-          "title": ""
-        },
-        {
           "date": "2026-10-23",
           "file": "20261023-앤드리슨-호로위츠-a16z-프론티어-.md",
           "title": "앤드리슨 호로위츠, ‘a16z 프론티어’로 전면 개편…\"AI·신기술 투자 확대\""
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-정부-aidc-인허가-시설-규제-정비.md",
+          "title": "정부, AIDC 인허가·시설 규제 정비…기술 육성에 2000억원 투입"
+        },
+        {
+          "date": "2026-10-23",
+          "file": "20261023-네오클라우드서-빅테크로-옮겨붙은-ai.md",
+          "title": "네오클라우드서 빅테크로 옮겨붙은 AI 신용위험…코스피 '흔들'(종합)"
         }
       ]
     },
     {
-      "title": "상시 에이전트와 격리 런타임의 동반 등장",
-      "summary_ko": "상시 실행 개인 에이전트가 보편화되는 동시에 실행 격리와 공격 자동화 대응이 인프라 요건이 됐다.",
+      "title": "에이전트 감독의 외부 검증 요구",
+      "summary_ko": "상시 에이전트 확산과 공격 자동화 대응에 더해 연구소 내부 감시 체계의 외부 감사가 공개돼 감독 투명성이 요건이 됐다.",
       "topics": [
         "ai_agents",
-        "ai_industry",
-        "ai_policy"
+        "ai_policy",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -158,6 +207,10 @@
           "date": "2026-10-23",
           "file": "20261023-단독-해외-ai-쓰다가-기술유출범-몰.md",
           "title": "[단독] 해외 AI 쓰다가 '기술유출범' 몰릴 수 있다?"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216564",
+          "title": ""
         }
       ]
     }

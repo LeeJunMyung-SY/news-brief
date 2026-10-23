@@ -9,9 +9,14 @@ runs_today:
     file: "digest_1221.md"
     selected: 7
     new: 108
+  - time: "16:26"
+    file: "digest_1626.md"
+    selected: 12
+    new: 407
 ---
 
 # 2026-10-23 다이제스트 인덱스
 
 - [08:27 회차](digest_0827.md) — 20개 선별 / 182개 신규
 - [12:21 회차](digest_1221.md) — 7개 선별 / 108개 신규
+- [16:26 회차](digest_1626.md) — 12개 선별 / 407개 신규
