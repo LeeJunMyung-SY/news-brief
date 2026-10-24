@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:15:40+00:00",
+  "generated_at": "2026-10-24T07:12:10+00:00",
   "latest_date": "2026-10-24",
   "topics": [
     {
@@ -18,7 +18,7 @@
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1484
+      "count": 1485
     },
     {
       "key": "ai_industry",
@@ -66,6 +66,12 @@
           "file": "digest_1215.md",
           "selected": 4,
           "new": 37
+        },
+        {
+          "time": "16:12",
+          "file": "digest_1612.md",
+          "selected": 1,
+          "new": 933
         }
       ]
     },
@@ -2958,7 +2964,7 @@
       "file": "2026-W43.md",
       "week_start": "2026-10-19",
       "week_end": "2026-10-25",
-      "total_selected_this_week": 392
+      "total_selected_this_week": 393
     },
     {
       "week": "2026-W42",
