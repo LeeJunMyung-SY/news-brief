@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-10-23T23:24:21+00:00",
+  "generated_at": "2026-10-24T03:15:40+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1154,
+      "count": 1157,
       "latest_date": "2026-10-24"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1470,
+      "count": 1471,
       "latest_date": "2026-10-24"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1482,
+      "count": 1484,
       "latest_date": "2026-10-24"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3413,
+      "count": 3415,
       "latest_date": "2026-10-24"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1056,
+      "count": 1057,
       "latest_date": "2026-10-24"
     },
     {
@@ -124,6 +124,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216585"
+      },
+      {
+        "date": "2026-10-24",
+        "file": "20261024-앤트로픽-미소스-5-실제-피해-경고에.md",
+        "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#alignment",
+          "#regulation",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216605"
       },
       {
         "date": "2026-10-24",
@@ -21502,6 +21517,21 @@
       },
       {
         "date": "2026-10-24",
+        "file": "20261024-앤트로픽-미소스-5-실제-피해-경고에.md",
+        "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#alignment",
+          "#regulation",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216605"
+      },
+      {
+        "date": "2026-10-24",
         "file": "20261024-anthropic-says-its-u.md",
         "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
         "importance": 6,
@@ -21543,6 +21573,36 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
+      {
+        "date": "2026-10-24",
+        "file": "20261024-딥시크-미니맥스-중국-정부-ai-모델.md",
+        "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#china-ai",
+          "#export-control",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216606"
+      },
+      {
+        "date": "2026-10-24",
+        "file": "20261024-문샷-키미-k3-1-프로-aaii-전.md",
+        "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#open-weights",
+          "#benchmark",
+          "#china-ai",
+          "#coding"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216603"
       },
       {
         "date": "2026-10-24",
@@ -38177,6 +38237,21 @@
       },
       {
         "date": "2026-10-24",
+        "file": "20261024-앤트로픽-미소스-5-실제-피해-경고에.md",
+        "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#alignment",
+          "#regulation",
+          "#agent-framework",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216605"
+      },
+      {
+        "date": "2026-10-24",
         "file": "20261024-anthropic-says-its-u.md",
         "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
         "importance": 6,
@@ -38203,6 +38278,21 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+      },
+      {
+        "date": "2026-10-24",
+        "file": "20261024-딥시크-미니맥스-중국-정부-ai-모델.md",
+        "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#china-ai",
+          "#export-control",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216606"
       },
       {
         "date": "2026-10-24",
@@ -59712,6 +59802,36 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
+      },
+      {
+        "date": "2026-10-24",
+        "file": "20261024-딥시크-미니맥스-중국-정부-ai-모델.md",
+        "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#open-weights",
+          "#china-ai",
+          "#export-control",
+          "#model-release"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216606"
+      },
+      {
+        "date": "2026-10-24",
+        "file": "20261024-상장-첫날-32-폭락하더니-이틀-만에.md",
+        "title": "상장 첫날 32% 폭락하더니 이틀 만에 시총 1조 회복…외신도 주목한 종목, 뭔데?",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#ai-infrastructure",
+          "#investment",
+          "#capital-markets",
+          "#cloud"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261024000001"
       },
       {
         "date": "2026-10-23",
@@ -116738,6 +116858,21 @@
         "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html"
       },
       {
+        "date": "2026-10-24",
+        "file": "20261024-상장-첫날-32-폭락하더니-이틀-만에.md",
+        "title": "상장 첫날 32% 폭락하더니 이틀 만에 시총 1조 회복…외신도 주목한 종목, 뭔데?",
+        "importance": 6,
+        "tags": [
+          "#ipo",
+          "#ai-infrastructure",
+          "#investment",
+          "#capital-markets",
+          "#cloud"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261024000001"
+      },
+      {
         "date": "2026-10-23",
         "file": "20261023-meta-stock-sinks-nea.md",
         "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
@@ -154667,12 +154802,8 @@
       {
         "date": "2026-10-24",
         "title": "AI 자본 조정과 컴퓨팅의 금융상품화",
-        "summary": "밸류에이션 하향과 IPO 철회 속에 컴퓨팅 가격이 파생상품으로 거래되기 시작했다.",
+        "summary": "밸류에이션 하향·IPO 변동 속에 컴퓨팅 가격이 파생상품으로 거래되고 국내 인프라 상장사도 조달 구조로 평가받기 시작했다.",
         "articles": [
-          {
-            "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-            "title": ""
-          },
           {
             "date": "2026-10-24",
             "file": "20261024-turmoil-hits-ai-buil.md",
@@ -154689,8 +154820,9 @@
             "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나"
           },
           {
-            "url": "https://www.hankyung.com/article/2026102317711",
-            "title": ""
+            "date": "2026-10-24",
+            "file": "20261024-상장-첫날-32-폭락하더니-이틀-만에.md",
+            "title": "상장 첫날 32% 폭락하더니 이틀 만에 시총 1조 회복…외신도 주목한 종목, 뭔데?"
           }
         ]
       },
@@ -163698,12 +163830,8 @@
       {
         "date": "2026-10-24",
         "title": "AI 자본 조정과 컴퓨팅의 금융상품화",
-        "summary": "밸류에이션 하향과 IPO 철회 속에 컴퓨팅 가격이 파생상품으로 거래되기 시작했다.",
+        "summary": "밸류에이션 하향·IPO 변동 속에 컴퓨팅 가격이 파생상품으로 거래되고 국내 인프라 상장사도 조달 구조로 평가받기 시작했다.",
         "articles": [
-          {
-            "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-            "title": ""
-          },
           {
             "date": "2026-10-24",
             "file": "20261024-turmoil-hits-ai-buil.md",
@@ -163720,15 +163848,16 @@
             "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나"
           },
           {
-            "url": "https://www.hankyung.com/article/2026102317711",
-            "title": ""
+            "date": "2026-10-24",
+            "file": "20261024-상장-첫날-32-폭락하더니-이틀-만에.md",
+            "title": "상장 첫날 32% 폭락하더니 이틀 만에 시총 1조 회복…외신도 주목한 종목, 뭔데?"
           }
         ]
       },
       {
         "date": "2026-10-24",
-        "title": "모델사, 안전 격리와 기업 채널로 경쟁",
-        "summary": "격리 학습·정렬 성적 공개와 SI 파트너망·관리형 학습이 공급사 선택 기준을 넓혔다.",
+        "title": "모델사, 안전 사고 공개와 중국 모델 진영 변수",
+        "summary": "정부 기관의 정렬 실패 사고 공개와 중국 오픈모델의 수출 허가·성능 상승이 공급사 선택 기준을 안전·진영 축으로 넓혔다.",
         "articles": [
           {
             "date": "2026-10-24",
@@ -163749,6 +163878,21 @@
             "date": "2026-10-24",
             "file": "20261024-aws-gpu-관리-없이-맞춤형-ai.md",
             "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-앤트로픽-미소스-5-실제-피해-경고에.md",
+            "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-딥시크-미니맥스-중국-정부-ai-모델.md",
+            "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-문샷-키미-k3-1-프로-aaii-전.md",
+            "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극"
           }
         ]
       },
@@ -170580,12 +170724,8 @@
       {
         "date": "2026-10-24",
         "title": "AI 자본 조정과 컴퓨팅의 금융상품화",
-        "summary": "밸류에이션 하향과 IPO 철회 속에 컴퓨팅 가격이 파생상품으로 거래되기 시작했다.",
+        "summary": "밸류에이션 하향·IPO 변동 속에 컴퓨팅 가격이 파생상품으로 거래되고 국내 인프라 상장사도 조달 구조로 평가받기 시작했다.",
         "articles": [
-          {
-            "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-            "title": ""
-          },
           {
             "date": "2026-10-24",
             "file": "20261024-turmoil-hits-ai-buil.md",
@@ -170602,8 +170742,9 @@
             "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나"
           },
           {
-            "url": "https://www.hankyung.com/article/2026102317711",
-            "title": ""
+            "date": "2026-10-24",
+            "file": "20261024-상장-첫날-32-폭락하더니-이틀-만에.md",
+            "title": "상장 첫날 32% 폭락하더니 이틀 만에 시총 1조 회복…외신도 주목한 종목, 뭔데?"
           }
         ]
       },
@@ -170621,10 +170762,6 @@
             "date": "2026-10-24",
             "file": "20261024-단독-ai인프라-속도가-생명인데-sk.md",
             "title": "[단독] \"AI인프라 속도가 생명인데…\" SK·GS·네이버 사업 안갯속"
-          },
-          {
-            "url": "https://www.mk.co.kr/news/economy/12184424",
-            "title": ""
           }
         ]
       },
@@ -173882,17 +174019,13 @@
             "date": "2026-10-24",
             "file": "20261024-단독-ai인프라-속도가-생명인데-sk.md",
             "title": "[단독] \"AI인프라 속도가 생명인데…\" SK·GS·네이버 사업 안갯속"
-          },
-          {
-            "url": "https://www.mk.co.kr/news/economy/12184424",
-            "title": ""
           }
         ]
       },
       {
         "date": "2026-10-24",
-        "title": "모델사, 안전 격리와 기업 채널로 경쟁",
-        "summary": "격리 학습·정렬 성적 공개와 SI 파트너망·관리형 학습이 공급사 선택 기준을 넓혔다.",
+        "title": "모델사, 안전 사고 공개와 중국 모델 진영 변수",
+        "summary": "정부 기관의 정렬 실패 사고 공개와 중국 오픈모델의 수출 허가·성능 상승이 공급사 선택 기준을 안전·진영 축으로 넓혔다.",
         "articles": [
           {
             "date": "2026-10-24",
@@ -173913,6 +174046,21 @@
             "date": "2026-10-24",
             "file": "20261024-aws-gpu-관리-없이-맞춤형-ai.md",
             "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-앤트로픽-미소스-5-실제-피해-경고에.md",
+            "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-딥시크-미니맥스-중국-정부-ai-모델.md",
+            "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-문샷-키미-k3-1-프로-aaii-전.md",
+            "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극"
           }
         ]
       },
@@ -178764,8 +178912,8 @@
     "llm_models": [
       {
         "date": "2026-10-24",
-        "title": "모델사, 안전 격리와 기업 채널로 경쟁",
-        "summary": "격리 학습·정렬 성적 공개와 SI 파트너망·관리형 학습이 공급사 선택 기준을 넓혔다.",
+        "title": "모델사, 안전 사고 공개와 중국 모델 진영 변수",
+        "summary": "정부 기관의 정렬 실패 사고 공개와 중국 오픈모델의 수출 허가·성능 상승이 공급사 선택 기준을 안전·진영 축으로 넓혔다.",
         "articles": [
           {
             "date": "2026-10-24",
@@ -178786,6 +178934,21 @@
             "date": "2026-10-24",
             "file": "20261024-aws-gpu-관리-없이-맞춤형-ai.md",
             "title": "AWS, GPU 관리 없이 맞춤형 AI 학습하는 새 기능 공개"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-앤트로픽-미소스-5-실제-피해-경고에.md",
+            "title": "앤트로픽 '미소스 5', 실제 피해 경고에도 해킹 지속...정렬 실패 확인"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-딥시크-미니맥스-중국-정부-ai-모델.md",
+            "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득"
+          },
+          {
+            "date": "2026-10-24",
+            "file": "20261024-문샷-키미-k3-1-프로-aaii-전.md",
+            "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극"
           }
         ]
       },
