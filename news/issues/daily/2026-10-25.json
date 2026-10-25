@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-25",
+  "updated_at": "2026-10-25T12:16:37.243729+09:00",
+  "run_id": "run_20261025_121637",
+  "summary_ko": "에이전트 실행·조달 인프라가 상품화되고, 현장 ROI와 감독 AI가 도입 기준을 높였다.",
+  "issues": [
+    {
+      "title": "에이전트 실행·조달 인프라의 상품화",
+      "summary_ko": "격리 실행·관리형 모델 공급·토큰 중개가 클라우드·통신 상품이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-25",
+          "file": "20261025-구글-클라우드-에이전트-전용-컴퓨팅-.md",
+          "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리"
+        },
+        {
+          "date": "2026-10-25",
+          "file": "20261025-앤트로픽-구글-클라우드서-최신-기능-.md",
+          "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시"
+        },
+        {
+          "date": "2026-10-25",
+          "file": "20261025-skt는-왜-토큰-게이트웨이로-눈길-.md",
+          "title": "SKT는 왜 토큰 게이트웨이로 눈길 돌렸나"
+        },
+        {
+          "date": "2026-10-25",
+          "file": "20261025-메타-뮤즈-아시아-첫발-네이버-국내-.md",
+          "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\""
+        }
+      ]
+    },
+    {
+      "title": "연산 배분과 AI 금융 구조의 시험",
+      "summary_ko": "클라우드의 연산 자기배분과 공급사 금융 리스크가 조달 불안을 키웠다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-25",
+          "file": "20261025-피차이-매출-포기하더라도-첨단-ai-.md",
+          "title": "피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”"
+        },
+        {
+          "date": "2026-10-25",
+          "file": "20261025-nvidia-s-role-as-ai-.md",
+          "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit"
+        }
+      ]
+    },
+    {
+      "title": "현장 ROI와 감독 AI, 도입 문턱을 높이다",
+      "summary_ko": "정량 성과 공개와 당국의 AI 추적이 기업·금융사 AI 기준선을 올렸다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-25",
+          "file": "20261025-인텔-팹에-들어간-에이전틱-ai-이상.md",
+          "title": "인텔 팹에 들어간 '에이전틱 AI'…이상 감지 30% 단축·750만 달러 절감"
+        },
+        {
+          "date": "2026-10-25",
+          "file": "20261025-금감원-ai로-불사금-조직-배후-까지.md",
+          "title": "금감원, AI로 불사금 조직 '배후'까지 쫓는다…분석체계 마련"
+        }
+      ]
+    },
+    {
+      "title": "AI 활용의 부수 비용: 표시 의무와 숙련 공백",
+      "summary_ko": "광고 표시 의무와 주니어 숙련 저해 우려가 AI 활용의 숨은 비용을 드러냈다.",
+      "topics": [
+        "ai_policy",
+        "ai_workforce_training"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-25",
+          "file": "20261025-pennsylvania-will-re.md",
+          "title": "Pennsylvania will require labels on AI-generated ads"
+        },
+        {
+          "date": "2026-10-25",
+          "file": "20261025-ai-makes-junior-pate.md",
+          "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth"
+        }
+      ]
+    }
+  ]
+}
