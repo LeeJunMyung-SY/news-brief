@@ -1,0 +1,91 @@
+{
+  "week": "2026-W44",
+  "updated_at": "2026-10-26T08:13:55.271819+09:00",
+  "run_id": "run_20261026_081355",
+  "summary_ko": "AI 시장이 가격 경쟁과 투자 효율 검증 국면으로 동시에 접어들었다.",
+  "issues": [
+    {
+      "title": "모델 공급 가격전 개시",
+      "body_ko": "선두 공급사 할인 공세로 멀티벤더 전략의 협상 가치가 커졌다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-26",
+          "file": "20261026-openai-offers-discou.md",
+          "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-문서-코딩-업무에-특화된-챗gpt-법.md",
+          "title": "문서·코딩 업무에 특화된 챗GPT, 법인 결제액도 40% 뛰었다"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자 효율 검증",
+      "body_ko": "시장과 경영진 모두 AI 투자에 정량 성과를 요구하기 시작했다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-26",
+          "file": "20261026-ai-delivers-zero-fin.md",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-빅테크-ai-투자-성적표-이젠-확장-.md",
+          "title": "빅테크 AI 투자 성적표…이젠 '확장'에서 '효율'로"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026102535401",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "연산 용량의 공급 제약",
+      "body_ko": "클라우드 용량 조기 완판으로 장기 용량 확보가 전략 과제가 됐다.",
+      "topics": [
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-26",
+          "file": "20261026-아마존-ai-수요-폭증에-내년-컴퓨팅.md",
+          "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려"
+        }
+      ]
+    },
+    {
+      "title": "에이전트·피지컬 AI 비용 절감",
+      "body_ko": "아키텍처 단순화와 데이터 비용 급락이 AI 구축 비용을 낮추고 있다.",
+      "topics": [
+        "ai_agents",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-26",
+          "file": "20261026-anthropic-says-one-a.md",
+          "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-nvidia-open-sources-.md",
+          "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-aj네트웍스-노바테크와-로봇-렌탈로-.md",
+          "title": "AJ네트웍스, 노바테크와 로봇 렌탈로 제조·물류 자동화 공략 나선다"
+        }
+      ]
+    }
+  ]
+}
