@@ -1,8 +1,8 @@
 {
   "date": "2026-10-26",
-  "updated_at": "2026-10-26T08:13:55.271819+09:00",
-  "run_id": "run_20261026_081355",
-  "summary_ko": "모델 가격전과 용량 부족 속에 AI 투자 성과 검증 압력이 커졌다.",
+  "updated_at": "2026-10-26T12:14:12.273995+09:00",
+  "run_id": "run_20261026_121412",
+  "summary_ko": "가격전·성과 검증 속에 인프라 선점과 금융권 AI 내재화가 동시에 진행됐다.",
   "issues": [
     {
       "title": "모델 가격전과 기업 도입 확대",
@@ -41,49 +41,56 @@
           "date": "2026-10-26",
           "file": "20261026-빅테크-ai-투자-성적표-이젠-확장-.md",
           "title": "빅테크 AI 투자 성적표…이젠 '확장'에서 '효율'로"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026102535401",
-          "title": ""
         }
       ]
     },
     {
-      "title": "클라우드 연산 용량 선점 경쟁",
-      "summary_ko": "용량 확보 자체가 AI 사업 속도를 좌우하는 변수가 됐다.",
+      "title": "연산 인프라 선점과 차입 조달",
+      "summary_ko": "연산 확보 경쟁이 대형 차입과 전력 부품 투자로 번졌다.",
       "topics": [
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-10-26",
           "file": "20261026-아마존-ai-수요-폭증에-내년-컴퓨팅.md",
           "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-spacex-closes-40-bil.md",
+          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-ls에코에너지-베트남에-650억-투자.md",
+          "title": "LS에코에너지, 베트남에 650억 투자…신성장동력은 'UC'"
         }
       ]
     },
     {
-      "title": "에이전트 구조 단순화·경량화",
-      "summary_ko": "에이전트 설계가 단일화·로컬화로 운영 비용을 낮추는 쪽으로 간다.",
+      "title": "금융권 AI 현업 내재화",
+      "summary_ko": "금융사가 AI를 현업 개발·영업 지원·직접 투자로 내재화한다.",
       "topics": [
-        "ai_agents",
-        "llm_models"
+        "금융회사 AI",
+        "ai_agents"
       ],
       "articles": [
         {
           "date": "2026-10-26",
-          "file": "20261026-anthropic-says-one-a.md",
-          "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone"
+          "file": "20261026-케이뱅크-임직원이-직접-ai-에이전트.md",
+          "title": "케이뱅크, 임직원이 직접 AI 에이전트 개발…경진대회 개최"
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-엔비디아-로컬-에이전트-로봇-겨냥-4.md",
-          "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 '네모트론 3.5 볼트' 출시"
+          "file": "20261026-게시판-삼성화재-ai-영업지원-시스템.md",
+          "title": "[게시판] 삼성화재, AI 영업지원 시스템 오픈…맞춤형 상담·서비스 지원"
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-리퀴드-ai-실시간-추론-엔진-rip.md",
-          "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥"
+          "file": "20261026-jb금융-400억-ai-투자-이어-3.md",
+          "title": "JB금융, 400억 AI 투자 이어 300억 펀드 조성…핵심은 '보안'"
         }
       ]
     }
