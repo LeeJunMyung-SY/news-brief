@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-26T12:14:12.273995+09:00",
-  "run_id": "run_20261026_121412",
-  "summary_ko": "AI 시장이 가격·효율 경쟁에 들어선 가운데 현업 내재화가 가속됐다.",
+  "updated_at": "2026-10-26T16:17:57.304829+09:00",
+  "run_id": "run_20261026_161757",
+  "summary_ko": "AI가 수익성 검증 국면에 들며 과금·인프라·통제 경쟁이 본격화됐다.",
   "issues": [
     {
-      "title": "모델 공급 가격전 개시",
-      "body_ko": "선두 공급사 할인 공세로 멀티벤더 전략의 협상 가치가 커졌다.",
+      "title": "AI 수익성 검증과 과금 재편",
+      "body_ko": "성과 압박과 할인·구독 과금이 겹쳐 기업의 AI 조달 협상력이 커졌다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -21,17 +21,7 @@
           "date": "2026-10-26",
           "file": "20261026-문서-코딩-업무에-특화된-챗gpt-법.md",
           "title": "문서·코딩 업무에 특화된 챗GPT, 법인 결제액도 40% 뛰었다"
-        }
-      ]
-    },
-    {
-      "title": "AI 투자 효율 검증",
-      "body_ko": "시장과 경영진 모두 AI 투자에 정량 성과를 요구하기 시작했다.",
-      "topics": [
-        "ai_industry",
-        "ai_compute_energy"
-      ],
-      "articles": [
+        },
         {
           "date": "2026-10-26",
           "file": "20261026-ai-delivers-zero-fin.md",
@@ -41,14 +31,20 @@
           "date": "2026-10-26",
           "file": "20261026-빅테크-ai-투자-성적표-이젠-확장-.md",
           "title": "빅테크 AI 투자 성적표…이젠 '확장'에서 '효율'로"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-엔비디아-gpu당-연간-2000달러-.md",
+          "title": "엔비디아, GPU당 연간 2000달러 SW 구독제 구상...생태계 '락인' 가속"
         }
       ]
     },
     {
-      "title": "연산 용량 공급 제약과 차입",
-      "body_ko": "용량 완판과 대형 차입이 겹쳐 연산 확보가 조달력 경쟁이 됐다.",
+      "title": "연산 확보의 국가·자본 경쟁",
+      "body_ko": "용량 완판과 대형 투자·차입으로 연산 확보가 조달력 싸움이 됐다.",
       "topics": [
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -60,15 +56,25 @@
           "date": "2026-10-26",
           "file": "20261026-spacex-closes-40-bil.md",
           "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-softbank-reportedly-.md",
+          "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-삼성-sk-내년-2월-hbm4-8단-.md",
+          "title": "삼성·SK, 내년 2월 HBM4 8단 양산 출하...엔비디아향 공급"
         }
       ]
     },
     {
-      "title": "에이전트·피지컬 AI 비용 절감",
-      "body_ko": "아키텍처 단순화와 데이터 비용 급락이 AI 구축 비용을 낮추고 있다.",
+      "title": "에이전트 단순화와 통제 과제",
+      "body_ko": "에이전트 설계는 단순해지고 권한 통제는 도입의 선결 조건이 됐다.",
       "topics": [
         "ai_agents",
-        "physical_ai_robotics"
+        "ai_policy"
       ],
       "articles": [
         {
@@ -78,6 +84,21 @@
         },
         {
           "date": "2026-10-26",
+          "file": "20261026-클로드-선거-앞두고-조지아주-유권자-.md",
+          "title": "클로드, 선거 앞두고 조지아주 유권자 데이터 무단 접근 논란"
+        }
+      ]
+    },
+    {
+      "title": "피지컬 AI 비용 하락과 양산",
+      "body_ko": "데이터 비용 급락과 양산 공급망 확정으로 로봇 상용화가 앞당겨졌다.",
+      "topics": [
+        "physical_ai_robotics",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-26",
           "file": "20261026-nvidia-open-sources-.md",
           "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra"
         },
@@ -85,6 +106,16 @@
           "date": "2026-10-26",
           "file": "20261026-aj네트웍스-노바테크와-로봇-렌탈로-.md",
           "title": "AJ네트웍스, 노바테크와 로봇 렌탈로 제조·물류 자동화 공략 나선다"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-현대차-휴머노이드-아틀라스-공급망-나.md",
+          "title": "현대차 휴머노이드 '아틀라스' 공급망 나왔다…배터리·카메라 韓 부품 대거 진입"
+        },
+        {
+          "date": "2026-10-26",
+          "file": "20261026-코난테크놀로지-221억-규모-포항-철.md",
+          "title": "코난테크놀로지, 221억 규모 '포항 철강산단 AX 실증사업' 참여…제조 AI 확장 가속"
         }
       ]
     },
