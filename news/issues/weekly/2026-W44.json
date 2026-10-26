@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-26T16:17:57.304829+09:00",
-  "run_id": "run_20261026_161757",
-  "summary_ko": "AI가 수익성 검증 국면에 들며 과금·인프라·통제 경쟁이 본격화됐다.",
+  "updated_at": "2026-10-27T08:16:50.785772+09:00",
+  "run_id": "run_20261027_081650",
+  "summary_ko": "앤트로픽 상장으로 AI 수익성 검증이 본격화되고 가격·자본 경쟁이 격해졌다.",
   "issues": [
     {
-      "title": "AI 수익성 검증과 과금 재편",
-      "body_ko": "성과 압박과 할인·구독 과금이 겹쳐 기업의 AI 조달 협상력이 커졌다.",
+      "title": "AI 수익성 검증과 가격 재편",
+      "body_ko": "공시 수치와 할인 공세가 겹쳐 기업의 AI 조달 협상력이 커졌다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -19,29 +19,34 @@
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-문서-코딩-업무에-특화된-챗gpt-법.md",
-          "title": "문서·코딩 업무에 특화된 챗GPT, 법인 결제액도 40% 뛰었다"
-        },
-        {
-          "date": "2026-10-26",
           "file": "20261026-ai-delivers-zero-fin.md",
           "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-빅테크-ai-투자-성적표-이젠-확장-.md",
-          "title": "빅테크 AI 투자 성적표…이젠 '확장'에서 '효율'로"
+          "file": "20261026-문서-코딩-업무에-특화된-챗gpt-법.md",
+          "title": "문서·코딩 업무에 특화된 챗GPT, 법인 결제액도 40% 뛰었다"
         },
         {
-          "date": "2026-10-26",
-          "file": "20261026-엔비디아-gpu당-연간-2000달러-.md",
-          "title": "엔비디아, GPU당 연간 2000달러 SW 구독제 구상...생태계 '락인' 가속"
+          "date": "2026-10-27",
+          "file": "20261027-anthropic-opens-its-.md",
+          "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-anthropic-s-ipo-fili.md",
+          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-gpt-6-1-terra-halves.md",
+          "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models"
         }
       ]
     },
     {
-      "title": "연산 확보의 국가·자본 경쟁",
-      "body_ko": "용량 완판과 대형 투자·차입으로 연산 확보가 조달력 싸움이 됐다.",
+      "title": "연산 확보의 자본시장 경쟁",
+      "body_ko": "증자·GPU 금융·장기 약정으로 연산 확보가 자본 조달력 싸움이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -54,24 +59,28 @@
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-spacex-closes-40-bil.md",
-          "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says"
-        },
-        {
-          "date": "2026-10-26",
           "file": "20261026-softbank-reportedly-.md",
           "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia"
         },
         {
-          "date": "2026-10-26",
-          "file": "20261026-삼성-sk-내년-2월-hbm4-8단-.md",
-          "title": "삼성·SK, 내년 2월 HBM4 8단 양산 출하...엔비디아향 공급"
+          "date": "2026-10-27",
+          "file": "20261027-meta-announces-95-bi.md",
+          "title": "Meta announces $95 billion stock offering to fund AI expansion"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-spacex-locks-in-40b-.md",
+          "title": "SpaceX locks in $40B GPU financing deal with Apollo"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 단순화와 통제 과제",
-      "body_ko": "에이전트 설계는 단순해지고 권한 통제는 도입의 선결 조건이 됐다.",
+      "title": "에이전트 확산과 통제 과제",
+      "body_ko": "업무 앱이 에이전트화되며 권한 통제가 도입의 선결 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -86,27 +95,27 @@
           "date": "2026-10-26",
           "file": "20261026-클로드-선거-앞두고-조지아주-유권자-.md",
           "title": "클로드, 선거 앞두고 조지아주 유권자 데이터 무단 접근 논란"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-마이크-시실리아-오라클-ceo-sw-.md",
+          "title": "마이크 시실리아 오라클 CEO \"SW 조작은 AI…사람은 업무 집중\""
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-the-realreal-won-t-l.md",
+          "title": "The RealReal won’t let AI agents hog designer clothing"
         }
       ]
     },
     {
-      "title": "피지컬 AI 비용 하락과 양산",
-      "body_ko": "데이터 비용 급락과 양산 공급망 확정으로 로봇 상용화가 앞당겨졌다.",
+      "title": "피지컬 AI 설비투자 본격화",
+      "body_ko": "완성차·로봇사의 대규모 투자로 피지컬 AI가 양산 단계에 들어섰다.",
       "topics": [
-        "physical_ai_robotics",
-        "physical_ai"
+        "physical_ai",
+        "physical_ai_robotics"
       ],
       "articles": [
-        {
-          "date": "2026-10-26",
-          "file": "20261026-nvidia-open-sources-.md",
-          "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra"
-        },
-        {
-          "date": "2026-10-26",
-          "file": "20261026-aj네트웍스-노바테크와-로봇-렌탈로-.md",
-          "title": "AJ네트웍스, 노바테크와 로봇 렌탈로 제조·물류 자동화 공략 나선다"
-        },
         {
           "date": "2026-10-26",
           "file": "20261026-현대차-휴머노이드-아틀라스-공급망-나.md",
@@ -114,17 +123,27 @@
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-코난테크놀로지-221억-규모-포항-철.md",
-          "title": "코난테크놀로지, 221억 규모 '포항 철강산단 AX 실증사업' 참여…제조 AI 확장 가속"
+          "file": "20261026-nvidia-open-sources-.md",
+          "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-toyota-is-betting-6-.md",
+          "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-원익로보틱스-완주에-1천억원-투자-제.md",
+          "title": "원익로보틱스, 완주에 1천억원 투자…제조업 AI 전환 '탄력'"
         }
       ]
     },
     {
-      "title": "금융권 AI 현업 내재화",
-      "body_ko": "금융사가 현업 개발·영업 지원·직접 투자로 AI를 체화하고 있다.",
+      "title": "금융권 AI 내재화와 보안",
+      "body_ko": "금융사가 AI를 경영 의제로 격상하는 한편 AI 해킹 대응이 시급해졌다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_policy"
       ],
       "articles": [
         {
@@ -134,13 +153,23 @@
         },
         {
           "date": "2026-10-26",
-          "file": "20261026-게시판-삼성화재-ai-영업지원-시스템.md",
-          "title": "[게시판] 삼성화재, AI 영업지원 시스템 오픈…맞춤형 상담·서비스 지원"
-        },
-        {
-          "date": "2026-10-26",
           "file": "20261026-jb금융-400억-ai-투자-이어-3.md",
           "title": "JB금융, 400억 AI 투자 이어 300억 펀드 조성…핵심은 '보안'"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-barclays-names-anita.md",
+          "title": "Barclays names Anita Tanna chief AI officer"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-uk-fs-sector-embrace.md",
+          "title": "UK FS sector embraces GenAI"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-kb국민은행-해킹-정보유출-2091명.md",
+          "title": "KB국민은행 “해킹 정보유출 2091명 추가 확인”…총 2210명 유출"
         }
       ]
     }
