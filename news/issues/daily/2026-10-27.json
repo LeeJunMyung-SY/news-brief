@@ -1,8 +1,8 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T12:13:44.331516+09:00",
-  "run_id": "run_20261027_121344",
-  "summary_ko": "앤트로픽 상장이 AI 수익성을 시험하고 모델 조달은 비용·신뢰 경쟁으로 번졌다.",
+  "updated_at": "2026-10-27T16:13:45.877413+09:00",
+  "run_id": "run_20261027_161345",
+  "summary_ko": "AI 상장과 부채 조달이 수익성과 금융 리스크를 함께 시험대에 올렸다.",
   "issues": [
     {
       "title": "앤트로픽 상장, AI 수익성 시험대",
@@ -31,10 +31,52 @@
           "date": "2026-10-27",
           "file": "20261027-매출-목표-못-채우면-조달-금리-13.md",
           "title": "매출 목표 못 채우면 조달 금리 13%…앤트로픽이 드러낸 AI 금융의 리스 [김주완의 글로벌머니 X파일]"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자의 부채·인력 청구서",
+      "summary_ko": "연산 조달이 은행 부채와 감원으로 번지며 금융 리스크가 커졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "금융회사 AI",
+        "ai_workforce_training"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-27",
+          "file": "20261027-meta-announces-95-bi.md",
+          "title": "Meta announces $95 billion stock offering to fund AI expansion"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12186725",
-          "title": ""
+          "date": "2026-10-27",
+          "file": "20261027-microsoft-offers-vol.md",
+          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-spacex-locks-in-40b-.md",
+          "title": "SpaceX locks in $40B GPU financing deal with Apollo"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-단독-ai투자-꺾이면-수출-1천억달러.md",
+          "title": "[단독] “AI투자 꺾이면 수출 1천억달러 타격”…한은의 경고"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-월가-앤트로픽-ai-칩-확보에-83조.md",
+          "title": "월가, 앤트로픽 AI 칩 확보에 83조 금융 지원…브로드컴 장비 사서 임대"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-한은-ai발-금융-취약성-누적-한국도.md",
+          "title": "한은 \"AI발 금융 취약성 누적…한국도 전이 리스크 점검해야\""
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-ai-기업-대출-담보-대신-토큰-사용.md",
+          "title": "\"AI 기업 대출, 담보 대신 토큰 사용량 본다\"…中 선전의 금융 실험 [차이나 워치]"
         }
       ]
     },
@@ -64,41 +106,12 @@
       ]
     },
     {
-      "title": "AI 투자의 자본·인력 청구서",
-      "summary_ko": "AI 설비투자가 증자·차입과 감원 압력으로 번졌다.",
-      "topics": [
-        "ai_compute_energy",
-        "ai_workforce_training"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-27",
-          "file": "20261027-meta-announces-95-bi.md",
-          "title": "Meta announces $95 billion stock offering to fund AI expansion"
-        },
-        {
-          "date": "2026-10-27",
-          "file": "20261027-microsoft-offers-vol.md",
-          "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push"
-        },
-        {
-          "date": "2026-10-27",
-          "file": "20261027-spacex-locks-in-40b-.md",
-          "title": "SpaceX locks in $40B GPU financing deal with Apollo"
-        },
-        {
-          "date": "2026-10-27",
-          "file": "20261027-단독-ai투자-꺾이면-수출-1천억달러.md",
-          "title": "[단독] “AI투자 꺾이면 수출 1천억달러 타격”…한은의 경고"
-        }
-      ]
-    },
-    {
-      "title": "금융권 AI 리더십과 보안 과제",
-      "summary_ko": "금융사 AI가 경영 의제로 오르며 AI 해킹 대응이 시급해졌다.",
+      "title": "에이전트형 공격과 금융 보안",
+      "summary_ko": "에이전트 공격이 현실화되며 보안 통제가 AI 도입의 전제가 됐다.",
       "topics": [
         "금융회사 AI",
-        "ai_policy"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -118,13 +131,18 @@
         },
         {
           "date": "2026-10-27",
-          "file": "20261027-미래에셋증권-네이버클라우드-ai-페스.md",
-          "title": "미래에셋증권·네이버클라우드 'AI 페스티벌' 개최…1052팀 참가"
+          "file": "20261027-임기범의-ai-혁신-스토리-ai-해킹.md",
+          "title": "[임기범의 AI 혁신 스토리] AI 해킹 시대, 금융보안의 과제"
         },
         {
           "date": "2026-10-27",
-          "file": "20261027-임기범의-ai-혁신-스토리-ai-해킹.md",
-          "title": "[임기범의 AI 혁신 스토리] AI 해킹 시대, 금융보안의 과제"
+          "file": "20261027-앤트로픽도-뚫렸다-캐서드럴-ai-에이.md",
+          "title": "앤트로픽도 뚫렸다...캐서드럴, AI 에이전트로 12시간 만에 내부망 침투"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-ai-에이전트는-왜-앱을-건너뛰나-오.md",
+          "title": "AI 에이전트는 왜 앱을 건너뛰나…오라클이 보안을 DB에 넣는 이유"
         }
       ]
     }
