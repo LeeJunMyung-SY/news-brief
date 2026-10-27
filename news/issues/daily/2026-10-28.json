@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-28",
+  "updated_at": "2026-10-28T08:15:56.436797+09:00",
+  "run_id": "run_20261028_081556",
+  "summary_ko": "에이전트 접근권과 인프라 금융화가 AI 확산의 새 조건이 됐다.",
+  "issues": [
+    {
+      "title": "금융권 에이전트 접근의 갈림길",
+      "summary_ko": "금융사가 외부 에이전트를 차단할지 공식 연동할지 선택을 요구받고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-28",
+          "file": "20261028-bank-of-america-kind.md",
+          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant"
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-deep-dive-why-us-ban.md",
+          "title": "Deep Dive: Why US banks are blocking third-party AI agents"
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-webull-canada-launch.md",
+          "title": "Webull Canada launches AI-powered investing"
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-zafin-to-buy-naehas-.md",
+          "title": "Zafin to buy Naehas to expand AI-powered banking and compliance platform"
+        }
+      ]
+    },
+    {
+      "title": "연산 조달의 금융화 확산",
+      "summary_ko": "SPV·지분 투자로 연산을 사들이며 인프라 확보가 재무 설계 문제가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-28",
+          "file": "20261028-네이버-브룩필드와-12조원-인프라-계.md",
+          "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극"
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-nvidia-amd-to-invest.md",
+          "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership"
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-gpu-시장-감가상각-안-통한다-출시.md",
+          "title": "“GPU 시장 감가상각 안 통한다”...출시 6년 차 A100도 임대료 역주행"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 보안과 모델 신뢰 검증",
+      "summary_ko": "보안 정비와 모델 행위 검증이 기업 AI 도입의 선결 과제로 굳어졌다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-28",
+          "file": "20261028-오라클-오픈ai와-ai-보안-위협-공.md",
+          "title": "오라클, 오픈AI와 AI 보안 위협 공동 대응…\"취약점 찾아 고친다\""
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-alibaba-s-latest-qwe.md",
+          "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find"
+        }
+      ]
+    },
+    {
+      "title": "AI 활용, 사용량에서 효율로",
+      "summary_ko": "AI 성과 지표가 사용량 경쟁에서 비용 대비 효과 관리로 옮겨가고 있다.",
+      "topics": [
+        "ai_workforce_training",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-28",
+          "file": "20261028-amazon-s-anti-tokenm.md",
+          "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216712",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216708",
+          "title": ""
+        },
+        {
+          "date": "2026-10-28",
+          "file": "20261028-walmart-says-ai-trai.md",
+          "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates"
+        }
+      ]
+    }
+  ]
+}
