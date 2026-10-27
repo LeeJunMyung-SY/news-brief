@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-27T08:16:50.785772+09:00",
-  "run_id": "run_20261027_081650",
+  "updated_at": "2026-10-27T12:13:44.331516+09:00",
+  "run_id": "run_20261027_121344",
   "summary_ko": "앤트로픽 상장으로 AI 수익성 검증이 본격화되고 가격·자본 경쟁이 격해졌다.",
   "issues": [
     {
       "title": "AI 수익성 검증과 가격 재편",
-      "body_ko": "공시 수치와 할인 공세가 겹쳐 기업의 AI 조달 협상력이 커졌다.",
+      "body_ko": "공시 수치와 할인·라우팅 경쟁이 겹쳐 기업의 AI 조달 협상력이 커졌다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -41,6 +41,16 @@
           "date": "2026-10-27",
           "file": "20261027-gpt-6-1-terra-halves.md",
           "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-kt-토큰팩토리-띄운다-ai비용-아끼.md",
+          "title": "KT, 토큰팩토리 띄운다...\"AI비용 아끼고 데이터주권 확보\""
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-매출-목표-못-채우면-조달-금리-13.md",
+          "title": "매출 목표 못 채우면 조달 금리 13%…앤트로픽이 드러낸 AI 금융의 리스 [김주완의 글로벌머니 X파일]"
         }
       ]
     },
@@ -71,16 +81,12 @@
           "date": "2026-10-27",
           "file": "20261027-spacex-locks-in-40b-.md",
           "title": "SpaceX locks in $40B GPU financing deal with Apollo"
-        },
-        {
-          "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
-          "title": ""
         }
       ]
     },
     {
       "title": "에이전트 확산과 통제 과제",
-      "body_ko": "업무 앱이 에이전트화되며 권한 통제가 도입의 선결 조건이 됐다.",
+      "body_ko": "에이전트가 일상 업무로 퍼지며 권한·행위 통제가 도입 선결 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -105,6 +111,16 @@
           "date": "2026-10-27",
           "file": "20261027-the-realreal-won-t-l.md",
           "title": "The RealReal won’t let AI agents hog designer clothing"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-how-openai-turned-it.md",
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-cohere-says-alibaba-.md",
+          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing"
         }
       ]
     },
@@ -170,6 +186,11 @@
           "date": "2026-10-27",
           "file": "20261027-kb국민은행-해킹-정보유출-2091명.md",
           "title": "KB국민은행 “해킹 정보유출 2091명 추가 확인”…총 2210명 유출"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-임기범의-ai-혁신-스토리-ai-해킹.md",
+          "title": "[임기범의 AI 혁신 스토리] AI 해킹 시대, 금융보안의 과제"
         }
       ]
     }

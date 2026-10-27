@@ -1,12 +1,12 @@
 {
   "date": "2026-10-27",
-  "updated_at": "2026-10-27T08:16:50.785772+09:00",
-  "run_id": "run_20261027_081650",
-  "summary_ko": "앤트로픽 상장 서류가 AI 수익성과 고정비 부담을 동시에 드러냈다.",
+  "updated_at": "2026-10-27T12:13:44.331516+09:00",
+  "run_id": "run_20261027_121344",
+  "summary_ko": "앤트로픽 상장이 AI 수익성을 시험하고 모델 조달은 비용·신뢰 경쟁으로 번졌다.",
   "issues": [
     {
       "title": "앤트로픽 상장, AI 수익성 시험대",
-      "summary_ko": "AI 사업성이 공시 수치로 검증받는 국면이 열렸다.",
+      "summary_ko": "AI 사업성이 공시 수치와 자본시장 반응으로 검증받기 시작했다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -23,22 +23,27 @@
           "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216688",
-          "title": ""
-        },
-        {
           "date": "2026-10-27",
           "file": "20261027-앤트로픽-ipo-위험-공개-보안-사고.md",
           "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-매출-목표-못-채우면-조달-금리-13.md",
+          "title": "매출 목표 못 채우면 조달 금리 13%…앤트로픽이 드러낸 AI 금융의 리스 [김주완의 글로벌머니 X파일]"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12186725",
+          "title": ""
         }
       ]
     },
     {
-      "title": "모델 단가 인하 경쟁",
-      "summary_ko": "가격 경쟁이 기업 자동화의 경제성을 끌어올린다.",
+      "title": "모델 조달, 비용과 신뢰의 이중 기준",
+      "summary_ko": "단가 인하·라우팅 경쟁 속 오픈 모델 신뢰 검증이 조건이 됐다.",
       "topics": [
         "llm_models",
-        "ai_industry"
+        "ai_policy"
       ],
       "articles": [
         {
@@ -47,8 +52,14 @@
           "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216648",
-          "title": ""
+          "date": "2026-10-27",
+          "file": "20261027-kt-토큰팩토리-띄운다-ai비용-아끼.md",
+          "title": "KT, 토큰팩토리 띄운다...\"AI비용 아끼고 데이터주권 확보\""
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-cohere-says-alibaba-.md",
+          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing"
         }
       ]
     },
@@ -84,7 +95,7 @@
     },
     {
       "title": "금융권 AI 리더십과 보안 과제",
-      "summary_ko": "금융사 AI가 경영 의제로 오르며 보안 통제가 과제다.",
+      "summary_ko": "금융사 AI가 경영 의제로 오르며 AI 해킹 대응이 시급해졌다.",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -109,6 +120,11 @@
           "date": "2026-10-27",
           "file": "20261027-미래에셋증권-네이버클라우드-ai-페스.md",
           "title": "미래에셋증권·네이버클라우드 'AI 페스티벌' 개최…1052팀 참가"
+        },
+        {
+          "date": "2026-10-27",
+          "file": "20261027-임기범의-ai-혁신-스토리-ai-해킹.md",
+          "title": "[임기범의 AI 혁신 스토리] AI 해킹 시대, 금융보안의 과제"
         }
       ]
     }
