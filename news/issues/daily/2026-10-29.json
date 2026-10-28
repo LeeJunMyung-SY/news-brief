@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-29",
+  "updated_at": "2026-10-29T08:19:37.488118+09:00",
+  "run_id": "run_20261029_081937",
+  "summary_ko": "빅테크가 AI 수익을 증명하는 사이 금융 보안이 국가 의제로 격상됐다.",
+  "issues": [
+    {
+      "title": "금융권 해킹, 국가안보 의제로",
+      "summary_ko": "금융 보안이 AI 확장의 선결 조건으로 굳어졌다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-29",
+          "file": "20261029-대신-빗썸-미래에셋도-털려-국가안보실.md",
+          "title": "\"대신·빗썸·미래에셋도 털려\"…국가안보실, 직접 나섰다"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-south-korea-s-financ.md",
+          "title": "South Korea’s financial industry hit by fresh wave of cyberattacks"
+        }
+      ]
+    },
+    {
+      "title": "금융 규제 업무에 에이전트 투입",
+      "summary_ko": "컴플라이언스가 금융 AI의 첫 ROI 영역으로 떠올랐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-29",
+          "file": "20261029-natwest-slashes-mark.md",
+          "title": "NatWest slashes marketing compliance approval times with Adclear agents"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-hummingbird-buys-qua.md",
+          "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111487/bloomberg-rolls-out-ai-coding-assistant-bquant?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
+          "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
+        }
+      ]
+    },
+    {
+      "title": "AI 수익화 성적표와 검색 재편",
+      "summary_ko": "클라우드는 수익을 증명했고 검색은 AI에 잠식되기 시작했다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-29",
+          "file": "20261029-microsoft-just-share.md",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-microsoft-recorded-1.md",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI"
+        },
+        {
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610291939i",
+          "title": ""
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-anthropic-just-launc.md",
+          "title": "Anthropic just launched tools to show companies what their AI spending is buying"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-google-alters-its-cl.md",
+          "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
+        }
+      ]
+    },
+    {
+      "title": "모델 경쟁 가속과 플랫폼 개방",
+      "summary_ko": "모델 교체 주기가 짧아지며 플랫폼이 에이전트에 문을 열었다.",
+      "topics": [
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-29",
+          "file": "20261029-google-deepmind-rele.md",
+          "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-as-ai-agents-reshape.md",
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-openai-and-serviceno.md",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-ai가-최적의-ai-모델-선택해-코딩.md",
+          "title": "AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261028180936",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

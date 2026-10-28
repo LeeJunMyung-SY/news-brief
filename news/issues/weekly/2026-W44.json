@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-28T16:15:37.110262+09:00",
-  "run_id": "run_20261028_161537",
-  "summary_ko": "AI 수익성 검증과 부채형 연산 조달 속에 에이전트·보안 통제가 핵심 과제로 부상했다.",
+  "updated_at": "2026-10-29T08:19:37.488118+09:00",
+  "run_id": "run_20261029_081937",
+  "summary_ko": "AI 수익성 검증과 연산 금융화 속에 에이전트 통제와 금융 보안이 핵심 과제로 굳었다.",
   "issues": [
     {
       "title": "AI 수익성 검증과 가격 재편",
-      "body_ko": "상장 공시와 할인 경쟁, 중국 AI주 급락으로 공급사 지속가능성이 검증대에 올랐다.",
+      "body_ko": "상장 공시와 빅테크 실적으로 수익성이 수치화되며 공급사별 지속가능성이 갈렸다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -51,12 +51,31 @@
           "date": "2026-10-28",
           "file": "20261028-중국-ai-거품-붕괴-가속-기술주-시.md",
           "title": "중국 AI 거품 붕괴 가속…기술주 시총 640조 증발"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-microsoft-just-share.md",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-microsoft-recorded-1.md",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-anthropic-just-launc.md",
+          "title": "Anthropic just launched tools to show companies what their AI spending is buying"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610291939i",
+          "title": ""
         }
       ]
     },
     {
-      "title": "연산 확보의 부채 금융화",
-      "body_ko": "증자·리스·프로젝트 금융으로 연산을 사들이며 부품 장기계약과 금융 리스크가 함께 커졌다.",
+      "title": "연산 확보의 금융화와 전력 병목",
+      "body_ko": "연산 조달이 부채로 떠받쳐지는 사이 전력망과 설비가 새 병목으로 떠올랐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -109,18 +128,25 @@
           "title": "엔비디아·오라클, '베라 루빈' 대규모 동맹…GPU 유휴 한계 넘는다"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216743",
-          "title": ""
+          "date": "2026-10-29",
+          "file": "20261029-google-alters-its-cl.md",
+          "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=676931",
-          "title": ""
+          "date": "2026-10-29",
+          "file": "20261029-전력망-건설속도-6배-끌어올려야-경제.md",
+          "title": "“전력망 건설속도 6배 끌어올려야”…경제자문회의 부의장이 경고한 이유"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-lg전자-ai-냉각사업-돈-버는-방식.md",
+          "title": "LG전자, AI 냉각사업 돈 버는 방식 바꾼다…'통합 솔루션' 승부수"
         }
       ]
     },
     {
       "title": "에이전트 확산과 통제 과제",
-      "body_ko": "에이전트가 상담·업무 실행·금융 접근으로 퍼지며 권한·책임·사용 통제가 선결 조건이 됐다.",
+      "body_ko": "에이전트가 업무 플랫폼 전반으로 열리며 권한·비용 통제가 선결 조건이 됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -142,11 +168,6 @@
           "title": "앤트로픽도 뚫렸다...캐서드럴, AI 에이전트로 12시간 만에 내부망 침투"
         },
         {
-          "date": "2026-10-27",
-          "file": "20261027-ai-에이전트는-왜-앱을-건너뛰나-오.md",
-          "title": "AI 에이전트는 왜 앱을 건너뛰나…오라클이 보안을 DB에 넣는 이유"
-        },
-        {
           "date": "2026-10-28",
           "file": "20261028-오라클-오픈ai와-ai-보안-위협-공.md",
           "title": "오라클, 오픈AI와 AI 보안 위협 공동 대응…\"취약점 찾아 고친다\""
@@ -162,18 +183,32 @@
           "title": "\"금지해도 쓴다\"…파수AI 조사서 드러난 사내 AI 통제 한계"
         },
         {
-          "date": "2026-10-28",
-          "file": "20261028-플래티어-gs네오텍과-에이전틱-aic.md",
-          "title": "플래티어, GS네오텍과 ‘에이전틱 AICC’ 공동 사업 추진"
+          "date": "2026-10-29",
+          "file": "20261029-as-ai-agents-reshape.md",
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-openai-and-serviceno.md",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261028180936",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261029031253",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI 내재화와 보안 대응",
-      "body_ko": "금융사가 AI를 여신·상담·상품에 내재화하는 한편 해킹 연쇄로 보안 대응이 과제가 됐다.",
+      "title": "금융권 보안 위기와 AI 내재화",
+      "body_ko": "해킹이 국가안보 의제가 된 가운데 규제 업무 에이전트가 첫 성과를 냈다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_agents",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -192,19 +227,9 @@
           "title": "KB국민은행 “해킹 정보유출 2091명 추가 확인”…총 2210명 유출"
         },
         {
-          "date": "2026-10-27",
-          "file": "20261027-ai-입힌-토스뱅크-주택담보대출-연립.md",
-          "title": "AI 입힌 토스뱅크 주택담보대출, 연립·다세대 주택으로 확장"
-        },
-        {
           "date": "2026-10-28",
           "file": "20261028-deep-dive-why-us-ban.md",
           "title": "Deep Dive: Why US banks are blocking third-party AI agents"
-        },
-        {
-          "date": "2026-10-28",
-          "file": "20261028-bank-of-america-kind.md",
-          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant"
         },
         {
           "date": "2026-10-28",
@@ -217,14 +242,25 @@
           "title": "대신증권 서버 뚫렸다…3만8490명 고객 개인정보 유출"
         },
         {
-          "url": "https://www.etnews.com/20261028000009",
-          "title": ""
+          "date": "2026-10-29",
+          "file": "20261029-대신-빗썸-미래에셋도-털려-국가안보실.md",
+          "title": "\"대신·빗썸·미래에셋도 털려\"…국가안보실, 직접 나섰다"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-natwest-slashes-mark.md",
+          "title": "NatWest slashes marketing compliance approval times with Adclear agents"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
+          "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
         }
       ]
     },
     {
       "title": "피지컬 AI 설비투자 본격화",
-      "body_ko": "완성차·로봇사 투자와 전용 보험 등장으로 피지컬 AI가 양산·현장 적용 단계에 들어섰다.",
+      "body_ko": "완성차·로봇사 투자와 전용 보험 등장으로 피지컬 AI가 현장 적용 단계에 들어섰다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
