@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-29T16:15:24.979016+09:00",
-  "run_id": "run_20261029_161524",
-  "summary_ko": "AI 수익성 검증과 연산 조달 재편 속에 에이전트 통제·규제와 금융 보안이 핵심 과제로 굳었다.",
+  "updated_at": "2026-10-30T08:20:37.842716+09:00",
+  "run_id": "run_20261030_082037",
+  "summary_ko": "AI 수익성 검증이 현금흐름·부채로 번지는 가운데 에이전트 통제와 금융 보안이 핵심 과제로 굳었다.",
   "issues": [
     {
       "title": "AI 수익성 검증과 투자 체력",
-      "body_ko": "공시와 실적으로 수익성이 수치화되며 사용량이 곧 수익은 아니라는 점과 현금흐름 격차가 드러났다.",
+      "body_ko": "실적·공시로 수익성이 수치화되며 현금흐름 악화와 SaaS·검색 잠식 우려가 투자 지속성을 시험했다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -73,14 +73,34 @@
           "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216774",
+          "date": "2026-10-30",
+          "file": "20261030-아마존-aws-매출-39-급증-현금흐.md",
+          "title": "아마존, AWS 매출 39% 급증…현금흐름은 악화"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
           "title": ""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-servicenow-shares-pl.md",
+          "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-몸값-2680조원-인데-증권사들-참여.md",
+          "title": "몸값 ‘2680조원’인데 韓증권사들 “참여 안 하겠습니다”…앤트로픽IPO 불참 왜"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-openai-backed-thrive.md",
+          "title": "OpenAI-backed Thrive Holdings acquires ADT"
         }
       ]
     },
     {
       "title": "연산 조달의 금융화와 다변화",
-      "body_ko": "연산 조달이 부채로 떠받쳐지는 사이 메모리 부족 장기화와 탈GPU 다변화가 함께 진행됐다.",
+      "body_ko": "회사채·지분으로 연산 투자를 떠받치는 사이 메모리 부족 장기화와 공급처 다변화가 겹쳤다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -181,12 +201,36 @@
           "date": "2026-10-29",
           "file": "20261029-장재훈-현대차그룹-부회장-새만금-9조.md",
           "title": "장재훈 현대차그룹 부회장 \"새만금 9조 투자 차질 없이 추진\""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-ms-ai-투자-확대로-9년-만에-회.md",
+          "title": "MS, AI 투자 확대로 9년 만에 회사채 33조원 발행"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-ai-buildout-hits-sna.md",
+          "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-앤트로픽-스페이스x-매출-34-5-차.md",
+          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-삼성sds가-ai데이터센터-사업에-1.md",
+          "title": "삼성SDS가 AI데이터센터 사업에 '1조 매출' 기대하는 이유"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/business/12190267",
+          "title": ""
         }
       ]
     },
     {
       "title": "에이전트 확산과 통제·규제 과제",
-      "body_ko": "에이전트가 업무·소비자 접점으로 퍼지며 권한 통제와 공급사 규제·독점 감시가 함께 강화됐다.",
+      "body_ko": "에이전트가 업무 창구로 퍼지며 공급사 행동원칙·감시 체계와 규제·독점 감시가 함께 강화됐다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -256,12 +300,36 @@
           "date": "2026-10-29",
           "file": "20261029-미-법무부-엔비디아의-허깅페이스-인수.md",
           "title": "미 법무부, 엔비디아의 허깅페이스 인수 조사...AI 모델 유통망 장악 가능성 검토"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-에이전트-시대-맞춰-행동-원.md",
+          "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-how-we-detect-fronti.md",
+          "title": "How we detect frontier model misalignment"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-앤트로픽-구글-ai-에이전트.md",
+          "title": "오픈AI·앤트로픽·구글 “AI 에이전트 확산에 보안·권한 관리 문제 커져”"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-연내-챗gpt-대화-업무-기.md",
+          "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 보안 위기와 AI 내재화",
-      "body_ko": "해킹이 국가안보 의제가 된 가운데 규제 업무 에이전트와 외부 협업이 성과를 냈다.",
+      "title": "금융권 보안 위기와 AI 연동 확대",
+      "body_ko": "해킹이 업무망·제휴 시스템까지 번지는 사이 결제망은 에이전트 연동으로 채널을 넓혔다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -327,12 +395,36 @@
           "date": "2026-10-29",
           "file": "20261029-삼성금융-ai-핀테크-스타트업-4곳-.md",
           "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-visa-and-tencent-ink.md",
+          "title": "Visa and Tencent ink agentic commerce and cross-border payments MoU"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-mollie-introduces-ch.md",
+          "title": "Mollie introduces ChatGPT and Claude integrations"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-7159명-정보-유출-빗썸-이틀-만에.md",
+          "title": "7159명 정보 유출 빗썸, 이틀 만에 사과…\"피해 구제·보상 최선\""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-금보원-금융권-해킹-ip만으로-북한-.md",
+          "title": "금보원 \"금융권 해킹, IP만으로 북한 공격 감행 단정 어려워\""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261029185947",
+          "title": ""
         }
       ]
     },
     {
       "title": "피지컬 AI 설비투자 본격화",
-      "body_ko": "완성차·로봇 투자와 계열사 현장 실증, 제조데이터 정책이 겹치며 현장 적용 단계에 들어섰다.",
+      "body_ko": "완성차·로봇 투자와 현장 실증, 정부 학습데이터 인프라가 겹치며 현장 적용 단계에 들어섰다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -377,6 +469,19 @@
           "date": "2026-10-29",
           "file": "20261029-삼성sds-3분기-매출-3조7725억.md",
           "title": "삼성SDS, 3분기 매출 3조7725억원 두자릿수 성장세… 피지컬 AI 실증 본격화"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-과기정통부-내년-피지컬-ai-트레이닝.md",
+          "title": "과기정통부, 내년 피지컬 AI 트레이닝 센터 구축...산업 생태계 육성 본격화"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261029195515",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677146",
+          "title": ""
         }
       ]
     }

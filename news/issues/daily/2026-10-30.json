@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-30",
+  "updated_at": "2026-10-30T08:20:37.842716+09:00",
+  "run_id": "run_20261030_082037",
+  "summary_ko": "AI 투자 청구서가 실적에 찍히는 사이 에이전트 통제와 금융 연동이 함께 진전됐다.",
+  "issues": [
+    {
+      "title": "빅테크 실적이 드러낸 AI 투자 청구서",
+      "summary_ko": "AI 성장의 대가로 현금 소진과 기존 수익 잠식이 함께 확인됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-30",
+          "file": "20261030-아마존-aws-매출-39-급증-현금흐.md",
+          "title": "아마존, AWS 매출 39% 급증…현금흐름은 악화"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-ms-ai-투자-확대로-9년-만에-회.md",
+          "title": "MS, AI 투자 확대로 9년 만에 회사채 33조원 발행"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+          "title": ""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-ai-buildout-hits-sna.md",
+          "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-servicenow-shares-pl.md",
+          "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-openai-backed-thrive.md",
+          "title": "OpenAI-backed Thrive Holdings acquires ADT"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제, 공급사 원칙으로",
+      "summary_ko": "에이전트 자율성이 커지자 감시·권한 통제가 공급사 표준이 되고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-에이전트-시대-맞춰-행동-원.md",
+          "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-how-we-detect-fronti.md",
+          "title": "How we detect frontier model misalignment"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-앤트로픽-구글-ai-에이전트.md",
+          "title": "오픈AI·앤트로픽·구글 “AI 에이전트 확산에 보안·권한 관리 문제 커져”"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-앤트로픽-클로드-자기-대화-감시-기술.md",
+          "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-experts-adopt-ai-age.md",
+          "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-연내-챗gpt-대화-업무-기.md",
+          "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다"
+        }
+      ]
+    },
+    {
+      "title": "금융 접점의 에이전트 개방과 보안 부담",
+      "summary_ko": "결제망이 에이전트를 받아들이는 사이 업무망 해킹이 보안 부담을 키웠다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-30",
+          "file": "20261030-visa-and-tencent-ink.md",
+          "title": "Visa and Tencent ink agentic commerce and cross-border payments MoU"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-mollie-introduces-ch.md",
+          "title": "Mollie introduces ChatGPT and Claude integrations"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-7159명-정보-유출-빗썸-이틀-만에.md",
+          "title": "7159명 정보 유출 빗썸, 이틀 만에 사과…\"피해 구제·보상 최선\""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-금보원-금융권-해킹-ip만으로-북한-.md",
+          "title": "금보원 \"금융권 해킹, IP만으로 북한 공격 감행 단정 어려워\""
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-몸값-2680조원-인데-증권사들-참여.md",
+          "title": "몸값 ‘2680조원’인데 韓증권사들 “참여 안 하겠습니다”…앤트로픽IPO 불참 왜"
+        }
+      ]
+    },
+    {
+      "title": "연산 조달과 자체 운영 선택지",
+      "summary_ko": "연산 공급처가 넓어지고 오픈웨이트·DC 구축이 자체 운영 대안으로 떠올랐다.",
+      "topics": [
+        "ai_compute_energy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-30",
+          "file": "20261030-앤트로픽-스페이스x-매출-34-5-차.md",
+          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-미스트랄-라지-4-가중치-공개로-정식.md",
+          "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-삼성sds가-ai데이터센터-사업에-1.md",
+          "title": "삼성SDS가 AI데이터센터 사업에 '1조 매출' 기대하는 이유"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오픈ai-프로-기업용-ai-사용량-최.md",
+          "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/business/12190267",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
