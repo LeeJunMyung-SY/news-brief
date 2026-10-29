@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T23:19:46+00:00",
+  "generated_at": "2026-10-29T03:15:27+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1504,
+      "count": 1505,
       "latest_date": "2026-10-29"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1514,
+      "count": 1515,
       "latest_date": "2026-10-29"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3489,
+      "count": 3494,
       "latest_date": "2026-10-29"
     },
     {
@@ -40,22 +40,22 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1092,
+      "count": 1096,
       "latest_date": "2026-10-29"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 960,
+      "count": 961,
       "latest_date": "2026-10-29"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 569,
-      "latest_date": "2026-10-28"
+      "count": 570,
+      "latest_date": "2026-10-29"
     },
     {
       "key": "ai_hardware",
@@ -180,6 +180,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261029000006"
+      },
+      {
+        "date": "2026-10-29",
+        "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
+        "title": "김연수 한컴 대표 '2030년 매출 절반 해외서'…노마디안으로 글로벌 공략 박차",
+        "importance": 6,
+        "tags": [
+          "#agent-platform",
+          "#monetization",
+          "#global-expansion",
+          "#mcp",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029111431"
       },
       {
         "date": "2026-10-28",
@@ -39103,6 +39118,20 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216758"
       },
       {
+        "date": "2026-10-29",
+        "file": "20261029-제조데이터-컨트롤타워-뜬다-m-ax-.md",
+        "title": "제조데이터 컨트롤타워 뜬다…M.AX 얼라이언스 데이터 분과 출범",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ai",
+          "#data-governance",
+          "#government-policy",
+          "#m-ax"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261029000214"
+      },
+      {
         "date": "2026-10-28",
         "file": "20261028-bank-of-america-kind.md",
         "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
@@ -60967,6 +60996,21 @@
       },
       {
         "date": "2026-10-29",
+        "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
+        "title": "'AI 투자 감당할 체력 있나'…MS·구글, '현금흐름'이 희비 갈랐다",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#free-cash-flow",
+          "#cloud",
+          "#hyperscaler",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029102130"
+      },
+      {
+        "date": "2026-10-29",
         "file": "20261029-anthropic-just-launc.md",
         "title": "Anthropic just launched tools to show companies what their AI spending is buying",
         "importance": 7,
@@ -61051,6 +61095,21 @@
       },
       {
         "date": "2026-10-29",
+        "file": "20261029-영업익-100조-시대-연-삼성-반도체.md",
+        "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자",
+        "importance": 7,
+        "tags": [
+          "#hbm",
+          "#memory",
+          "#capex",
+          "#supply-shortage",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029102311"
+      },
+      {
+        "date": "2026-10-29",
         "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
         "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다",
         "importance": 7,
@@ -61094,6 +61153,35 @@
       },
       {
         "date": "2026-10-29",
+        "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
+        "title": "김연수 한컴 대표 '2030년 매출 절반 해외서'…노마디안으로 글로벌 공략 박차",
+        "importance": 6,
+        "tags": [
+          "#agent-platform",
+          "#monetization",
+          "#global-expansion",
+          "#mcp",
+          "#enterprise-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029111431"
+      },
+      {
+        "date": "2026-10-29",
+        "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
+        "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#optical-networking",
+          "#data-center",
+          "#supply-chain"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202610292788i"
+      },
+      {
+        "date": "2026-10-29",
         "file": "20261029-앤트로픽-권한-물려줄-비밀-후계자-지.md",
         "title": "앤트로픽, 권한 물려줄 '비밀 후계자' 지정…상장 후에도 주주 통제",
         "importance": 6,
@@ -61104,6 +61192,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216758"
+      },
+      {
+        "date": "2026-10-29",
+        "file": "20261029-종합-클라우드가-효자-삼성sds-매출.md",
+        "title": "[종합] '클라우드가 효자'…삼성SDS, 매출 기대 이상에 AI 사업 성장도 '탄력'",
+        "importance": 6,
+        "tags": [
+          "#earnings",
+          "#cloud",
+          "#gpuaas",
+          "#ai-adoption",
+          "#it-services"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029104542"
       },
       {
         "date": "2026-10-28",
@@ -119183,6 +119286,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-29",
+        "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
+        "title": "'AI 투자 감당할 체력 있나'…MS·구글, '현금흐름'이 희비 갈랐다",
+        "importance": 7,
+        "tags": [
+          "#capex",
+          "#free-cash-flow",
+          "#cloud",
+          "#hyperscaler",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029102130"
+      },
+      {
+        "date": "2026-10-29",
         "file": "20261029-google-alters-its-cl.md",
         "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
         "importance": 7,
@@ -119211,6 +119329,21 @@
       },
       {
         "date": "2026-10-29",
+        "file": "20261029-영업익-100조-시대-연-삼성-반도체.md",
+        "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자",
+        "importance": 7,
+        "tags": [
+          "#hbm",
+          "#memory",
+          "#capex",
+          "#supply-shortage",
+          "#earnings"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261029102311"
+      },
+      {
+        "date": "2026-10-29",
         "file": "20261029-lg전자-ai-냉각사업-돈-버는-방식.md",
         "title": "LG전자, AI 냉각사업 돈 버는 방식 바꾼다…'통합 솔루션' 승부수",
         "importance": 6,
@@ -119236,6 +119369,34 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas"
+      },
+      {
+        "date": "2026-10-29",
+        "file": "20261029-가온전선-캠퍼스형-aidc-사로잡았다.md",
+        "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#power-grid",
+          "#supply-chain",
+          "#contract"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677042"
+      },
+      {
+        "date": "2026-10-29",
+        "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
+        "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#optical-networking",
+          "#data-center",
+          "#supply-chain"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202610292788i"
       },
       {
         "date": "2026-10-29",
@@ -135027,6 +135188,21 @@
         "url": "https://www.finextra.com/pressarticle/111488/hummingbird-buys-quantimon-to-bring-machine-learning-to-aml-transaction-monitoring?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
+        "date": "2026-10-29",
+        "file": "20261029-삼성금융-ai-핀테크-스타트업-4곳-.md",
+        "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#open-innovation",
+          "#fintech",
+          "#investment",
+          "#partnership"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261029064300008"
+      },
+      {
         "date": "2026-10-28",
         "file": "20261028-bank-of-america-kind.md",
         "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
@@ -149079,6 +149255,20 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-10-29",
+        "file": "20261029-제조데이터-컨트롤타워-뜬다-m-ax-.md",
+        "title": "제조데이터 컨트롤타워 뜬다…M.AX 얼라이언스 데이터 분과 출범",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ai",
+          "#data-governance",
+          "#government-policy",
+          "#m-ax"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261029000214"
+      },
+      {
         "date": "2026-10-28",
         "file": "20261028-서-피지컬-ai-로봇-전용-보험-등장.md",
         "title": "日서 '피지컬 AI' 로봇 전용 보험 등장…11월 판매",
@@ -158542,8 +158732,8 @@
       },
       {
         "date": "2026-10-29",
-        "title": "금융 규제 업무에 에이전트 투입",
-        "summary": "컴플라이언스가 금융 AI의 첫 ROI 영역으로 떠올랐다.",
+        "title": "금융 AI, 규제 업무와 외부 협업으로 확장",
+        "summary": "컴플라이언스 성과 위에 외부 혁신 흡수로 금융 AI 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-10-29",
@@ -158556,13 +158746,14 @@
             "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring"
           },
           {
-            "url": "https://www.finextra.com/pressarticle/111487/bloomberg-rolls-out-ai-coding-assistant-bquant?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-10-29",
             "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
             "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-삼성금융-ai-핀테크-스타트업-4곳-.md",
+            "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원"
           }
         ]
       },
@@ -168207,8 +168398,8 @@
     "ai_agents": [
       {
         "date": "2026-10-29",
-        "title": "금융 규제 업무에 에이전트 투입",
-        "summary": "컴플라이언스가 금융 AI의 첫 ROI 영역으로 떠올랐다.",
+        "title": "금융 AI, 규제 업무와 외부 협업으로 확장",
+        "summary": "컴플라이언스 성과 위에 외부 혁신 흡수로 금융 AI 범위가 넓어졌다.",
         "articles": [
           {
             "date": "2026-10-29",
@@ -168221,20 +168412,21 @@
             "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring"
           },
           {
-            "url": "https://www.finextra.com/pressarticle/111487/bloomberg-rolls-out-ai-coding-assistant-bquant?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          },
-          {
             "date": "2026-10-29",
             "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
             "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-삼성금융-ai-핀테크-스타트업-4곳-.md",
+            "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원"
           }
         ]
       },
       {
         "date": "2026-10-29",
-        "title": "모델 경쟁 가속과 플랫폼 개방",
-        "summary": "모델 교체 주기가 짧아지며 플랫폼이 에이전트에 문을 열었다.",
+        "title": "모델 경쟁 가속과 에이전트 플랫폼화",
+        "summary": "모델 교체 주기가 짧아지며 에이전트가 플랫폼 상품이 됐다.",
         "articles": [
           {
             "date": "2026-10-29",
@@ -168257,8 +168449,9 @@
             "title": "AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261028180936",
-            "title": ""
+            "date": "2026-10-29",
+            "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
+            "title": "김연수 한컴 대표 \"2030년 매출 절반 해외서\"…노마디안으로 글로벌 공략 박차"
           }
         ]
       },
@@ -173174,8 +173367,8 @@
     "ai_industry": [
       {
         "date": "2026-10-29",
-        "title": "AI 수익화 성적표와 검색 재편",
-        "summary": "클라우드는 수익을 증명했고 검색은 AI에 잠식되기 시작했다.",
+        "title": "AI 수익화와 투자 체력 격차",
+        "summary": "수익은 증명됐지만 투자를 감당할 재무 체력이 승부처가 됐다.",
         "articles": [
           {
             "date": "2026-10-29",
@@ -173188,14 +173381,6 @@
             "title": "Microsoft recorded $10 billion in revenue from OpenAI"
           },
           {
-            "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-            "title": ""
-          },
-          {
-            "url": "https://www.hankyung.com/article/202610291939i",
-            "title": ""
-          },
-          {
             "date": "2026-10-29",
             "file": "20261029-anthropic-just-launc.md",
             "title": "Anthropic just launched tools to show companies what their AI spending is buying"
@@ -173204,6 +173389,26 @@
             "date": "2026-10-29",
             "file": "20261029-google-alters-its-cl.md",
             "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
+            "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-영업익-100조-시대-연-삼성-반도체.md",
+            "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
+            "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-가온전선-캠퍼스형-aidc-사로잡았다.md",
+            "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주"
           }
         ]
       },
@@ -180343,8 +180548,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-29",
-        "title": "AI 수익화 성적표와 검색 재편",
-        "summary": "클라우드는 수익을 증명했고 검색은 AI에 잠식되기 시작했다.",
+        "title": "AI 수익화와 투자 체력 격차",
+        "summary": "수익은 증명됐지만 투자를 감당할 재무 체력이 승부처가 됐다.",
         "articles": [
           {
             "date": "2026-10-29",
@@ -180357,14 +180562,6 @@
             "title": "Microsoft recorded $10 billion in revenue from OpenAI"
           },
           {
-            "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-            "title": ""
-          },
-          {
-            "url": "https://www.hankyung.com/article/202610291939i",
-            "title": ""
-          },
-          {
             "date": "2026-10-29",
             "file": "20261029-anthropic-just-launc.md",
             "title": "Anthropic just launched tools to show companies what their AI spending is buying"
@@ -180373,6 +180570,26 @@
             "date": "2026-10-29",
             "file": "20261029-google-alters-its-cl.md",
             "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
+            "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-영업익-100조-시대-연-삼성-반도체.md",
+            "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
+            "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜"
+          },
+          {
+            "date": "2026-10-29",
+            "file": "20261029-가온전선-캠퍼스형-aidc-사로잡았다.md",
+            "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주"
           }
         ]
       },
@@ -183839,8 +184056,8 @@
     "llm_models": [
       {
         "date": "2026-10-29",
-        "title": "모델 경쟁 가속과 플랫폼 개방",
-        "summary": "모델 교체 주기가 짧아지며 플랫폼이 에이전트에 문을 열었다.",
+        "title": "모델 경쟁 가속과 에이전트 플랫폼화",
+        "summary": "모델 교체 주기가 짧아지며 에이전트가 플랫폼 상품이 됐다.",
         "articles": [
           {
             "date": "2026-10-29",
@@ -183863,8 +184080,9 @@
             "title": "AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261028180936",
-            "title": ""
+            "date": "2026-10-29",
+            "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
+            "title": "김연수 한컴 대표 \"2030년 매출 절반 해외서\"…노마디안으로 글로벌 공략 박차"
           }
         ]
       },

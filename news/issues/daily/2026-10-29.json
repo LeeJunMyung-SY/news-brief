@@ -1,8 +1,8 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29T08:19:37.488118+09:00",
-  "run_id": "run_20261029_081937",
-  "summary_ko": "빅테크가 AI 수익을 증명하는 사이 금융 보안이 국가 의제로 격상됐다.",
+  "updated_at": "2026-10-29T12:15:17.957335+09:00",
+  "run_id": "run_20261029_121517",
+  "summary_ko": "AI 수익과 메모리 호황이 수치로 확인되는 사이 금융 보안이 국가 의제로 격상됐다.",
   "issues": [
     {
       "title": "금융권 해킹, 국가안보 의제로",
@@ -25,8 +25,8 @@
       ]
     },
     {
-      "title": "금융 규제 업무에 에이전트 투입",
-      "summary_ko": "컴플라이언스가 금융 AI의 첫 ROI 영역으로 떠올랐다.",
+      "title": "금융 AI, 규제 업무와 외부 협업으로 확장",
+      "summary_ko": "컴플라이언스 성과 위에 외부 혁신 흡수로 금융 AI 범위가 넓어졌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -43,19 +43,20 @@
           "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111487/bloomberg-rolls-out-ai-coding-assistant-bquant?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-10-29",
           "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
           "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-삼성금융-ai-핀테크-스타트업-4곳-.md",
+          "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원"
         }
       ]
     },
     {
-      "title": "AI 수익화 성적표와 검색 재편",
-      "summary_ko": "클라우드는 수익을 증명했고 검색은 AI에 잠식되기 시작했다.",
+      "title": "AI 수익화와 투자 체력 격차",
+      "summary_ko": "수익은 증명됐지만 투자를 감당할 재무 체력이 승부처가 됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -72,14 +73,6 @@
           "title": "Microsoft recorded $10 billion in revenue from OpenAI"
         },
         {
-          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-          "title": ""
-        },
-        {
-          "url": "https://www.hankyung.com/article/202610291939i",
-          "title": ""
-        },
-        {
           "date": "2026-10-29",
           "file": "20261029-anthropic-just-launc.md",
           "title": "Anthropic just launched tools to show companies what their AI spending is buying"
@@ -88,12 +81,32 @@
           "date": "2026-10-29",
           "file": "20261029-google-alters-its-cl.md",
           "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
+          "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-영업익-100조-시대-연-삼성-반도체.md",
+          "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
+          "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-가온전선-캠퍼스형-aidc-사로잡았다.md",
+          "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주"
         }
       ]
     },
     {
-      "title": "모델 경쟁 가속과 플랫폼 개방",
-      "summary_ko": "모델 교체 주기가 짧아지며 플랫폼이 에이전트에 문을 열었다.",
+      "title": "모델 경쟁 가속과 에이전트 플랫폼화",
+      "summary_ko": "모델 교체 주기가 짧아지며 에이전트가 플랫폼 상품이 됐다.",
       "topics": [
         "llm_models",
         "ai_agents"
@@ -120,8 +133,9 @@
           "title": "AI가 최적의 AI 모델 선택해 코딩…깃허브, '코파일럿 퓨전' 공개"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261028180936",
-          "title": ""
+          "date": "2026-10-29",
+          "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
+          "title": "김연수 한컴 대표 \"2030년 매출 절반 해외서\"…노마디안으로 글로벌 공략 박차"
         }
       ]
     }
