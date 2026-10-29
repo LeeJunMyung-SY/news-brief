@@ -1,15 +1,16 @@
 {
   "date": "2026-10-29",
-  "updated_at": "2026-10-29T12:15:17.957335+09:00",
-  "run_id": "run_20261029_121517",
-  "summary_ko": "AI 수익과 메모리 호황이 수치로 확인되는 사이 금융 보안이 국가 의제로 격상됐다.",
+  "updated_at": "2026-10-29T16:15:24.979016+09:00",
+  "run_id": "run_20261029_161524",
+  "summary_ko": "AI 수익 검증과 연산 조달 재편 속에 에이전트 플랫폼화와 규제 감시가 강해졌다.",
   "issues": [
     {
-      "title": "금융권 해킹, 국가안보 의제로",
-      "summary_ko": "금융 보안이 AI 확장의 선결 조건으로 굳어졌다.",
+      "title": "금융권 보안 위기와 AI 확장",
+      "summary_ko": "보안이 국가 의제가 된 가운데 규제 업무·외부 협업으로 금융 AI가 넓어졌다.",
       "topics": [
         "금융회사 AI",
-        "ai_policy"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -21,17 +22,7 @@
           "date": "2026-10-29",
           "file": "20261029-south-korea-s-financ.md",
           "title": "South Korea’s financial industry hit by fresh wave of cyberattacks"
-        }
-      ]
-    },
-    {
-      "title": "금융 AI, 규제 업무와 외부 협업으로 확장",
-      "summary_ko": "컴플라이언스 성과 위에 외부 혁신 흡수로 금융 AI 범위가 넓어졌다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
+        },
         {
           "date": "2026-10-29",
           "file": "20261029-natwest-slashes-mark.md",
@@ -55,8 +46,8 @@
       ]
     },
     {
-      "title": "AI 수익화와 투자 체력 격차",
-      "summary_ko": "수익은 증명됐지만 투자를 감당할 재무 체력이 승부처가 됐다.",
+      "title": "AI 수익 검증과 연산 조달 재편",
+      "summary_ko": "수익성 검증이 엄격해지는 사이 칩·메모리 조달이 다변화와 장기 부족으로 재편됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -74,16 +65,6 @@
         },
         {
           "date": "2026-10-29",
-          "file": "20261029-anthropic-just-launc.md",
-          "title": "Anthropic just launched tools to show companies what their AI spending is buying"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-google-alters-its-cl.md",
-          "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
-        },
-        {
-          "date": "2026-10-29",
           "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
           "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다"
         },
@@ -94,22 +75,46 @@
         },
         {
           "date": "2026-10-29",
+          "file": "20261029-google-alters-its-cl.md",
+          "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
+        },
+        {
+          "date": "2026-10-29",
           "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
           "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜"
         },
         {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216774",
+          "title": ""
+        },
+        {
           "date": "2026-10-29",
-          "file": "20261029-가온전선-캠퍼스형-aidc-사로잡았다.md",
-          "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주"
+          "file": "20261029-오픈ai-구글-tpu-직접-구매-추진.md",
+          "title": "오픈AI, 구글 TPU 직접 구매 추진...엔비디아 의존도 줄인다"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-퓨리오사ai-8200억-규모-투자-유.md",
+          "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-삼성전자-메모리-2028년까지-수급-.md",
+          "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\""
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-장재훈-현대차그룹-부회장-새만금-9조.md",
+          "title": "장재훈 현대차그룹 부회장 \"새만금 9조 투자 차질 없이 추진\""
         }
       ]
     },
     {
-      "title": "모델 경쟁 가속과 에이전트 플랫폼화",
-      "summary_ko": "모델 교체 주기가 짧아지며 에이전트가 플랫폼 상품이 됐다.",
+      "title": "에이전트, 업무·소비자 접점 장악",
+      "summary_ko": "에이전트가 기업 SW와 소비자 앱의 기본 창구로 자리 잡기 시작했다.",
       "topics": [
-        "llm_models",
-        "ai_agents"
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
@@ -136,6 +141,36 @@
           "date": "2026-10-29",
           "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
           "title": "김연수 한컴 대표 \"2030년 매출 절반 해외서\"…노마디안으로 글로벌 공략 박차"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-구글-기업용-제미나이-에이전트-연내-.md",
+          "title": "구글, 기업용 '제미나이 에이전트' 연내 일반인에게 제공…10억 이용자 겨냥"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-세일즈포스-이어-오라클도-ai에-통합.md",
+          "title": "세일즈포스 이어 오라클도 AI에 통합…기업용 소프트웨어 판도 변화"
+        }
+      ]
+    },
+    {
+      "title": "공급사 규제와 독점 감시",
+      "summary_ko": "AI 공급사의 통제 장치와 유통망 집중이 규제 당국의 검증 대상이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-29",
+          "file": "20261029-오픈ai-앤트로픽-캘리포니아주에-ai.md",
+          "title": "오픈AI·앤트로픽, 캘리포니아주에 AI 규제 강화 촉구...'킬 스위치'는 입장 엇갈려"
+        },
+        {
+          "date": "2026-10-29",
+          "file": "20261029-미-법무부-엔비디아의-허깅페이스-인수.md",
+          "title": "미 법무부, 엔비디아의 허깅페이스 인수 조사...AI 모델 유통망 장악 가능성 검토"
         }
       ]
     }
