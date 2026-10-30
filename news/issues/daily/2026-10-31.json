@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-31",
+  "updated_at": "2026-10-31T08:15:40.163555+09:00",
+  "run_id": "run_20261031_081540",
+  "summary_ko": "AI 투자 회수 의구심이 주가를 넘어 신용·보안 리스크로 번졌다.",
+  "issues": [
+    {
+      "title": "AI 투자 의구심의 신용 전이",
+      "summary_ko": "시장이 AI 기업의 성장보다 상환 능력을 따지기 시작했다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-31",
+          "file": "20261031-anthropic-expected-t.md",
+          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-ai-투자-공포-반도체주-7곳서-하루.md",
+          "title": "AI 투자 공포…美 반도체주 7곳서 하루 새 860조 증발 [뉴욕증시 브리핑]"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-cracks-are-emerging-.md",
+          "title": "Cracks are emerging in the AI spending boom"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12191831",
+          "title": ""
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-foxconn-hopes-to-own.md",
+          "title": "Foxconn hopes to own 50% of the global AI server market within a couple years"
+        }
+      ]
+    },
+    {
+      "title": "AI 공격 자동화와 공급망 보안",
+      "summary_ko": "공격 속도가 패치 주기를 앞질러 개발도구까지 통제 대상이 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-31",
+          "file": "20261031-open-weight-model-gl.md",
+          "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-malicious-claude-cod.md",
+          "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677321",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202610306854i",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 커머스의 현실 점검",
+      "summary_ko": "데이터 연동은 앞서가지만 실거래와 트래픽 효과는 아직 미미하다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-31",
+          "file": "20261031-doordash-said-it-s-o.md",
+          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-닐슨iq-구글과-손잡고-ai-쇼핑-고.md",
+          "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화"
+        },
+        {
+          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+          "title": ""
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-the-biggest-names-in.md",
+          "title": "The biggest names in AI are backing a new way to opt out of scraping"
+        }
+      ]
+    },
+    {
+      "title": "소버린 AI와 분업형 상용화",
+      "summary_ko": "미·중 밖 대안과 역할 분담형 제휴로 공급 의존을 줄이려 한다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "physical_ai"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-31",
+          "file": "20261031-ai는-지금-코히어-미-중-ai-양강.md",
+          "title": "[AI는 지금] 코히어, 미·중 AI 양강에 도전장…유럽과 손잡고 독자 생태계 키운다"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-토요타-웨이모-내년-일본서-무인-로보.md",
+          "title": "토요타·웨이모, 내년 일본서 무인 로보택시 시범운행"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261030172103",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
