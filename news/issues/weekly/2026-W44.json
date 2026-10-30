@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-30T08:20:37.842716+09:00",
-  "run_id": "run_20261030_082037",
-  "summary_ko": "AI 수익성 검증이 현금흐름·부채로 번지는 가운데 에이전트 통제와 금융 보안이 핵심 과제로 굳었다.",
+  "updated_at": "2026-10-30T12:13:27.704485+09:00",
+  "run_id": "run_20261030_121327",
+  "summary_ko": "AI 수익성 검증이 현금흐름·주가로 번지는 가운데 에이전트 통제와 금융 보안이 핵심 과제로 굳었다.",
   "issues": [
     {
       "title": "AI 수익성 검증과 투자 체력",
-      "body_ko": "실적·공시로 수익성이 수치화되며 현금흐름 악화와 SaaS·검색 잠식 우려가 투자 지속성을 시험했다.",
+      "body_ko": "실적·공시로 수익성이 수치화되며 현금흐름 악화와 증설 회의론이 투자 지속성을 시험했다.",
       "topics": [
         "ai_industry",
         "llm_models"
@@ -29,23 +29,8 @@
         },
         {
           "date": "2026-10-27",
-          "file": "20261027-anthropic-s-ipo-fili.md",
-          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
-        },
-        {
-          "date": "2026-10-27",
           "file": "20261027-gpt-6-1-terra-halves.md",
           "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models"
-        },
-        {
-          "date": "2026-10-27",
-          "file": "20261027-kt-토큰팩토리-띄운다-ai비용-아끼.md",
-          "title": "KT, 토큰팩토리 띄운다...\"AI비용 아끼고 데이터주권 확보\""
-        },
-        {
-          "date": "2026-10-28",
-          "file": "20261028-vcs-will-make-billio.md",
-          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more"
         },
         {
           "date": "2026-10-28",
@@ -54,18 +39,8 @@
         },
         {
           "date": "2026-10-29",
-          "file": "20261029-microsoft-just-share.md",
-          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion"
-        },
-        {
-          "date": "2026-10-29",
           "file": "20261029-microsoft-recorded-1.md",
           "title": "Microsoft recorded $10 billion in revenue from OpenAI"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-anthropic-just-launc.md",
-          "title": "Anthropic just launched tools to show companies what their AI spending is buying"
         },
         {
           "date": "2026-10-29",
@@ -78,29 +53,30 @@
           "title": "아마존, AWS 매출 39% 급증…현금흐름은 악화"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-          "title": ""
-        },
-        {
           "date": "2026-10-30",
           "file": "20261030-servicenow-shares-pl.md",
           "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears"
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-몸값-2680조원-인데-증권사들-참여.md",
-          "title": "몸값 ‘2680조원’인데 韓증권사들 “참여 안 하겠습니다”…앤트로픽IPO 불참 왜"
+          "file": "20261030-openai-backed-thrive.md",
+          "title": "OpenAI-backed Thrive Holdings acquires ADT"
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-openai-backed-thrive.md",
-          "title": "OpenAI-backed Thrive Holdings acquires ADT"
+          "file": "20261030-aws-will-be-a-1t-bus.md",
+          "title": "AWS will be a $1T business, Jassy says. But first, it will spend big."
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오라클-ai-데이터센터에-700억달러.md",
+          "title": "오라클, AI 데이터센터에 700억달러…주가 12% 급락"
         }
       ]
     },
     {
       "title": "연산 조달의 금융화와 다변화",
-      "body_ko": "회사채·지분으로 연산 투자를 떠받치는 사이 메모리 부족 장기화와 공급처 다변화가 겹쳤다.",
+      "body_ko": "회사채·지분으로 연산을 떠받치는 사이 메모리 부족 장기화와 자체 DC 구축이 겹쳤다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -119,11 +95,6 @@
         },
         {
           "date": "2026-10-27",
-          "file": "20261027-spacex-locks-in-40b-.md",
-          "title": "SpaceX locks in $40B GPU financing deal with Apollo"
-        },
-        {
-          "date": "2026-10-27",
           "file": "20261027-월가-앤트로픽-ai-칩-확보에-83조.md",
           "title": "월가, 앤트로픽 AI 칩 확보에 83조 금융 지원…브로드컴 장비 사서 임대"
         },
@@ -138,69 +109,14 @@
           "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극"
         },
         {
-          "date": "2026-10-28",
-          "file": "20261028-nvidia-amd-to-invest.md",
-          "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership"
-        },
-        {
-          "date": "2026-10-28",
-          "file": "20261028-sk하이닉스-분기-매출-첫-100조-.md",
-          "title": "SK하이닉스, 분기 매출 첫 100조 돌파…주주환원도 '100조 시대’"
-        },
-        {
-          "date": "2026-10-28",
-          "file": "20261028-엔비디아-오라클-베라-루빈-대규모-동.md",
-          "title": "엔비디아·오라클, '베라 루빈' 대규모 동맹…GPU 유휴 한계 넘는다"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-google-alters-its-cl.md",
-          "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-전력망-건설속도-6배-끌어올려야-경제.md",
-          "title": "“전력망 건설속도 6배 끌어올려야”…경제자문회의 부의장이 경고한 이유"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-lg전자-ai-냉각사업-돈-버는-방식.md",
-          "title": "LG전자, AI 냉각사업 돈 버는 방식 바꾼다…'통합 솔루션' 승부수"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-영업익-100조-시대-연-삼성-반도체.md",
-          "title": "영업익 100조 시대 연 삼성 반도체, 내년 공급부족 대비 85조 설비투자"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-마벨-ai-광통신-대장주-루멘텀-인수.md",
-          "title": "마벨, AI 광통신 대장주 루멘텀 인수 추진…AI 인프라 업계 빅딜"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-가온전선-캠퍼스형-aidc-사로잡았다.md",
-          "title": "가온전선, 美 캠퍼스형 AIDC 사로잡았다…빅테크에 1200억 또 수주"
-        },
-        {
           "date": "2026-10-29",
           "file": "20261029-오픈ai-구글-tpu-직접-구매-추진.md",
           "title": "오픈AI, 구글 TPU 직접 구매 추진...엔비디아 의존도 줄인다"
         },
         {
           "date": "2026-10-29",
-          "file": "20261029-퓨리오사ai-8200억-규모-투자-유.md",
-          "title": "퓨리오사AI, 8200억 규모 투자 유치...기업가치 3.8조원 돌파"
-        },
-        {
-          "date": "2026-10-29",
           "file": "20261029-삼성전자-메모리-2028년까지-수급-.md",
           "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\""
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-장재훈-현대차그룹-부회장-새만금-9조.md",
-          "title": "장재훈 현대차그룹 부회장 \"새만금 9조 투자 차질 없이 추진\""
         },
         {
           "date": "2026-10-30",
@@ -214,17 +130,18 @@
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-앤트로픽-스페이스x-매출-34-5-차.md",
-          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객"
-        },
-        {
-          "date": "2026-10-30",
           "file": "20261030-삼성sds가-ai데이터센터-사업에-1.md",
           "title": "삼성SDS가 AI데이터센터 사업에 '1조 매출' 기대하는 이유"
         },
         {
-          "url": "https://www.mk.co.kr/news/business/12190267",
-          "title": ""
+          "date": "2026-10-30",
+          "file": "20261030-현대차그룹-ai-데이터센터-건립-본격.md",
+          "title": "현대차그룹, AI 데이터센터 건립 본격 착수…내달 법인 2개 설립(종합)"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-kt-ai-모델-골라-쓰는-토큰팩토리.md",
+          "title": "KT, AI 모델 골라 쓰는 '토큰팩토리' 출시...이용료 30% 할인"
         }
       ]
     },
@@ -253,23 +170,8 @@
         },
         {
           "date": "2026-10-28",
-          "file": "20261028-오라클-오픈ai와-ai-보안-위협-공.md",
-          "title": "오라클, 오픈AI와 AI 보안 위협 공동 대응…\"취약점 찾아 고친다\""
-        },
-        {
-          "date": "2026-10-28",
-          "file": "20261028-구글-서비스나우-기업용-ai-주도권-.md",
-          "title": "구글·서비스나우, 기업용 AI 주도권 잡는다…업무 자동화 시장 공략 속도"
-        },
-        {
-          "date": "2026-10-28",
           "file": "20261028-금지해도-쓴다-파수ai-조사서-드러난.md",
           "title": "\"금지해도 쓴다\"…파수AI 조사서 드러난 사내 AI 통제 한계"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-as-ai-agents-reshape.md",
-          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
         },
         {
           "date": "2026-10-29",
@@ -278,18 +180,8 @@
         },
         {
           "date": "2026-10-29",
-          "file": "20261029-김연수-한컴-대표-2030년-매출-절.md",
-          "title": "김연수 한컴 대표 \"2030년 매출 절반 해외서\"…노마디안으로 글로벌 공략 박차"
-        },
-        {
-          "date": "2026-10-29",
           "file": "20261029-구글-기업용-제미나이-에이전트-연내-.md",
           "title": "구글, 기업용 '제미나이 에이전트' 연내 일반인에게 제공…10억 이용자 겨냥"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-세일즈포스-이어-오라클도-ai에-통합.md",
-          "title": "세일즈포스 이어 오라클도 AI에 통합…기업용 소프트웨어 판도 변화"
         },
         {
           "date": "2026-10-29",
@@ -308,11 +200,6 @@
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-how-we-detect-fronti.md",
-          "title": "How we detect frontier model misalignment"
-        },
-        {
-          "date": "2026-10-30",
           "file": "20261030-오픈ai-앤트로픽-구글-ai-에이전트.md",
           "title": "오픈AI·앤트로픽·구글 “AI 에이전트 확산에 보안·권한 관리 문제 커져”"
         },
@@ -320,16 +207,12 @@
           "date": "2026-10-30",
           "file": "20261030-오픈ai-연내-챗gpt-대화-업무-기.md",
           "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
-          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 보안 위기와 AI 연동 확대",
-      "body_ko": "해킹이 업무망·제휴 시스템까지 번지는 사이 결제망은 에이전트 연동으로 채널을 넓혔다.",
+      "title": "금융권 보안 위기와 AI 현업화",
+      "body_ko": "해킹이 업무망과 AI 활용 공격으로 번지는 사이 결제 연동·현업 자동화로 금융 AI가 넓어졌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -358,11 +241,6 @@
         },
         {
           "date": "2026-10-28",
-          "file": "20261028-kb증권-sk텔레콤과-모두의-ai-금.md",
-          "title": "KB증권, SK텔레콤과 '모두의 AI' 금융서비스 협력 MOU"
-        },
-        {
-          "date": "2026-10-28",
           "file": "20261028-대신증권-서버-뚫렸다-3만8490명-.md",
           "title": "대신증권 서버 뚫렸다…3만8490명 고객 개인정보 유출"
         },
@@ -373,28 +251,13 @@
         },
         {
           "date": "2026-10-29",
-          "file": "20261029-south-korea-s-financ.md",
-          "title": "South Korea’s financial industry hit by fresh wave of cyberattacks"
-        },
-        {
-          "date": "2026-10-29",
           "file": "20261029-natwest-slashes-mark.md",
           "title": "NatWest slashes marketing compliance approval times with Adclear agents"
         },
         {
           "date": "2026-10-29",
-          "file": "20261029-hummingbird-buys-qua.md",
-          "title": "Hummingbird buys Quantimon to bring machine learning to AML transaction monitoring"
-        },
-        {
-          "date": "2026-10-29",
           "file": "20261029-웹케시-독파모-합류-금융-ai-에이전.md",
           "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-삼성금융-ai-핀테크-스타트업-4곳-.md",
-          "title": "삼성금융, AI 핀테크 스타트업 4곳 선정…내년 CES 참가 지원"
         },
         {
           "date": "2026-10-30",
@@ -403,28 +266,29 @@
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-mollie-introduces-ch.md",
-          "title": "Mollie introduces ChatGPT and Claude integrations"
-        },
-        {
-          "date": "2026-10-30",
-          "file": "20261030-7159명-정보-유출-빗썸-이틀-만에.md",
-          "title": "7159명 정보 유출 빗썸, 이틀 만에 사과…\"피해 구제·보상 최선\""
-        },
-        {
-          "date": "2026-10-30",
           "file": "20261030-금보원-금융권-해킹-ip만으로-북한-.md",
           "title": "금보원 \"금융권 해킹, IP만으로 북한 공격 감행 단정 어려워\""
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261029185947",
-          "title": ""
+          "date": "2026-10-30",
+          "file": "20261030-한국딥러닝-ai로-ibk기업은행-보이.md",
+          "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-종합-새-역사-썼다-ai-금융서-훨훨.md",
+          "title": "[종합] \"새 역사 썼다\"…AI·금융서 훨훨 난 LG CNS, 3분기 매출 역대 '최대'"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-단독-ms-한국에-악성코드-100개-.md",
+          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”"
         }
       ]
     },
     {
       "title": "피지컬 AI 설비투자 본격화",
-      "body_ko": "완성차·로봇 투자와 현장 실증, 정부 학습데이터 인프라가 겹치며 현장 적용 단계에 들어섰다.",
+      "body_ko": "완성차 로봇·학습 DC 투자와 정부 데이터 인프라가 겹치며 현장 적용 단계에 들어섰다.",
       "topics": [
         "physical_ai",
         "physical_ai_robotics"
@@ -452,18 +316,8 @@
         },
         {
           "date": "2026-10-28",
-          "file": "20261028-2035년-자율운항선박-수주-1위-해.md",
-          "title": "2035년 자율운항선박 수주 1위… 해수부 '해양수산 AX 전략' 발표"
-        },
-        {
-          "date": "2026-10-28",
           "file": "20261028-서-피지컬-ai-로봇-전용-보험-등장.md",
           "title": "日서 '피지컬 AI' 로봇 전용 보험 등장…11월 판매"
-        },
-        {
-          "date": "2026-10-29",
-          "file": "20261029-제조데이터-컨트롤타워-뜬다-m-ax-.md",
-          "title": "제조데이터 컨트롤타워 뜬다…M.AX 얼라이언스 데이터 분과 출범"
         },
         {
           "date": "2026-10-29",
@@ -476,12 +330,9 @@
           "title": "과기정통부, 내년 피지컬 AI 트레이닝 센터 구축...산업 생태계 육성 본격화"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261029195515",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677146",
-          "title": ""
+          "date": "2026-10-30",
+          "file": "20261030-현대차그룹-ai-데이터센터-건립-본격.md",
+          "title": "현대차그룹, AI 데이터센터 건립 본격 착수…내달 법인 2개 설립(종합)"
         }
       ]
     }

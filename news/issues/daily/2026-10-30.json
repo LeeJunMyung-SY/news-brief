@@ -1,12 +1,12 @@
 {
   "date": "2026-10-30",
-  "updated_at": "2026-10-30T08:20:37.842716+09:00",
-  "run_id": "run_20261030_082037",
-  "summary_ko": "AI 투자 청구서가 실적에 찍히는 사이 에이전트 통제와 금융 연동이 함께 진전됐다.",
+  "updated_at": "2026-10-30T12:13:27.704485+09:00",
+  "run_id": "run_20261030_121327",
+  "summary_ko": "AI 투자 청구서가 주가에 반영되는 사이 금융 현업 성과와 자체 연산 확보가 진전됐다.",
   "issues": [
     {
       "title": "빅테크 실적이 드러낸 AI 투자 청구서",
-      "summary_ko": "AI 성장의 대가로 현금 소진과 기존 수익 잠식이 함께 확인됐다.",
+      "summary_ko": "증설 발표가 주가 급락으로 이어지며 시장이 투자 회수력을 따지기 시작했다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -23,10 +23,6 @@
           "title": "MS, AI 투자 확대로 9년 만에 회사채 33조원 발행"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
-          "title": ""
-        },
-        {
           "date": "2026-10-30",
           "file": "20261030-ai-buildout-hits-sna.md",
           "title": "AI buildout hits snag as Google and Microsoft put off raising capex forecasts"
@@ -40,6 +36,16 @@
           "date": "2026-10-30",
           "file": "20261030-openai-backed-thrive.md",
           "title": "OpenAI-backed Thrive Holdings acquires ADT"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-aws-will-be-a-1t-bus.md",
+          "title": "AWS will be a $1T business, Jassy says. But first, it will spend big."
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-오라클-ai-데이터센터에-700억달러.md",
+          "title": "오라클, AI 데이터센터에 700억달러…주가 12% 급락"
         }
       ]
     },
@@ -85,8 +91,8 @@
       ]
     },
     {
-      "title": "금융 접점의 에이전트 개방과 보안 부담",
-      "summary_ko": "결제망이 에이전트를 받아들이는 사이 업무망 해킹이 보안 부담을 키웠다.",
+      "title": "금융 AI의 현업 성과와 보안 부담",
+      "summary_ko": "현업 자동화 성과가 쌓이는 사이 AI 활용 공격이 보안 부담을 키웠다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -117,15 +123,31 @@
           "date": "2026-10-30",
           "file": "20261030-몸값-2680조원-인데-증권사들-참여.md",
           "title": "몸값 ‘2680조원’인데 韓증권사들 “참여 안 하겠습니다”…앤트로픽IPO 불참 왜"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-한국딥러닝-ai로-ibk기업은행-보이.md",
+          "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-종합-새-역사-썼다-ai-금융서-훨훨.md",
+          "title": "[종합] \"새 역사 썼다\"…AI·금융서 훨훨 난 LG CNS, 3분기 매출 역대 '최대'"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-단독-ms-한국에-악성코드-100개-.md",
+          "title": "[단독] MS “北, 한국에 악성코드 100개 뿌렸다…AI 해킹, 최고 수준”"
         }
       ]
     },
     {
-      "title": "연산 조달과 자체 운영 선택지",
-      "summary_ko": "연산 공급처가 넓어지고 오픈웨이트·DC 구축이 자체 운영 대안으로 떠올랐다.",
+      "title": "연산·모델의 자체 확보 경쟁",
+      "summary_ko": "기업이 DC·모델 플랫폼을 직접 갖춰 비용과 데이터 주권을 통제하려 한다.",
       "topics": [
         "ai_compute_energy",
-        "llm_models"
+        "llm_models",
+        "physical_ai"
       ],
       "articles": [
         {
@@ -149,8 +171,14 @@
           "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지"
         },
         {
-          "url": "https://www.mk.co.kr/news/business/12190267",
-          "title": ""
+          "date": "2026-10-30",
+          "file": "20261030-현대차그룹-ai-데이터센터-건립-본격.md",
+          "title": "현대차그룹, AI 데이터센터 건립 본격 착수…내달 법인 2개 설립(종합)"
+        },
+        {
+          "date": "2026-10-30",
+          "file": "20261030-kt-ai-모델-골라-쓰는-토큰팩토리.md",
+          "title": "KT, AI 모델 골라 쓰는 '토큰팩토리' 출시...이용료 30% 할인"
         }
       ]
     }
