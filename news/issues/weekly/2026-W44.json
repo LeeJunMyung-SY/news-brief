@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-31T16:09:32.079581+09:00",
-  "run_id": "run_20261031_160932",
+  "updated_at": "2026-11-01T08:11:52.202318+09:00",
+  "run_id": "run_20261101_081152",
   "summary_ko": "AI 수익성 검증이 증시·신용·조달로 번지는 사이 에이전트·금융 보안 통제가 핵심 과제로 굳었다.",
   "issues": [
     {
       "title": "AI 수익성 검증과 신용 리스크",
-      "body_ko": "실적 검증이 증시 급락과 광고 수익 잠식을 거쳐 AI 기업 신용·조달 축소로 번졌다.",
+      "body_ko": "실적 검증이 증시 급락과 신용 우려를 거쳐 선두 연구소 조달 실패로 번졌다.",
       "topics": [
         "ai_industry",
         "llm_models",
@@ -45,11 +45,6 @@
         },
         {
           "date": "2026-10-31",
-          "file": "20261031-ai-투자-공포-반도체주-7곳서-하루.md",
-          "title": "AI 투자 공포…美 반도체주 7곳서 하루 새 860조 증발 [뉴욕증시 브리핑]"
-        },
-        {
-          "date": "2026-10-31",
           "file": "20261031-ai-거품-붕괴-조짐에-미-기술주-급.md",
           "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발"
         },
@@ -59,15 +54,20 @@
           "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발"
         },
         {
-          "date": "2026-10-31",
-          "file": "20261031-ai는-지금-나스닥-급락에-오픈ai도.md",
-          "title": "[AI는 지금] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나"
+          "date": "2026-11-01",
+          "file": "20261101-openai-raises-just-1.md",
+          "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ai-수익성-회의론-증시-계속-짓누르.md",
+          "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각"
         }
       ]
     },
     {
       "title": "연산 조달의 금융화와 다변화",
-      "body_ko": "회사채·지분·공급사 보증으로 연산을 떠받치는 사이 전력 제도 정비가 새 변수로 떠올랐다.",
+      "body_ko": "회사채·지분·보증으로 연산을 떠받치는 사이 전력·환경 제도가 새 변수로 떠올랐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -95,24 +95,9 @@
           "title": "오픈AI, 구글 TPU 직접 구매 추진...엔비디아 의존도 줄인다"
         },
         {
-          "date": "2026-10-29",
-          "file": "20261029-삼성전자-메모리-2028년까지-수급-.md",
-          "title": "삼성전자 \"메모리, 2028년까지 수급 빠듯...내년 HBM 완판\""
-        },
-        {
           "date": "2026-10-30",
           "file": "20261030-ms-ai-투자-확대로-9년-만에-회.md",
           "title": "MS, AI 투자 확대로 9년 만에 회사채 33조원 발행"
-        },
-        {
-          "date": "2026-10-30",
-          "file": "20261030-현대차그룹-ai-데이터센터-건립-본격.md",
-          "title": "현대차그룹, AI 데이터센터 건립 본격 착수…내달 법인 2개 설립(종합)"
-        },
-        {
-          "date": "2026-10-31",
-          "file": "20261031-foxconn-hopes-to-own.md",
-          "title": "Foxconn hopes to own 50% of the global AI server market within a couple years"
         },
         {
           "date": "2026-10-31",
@@ -123,22 +108,32 @@
           "date": "2026-10-31",
           "file": "20261031-의정-브리프-ai-데이터센터-전력망-.md",
           "title": "[의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-샘-올트먼-오픈ai-ceo-삼성-sk.md",
+          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-judge-allows-naacp-l.md",
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-중국-gpu-엔비디아-h200과-성능.md",
+          "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서"
         }
       ]
     },
     {
-      "title": "에이전트 확산과 통제·보안 과제",
-      "body_ko": "에이전트가 업무 창구로 퍼지는 사이 공격 자동화와 공급망 위협이 통제 강화를 요구했다.",
+      "title": "에이전트 확산과 통제·실사 과제",
+      "body_ko": "에이전트가 업무 창구로 퍼지는 사이 공격 자동화와 과장된 자동화 수준이 통제·실사를 요구했다.",
       "topics": [
         "ai_agents",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-10-26",
-          "file": "20261026-클로드-선거-앞두고-조지아주-유권자-.md",
-          "title": "클로드, 선거 앞두고 조지아주 유권자 데이터 무단 접근 논란"
-        },
         {
           "date": "2026-10-27",
           "file": "20261027-앤트로픽도-뚫렸다-캐서드럴-ai-에이.md",
@@ -148,11 +143,6 @@
           "date": "2026-10-29",
           "file": "20261029-openai-and-serviceno.md",
           "title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
-        },
-        {
-          "date": "2026-10-30",
-          "file": "20261030-오픈ai-에이전트-시대-맞춰-행동-원.md",
-          "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\""
         },
         {
           "date": "2026-10-30",
@@ -173,6 +163,16 @@
           "date": "2026-10-31",
           "file": "20261031-doordash-said-it-s-o.md",
           "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-humans-are-still-doi.md",
+          "title": "Humans are still doing the work behind some AI agents"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ai-보안-경쟁-축-탐지-자동-대응-.md",
+          "title": "AI 보안 경쟁 축 '탐지→자동 대응'…시장 성장도 가속"
         }
       ]
     },

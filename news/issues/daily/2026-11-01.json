@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-01",
+  "updated_at": "2026-11-01T08:11:52.202318+09:00",
+  "run_id": "run_20261101_081152",
+  "summary_ko": "AI 투자 회의론이 조달 실패로 번지자 공급사는 동맹·규제 대응을 서둘렀다.",
+  "issues": [
+    {
+      "title": "AI 투자 회의론의 조달 전이",
+      "summary_ko": "주가 조정이 선두 연구소의 자금 조달 실패로 이어졌다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-01",
+          "file": "20261101-openai-raises-just-1.md",
+          "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ai-수익성-회의론-증시-계속-짓누르.md",
+          "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12192467",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "오픈AI의 한국 대기업 결속",
+      "summary_ko": "자금 경색 속 공급사가 메모리·고객 동맹을 함께 다진다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-01",
+          "file": "20261101-샘-올트먼-오픈ai-ceo-삼성-sk.md",
+          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화"
+        }
+      ]
+    },
+    {
+      "title": "공급사 규제·데이터 리스크",
+      "summary_ko": "표시 의무와 데이터 약관 변경이 공급사 점검 항목이 됐다.",
+      "topics": [
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-01",
+          "file": "20261101-anthropic-s-watermar.md",
+          "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-openai-plans-to-trai.md",
+          "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ai-보안-경쟁-축-탐지-자동-대응-.md",
+          "title": "AI 보안 경쟁 축 '탐지→자동 대응'…시장 성장도 가속"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-judge-allows-naacp-l.md",
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 자동화의 실체 점검",
+      "summary_ko": "자율 에이전트 뒤 사람 노동이 드러나 실사가 필요해졌다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-01",
+          "file": "20261101-humans-are-still-doi.md",
+          "title": "Humans are still doing the work behind some AI agents"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
