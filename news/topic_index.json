@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:11:42+00:00",
+  "generated_at": "2026-10-31T07:09:41+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3533,
+      "count": 3535,
       "latest_date": "2026-10-31"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1117,
+      "count": 1119,
       "latest_date": "2026-10-31"
     },
     {
@@ -82,8 +82,8 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 76,
-      "latest_date": "2026-10-30"
+      "count": 77,
+      "latest_date": "2026-10-31"
     },
     {
       "key": "robotics",
@@ -61579,6 +61579,21 @@
     "ai_industry": [
       {
         "date": "2026-10-31",
+        "file": "20261031-ai는-지금-나스닥-급락에-오픈ai도.md",
+        "title": "[AI는 지금] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#ipo",
+          "#ai-bubble",
+          "#openai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261031124538"
+      },
+      {
+        "date": "2026-10-31",
         "file": "20261031-ipo-앞둔-앤트로픽-기업-공략-고삐.md",
         "title": "IPO 앞둔 앤트로픽, 기업 공략 고삐…성과·비용 관리까지 지원",
         "importance": 8,
@@ -61650,6 +61665,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216843"
+      },
+      {
+        "date": "2026-10-31",
+        "file": "20261031-삼성-사장단-올트먼에-ai-다음-10.md",
+        "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#leadership",
+          "#samsung"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261031000026"
       },
       {
         "date": "2026-10-31",
@@ -120516,6 +120546,21 @@
     "ai_compute_energy": [
       {
         "date": "2026-10-31",
+        "file": "20261031-ai는-지금-나스닥-급락에-오픈ai도.md",
+        "title": "[AI는 지금] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#ipo",
+          "#ai-bubble",
+          "#openai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261031124538"
+      },
+      {
+        "date": "2026-10-31",
         "file": "20261031-ai-거품-붕괴-조짐에-미-기술주-급.md",
         "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발",
         "importance": 7,
@@ -120599,6 +120644,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html"
+      },
+      {
+        "date": "2026-10-31",
+        "file": "20261031-의정-브리프-ai-데이터센터-전력망-.md",
+        "title": "[의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#power-grid",
+          "#regulation",
+          "#energy-policy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261031000029"
       },
       {
         "date": "2026-10-30",
@@ -159425,6 +159484,21 @@
     ],
     "ai_workforce_training": [
       {
+        "date": "2026-10-31",
+        "file": "20261031-삼성-사장단-올트먼에-ai-다음-10.md",
+        "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보",
+        "importance": 7,
+        "tags": [
+          "#partnership",
+          "#enterprise-ai",
+          "#ai-adoption",
+          "#leadership",
+          "#samsung"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261031000026"
+      },
+      {
         "date": "2026-10-30",
         "file": "20261030-ai픽-ai-도입한-고객센터-감원보다.md",
         "title": "[AI픽] AI 도입한 고객센터, 감원보다 충원 많았다",
@@ -160519,7 +160593,7 @@
       {
         "date": "2026-10-31",
         "title": "AI 투자 의구심의 신용 전이",
-        "summary": "시장이 AI 기업의 성장보다 상환 능력을 따지기 시작했다.",
+        "summary": "시장이 AI 기업의 성장보다 상환·회수 능력을 따지기 시작했다.",
         "articles": [
           {
             "date": "2026-10-31",
@@ -160550,6 +160624,11 @@
             "date": "2026-10-31",
             "file": "20261031-ai-거품-붕괴-조짐에-미-기술주-급.md",
             "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발"
+          },
+          {
+            "date": "2026-10-31",
+            "file": "20261031-ai는-지금-나스닥-급락에-오픈ai도.md",
+            "title": "[AI는 지금] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나"
           }
         ]
       },
@@ -160582,8 +160661,8 @@
       },
       {
         "date": "2026-10-31",
-        "title": "상장 앞둔 랩의 기업 수익화",
-        "summary": "상장 검증을 앞두고 전문 업무와 비용 관리로 기업 매출을 다진다.",
+        "title": "프런티어 랩의 기업 고객 결속",
+        "summary": "상장 검증을 앞두고 연구소가 대기업 동맹과 기업 매출을 다진다.",
         "articles": [
           {
             "date": "2026-10-31",
@@ -160594,6 +160673,11 @@
             "date": "2026-10-31",
             "file": "20261031-앤트로픽-20배-사용량-혼선에-요금제.md",
             "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지"
+          },
+          {
+            "date": "2026-10-31",
+            "file": "20261031-삼성-사장단-올트먼에-ai-다음-10.md",
+            "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보"
           }
         ]
       },
@@ -167859,7 +167943,7 @@
       {
         "date": "2026-10-31",
         "title": "AI 투자 의구심의 신용 전이",
-        "summary": "시장이 AI 기업의 성장보다 상환 능력을 따지기 시작했다.",
+        "summary": "시장이 AI 기업의 성장보다 상환·회수 능력을 따지기 시작했다.",
         "articles": [
           {
             "date": "2026-10-31",
@@ -167890,6 +167974,11 @@
             "date": "2026-10-31",
             "file": "20261031-ai-거품-붕괴-조짐에-미-기술주-급.md",
             "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발"
+          },
+          {
+            "date": "2026-10-31",
+            "file": "20261031-ai는-지금-나스닥-급락에-오픈ai도.md",
+            "title": "[AI는 지금] 나스닥 급락에 오픈AI도 '흔들'…AI 투자 열기 식나"
           }
         ]
       },
@@ -176633,8 +176722,8 @@
     "llm_models": [
       {
         "date": "2026-10-31",
-        "title": "상장 앞둔 랩의 기업 수익화",
-        "summary": "상장 검증을 앞두고 전문 업무와 비용 관리로 기업 매출을 다진다.",
+        "title": "프런티어 랩의 기업 고객 결속",
+        "summary": "상장 검증을 앞두고 연구소가 대기업 동맹과 기업 매출을 다진다.",
         "articles": [
           {
             "date": "2026-10-31",
@@ -176645,6 +176734,11 @@
             "date": "2026-10-31",
             "file": "20261031-앤트로픽-20배-사용량-혼선에-요금제.md",
             "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지"
+          },
+          {
+            "date": "2026-10-31",
+            "file": "20261031-삼성-사장단-올트먼에-ai-다음-10.md",
+            "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보"
           }
         ]
       },
@@ -179646,8 +179740,8 @@
     "금융회사 AI": [
       {
         "date": "2026-10-31",
-        "title": "상장 앞둔 랩의 기업 수익화",
-        "summary": "상장 검증을 앞두고 전문 업무와 비용 관리로 기업 매출을 다진다.",
+        "title": "프런티어 랩의 기업 고객 결속",
+        "summary": "상장 검증을 앞두고 연구소가 대기업 동맹과 기업 매출을 다진다.",
         "articles": [
           {
             "date": "2026-10-31",
@@ -179658,6 +179752,11 @@
             "date": "2026-10-31",
             "file": "20261031-앤트로픽-20배-사용량-혼선에-요금제.md",
             "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지"
+          },
+          {
+            "date": "2026-10-31",
+            "file": "20261031-삼성-사장단-올트먼에-ai-다음-10.md",
+            "title": "삼성 사장단, 올트먼에 'AI 다음 10년' 물었다…OpenAI 동맹 밀착 행보"
           }
         ]
       },
