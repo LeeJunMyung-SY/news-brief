@@ -1,12 +1,12 @@
 {
   "week": "2026-W44",
-  "updated_at": "2026-10-31T08:15:40.163555+09:00",
-  "run_id": "run_20261031_081540",
-  "summary_ko": "AI 수익성 검증이 증시와 신용으로 번지는 사이 에이전트·금융 보안 통제가 핵심 과제로 굳었다.",
+  "updated_at": "2026-10-31T12:11:32.445844+09:00",
+  "run_id": "run_20261031_121132",
+  "summary_ko": "AI 수익성 검증이 증시·신용·광고 수익으로 번지는 사이 에이전트·금융 보안 통제가 핵심 과제로 굳었다.",
   "issues": [
     {
       "title": "AI 수익성 검증과 신용 리스크",
-      "body_ko": "실적 검증이 증시 급락을 거쳐 AI 기업 신용등급·조달비용 문제로 번졌다.",
+      "body_ko": "실적 검증이 증시 급락과 광고 수익 잠식을 거쳐 AI 기업 신용·조달비용 문제로 번졌다.",
       "topics": [
         "ai_industry",
         "llm_models",
@@ -24,29 +24,14 @@
           "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations"
         },
         {
-          "date": "2026-10-27",
-          "file": "20261027-gpt-6-1-terra-halves.md",
-          "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models"
-        },
-        {
           "date": "2026-10-29",
           "file": "20261029-ai-투자-감당할-체력-있나-ms-구.md",
           "title": "\"AI 투자 감당할 체력 있나\"…MS·구글, '현금흐름'이 희비 갈랐다"
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-아마존-aws-매출-39-급증-현금흐.md",
-          "title": "아마존, AWS 매출 39% 급증…현금흐름은 악화"
-        },
-        {
-          "date": "2026-10-30",
           "file": "20261030-servicenow-shares-pl.md",
           "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears"
-        },
-        {
-          "date": "2026-10-30",
-          "file": "20261030-오라클-ai-데이터센터에-700억달러.md",
-          "title": "오라클, AI 데이터센터에 700억달러…주가 12% 급락"
         },
         {
           "date": "2026-10-30",
@@ -64,14 +49,20 @@
           "title": "AI 투자 공포…美 반도체주 7곳서 하루 새 860조 증발 [뉴욕증시 브리핑]"
         },
         {
-          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-          "title": ""
+          "date": "2026-10-31",
+          "file": "20261031-ai-거품-붕괴-조짐에-미-기술주-급.md",
+          "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-구글-ai-검색에-광고-수익성-타격-.md",
+          "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발"
         }
       ]
     },
     {
       "title": "연산 조달의 금융화와 다변화",
-      "body_ko": "회사채·지분으로 연산을 떠받치는 사이 메모리 쏠림 비용이 범용 IT로 번졌다.",
+      "body_ko": "회사채·지분에 공급사 보증까지 동원해 연산을 떠받치며 공급망이 서로의 신용을 떠안게 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -114,18 +105,14 @@
           "title": "현대차그룹, AI 데이터센터 건립 본격 착수…내달 법인 2개 설립(종합)"
         },
         {
-          "date": "2026-10-30",
-          "file": "20261030-효성중공업-지멘스와-디지털-전력망-a.md",
-          "title": "효성중공업, 지멘스와 디지털 전력망·AI 데이터센터 공략"
-        },
-        {
           "date": "2026-10-31",
           "file": "20261031-foxconn-hopes-to-own.md",
           "title": "Foxconn hopes to own 50% of the global AI server market within a couple years"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261030163628",
-          "title": ""
+          "date": "2026-10-31",
+          "file": "20261031-엔비디아-엔스케일-자금난에-지원-검토.md",
+          "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증"
         }
       ]
     },
@@ -153,11 +140,6 @@
           "title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
         },
         {
-          "date": "2026-10-29",
-          "file": "20261029-미-법무부-엔비디아의-허깅페이스-인수.md",
-          "title": "미 법무부, 엔비디아의 허깅페이스 인수 조사...AI 모델 유통망 장악 가능성 검토"
-        },
-        {
           "date": "2026-10-30",
           "file": "20261030-오픈ai-에이전트-시대-맞춰-행동-원.md",
           "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\""
@@ -181,17 +163,12 @@
           "date": "2026-10-31",
           "file": "20261031-doordash-said-it-s-o.md",
           "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
-        },
-        {
-          "date": "2026-10-31",
-          "file": "20261031-the-biggest-names-in.md",
-          "title": "The biggest names in AI are backing a new way to opt out of scraping"
         }
       ]
     },
     {
       "title": "금융권 보안 위기와 AI 현업화",
-      "body_ko": "해킹 연쇄가 서드파티 감독 강화로 번지는 사이 에이전트 발주로 금융 AI가 예산화됐다.",
+      "body_ko": "해킹 연쇄가 서드파티 감독 강화로 번지는 사이 에이전트 발주와 전문 서비스로 금융 AI가 예산화됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -230,11 +207,6 @@
         },
         {
           "date": "2026-10-30",
-          "file": "20261030-visa-and-tencent-ink.md",
-          "title": "Visa and Tencent ink agentic commerce and cross-border payments MoU"
-        },
-        {
-          "date": "2026-10-30",
           "file": "20261030-한국딥러닝-ai로-ibk기업은행-보이.md",
           "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화"
         },
@@ -244,8 +216,9 @@
           "title": "금융당국 보안점검에도 또 뚫려…美연준은 서드파티까지 감독"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677360",
-          "title": ""
+          "date": "2026-10-31",
+          "file": "20261031-ipo-앞둔-앤트로픽-기업-공략-고삐.md",
+          "title": "IPO 앞둔 앤트로픽, 기업 공략 고삐…성과·비용 관리까지 지원"
         }
       ]
     },
@@ -288,8 +261,9 @@
           "title": "토요타·웨이모, 내년 일본서 무인 로보택시 시범운행"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261030172315",
-          "title": ""
+          "date": "2026-10-31",
+          "file": "20261031-에이아이매틱스가-월드모델-로-제조-현.md",
+          "title": "에이아이매틱스가 '월드모델'로 제조 현장 문제 푸는 법"
         }
       ]
     }

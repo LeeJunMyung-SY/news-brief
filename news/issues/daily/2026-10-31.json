@@ -1,8 +1,8 @@
 {
   "date": "2026-10-31",
-  "updated_at": "2026-10-31T08:15:40.163555+09:00",
-  "run_id": "run_20261031_081540",
-  "summary_ko": "AI 투자 회수 의구심이 주가를 넘어 신용·보안 리스크로 번졌다.",
+  "updated_at": "2026-10-31T12:11:32.445844+09:00",
+  "run_id": "run_20261031_121132",
+  "summary_ko": "AI 투자 의구심이 신용·광고 수익으로 번지자 연구소는 기업 매출 다지기에 나섰다.",
   "issues": [
     {
       "title": "AI 투자 의구심의 신용 전이",
@@ -28,21 +28,70 @@
           "title": "Cracks are emerging in the AI spending boom"
         },
         {
-          "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.mk.co.kr/news/economy/12191831",
-          "title": ""
-        },
-        {
           "date": "2026-10-31",
           "file": "20261031-foxconn-hopes-to-own.md",
           "title": "Foxconn hopes to own 50% of the global AI server market within a couple years"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-엔비디아-엔스케일-자금난에-지원-검토.md",
+          "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-ai-거품-붕괴-조짐에-미-기술주-급.md",
+          "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발"
+        }
+      ]
+    },
+    {
+      "title": "AI 전환의 수익 모델 공백",
+      "summary_ko": "AI 창구가 늘수록 기존 광고·거래 수익은 오히려 비어 간다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-31",
+          "file": "20261031-doordash-said-it-s-o.md",
+          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-닐슨iq-구글과-손잡고-ai-쇼핑-고.md",
+          "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-the-biggest-names-in.md",
+          "title": "The biggest names in AI are backing a new way to opt out of scraping"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-구글-ai-검색에-광고-수익성-타격-.md",
+          "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발"
+        }
+      ]
+    },
+    {
+      "title": "상장 앞둔 랩의 기업 수익화",
+      "summary_ko": "상장 검증을 앞두고 전문 업무와 비용 관리로 기업 매출을 다진다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-10-31",
+          "file": "20261031-ipo-앞둔-앤트로픽-기업-공략-고삐.md",
+          "title": "IPO 앞둔 앤트로픽, 기업 공략 고삐…성과·비용 관리까지 지원"
+        },
+        {
+          "date": "2026-10-31",
+          "file": "20261031-앤트로픽-20배-사용량-혼선에-요금제.md",
+          "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지"
         }
       ]
     },
@@ -64,68 +113,6 @@
           "date": "2026-10-31",
           "file": "20261031-malicious-claude-cod.md",
           "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft"
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677321",
-          "title": ""
-        },
-        {
-          "url": "https://www.hankyung.com/article/202610306854i",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "에이전트 커머스의 현실 점검",
-      "summary_ko": "데이터 연동은 앞서가지만 실거래와 트래픽 효과는 아직 미미하다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-31",
-          "file": "20261031-doordash-said-it-s-o.md",
-          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
-        },
-        {
-          "date": "2026-10-31",
-          "file": "20261031-닐슨iq-구글과-손잡고-ai-쇼핑-고.md",
-          "title": "닐슨IQ, 구글과 손잡고 AI 쇼핑 고도화…상품 추천·구매 정보 강화"
-        },
-        {
-          "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-          "title": ""
-        },
-        {
-          "date": "2026-10-31",
-          "file": "20261031-the-biggest-names-in.md",
-          "title": "The biggest names in AI are backing a new way to opt out of scraping"
-        }
-      ]
-    },
-    {
-      "title": "소버린 AI와 분업형 상용화",
-      "summary_ko": "미·중 밖 대안과 역할 분담형 제휴로 공급 의존을 줄이려 한다.",
-      "topics": [
-        "llm_models",
-        "ai_industry",
-        "physical_ai"
-      ],
-      "articles": [
-        {
-          "date": "2026-10-31",
-          "file": "20261031-ai는-지금-코히어-미-중-ai-양강.md",
-          "title": "[AI는 지금] 코히어, 미·중 AI 양강에 도전장…유럽과 손잡고 독자 생태계 키운다"
-        },
-        {
-          "date": "2026-10-31",
-          "file": "20261031-토요타-웨이모-내년-일본서-무인-로보.md",
-          "title": "토요타·웨이모, 내년 일본서 무인 로보택시 시범운행"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261030172103",
-          "title": ""
         }
       ]
     }
