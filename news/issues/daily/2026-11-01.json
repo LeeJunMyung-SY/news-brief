@@ -1,12 +1,12 @@
 {
   "date": "2026-11-01",
-  "updated_at": "2026-11-01T08:11:52.202318+09:00",
-  "run_id": "run_20261101_081152",
-  "summary_ko": "AI 투자 회의론이 조달 실패로 번지자 공급사는 동맹·규제 대응을 서둘렀다.",
+  "updated_at": "2026-11-01T12:13:55.537135+09:00",
+  "run_id": "run_20261101_121355",
+  "summary_ko": "AI 투자 부담이 신용·담보 차입으로 번지자 은행은 인프라 금융에 들어섰다.",
   "issues": [
     {
-      "title": "AI 투자 회의론의 조달 전이",
-      "summary_ko": "주가 조정이 선두 연구소의 자금 조달 실패로 이어졌다.",
+      "title": "AI 투자 부담의 신용 전이",
+      "summary_ko": "조달 실패에 이어 신용등급 경고와 담보 차입이 뒤따랐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -23,29 +23,74 @@
           "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12192467",
-          "title": ""
+          "date": "2026-11-01",
+          "file": "20261101-메타-ai-투자-부담에-신용등급-강등.md",
+          "title": "메타, AI 투자 부담에 신용등급 강등 경고…현금흐름 악화가 결정타"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-블랙스톤-앤트로픽-상장-후에도-투자적.md",
+          "title": "블랙스톤 \"앤트로픽, 상장 후에도 투자적격 등급 확보 어려워\""
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ai에-돈-쏟아붓는-아마존-장비-담보.md",
+          "title": "AI에 돈 쏟아붓는 아마존, 장비 담보로 107조원 빌린다"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ai-투자금-찾아-일본까지-빅테크-엔.md",
+          "title": "AI 투자금 찾아 일본까지…빅테크, 엔화 자금 22조원 끌어갔다"
         }
       ]
     },
     {
-      "title": "오픈AI의 한국 대기업 결속",
-      "summary_ko": "자금 경색 속 공급사가 메모리·고객 동맹을 함께 다진다.",
+      "title": "은행의 GPU 인프라 금융 진입",
+      "summary_ko": "GPU가 은행 구조화 금융의 담보 자산으로 편입되기 시작했다.",
       "topics": [
-        "ai_industry",
+        "금융회사 AI",
         "ai_compute_energy"
       ],
       "articles": [
         {
           "date": "2026-11-01",
-          "file": "20261101-샘-올트먼-오픈ai-ceo-삼성-sk.md",
-          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화"
+          "file": "20261101-kb국민은행-국내-최초-gpu-파이낸.md",
+          "title": "KB국민은행, 국내 최초 GPU 파이낸싱 금융주선 총괄"
         }
       ]
     },
     {
-      "title": "공급사 규제·데이터 리스크",
-      "summary_ko": "표시 의무와 데이터 약관 변경이 공급사 점검 항목이 됐다.",
+      "title": "AX의 조직 단위 전환",
+      "summary_ko": "에이전트 성과의 열쇠가 개인 활용에서 조직 재설계로 옮겨갔다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-01",
+          "file": "20261101-humans-are-still-doi.md",
+          "title": "Humans are still doing the work behind some AI agents"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-ax-도입-2단계-skt-이제-조직-.md",
+          "title": "AX 도입 2단계...SKT, 이제 '조직'이 AI로 일한다"
+        },
+        {
+          "date": "2026-11-01",
+          "file": "20261101-구글-ai-경제-혁명-똑똑한-모델보다.md",
+          "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\""
+        },
+        {
+          "url": "https://www.etnews.com/20261101000046",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "공급사 정책·안전 리스크",
+      "summary_ko": "공급사 정책 변경과 데이터 오염이 도입 점검 항목에 올랐다.",
       "topics": [
         "ai_policy",
         "llm_models"
@@ -67,27 +112,11 @@
           "title": "AI 보안 경쟁 축 '탐지→자동 대응'…시장 성장도 가속"
         },
         {
-          "date": "2026-11-01",
-          "file": "20261101-judge-allows-naacp-l.md",
-          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
-        }
-      ]
-    },
-    {
-      "title": "에이전트 자동화의 실체 점검",
-      "summary_ko": "자율 에이전트 뒤 사람 노동이 드러나 실사가 필요해졌다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-01",
-          "file": "20261101-humans-are-still-doi.md",
-          "title": "Humans are still doing the work behind some AI agents"
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216859",
+          "title": ""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216862",
           "title": ""
         }
       ]
