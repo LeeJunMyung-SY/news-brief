@@ -1,0 +1,117 @@
+{
+  "week": "2026-W45",
+  "updated_at": "2026-11-02T08:13:05.612966+09:00",
+  "run_id": "run_20261102_081305",
+  "summary_ko": "자금 불안이 커지며 AI 경쟁의 초점이 수익화와 제휴 재편으로 옮겨가고 있다.",
+  "issues": [
+    {
+      "title": "AI 투자 회의론의 금융시장 확산",
+      "body_ko": "위험 신호가 주식을 넘어 채권·파생시장으로 번지며 공급사 재무까지 점검 대상이 됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-삼전닉스-월요일에도-흘러내리나요-줄줄.md",
+          "title": "“삼전닉스 월요일에도 흘러내리나요”…줄줄이 돈줄 막히는 AI업계"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
+          "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026110185671",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 구독의 사용량 과금 전환",
+      "body_ko": "정액 사용 관행이 끝나며 기업 AI 예산을 작업·모델 소모량 기준으로 재설계해야 한다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-openai-s-upcoming-ch.md",
+          "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 시대의 고객 접점 경쟁",
+      "body_ko": "차단과 수용 사이에서 금융·유통사의 채널 전략이 갈리고 전사 AX도 운영 체계로 진화한다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-for-jpmorgan-amazon-.md",
+          "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-ai로-문제-풀고-성과-공유-ax-j.md",
+          "title": "AI로 문제 풀고 성과 공유…AX J커브 넘는 SKT 비결은 [현장+]"
+        }
+      ]
+    },
+    {
+      "title": "연산 공급망과 지역 모델 제휴 재편",
+      "body_ko": "메모리·모델·로봇 전반에서 제휴가 늘며 지역별 협력 구도가 사업 전제로 굳어지고 있다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-샘-올트먼-1박2일-깜짝-방한-삼성-.md",
+          "title": "샘 올트먼, 1박2일 깜짝 방한…삼성·SK와 'AI 협업' 논의"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-아이폰-중국-ai-심는다-애플-알리바.md",
+          "title": "아이폰 '중국 AI' 심는다…애플, 알리바바 '큐원'으로 반격"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-hd현대로보틱스-팰런티어와-피지컬-a.md",
+          "title": "HD현대로보틱스, 팰런티어와 '피지컬 AI' 고도화 협력"
+        }
+      ]
+    },
+    {
+      "title": "국내 AI 인프라 제도 정비",
+      "body_ko": "AIDC 기준 완화와 입지 갈등이 맞물려 인프라 전략에서 제도·수용성 비중이 커졌다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
+          "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
+          "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
+        }
+      ]
+    }
+  ]
+}

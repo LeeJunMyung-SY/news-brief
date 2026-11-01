@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-02",
+  "updated_at": "2026-11-02T08:13:05.612966+09:00",
+  "run_id": "run_20261102_081305",
+  "summary_ko": "AI 자금조달 불안 속에 수익화와 제휴로 활로를 찾는 흐름이다.",
+  "issues": [
+    {
+      "title": "AI 자금조달 압박과 회의론 확산",
+      "summary_ko": "AI 투자의 평가 기준이 성장 기대에서 회수 가능성으로 옮겨가고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-삼전닉스-월요일에도-흘러내리나요-줄줄.md",
+          "title": "“삼전닉스 월요일에도 흘러내리나요”…줄줄이 돈줄 막히는 AI업계"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
+          "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026110185671",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "정액제 AI의 사용량 과금 전환",
+      "summary_ko": "AI 구독 예산의 단위가 좌석에서 소모량으로 바뀌고 있다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-openai-s-upcoming-ch.md",
+          "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
+        }
+      ]
+    },
+    {
+      "title": "개인 에이전트 차단과 금융 채널 전략",
+      "summary_ko": "금융사가 고객 대리 에이전트에 대한 채널 원칙을 정해야 할 때다.",
+      "topics": [
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-for-jpmorgan-amazon-.md",
+          "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy"
+        }
+      ]
+    },
+    {
+      "title": "국내 AIDC 기준 완화와 입지 리스크",
+      "summary_ko": "제도 문턱은 낮아지지만 환경·입지 리스크는 커지고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
+          "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
+          "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
+        }
+      ]
+    }
+  ]
+}
