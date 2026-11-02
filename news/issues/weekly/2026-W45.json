@@ -1,7 +1,7 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-02T12:16:35.643275+09:00",
-  "run_id": "run_20261102_121635",
+  "updated_at": "2026-11-02T16:17:31.361611+09:00",
+  "run_id": "run_20261102_161731",
   "summary_ko": "자금 불안이 커지며 AI 경쟁의 초점이 수익화와 인프라 실행력으로 옮겨가고 있다.",
   "issues": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "title": "AI 과금 구조의 전환",
-      "body_ko": "정액 사용 관행이 흔들리며 기업 예산과 소비자 구독 모두 소모량·부가 기능 기준으로 재편된다.",
+      "body_ko": "정액 사용 관행이 흔들리며 기업 예산과 소비자 구독 모두 소모량 기준으로 재편된다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -36,16 +36,12 @@
           "date": "2026-11-02",
           "file": "20261102-openai-s-upcoming-ch.md",
           "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261102085000",
-          "title": ""
         }
       ]
     },
     {
       "title": "금융·기업의 AI 접점과 조직 재편",
-      "body_ko": "금융은 판매 접점과 채널 원칙을, 제조는 AX 인사·조직을 정비하며 AI를 운영 체계로 끌어들인다.",
+      "body_ko": "금융은 접점과 채널 원칙을, 일반 기업은 AX 인사·조직을 정비하며 AI를 운영 체계에 넣는다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -73,12 +69,22 @@
           "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677432",
+          "date": "2026-11-02",
+          "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
+          "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야"
+        },
+        {
+          "url": "https://www.fnnews.com/news/202611021524416703",
           "title": ""
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261102093802",
+          "url": "https://www.fnnews.com/news/202611021036461709",
           "title": ""
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-국방-ax-속도-내는-네이버클라우드-.md",
+          "title": "국방 AX 속도 내는 네이버클라우드, 육군 군수에 AI 심는다"
         }
       ]
     },
@@ -110,7 +116,7 @@
     },
     {
       "title": "국내 AI 인프라의 예산·제도·입지",
-      "body_ko": "예산 확대와 기준 완화가 겹쳤지만 입지 갈등과 수사가 실제 투자 속도를 좌우할 변수로 떠올랐다.",
+      "body_ko": "예산 확대와 민간 착공이 이어지지만 국회 심의와 입지 갈등이 실행 속도를 좌우한다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -141,6 +147,26 @@
           "date": "2026-11-02",
           "file": "20261102-lg-cns-인니-ai데이터센터-완공.md",
           "title": "LG CNS, 인니 AI데이터센터 완공…임차 수요도 다 채웠다"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
+          "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+          "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-south-korea-targets-.md",
+          "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-정점식-대통령-시정연설-미래-약탈-선.md",
+          "title": "정점식, 李 대통령 시정연설 “미래 약탈 선언”…내년 예산 최소 30조 삭감 예고"
         }
       ]
     }

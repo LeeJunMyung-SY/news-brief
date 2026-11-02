@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-02T03:16:44+00:00",
+  "generated_at": "2026-11-02T07:17:42+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1196,
+      "count": 1199,
       "latest_date": "2026-11-02"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1531,
+      "count": 1536,
       "latest_date": "2026-11-02"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1545,
+      "count": 1550,
       "latest_date": "2026-11-02"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3573,
+      "count": 3582,
       "latest_date": "2026-11-02"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 539,
+      "count": 540,
       "latest_date": "2026-11-02"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1139,
+      "count": 1144,
       "latest_date": "2026-11-02"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 981,
+      "count": 982,
       "latest_date": "2026-11-02"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 586,
+      "count": 589,
       "latest_date": "2026-11-02"
     },
     {
@@ -143,6 +143,49 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-ai-리더스-줌-회의-넘어-업무하는-.md",
+        "title": "[AI 리더스] 줌 '회의 넘어 업무하는 AI…흩어진 데이터 통합 관건'",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#ai-agents",
+          "#data-integration",
+          "#zoom"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102145426"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
+        "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#trust",
+          "#governance",
+          "#opinion"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000074"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-towards-understandin.md",
+        "title": "Towards Understanding Score-Seeking in LLMs",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#model-evaluation",
+          "#safety-incident",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2610.41014"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-딥시크-코딩-슈퍼-에이전트-공개-6개.md",
         "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
         "importance": 6,
@@ -154,6 +197,34 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216865"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-코딩-ai-시키는-일은-잘하지만-숨은.md",
+        "title": "'코딩 AI, 시키는 일은 잘하지만 숨은 요구는 놓쳐'…최고 모델도 45.5%",
+        "importance": 6,
+        "tags": [
+          "#coding",
+          "#benchmark",
+          "#agent-evaluation",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216916"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-클루커스-글로벌-ai-에이전트-마누스.md",
+        "title": "클루커스, 글로벌 AI 에이전트 마누스와 협력…기업 AX 강화",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#ai-agents",
+          "#enterprise-ai",
+          "#manus"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102140316"
       },
       {
         "date": "2026-11-01",
@@ -22391,6 +22462,35 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-south-korea-targets-.md",
+        "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#budget",
+          "#regulation",
+          "#data-center",
+          "#physical-ai"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-towards-understandin.md",
+        "title": "Towards Understanding Score-Seeking in LLMs",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#model-evaluation",
+          "#safety-incident",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2610.41014"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-챗gpt-답변-민주당에-유리-위장-사.md",
         "title": "'챗GPT 답변, 민주당에 유리'…위장 사이트 37곳 발견 '발칵'",
         "importance": 6,
@@ -22402,6 +22502,20 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026110186557"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-코딩-ai-시키는-일은-잘하지만-숨은.md",
+        "title": "'코딩 AI, 시키는 일은 잘하지만 숨은 요구는 놓쳐'…최고 모델도 45.5%",
+        "importance": 6,
+        "tags": [
+          "#coding",
+          "#benchmark",
+          "#agent-evaluation",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216916"
       },
       {
         "date": "2026-11-01",
@@ -39668,6 +39782,36 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-south-korea-targets-.md",
+        "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#budget",
+          "#regulation",
+          "#data-center",
+          "#physical-ai"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+        "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#industrial-policy",
+          "#data-center",
+          "#physical-ai",
+          "#semiconductor"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000387"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-ai-시대-개인정보-미래는-수집-제공.md",
         "title": "AI 시대 개인정보 미래는…'수집·제공 체계 '처리'로 묶자'",
         "importance": 6,
@@ -39679,6 +39823,35 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261101160224"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
+        "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#trust",
+          "#governance",
+          "#opinion"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000074"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-towards-understandin.md",
+        "title": "Towards Understanding Score-Seeking in LLMs",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#model-evaluation",
+          "#safety-incident",
+          "#enterprise-ai"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2610.41014"
       },
       {
         "date": "2026-11-02",
@@ -39719,6 +39892,19 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261102102830"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-정점식-대통령-시정연설-미래-약탈-선.md",
+        "title": "정점식, 李 대통령 시정연설 “미래 약탈 선언”…내년 예산 최소 30조 삭감 예고",
+        "importance": 6,
+        "tags": [
+          "#budget",
+          "#politics",
+          "#public-policy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000382"
       },
       {
         "date": "2026-11-02",
@@ -62038,6 +62224,21 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
+        "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과",
+        "importance": 8,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#enterprise-ai",
+          "#samsung-sds",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102110337"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-삼전닉스-월요일에도-흘러내리나요-줄줄.md",
         "title": "“삼전닉스 월요일에도 흘러내리나요”…줄줄이 돈줄 막히는 AI업계",
         "importance": 8,
@@ -62142,6 +62343,50 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-south-korea-targets-.md",
+        "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#budget",
+          "#regulation",
+          "#data-center",
+          "#physical-ai"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-국방-ax-속도-내는-네이버클라우드-.md",
+        "title": "국방 AX 속도 내는 네이버클라우드, 육군 군수에 AI 심는다",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#defense",
+          "#naver-cloud",
+          "#partnership"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102141946"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+        "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#industrial-policy",
+          "#data-center",
+          "#physical-ai",
+          "#semiconductor"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000387"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-딥브레인ai-삼성화재에-보험설계사용-.md",
         "title": "딥브레인AI, 삼성화재에 보험설계사용 AI 실전 상담훈련 시스템 공급",
         "importance": 7,
@@ -62181,6 +62426,20 @@
         ],
         "source": "파이낸셜뉴스 경제",
         "url": "https://www.fnnews.com/news/202611011817458884"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-ai-리더스-줌-회의-넘어-업무하는-.md",
+        "title": "[AI 리더스] 줌 '회의 넘어 업무하는 AI…흩어진 데이터 통합 관건'",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#ai-agents",
+          "#data-integration",
+          "#zoom"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102145426"
       },
       {
         "date": "2026-11-02",
@@ -62226,6 +62485,34 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-롯데이노베이트-3분기-영업익-88-증.md",
+        "title": "롯데이노베이트, 3분기 영업익 88% 증가…내년 AI·데이터센터 힘준다",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#data-center",
+          "#earnings",
+          "#it-services"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216901"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-이수페타시스-ai가속기용-고성능-pc.md",
+        "title": "이수페타시스, AI가속기용 고성능 PCB 제조시설 5000억 원 투자",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#ai-supply-chain",
+          "#pcb",
+          "#hardware"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000386"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-전-구글-자율주행-개발-총괄-하드웨어.md",
         "title": "전 구글 자율주행 개발 총괄, '하드웨어 설계 AI'로 1800억원 유치",
         "importance": 6,
@@ -62240,6 +62527,20 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-종합-수익성-회복-과제-안은-포스코d.md",
+        "title": "[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#physical-ai",
+          "#earnings",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102135255"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-크래프톤-사회적-지능-갖춘-로봇-ai.md",
         "title": "크래프톤, 사회적 지능 갖춘 로봇 AI ‘루디 0.2’ 공개..팔로알토 연구소 개소",
         "importance": 6,
@@ -62251,6 +62552,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216886"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-클루커스-글로벌-ai-에이전트-마누스.md",
+        "title": "클루커스, 글로벌 AI 에이전트 마누스와 협력…기업 AX 강화",
+        "importance": 6,
+        "tags": [
+          "#partnership",
+          "#ai-agents",
+          "#enterprise-ai",
+          "#manus"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102140316"
       },
       {
         "date": "2026-11-01",
@@ -113829,6 +114144,20 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-종합-수익성-회복-과제-안은-포스코d.md",
+        "title": "[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#physical-ai",
+          "#earnings",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102135255"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-크래프톤-사회적-지능-갖춘-로봇-ai.md",
         "title": "크래프톤, 사회적 지능 갖춘 로봇 AI ‘루디 0.2’ 공개..팔로알토 연구소 개소",
         "importance": 6,
@@ -121606,6 +121935,21 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
+        "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과",
+        "importance": 8,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#enterprise-ai",
+          "#samsung-sds",
+          "#infrastructure"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102110337"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-삼전닉스-월요일에도-흘러내리나요-줄줄.md",
         "title": "“삼전닉스 월요일에도 흘러내리나요”…줄줄이 돈줄 막히는 AI업계",
         "importance": 8,
@@ -121680,6 +122024,36 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-south-korea-targets-.md",
+        "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#budget",
+          "#regulation",
+          "#data-center",
+          "#physical-ai"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+        "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#industrial-policy",
+          "#data-center",
+          "#physical-ai",
+          "#semiconductor"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000387"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-ai-고속도로-호주-1gw-ai-데이.md",
         "title": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차질",
         "importance": 6,
@@ -121708,6 +122082,20 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-롯데이노베이트-3분기-영업익-88-증.md",
+        "title": "롯데이노베이트, 3분기 영업익 88% 증가…내년 AI·데이터센터 힘준다",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#data-center",
+          "#earnings",
+          "#it-services"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216901"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-우상호-sk-aidc-수사로-접촉-중.md",
         "title": "우상호 'SK AIDC 수사로 접촉 중단돼…투자 분위기 식을까 걱정'",
         "importance": 6,
@@ -121718,6 +122106,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261102086300062"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-이수페타시스-ai가속기용-고성능-pc.md",
+        "title": "이수페타시스, AI가속기용 고성능 PCB 제조시설 5000억 원 투자",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#ai-supply-chain",
+          "#pcb",
+          "#hardware"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000386"
       },
       {
         "date": "2026-11-02",
@@ -138079,6 +138481,21 @@
         "url": "https://www.yna.co.kr/view/AKR20261102043200008"
       },
       {
+        "date": "2026-11-02",
+        "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
+        "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#ai-agents",
+          "#trust",
+          "#governance",
+          "#opinion"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000074"
+      },
+      {
         "date": "2026-11-01",
         "file": "20261101-companies-promised-a.md",
         "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
@@ -152495,6 +152912,36 @@
       },
       {
         "date": "2026-11-02",
+        "file": "20261102-south-korea-targets-.md",
+        "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+        "importance": 7,
+        "tags": [
+          "#sovereign-ai",
+          "#budget",
+          "#regulation",
+          "#data-center",
+          "#physical-ai"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+        "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#industrial-policy",
+          "#data-center",
+          "#physical-ai",
+          "#semiconductor"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000387"
+      },
+      {
+        "date": "2026-11-02",
         "file": "20261102-30분-걸리던-계란-품질검사-ai기계.md",
         "title": "30분 걸리던 계란 품질검사 AI기계 도입으로 11분만에[현장르포]",
         "importance": 6,
@@ -152548,6 +152995,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261102103404"
+      },
+      {
+        "date": "2026-11-02",
+        "file": "20261102-종합-수익성-회복-과제-안은-포스코d.md",
+        "title": "[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#physical-ai",
+          "#earnings",
+          "#manufacturing"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261102135255"
       },
       {
         "date": "2026-11-02",
@@ -162193,22 +162654,36 @@
             "date": "2026-11-02",
             "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
             "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-이수페타시스-ai가속기용-고성능-pc.md",
+            "title": "이수페타시스, AI가속기용 고성능 PCB 제조시설 5000억 원 투자"
           }
         ]
       },
       {
         "date": "2026-11-02",
-        "title": "AI 과금 모델의 재편",
-        "summary": "정액 구독이 흔들리며 사용량·부가 기능 과금이 대안으로 시험대에 올랐다.",
+        "title": "AX의 조직·운영 체계 편입",
+        "summary": "AI가 전담 조직과 임원 기준, 군수 운영까지 들어와 상시 기능이 되고 있다.",
         "articles": [
           {
-            "date": "2026-11-02",
-            "file": "20261102-openai-s-upcoming-ch.md",
-            "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
+            "url": "https://www.fnnews.com/news/202611021524416703",
+            "title": ""
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261102085000",
+            "url": "https://www.fnnews.com/news/202611021036461709",
             "title": ""
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-국방-ax-속도-내는-네이버클라우드-.md",
+            "title": "국방 AX 속도 내는 네이버클라우드, 육군 군수에 AI 심는다"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-종합-수익성-회복-과제-안은-포스코d.md",
+            "title": "[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수"
           }
         ]
       },
@@ -169659,28 +170134,28 @@
             "date": "2026-11-02",
             "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
             "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-이수페타시스-ai가속기용-고성능-pc.md",
+            "title": "이수페타시스, AI가속기용 고성능 PCB 제조시설 5000억 원 투자"
           }
         ]
       },
       {
         "date": "2026-11-02",
-        "title": "정부 AI 예산 확대와 AIDC 입지 리스크",
-        "summary": "돈과 제도는 늘지만 입지·인허가가 인프라 일정의 병목으로 남았다.",
+        "title": "메가프로젝트 예산과 국회 심의 변수",
+        "summary": "민관 인프라 투자는 커지지만 예산 심의와 입지가 실행 속도를 좌우한다.",
         "articles": [
-          {
-            "date": "2026-11-02",
-            "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
-            "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
-          },
-          {
-            "date": "2026-11-02",
-            "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
-            "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
-          },
           {
             "date": "2026-11-02",
             "file": "20261102-대통령-반도체-피지컬ai-aidc에-.md",
             "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
+            "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
           },
           {
             "date": "2026-11-02",
@@ -169689,8 +170164,23 @@
           },
           {
             "date": "2026-11-02",
-            "file": "20261102-ai-고속도로-호주-1gw-ai-데이.md",
-            "title": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차질"
+            "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+            "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-south-korea-targets-.md",
+            "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-정점식-대통령-시정연설-미래-약탈-선.md",
+            "title": "정점식, 李 대통령 시정연설 “미래 약탈 선언”…내년 예산 최소 30조 삭감 예고"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
+            "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과"
           }
         ]
       },
@@ -173427,23 +173917,18 @@
     "ai_policy": [
       {
         "date": "2026-11-02",
-        "title": "정부 AI 예산 확대와 AIDC 입지 리스크",
-        "summary": "돈과 제도는 늘지만 입지·인허가가 인프라 일정의 병목으로 남았다.",
+        "title": "메가프로젝트 예산과 국회 심의 변수",
+        "summary": "민관 인프라 투자는 커지지만 예산 심의와 입지가 실행 속도를 좌우한다.",
         "articles": [
-          {
-            "date": "2026-11-02",
-            "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
-            "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
-          },
-          {
-            "date": "2026-11-02",
-            "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
-            "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
-          },
           {
             "date": "2026-11-02",
             "file": "20261102-대통령-반도체-피지컬ai-aidc에-.md",
             "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
+            "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
           },
           {
             "date": "2026-11-02",
@@ -173452,8 +173937,23 @@
           },
           {
             "date": "2026-11-02",
-            "file": "20261102-ai-고속도로-호주-1gw-ai-데이.md",
-            "title": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차질"
+            "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+            "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-south-korea-targets-.md",
+            "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-정점식-대통령-시정연설-미래-약탈-선.md",
+            "title": "정점식, 李 대통령 시정연설 “미래 약탈 선언”…내년 예산 최소 30조 삭감 예고"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
+            "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과"
           }
         ]
       },
@@ -178723,23 +179223,18 @@
     "physical_ai": [
       {
         "date": "2026-11-02",
-        "title": "정부 AI 예산 확대와 AIDC 입지 리스크",
-        "summary": "돈과 제도는 늘지만 입지·인허가가 인프라 일정의 병목으로 남았다.",
+        "title": "메가프로젝트 예산과 국회 심의 변수",
+        "summary": "민관 인프라 투자는 커지지만 예산 심의와 입지가 실행 속도를 좌우한다.",
         "articles": [
-          {
-            "date": "2026-11-02",
-            "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
-            "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
-          },
-          {
-            "date": "2026-11-02",
-            "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
-            "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
-          },
           {
             "date": "2026-11-02",
             "file": "20261102-대통령-반도체-피지컬ai-aidc에-.md",
             "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
+            "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
           },
           {
             "date": "2026-11-02",
@@ -178748,8 +179243,48 @@
           },
           {
             "date": "2026-11-02",
-            "file": "20261102-ai-고속도로-호주-1gw-ai-데이.md",
-            "title": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차질"
+            "file": "20261102-김정관-산업부-장관-3대-메가프로젝트.md",
+            "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-south-korea-targets-.md",
+            "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-정점식-대통령-시정연설-미래-약탈-선.md",
+            "title": "정점식, 李 대통령 시정연설 “미래 약탈 선언”…내년 예산 최소 30조 삭감 예고"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
+            "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-02",
+        "title": "AX의 조직·운영 체계 편입",
+        "summary": "AI가 전담 조직과 임원 기준, 군수 운영까지 들어와 상시 기능이 되고 있다.",
+        "articles": [
+          {
+            "url": "https://www.fnnews.com/news/202611021524416703",
+            "title": ""
+          },
+          {
+            "url": "https://www.fnnews.com/news/202611021036461709",
+            "title": ""
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-국방-ax-속도-내는-네이버클라우드-.md",
+            "title": "국방 AX 속도 내는 네이버클라우드, 육군 군수에 AI 심는다"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-종합-수익성-회복-과제-안은-포스코d.md",
+            "title": "[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수"
           }
         ]
       },
@@ -179755,7 +180290,7 @@
       {
         "date": "2026-11-02",
         "title": "금융 AI의 판매 접점 확대",
-        "summary": "금융 AI가 영업·투자 접점으로 넓어지며 채널 원칙이 함께 요구된다.",
+        "summary": "금융 AI가 영업·거래 접점으로 넓어지며 권한과 신뢰 설계가 요구된다.",
         "articles": [
           {
             "date": "2026-11-02",
@@ -179771,6 +180306,11 @@
             "date": "2026-11-02",
             "file": "20261102-신한증권-ai조건검색-서비스-프리미어.md",
             "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
+            "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야"
           }
         ]
       },
@@ -184504,7 +185044,7 @@
       {
         "date": "2026-11-02",
         "title": "금융 AI의 판매 접점 확대",
-        "summary": "금융 AI가 영업·투자 접점으로 넓어지며 채널 원칙이 함께 요구된다.",
+        "summary": "금융 AI가 영업·거래 접점으로 넓어지며 권한과 신뢰 설계가 요구된다.",
         "articles": [
           {
             "date": "2026-11-02",
@@ -184520,6 +185060,36 @@
             "date": "2026-11-02",
             "file": "20261102-신한증권-ai조건검색-서비스-프리미어.md",
             "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
+            "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-02",
+        "title": "AX의 조직·운영 체계 편입",
+        "summary": "AI가 전담 조직과 임원 기준, 군수 운영까지 들어와 상시 기능이 되고 있다.",
+        "articles": [
+          {
+            "url": "https://www.fnnews.com/news/202611021524416703",
+            "title": ""
+          },
+          {
+            "url": "https://www.fnnews.com/news/202611021036461709",
+            "title": ""
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-국방-ax-속도-내는-네이버클라우드-.md",
+            "title": "국방 AX 속도 내는 네이버클라우드, 육군 군수에 AI 심는다"
+          },
+          {
+            "date": "2026-11-02",
+            "file": "20261102-종합-수익성-회복-과제-안은-포스코d.md",
+            "title": "[종합] 수익성 회복 과제 안은 포스코DX…AI·로봇으로 반등 승부수"
           }
         ]
       },
@@ -189677,22 +190247,6 @@
       }
     ],
     "llm_models": [
-      {
-        "date": "2026-11-02",
-        "title": "AI 과금 모델의 재편",
-        "summary": "정액 구독이 흔들리며 사용량·부가 기능 과금이 대안으로 시험대에 올랐다.",
-        "articles": [
-          {
-            "date": "2026-11-02",
-            "file": "20261102-openai-s-upcoming-ch.md",
-            "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
-          },
-          {
-            "url": "https://zdnet.co.kr/view/?no=20261102085000",
-            "title": ""
-          }
-        ]
-      },
       {
         "date": "2026-11-01",
         "title": "공급사 정책·안전 리스크",
