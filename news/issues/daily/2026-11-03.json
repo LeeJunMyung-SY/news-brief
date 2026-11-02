@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-03",
+  "updated_at": "2026-11-03T08:17:41.368920+09:00",
+  "run_id": "run_20261103_081741",
+  "summary_ko": "성장 수치가 커질수록 비용과 권한 통제가 전면으로 올라왔다.",
+  "issues": [
+    {
+      "title": "앤트로픽 공시가 드러낸 AI 경제성",
+      "summary_ko": "매출보다 약정 이행과 비용 구조가 평가 기준이 되고 있다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-03",
+          "file": "20261103-앤트로픽-3분기-매출-12배-급증-a.md",
+          "title": "앤트로픽, 3분기 매출 12배 급증…AI 지출 약정 8950억달러"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-앤트로픽-내부-ai-토큰-비용이-직원.md",
+          "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12193997",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216907",
+          "title": ""
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-팔란티어-기업-ai-성장에-연매출-전.md",
+          "title": "팔란티어, 기업 AI 성장에 연매출 전망 상향…10.98조→11.49조원"
+        }
+      ]
+    },
+    {
+      "title": "정액제 후퇴와 에이전트 비용 관리",
+      "summary_ko": "에이전트 비용을 공급사가 흡수하지 못하는 구간에 들어섰다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-03",
+          "file": "20261103-spacexsi-apparently-.md",
+          "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-openai-is-finally-me.md",
+          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216915",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융권·기업의 AI 권한 재설계",
+      "summary_ko": "AI 확산의 초점이 전면 개방에서 직무별 권한과 검증으로 옮겨간다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-03",
+          "file": "20261103-goldman-sachs-pulls-.md",
+          "title": "Goldman Sachs pulls AI coding tools from traders and bankers"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-hsbc-to-open-hong-ko.md",
+          "title": "HSBC to open Hong Kong AI and emerging technology institute"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-게이트웨이-걸프-2026-부대-행사-.md",
+          "title": "게이트웨이 걸프 2026 부대 행사: 뭄탈라카트 및 ARP 그룹, 바레인 AI 네이티브 도매 은행 설립 위한 파트너십 체결"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-코딩은-ai에-맡겨라-프로톤-개발-속.md",
+          "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216918",
+          "title": ""
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
+          "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
+        }
+      ]
+    },
+    {
+      "title": "인프라의 수용성과 정치 변수",
+      "summary_ko": "인프라 확장의 조건이 자금에서 지역 수용성과 선거로 넓어졌다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-03",
+          "file": "20261103-openai-pitches-data-.md",
+          "title": "OpenAI pitches data center power plants as a way to protect nearby areas"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-중간선거-ai-투자와-재정지출-주요-.md",
+          "title": "美 중간선거, AI 투자와 재정지출 주요 변수로 부상"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-openai-prepares-lobb.md",
+          "title": "OpenAI prepares lobbying blitz for a post-midterm Washington"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-lumentum-ceo-touts-e.md",
+          "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-외연-확장-나선-롯데이노베이트-대외-.md",
+          "title": "외연 확장 나선 롯데이노베이트, '대외 데이터센터'서 돌파구 찾는다"
+        }
+      ]
+    }
+  ]
+}
