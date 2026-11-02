@@ -1,8 +1,8 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-02T08:13:05.612966+09:00",
-  "run_id": "run_20261102_081305",
-  "summary_ko": "자금 불안이 커지며 AI 경쟁의 초점이 수익화와 제휴 재편으로 옮겨가고 있다.",
+  "updated_at": "2026-11-02T12:16:35.643275+09:00",
+  "run_id": "run_20261102_121635",
+  "summary_ko": "자금 불안이 커지며 AI 경쟁의 초점이 수익화와 인프라 실행력으로 옮겨가고 있다.",
   "issues": [
     {
       "title": "AI 투자 회의론의 금융시장 확산",
@@ -21,16 +21,12 @@
           "date": "2026-11-02",
           "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
           "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026110185671",
-          "title": ""
         }
       ]
     },
     {
-      "title": "AI 구독의 사용량 과금 전환",
-      "body_ko": "정액 사용 관행이 끝나며 기업 AI 예산을 작업·모델 소모량 기준으로 재설계해야 한다.",
+      "title": "AI 과금 구조의 전환",
+      "body_ko": "정액 사용 관행이 흔들리며 기업 예산과 소비자 구독 모두 소모량·부가 기능 기준으로 재편된다.",
       "topics": [
         "llm_models",
         "ai_industry"
@@ -42,17 +38,18 @@
           "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+          "url": "https://zdnet.co.kr/view/?no=20261102085000",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 시대의 고객 접점 경쟁",
-      "body_ko": "차단과 수용 사이에서 금융·유통사의 채널 전략이 갈리고 전사 AX도 운영 체계로 진화한다.",
+      "title": "금융·기업의 AI 접점과 조직 재편",
+      "body_ko": "금융은 판매 접점과 채널 원칙을, 제조는 AX 인사·조직을 정비하며 AI를 운영 체계로 끌어들인다.",
       "topics": [
+        "금융회사 AI",
         "ai_agents",
-        "금융회사 AI"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -64,6 +61,24 @@
           "date": "2026-11-02",
           "file": "20261102-ai로-문제-풀고-성과-공유-ax-j.md",
           "title": "AI로 문제 풀고 성과 공유…AX J커브 넘는 SKT 비결은 [현장+]"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-딥브레인ai-삼성화재에-보험설계사용-.md",
+          "title": "딥브레인AI, 삼성화재에 보험설계사용 AI 실전 상담훈련 시스템 공급"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-신한증권-ai조건검색-서비스-프리미어.md",
+          "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677432",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261102093802",
+          "title": ""
         }
       ]
     },
@@ -94,11 +109,12 @@
       ]
     },
     {
-      "title": "국내 AI 인프라 제도 정비",
-      "body_ko": "AIDC 기준 완화와 입지 갈등이 맞물려 인프라 전략에서 제도·수용성 비중이 커졌다.",
+      "title": "국내 AI 인프라의 예산·제도·입지",
+      "body_ko": "예산 확대와 기준 완화가 겹쳤지만 입지 갈등과 수사가 실제 투자 속도를 좌우할 변수로 떠올랐다.",
       "topics": [
         "ai_policy",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "physical_ai"
       ],
       "articles": [
         {
@@ -110,6 +126,21 @@
           "date": "2026-11-02",
           "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
           "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-대통령-반도체-피지컬ai-aidc에-.md",
+          "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-우상호-sk-aidc-수사로-접촉-중.md",
+          "title": "우상호 \"SK AIDC 수사로 접촉 중단돼…투자 분위기 식을까 걱정\""
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-lg-cns-인니-ai데이터센터-완공.md",
+          "title": "LG CNS, 인니 AI데이터센터 완공…임차 수요도 다 채웠다"
         }
       ]
     }

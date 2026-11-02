@@ -1,8 +1,8 @@
 {
   "date": "2026-11-02",
-  "updated_at": "2026-11-02T08:13:05.612966+09:00",
-  "run_id": "run_20261102_081305",
-  "summary_ko": "AI 자금조달 불안 속에 수익화와 제휴로 활로를 찾는 흐름이다.",
+  "updated_at": "2026-11-02T12:16:35.643275+09:00",
+  "run_id": "run_20261102_121635",
+  "summary_ko": "자금 불안 속에 정부 투자와 수익화·현장 도입이 대안으로 부각됐다.",
   "issues": [
     {
       "title": "AI 자금조달 압박과 회의론 확산",
@@ -21,49 +21,16 @@
           "date": "2026-11-02",
           "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
           "title": "AI 투자 수익성 의구심 확산…월가, 풋옵션·CDS로 위험 헤지"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026110185671",
-          "title": ""
         }
       ]
     },
     {
-      "title": "정액제 AI의 사용량 과금 전환",
-      "summary_ko": "AI 구독 예산의 단위가 좌석에서 소모량으로 바뀌고 있다.",
-      "topics": [
-        "llm_models",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-02",
-          "file": "20261102-openai-s-upcoming-ch.md",
-          "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
-        }
-      ]
-    },
-    {
-      "title": "개인 에이전트 차단과 금융 채널 전략",
-      "summary_ko": "금융사가 고객 대리 에이전트에 대한 채널 원칙을 정해야 할 때다.",
-      "topics": [
-        "ai_agents",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-02",
-          "file": "20261102-for-jpmorgan-amazon-.md",
-          "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy"
-        }
-      ]
-    },
-    {
-      "title": "국내 AIDC 기준 완화와 입지 리스크",
-      "summary_ko": "제도 문턱은 낮아지지만 환경·입지 리스크는 커지고 있다.",
+      "title": "정부 AI 예산 확대와 AIDC 입지 리스크",
+      "summary_ko": "돈과 제도는 늘지만 입지·인허가가 인프라 일정의 병목으로 남았다.",
       "topics": [
         "ai_policy",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "physical_ai"
       ],
       "articles": [
         {
@@ -75,6 +42,65 @@
           "date": "2026-11-02",
           "file": "20261102-핀란드-구글-데이터센터-환경-훼손-의.md",
           "title": "핀란드, 구글  데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-대통령-반도체-피지컬ai-aidc에-.md",
+          "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-우상호-sk-aidc-수사로-접촉-중.md",
+          "title": "우상호 \"SK AIDC 수사로 접촉 중단돼…투자 분위기 식을까 걱정\""
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-ai-고속도로-호주-1gw-ai-데이.md",
+          "title": "[AI 고속도로] 호주 1GW AI 데이터센터 제동…환경 규제에 가동 일정 차질"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI의 판매 접점 확대",
+      "summary_ko": "금융 AI가 영업·투자 접점으로 넓어지며 채널 원칙이 함께 요구된다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-for-jpmorgan-amazon-.md",
+          "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-딥브레인ai-삼성화재에-보험설계사용-.md",
+          "title": "딥브레인AI, 삼성화재에 보험설계사용 AI 실전 상담훈련 시스템 공급"
+        },
+        {
+          "date": "2026-11-02",
+          "file": "20261102-신한증권-ai조건검색-서비스-프리미어.md",
+          "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시"
+        }
+      ]
+    },
+    {
+      "title": "AI 과금 모델의 재편",
+      "summary_ko": "정액 구독이 흔들리며 사용량·부가 기능 과금이 대안으로 시험대에 올랐다.",
+      "topics": [
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-02",
+          "file": "20261102-openai-s-upcoming-ch.md",
+          "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261102085000",
+          "title": ""
         }
       ]
     }
