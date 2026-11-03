@@ -1,22 +1,18 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-03T16:14:01.868559+09:00",
-  "run_id": "run_20261103_161401",
-  "summary_ko": "AI 경쟁의 초점이 외형 성장에서 자금 부담과 통제 역량으로 옮겨가고 있다.",
+  "updated_at": "2026-11-04T08:18:13.357018+09:00",
+  "run_id": "run_20261104_081813",
+  "summary_ko": "AI 경쟁의 초점이 성장 규모에서 자금 여력과 통제, 전력 확보로 옮겨간다.",
   "issues": [
     {
       "title": "AI 기업 수익성·자금조달 검증",
-      "body_ko": "적자와 조달 비용이 드러나며 평가 기준이 회수 능력과 자본 구조로 이동했다.",
+      "body_ko": "상장 몸값과 조달 비용이 드러나며 평가 기준이 회수 능력으로 이동했다.",
       "topics": [
         "ai_industry",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "llm_models"
       ],
       "articles": [
-        {
-          "date": "2026-11-02",
-          "file": "20261102-삼전닉스-월요일에도-흘러내리나요-줄줄.md",
-          "title": "“삼전닉스 월요일에도 흘러내리나요”…줄줄이 돈줄 막히는 AI업계"
-        },
         {
           "date": "2026-11-02",
           "file": "20261102-ai-투자-수익성-의구심-확산-월가-.md",
@@ -29,31 +25,6 @@
         },
         {
           "date": "2026-11-03",
-          "file": "20261103-팔란티어-기업-ai-성장에-연매출-전.md",
-          "title": "팔란티어, 기업 AI 성장에 연매출 전망 상향…10.98조→11.49조원"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-앤트로픽-내부-ai-토큰-비용이-직원.md",
-          "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-앤트로픽-매출-급증에도-영업적자-ai.md",
-          "title": "앤트로픽, 매출 급증에도 영업적자…AI 인프라 투자 부담"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-디깅노트-aws의-장밋빛-성장-뒤-아.md",
-          "title": "[디깅노트] AWS의 '장밋빛 성장' 뒤 아마존의 '비싼 청구서'"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-ai-고속도로-gpu-투자-부담-커지.md",
-          "title": "[AI 고속도로] GPU 투자 부담 커지자 네오클라우드 회의론 확산…韓 기업도 시험대"
-        },
-        {
-          "date": "2026-11-03",
           "file": "20261103-오라클-메타-ai-투자-위해-수백억달.md",
           "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면"
         },
@@ -61,6 +32,30 @@
           "date": "2026-11-03",
           "file": "20261103-blackstone-president.md",
           "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-2700조-앤트로픽-몸값-낮춰라-ai.md",
+          "title": "“2700조? 앤트로픽, 몸값 낮춰라”…AI 거품론 불붙인 월가"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-anthropic-is-still-g.md",
+          "title": "Anthropic is still grappling with the economics of compute"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-meta-seeks-to-raise-.md",
+          "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-amd-3분기-매출-133억달러-데이.md",
+          "title": "AMD, 3분기 매출 133억달러…“데이터센터 매출 2배 급증”"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216962",
+          "title": ""
         }
       ]
     },
@@ -80,16 +75,6 @@
         },
         {
           "date": "2026-11-03",
-          "file": "20261103-spacexsi-apparently-.md",
-          "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-openai-is-finally-me.md",
-          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs"
-        },
-        {
-          "date": "2026-11-03",
           "file": "20261103-오픈ai-12월부터-챗gpt-코덱스-.md",
           "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료"
         },
@@ -97,12 +82,16 @@
           "date": "2026-11-03",
           "file": "20261103-유라클-기업-ai-사용-비용-통합-관.md",
           "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+          "title": ""
         }
       ]
     },
     {
       "title": "금융권 AI의 권한과 접점 재설계",
-      "body_ko": "금융은 접점을 넓히면서 직무별 권한과 신뢰 기준을 함께 다시 짜고 있다.",
+      "body_ko": "금융은 사후관리와 결제까지 접점을 넓히며 권한과 보안 기준을 다시 짠다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -112,21 +101,6 @@
           "date": "2026-11-02",
           "file": "20261102-for-jpmorgan-amazon-.md",
           "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-딥브레인ai-삼성화재에-보험설계사용-.md",
-          "title": "딥브레인AI, 삼성화재에 보험설계사용 AI 실전 상담훈련 시스템 공급"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-신한증권-ai조건검색-서비스-프리미어.md",
-          "title": "신한증권, AI조건검색 서비스 '프리미어 AI 파인더' 출시"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-et시론-ai가-금융을-대신하는-시대.md",
-          "title": "[ET시론]AI가 금융을 대신하는 시대, 신뢰 기반을 넓혀야"
         },
         {
           "date": "2026-11-03",
@@ -139,65 +113,36 @@
           "title": "HSBC to open Hong Kong AI and emerging technology institute"
         },
         {
-          "date": "2026-11-03",
-          "file": "20261103-게이트웨이-걸프-2026-부대-행사-.md",
-          "title": "게이트웨이 걸프 2026 부대 행사: 뭄탈라카트 및 ARP 그룹, 바레인 AI 네이티브 도매 은행 설립 위한 파트너십 체결"
+          "date": "2026-11-04",
+          "file": "20261104-교보생명-변액보험-사후관리에-초점-네.md",
+          "title": "교보생명, 변액보험 사후관리에 초점…네비게이션 역할은 AI"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-신원근-카카오페이-스테이블코인-빅피처.md",
+          "title": "신원근號 카카오페이, 스테이블코인 '빅피처'…개막은 2028년"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai-startup-murphy-ap.md",
+          "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO"
         }
       ]
     },
     {
-      "title": "AX의 현장 구축과 내부 통제",
-      "body_ko": "AX가 제조·행정 업무로 들어오며 재사용과 검증을 묶는 체계가 과제가 됐다.",
+      "title": "에이전트 통제와 현장 정착",
+      "body_ko": "현장 확산과 함께 중지 수단과 위험 공시가 도입의 전제로 자리 잡고 있다.",
       "topics": [
-        "ai_industry",
         "ai_agents",
+        "ai_industry",
+        "ai_policy",
         "physical_ai"
       ],
       "articles": [
         {
-          "date": "2026-11-02",
-          "file": "20261102-ai로-문제-풀고-성과-공유-ax-j.md",
-          "title": "AI로 문제 풀고 성과 공유…AX J커브 넘는 SKT 비결은 [현장+]"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-국방-ax-속도-내는-네이버클라우드-.md",
-          "title": "국방 AX 속도 내는 네이버클라우드, 육군 군수에 AI 심는다"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-코딩은-ai에-맡겨라-프로톤-개발-속.md",
-          "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란"
-        },
-        {
           "date": "2026-11-03",
           "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
           "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-오픈ai-uae-석유-정부-투자-업무.md",
-          "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-업스테이지-솔라-프로-4-범정부-행정.md",
-          "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-인사혁신처-인사업무-특화-ai-시스템.md",
-          "title": "인사혁신처, 인사업무 특화 AI 시스템 첫 개발…업무 혁신 속도"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
-          "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
-          "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산"
         },
         {
           "date": "2026-11-03",
@@ -206,19 +151,38 @@
         },
         {
           "date": "2026-11-03",
-          "file": "20261103-ai-모델-안에-보안-os-심었다-비.md",
-          "title": "AI 모델 안에 보안 OS 심었다…비드래프트, 정보 유출 차단 기술 개발"
+          "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+          "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산"
         },
         {
           "date": "2026-11-03",
           "file": "20261103-인천항만공사-ai-가이드라인-마련-자.md",
           "title": "인천항만공사, 'AI 가이드라인' 마련… \"자율 AI도 사람이 멈출 수 있어야\""
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-crowdstrike-launches.md",
+          "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-apple-warns-of-risks.md",
+          "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai-모델만으론-부족-스노우플레이크-.md",
+          "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677589",
+          "title": ""
         }
       ]
     },
     {
-      "title": "인프라의 예산·입지·공급망 변수",
-      "body_ko": "연산 투자가 늘수록 예산과 지역 수용성, 연결 공급망이 실행을 좌우한다.",
+      "title": "인프라의 전력·입지·공급망 변수",
+      "body_ko": "연산 투자가 늘수록 전력과 인허가, 공급 통제가 실행 속도를 좌우한다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -231,49 +195,9 @@
           "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
         },
         {
-          "date": "2026-11-02",
-          "file": "20261102-정부-aidc-진입-장벽-낮춘다-하위.md",
-          "title": "정부, AIDC 진입 장벽 낮춘다…하위법령 입법예고 앞두고 기준 완화 가닥"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-삼성sds-60mw-구미-ai-데이터.md",
-          "title": "삼성SDS, 60MW 구미 AI 데이터센터 착공…영남권 60조원 투자 첫 성과"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-정점식-대통령-시정연설-미래-약탈-선.md",
-          "title": "정점식, 李 대통령 시정연설 “미래 약탈 선언”…내년 예산 최소 30조 삭감 예고"
-        },
-        {
-          "date": "2026-11-02",
-          "file": "20261102-샘-올트먼-1박2일-깜짝-방한-삼성-.md",
-          "title": "샘 올트먼, 1박2일 깜짝 방한…삼성·SK와 'AI 협업' 논의"
-        },
-        {
           "date": "2026-11-03",
           "file": "20261103-openai-pitches-data-.md",
           "title": "OpenAI pitches data center power plants as a way to protect nearby areas"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-중간선거-ai-투자와-재정지출-주요-.md",
-          "title": "美 중간선거, AI 투자와 재정지출 주요 변수로 부상"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-lumentum-ceo-touts-e.md",
-          "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-외연-확장-나선-롯데이노베이트-대외-.md",
-          "title": "외연 확장 나선 롯데이노베이트, '대외 데이터센터'서 돌파구 찾는다"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-유미-s-픽-데이터센터가-새-먹거리-.md",
-          "title": "[유미's 픽] \"데이터센터가 새 먹거리\"…삼성SDS·LG CNS·롯데이노, 수익 모델 진화"
         },
         {
           "date": "2026-11-03",
@@ -281,14 +205,26 @@
           "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화"
         },
         {
-          "date": "2026-11-03",
-          "file": "20261103-국가-슈퍼컴-6호기-한강-가동-칩-1.md",
-          "title": "국가 슈퍼컴 6호기 ‘한강’ 가동…칩 1.8만개 탑재 세계 10위권 기대"
+          "date": "2026-11-04",
+          "file": "20261104-brookfield-plans-for.md",
+          "title": "Brookfield plans for a $27 billion AI data center at UK power station"
         },
         {
-          "date": "2026-11-03",
-          "file": "20261103-가전-명가-희석-전자-공룡-ai-인프.md",
-          "title": "'가전 명가' 희석 日 전자 공룡, AI 인프라 공급망 '싹쓸이' 나섰다"
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677598",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
+          "title": ""
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-엔비디아-클라우드-고객에-중국-기업-.md",
+          "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구"
         }
       ]
     }

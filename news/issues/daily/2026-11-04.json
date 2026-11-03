@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-04",
+  "updated_at": "2026-11-04T08:18:13.357018+09:00",
+  "run_id": "run_20261104_081813",
+  "summary_ko": "AI 가치 평가가 흔들리는 가운데 전력과 통제가 실행 조건으로 부각됐다.",
+  "issues": [
+    {
+      "title": "AI 가치 평가와 자금 부담",
+      "summary_ko": "수요는 확인되지만 시장은 수익 구조를 더 엄격히 따진다.",
+      "topics": [
+        "ai_industry",
+        "llm_models",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-04",
+          "file": "20261104-2700조-앤트로픽-몸값-낮춰라-ai.md",
+          "title": "“2700조? 앤트로픽, 몸값 낮춰라”…AI 거품론 불붙인 월가"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-anthropic-is-still-g.md",
+          "title": "Anthropic is still grappling with the economics of compute"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-meta-seeks-to-raise-.md",
+          "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-amd-3분기-매출-133억달러-데이.md",
+          "title": "AMD, 3분기 매출 133억달러…“데이터센터 매출 2배 급증”"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216962",
+          "title": ""
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai-inference-startup.md",
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12194879",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제의 제도화",
+      "summary_ko": "에이전트 위험이 제품과 공시 항목으로 구체화되고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-04",
+          "file": "20261104-crowdstrike-launches.md",
+          "title": "CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-apple-warns-of-risks.md",
+          "title": "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai-모델만으론-부족-스노우플레이크-.md",
+          "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-apple-starts-giving-.md",
+          "title": "Apple starts giving Siri AI access to third-party apps"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-11월3일-ai-성능-높아도-실무는-.md",
+          "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI의 적용 범위 확장",
+      "summary_ko": "금융 AI가 사후관리와 결제, 후선 업무로 넓어지고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-04",
+          "file": "20261104-교보생명-변액보험-사후관리에-초점-네.md",
+          "title": "교보생명, 변액보험 사후관리에 초점…네비게이션 역할은 AI"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-신원근-카카오페이-스테이블코인-빅피처.md",
+          "title": "신원근號 카카오페이, 스테이블코인 '빅피처'…개막은 2028년"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai-startup-murphy-ap.md",
+          "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-binance-co-ceo-richa.md",
+          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
+        }
+      ]
+    },
+    {
+      "title": "전력·입지가 좌우하는 인프라",
+      "summary_ko": "전력과 인허가, 수용성이 인프라 실행의 병목이 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-04",
+          "file": "20261104-brookfield-plans-for.md",
+          "title": "Brookfield plans for a $27 billion AI data center at UK power station"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677598",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
+          "title": ""
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-엔비디아-클라우드-고객에-중국-기업-.md",
+          "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구"
+        }
+      ]
+    }
+  ]
+}
