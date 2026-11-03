@@ -1,16 +1,16 @@
 {
   "date": "2026-11-03",
-  "updated_at": "2026-11-03T08:17:41.368920+09:00",
-  "run_id": "run_20261103_081741",
-  "summary_ko": "성장 수치가 커질수록 비용과 권한 통제가 전면으로 올라왔다.",
+  "updated_at": "2026-11-03T12:16:43.923905+09:00",
+  "run_id": "run_20261103_121643",
+  "summary_ko": "성장 수치 뒤의 적자와 현금 부담이 드러나며 AI 경제성 검증이 본격화했다.",
   "issues": [
     {
-      "title": "앤트로픽 공시가 드러낸 AI 경제성",
-      "summary_ko": "매출보다 약정 이행과 비용 구조가 평가 기준이 되고 있다.",
+      "title": "AI 투자의 재무·정치 검증",
+      "summary_ko": "매출보다 현금 흐름과 지역·선거 변수가 투자 평가를 좌우한다.",
       "topics": [
         "ai_industry",
-        "llm_models",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -24,23 +24,50 @@
           "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12193997",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216907",
-          "title": ""
-        },
-        {
           "date": "2026-11-03",
           "file": "20261103-팔란티어-기업-ai-성장에-연매출-전.md",
           "title": "팔란티어, 기업 AI 성장에 연매출 전망 상향…10.98조→11.49조원"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-openai-pitches-data-.md",
+          "title": "OpenAI pitches data center power plants as a way to protect nearby areas"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-중간선거-ai-투자와-재정지출-주요-.md",
+          "title": "美 중간선거, AI 투자와 재정지출 주요 변수로 부상"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-외연-확장-나선-롯데이노베이트-대외-.md",
+          "title": "외연 확장 나선 롯데이노베이트, '대외 데이터센터'서 돌파구 찾는다"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-앤트로픽-매출-급증에도-영업적자-ai.md",
+          "title": "앤트로픽, 매출 급증에도 영업적자…AI 인프라 투자 부담"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-디깅노트-aws의-장밋빛-성장-뒤-아.md",
+          "title": "[디깅노트] AWS의 '장밋빛 성장' 뒤 아마존의 '비싼 청구서'"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-ai-고속도로-gpu-투자-부담-커지.md",
+          "title": "[AI 고속도로] GPU 투자 부담 커지자 네오클라우드 회의론 확산…韓 기업도 시험대"
+        },
+        {
+          "date": "2026-11-03",
+          "file": "20261103-유미-s-픽-데이터센터가-새-먹거리-.md",
+          "title": "[유미's 픽] \"데이터센터가 새 먹거리\"…삼성SDS·LG CNS·롯데이노, 수익 모델 진화"
         }
       ]
     },
     {
       "title": "정액제 후퇴와 에이전트 비용 관리",
-      "summary_ko": "에이전트 비용을 공급사가 흡수하지 못하는 구간에 들어섰다.",
+      "summary_ko": "에이전트 비용을 관리하는 운영 계층이 기업의 새 과제가 됐다.",
       "topics": [
         "llm_models",
         "ai_agents",
@@ -58,12 +85,14 @@
           "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs"
         },
         {
-          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-          "title": ""
+          "date": "2026-11-03",
+          "file": "20261103-오픈ai-12월부터-챗gpt-코덱스-.md",
+          "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216915",
-          "title": ""
+          "date": "2026-11-03",
+          "file": "20261103-유라클-기업-ai-사용-비용-통합-관.md",
+          "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시"
         }
       ]
     },
@@ -97,10 +126,6 @@
           "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216918",
-          "title": ""
-        },
-        {
           "date": "2026-11-03",
           "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
           "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
@@ -108,38 +133,33 @@
       ]
     },
     {
-      "title": "인프라의 수용성과 정치 변수",
-      "summary_ko": "인프라 확장의 조건이 자금에서 지역 수용성과 선거로 넓어졌다.",
+      "title": "산업·행정 현장으로 들어간 AI",
+      "summary_ko": "도입의 무게가 범용 도구에서 업무별 구축과 정착으로 이동한다.",
       "topics": [
-        "ai_compute_energy",
-        "ai_policy",
-        "ai_industry"
+        "ai_industry",
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-11-03",
-          "file": "20261103-openai-pitches-data-.md",
-          "title": "OpenAI pitches data center power plants as a way to protect nearby areas"
+          "file": "20261103-오픈ai-uae-석유-정부-투자-업무.md",
+          "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약"
         },
         {
           "date": "2026-11-03",
-          "file": "20261103-중간선거-ai-투자와-재정지출-주요-.md",
-          "title": "美 중간선거, AI 투자와 재정지출 주요 변수로 부상"
+          "file": "20261103-업스테이지-솔라-프로-4-범정부-행정.md",
+          "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대"
         },
         {
           "date": "2026-11-03",
-          "file": "20261103-openai-prepares-lobb.md",
-          "title": "OpenAI prepares lobbying blitz for a post-midterm Washington"
+          "file": "20261103-인사혁신처-인사업무-특화-ai-시스템.md",
+          "title": "인사혁신처, 인사업무 특화 AI 시스템 첫 개발…업무 혁신 속도"
         },
         {
           "date": "2026-11-03",
-          "file": "20261103-lumentum-ceo-touts-e.md",
-          "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-외연-확장-나선-롯데이노베이트-대외-.md",
-          "title": "외연 확장 나선 롯데이노베이트, '대외 데이터센터'서 돌파구 찾는다"
+          "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
+          "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향"
         }
       ]
     }
