@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-03T03:16:53+00:00",
+  "generated_at": "2026-11-03T07:14:11+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1206,
+      "count": 1207,
       "latest_date": "2026-11-03"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1547,
+      "count": 1551,
       "latest_date": "2026-11-03"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1555,
+      "count": 1558,
       "latest_date": "2026-11-03"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3605,
+      "count": 3613,
       "latest_date": "2026-11-03"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 544,
+      "count": 547,
       "latest_date": "2026-11-03"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1152,
+      "count": 1157,
       "latest_date": "2026-11-03"
     },
     {
@@ -54,7 +54,7 @@
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 595,
+      "count": 599,
       "latest_date": "2026-11-03"
     },
     {
@@ -156,6 +156,20 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-skt-1인-1에이전트-속도-낸다-사.md",
+        "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216945"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-spacexsi-apparently-.md",
         "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
         "importance": 7,
@@ -184,6 +198,19 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-ai-모델-안에-보안-os-심었다-비.md",
+        "title": "AI 모델 안에 보안 OS 심었다…비드래프트, 정보 유출 차단 기술 개발",
+        "importance": 6,
+        "tags": [
+          "#ai-security",
+          "#agent-governance",
+          "#guardrail"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261103144921"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-openai-is-finally-me.md",
         "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
         "importance": 6,
@@ -198,6 +225,19 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-구매로-이끄는-ai-위버스브레인-교육.md",
+        "title": "구매로 이끄는 AI…위버스브레인, 교육 넘어 AI 세일즈 공략[현장+]",
+        "importance": 6,
+        "tags": [
+          "#monetization",
+          "#sales-ai",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677557"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
         "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향",
         "importance": 6,
@@ -209,6 +249,19 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261103102104"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-베스핀글로벌-기업용-ai-에이전트-헬.md",
+        "title": "베스핀글로벌, 기업용 AI 에이전트 ‘헬프나우 컴퓨터’ 출시",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#computer-use",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216933"
       },
       {
         "date": "2026-11-03",
@@ -22661,6 +22714,20 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-nc-ai-피지컬ai용-초경량-vlm.md",
+        "title": "NC AI, 피지컬AI용 초경량 VLM ‘배키 비전 3B’ 공개...8B급 모델 앞서",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#multimodal",
+          "#edge-ai",
+          "#manufacturing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216928"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-openai-is-finally-me.md",
         "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
         "importance": 6,
@@ -40010,6 +40077,20 @@
     "ai_policy": [
       {
         "date": "2026-11-03",
+        "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+        "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산",
+        "importance": 8,
+        "tags": [
+          "#manufacturing",
+          "#ai-factory",
+          "#regulation",
+          "#ai-adoption"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202611031228459938"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
         "title": "'AI를 통제하라'…국내 솔루션 기업, AI 가드레일 시장 잰걸음",
         "importance": 7,
@@ -40051,6 +40132,19 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-ai-모델-안에-보안-os-심었다-비.md",
+        "title": "AI 모델 안에 보안 OS 심었다…비드래프트, 정보 유출 차단 기술 개발",
+        "importance": 6,
+        "tags": [
+          "#ai-security",
+          "#agent-governance",
+          "#guardrail"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261103144921"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-new-york-times-and-o.md",
         "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
         "importance": 6,
@@ -40076,6 +40170,20 @@
         ],
         "source": "The Decoder WebFetch fallback",
         "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-인천항만공사-ai-가이드라인-마련-자.md",
+        "title": "인천항만공사, 'AI 가이드라인' 마련… '자율 AI도 사람이 멈출 수 있어야'",
+        "importance": 6,
+        "tags": [
+          "#ai-governance",
+          "#public-sector",
+          "#human-oversight",
+          "#regulation"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202611031451264577"
       },
       {
         "date": "2026-11-02",
@@ -62520,6 +62628,20 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-blackstone-president.md",
+        "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+        "importance": 8,
+        "tags": [
+          "#ai-financing",
+          "#credit-risk",
+          "#investment",
+          "#data-center"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-hsbc-to-open-hong-ko.md",
         "title": "HSBC to open Hong Kong AI and emerging technology institute",
         "importance": 8,
@@ -62535,6 +62657,20 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-마벨-루멘텀-154조에-인수-ai-데.md",
+        "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#optical-interconnect",
+          "#semiconductor",
+          "#data-center"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216952"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-앤트로픽-내부-ai-토큰-비용이-직원.md",
         "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증",
         "importance": 8,
@@ -62546,6 +62682,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=216891"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-오라클-메타-ai-투자-위해-수백억달.md",
+        "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-financing",
+          "#data-center",
+          "#credit-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216944"
       },
       {
         "date": "2026-11-03",
@@ -62575,6 +62725,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261103000006"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+        "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산",
+        "importance": 8,
+        "tags": [
+          "#manufacturing",
+          "#ai-factory",
+          "#regulation",
+          "#ai-adoption"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202611031228459938"
       },
       {
         "date": "2026-11-03",
@@ -62617,6 +62781,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-skt-1인-1에이전트-속도-낸다-사.md",
+        "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정",
+        "importance": 7,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#org-change",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216945"
       },
       {
         "date": "2026-11-03",
@@ -62760,6 +62938,32 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-가전-명가-희석-전자-공룡-ai-인프.md",
+        "title": "'가전 명가' 희석 日 전자 공룡, AI 인프라 공급망 '싹쓸이' 나섰다",
+        "importance": 6,
+        "tags": [
+          "#supply-chain",
+          "#data-center",
+          "#business-transformation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000334"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-구매로-이끄는-ai-위버스브레인-교육.md",
+        "title": "구매로 이끄는 AI…위버스브레인, 교육 넘어 AI 세일즈 공략[현장+]",
+        "importance": 6,
+        "tags": [
+          "#monetization",
+          "#sales-ai",
+          "#enterprise-ai"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677557"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
         "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향",
         "importance": 6,
@@ -62771,6 +62975,19 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261103102104"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-베스핀글로벌-기업용-ai-에이전트-헬.md",
+        "title": "베스핀글로벌, 기업용 AI 에이전트 ‘헬프나우 컴퓨터’ 출시",
+        "importance": 6,
+        "tags": [
+          "#enterprise-ai",
+          "#computer-use",
+          "#agent-framework"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216933"
       },
       {
         "date": "2026-11-03",
@@ -114740,6 +114957,33 @@
     "physical_ai_robotics": [
       {
         "date": "2026-11-03",
+        "file": "20261103-nc-ai-피지컬ai용-초경량-vlm.md",
+        "title": "NC AI, 피지컬AI용 초경량 VLM ‘배키 비전 3B’ 공개...8B급 모델 앞서",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#multimodal",
+          "#edge-ai",
+          "#manufacturing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216928"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-국내-첫-휴머노이드-데이터-팩토리-구.md",
+        "title": "국내 첫 휴머노이드 데이터 팩토리 구축…'서비스는 2027년 말'",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robot-data",
+          "#public-rnd"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261103113457"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-두핸즈-품고-물동량-60-증가-물류-.md",
         "title": "두핸즈 '품고', 물동량 60% 증가…물류 현장에 피지컬 AI 도입 속도",
         "importance": 6,
@@ -114751,6 +114995,19 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261103112145"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-로봇에-숙련공-감각을-에이엘로봇-ip.md",
+        "title": "'로봇에 숙련공 감각을'…에이엘로봇 IPO 출사표 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#ipo",
+          "#robot-components"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677574"
       },
       {
         "date": "2026-11-03",
@@ -122644,6 +122901,48 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-blackstone-president.md",
+        "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+        "importance": 8,
+        "tags": [
+          "#ai-financing",
+          "#credit-risk",
+          "#investment",
+          "#data-center"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-마벨-루멘텀-154조에-인수-ai-데.md",
+        "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화",
+        "importance": 8,
+        "tags": [
+          "#acquisition",
+          "#optical-interconnect",
+          "#semiconductor",
+          "#data-center"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216952"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-오라클-메타-ai-투자-위해-수백억달.md",
+        "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면",
+        "importance": 8,
+        "tags": [
+          "#investment",
+          "#ai-financing",
+          "#data-center",
+          "#credit-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216944"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-ai-고속도로-gpu-투자-부담-커지.md",
         "title": "[AI 고속도로] GPU 투자 부담 커지자 네오클라우드 회의론 확산…韓 기업도 시험대",
         "importance": 7,
@@ -122725,6 +123024,32 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=677431"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-가전-명가-희석-전자-공룡-ai-인프.md",
+        "title": "'가전 명가' 희석 日 전자 공룡, AI 인프라 공급망 '싹쓸이' 나섰다",
+        "importance": 6,
+        "tags": [
+          "#supply-chain",
+          "#data-center",
+          "#business-transformation"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261102000334"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-국가-슈퍼컴-6호기-한강-가동-칩-1.md",
+        "title": "국가 슈퍼컴 6호기 ‘한강’ 가동…칩 1.8만개 탑재 세계 10위권 기대",
+        "importance": 6,
+        "tags": [
+          "#supercomputer",
+          "#public-sector",
+          "#gpu-infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216948"
       },
       {
         "date": "2026-11-03",
@@ -153750,6 +154075,20 @@
     "physical_ai": [
       {
         "date": "2026-11-03",
+        "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+        "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산",
+        "importance": 8,
+        "tags": [
+          "#manufacturing",
+          "#ai-factory",
+          "#regulation",
+          "#ai-adoption"
+        ],
+        "source": "파이낸셜뉴스 경제",
+        "url": "https://www.fnnews.com/news/202611031228459938"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-경북-제조현장에-이식된-ai-심장-구.md",
         "title": "경북 제조현장에 이식된 'AI 심장'… 구미·포항 산단, 자율제조 대전환 닻 올렸다",
         "importance": 7,
@@ -153778,6 +154117,33 @@
       },
       {
         "date": "2026-11-03",
+        "file": "20261103-nc-ai-피지컬ai용-초경량-vlm.md",
+        "title": "NC AI, 피지컬AI용 초경량 VLM ‘배키 비전 3B’ 공개...8B급 모델 앞서",
+        "importance": 6,
+        "tags": [
+          "#model-release",
+          "#multimodal",
+          "#edge-ai",
+          "#manufacturing"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=216928"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-국내-첫-휴머노이드-데이터-팩토리-구.md",
+        "title": "국내 첫 휴머노이드 데이터 팩토리 구축…'서비스는 2027년 말'",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#robot-data",
+          "#public-rnd"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261103113457"
+      },
+      {
+        "date": "2026-11-03",
         "file": "20261103-두핸즈-품고-물동량-60-증가-물류-.md",
         "title": "두핸즈 '품고', 물동량 60% 증가…물류 현장에 피지컬 AI 도입 속도",
         "importance": 6,
@@ -153789,6 +154155,19 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261103112145"
+      },
+      {
+        "date": "2026-11-03",
+        "file": "20261103-로봇에-숙련공-감각을-에이엘로봇-ip.md",
+        "title": "'로봇에 숙련공 감각을'…에이엘로봇 IPO 출사표 [현장+]",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#ipo",
+          "#robot-components"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677574"
       },
       {
         "date": "2026-11-03",
@@ -163593,8 +163972,8 @@
     "ai_industry": [
       {
         "date": "2026-11-03",
-        "title": "AI 투자의 재무·정치 검증",
-        "summary": "매출보다 현금 흐름과 지역·선거 변수가 투자 평가를 좌우한다.",
+        "title": "AI 투자의 재무·자금조달 검증",
+        "summary": "조달 비용과 현금 흐름이 투자 지속성을 가늠하는 잣대가 됐다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -163645,6 +164024,21 @@
             "date": "2026-11-03",
             "file": "20261103-유미-s-픽-데이터센터가-새-먹거리-.md",
             "title": "[유미's 픽] \"데이터센터가 새 먹거리\"…삼성SDS·LG CNS·롯데이노, 수익 모델 진화"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-오라클-메타-ai-투자-위해-수백억달.md",
+            "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-blackstone-president.md",
+            "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-마벨-루멘텀-154조에-인수-ai-데.md",
+            "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화"
           }
         ]
       },
@@ -163677,40 +164071,8 @@
       },
       {
         "date": "2026-11-03",
-        "title": "금융권·기업의 AI 권한 재설계",
-        "summary": "AI 확산의 초점이 전면 개방에서 직무별 권한과 검증으로 옮겨간다.",
-        "articles": [
-          {
-            "date": "2026-11-03",
-            "file": "20261103-goldman-sachs-pulls-.md",
-            "title": "Goldman Sachs pulls AI coding tools from traders and bankers"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-hsbc-to-open-hong-ko.md",
-            "title": "HSBC to open Hong Kong AI and emerging technology institute"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-게이트웨이-걸프-2026-부대-행사-.md",
-            "title": "게이트웨이 걸프 2026 부대 행사: 뭄탈라카트 및 ARP 그룹, 바레인 AI 네이티브 도매 은행 설립 위한 파트너십 체결"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-코딩은-ai에-맡겨라-프로톤-개발-속.md",
-            "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
-            "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
         "title": "산업·행정 현장으로 들어간 AI",
-        "summary": "도입의 무게가 범용 도구에서 업무별 구축과 정착으로 이동한다.",
+        "summary": "도입의 무게가 단건 구축에서 재사용과 전사 정착으로 이동한다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -163731,6 +164093,26 @@
             "date": "2026-11-03",
             "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
             "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+            "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-skt-1인-1에이전트-속도-낸다-사.md",
+            "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-베스핀글로벌-기업용-ai-에이전트-헬.md",
+            "title": "베스핀글로벌, 기업용 AI 에이전트 ‘헬프나우 컴퓨터’ 출시"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-국내-첫-휴머노이드-데이터-팩토리-구.md",
+            "title": "국내 첫 휴머노이드 데이터 팩토리 구축…\"서비스는 2027년 말\""
           }
         ]
       },
@@ -171216,8 +171598,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-03",
-        "title": "AI 투자의 재무·정치 검증",
-        "summary": "매출보다 현금 흐름과 지역·선거 변수가 투자 평가를 좌우한다.",
+        "title": "AI 투자의 재무·자금조달 검증",
+        "summary": "조달 비용과 현금 흐름이 투자 지속성을 가늠하는 잣대가 됐다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -171268,6 +171650,21 @@
             "date": "2026-11-03",
             "file": "20261103-유미-s-픽-데이터센터가-새-먹거리-.md",
             "title": "[유미's 픽] \"데이터센터가 새 먹거리\"…삼성SDS·LG CNS·롯데이노, 수익 모델 진화"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-오라클-메타-ai-투자-위해-수백억달.md",
+            "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-blackstone-president.md",
+            "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-마벨-루멘텀-154조에-인수-ai-데.md",
+            "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화"
           }
         ]
       },
@@ -175068,8 +175465,8 @@
     "llm_models": [
       {
         "date": "2026-11-03",
-        "title": "AI 투자의 재무·정치 검증",
-        "summary": "매출보다 현금 흐름과 지역·선거 변수가 투자 평가를 좌우한다.",
+        "title": "AI 투자의 재무·자금조달 검증",
+        "summary": "조달 비용과 현금 흐름이 투자 지속성을 가늠하는 잣대가 됐다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -175120,6 +175517,21 @@
             "date": "2026-11-03",
             "file": "20261103-유미-s-픽-데이터센터가-새-먹거리-.md",
             "title": "[유미's 픽] \"데이터센터가 새 먹거리\"…삼성SDS·LG CNS·롯데이노, 수익 모델 진화"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-오라클-메타-ai-투자-위해-수백억달.md",
+            "title": "오라클·메타, AI 투자 위해 수백억달러 조달…고금리 부담에 직면"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-blackstone-president.md",
+            "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-마벨-루멘텀-154조에-인수-ai-데.md",
+            "title": "마벨, 루멘텀 154조에 인수…AI 데이터센터 광통신 강화"
           }
         ]
       },
@@ -175147,33 +175559,6 @@
             "date": "2026-11-03",
             "file": "20261103-유라클-기업-ai-사용-비용-통합-관.md",
             "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-03",
-        "title": "산업·행정 현장으로 들어간 AI",
-        "summary": "도입의 무게가 범용 도구에서 업무별 구축과 정착으로 이동한다.",
-        "articles": [
-          {
-            "date": "2026-11-03",
-            "file": "20261103-오픈ai-uae-석유-정부-투자-업무.md",
-            "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-업스테이지-솔라-프로-4-범정부-행정.md",
-            "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-인사혁신처-인사업무-특화-ai-시스템.md",
-            "title": "인사혁신처, 인사업무 특화 AI 시스템 첫 개발…업무 혁신 속도"
-          },
-          {
-            "date": "2026-11-03",
-            "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
-            "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향"
           }
         ]
       },
@@ -178247,7 +178632,7 @@
       {
         "date": "2026-11-03",
         "title": "금융권·기업의 AI 권한 재설계",
-        "summary": "AI 확산의 초점이 전면 개방에서 직무별 권한과 검증으로 옮겨간다.",
+        "summary": "AI 확산의 초점이 전면 개방에서 권한과 중지 절차로 옮겨간다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -178273,13 +178658,23 @@
             "date": "2026-11-03",
             "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
             "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-ai-모델-안에-보안-os-심었다-비.md",
+            "title": "AI 모델 안에 보안 OS 심었다…비드래프트, 정보 유출 차단 기술 개발"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-인천항만공사-ai-가이드라인-마련-자.md",
+            "title": "인천항만공사, 'AI 가이드라인' 마련… \"자율 AI도 사람이 멈출 수 있어야\""
           }
         ]
       },
       {
         "date": "2026-11-03",
         "title": "산업·행정 현장으로 들어간 AI",
-        "summary": "도입의 무게가 범용 도구에서 업무별 구축과 정착으로 이동한다.",
+        "summary": "도입의 무게가 단건 구축에서 재사용과 전사 정착으로 이동한다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -178300,6 +178695,26 @@
             "date": "2026-11-03",
             "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
             "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+            "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-skt-1인-1에이전트-속도-낸다-사.md",
+            "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-베스핀글로벌-기업용-ai-에이전트-헬.md",
+            "title": "베스핀글로벌, 기업용 AI 에이전트 ‘헬프나우 컴퓨터’ 출시"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-국내-첫-휴머노이드-데이터-팩토리-구.md",
+            "title": "국내 첫 휴머노이드 데이터 팩토리 구축…\"서비스는 2027년 말\""
           }
         ]
       },
@@ -183512,7 +183927,7 @@
       {
         "date": "2026-11-03",
         "title": "금융권·기업의 AI 권한 재설계",
-        "summary": "AI 확산의 초점이 전면 개방에서 직무별 권한과 검증으로 옮겨간다.",
+        "summary": "AI 확산의 초점이 전면 개방에서 권한과 중지 절차로 옮겨간다.",
         "articles": [
           {
             "date": "2026-11-03",
@@ -183538,6 +183953,16 @@
             "date": "2026-11-03",
             "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
             "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-ai-모델-안에-보안-os-심었다-비.md",
+            "title": "AI 모델 안에 보안 OS 심었다…비드래프트, 정보 유출 차단 기술 개발"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-인천항만공사-ai-가이드라인-마련-자.md",
+            "title": "인천항만공사, 'AI 가이드라인' 마련… \"자율 AI도 사람이 멈출 수 있어야\""
           }
         ]
       },
@@ -188295,6 +188720,48 @@
       }
     ],
     "ai_policy": [
+      {
+        "date": "2026-11-03",
+        "title": "금융권·기업의 AI 권한 재설계",
+        "summary": "AI 확산의 초점이 전면 개방에서 권한과 중지 절차로 옮겨간다.",
+        "articles": [
+          {
+            "date": "2026-11-03",
+            "file": "20261103-goldman-sachs-pulls-.md",
+            "title": "Goldman Sachs pulls AI coding tools from traders and bankers"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-hsbc-to-open-hong-ko.md",
+            "title": "HSBC to open Hong Kong AI and emerging technology institute"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-게이트웨이-걸프-2026-부대-행사-.md",
+            "title": "게이트웨이 걸프 2026 부대 행사: 뭄탈라카트 및 ARP 그룹, 바레인 AI 네이티브 도매 은행 설립 위한 파트너십 체결"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-코딩은-ai에-맡겨라-프로톤-개발-속.md",
+            "title": "\"코딩은 AI에 맡겨라\"…프로톤, 개발 속도 압박에 보안 논란"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-ai를-통제하라-국내-솔루션-기업-a.md",
+            "title": "\"AI를 통제하라\"…국내 솔루션 기업, AI 가드레일 시장 잰걸음"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-ai-모델-안에-보안-os-심었다-비.md",
+            "title": "AI 모델 안에 보안 OS 심었다…비드래프트, 정보 유출 차단 기술 개발"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-인천항만공사-ai-가이드라인-마련-자.md",
+            "title": "인천항만공사, 'AI 가이드라인' 마련… \"자율 AI도 사람이 멈출 수 있어야\""
+          }
+        ]
+      },
       {
         "date": "2026-11-02",
         "title": "메가프로젝트 예산과 국회 심의 변수",
@@ -193601,6 +194068,53 @@
       }
     ],
     "physical_ai": [
+      {
+        "date": "2026-11-03",
+        "title": "산업·행정 현장으로 들어간 AI",
+        "summary": "도입의 무게가 단건 구축에서 재사용과 전사 정착으로 이동한다.",
+        "articles": [
+          {
+            "date": "2026-11-03",
+            "file": "20261103-오픈ai-uae-석유-정부-투자-업무.md",
+            "title": "오픈AI, UAE 석유·정부·투자 업무에 AI 에이전트 도입…4건 협약"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-업스테이지-솔라-프로-4-범정부-행정.md",
+            "title": "업스테이지 '솔라 프로 4', 범정부 행정망 도입…공무원 모델 선택권 확대"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-인사혁신처-인사업무-특화-ai-시스템.md",
+            "title": "인사혁신처, 인사업무 특화 AI 시스템 첫 개발…업무 혁신 속도"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-데이원컴퍼니-기업-ax-지원-데이원-.md",
+            "title": "데이원컴퍼니, 기업 AX 지원 '데이원 AX' 출범…'AI 네이티브' 지향"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-한-공장서-검증된-ai-유사공정에도-.md",
+            "title": "한 공장서 검증된 AI, 유사공정에도 적용…공급망·산단까지 확산"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-skt-1인-1에이전트-속도-낸다-사.md",
+            "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-베스핀글로벌-기업용-ai-에이전트-헬.md",
+            "title": "베스핀글로벌, 기업용 AI 에이전트 ‘헬프나우 컴퓨터’ 출시"
+          },
+          {
+            "date": "2026-11-03",
+            "file": "20261103-국내-첫-휴머노이드-데이터-팩토리-구.md",
+            "title": "국내 첫 휴머노이드 데이터 팩토리 구축…\"서비스는 2027년 말\""
+          }
+        ]
+      },
       {
         "date": "2026-11-02",
         "title": "메가프로젝트 예산과 국회 심의 변수",
