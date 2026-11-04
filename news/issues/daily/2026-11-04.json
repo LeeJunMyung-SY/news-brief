@@ -1,12 +1,12 @@
 {
   "date": "2026-11-04",
-  "updated_at": "2026-11-04T08:18:13.357018+09:00",
-  "run_id": "run_20261104_081813",
-  "summary_ko": "AI 가치 평가가 흔들리는 가운데 전력과 통제가 실행 조건으로 부각됐다.",
+  "updated_at": "2026-11-04T12:15:31.269082+09:00",
+  "run_id": "run_20261104_121531",
+  "summary_ko": "AI 평가가 엄격해지는 가운데 통제와 금융 서비스 확장이 함께 진행됐다.",
   "issues": [
     {
       "title": "AI 가치 평가와 자금 부담",
-      "summary_ko": "수요는 확인되지만 시장은 수익 구조를 더 엄격히 따진다.",
+      "summary_ko": "시장은 수요보다 수익 구조와 회수 경로를 따지기 시작했다.",
       "topics": [
         "ai_industry",
         "llm_models",
@@ -34,23 +34,29 @@
           "title": "AMD, 3분기 매출 133억달러…“데이터센터 매출 2배 급증”"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216962",
-          "title": ""
-        },
-        {
           "date": "2026-11-04",
           "file": "20261104-ai-inference-startup.md",
           "title": "AI inference startup Fal doubles its valuation to $16B as demand surges"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12194879",
+          "date": "2026-11-04",
+          "file": "20261104-스톤브릿지벤처스-올거나이즈-도쿄-증시.md",
+          "title": "스톤브릿지벤처스, 올거나이즈 도쿄 증시 상장…일본 포트폴리오 회수 시동"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai에-돈-쏟아붓는데-기업-투자-늘려.md",
+          "title": "\"AI에 돈 쏟아붓는데\"…韓 기업, 투자 늘려도 확장에 '발목' 잡힌 이유는"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261104111917",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 통제의 제도화",
-      "summary_ko": "에이전트 위험이 제품과 공시 항목으로 구체화되고 있다.",
+      "title": "에이전트 통제와 AI 보안",
+      "summary_ko": "공격과 오작동 위험이 커져 통제 수단이 도입 요건이 된다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -80,12 +86,22 @@
           "date": "2026-11-04",
           "file": "20261104-11월3일-ai-성능-높아도-실무는-.md",
           "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-해커-세계-200여개-기관-ai-공격.md",
+          "title": "中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-google-responds-to-p.md",
+          "title": "Google responds to political backlash over removing search from schools that ban AI"
         }
       ]
     },
     {
       "title": "금융 AI의 적용 범위 확장",
-      "summary_ko": "금융 AI가 사후관리와 결제, 후선 업무로 넓어지고 있다.",
+      "summary_ko": "금융 AI가 돌봄과 사후관리 등 장기 고객 접점으로 넓어졌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -110,15 +126,26 @@
           "date": "2026-11-04",
           "file": "20261104-binance-co-ceo-richa.md",
           "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-시니어케어에-ai-웨어러블-삼성생명-.md",
+          "title": "시니어케어에 AI·웨어러블…삼성생명, 지역통합돌봄 모델 공개"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-컨콜-카카오뱅크-카드-증권업-진출-검.md",
+          "title": "[컨콜]카카오뱅크, 카드·증권업 진출 검토…2028년 법인뱅킹 출시 추진"
         }
       ]
     },
     {
-      "title": "전력·입지가 좌우하는 인프라",
-      "summary_ko": "전력과 인허가, 수용성이 인프라 실행의 병목이 됐다.",
+      "title": "전력·입지와 통신사 AIDC",
+      "summary_ko": "전력 병목 속에 통신사가 AIDC를 실적 축으로 키운다.",
       "topics": [
         "ai_compute_energy",
-        "ai_policy"
+        "ai_policy",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -127,21 +154,19 @@
           "title": "Brookfield plans for a $27 billion AI data center at UK power station"
         },
         {
-          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677598",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
-          "title": ""
-        },
-        {
           "date": "2026-11-04",
           "file": "20261104-엔비디아-클라우드-고객에-중국-기업-.md",
           "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-skt-3개-분기-연속-5천억대-영업.md",
+          "title": "SKT, 3개 분기 연속 5천억대 영업익…'통신 회복 넘어 AI 확장'"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-lgu-3분기-영업익-84-껑충-ai.md",
+          "title": "LGU+, 3분기 영업익 84% 껑충…AIDC 매출 두 자릿수 성장"
         }
       ]
     }

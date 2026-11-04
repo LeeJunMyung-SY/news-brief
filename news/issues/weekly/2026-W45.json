@@ -1,7 +1,7 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-04T08:18:13.357018+09:00",
-  "run_id": "run_20261104_081813",
+  "updated_at": "2026-11-04T12:15:31.269082+09:00",
+  "run_id": "run_20261104_121531",
   "summary_ko": "AI 경쟁의 초점이 성장 규모에서 자금 여력과 통제, 전력 확보로 옮겨간다.",
   "issues": [
     {
@@ -54,8 +54,9 @@
           "title": "AMD, 3분기 매출 133억달러…“데이터센터 매출 2배 급증”"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216962",
-          "title": ""
+          "date": "2026-11-04",
+          "file": "20261104-스톤브릿지벤처스-올거나이즈-도쿄-증시.md",
+          "title": "스톤브릿지벤처스, 올거나이즈 도쿄 증시 상장…일본 포트폴리오 회수 시동"
         }
       ]
     },
@@ -82,16 +83,12 @@
           "date": "2026-11-03",
           "file": "20261103-유라클-기업-ai-사용-비용-통합-관.md",
           "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
-          "title": ""
         }
       ]
     },
     {
       "title": "금융권 AI의 권한과 접점 재설계",
-      "body_ko": "금융은 사후관리와 결제까지 접점을 넓히며 권한과 보안 기준을 다시 짠다.",
+      "body_ko": "금융은 돌봄과 사후관리까지 접점을 넓히며 권한과 보안 기준을 다시 짠다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -126,6 +123,16 @@
           "date": "2026-11-04",
           "file": "20261104-ai-startup-murphy-ap.md",
           "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-시니어케어에-ai-웨어러블-삼성생명-.md",
+          "title": "시니어케어에 AI·웨어러블…삼성생명, 지역통합돌봄 모델 공개"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-컨콜-카카오뱅크-카드-증권업-진출-검.md",
+          "title": "[컨콜]카카오뱅크, 카드·증권업 진출 검토…2028년 법인뱅킹 출시 추진"
         }
       ]
     },
@@ -175,8 +182,19 @@
           "title": "AI 모델만으론 부족…스노우플레이크, 기업 데이터로 승부"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677589",
-          "title": ""
+          "date": "2026-11-04",
+          "file": "20261104-해커-세계-200여개-기관-ai-공격.md",
+          "title": "中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai에-돈-쏟아붓는데-기업-투자-늘려.md",
+          "title": "\"AI에 돈 쏟아붓는데\"…韓 기업, 투자 늘려도 확장에 '발목' 잡힌 이유는"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-현대차-아틀라스-부품-공급망-확정.md",
+          "title": "현대차 '아틀라스' 부품 공급망 확정"
         }
       ]
     },
@@ -210,21 +228,14 @@
           "title": "Brookfield plans for a $27 billion AI data center at UK power station"
         },
         {
-          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677598",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
-          "title": ""
-        },
-        {
           "date": "2026-11-04",
           "file": "20261104-엔비디아-클라우드-고객에-중국-기업-.md",
           "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-skt-3개-분기-연속-5천억대-영업.md",
+          "title": "SKT, 3개 분기 연속 5천억대 영업익…'통신 회복 넘어 AI 확장'"
         }
       ]
     }
