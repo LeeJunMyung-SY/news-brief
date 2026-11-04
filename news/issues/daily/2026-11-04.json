@@ -1,8 +1,8 @@
 {
   "date": "2026-11-04",
-  "updated_at": "2026-11-04T12:15:31.269082+09:00",
-  "run_id": "run_20261104_121531",
-  "summary_ko": "AI 평가가 엄격해지는 가운데 통제와 금융 서비스 확장이 함께 진행됐다.",
+  "updated_at": "2026-11-04T16:14:41.429051+09:00",
+  "run_id": "run_20261104_161441",
+  "summary_ko": "AI 평가가 엄격해지는 가운데 금융 AI는 주문과 보안 조건까지 깊어졌다.",
   "issues": [
     {
       "title": "AI 가치 평가와 자금 부담",
@@ -30,11 +30,6 @@
         },
         {
           "date": "2026-11-04",
-          "file": "20261104-amd-3분기-매출-133억달러-데이.md",
-          "title": "AMD, 3분기 매출 133억달러…“데이터센터 매출 2배 급증”"
-        },
-        {
-          "date": "2026-11-04",
           "file": "20261104-ai-inference-startup.md",
           "title": "AI inference startup Fal doubles its valuation to $16B as demand surges"
         },
@@ -49,14 +44,66 @@
           "title": "\"AI에 돈 쏟아붓는데\"…韓 기업, 투자 늘려도 확장에 '발목' 잡힌 이유는"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261104111917",
-          "title": ""
+          "date": "2026-11-04",
+          "file": "20261104-앤트로픽-일본-이어-호주서도-ipo-.md",
+          "title": "앤트로픽, 일본 이어 호주서도 IPO 개인 공모…글로벌 투자자 결집"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-오픈ai-챗gpt-검색량-구글의-20.md",
+          "title": "오픈AI \"챗GPT 검색량, 구글의 20% 도달\"...주간 사용자 12억명 돌파"
         }
       ]
     },
     {
-      "title": "에이전트 통제와 AI 보안",
-      "summary_ko": "공격과 오작동 위험이 커져 통제 수단이 도입 요건이 된다.",
+      "title": "금융 AI, 주문과 보안 조건으로",
+      "summary_ko": "금융 AI의 쟁점이 편의 기능에서 실행 책임과 통제로 옮겨간다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-04",
+          "file": "20261104-교보생명-변액보험-사후관리에-초점-네.md",
+          "title": "교보생명, 변액보험 사후관리에 초점…네비게이션 역할은 AI"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-시니어케어에-ai-웨어러블-삼성생명-.md",
+          "title": "시니어케어에 AI·웨어러블…삼성생명, 지역통합돌봄 모델 공개"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-binance-co-ceo-richa.md",
+          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai야-ai야-가장-저평가된-반도체-.md",
+          "title": "“AI야, AI야, 가장 저평가된 반도체 종목이 뭐니?”…증권사 MTS ‘투자비서’ 경쟁"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-ai-사이버위협-고도화-망분리-완화-.md",
+          "title": "\"AI 사이버위협 고도화…망분리 완화 뒷받침할 보안통제 필요\""
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-게시판-우리카드-모노플로우-코리아엑스.md",
+          "title": "[게시판] 우리카드, 모노플로우·코리아엑스퍼트와 기업금융·AI협력 강화"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-클라우드-2-7배-키운-삼성sds-성.md",
+          "title": "클라우드 2.7배 키운 삼성SDS, 성장축 '관리'로 옮겨간 까닭"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 통제와 데이터 기반",
+      "summary_ko": "에이전트 도입 요건이 모델 성능에서 통제와 데이터 정의로 넓어진다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -79,69 +126,24 @@
         },
         {
           "date": "2026-11-04",
-          "file": "20261104-apple-starts-giving-.md",
-          "title": "Apple starts giving Siri AI access to third-party apps"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-11월3일-ai-성능-높아도-실무는-.md",
-          "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐"
-        },
-        {
-          "date": "2026-11-04",
           "file": "20261104-해커-세계-200여개-기관-ai-공격.md",
           "title": "中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적"
         },
         {
           "date": "2026-11-04",
-          "file": "20261104-google-responds-to-p.md",
-          "title": "Google responds to political backlash over removing search from schools that ban AI"
+          "file": "20261104-엔비디아-기업-데이터-이해하는-오토-.md",
+          "title": "엔비디아, 기업 데이터 이해하는 '오토 온톨로지' 공개…AI 정확도 높인다"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-오픈ai-일상-업무-ai-평가-라이프.md",
+          "title": "오픈AI, 일상 업무 AI 평가 '라이프밸' 공개...개인 비서 성능 1년 새 49%→81%"
         }
       ]
     },
     {
-      "title": "금융 AI의 적용 범위 확장",
-      "summary_ko": "금융 AI가 돌봄과 사후관리 등 장기 고객 접점으로 넓어졌다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-04",
-          "file": "20261104-교보생명-변액보험-사후관리에-초점-네.md",
-          "title": "교보생명, 변액보험 사후관리에 초점…네비게이션 역할은 AI"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-신원근-카카오페이-스테이블코인-빅피처.md",
-          "title": "신원근號 카카오페이, 스테이블코인 '빅피처'…개막은 2028년"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-ai-startup-murphy-ap.md",
-          "title": "AI startup Murphy appoints former Revolut product exec Dmitry Zlokazov as CPO"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-binance-co-ceo-richa.md",
-          "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-시니어케어에-ai-웨어러블-삼성생명-.md",
-          "title": "시니어케어에 AI·웨어러블…삼성생명, 지역통합돌봄 모델 공개"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-컨콜-카카오뱅크-카드-증권업-진출-검.md",
-          "title": "[컨콜]카카오뱅크, 카드·증권업 진출 검토…2028년 법인뱅킹 출시 추진"
-        }
-      ]
-    },
-    {
-      "title": "전력·입지와 통신사 AIDC",
-      "summary_ko": "전력 병목 속에 통신사가 AIDC를 실적 축으로 키운다.",
+      "title": "인프라의 전력·정책 변수",
+      "summary_ko": "연산 수요가 견조해도 전력과 정치, 수출 통제가 속도를 가른다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -167,6 +169,31 @@
           "date": "2026-11-04",
           "file": "20261104-lgu-3분기-영업익-84-껑충-ai.md",
           "title": "LGU+, 3분기 영업익 84% 껑충…AIDC 매출 두 자릿수 성장"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-중간선거-코스피-상승-변수로-떠오른-.md",
+          "title": "[美중간선거] 코스피 상승? 변수로 떠오른 '데이터센터 규제'"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-온세미-페릭-인수-계약-체결-ai-전.md",
+          "title": "온세미, 페릭 인수 계약 체결…'AI 전력'에 현금 6억달러를 투자"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-amd-퓨리오사-망고부스트와-공조-내.md",
+          "title": "AMD, 퓨리오사·망고부스트와 공조...내년 봄 이기종 AI 실증 인프라 구축"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-저가-칩에-hbm-숨겨-중국으로-삼성.md",
+          "title": "\"저가 칩에 HBM 숨겨 중국으로\"...삼성·SK 메모리 밀반입 수법 드러나"
+        },
+        {
+          "date": "2026-11-04",
+          "file": "20261104-sk하이닉스-공장에-장비-수출-보류-.md",
+          "title": "美, SK하이닉스 中공장에 장비 수출 보류...\"일정 차질 없이 진행\""
         }
       ]
     }
