@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-05",
+  "updated_at": "2026-11-05T08:18:54.904424+09:00",
+  "run_id": "run_20261105_081854",
+  "summary_ko": "데이터센터가 정치 변수로 떠오르고 금융 AI는 책임 기준을 요구받는다.",
+  "issues": [
+    {
+      "title": "데이터센터, 선거가 가른 변수",
+      "summary_ko": "AI 인프라의 속도를 자금보다 지역 수용성이 좌우하게 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-05",
+          "file": "20261105-data-centers-lost-th.md",
+          "title": "Data centers lost the midterms"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-texas-was-the-new-ep.md",
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
+          "title": ""
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-미-민주당-압승에-빅테크-주가-급등-.md",
+          "title": "미 민주당 압승에 빅테크 주가 급등…'데이터센터 규제' 호재로 해석"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 감독과 책임의 구체화",
+      "summary_ko": "금융 AI의 쟁점이 허용 여부에서 사고 책임으로 옮겨간다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-05",
+          "file": "20261105-occ-issues-superviso.md",
+          "title": "OCC issues supervisory framework on bank use of AI"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-ai-에이전트로-인한-금융사고-무과실.md",
+          "title": "“AI 에이전트로 인한 금융사고, 무과실배상책임제도 검토 필요”"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-비씨카드-전-직원에-ai-비서-카드-.md",
+          "title": "비씨카드, 전 직원에 AI 비서…카드 검수 4시간→5분 단축"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-욕설-비방에-불법-리딩방까지-잡는다-.md",
+          "title": "“욕설·비방에 불법 리딩방까지 잡는다”…토스증권, AI 검수 도입"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-아이-카드서-새벽-소액결제-반복된다면.md",
+          "title": "아이 카드서 새벽 소액결제 반복된다면…AI “불법도박 충전중입니다”"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111572/bri-wealth-management-integrates-aveni-ai-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "코딩 인수전과 에이전트 수요 검증",
+      "summary_ko": "공급 경쟁은 뜨겁지만 소비자 에이전트 수요는 아직 미미하다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-05",
+          "file": "20261105-openai-acquires-pier.md",
+          "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-meta-acquires-ai-cod.md",
+          "title": "Meta acquires AI coding startup Conductor"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-uber-only-fulfilled-.md",
+          "title": "Uber only fulfilled 4 rides from AI agents last quarter"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "칩·통신·그룹의 인프라 재편",
+      "summary_ko": "조직과 제품을 재편해 AI 인프라 수요를 직접 겨냥한다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-05",
+          "file": "20261105-amd-ai가-바꾼-사업-지형도-헬리.md",
+          "title": "AMD, AI가 바꾼 사업 지형도…헬리오스로 엔비디아 추격"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+          "title": ""
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-단독-최태원-회장-sk하이닉스-ai-.md",
+          "title": "[단독] 최태원 회장, SK하이닉스 美 AI 컴퍼니 이사회 의장으로"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261104180513",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
