@@ -1,12 +1,12 @@
 {
   "date": "2026-11-05",
-  "updated_at": "2026-11-05T08:18:54.904424+09:00",
-  "run_id": "run_20261105_081854",
-  "summary_ko": "데이터센터가 정치 변수로 떠오르고 금융 AI는 책임 기준을 요구받는다.",
+  "updated_at": "2026-11-05T12:15:32.470847+09:00",
+  "run_id": "run_20261105_121532",
+  "summary_ko": "선거 충격이 증시로 번지고 금융권은 망분리 해제로 AI 실행을 앞당긴다.",
   "issues": [
     {
-      "title": "데이터센터, 선거가 가른 변수",
-      "summary_ko": "AI 인프라의 속도를 자금보다 지역 수용성이 좌우하게 됐다.",
+      "title": "데이터센터 규제, 증시 충격으로",
+      "summary_ko": "정치 위험이 인프라 일정을 넘어 AI 밸류체인 가격에 반영됐다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -24,23 +24,30 @@
           "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput."
         },
         {
-          "url": "https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html",
-          "title": ""
+          "date": "2026-11-05",
+          "file": "20261105-미-민주당-압승에-빅테크-주가-급등-.md",
+          "title": "미 민주당 압승에 빅테크 주가 급등…'데이터센터 규제' 호재로 해석"
         },
         {
           "date": "2026-11-05",
-          "file": "20261105-미-민주당-압승에-빅테크-주가-급등-.md",
-          "title": "미 민주당 압승에 빅테크 주가 급등…'데이터센터 규제' 호재로 해석"
+          "file": "20261105-증시-덮친-블루웨이브-쇼크-데이터센터.md",
+          "title": "증시 덮친 '블루웨이브' 쇼크…데이터센터 규제 우려에 급락"
         },
         {
-          "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-          "title": ""
+          "date": "2026-11-05",
+          "file": "20261105-블루웨이브에-데이터센터-규제-우려-증.md",
+          "title": "美블루웨이브에 데이터센터 규제 우려…증권가 \"AI산업 기업별 희비 전망\""
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-after-the-midterms-a.md",
+          "title": "After the midterms, a bigger clash over data centers could be coming"
         }
       ]
     },
     {
-      "title": "금융 AI, 감독과 책임의 구체화",
-      "summary_ko": "금융 AI의 쟁점이 허용 여부에서 사고 책임으로 옮겨간다.",
+      "title": "금융 AI, 망분리 해제와 책임 설계",
+      "summary_ko": "규제 완화와 함께 통제 역량이 금융 AI 확장의 자격이 된다.",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -64,27 +71,36 @@
         },
         {
           "date": "2026-11-05",
-          "file": "20261105-욕설-비방에-불법-리딩방까지-잡는다-.md",
-          "title": "“욕설·비방에 불법 리딩방까지 잡는다”…토스증권, AI 검수 도입"
+          "file": "20261105-금융위-망분리-규제-전면해제-추진-a.md",
+          "title": "금융위, 망분리 규제 전면해제 추진…“AI는 AI로 막는다”"
         },
         {
           "date": "2026-11-05",
-          "file": "20261105-아이-카드서-새벽-소액결제-반복된다면.md",
-          "title": "아이 카드서 새벽 소액결제 반복된다면…AI “불법도박 충전중입니다”"
+          "file": "20261105-우리은행-해외송금-심사에-ai-도입-.md",
+          "title": "우리은행, 해외송금 심사에 AI 도입…서류분석·입력 자동화"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111572/bri-wealth-management-integrates-aveni-ai-technology?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "date": "2026-11-05",
+          "file": "20261105-nh농협은행-상품-추천-여신-심사-a.md",
+          "title": "NH농협은행, 상품 추천·여신 심사 AI 에이전트 시제품 개발"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-게시판-카카오뱅크-금융사기-의심되면-.md",
+          "title": "[게시판] 카카오뱅크, 금융사기 의심되면 AI가 자동 전화로 안내"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money?utm_medium=rssfinextra&utm_source=finextrafeed",
           "title": ""
         }
       ]
     },
     {
-      "title": "코딩 인수전과 에이전트 수요 검증",
-      "summary_ko": "공급 경쟁은 뜨겁지만 소비자 에이전트 수요는 아직 미미하다.",
+      "title": "에이전트, 수요 검증과 비용 통제",
+      "summary_ko": "공급 경쟁 속에 기업과 시장은 비용과 실사용을 따지기 시작했다.",
       "topics": [
         "ai_agents",
-        "ai_industry",
-        "llm_models"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -103,14 +119,23 @@
           "title": "Uber only fulfilled 4 rides from AI agents last quarter"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
+          "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+          "title": ""
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-카카오-내달-광고-ai-에이전트-ai.md",
+          "title": "카카오 \"내달 광고 AI 에이전트 'AI 크루' 베타 시작”"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677780",
           "title": ""
         }
       ]
     },
     {
-      "title": "칩·통신·그룹의 인프라 재편",
-      "summary_ko": "조직과 제품을 재편해 AI 인프라 수요를 직접 겨냥한다.",
+      "title": "칩·전력 밸류체인의 사업 재편",
+      "summary_ko": "AI 수요를 겨냥한 재편이 이어지나 시장의 기대치도 높아졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -122,16 +147,26 @@
           "title": "AMD, AI가 바꾼 사업 지형도…헬리오스로 엔비디아 추격"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-          "title": ""
-        },
-        {
           "date": "2026-11-05",
           "file": "20261105-단독-최태원-회장-sk하이닉스-ai-.md",
           "title": "[단독] 최태원 회장, SK하이닉스 美 AI 컴퍼니 이사회 의장으로"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261104180513",
+          "url": "https://zdnet.co.kr/view/?no=20261105093210",
+          "title": ""
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-arm-매출-27-늘었는데-주가-하락.md",
+          "title": "ARM, 매출 27% 늘었는데 주가 하락…높아진 'AI 눈높이'"
+        },
+        {
+          "date": "2026-11-05",
+          "file": "20261105-bixpo-2026-한전-ai-전력설.md",
+          "title": "[BIXPO 2026] 한전, AI 전력설비 진단기술 LS일렉트릭에 이전…연 370억원 절감 효과"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677787",
           "title": ""
         }
       ]
