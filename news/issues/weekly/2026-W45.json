@@ -1,12 +1,12 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-05T16:15:06.185330+09:00",
-  "run_id": "run_20261105_161506",
-  "summary_ko": "AI 경쟁의 변수가 성장에서 자금과 통제, 정치 위험으로 옮겨간다.",
+  "updated_at": "2026-11-06T08:18:56.253486+09:00",
+  "run_id": "run_20261106_081856",
+  "summary_ko": "선거 충격이 AI 자산을 재평가시키며 비용과 통제가 전략의 중심이 됐다.",
   "issues": [
     {
       "title": "AI 기업 수익성·자금조달 검증",
-      "body_ko": "몸값과 조달 비용, 수익화 격차가 드러나며 회수 능력이 평가 기준이 됐다.",
+      "body_ko": "몸값과 조달 비용 논란이 증시 급락으로 번지며 회수 능력이 평가 잣대가 됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -39,14 +39,20 @@
           "title": "ARM, 매출 27% 늘었는데 주가 하락…높아진 'AI 눈높이'"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217047",
-          "title": ""
+          "date": "2026-11-06",
+          "file": "20261106-ai-meltdown-nvidia-a.md",
+          "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
+          "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
         }
       ]
     },
     {
-      "title": "AI 비용 구조와 예산 전환",
-      "body_ko": "사용량 부담이 과금 개편과 로컬 이전, 구조조정까지 전략을 바꾸고 있다.",
+      "title": "AI 비용 구조와 예산 통제",
+      "body_ko": "사용량 부담이 인당 예산 상한과 인력 재배치로 이어지며 운영 모델이 바뀐다.",
       "topics": [
         "llm_models",
         "ai_agents",
@@ -54,19 +60,9 @@
       ],
       "articles": [
         {
-          "date": "2026-11-02",
-          "file": "20261102-openai-s-upcoming-ch.md",
-          "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing"
-        },
-        {
           "date": "2026-11-03",
           "file": "20261103-오픈ai-12월부터-챗gpt-코덱스-.md",
           "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료"
-        },
-        {
-          "date": "2026-11-03",
-          "file": "20261103-유라클-기업-ai-사용-비용-통합-관.md",
-          "title": "유라클, 기업 AI 사용·비용 통합 관리…'오르다 API 게이트웨이' 출시"
         },
         {
           "date": "2026-11-05",
@@ -75,19 +71,28 @@
         },
         {
           "date": "2026-11-05",
-          "file": "20261105-ai는-지금-경쟁사-ai도-돈-된다-.md",
-          "title": "[AI는 지금] \"경쟁사 AI도 돈 된다\"…코히어, 딥시크·오픈AI 품은 속내는"
-        },
-        {
-          "date": "2026-11-05",
           "file": "20261105-캔바-ai에-밀려-10년-만에-성장세.md",
           "title": "캔바, AI에 밀려 10년 만에 성장세 둔화...대규모 감원 발표"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-애플-직원-ai-사용-예산-최대-3분.md",
+          "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
+          "title": ""
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
+          "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
         }
       ]
     },
     {
       "title": "금융권 AI의 권한·책임 재설계",
-      "body_ko": "망분리 해제로 범위가 넓어지며 감독과 책임, 전사 운영이 함께 쟁점이 됐다.",
+      "body_ko": "망분리 해제 국면에서 AI 확대와 보안 통제를 함께 조직화하는 흐름이 뚜렷하다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -98,11 +103,6 @@
           "date": "2026-11-03",
           "file": "20261103-goldman-sachs-pulls-.md",
           "title": "Goldman Sachs pulls AI coding tools from traders and bankers"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-ai-사이버위협-고도화-망분리-완화-.md",
-          "title": "\"AI 사이버위협 고도화…망분리 완화 뒷받침할 보안통제 필요\""
         },
         {
           "date": "2026-11-05",
@@ -120,31 +120,31 @@
           "title": "금융위, 망분리 규제 전면해제 추진…“AI는 AI로 막는다”"
         },
         {
-          "date": "2026-11-05",
-          "file": "20261105-capgemini-multi-agen.md",
-          "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited"
+          "date": "2026-11-06",
+          "file": "20261106-미래에셋그룹-ai-보안-전진배치-증권.md",
+          "title": "미래에셋그룹, AI·보안 전진배치…증권·운용 중심 조직 재편"
         },
         {
-          "date": "2026-11-05",
-          "file": "20261105-분기마다-1800건-수상한-거래-잡았.md",
-          "title": "“분기마다 1800건 수상한 거래 잡았다”…신한투자증권, 보이스피싱 차단 강화"
+          "date": "2026-11-06",
+          "file": "20261106-금보원-클라우드-사업자-점검-영역-확.md",
+          "title": "금보원, 클라우드 사업자 점검 영역 확대"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-claude-ai-can-plug-d.md",
+          "title": "Claude AI can plug directly into your bank account"
         }
       ]
     },
     {
       "title": "에이전트 통제와 수요 검증",
-      "body_ko": "통제 수단과 인수 경쟁이 커지는 가운데 실제 수요 검증이 함께 시작됐다.",
+      "body_ko": "공급 경쟁이 거세지만 실무 능력과 권한 통제가 도입 속도를 정한다.",
       "topics": [
         "ai_agents",
         "ai_industry",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-11-03",
-          "file": "20261103-skt-1인-1에이전트-속도-낸다-사.md",
-          "title": "SKT, ‘1인 1에이전트’ 속도 낸다...사내 우수 에이전트 5건 선정"
-        },
         {
           "date": "2026-11-04",
           "file": "20261104-crowdstrike-launches.md",
@@ -161,41 +161,30 @@
           "title": "Meta acquires AI coding startup Conductor"
         },
         {
-          "date": "2026-11-05",
-          "file": "20261105-openai-acquires-pier.md",
-          "title": "OpenAI acquires Pierre Computer Company to make Git keep up with AI coding agents"
+          "date": "2026-11-06",
+          "file": "20261106-no-ai-agent-scores-a.md",
+          "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark"
         },
         {
-          "date": "2026-11-05",
-          "file": "20261105-개인정보위-ai-에이전트-피지컬-ai.md",
-          "title": "개인정보위, AI 에이전트·피지컬 AI 개인정보 보호 기술 논의"
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "title": ""
         },
         {
-          "date": "2026-11-05",
-          "file": "20261105-ai가-코드-취약점-찾고-수정안까지-.md",
-          "title": "AI가 코드 취약점 찾고 수정안까지…AWS, 보안 자동화 속도"
+          "date": "2026-11-06",
+          "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
+          "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
         }
       ]
     },
     {
       "title": "인프라의 전력·정치·정책 변수",
-      "body_ko": "선거 충격이 증시로 번지고 수출 통제가 칩 임대까지 막아 불확실성이 커졌다.",
+      "body_ko": "선거 충격과 수출 통제가 겹쳐 신규 공급이 막히고 연산 조달 위험이 커졌다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
-        "physical_ai"
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-02",
-          "file": "20261102-대통령-반도체-피지컬ai-aidc에-.md",
-          "title": "李대통령 \"반도체·피지컬AI·AIDC에 21.3조...올해보다 두배”"
-        },
-        {
-          "date": "2026-11-04",
-          "file": "20261104-brookfield-plans-for.md",
-          "title": "Brookfield plans for a $27 billion AI data center at UK power station"
-        },
         {
           "date": "2026-11-04",
           "file": "20261104-엔비디아-클라우드-고객에-중국-기업-.md",
@@ -208,11 +197,6 @@
         },
         {
           "date": "2026-11-05",
-          "file": "20261105-증시-덮친-블루웨이브-쇼크-데이터센터.md",
-          "title": "증시 덮친 '블루웨이브' 쇼크…데이터센터 규제 우려에 급락"
-        },
-        {
-          "date": "2026-11-05",
           "file": "20261105-속보-블루웨이브-쇼크에-코스피-코스닥.md",
           "title": "[속보] 美블루웨이브 쇼크에 코스피·코스닥, 5%대 급락 마감"
         },
@@ -222,9 +206,23 @@
           "title": "[AI 고속도로] 美·中 양쪽 압박에…오라클-텐센트 9조원대 AI 계약 무산"
         },
         {
-          "date": "2026-11-05",
-          "file": "20261105-단독-국토부-중국산-테슬라-fsd-적.md",
-          "title": "[단독] 국토부 \"중국산 테슬라 FSD 적용 신중\"…특혜 가능성 우려"
+          "date": "2026-11-06",
+          "file": "20261106-ms-엔스케일-데이터센터-추가-계약-.md",
+          "title": "MS, 엔스케일 美 데이터센터 추가 계약 포기"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-openai-pledges-to-ha.md",
+          "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ai데이터센터-급제동-공포-외국인-메.md",
+          "title": "AI데이터센터 급제동 공포 … 외국인, 메모리株 투매 3조 육박"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+          "title": ""
         }
       ]
     }

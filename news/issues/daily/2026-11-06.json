@@ -1,0 +1,150 @@
+{
+  "date": "2026-11-06",
+  "updated_at": "2026-11-06T08:18:56.253486+09:00",
+  "run_id": "run_20261106_081856",
+  "summary_ko": "정치 충격이 AI 자산을 흔들자 기업은 비용과 통제를 조인다.",
+  "issues": [
+    {
+      "title": "선거 충격, AI 인프라 가격 재평가",
+      "summary_ko": "신규 공급이 막히며 연산 자원의 가치와 위험이 동시에 커진다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ai-meltdown-nvidia-a.md",
+          "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ai데이터센터-급제동-공포-외국인-메.md",
+          "title": "AI데이터센터 급제동 공포 … 외국인, 메모리株 투매 3조 육박"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ms-엔스케일-데이터센터-추가-계약-.md",
+          "title": "MS, 엔스케일 美 데이터센터 추가 계약 포기"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-신규-데이터센터-41-중단-위기-머스.md",
+          "title": "美 신규 데이터센터 41% 중단 위기…머스크 가장 큰 타격"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+          "title": ""
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-openai-pledges-to-ha.md",
+          "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-meta-warns-that-elec.md",
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+        }
+      ]
+    },
+    {
+      "title": "AI 예산 상한과 수익화 압박",
+      "summary_ko": "AI 확대의 조건이 사용량에서 비용 대비 효과로 바뀌고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-06",
+          "file": "20261106-애플-직원-ai-사용-예산-최대-3분.md",
+          "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
+          "title": ""
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
+          "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
+          "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202611059502i",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 조직·데이터 접점 재편",
+      "summary_ko": "AI 확대와 보안 통제를 함께 갖춘 곳이 금융 데이터 접점을 쥔다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-06",
+          "file": "20261106-미래에셋그룹-ai-보안-전진배치-증권.md",
+          "title": "미래에셋그룹, AI·보안 전진배치…증권·운용 중심 조직 재편"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-claude-ai-can-plug-d.md",
+          "title": "Claude AI can plug directly into your bank account"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-금보원-클라우드-사업자-점검-영역-확.md",
+          "title": "금보원, 클라우드 사업자 점검 영역 확대"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-kalepa-raises-75m-to.md",
+          "title": "Kalepa raises $75m to expand AI underwriting platform"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
+          "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
+        }
+      ]
+    },
+    {
+      "title": "보안 모델과 모델 신뢰 검증",
+      "summary_ko": "모델 역량이 커질수록 공급 통제와 검증 수단이 함께 요구된다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-06",
+          "file": "20261106-오픈ai-gpt-6-사이버-출시-취약.md",
+          "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217064",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
