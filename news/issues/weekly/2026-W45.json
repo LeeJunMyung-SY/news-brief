@@ -1,8 +1,8 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-06T08:18:56.253486+09:00",
-  "run_id": "run_20261106_081856",
-  "summary_ko": "선거 충격이 AI 자산을 재평가시키며 비용과 통제가 전략의 중심이 됐다.",
+  "updated_at": "2026-11-06T12:14:57.855457+09:00",
+  "run_id": "run_20261106_121457",
+  "summary_ko": "선거 충격이 AI 자산을 재평가시키며 회수 근거와 통제가 전략의 중심이 됐다.",
   "issues": [
     {
       "title": "AI 기업 수익성·자금조달 검증",
@@ -47,6 +47,11 @@
           "date": "2026-11-06",
           "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
           "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+          "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
         }
       ]
     },
@@ -80,10 +85,6 @@
           "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
-          "title": ""
-        },
-        {
           "date": "2026-11-06",
           "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
           "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
@@ -91,8 +92,8 @@
       ]
     },
     {
-      "title": "금융권 AI의 권한·책임 재설계",
-      "body_ko": "망분리 해제 국면에서 AI 확대와 보안 통제를 함께 조직화하는 흐름이 뚜렷하다.",
+      "title": "금융권 AI의 권한·결제 재설계",
+      "body_ko": "규제 완화 국면에서 통제 체계와 에이전트 결제 주도권 확보가 함께 진행된다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -133,6 +134,16 @@
           "date": "2026-11-06",
           "file": "20261106-claude-ai-can-plug-d.md",
           "title": "Claude AI can plug directly into your bank account"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-jp-morgan-payments-a.md",
+          "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+          "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진"
         }
       ]
     },
@@ -166,19 +177,20 @@
           "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-          "title": ""
-        },
-        {
           "date": "2026-11-06",
           "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
           "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-airbnb-is-working-on.md",
+          "title": "Airbnb is working on an AI travel agent"
         }
       ]
     },
     {
       "title": "인프라의 전력·정치·정책 변수",
-      "body_ko": "선거 충격과 수출 통제가 겹쳐 신규 공급이 막히고 연산 조달 위험이 커졌다.",
+      "body_ko": "선거 충격과 수출 통제가 겹쳐 신규 공급이 막히고 자가 발전형 투자가 대안이 됐다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -221,8 +233,9 @@
           "title": "AI데이터센터 급제동 공포 … 외국인, 메모리株 투매 3조 육박"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
-          "title": ""
+          "date": "2026-11-06",
+          "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+          "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
         }
       ]
     }

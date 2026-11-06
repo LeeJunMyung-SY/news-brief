@@ -1,12 +1,12 @@
 {
   "date": "2026-11-06",
-  "updated_at": "2026-11-06T08:18:56.253486+09:00",
-  "run_id": "run_20261106_081856",
-  "summary_ko": "정치 충격이 AI 자산을 흔들자 기업은 비용과 통제를 조인다.",
+  "updated_at": "2026-11-06T12:14:57.855457+09:00",
+  "run_id": "run_20261106_121457",
+  "summary_ko": "선거 충격이 국내 증시까지 흔들자 AI 투자는 회수와 통제를 묻는다.",
   "issues": [
     {
-      "title": "선거 충격, AI 인프라 가격 재평가",
-      "summary_ko": "신규 공급이 막히며 연산 자원의 가치와 위험이 동시에 커진다.",
+      "title": "선거 충격, AI 인프라 재평가",
+      "summary_ko": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -34,10 +34,6 @@
           "title": "美 신규 데이터센터 41% 중단 위기…머스크 가장 큰 타격"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-          "title": ""
-        },
-        {
           "date": "2026-11-06",
           "file": "20261106-openai-pledges-to-ha.md",
           "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke"
@@ -46,6 +42,16 @@
           "date": "2026-11-06",
           "file": "20261106-meta-warns-that-elec.md",
           "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+          "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+          "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
         }
       ]
     },
@@ -64,10 +70,6 @@
           "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
-          "title": ""
-        },
-        {
           "date": "2026-11-06",
           "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
           "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
@@ -76,16 +78,12 @@
           "date": "2026-11-06",
           "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
           "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
-        },
-        {
-          "url": "https://www.hankyung.com/article/202611059502i",
-          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AI, 조직·데이터 접점 재편",
-      "summary_ko": "AI 확대와 보안 통제를 함께 갖춘 곳이 금융 데이터 접점을 쥔다.",
+      "title": "금융 AI, 데이터·결제 접점 재편",
+      "summary_ko": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -109,19 +107,29 @@
         },
         {
           "date": "2026-11-06",
-          "file": "20261106-kalepa-raises-75m-to.md",
-          "title": "Kalepa raises $75m to expand AI underwriting platform"
+          "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
+          "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
         },
         {
           "date": "2026-11-06",
-          "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
-          "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
+          "file": "20261106-jp-morgan-payments-a.md",
+          "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+          "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진"
+        },
+        {
+          "date": "2026-11-06",
+          "file": "20261106-india-s-npci-creates.md",
+          "title": "India's NPCI creates tech and innovation unit"
         }
       ]
     },
     {
-      "title": "보안 모델과 모델 신뢰 검증",
-      "summary_ko": "모델 역량이 커질수록 공급 통제와 검증 수단이 함께 요구된다.",
+      "title": "모델 개발 가속과 신뢰 검증",
+      "summary_ko": "모델 진화가 빨라질수록 검증과 공급 통제의 주기도 짧아진다.",
       "topics": [
         "llm_models",
         "ai_policy"
@@ -133,16 +141,9 @@
           "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
-          "title": ""
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217064",
-          "title": ""
+          "date": "2026-11-06",
+          "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
+          "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성"
         }
       ]
     }

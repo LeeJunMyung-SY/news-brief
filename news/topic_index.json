@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-05T23:19:06+00:00",
+  "generated_at": "2026-11-06T03:15:08+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1228,
+      "count": 1231,
       "latest_date": "2026-11-06"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1588,
+      "count": 1591,
       "latest_date": "2026-11-06"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1593,
+      "count": 1596,
       "latest_date": "2026-11-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3701,
+      "count": 3707,
       "latest_date": "2026-11-06"
     },
     {
@@ -40,21 +40,21 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1192,
+      "count": 1194,
       "latest_date": "2026-11-06"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1014,
+      "count": 1017,
       "latest_date": "2026-11-06"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 618,
+      "count": 619,
       "latest_date": "2026-11-06"
     },
     {
@@ -127,6 +127,21 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-jp-morgan-payments-a.md",
+        "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly",
+        "importance": 7,
+        "tags": [
+          "#agentic-commerce",
+          "#investment",
+          "#payments",
+          "#banking",
+          "#partnership"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48712/jp-morgan-payments-and-mastercard-invest-in-agentic-commerce-startup-firmly?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-애플-직원-ai-사용-예산-최대-3분.md",
         "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화",
         "importance": 7,
@@ -167,6 +182,35 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=677854"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-airbnb-is-working-on.md",
+        "title": "Airbnb is working on an AI travel agent",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#enterprise-ai",
+          "#travel",
+          "#monetization"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+        "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진",
+        "importance": 6,
+        "tags": [
+          "#agentic-payment",
+          "#partnership",
+          "#mcp",
+          "#stablecoin",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106105308"
       },
       {
         "date": "2026-11-06",
@@ -23211,6 +23255,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
+        "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성",
+        "importance": 6,
+        "tags": [
+          "#ai-safety",
+          "#anthropic",
+          "#ai-rnd-acceleration",
+          "#evaluation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106103632"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-anthropic-reverses-c.md",
         "title": "Anthropic reverses course and pays for news content for the first time",
         "importance": 6,
@@ -23249,6 +23307,34 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-sk바이오팜-신약개발-ai-모델-실증.md",
+        "title": "SK바이오팜, 신약개발 AI 모델 실증 완료…714만건 학습데이터 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#domain-model",
+          "#pharma",
+          "#public-project"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261106000153"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-루닛-의료-특화-파운데이션-모델-러닝.md",
+        "title": "루닛, 의료 특화 파운데이션 모델 '러닝유닛 2.0' 공개…9개 병원서 진료·행정 실증",
+        "importance": 6,
+        "tags": [
+          "#domain-model",
+          "#healthcare-ai",
+          "#ai-adoption",
+          "#model-release"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202611069853i"
       },
       {
         "date": "2026-11-05",
@@ -40896,6 +40982,21 @@
     "ai_policy": [
       {
         "date": "2026-11-06",
+        "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+        "title": "[AI 고속도로] '규제 강화에도 투자 강행'…구글, 美 데이터센터에 170억 달러 베팅",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#fuel-cell",
+          "#google",
+          "#power"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106083443"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-openai-pledges-to-ha.md",
         "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke",
         "importance": 7,
@@ -40907,6 +41008,34 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+        "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파",
+        "importance": 6,
+        "tags": [
+          "#market-crash",
+          "#midterms",
+          "#semiconductor",
+          "#data-center"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261106084500008"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
+        "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성",
+        "importance": 6,
+        "tags": [
+          "#ai-safety",
+          "#anthropic",
+          "#ai-rnd-acceleration",
+          "#evaluation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106103632"
       },
       {
         "date": "2026-11-06",
@@ -63952,6 +64081,21 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+        "title": "[AI 고속도로] '규제 강화에도 투자 강행'…구글, 美 데이터센터에 170억 달러 베팅",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#fuel-cell",
+          "#google",
+          "#power"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106083443"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-claude-ai-can-plug-d.md",
         "title": "Claude AI can plug directly into your bank account",
         "importance": 7,
@@ -63964,6 +64108,21 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-jp-morgan-payments-a.md",
+        "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly",
+        "importance": 7,
+        "tags": [
+          "#agentic-commerce",
+          "#investment",
+          "#payments",
+          "#banking",
+          "#partnership"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48712/jp-morgan-payments-and-mastercard-invest-in-agentic-commerce-startup-firmly?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
         "date": "2026-11-06",
@@ -64053,6 +64212,34 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+        "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파",
+        "importance": 6,
+        "tags": [
+          "#market-crash",
+          "#midterms",
+          "#semiconductor",
+          "#data-center"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261106084500008"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-airbnb-is-working-on.md",
+        "title": "Airbnb is working on an AI travel agent",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#enterprise-ai",
+          "#travel",
+          "#monetization"
+        ],
+        "source": "The Verge AI",
+        "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-ai데이터센터-급제동-공포-외국인-메.md",
         "title": "AI데이터센터 급제동 공포 … 외국인, 메모리株 투매 3조 육박",
         "importance": 6,
@@ -64109,6 +64296,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-sk바이오팜-신약개발-ai-모델-실증.md",
+        "title": "SK바이오팜, 신약개발 AI 모델 실증 완료…714만건 학습데이터 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#domain-model",
+          "#pharma",
+          "#public-project"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261106000153"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
         "title": "김지훈 SKT 본부장 '사람 대신 결제하는 AI 에이전트…권한 통제가 중요'",
         "importance": 6,
@@ -64121,6 +64322,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261105190832"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-루닛-의료-특화-파운데이션-모델-러닝.md",
+        "title": "루닛, 의료 특화 파운데이션 모델 '러닝유닛 2.0' 공개…9개 병원서 진료·행정 실증",
+        "importance": 6,
+        "tags": [
+          "#domain-model",
+          "#healthcare-ai",
+          "#ai-adoption",
+          "#model-release"
+        ],
+        "source": "한국경제 IT",
+        "url": "https://www.hankyung.com/article/202611069853i"
       },
       {
         "date": "2026-11-06",
@@ -125644,6 +125859,21 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+        "title": "[AI 고속도로] '규제 강화에도 투자 강행'…구글, 美 데이터센터에 170억 달러 베팅",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#investment",
+          "#fuel-cell",
+          "#google",
+          "#power"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106083443"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-ms-엔스케일-데이터센터-추가-계약-.md",
         "title": "MS, 엔스케일 美 데이터센터 추가 계약 포기",
         "importance": 7,
@@ -125670,6 +125900,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+        "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파",
+        "importance": 6,
+        "tags": [
+          "#market-crash",
+          "#midterms",
+          "#semiconductor",
+          "#data-center"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261106084500008"
       },
       {
         "date": "2026-11-06",
@@ -142853,6 +143097,50 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-jp-morgan-payments-a.md",
+        "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly",
+        "importance": 7,
+        "tags": [
+          "#agentic-commerce",
+          "#investment",
+          "#payments",
+          "#banking",
+          "#partnership"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48712/jp-morgan-payments-and-mastercard-invest-in-agentic-commerce-startup-firmly?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+        "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진",
+        "importance": 6,
+        "tags": [
+          "#agentic-payment",
+          "#partnership",
+          "#mcp",
+          "#stablecoin",
+          "#finance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106105308"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-india-s-npci-creates.md",
+        "title": "India's NPCI creates tech and innovation unit",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#payments",
+          "#finance",
+          "#india"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48711/indias-npci-creates-tech-and-innovation-unit?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-kalepa-raises-75m-to.md",
         "title": "Kalepa raises $75m to expand AI underwriting platform",
         "importance": 6,
@@ -157744,6 +158032,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-기아-광주에-pbv-기반-자율주행-생.md",
+        "title": "기아, 광주에 PBV 기반 자율주행 생태계 조성…3조원 투입",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#investment",
+          "#pbv",
+          "#partnership"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261106000152"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-자동차-다음은-로봇-현대차-토요타-미.md",
         "title": "자동차 다음은 로봇…현대차·토요타, 미래 먹거리 경쟁",
         "importance": 6,
@@ -167891,8 +168193,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-06",
-        "title": "선거 충격, AI 인프라 가격 재평가",
-        "summary": "신규 공급이 막히며 연산 자원의 가치와 위험이 동시에 커진다.",
+        "title": "선거 충격, AI 인프라 재평가",
+        "summary": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -167915,10 +168217,6 @@
             "title": "美 신규 데이터센터 41% 중단 위기…머스크 가장 큰 타격"
           },
           {
-            "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-            "title": ""
-          },
-          {
             "date": "2026-11-06",
             "file": "20261106-openai-pledges-to-ha.md",
             "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke"
@@ -167927,6 +168225,16 @@
             "date": "2026-11-06",
             "file": "20261106-meta-warns-that-elec.md",
             "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+            "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
           }
         ]
       },
@@ -171976,8 +172284,8 @@
     "ai_policy": [
       {
         "date": "2026-11-06",
-        "title": "선거 충격, AI 인프라 가격 재평가",
-        "summary": "신규 공급이 막히며 연산 자원의 가치와 위험이 동시에 커진다.",
+        "title": "선거 충격, AI 인프라 재평가",
+        "summary": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -172000,10 +172308,6 @@
             "title": "美 신규 데이터센터 41% 중단 위기…머스크 가장 큰 타격"
           },
           {
-            "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-            "title": ""
-          },
-          {
             "date": "2026-11-06",
             "file": "20261106-openai-pledges-to-ha.md",
             "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke"
@@ -172012,13 +172316,23 @@
             "date": "2026-11-06",
             "file": "20261106-meta-warns-that-elec.md",
             "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+            "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "금융 AI, 조직·데이터 접점 재편",
-        "summary": "AI 확대와 보안 통제를 함께 갖춘 곳이 금융 데이터 접점을 쥔다.",
+        "title": "금융 AI, 데이터·결제 접점 재편",
+        "summary": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -172037,20 +172351,30 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-kalepa-raises-75m-to.md",
-            "title": "Kalepa raises $75m to expand AI underwriting platform"
+            "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
+            "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
-            "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
+            "file": "20261106-jp-morgan-payments-a.md",
+            "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+            "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-india-s-npci-creates.md",
+            "title": "India's NPCI creates tech and innovation unit"
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "보안 모델과 모델 신뢰 검증",
-        "summary": "모델 역량이 커질수록 공급 통제와 검증 수단이 함께 요구된다.",
+        "title": "모델 개발 가속과 신뢰 검증",
+        "summary": "모델 진화가 빨라질수록 검증과 공급 통제의 주기도 짧아진다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -172058,16 +172382,9 @@
             "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-            "title": ""
-          },
-          {
-            "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217064",
-            "title": ""
+            "date": "2026-11-06",
+            "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
+            "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성"
           }
         ]
       },
@@ -177641,8 +177958,8 @@
     "ai_industry": [
       {
         "date": "2026-11-06",
-        "title": "선거 충격, AI 인프라 가격 재평가",
-        "summary": "신규 공급이 막히며 연산 자원의 가치와 위험이 동시에 커진다.",
+        "title": "선거 충격, AI 인프라 재평가",
+        "summary": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -177665,10 +177982,6 @@
             "title": "美 신규 데이터센터 41% 중단 위기…머스크 가장 큰 타격"
           },
           {
-            "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
-            "title": ""
-          },
-          {
             "date": "2026-11-06",
             "file": "20261106-openai-pledges-to-ha.md",
             "title": "OpenAI pledges to halt NDAs in new data center policy proposal after election rebuke"
@@ -177677,6 +177990,16 @@
             "date": "2026-11-06",
             "file": "20261106-meta-warns-that-elec.md",
             "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
+            "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
           }
         ]
       },
@@ -177691,10 +178014,6 @@
             "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
-            "title": ""
-          },
-          {
             "date": "2026-11-06",
             "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
             "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
@@ -177703,10 +178022,6 @@
             "date": "2026-11-06",
             "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
             "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
-          },
-          {
-            "url": "https://www.hankyung.com/article/202611059502i",
-            "title": ""
           }
         ]
       },
@@ -185566,10 +185881,6 @@
             "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
-            "title": ""
-          },
-          {
             "date": "2026-11-06",
             "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
             "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
@@ -185578,17 +185889,13 @@
             "date": "2026-11-06",
             "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
             "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
-          },
-          {
-            "url": "https://www.hankyung.com/article/202611059502i",
-            "title": ""
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "금융 AI, 조직·데이터 접점 재편",
-        "summary": "AI 확대와 보안 통제를 함께 갖춘 곳이 금융 데이터 접점을 쥔다.",
+        "title": "금융 AI, 데이터·결제 접점 재편",
+        "summary": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -185607,13 +185914,23 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-kalepa-raises-75m-to.md",
-            "title": "Kalepa raises $75m to expand AI underwriting platform"
+            "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
+            "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
-            "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
+            "file": "20261106-jp-morgan-payments-a.md",
+            "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+            "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-india-s-npci-creates.md",
+            "title": "India's NPCI creates tech and innovation unit"
           }
         ]
       },
@@ -191123,10 +191440,6 @@
             "title": "애플, 직원 AI 사용 예산 최대 3분의 2 삭감 추진...비용 관리 강화"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217061",
-            "title": ""
-          },
-          {
             "date": "2026-11-06",
             "file": "20261106-카카오의-2028-ai-흑자-로드맵-.md",
             "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
@@ -191135,17 +191448,13 @@
             "date": "2026-11-06",
             "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
             "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
-          },
-          {
-            "url": "https://www.hankyung.com/article/202611059502i",
-            "title": ""
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "보안 모델과 모델 신뢰 검증",
-        "summary": "모델 역량이 커질수록 공급 통제와 검증 수단이 함께 요구된다.",
+        "title": "모델 개발 가속과 신뢰 검증",
+        "summary": "모델 진화가 빨라질수록 검증과 공급 통제의 주기도 짧아진다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -191153,16 +191462,9 @@
             "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
           },
           {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-            "title": ""
-          },
-          {
-            "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217064",
-            "title": ""
+            "date": "2026-11-06",
+            "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
+            "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성"
           }
         ]
       },
@@ -194396,8 +194698,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-06",
-        "title": "금융 AI, 조직·데이터 접점 재편",
-        "summary": "AI 확대와 보안 통제를 함께 갖춘 곳이 금융 데이터 접점을 쥔다.",
+        "title": "금융 AI, 데이터·결제 접점 재편",
+        "summary": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -194416,13 +194718,23 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-kalepa-raises-75m-to.md",
-            "title": "Kalepa raises $75m to expand AI underwriting platform"
+            "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
+            "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-김지훈-skt-본부장-사람-대신-결제.md",
-            "title": "김지훈 SKT 본부장 \"사람 대신 결제하는 AI 에이전트…권한 통제가 중요\""
+            "file": "20261106-jp-morgan-payments-a.md",
+            "title": "JP Morgan Payments and Mastercard invest in agentic commerce startup firmly"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
+            "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-india-s-npci-creates.md",
+            "title": "India's NPCI creates tech and innovation unit"
           }
         ]
       },
