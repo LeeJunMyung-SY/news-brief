@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-07",
+  "updated_at": "2026-11-07T08:18:57.324042+09:00",
+  "run_id": "run_20261107_081857",
+  "summary_ko": "AI 지출이 정체하자 자금·인프라 경로가 재편되고 금융권은 통제된 도입을 넓혔다.",
+  "issues": [
+    {
+      "title": "AI 지출 정체와 자금시장 선별",
+      "summary_ko": "사용량 성장만으로는 AI 기업 가치를 정당화하기 어려워졌다.",
+      "topics": [
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-07",
+          "file": "20261107-ramp-data-shows-ai-s.md",
+          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-investors-brace-for-.md",
+          "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-openai-reportedly-ra.md",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 확보 경로의 재편",
+      "summary_ko": "신규 부지 대신 기존 시설과 소수 핵심 파트너로 수요가 모인다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-07",
+          "file": "20261107-엔비디아-미국-노후-전화국-130곳-.md",
+          "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-microsoft-plans-to-u.md",
+          "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-openai-will-keep-inv.md",
+          "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-엔비디아-네이버에-1-3조원-납입-a.md",
+          "title": "엔비디아, 네이버에 1.3조원 납입…‘AI 팩토리’ 물살"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-ai-속도조절론-틈새-파고든-배경훈-.md",
+          "title": "美 'AI 속도조절론' 틈새 파고든 배경훈…'9.4조 베팅'의 노림수"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-다카이치-etf-매각-이익으로-반도체.md",
+          "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261106194204",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융권, 통제된 프런티어 AI 도입",
+      "summary_ko": "허용 범위보다 계약·보안 조건 설계가 도입 속도를 가른다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-07",
+          "file": "20261107-jpmorgan-chase-signs.md",
+          "title": "JPMorgan Chase signs cybersecurity and coding deal with OpenAI"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-bmo-launches-ai-agen.md",
+          "title": "BMO launches AI agent to help credit card customers get answers"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-chainalysis-says-hac.md",
+          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-미래에셋운용-자본의-궤적-스톡스팟-주.md",
+          "title": "[미래에셋운용 자본의 궤적]⑤ 스톡스팟 주식·CB, 미국에 모은 이유는"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "모델 신뢰성 검증과 오픈웨이트 대안",
+      "summary_ko": "검증 부담이 커지는 만큼 자체 구축 선택지도 넓어진다.",
+      "topics": [
+        "llm_models",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-07",
+          "file": "20261107-11월6일-ai에-ai-안전-맡겼더니.md",
+          "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-metr-finds-anthropic.md",
+          "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-thinking-machines-in.md",
+          "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
+          "title": ""
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-perplexity-now-has-i.md",
+          "title": "Perplexity now has its own always-on AI agent"
+        }
+      ]
+    }
+  ]
+}
