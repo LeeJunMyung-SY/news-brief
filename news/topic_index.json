@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T03:15:08+00:00",
+  "generated_at": "2026-11-06T07:13:42+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,49 +12,49 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1591,
+      "count": 1592,
       "latest_date": "2026-11-06"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1596,
+      "count": 1599,
       "latest_date": "2026-11-06"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3707,
+      "count": 3714,
       "latest_date": "2026-11-06"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 560,
+      "count": 562,
       "latest_date": "2026-11-06"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1194,
+      "count": 1197,
       "latest_date": "2026-11-06"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1017,
+      "count": 1018,
       "latest_date": "2026-11-06"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 619,
+      "count": 621,
       "latest_date": "2026-11-06"
     },
     {
@@ -139,6 +139,20 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48712/jp-morgan-payments-and-mastercard-invest-in-agentic-commerce-startup-firmly?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-palo-alto-networks-i.md",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#agent-security",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
       },
       {
         "date": "2026-11-06",
@@ -41011,6 +41025,35 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-기본법-우선-등-ai-입법-프레임워크.md",
+        "title": "기본법 우선 등 'AI 입법 프레임워크' 나왔다…국가AI전략위, 7개 TF 신설",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#korea",
+          "#ai-basic-act",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261106000224"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+        "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#data-sovereignty",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217094"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
         "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파",
         "importance": 6,
@@ -41092,6 +41135,20 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026110590961"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-중국-엔비디아-h200-수입-제한-6.md",
+        "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+        "importance": 6,
+        "tags": [
+          "#export-control",
+          "#gpu",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217106"
       },
       {
         "date": "2026-11-05",
@@ -64155,6 +64212,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-palo-alto-networks-i.md",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#agent-security",
+          "#enterprise-ai",
+          "#cybersecurity"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
         "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”",
         "importance": 7,
@@ -64195,6 +64266,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217074"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+        "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#data-sovereignty",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217094"
       },
       {
         "date": "2026-11-06",
@@ -64325,6 +64411,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-단독-두-회사-이끄는-박경희-ax-추.md",
+        "title": "[단독] 두 회사 이끄는 박경희, AX 추진단장 영입…티맥스소프트·티베로 AI 혁신 승부수",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#ax",
+          "#enterprise-ai",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261106114245"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-루닛-의료-특화-파운데이션-모델-러닝.md",
         "title": "루닛, 의료 특화 파운데이션 모델 '러닝유닛 2.0' 공개…9개 병원서 진료·행정 실증",
         "importance": 6,
@@ -64336,6 +64436,20 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/202611069853i"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-속보-검은-금요일-코스피-6-급락-장.md",
+        "title": "[속보] ‘검은 금요일’ 코스피, 6% 급락…장중 ‘5천피’ 무너졌다 간신히 사수",
+        "importance": 6,
+        "tags": [
+          "#market",
+          "#kospi",
+          "#circuit-breaker",
+          "#midterms"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12200494"
       },
       {
         "date": "2026-11-06",
@@ -64353,6 +64467,33 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-애질리티-미국-휴머노이드-기업-최초-.md",
+        "title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#ipo",
+          "#spac",
+          "#physical-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217098"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-오라클-225조원-규모-ai-데이터센.md",
+        "title": "오라클, 225조원 규모 美 AI 데이터센터 구축 지연 우려에 7% 급락",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#oracle",
+          "#project-delay"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202611060696i"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-자동차-다음은-로봇-현대차-토요타-미.md",
         "title": "자동차 다음은 로봇…현대차·토요타, 미래 먹거리 경쟁",
         "importance": 6,
@@ -64364,6 +64505,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261105181101"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-중국-엔비디아-h200-수입-제한-6.md",
+        "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+        "importance": 6,
+        "tags": [
+          "#export-control",
+          "#gpu",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217106"
       },
       {
         "date": "2026-11-06",
@@ -117749,6 +117904,35 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+        "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#data-sovereignty",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217094"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-애질리티-미국-휴머노이드-기업-최초-.md",
+        "title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#ipo",
+          "#spac",
+          "#physical-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217098"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-자동차-다음은-로봇-현대차-토요타-미.md",
         "title": "자동차 다음은 로봇…현대차·토요타, 미래 먹거리 경쟁",
         "importance": 6,
@@ -125945,6 +126129,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-속보-검은-금요일-코스피-6-급락-장.md",
+        "title": "[속보] ‘검은 금요일’ 코스피, 6% 급락…장중 ‘5천피’ 무너졌다 간신히 사수",
+        "importance": 6,
+        "tags": [
+          "#market",
+          "#kospi",
+          "#circuit-breaker",
+          "#midterms"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12200494"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-신규-데이터센터-41-중단-위기-머스.md",
         "title": "美 신규 데이터센터 41% 중단 위기…머스크 가장 큰 타격",
         "importance": 6,
@@ -125956,6 +126154,33 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026110590961"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-오라클-225조원-규모-ai-데이터센.md",
+        "title": "오라클, 225조원 규모 美 AI 데이터센터 구축 지연 우려에 7% 급락",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#oracle",
+          "#project-delay"
+        ],
+        "source": "한국경제 금융",
+        "url": "https://www.hankyung.com/article/202611060696i"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-중국-엔비디아-h200-수입-제한-6.md",
+        "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+        "importance": 6,
+        "tags": [
+          "#export-control",
+          "#gpu",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217106"
       },
       {
         "date": "2026-11-05",
@@ -143112,6 +143337,20 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-손보사-가짜-흠집-잡는다-생성형ai-.md",
+        "title": "日손보사 '가짜 車흠집 잡는다'…'생성형AI' 보험사기 대응 강화",
+        "importance": 7,
+        "tags": [
+          "#insurance",
+          "#fraud-detection",
+          "#deepfake",
+          "#japan"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261106113900009"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-dsrv-쿠콘과-ai-에이전트-결제-.md",
         "title": "DSRV, 쿠콘과 AI 에이전트 결제 사업 추진",
         "importance": 6,
@@ -158032,6 +158271,21 @@
       },
       {
         "date": "2026-11-06",
+        "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+        "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#robotics",
+          "#data-sovereignty",
+          "#china",
+          "#geopolitics"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217094"
+      },
+      {
+        "date": "2026-11-06",
         "file": "20261106-기아-광주에-pbv-기반-자율주행-생.md",
         "title": "기아, 광주에 PBV 기반 자율주행 생태계 조성…3조원 투입",
         "importance": 6,
@@ -158043,6 +158297,20 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261106000152"
+      },
+      {
+        "date": "2026-11-06",
+        "file": "20261106-애질리티-미국-휴머노이드-기업-최초-.md",
+        "title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#ipo",
+          "#spac",
+          "#physical-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217098"
       },
       {
         "date": "2026-11-06",
@@ -168193,8 +168461,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-06",
-        "title": "선거 충격, AI 인프라 재평가",
-        "summary": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
+        "title": "정치·지정학 충격, AI 자산 재평가",
+        "summary": "규제와 양방향 통제가 인프라 일정과 거래를 함께 묶는다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -168228,13 +168496,28 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
-            "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
-            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
+            "file": "20261106-속보-검은-금요일-코스피-6-급락-장.md",
+            "title": "[속보] ‘검은 금요일’ 코스피, 6% 급락…장중 ‘5천피’ 무너졌다 간신히 사수"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-오라클-225조원-규모-ai-데이터센.md",
+            "title": "오라클, 225조원 규모 美 AI 데이터센터 구축 지연 우려에 7% 급락"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-중국-엔비디아-h200-수입-제한-6.md",
+            "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+            "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계"
           }
         ]
       },
@@ -172284,8 +172567,8 @@
     "ai_policy": [
       {
         "date": "2026-11-06",
-        "title": "선거 충격, AI 인프라 재평가",
-        "summary": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
+        "title": "정치·지정학 충격, AI 자산 재평가",
+        "summary": "규제와 양방향 통제가 인프라 일정과 거래를 함께 묶는다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -172319,20 +172602,35 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
-            "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
-            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
+            "file": "20261106-속보-검은-금요일-코스피-6-급락-장.md",
+            "title": "[속보] ‘검은 금요일’ 코스피, 6% 급락…장중 ‘5천피’ 무너졌다 간신히 사수"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-오라클-225조원-규모-ai-데이터센.md",
+            "title": "오라클, 225조원 규모 美 AI 데이터센터 구축 지연 우려에 7% 급락"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-중국-엔비디아-h200-수입-제한-6.md",
+            "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+            "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계"
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "금융 AI, 데이터·결제 접점 재편",
-        "summary": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
+        "title": "금융 AI, 결제 접점과 사기 대응",
+        "summary": "AI가 결제를 맡는 만큼 위변조 방어도 금융사의 몫이 된다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -172366,15 +172664,15 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-india-s-npci-creates.md",
-            "title": "India's NPCI creates tech and innovation unit"
+            "file": "20261106-손보사-가짜-흠집-잡는다-생성형ai-.md",
+            "title": "日손보사 \"가짜 車흠집 잡는다\"…'생성형AI' 보험사기 대응 강화"
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "모델 개발 가속과 신뢰 검증",
-        "summary": "모델 진화가 빨라질수록 검증과 공급 통제의 주기도 짧아진다.",
+        "title": "AI 통제 역량의 몸값 상승",
+        "summary": "모델 진화가 빨라질수록 에이전트 보안이 인수 대상이 된다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -172385,6 +172683,11 @@
             "date": "2026-11-06",
             "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
             "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-palo-alto-networks-i.md",
+            "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
           }
         ]
       },
@@ -177958,8 +178261,8 @@
     "ai_industry": [
       {
         "date": "2026-11-06",
-        "title": "선거 충격, AI 인프라 재평가",
-        "summary": "공급 제약이 자산 가격과 자가 발전 투자로 동시에 번진다.",
+        "title": "정치·지정학 충격, AI 자산 재평가",
+        "summary": "규제와 양방향 통제가 인프라 일정과 거래를 함께 묶는다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -177993,13 +178296,28 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-ai-반도체-호황-벌써-끝-블루웨이브.md",
-            "title": "AI·반도체 호황 벌써 끝?…美 '블루웨이브 쇼크' 일파만파"
+            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
+            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-ai-고속도로-규제-강화에도-투자-강.md",
-            "title": "[AI 고속도로] \"규제 강화에도 투자 강행\"…구글, 美 데이터센터에 170억 달러 베팅"
+            "file": "20261106-속보-검은-금요일-코스피-6-급락-장.md",
+            "title": "[속보] ‘검은 금요일’ 코스피, 6% 급락…장중 ‘5천피’ 무너졌다 간신히 사수"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-오라클-225조원-규모-ai-데이터센.md",
+            "title": "오라클, 225조원 규모 美 AI 데이터센터 구축 지연 우려에 7% 급락"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-중국-엔비디아-h200-수입-제한-6.md",
+            "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-중국-소프트뱅크의-abb-로봇-인수-.md",
+            "title": "중국, 소프트뱅크의 ABB 로봇 인수 불허...오픈AI 연계 데이터 유출 경계"
           }
         ]
       },
@@ -178022,6 +178340,15 @@
             "date": "2026-11-06",
             "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
             "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12200442",
+            "title": ""
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-단독-두-회사-이끄는-박경희-ax-추.md",
+            "title": "[단독] 두 회사 이끄는 박경희, AX 추진단장 영입…티맥스소프트·티베로 AI 혁신 승부수"
           }
         ]
       },
@@ -185889,13 +186216,22 @@
             "date": "2026-11-06",
             "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
             "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12200442",
+            "title": ""
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-단독-두-회사-이끄는-박경희-ax-추.md",
+            "title": "[단독] 두 회사 이끄는 박경희, AX 추진단장 영입…티맥스소프트·티베로 AI 혁신 승부수"
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "금융 AI, 데이터·결제 접점 재편",
-        "summary": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
+        "title": "금융 AI, 결제 접점과 사기 대응",
+        "summary": "AI가 결제를 맡는 만큼 위변조 방어도 금융사의 몫이 된다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -185929,8 +186265,30 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-india-s-npci-creates.md",
-            "title": "India's NPCI creates tech and innovation unit"
+            "file": "20261106-손보사-가짜-흠집-잡는다-생성형ai-.md",
+            "title": "日손보사 \"가짜 車흠집 잡는다\"…'생성형AI' 보험사기 대응 강화"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-06",
+        "title": "AI 통제 역량의 몸값 상승",
+        "summary": "모델 진화가 빨라질수록 에이전트 보안이 인수 대상이 된다.",
+        "articles": [
+          {
+            "date": "2026-11-06",
+            "file": "20261106-오픈ai-gpt-6-사이버-출시-취약.md",
+            "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
+            "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-palo-alto-networks-i.md",
+            "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
           }
         ]
       },
@@ -191448,13 +191806,22 @@
             "date": "2026-11-06",
             "file": "20261106-브록먼-상반기-코딩-시장서-고전-gp.md",
             "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12200442",
+            "title": ""
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-단독-두-회사-이끄는-박경희-ax-추.md",
+            "title": "[단독] 두 회사 이끄는 박경희, AX 추진단장 영입…티맥스소프트·티베로 AI 혁신 승부수"
           }
         ]
       },
       {
         "date": "2026-11-06",
-        "title": "모델 개발 가속과 신뢰 검증",
-        "summary": "모델 진화가 빨라질수록 검증과 공급 통제의 주기도 짧아진다.",
+        "title": "AI 통제 역량의 몸값 상승",
+        "summary": "모델 진화가 빨라질수록 에이전트 보안이 인수 대상이 된다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -191465,6 +191832,11 @@
             "date": "2026-11-06",
             "file": "20261106-ai가-더-강한-ai-개발-돕는다-앤.md",
             "title": "AI가 더 강한 AI 개발 돕는다…앤트로픽, 2년 치 성능 개선 1년 만에 달성"
+          },
+          {
+            "date": "2026-11-06",
+            "file": "20261106-palo-alto-networks-i.md",
+            "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
           }
         ]
       },
@@ -194698,8 +195070,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-06",
-        "title": "금융 AI, 데이터·결제 접점 재편",
-        "summary": "에이전트 구매 흐름의 결제 계층을 누가 쥘지가 쟁점이 됐다.",
+        "title": "금융 AI, 결제 접점과 사기 대응",
+        "summary": "AI가 결제를 맡는 만큼 위변조 방어도 금융사의 몫이 된다.",
         "articles": [
           {
             "date": "2026-11-06",
@@ -194733,8 +195105,8 @@
           },
           {
             "date": "2026-11-06",
-            "file": "20261106-india-s-npci-creates.md",
-            "title": "India's NPCI creates tech and innovation unit"
+            "file": "20261106-손보사-가짜-흠집-잡는다-생성형ai-.md",
+            "title": "日손보사 \"가짜 車흠집 잡는다\"…'생성형AI' 보험사기 대응 강화"
           }
         ]
       },
