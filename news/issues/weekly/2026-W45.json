@@ -1,12 +1,12 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-07T16:10:39.730813+09:00",
-  "run_id": "run_20261107_161039",
-  "summary_ko": "선거·지정학 충격 속 AI 지출이 정체하며 회수 근거와 보안 통제가 전략의 중심이 됐다.",
+  "updated_at": "2026-11-08T08:15:31.499530+09:00",
+  "run_id": "run_20261108_081531",
+  "summary_ko": "선거·지정학 충격 속 AI 자본 비용이 오르고, 금융권은 AI 공격 방어를 도입의 전제로 삼게 됐다.",
   "issues": [
     {
       "title": "AI 기업 수익성·자금조달 검증",
-      "body_ko": "선두 기업도 밸류와 조달 목표를 낮추고 자금 공급자까지 후퇴하며 회수 근거가 평가 잣대가 됐다.",
+      "body_ko": "선두 기업이 밸류를 낮춰 상장을 강행하고 조달원을 개인까지 넓히며, 회수 근거와 자본 비용이 평가 잣대가 됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -62,6 +62,19 @@
           "date": "2026-11-07",
           "file": "20261107-월가-헤지펀드도-증시-급락에-직격탄-.md",
           "title": "월가 헤지펀드도 美증시 급락에 직격탄···투자 철수·감원 나섰다"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-anthropic-pushes-ahe.md",
+          "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=677932",
+          "title": ""
         }
       ]
     },
@@ -103,7 +116,7 @@
     },
     {
       "title": "금융권 AI의 권한·보안 재설계",
-      "body_ko": "연쇄 해킹이 증권사까지 번지며 보안 통제가 금융 AI 확대의 전제가 됐다.",
+      "body_ko": "연쇄 해킹에 AI 도구가 쓰인 정황까지 나오며, AI 기반 방어와 에이전트 실행 권한 설계가 금융 AI 확대의 전제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -154,12 +167,22 @@
           "date": "2026-11-07",
           "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
           "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-ai-해킹에-기존-방어망-뚫리나-금융.md",
+          "title": "AI 해킹에 기존 방어망 뚫리나…금융권 보안 '경고등'"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-은행-앱의-시대-이제-끝나나-저축-이.md",
+          "title": "은행 ‘앱의 시대’ 이제 끝나나…저축·이체까지 AI가 대신 ‘척척’"
         }
       ]
     },
     {
       "title": "에이전트 통제와 신뢰성 검증",
-      "body_ko": "실무 신뢰성 검증이 더딘 사이 에이전트 보안·감사가 별도 시장이 된다.",
+      "body_ko": "실무 신뢰성 검증이 더딘 사이 AI 감사·보안이 별도 시장이 되지만 오탐 처리가 새 운영 비용으로 떠올랐다.",
       "topics": [
         "ai_agents",
         "ai_industry",
@@ -201,12 +224,26 @@
           "date": "2026-11-07",
           "file": "20261107-메타-ai로-맞춤형-앱-만드는-뮤즈-.md",
           "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-ai-auditors-catch-mo.md",
+          "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
+        },
+        {
+          "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+          "title": ""
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
+          "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
         }
       ]
     },
     {
-      "title": "인프라의 정치·안보 변수",
-      "body_ko": "규제가 유럽·모델 안전성으로 번지자 인프라 조달이 소수 강자로 재편된다.",
+      "title": "규제 의제 확장과 인프라 지정학",
+      "body_ko": "美 규제가 전력비에서 모델 안전성·칩 수출로 넓어지고 유럽 반대 운동과 겹치며, 인프라 조달과 국내 거시 전망까지 흔든다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -278,6 +315,24 @@
           "date": "2026-11-07",
           "file": "20261107-crusoe-sells-trouble.md",
           "title": "Crusoe sells troubled Wyoming data center project to Google"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-미-중간선거-후폭풍-민주당-빅테크-대.md",
+          "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-최경진-블루웨이브-와-한국-ai의-전.md",
+          "title": "[최경진 未來法道] '블루웨이브'와 한국 AI의 전략적 대응"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261107047200002",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "title": ""
         }
       ]
     }
