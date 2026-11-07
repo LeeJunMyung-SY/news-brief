@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:12:32+00:00",
+  "generated_at": "2026-11-07T07:10:49+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,7 +12,7 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1598,
+      "count": 1599,
       "latest_date": "2026-11-07"
     },
     {
@@ -26,7 +26,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3731,
+      "count": 3733,
       "latest_date": "2026-11-07"
     },
     {
@@ -179,6 +179,21 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-메타-ai로-맞춤형-앱-만드는-뮤즈-.md",
+        "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#product-launch",
+          "#consumer-ai",
+          "#no-code",
+          "#platform"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217128"
       },
       {
         "date": "2026-11-06",
@@ -64572,6 +64587,21 @@
       },
       {
         "date": "2026-11-07",
+        "file": "20261107-메타-ai로-맞춤형-앱-만드는-뮤즈-.md",
+        "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#product-launch",
+          "#consumer-ai",
+          "#no-code",
+          "#platform"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217128"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
         "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소",
         "importance": 6,
@@ -64583,6 +64613,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217117"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-월가-헤지펀드도-증시-급락에-직격탄-.md",
+        "title": "월가 헤지펀드도 美증시 급락에 직격탄···투자 철수·감원 나섰다",
+        "importance": 6,
+        "tags": [
+          "#market-correction",
+          "#hedge-fund",
+          "#ai-bubble",
+          "#investment",
+          "#layoffs"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12201467"
       },
       {
         "date": "2026-11-07",
@@ -169333,7 +169378,7 @@
       {
         "date": "2026-11-07",
         "title": "AI 지출 정체와 자금시장 선별",
-        "summary": "선두 기업도 조달 규모를 낮추며 기대치가 조정되고 있다.",
+        "summary": "선두 기업의 조달 축소에 이어 자금 공급자까지 포지션을 줄이고 있다.",
         "articles": [
           {
             "date": "2026-11-07",
@@ -169354,6 +169399,11 @@
             "date": "2026-11-07",
             "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
             "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-월가-헤지펀드도-증시-급락에-직격탄-.md",
+            "title": "월가 헤지펀드도 美증시 급락에 직격탄···투자 철수·감원 나섰다"
           }
         ]
       },
@@ -177367,7 +177417,7 @@
       {
         "date": "2026-11-07",
         "title": "AI 지출 정체와 자금시장 선별",
-        "summary": "선두 기업도 조달 규모를 낮추며 기대치가 조정되고 있다.",
+        "summary": "선두 기업의 조달 축소에 이어 자금 공급자까지 포지션을 줄이고 있다.",
         "articles": [
           {
             "date": "2026-11-07",
@@ -177388,6 +177438,11 @@
             "date": "2026-11-07",
             "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
             "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-월가-헤지펀드도-증시-급락에-직격탄-.md",
+            "title": "월가 헤지펀드도 美증시 급락에 직격탄···투자 철수·감원 나섰다"
           }
         ]
       },

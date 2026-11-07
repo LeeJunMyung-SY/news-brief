@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T03:12:32+00:00",
+  "generated_at": "2026-11-07T07:10:49+00:00",
   "latest_date": "2026-11-07",
   "topics": [
     {
@@ -12,7 +12,7 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1598
+      "count": 1599
     },
     {
       "key": "ai_policy",
@@ -24,7 +24,7 @@
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3731
+      "count": 3733
     },
     {
       "key": "physical_ai_robotics",
@@ -66,6 +66,12 @@
           "file": "digest_1212.md",
           "selected": 11,
           "new": 63
+        },
+        {
+          "time": "16:10",
+          "file": "digest_1610.md",
+          "selected": 2,
+          "new": 34
         }
       ]
     },
@@ -3274,7 +3280,7 @@
       "file": "2026-W45.md",
       "week_start": "2026-11-02",
       "week_end": "2026-11-08",
-      "total_selected_this_week": 565
+      "total_selected_this_week": 568
     },
     {
       "week": "2026-W44",
