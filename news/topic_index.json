@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:19:07+00:00",
+  "generated_at": "2026-11-07T03:12:32+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,49 +12,49 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1597,
+      "count": 1598,
       "latest_date": "2026-11-07"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1603,
+      "count": 1608,
       "latest_date": "2026-11-07"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3723,
+      "count": 3731,
       "latest_date": "2026-11-07"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 563,
+      "count": 566,
       "latest_date": "2026-11-07"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1203,
+      "count": 1209,
       "latest_date": "2026-11-07"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1022,
+      "count": 1023,
       "latest_date": "2026-11-07"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 622,
+      "count": 625,
       "latest_date": "2026-11-07"
     },
     {
@@ -109,6 +109,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+        "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#security-breach",
+          "#ai-cyberattack",
+          "#finance",
+          "#mirae-asset"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12201388"
       },
       {
         "date": "2026-11-07",
@@ -41136,6 +41151,36 @@
     "ai_policy": [
       {
         "date": "2026-11-07",
+        "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+        "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#security-breach",
+          "#ai-cyberattack",
+          "#finance",
+          "#mirae-asset"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12201388"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+        "title": "美민주당, 데이터센터 규제 강화 예고…백악관 'AI 인프라 확충 지속'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-congress",
+          "#ai-safety",
+          "#data-center",
+          "#liability"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678026"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-11월6일-ai에-ai-안전-맡겼더니.md",
         "title": "[11월6일] 'AI에 AI 안전 맡겼더니 일하는 척만'…오픈AI도 원인 못 찾아",
         "importance": 6,
@@ -41163,6 +41208,20 @@
       },
       {
         "date": "2026-11-07",
+        "file": "20261107-ai는-지금-로봇-오작동인-줄-알았는.md",
+        "title": "[AI는 지금] '로봇 오작동인 줄 알았는데 해킹'…피지컬 AI, 보안 위협 커진다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#cybersecurity",
+          "#gartner",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261105173134"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-metr-finds-anthropic.md",
         "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
         "importance": 6,
@@ -41187,6 +41246,34 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/world/12200962"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-데이터센터-규제-변수-k전력기기-호황.md",
+        "title": "美 데이터센터 규제 변수…K전력기기 호황 '먹구름'",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#power-equipment",
+          "#regulation",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677940"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-유럽-16개국서-데이터센터-반대-공동.md",
+        "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#regulation",
+          "#europe",
+          "#community-opposition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217126"
       },
       {
         "date": "2026-11-06",
@@ -64318,6 +64405,20 @@
       },
       {
         "date": "2026-11-07",
+        "file": "20261107-crusoe-sells-trouble.md",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#acquisition",
+          "#neocloud",
+          "#infrastructure"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-investors-brace-for-.md",
         "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
         "importance": 7,
@@ -64345,6 +64446,21 @@
       },
       {
         "date": "2026-11-07",
+        "file": "20261107-ms-오라클-ai-서버-임대-계약-종.md",
+        "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아",
+        "importance": 7,
+        "tags": [
+          "#cloud",
+          "#gpu",
+          "#procurement",
+          "#microsoft",
+          "#oracle"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217120"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-openai-reportedly-ra.md",
         "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
         "importance": 7,
@@ -64355,6 +64471,36 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-tsmc-엔비디아-요청에-3d-d램-.md",
+        "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#supply-chain",
+          "#nvidia",
+          "#tsmc"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217123"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+        "title": "美민주당, 데이터센터 규제 강화 예고…백악관 'AI 인프라 확충 지속'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-congress",
+          "#ai-safety",
+          "#data-center",
+          "#liability"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678026"
       },
       {
         "date": "2026-11-07",
@@ -64409,6 +64555,62 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-데이터센터-규제-변수-k전력기기-호황.md",
+        "title": "美 데이터센터 규제 변수…K전력기기 호황 '먹구름'",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#power-equipment",
+          "#regulation",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677940"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
+        "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소",
+        "importance": 6,
+        "tags": [
+          "#investment",
+          "#valuation",
+          "#openai",
+          "#funding"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217117"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-테슬라-판매-부진-사이버트럭-접고-로.md",
+        "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#tesla",
+          "#business-pivot"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217118"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-피지컬-ai-생태계-pwc가-로봇을-.md",
+        "title": "[피지컬 AI 생태계] PwC가 로봇을? 리얼월드와 로보월드에 온 까닭",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#consulting",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678029"
       },
       {
         "date": "2026-11-06",
@@ -118207,6 +118409,20 @@
     "physical_ai_robotics": [
       {
         "date": "2026-11-07",
+        "file": "20261107-ai는-지금-로봇-오작동인-줄-알았는.md",
+        "title": "[AI는 지금] '로봇 오작동인 줄 알았는데 해킹'…피지컬 AI, 보안 위협 커진다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#cybersecurity",
+          "#gartner",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261105173134"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-단독-벽-타고-올라간-로봇이-상품-꺼.md",
         "title": "[단독] '벽 타고 올라간 로봇이 상품 꺼내'…LX판토스 'AI 물류랩' 첫 공개",
         "importance": 6,
@@ -118218,6 +118434,34 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/202611061308i"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-테슬라-판매-부진-사이버트럭-접고-로.md",
+        "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#tesla",
+          "#business-pivot"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217118"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-피지컬-ai-생태계-pwc가-로봇을-.md",
+        "title": "[피지컬 AI 생태계] PwC가 로봇을? 리얼월드와 로보월드에 온 까닭",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#consulting",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678029"
       },
       {
         "date": "2026-11-06",
@@ -126360,6 +126604,20 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-07",
+        "file": "20261107-crusoe-sells-trouble.md",
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "importance": 7,
+        "tags": [
+          "#data-center",
+          "#acquisition",
+          "#neocloud",
+          "#infrastructure"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-microsoft-plans-to-u.md",
         "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
         "importance": 7,
@@ -126371,6 +126629,51 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-ms-오라클-ai-서버-임대-계약-종.md",
+        "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아",
+        "importance": 7,
+        "tags": [
+          "#cloud",
+          "#gpu",
+          "#procurement",
+          "#microsoft",
+          "#oracle"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217120"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-tsmc-엔비디아-요청에-3d-d램-.md",
+        "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+        "importance": 7,
+        "tags": [
+          "#semiconductor",
+          "#memory",
+          "#supply-chain",
+          "#nvidia",
+          "#tsmc"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217123"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+        "title": "美민주당, 데이터센터 규제 강화 예고…백악관 'AI 인프라 확충 지속'",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-congress",
+          "#ai-safety",
+          "#data-center",
+          "#liability"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678026"
       },
       {
         "date": "2026-11-07",
@@ -126438,6 +126741,34 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/world/12200962"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-데이터센터-규제-변수-k전력기기-호황.md",
+        "title": "美 데이터센터 규제 변수…K전력기기 호황 '먹구름'",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#power-equipment",
+          "#regulation",
+          "#korea"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=677940"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-유럽-16개국서-데이터센터-반대-공동.md",
+        "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#regulation",
+          "#europe",
+          "#community-opposition"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217126"
       },
       {
         "date": "2026-11-06",
@@ -143719,6 +144050,21 @@
       },
       {
         "date": "2026-11-07",
+        "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+        "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사",
+        "importance": 8,
+        "tags": [
+          "#securities",
+          "#security-breach",
+          "#ai-cyberattack",
+          "#finance",
+          "#mirae-asset"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12201388"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-bmo-launches-ai-agen.md",
         "title": "BMO launches AI agent to help credit card customers get answers",
         "importance": 7,
@@ -158726,6 +159072,20 @@
     "physical_ai": [
       {
         "date": "2026-11-07",
+        "file": "20261107-ai는-지금-로봇-오작동인-줄-알았는.md",
+        "title": "[AI는 지금] '로봇 오작동인 줄 알았는데 해킹'…피지컬 AI, 보안 위협 커진다",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#cybersecurity",
+          "#gartner",
+          "#governance"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261105173134"
+      },
+      {
+        "date": "2026-11-07",
         "file": "20261107-단독-벽-타고-올라간-로봇이-상품-꺼.md",
         "title": "[단독] '벽 타고 올라간 로봇이 상품 꺼내'…LX판토스 'AI 물류랩' 첫 공개",
         "importance": 6,
@@ -158737,6 +159097,34 @@
         ],
         "source": "한국경제 경제",
         "url": "https://www.hankyung.com/article/202611061308i"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-테슬라-판매-부진-사이버트럭-접고-로.md",
+        "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#robotaxi",
+          "#tesla",
+          "#business-pivot"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217118"
+      },
+      {
+        "date": "2026-11-07",
+        "file": "20261107-피지컬-ai-생태계-pwc가-로봇을-.md",
+        "title": "[피지컬 AI 생태계] PwC가 로봇을? 리얼월드와 로보월드에 온 까닭",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#consulting",
+          "#ai-adoption",
+          "#roi-case"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678029"
       },
       {
         "date": "2026-11-06",
@@ -168945,7 +169333,7 @@
       {
         "date": "2026-11-07",
         "title": "AI 지출 정체와 자금시장 선별",
-        "summary": "사용량 성장만으로는 AI 기업 가치를 정당화하기 어려워졌다.",
+        "summary": "선두 기업도 조달 규모를 낮추며 기대치가 조정되고 있다.",
         "articles": [
           {
             "date": "2026-11-07",
@@ -168963,21 +169351,17 @@
             "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
           },
           {
-            "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
-            "title": ""
+            "date": "2026-11-07",
+            "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
+            "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소"
           }
         ]
       },
       {
         "date": "2026-11-07",
-        "title": "인프라 확보 경로의 재편",
-        "summary": "신규 부지 대신 기존 시설과 소수 핵심 파트너로 수요가 모인다.",
+        "title": "컴퓨팅 조달의 구조조정",
+        "summary": "구형 임차 자산이 정리되고 인프라가 소수 강자로 모인다.",
         "articles": [
-          {
-            "date": "2026-11-07",
-            "file": "20261107-엔비디아-미국-노후-전화국-130곳-.md",
-            "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
-          },
           {
             "date": "2026-11-07",
             "file": "20261107-microsoft-plans-to-u.md",
@@ -168985,8 +169369,8 @@
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-openai-will-keep-inv.md",
-            "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC"
+            "file": "20261107-엔비디아-미국-노후-전화국-130곳-.md",
+            "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
           },
           {
             "date": "2026-11-07",
@@ -168995,17 +169379,50 @@
           },
           {
             "date": "2026-11-07",
+            "file": "20261107-ms-오라클-ai-서버-임대-계약-종.md",
+            "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-crusoe-sells-trouble.md",
+            "title": "Crusoe sells troubled Wyoming data center project to Google"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-tsmc-엔비디아-요청에-3d-d램-.md",
+            "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-07",
+        "title": "데이터센터 규제의 확산과 전이",
+        "summary": "규제 의제가 모델 안전성까지 넓어지고 국내 산업으로 번진다.",
+        "articles": [
+          {
+            "date": "2026-11-07",
+            "file": "20261107-openai-will-keep-inv.md",
+            "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC"
+          },
+          {
+            "date": "2026-11-07",
             "file": "20261107-ai-속도조절론-틈새-파고든-배경훈-.md",
             "title": "美 'AI 속도조절론' 틈새 파고든 배경훈…'9.4조 베팅'의 노림수"
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-다카이치-etf-매각-이익으로-반도체.md",
-            "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”"
+            "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+            "title": "美민주당, 데이터센터 규제 강화 예고…백악관 \"AI 인프라 확충 지속\""
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261106194204",
-            "title": ""
+            "date": "2026-11-07",
+            "file": "20261107-유럽-16개국서-데이터센터-반대-공동.md",
+            "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-데이터센터-규제-변수-k전력기기-호황.md",
+            "title": "美 데이터센터 규제 변수…K전력기기 호황 '먹구름'"
           }
         ]
       },
@@ -176950,7 +177367,7 @@
       {
         "date": "2026-11-07",
         "title": "AI 지출 정체와 자금시장 선별",
-        "summary": "사용량 성장만으로는 AI 기업 가치를 정당화하기 어려워졌다.",
+        "summary": "선두 기업도 조달 규모를 낮추며 기대치가 조정되고 있다.",
         "articles": [
           {
             "date": "2026-11-07",
@@ -176968,39 +177385,9 @@
             "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
           },
           {
-            "url": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-11-07",
-        "title": "모델 신뢰성 검증과 오픈웨이트 대안",
-        "summary": "검증 부담이 커지는 만큼 자체 구축 선택지도 넓어진다.",
-        "articles": [
-          {
             "date": "2026-11-07",
-            "file": "20261107-11월6일-ai에-ai-안전-맡겼더니.md",
-            "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아"
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-metr-finds-anthropic.md",
-            "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July"
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-thinking-machines-in.md",
-            "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-            "title": ""
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-perplexity-now-has-i.md",
-            "title": "Perplexity now has its own always-on AI agent"
+            "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
+            "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소"
           }
         ]
       },
@@ -180287,14 +180674,9 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-07",
-        "title": "인프라 확보 경로의 재편",
-        "summary": "신규 부지 대신 기존 시설과 소수 핵심 파트너로 수요가 모인다.",
+        "title": "컴퓨팅 조달의 구조조정",
+        "summary": "구형 임차 자산이 정리되고 인프라가 소수 강자로 모인다.",
         "articles": [
-          {
-            "date": "2026-11-07",
-            "file": "20261107-엔비디아-미국-노후-전화국-130곳-.md",
-            "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
-          },
           {
             "date": "2026-11-07",
             "file": "20261107-microsoft-plans-to-u.md",
@@ -180302,8 +180684,8 @@
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-openai-will-keep-inv.md",
-            "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC"
+            "file": "20261107-엔비디아-미국-노후-전화국-130곳-.md",
+            "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
           },
           {
             "date": "2026-11-07",
@@ -180312,17 +180694,50 @@
           },
           {
             "date": "2026-11-07",
+            "file": "20261107-ms-오라클-ai-서버-임대-계약-종.md",
+            "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-crusoe-sells-trouble.md",
+            "title": "Crusoe sells troubled Wyoming data center project to Google"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-tsmc-엔비디아-요청에-3d-d램-.md",
+            "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-07",
+        "title": "데이터센터 규제의 확산과 전이",
+        "summary": "규제 의제가 모델 안전성까지 넓어지고 국내 산업으로 번진다.",
+        "articles": [
+          {
+            "date": "2026-11-07",
+            "file": "20261107-openai-will-keep-inv.md",
+            "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC"
+          },
+          {
+            "date": "2026-11-07",
             "file": "20261107-ai-속도조절론-틈새-파고든-배경훈-.md",
             "title": "美 'AI 속도조절론' 틈새 파고든 배경훈…'9.4조 베팅'의 노림수"
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-다카이치-etf-매각-이익으로-반도체.md",
-            "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”"
+            "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+            "title": "美민주당, 데이터센터 규제 강화 예고…백악관 \"AI 인프라 확충 지속\""
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261106194204",
-            "title": ""
+            "date": "2026-11-07",
+            "file": "20261107-유럽-16개국서-데이터센터-반대-공동.md",
+            "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-데이터센터-규제-변수-k전력기기-호황.md",
+            "title": "美 데이터센터 규제 변수…K전력기기 호황 '먹구름'"
           }
         ]
       },
@@ -184434,28 +184849,13 @@
     "ai_policy": [
       {
         "date": "2026-11-07",
-        "title": "인프라 확보 경로의 재편",
-        "summary": "신규 부지 대신 기존 시설과 소수 핵심 파트너로 수요가 모인다.",
+        "title": "데이터센터 규제의 확산과 전이",
+        "summary": "규제 의제가 모델 안전성까지 넓어지고 국내 산업으로 번진다.",
         "articles": [
-          {
-            "date": "2026-11-07",
-            "file": "20261107-엔비디아-미국-노후-전화국-130곳-.md",
-            "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-microsoft-plans-to-u.md",
-            "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain"
-          },
           {
             "date": "2026-11-07",
             "file": "20261107-openai-will-keep-inv.md",
             "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC"
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-엔비디아-네이버에-1-3조원-납입-a.md",
-            "title": "엔비디아, 네이버에 1.3조원 납입…‘AI 팩토리’ 물살"
           },
           {
             "date": "2026-11-07",
@@ -184464,43 +184864,45 @@
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-다카이치-etf-매각-이익으로-반도체.md",
-            "title": "다카이치 “日銀 ETF 매각 이익으로 반도체·AI 투자”"
+            "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+            "title": "美민주당, 데이터센터 규제 강화 예고…백악관 \"AI 인프라 확충 지속\""
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261106194204",
-            "title": ""
+            "date": "2026-11-07",
+            "file": "20261107-유럽-16개국서-데이터센터-반대-공동.md",
+            "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입"
+          },
+          {
+            "date": "2026-11-07",
+            "file": "20261107-데이터센터-규제-변수-k전력기기-호황.md",
+            "title": "美 데이터센터 규제 변수…K전력기기 호황 '먹구름'"
           }
         ]
       },
       {
         "date": "2026-11-07",
-        "title": "모델 신뢰성 검증과 오픈웨이트 대안",
-        "summary": "검증 부담이 커지는 만큼 자체 구축 선택지도 넓어진다.",
+        "title": "금융권 AI 도입과 보안 공백",
+        "summary": "통제된 도입이 늘수록 AI 기반 방어가 선결 과제가 된다.",
         "articles": [
           {
             "date": "2026-11-07",
-            "file": "20261107-11월6일-ai에-ai-안전-맡겼더니.md",
-            "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아"
+            "file": "20261107-jpmorgan-chase-signs.md",
+            "title": "JPMorgan Chase signs cybersecurity and coding deal with OpenAI"
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-metr-finds-anthropic.md",
-            "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July"
+            "file": "20261107-bmo-launches-ai-agen.md",
+            "title": "BMO launches AI agent to help credit card customers get answers"
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-thinking-machines-in.md",
-            "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-            "title": ""
+            "file": "20261107-chainalysis-says-hac.md",
+            "title": "Chainalysis says hackers stole credentials and tokens for all of its customers"
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-perplexity-now-has-i.md",
-            "title": "Perplexity now has its own always-on AI agent"
+            "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+            "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사"
           }
         ]
       },
@@ -190200,8 +190602,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-07",
-        "title": "금융권, 통제된 프런티어 AI 도입",
-        "summary": "허용 범위보다 계약·보안 조건 설계가 도입 속도를 가른다.",
+        "title": "금융권 AI 도입과 보안 공백",
+        "summary": "통제된 도입이 늘수록 AI 기반 방어가 선결 과제가 된다.",
         "articles": [
           {
             "date": "2026-11-07",
@@ -190220,12 +190622,8 @@
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-미래에셋운용-자본의-궤적-스톡스팟-주.md",
-            "title": "[미래에셋운용 자본의 궤적]⑤ 스톡스팟 주식·CB, 미국에 모은 이유는"
-          },
-          {
-            "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
+            "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+            "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사"
           }
         ]
       },
@@ -195163,8 +195561,8 @@
     "ai_agents": [
       {
         "date": "2026-11-07",
-        "title": "금융권, 통제된 프런티어 AI 도입",
-        "summary": "허용 범위보다 계약·보안 조건 설계가 도입 속도를 가른다.",
+        "title": "금융권 AI 도입과 보안 공백",
+        "summary": "통제된 도입이 늘수록 AI 기반 방어가 선결 과제가 된다.",
         "articles": [
           {
             "date": "2026-11-07",
@@ -195183,43 +195581,8 @@
           },
           {
             "date": "2026-11-07",
-            "file": "20261107-미래에셋운용-자본의-궤적-스톡스팟-주.md",
-            "title": "[미래에셋운용 자본의 궤적]⑤ 스톡스팟 주식·CB, 미국에 모은 이유는"
-          },
-          {
-            "url": "https://www.finextra.com/pressarticle/111605/visa-establishes-global-capacity-hubs-in-singapore?utm_medium=rssfinextra&utm_source=finextrafeed",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-11-07",
-        "title": "모델 신뢰성 검증과 오픈웨이트 대안",
-        "summary": "검증 부담이 커지는 만큼 자체 구축 선택지도 넓어진다.",
-        "articles": [
-          {
-            "date": "2026-11-07",
-            "file": "20261107-11월6일-ai에-ai-안전-맡겼더니.md",
-            "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아"
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-metr-finds-anthropic.md",
-            "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July"
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-thinking-machines-in.md",
-            "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-            "title": ""
-          },
-          {
-            "date": "2026-11-07",
-            "file": "20261107-perplexity-now-has-i.md",
-            "title": "Perplexity now has its own always-on AI agent"
+            "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+            "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사"
           }
         ]
       },

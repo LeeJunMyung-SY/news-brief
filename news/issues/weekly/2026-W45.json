@@ -1,12 +1,12 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-07T08:18:57.324042+09:00",
-  "run_id": "run_20261107_081857",
-  "summary_ko": "선거·지정학 충격 속 AI 지출이 정체하며 회수 근거와 통제가 전략의 중심이 됐다.",
+  "updated_at": "2026-11-07T12:12:21.831221+09:00",
+  "run_id": "run_20261107_121221",
+  "summary_ko": "선거·지정학 충격 속 AI 지출이 정체하며 회수 근거와 보안 통제가 전략의 중심이 됐다.",
   "issues": [
     {
       "title": "AI 기업 수익성·자금조달 검증",
-      "body_ko": "지출 정체 신호까지 겹치며 사용량보다 회수 근거가 평가 잣대가 됐다.",
+      "body_ko": "선두 기업도 밸류와 조달 목표를 낮추며 회수 근거가 평가 잣대가 됐다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -52,6 +52,11 @@
           "date": "2026-11-07",
           "file": "20261107-openai-reportedly-ra.md",
           "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-오픈ai-15조-투자-유치-목표는-4.md",
+          "title": "오픈AI, 15조 투자 유치…목표는 41조→27조로 축소"
         }
       ]
     },
@@ -85,10 +90,6 @@
           "title": "카카오의 '2028 AI 흑자' 로드맵…비용줄이고 새 광고판 연다"
         },
         {
-          "url": "https://www.hankyung.com/article/2026110614781",
-          "title": ""
-        },
-        {
           "date": "2026-11-07",
           "file": "20261107-perplexity-now-has-i.md",
           "title": "Perplexity now has its own always-on AI agent"
@@ -96,8 +97,8 @@
       ]
     },
     {
-      "title": "금융권 AI의 권한·결제·보안",
-      "body_ko": "도구 회수와 공식 계약이 엇갈리며 통제된 공급 설계가 도입 관건이 됐다.",
+      "title": "금융권 AI의 권한·보안 재설계",
+      "body_ko": "연쇄 해킹이 증권사까지 번지며 보안 통제가 금융 AI 확대의 전제가 됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -143,6 +144,11 @@
           "date": "2026-11-07",
           "file": "20261107-chainalysis-says-hac.md",
           "title": "Chainalysis says hackers stole credentials and tokens for all of its customers"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-은행-보험사-이어-미래에셋증권까지-연.md",
+          "title": "은행·보험사 이어 미래에셋증권까지···연쇄 해킹에 시달리는 금융사"
         }
       ]
     },
@@ -189,8 +195,8 @@
       ]
     },
     {
-      "title": "인프라·데이터의 정치·안보 변수",
-      "body_ko": "신규 부지가 막히자 기존 시설 재활용과 아시아 국가 재원이 대안이 된다.",
+      "title": "인프라의 정치·안보 변수",
+      "body_ko": "규제가 유럽·모델 안전성으로 번지자 인프라 조달이 소수 강자로 재편된다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -242,6 +248,26 @@
           "date": "2026-11-07",
           "file": "20261107-ai-속도조절론-틈새-파고든-배경훈-.md",
           "title": "美 'AI 속도조절론' 틈새 파고든 배경훈…'9.4조 베팅'의 노림수"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-민주당-데이터센터-규제-강화-예고-백.md",
+          "title": "美민주당, 데이터센터 규제 강화 예고…백악관 \"AI 인프라 확충 지속\""
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-유럽-16개국서-데이터센터-반대-공동.md",
+          "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-ms-오라클-ai-서버-임대-계약-종.md",
+          "title": "MS, 오라클 AI 서버 임대 계약 종료…구형 GPU 사양 안 맞아"
+        },
+        {
+          "date": "2026-11-07",
+          "file": "20261107-crusoe-sells-trouble.md",
+          "title": "Crusoe sells troubled Wyoming data center project to Google"
         }
       ]
     }
