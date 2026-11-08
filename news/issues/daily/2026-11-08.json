@@ -1,8 +1,8 @@
 {
   "date": "2026-11-08",
-  "updated_at": "2026-11-08T12:18:49.242893+09:00",
-  "run_id": "run_20261108_121849",
-  "summary_ko": "규제·지정학이 인프라 입지와 거래를 재편하는 사이 에이전트는 실행 단계로 들어섰다.",
+  "updated_at": "2026-11-08T16:15:40.690682+09:00",
+  "run_id": "run_20261108_161540",
+  "summary_ko": "규제·지정학이 인프라를 흔드는 사이 금융권은 AI를 투자 자산으로, 기업은 비용·채널 재설계 대상으로 다루기 시작했다.",
   "issues": [
     {
       "title": "규제·지정학, 데이터센터 입지와 공급망 거래 재편",
@@ -52,12 +52,12 @@
       ]
     },
     {
-      "title": "금융권, AI 공격 경고와 AI 비서 경쟁 동시 직면",
-      "summary_ko": "방어는 AI 기반으로, 채널은 에이전트 실행 권한 설계로 재편돼야 하는 이중 과제가 당국 의제로도 올랐다.",
+      "title": "금융권, 보안 경고 속 AI를 투자·IP 자산으로",
+      "summary_ko": "방어는 AI 기반으로 재편해야 하는 한편, 금융지주는 AI 지분투자와 설계 특허로 AI를 수익·방어 자산으로 다루기 시작했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_policy"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -76,43 +76,55 @@
           "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12201628",
+          "date": "2026-11-08",
+          "file": "20261108-jb금융-ai-지분투자에-m-a까지-.md",
+          "title": "JB금융, AI 지분투자에 M&A까지…미래수익원 차별화"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-농협생명-ax-기반-보험설계-특허등록.md",
+          "title": "농협생명, AX 기반 보험설계 특허등록 완료…맞춤형 상품·특약 추천"
+        },
+        {
+          "url": "https://www.etnews.com/20261108000078",
           "title": ""
         }
       ]
     },
     {
-      "title": "앤트로픽 IPO 강행과 AI 자본 비용 상승",
-      "summary_ko": "밸류를 낮춰도 상장을 밀어붙이는 선택은 AI 공급사의 자본 비용이 가격에 전가될 국면을 예고한다.",
+      "title": "AI 수요 확대와 자본 비용의 동반 상승",
+      "summary_ko": "국내 AI 앱 체류 시간이 두 배로 늘며 수요는 확인됐지만, 선두 공급사가 밸류를 낮춰 상장하며 자본 비용이 가격에 전가될 국면이다.",
       "topics": [
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-08",
-          "file": "20261108-anthropic-pushes-ahe.md",
-          "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
-        }
-      ]
-    },
-    {
-      "title": "에이전트, 개발 관리와 소비자 거래의 실행 단계로",
-      "summary_ko": "다수 에이전트를 지휘하는 관리층과 문자 기반 구매 대행이 상용화돼, 에이전트 경쟁의 축이 모델에서 운영·채널 설계로 옮겨간다.",
-      "topics": [
-        "ai_agents",
         "ai_industry",
         "llm_models"
       ],
       "articles": [
         {
           "date": "2026-11-08",
-          "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
-          "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
+          "file": "20261108-anthropic-pushes-ahe.md",
+          "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
         },
         {
           "date": "2026-11-08",
-          "file": "20261108-씽킹-머신스-성능-대폭-높인-잉클링-.md",
-          "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전"
+          "file": "20261108-챗gpt-한국서-1800만명-넘게-쓴.md",
+          "title": "챗GPT, 한국서 1800만명 넘게 쓴다…이용시간도 2배 급증"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 실행 단계와 비용·채널·직무 재설계",
+      "summary_ko": "에이전트 관리층과 외부 AI 대화창 연동이 상용화되는 가운데, 토큰 비용 통제와 인력 재배치가 도입 설계의 필수 항목이 됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "llm_models",
+        "ai_workforce_training"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-08",
+          "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
+          "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
         },
         {
           "date": "2026-11-08",
@@ -123,6 +135,26 @@
           "date": "2026-11-08",
           "file": "20261108-아마존-앱-없이-문자로-쇼핑-끝낸다-.md",
           "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-ai도-가성비-시대-카페24-토큰-비.md",
+          "title": "AI도 가성비 시대…카페24, '토큰 비용' 관리 나선다"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-카페24-챗gpt에-ai-개발-운영-.md",
+          "title": "카페24, 챗GPT에 AI 개발·운영 기능 연결…커머스 AX 확장"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-ai가-바꾸는-가전-생산현장-검사-자.md",
+          "title": "AI가 바꾸는 가전 생산현장…검사 자동화·직무 전환 가속"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-ai-is-speeding-up-re.md",
+          "title": "AI is speeding up recruitment — and putting agency fees under pressure"
         }
       ]
     }
