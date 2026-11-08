@@ -1,0 +1,79 @@
+{
+  "date": "2026-11-09",
+  "updated_at": "2026-11-09T08:15:00.044977+09:00",
+  "run_id": "run_20261109_081500",
+  "summary_ko": "전력·칩 공급망과 규제 불확실성이 AI 전략의 핵심 변수로 떠올랐다.",
+  "issues": [
+    {
+      "title": "AI 연구소의 전력 자체 조달",
+      "summary_ko": "전력 확보가 공급 계약에서 발전 자산 투자 경쟁으로 넘어갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
+          "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아 CEO 안보 조사",
+      "summary_ko": "핵심 칩 공급사의 지배구조가 조달 리스크 변수로 부상했다.",
+      "topics": [
+        "ai_industry",
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
+          "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 실전 성능과 통제의 현실",
+      "summary_ko": "에이전트 도입은 사람의 검수와 협업 통제를 전제로 설계해야 한다.",
+      "topics": [
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-ai-coding-agents-sti.md",
+          "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test"
+        },
+        {
+          "date": "2026-11-09",
+          "file": "20261109-recent-ai-agent-expe.md",
+          "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations"
+        },
+        {
+          "date": "2026-11-09",
+          "file": "20261109-apple-is-racing-to-m.md",
+          "title": "Apple is racing to make Siri more agentic"
+        }
+      ]
+    },
+    {
+      "title": "선거 후 AI 투자 재평가",
+      "summary_ko": "규제 강도는 불확실하지만 시장은 이미 AI 투자를 선별하고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-안광섭-ai-진테제-미국-민주당-정말.md",
+          "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까"
+        }
+      ]
+    }
+  ]
+}

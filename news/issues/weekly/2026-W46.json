@@ -1,0 +1,75 @@
+{
+  "week": "2026-W46",
+  "updated_at": "2026-11-09T08:15:00.044977+09:00",
+  "run_id": "run_20261109_081500",
+  "summary_ko": "선거 후 규제 불확실성 속에 전력·칩 공급망 리스크가 AI 전략의 전면에 섰다.",
+  "issues": [
+    {
+      "title": "전력 인프라의 수직 통합",
+      "body_ko": "선두 AI 기업이 발전설비를 직접 보유하며 전력이 경쟁 자산이 되고 있다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
+          "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보"
+        }
+      ]
+    },
+    {
+      "title": "칩 공급사 지배구조 리스크",
+      "body_ko": "단일 칩 공급사 의존 구조에서 경영진 안보 조사가 조달 불확실성을 키운다.",
+      "topics": [
+        "ai_industry",
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
+          "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 도입의 현실 점검",
+      "body_ko": "실전 완결률과 에이전트 간 통제 공백이 확인돼 검수 체계가 도입의 전제가 됐다.",
+      "topics": [
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-ai-coding-agents-sti.md",
+          "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test"
+        },
+        {
+          "date": "2026-11-09",
+          "file": "20261109-recent-ai-agent-expe.md",
+          "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations"
+        }
+      ]
+    },
+    {
+      "title": "美 선거 후 AI 규제·투자 재평가",
+      "body_ko": "규제 강도는 지역구 이해에 달렸으나 시장의 AI 투자 선별은 이미 시작됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-09",
+          "file": "20261109-안광섭-ai-진테제-미국-민주당-정말.md",
+          "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까"
+        }
+      ]
+    }
+  ]
+}
