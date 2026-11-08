@@ -1,8 +1,8 @@
 {
   "week": "2026-W45",
-  "updated_at": "2026-11-08T08:15:31.499530+09:00",
-  "run_id": "run_20261108_081531",
-  "summary_ko": "선거·지정학 충격 속 AI 자본 비용이 오르고, 금융권은 AI 공격 방어를 도입의 전제로 삼게 됐다.",
+  "updated_at": "2026-11-08T12:18:49.242893+09:00",
+  "run_id": "run_20261108_121849",
+  "summary_ko": "선거·지정학 충격에 AI 자본 비용과 인프라 입지가 재검토되고, 금융권은 AI 방어가 도입 전제가 됐다.",
   "issues": [
     {
       "title": "AI 기업 수익성·자금조달 검증",
@@ -67,14 +67,6 @@
           "date": "2026-11-08",
           "file": "20261108-anthropic-pushes-ahe.md",
           "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
-        },
-        {
-          "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677932",
-          "title": ""
         }
       ]
     },
@@ -177,12 +169,16 @@
           "date": "2026-11-08",
           "file": "20261108-은행-앱의-시대-이제-끝나나-저축-이.md",
           "title": "은행 ‘앱의 시대’ 이제 끝나나…저축·이체까지 AI가 대신 ‘척척’"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12201628",
+          "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 통제와 신뢰성 검증",
-      "body_ko": "실무 신뢰성 검증이 더딘 사이 AI 감사·보안이 별도 시장이 되지만 오탐 처리가 새 운영 비용으로 떠올랐다.",
+      "title": "에이전트 통제와 실행 단계 진입",
+      "body_ko": "신뢰성 검증이 더딘 사이 에이전트 관리층과 구매 대행이 상용화되고 AI 감사·보안이 별도 시장이 되어, 운영·통제 설계가 도입의 핵심 과제가 됐다.",
       "topics": [
         "ai_agents",
         "ai_industry",
@@ -231,19 +227,29 @@
           "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds"
         },
         {
-          "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
-          "title": ""
-        },
-        {
           "date": "2026-11-08",
           "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
           "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-aws-여러-ai-에이전트-지휘하는-.md",
+          "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-아마존-앱-없이-문자로-쇼핑-끝낸다-.md",
+          "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261108034847",
+          "title": ""
         }
       ]
     },
     {
       "title": "규제 의제 확장과 인프라 지정학",
-      "body_ko": "美 규제가 전력비에서 모델 안전성·칩 수출로 넓어지고 유럽 반대 운동과 겹치며, 인프라 조달과 국내 거시 전망까지 흔든다.",
+      "body_ko": "美 규제가 전력비에서 모델·칩 수출로 넓어지고 입지 반발·수출통제 집행·데이터 주권 심사가 겹치며, 인프라 입지와 공급망 거래 구조가 재설계된다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -327,12 +333,24 @@
           "title": "[최경진 未來法道] '블루웨이브'와 한국 AI의 전략적 대응"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261107047200002",
-          "title": ""
+          "date": "2026-11-08",
+          "file": "20261108-사막에-지어야-할지도-데이터센터-전략.md",
+          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-          "title": ""
+          "date": "2026-11-08",
+          "file": "20261108-데이터센터-규제-공포-과도-반도체-장.md",
+          "title": "美 데이터센터 규제 공포 과도, 韓 반도체 “장기 수요 이상  無…차세대 R&D 다질 기회로”"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-엔비디아-동남아-판매-칩-위치-추적-.md",
+          "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-소프트뱅크-abb-54억달러-로봇-인.md",
+          "title": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토"
         }
       ]
     }

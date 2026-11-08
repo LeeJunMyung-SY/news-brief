@@ -1,16 +1,17 @@
 {
   "date": "2026-11-08",
-  "updated_at": "2026-11-08T08:15:31.499530+09:00",
-  "run_id": "run_20261108_081531",
-  "summary_ko": "美 규제 의제가 전방위로 넓어진 가운데 금융권은 AI 공격과 AI 비서 경쟁을 동시에 맞았다.",
+  "updated_at": "2026-11-08T12:18:49.242893+09:00",
+  "run_id": "run_20261108_121849",
+  "summary_ko": "규제·지정학이 인프라 입지와 거래를 재편하는 사이 에이전트는 실행 단계로 들어섰다.",
   "issues": [
     {
-      "title": "민주당 규제 의제, 모델·수출통제까지 확장",
-      "summary_ko": "규제가 인프라를 넘어 모델 안전성과 칩 수출로 번져 2027년 공급사 정책이 흔들릴 수 있다.",
+      "title": "규제·지정학, 데이터센터 입지와 공급망 거래 재편",
+      "summary_ko": "규제가 모델·칩 수출로 넓어지고 입지 반발과 데이터 주권 심사까지 겹쳐, 인프라 계획과 크로스보더 거래의 전제가 바뀐다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "physical_ai"
       ],
       "articles": [
         {
@@ -24,18 +25,35 @@
           "title": "[최경진 未來法道] '블루웨이브'와 한국 AI의 전략적 대응"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261107047200002",
-          "title": ""
+          "date": "2026-11-08",
+          "file": "20261108-바이두-딥시크-앞선-어니-5-5-베이.md",
+          "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-          "title": ""
+          "date": "2026-11-08",
+          "file": "20261108-사막에-지어야-할지도-데이터센터-전략.md",
+          "title": "\"사막에 지어야 할지도\"…데이터센터 전략 다시 짜는 美 AI 기업들"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-데이터센터-규제-공포-과도-반도체-장.md",
+          "title": "美 데이터센터 규제 공포 과도, 韓 반도체 “장기 수요 이상  無…차세대 R&D 다질 기회로”"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-엔비디아-동남아-판매-칩-위치-추적-.md",
+          "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다"
+        },
+        {
+          "date": "2026-11-08",
+          "file": "20261108-소프트뱅크-abb-54억달러-로봇-인.md",
+          "title": "소프트뱅크·ABB, 54억달러 로봇 인수 살리려 중국 사업부 분리 검토"
         }
       ]
     },
     {
       "title": "금융권, AI 공격 경고와 AI 비서 경쟁 동시 직면",
-      "summary_ko": "방어는 AI 기반으로, 채널은 에이전트 실행 권한 설계로 재편돼야 하는 이중 과제가 드러났다.",
+      "summary_ko": "방어는 AI 기반으로, 채널은 에이전트 실행 권한 설계로 재편돼야 하는 이중 과제가 당국 의제로도 올랐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -56,6 +74,10 @@
           "date": "2026-11-08",
           "file": "20261108-the-gap-between-open.md",
           "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12201628",
+          "title": ""
         }
       ]
     },
@@ -70,34 +92,22 @@
           "date": "2026-11-08",
           "file": "20261108-anthropic-pushes-ahe.md",
           "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation"
-        },
-        {
-          "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-          "title": ""
-        },
-        {
-          "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-          "title": ""
-        },
-        {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=677932",
-          "title": ""
         }
       ]
     },
     {
-      "title": "오픈 모델의 지정학과 제품 인재 이동",
-      "summary_ko": "모델 조달에 라이선스 지역 리스크가 더해지고, 코딩 에이전트 인재가 공급사 경쟁의 축이 됐다.",
+      "title": "에이전트, 개발 관리와 소비자 거래의 실행 단계로",
+      "summary_ko": "다수 에이전트를 지휘하는 관리층과 문자 기반 구매 대행이 상용화돼, 에이전트 경쟁의 축이 모델에서 운영·채널 설계로 옮겨간다.",
       "topics": [
-        "llm_models",
+        "ai_agents",
         "ai_industry",
-        "ai_agents"
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-11-08",
-          "file": "20261108-바이두-딥시크-앞선-어니-5-5-베이.md",
-          "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한"
+          "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
+          "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
         },
         {
           "date": "2026-11-08",
@@ -106,13 +116,13 @@
         },
         {
           "date": "2026-11-08",
-          "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
-          "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
+          "file": "20261108-aws-여러-ai-에이전트-지휘하는-.md",
+          "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화"
         },
         {
           "date": "2026-11-08",
-          "file": "20261108-meta-chief-strategy-.md",
-          "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO"
+          "file": "20261108-아마존-앱-없이-문자로-쇼핑-끝낸다-.md",
+          "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시"
         }
       ]
     }
