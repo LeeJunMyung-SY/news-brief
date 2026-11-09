@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-08T23:15:09+00:00",
+  "generated_at": "2026-11-09T04:22:31+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1243,
+      "count": 1245,
       "latest_date": "2026-11-09"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1609,
+      "count": 1611,
       "latest_date": "2026-11-09"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1619,
+      "count": 1621,
       "latest_date": "2026-11-09"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3755,
+      "count": 3762,
       "latest_date": "2026-11-09"
     },
     {
@@ -40,7 +40,7 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1216,
+      "count": 1218,
       "latest_date": "2026-11-09"
     },
     {
@@ -54,8 +54,8 @@
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 627,
-      "latest_date": "2026-11-08"
+      "count": 630,
+      "latest_date": "2026-11-09"
     },
     {
       "key": "ai_hardware",
@@ -95,6 +95,21 @@
   ],
   "articles": {
     "ai_agents": [
+      {
+        "date": "2026-11-09",
+        "file": "20261109-딥시크-하네스-일일-사용자-154만명.md",
+        "title": "딥시크 하네스, 일일 사용자 154만명…미국 주도 AI 에이전트 시장 도전",
+        "importance": 7,
+        "tags": [
+          "#agent-platform",
+          "#deepseek",
+          "#plugin-ecosystem",
+          "#china-ai",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217158"
+      },
       {
         "date": "2026-11-09",
         "file": "20261109-ai-coding-agents-sti.md",
@@ -155,6 +170,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217146"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-앤트로픽-ai가-잘못된-기억-스스로-.md",
+        "title": "앤트로픽, AI가 잘못된 기억 스스로 수정하는 '드리밍' 기술 효과 입증",
+        "importance": 6,
+        "tags": [
+          "#agent-memory",
+          "#enterprise-ai",
+          "#reasoning",
+          "#anthropic",
+          "#long-running-agents"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217161"
       },
       {
         "date": "2026-11-08",
@@ -23477,6 +23507,21 @@
     "llm_models": [
       {
         "date": "2026-11-09",
+        "file": "20261109-lg-ai연구원-독파모-k-엑사원-2.md",
+        "title": "LG AI연구원, 독파모 'K-엑사원 2.5' API 무료개방",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#free-api",
+          "#lg-ai-research",
+          "#developer-ecosystem"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261109034200003"
+      },
+      {
+        "date": "2026-11-09",
         "file": "20261109-ai-coding-agents-sti.md",
         "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
         "importance": 6,
@@ -23505,6 +23550,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217146"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-앤트로픽-ai가-잘못된-기억-스스로-.md",
+        "title": "앤트로픽, AI가 잘못된 기억 스스로 수정하는 '드리밍' 기술 효과 입증",
+        "importance": 6,
+        "tags": [
+          "#agent-memory",
+          "#enterprise-ai",
+          "#reasoning",
+          "#anthropic",
+          "#long-running-agents"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217161"
       },
       {
         "date": "2026-11-08",
@@ -41435,6 +41495,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217150"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-트럼프-민주당과-ai-규제-협력할-의.md",
+        "title": "트럼프 '민주당과 AI 규제 협력할 의사 있어'…중간선거 패배 후 변화",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-policy",
+          "#ai-safety",
+          "#midterm-election",
+          "#bipartisan"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217157"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
+        "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#governance-risk",
+          "#national-security",
+          "#export-control",
+          "#supply-chain"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261109112712"
       },
       {
         "date": "2026-11-09",
@@ -64814,6 +64904,22 @@
     "ai_industry": [
       {
         "date": "2026-11-09",
+        "file": "20261109-구글-사업-차질-빚은-크루소-ai-데.md",
+        "title": "구글, 사업 차질 빚은 크루소 AI 데이터센터 인수…170억달러 투자",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#acquisition",
+          "#investment",
+          "#google",
+          "#neocloud",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217148"
+      },
+      {
+        "date": "2026-11-09",
         "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
         "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보",
         "importance": 8,
@@ -64830,6 +64936,36 @@
       },
       {
         "date": "2026-11-09",
+        "file": "20261109-lg-ai연구원-독파모-k-엑사원-2.md",
+        "title": "LG AI연구원, 독파모 'K-엑사원 2.5' API 무료개방",
+        "importance": 7,
+        "tags": [
+          "#model-release",
+          "#sovereign-ai",
+          "#free-api",
+          "#lg-ai-research",
+          "#developer-ecosystem"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261109034200003"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-딥시크-하네스-일일-사용자-154만명.md",
+        "title": "딥시크 하네스, 일일 사용자 154만명…미국 주도 AI 에이전트 시장 도전",
+        "importance": 7,
+        "tags": [
+          "#agent-platform",
+          "#deepseek",
+          "#plugin-ecosystem",
+          "#china-ai",
+          "#monetization"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217158"
+      },
+      {
+        "date": "2026-11-09",
         "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
         "title": "젠슨 황 '아내에게 충실하지 못했다' 사과…엔비디아 'CEO직 유지'",
         "importance": 7,
@@ -64842,6 +64978,37 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217150"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-카카오모빌리티-엔비디아와-레벨4-자율.md",
+        "title": "카카오모빌리티, 엔비디아와 레벨4 자율주행 기술 협력…기아 PBV에 적용",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#nvidia",
+          "#kakao-mobility",
+          "#robotaxi",
+          "#pbv"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261109111048"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-트럼프-민주당과-ai-규제-협력할-의.md",
+        "title": "트럼프 '민주당과 AI 규제 협력할 의사 있어'…중간선거 패배 후 변화",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#us-policy",
+          "#ai-safety",
+          "#midterm-election",
+          "#bipartisan"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217157"
       },
       {
         "date": "2026-11-09",
@@ -64872,6 +65039,36 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-기아-ev-승부수-유지한-부사장의-s.md",
+        "title": "[기아 EV 승부수] 유지한 부사장의 SDV, PBV로 동력 얻나",
+        "importance": 6,
+        "tags": [
+          "#pbv",
+          "#sdv",
+          "#autonomous-driving",
+          "#kia",
+          "#business-model"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678081"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
+        "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#governance-risk",
+          "#national-security",
+          "#export-control",
+          "#supply-chain"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261109112712"
       },
       {
         "date": "2026-11-09",
@@ -127419,6 +127616,22 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-09",
+        "file": "20261109-구글-사업-차질-빚은-크루소-ai-데.md",
+        "title": "구글, 사업 차질 빚은 크루소 AI 데이터센터 인수…170억달러 투자",
+        "importance": 8,
+        "tags": [
+          "#datacenter",
+          "#acquisition",
+          "#investment",
+          "#google",
+          "#neocloud",
+          "#infrastructure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217148"
+      },
+      {
+        "date": "2026-11-09",
         "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
         "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보",
         "importance": 8,
@@ -127447,6 +127660,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217150"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
+        "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#governance-risk",
+          "#national-security",
+          "#export-control",
+          "#supply-chain"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261109112712"
       },
       {
         "date": "2026-11-09",
@@ -160054,6 +160282,52 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-11-09",
+        "file": "20261109-카카오모빌리티-엔비디아와-레벨4-자율.md",
+        "title": "카카오모빌리티, 엔비디아와 레벨4 자율주행 기술 협력…기아 PBV에 적용",
+        "importance": 7,
+        "tags": [
+          "#autonomous-driving",
+          "#partnership",
+          "#nvidia",
+          "#kakao-mobility",
+          "#robotaxi",
+          "#pbv"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261109111048"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-기아-ev-승부수-유지한-부사장의-s.md",
+        "title": "[기아 EV 승부수] 유지한 부사장의 SDV, PBV로 동력 얻나",
+        "importance": 6,
+        "tags": [
+          "#pbv",
+          "#sdv",
+          "#autonomous-driving",
+          "#kia",
+          "#business-model"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678081"
+      },
+      {
+        "date": "2026-11-09",
+        "file": "20261109-오토노머스에이투지-자율주행차-일본-도.md",
+        "title": "오토노머스에이투지 자율주행차, 일본 도로 첫 운행",
+        "importance": 6,
+        "tags": [
+          "#autonomous-driving",
+          "#global-expansion",
+          "#japan",
+          "#level4",
+          "#pilot"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261109104601"
+      },
+      {
         "date": "2026-11-08",
         "file": "20261108-ai가-바꾸는-가전-생산현장-검사-자.md",
         "title": "AI가 바꾸는 가전 생산현장…검사 자동화·직무 전환 가속",
@@ -170375,25 +170649,35 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-09",
-        "title": "AI 연구소의 전력 자체 조달",
-        "summary": "전력 확보가 공급 계약에서 발전 자산 투자 경쟁으로 넘어갔다.",
+        "title": "AI 인프라의 직접 소유 경쟁",
+        "summary": "전력과 데이터센터를 외부 조달 대신 직접 보유하는 흐름이 굳어졌다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
             "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-구글-사업-차질-빚은-크루소-ai-데.md",
+            "title": "구글, 사업 차질 빚은 크루소 AI 데이터센터 인수…170억달러 투자"
           }
         ]
       },
       {
         "date": "2026-11-09",
-        "title": "엔비디아 CEO 안보 조사",
-        "summary": "핵심 칩 공급사의 지배구조가 조달 리스크 변수로 부상했다.",
+        "title": "엔비디아 CEO 안보 조사 확대",
+        "summary": "조사가 의회로 번지며 칩 공급사 지배구조가 조달 리스크가 됐다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
             "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
+            "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'"
           }
         ]
       },
@@ -174616,37 +174900,52 @@
     "ai_industry": [
       {
         "date": "2026-11-09",
-        "title": "AI 연구소의 전력 자체 조달",
-        "summary": "전력 확보가 공급 계약에서 발전 자산 투자 경쟁으로 넘어갔다.",
+        "title": "AI 인프라의 직접 소유 경쟁",
+        "summary": "전력과 데이터센터를 외부 조달 대신 직접 보유하는 흐름이 굳어졌다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
             "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-구글-사업-차질-빚은-크루소-ai-데.md",
+            "title": "구글, 사업 차질 빚은 크루소 AI 데이터센터 인수…170억달러 투자"
           }
         ]
       },
       {
         "date": "2026-11-09",
-        "title": "엔비디아 CEO 안보 조사",
-        "summary": "핵심 칩 공급사의 지배구조가 조달 리스크 변수로 부상했다.",
+        "title": "엔비디아 CEO 안보 조사 확대",
+        "summary": "조사가 의회로 번지며 칩 공급사 지배구조가 조달 리스크가 됐다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
             "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
+            "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'"
           }
         ]
       },
       {
         "date": "2026-11-09",
-        "title": "선거 후 AI 투자 재평가",
-        "summary": "규제 강도는 불확실하지만 시장은 이미 AI 투자를 선별하고 있다.",
+        "title": "美 선거 후 초당적 AI 규제 기류",
+        "summary": "연방 차원의 AI 안전 규제가 현실적 시나리오로 올라섰다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-안광섭-ai-진테제-미국-민주당-정말.md",
             "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-트럼프-민주당과-ai-규제-협력할-의.md",
+            "title": "트럼프 \"민주당과 AI 규제 협력할 의사 있어\"…중간선거 패배 후 변화"
           }
         ]
       },
@@ -182828,25 +183127,35 @@
     "ai_policy": [
       {
         "date": "2026-11-09",
-        "title": "엔비디아 CEO 안보 조사",
-        "summary": "핵심 칩 공급사의 지배구조가 조달 리스크 변수로 부상했다.",
+        "title": "엔비디아 CEO 안보 조사 확대",
+        "summary": "조사가 의회로 번지며 칩 공급사 지배구조가 조달 리스크가 됐다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
             "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
+            "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'"
           }
         ]
       },
       {
         "date": "2026-11-09",
-        "title": "선거 후 AI 투자 재평가",
-        "summary": "규제 강도는 불확실하지만 시장은 이미 AI 투자를 선별하고 있다.",
+        "title": "美 선거 후 초당적 AI 규제 기류",
+        "summary": "연방 차원의 AI 안전 규제가 현실적 시나리오로 올라섰다.",
         "articles": [
           {
             "date": "2026-11-09",
             "file": "20261109-안광섭-ai-진테제-미국-민주당-정말.md",
             "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-트럼프-민주당과-ai-규제-협력할-의.md",
+            "title": "트럼프 \"민주당과 AI 규제 협력할 의사 있어\"…중간선거 패배 후 변화"
           }
         ]
       },
@@ -188647,8 +188956,8 @@
     "ai_agents": [
       {
         "date": "2026-11-09",
-        "title": "에이전트 실전 성능과 통제의 현실",
-        "summary": "에이전트 도입은 사람의 검수와 협업 통제를 전제로 설계해야 한다.",
+        "title": "에이전트 생태계 확장과 현실 점검",
+        "summary": "생태계는 빠르게 커지지만 도입은 검수와 통제 설계가 전제다.",
         "articles": [
           {
             "date": "2026-11-09",
@@ -188664,6 +188973,16 @@
             "date": "2026-11-09",
             "file": "20261109-apple-is-racing-to-m.md",
             "title": "Apple is racing to make Siri more agentic"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-딥시크-하네스-일일-사용자-154만명.md",
+            "title": "딥시크 하네스, 일일 사용자 154만명…미국 주도 AI 에이전트 시장 도전"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-앤트로픽-ai가-잘못된-기억-스스로-.md",
+            "title": "앤트로픽, AI가 잘못된 기억 스스로 수정하는 '드리밍' 기술 효과 입증"
           }
         ]
       },
@@ -194364,8 +194683,8 @@
     "llm_models": [
       {
         "date": "2026-11-09",
-        "title": "에이전트 실전 성능과 통제의 현실",
-        "summary": "에이전트 도입은 사람의 검수와 협업 통제를 전제로 설계해야 한다.",
+        "title": "에이전트 생태계 확장과 현실 점검",
+        "summary": "생태계는 빠르게 커지지만 도입은 검수와 통제 설계가 전제다.",
         "articles": [
           {
             "date": "2026-11-09",
@@ -194381,6 +194700,16 @@
             "date": "2026-11-09",
             "file": "20261109-apple-is-racing-to-m.md",
             "title": "Apple is racing to make Siri more agentic"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-딥시크-하네스-일일-사용자-154만명.md",
+            "title": "딥시크 하네스, 일일 사용자 154만명…미국 주도 AI 에이전트 시장 도전"
+          },
+          {
+            "date": "2026-11-09",
+            "file": "20261109-앤트로픽-ai가-잘못된-기억-스스로-.md",
+            "title": "앤트로픽, AI가 잘못된 기억 스스로 수정하는 '드리밍' 기술 효과 입증"
           }
         ]
       },
