@@ -1,15 +1,16 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-09T16:19:35.966526+09:00",
-  "run_id": "run_20261109_161935",
-  "summary_ko": "인프라 투자가 검증 국면에 들고 규제·통제가 공급망 전반으로 번진다.",
+  "updated_at": "2026-11-10T08:28:23.871912+09:00",
+  "run_id": "run_20261110_082823",
+  "summary_ko": "인프라 수요 검증과 칩 공급 리스크가 겹치는 가운데 모델 경쟁은 가격으로 옮겨간다.",
   "issues": [
     {
       "title": "AI 인프라의 수직 통합과 수요 검증",
-      "body_ko": "직접 보유 경쟁이 국내로 번졌지만 투자 지연 우려로 계약의 실효성이 시험대에 올랐다.",
+      "body_ko": "직접 보유 경쟁에도 확정 수요가 계획의 일부에 그쳐 계약 가시성이 투자를 가른다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -36,12 +37,26 @@
           "date": "2026-11-09",
           "file": "20261109-ai-필요하나-우리-동네는-안된다-중.md",
           "title": "AI 필요하나 우리 동네는 안된다…美 중간선거로 본 데이터 센터의 역설"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
+          "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-goldman-ceo-solomon-.md",
+          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026110957891",
+          "title": ""
         }
       ]
     },
     {
       "title": "칩 공급망의 안보·통제 리스크",
-      "body_ko": "경영진 안보 조사와 클라우드 수출통제 추진이 겹쳐 연산 자원 조달의 불확실성이 커졌다.",
+      "body_ko": "경영진 조사가 의회의 수출정책 감독으로 번져 가속기 벤더 분산이 조달 과제가 됐다.",
       "topics": [
         "ai_industry",
         "ai_policy",
@@ -64,14 +79,28 @@
           "title": "美 반도체 수출통제, 클라우드까지 번진다…韓 AI 기업도 영향권"
         },
         {
-          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "date": "2026-11-10",
+          "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
+          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217190",
+          "title": ""
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
+          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
+        },
+        {
+          "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
           "title": ""
         }
       ]
     },
     {
-      "title": "美 선거 후 AI 규제·투자 재평가",
-      "body_ko": "초당적 규제 기류와 증시의 AI 재평가가 맞물려 투자 속도 조절론이 힘을 얻고 있다.",
+      "title": "美 선거 후 규제 강화와 도입 지속의 분리",
+      "body_ko": "규제 압력은 커지지만 수요 기업은 자체 거버넌스를 근거로 투자를 이어간다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -88,18 +117,28 @@
           "title": "트럼프 \"민주당과 AI 규제 협력할 의사 있어\"…중간선거 패배 후 변화"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12202349",
+          "date": "2026-11-10",
+          "file": "20261110-민주당-규제-강화-전망에도-기업들-a.md",
+          "title": "美 민주당 규제 강화 전망에도 기업들 “AI 도입·투자 지속”"
+        },
+        {
+          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 도입의 현실 점검과 실사용 확산",
-      "body_ko": "완결률 한계 속에서도 검색·업무 메신저로 실사용이 번지며 통제 증빙이 과제가 됐다.",
+      "title": "에이전트 도입의 현실 점검과 통제 설계",
+      "body_ko": "실사용은 확산되지만 백도어·자동패치 오류·책임 공백이 드러나 통제 설계가 전제가 됐다.",
       "topics": [
         "ai_agents",
         "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -119,29 +158,34 @@
         },
         {
           "date": "2026-11-09",
-          "file": "20261109-앤트로픽-ai가-잘못된-기억-스스로-.md",
-          "title": "앤트로픽, AI가 잘못된 기억 스스로 수정하는 '드리밍' 기술 효과 입증"
-        },
-        {
-          "date": "2026-11-09",
           "file": "20261109-검색에서-실제-행동으로-네이버-ai탭.md",
           "title": "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’"
         },
         {
-          "date": "2026-11-09",
-          "file": "20261109-데이터라이즈-고객사-슬랙에-ai-매니.md",
-          "title": "데이터라이즈, 고객사 슬랙에 AI 매니저 '김데라' 투입"
+          "date": "2026-11-10",
+          "file": "20261110-meta-launches-muse-e.md",
+          "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do"
         },
         {
-          "date": "2026-11-09",
-          "file": "20261109-ai-리더스-에이전트-시대-준비됐나-.md",
-          "title": "[AI 리더스] 에이전트 시대, 韓 준비됐나…호주 기업이 본 AI기본법"
+          "date": "2026-11-10",
+          "file": "20261110-ai-학습-데이터-0-1-만-조작해도.md",
+          "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-스틸리언-ai로-해킹-탐지서-패치까지.md",
+          "title": "스틸리언, AI로 해킹 탐지서 패치까지 '10.5분'만에 끝 [현장+]"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
+          "title": "[허정수칼럼] 준비 없이 맞는 금융 AI에이전트 시대"
         }
       ]
     },
     {
-      "title": "국내 AI의 생태계·동맹 전략",
-      "body_ko": "국산 모델 개방과 칩·자율주행 연합으로 글로벌 가치사슬 편입을 통한 성장이 뚜렷해졌다.",
+      "title": "모델 가격 경쟁과 국내 생태계·동맹 전략",
+      "body_ko": "최상위 모델 가격 인하와 국산 모델 투자·개방, 제조 동맹이 맞물려 조달 선택지가 넓어진다.",
       "topics": [
         "llm_models",
         "physical_ai",
@@ -163,6 +207,26 @@
           "date": "2026-11-09",
           "file": "20261109-엔비디아-올라탄-토종npu-소버린ai.md",
           "title": "엔비디아 올라탄 토종NPU...소버린AI로 글로벌 토큰시장 진출"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-앤트로픽-페이블-5-2-ai-성능-평.md",
+          "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아-국내-ai-스타트업-3곳-투.md",
+          "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-삼성-현대차-원팀-보폭-확대-로봇-에.md",
+          "title": "삼성·현대차 '원팀' 보폭 확대…로봇·에너지서 새 기회 찾는다"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아-lg부터-리얼월드까지-협력-.md",
+          "title": "엔비디아, LG부터 리얼월드까지 협력 확대...피지컬AI 고도화 목표"
         }
       ]
     }

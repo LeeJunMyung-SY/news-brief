@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-10",
+  "updated_at": "2026-11-10T08:28:23.871912+09:00",
+  "run_id": "run_20261110_082823",
+  "summary_ko": "모델 경쟁이 가격 싸움으로 번지고 인프라 수요와 칩 공급 리스크가 검증대에 올랐다.",
+  "issues": [
+    {
+      "title": "프런티어 모델 경쟁의 가격 전환",
+      "summary_ko": "성능 1위와 가격 인하가 동시에 와 모델 계약 재협상 근거가 생겼다.",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-10",
+          "file": "20261110-앤트로픽-페이블-5-2-ai-성능-평.md",
+          "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-meta-launches-muse-e.md",
+          "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217162",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "엔비디아 리스크의 정책·공급망 전이",
+      "summary_ko": "경영진 스캔들이 수출정책 조사로 번져 조달 다변화가 과제가 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-10",
+          "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
+          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217190",
+          "title": ""
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
+          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
+        },
+        {
+          "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "인프라 수요 검증과 자금시장의 괴리",
+      "summary_ko": "확정 수요는 적은데 자금 수요는 강해 계약 가시성이 심사 기준이 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-10",
+          "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
+          "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-goldman-ceo-solomon-.md",
+          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026110957881",
+          "title": ""
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-the-backlash-about-d.md",
+          "title": "The backlash about data centers might really just be about electricity"
+        }
+      ]
+    },
+    {
+      "title": "규제 강화 속 도입 지속과 에이전트 책임",
+      "summary_ko": "기업은 도입을 멈추지 않지만 금융 에이전트의 책임·보안 설계가 전제가 됐다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-10",
+          "file": "20261110-민주당-규제-강화-전망에도-기업들-a.md",
+          "title": "美 민주당 규제 강화 전망에도 기업들 “AI 도입·투자 지속”"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
+          "title": "[허정수칼럼] 준비 없이 맞는 금융 AI에이전트 시대"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-클로드-기업용-계정-정보-유출-앤트로.md",
+          "title": "'클로드' 기업용 계정 정보 유출…앤트로픽, 개인정보위에 신고"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-ai-학습-데이터-0-1-만-조작해도.md",
+          "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어"
+        }
+      ]
+    }
+  ]
+}
