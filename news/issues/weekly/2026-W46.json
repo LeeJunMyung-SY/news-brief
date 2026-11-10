@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-10T08:28:23.871912+09:00",
-  "run_id": "run_20261110_082823",
-  "summary_ko": "인프라 수요 검증과 칩 공급 리스크가 겹치는 가운데 모델 경쟁은 가격으로 옮겨간다.",
+  "updated_at": "2026-11-10T12:13:39.416605+09:00",
+  "run_id": "run_20261110_121339",
+  "summary_ko": "인프라·자금시장 검증과 칩 리스크 속에 모델은 가격, 도입은 통제 설계로 옮겨간다.",
   "issues": [
     {
-      "title": "AI 인프라의 수직 통합과 수요 검증",
-      "body_ko": "직접 보유 경쟁에도 확정 수요가 계획의 일부에 그쳐 계약 가시성이 투자를 가른다.",
+      "title": "AI 인프라 수요 검증과 자금시장 시험대",
+      "body_ko": "확정 수요가 계획의 일부에 그쳐 계약 가시성과 공모 흥행이 투자를 가른다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -34,11 +34,6 @@
           "title": "美 AI 투자 늦어진다는데…삼성·SK HBM 'LTA' 안전할까"
         },
         {
-          "date": "2026-11-09",
-          "file": "20261109-ai-필요하나-우리-동네는-안된다-중.md",
-          "title": "AI 필요하나 우리 동네는 안된다…美 중간선거로 본 데이터 센터의 역설"
-        },
-        {
           "date": "2026-11-10",
           "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
           "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
@@ -49,25 +44,26 @@
           "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
         },
         {
-          "url": "https://www.hankyung.com/article/2026110957891",
-          "title": ""
+          "date": "2026-11-10",
+          "file": "20261110-anthropic-reportedly.md",
+          "title": "Anthropic reportedly plans to move forward with IPO plans"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
+          "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
         }
       ]
     },
     {
-      "title": "칩 공급망의 안보·통제 리스크",
-      "body_ko": "경영진 조사가 의회의 수출정책 감독으로 번져 가속기 벤더 분산이 조달 과제가 됐다.",
+      "title": "칩 공급망의 안보·사법 리스크",
+      "body_ko": "경영진 의혹이 의회 감독을 넘어 수사·소송으로 번져 가속기 분산이 조달 과제가 됐다.",
       "topics": [
         "ai_industry",
         "ai_policy",
         "ai_compute_energy"
       ],
       "articles": [
-        {
-          "date": "2026-11-09",
-          "file": "20261109-젠슨-황-아내에게-충실하지-못했다-사.md",
-          "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
-        },
         {
           "date": "2026-11-09",
           "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
@@ -84,23 +80,25 @@
           "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217190",
-          "title": ""
-        },
-        {
           "date": "2026-11-10",
           "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
           "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
         },
         {
-          "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
-          "title": ""
+          "date": "2026-11-10",
+          "file": "20261110-트럼프-fbi-젠슨-황-사건-조사-중.md",
+          "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아-젠슨-황-주주-집단소송-직면.md",
+          "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 관련 '허위 설명' 쟁점"
         }
       ]
     },
     {
       "title": "美 선거 후 규제 강화와 도입 지속의 분리",
-      "body_ko": "규제 압력은 커지지만 수요 기업은 자체 거버넌스를 근거로 투자를 이어간다.",
+      "body_ko": "규제 압력과 투자 둔화 우려 속에도 수요 기업은 자체 거버넌스로 도입을 잇는다.",
       "topics": [
         "ai_policy",
         "ai_industry"
@@ -122,23 +120,20 @@
           "title": "美 민주당 규제 강화 전망에도 기업들 “AI 도입·투자 지속”"
         },
         {
-          "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-          "title": ""
-        },
-        {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-          "title": ""
+          "date": "2026-11-10",
+          "file": "20261110-ai는-지금-ai-투자-주춤-에-열린.md",
+          "title": "[AI는 지금] 美 AI 투자 주춤…中에 열린 추격의 틈"
         }
       ]
     },
     {
       "title": "에이전트 도입의 현실 점검과 통제 설계",
-      "body_ko": "실사용은 확산되지만 백도어·자동패치 오류·책임 공백이 드러나 통제 설계가 전제가 됐다.",
+      "body_ko": "실험은 넓지만 운영 도입은 적어 보안·책임 통제 계층이 도입의 전제가 됐다.",
       "topics": [
         "ai_agents",
-        "llm_models",
+        "금융회사 AI",
         "ai_industry",
-        "금융회사 AI"
+        "llm_models"
       ],
       "articles": [
         {
@@ -148,23 +143,8 @@
         },
         {
           "date": "2026-11-09",
-          "file": "20261109-recent-ai-agent-expe.md",
-          "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations"
-        },
-        {
-          "date": "2026-11-09",
-          "file": "20261109-딥시크-하네스-일일-사용자-154만명.md",
-          "title": "딥시크 하네스, 일일 사용자 154만명…미국 주도 AI 에이전트 시장 도전"
-        },
-        {
-          "date": "2026-11-09",
           "file": "20261109-검색에서-실제-행동으로-네이버-ai탭.md",
           "title": "검색에서 실제 행동으로…네이버 AI탭 이용자 절반 이상 ‘구매·예약’"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-meta-launches-muse-e.md",
-          "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do"
         },
         {
           "date": "2026-11-10",
@@ -173,19 +153,29 @@
         },
         {
           "date": "2026-11-10",
-          "file": "20261110-스틸리언-ai로-해킹-탐지서-패치까지.md",
-          "title": "스틸리언, AI로 해킹 탐지서 패치까지 '10.5분'만에 끝 [현장+]"
+          "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
+          "title": "[허정수칼럼] 준비 없이 맞는 금융 AI에이전트 시대"
         },
         {
           "date": "2026-11-10",
-          "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
-          "title": "[허정수칼럼] 준비 없이 맞는 금융 AI에이전트 시대"
+          "file": "20261110-ai-실험만-하다-뒤처진다-시스코-기.md",
+          "title": "\"AI 실험만 하다 뒤처진다\"…시스코, 기업 혁신 가로막는 '신뢰 부족' 경고"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-ai-모의창구로-불완전판매-예방-한화.md",
+          "title": "AI 모의창구로 불완전판매 예방…한화손보, 금융AI챌린지 대상"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-브레인즈컴퍼니-자회사-에이프리카-치타.md",
+          "title": "브레인즈컴퍼니 자회사 에이프리카, ‘치타 AI Gateway’ 국내 보험사 공급"
         }
       ]
     },
     {
       "title": "모델 가격 경쟁과 국내 생태계·동맹 전략",
-      "body_ko": "최상위 모델 가격 인하와 국산 모델 투자·개방, 제조 동맹이 맞물려 조달 선택지가 넓어진다.",
+      "body_ko": "최상위 모델 가격 인하와 국산 모델·칩 투자가 맞물려 조달 선택지가 넓어진다.",
       "topics": [
         "llm_models",
         "physical_ai",
@@ -197,16 +187,6 @@
           "date": "2026-11-09",
           "file": "20261109-lg-ai연구원-독파모-k-엑사원-2.md",
           "title": "LG AI연구원, 독파모 'K-엑사원 2.5' API 무료개방"
-        },
-        {
-          "date": "2026-11-09",
-          "file": "20261109-카카오모빌리티-엔비디아와-레벨4-자율.md",
-          "title": "카카오모빌리티, 엔비디아와 레벨4 자율주행 기술 협력…기아 PBV에 적용"
-        },
-        {
-          "date": "2026-11-09",
-          "file": "20261109-엔비디아-올라탄-토종npu-소버린ai.md",
-          "title": "엔비디아 올라탄 토종NPU...소버린AI로 글로벌 토큰시장 진출"
         },
         {
           "date": "2026-11-10",
@@ -225,8 +205,13 @@
         },
         {
           "date": "2026-11-10",
-          "file": "20261110-엔비디아-lg부터-리얼월드까지-협력-.md",
-          "title": "엔비디아, LG부터 리얼월드까지 협력 확대...피지컬AI 고도화 목표"
+          "file": "20261110-영상-모두의-ai-국민의-삶-바꿀까.md",
+          "title": "[영상] 모두의 AI, 국민의 삶 바꿀까"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-딥엑스-초저전력-ai-반도체-dx-m.md",
+          "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비"
         }
       ]
     }

@@ -1,9 +1,85 @@
 {
   "date": "2026-11-10",
-  "updated_at": "2026-11-10T08:28:23.871912+09:00",
-  "run_id": "run_20261110_082823",
-  "summary_ko": "모델 경쟁이 가격 싸움으로 번지고 인프라 수요와 칩 공급 리스크가 검증대에 올랐다.",
+  "updated_at": "2026-11-10T12:13:39.416605+09:00",
+  "run_id": "run_20261110_121339",
+  "summary_ko": "AI 투자 심리가 IPO·스캔들로 흔들리는 사이 기업은 통제 장치를 갖추며 도입을 이어간다.",
   "issues": [
+    {
+      "title": "AI 자금시장의 시험대",
+      "summary_ko": "확정 수요는 적은데 IPO와 주가가 투자 사이클의 가늠자가 됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-10",
+          "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
+          "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-goldman-ceo-solomon-.md",
+          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-anthropic-reportedly.md",
+          "title": "Anthropic reportedly plans to move forward with IPO plans"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261110070800008",
+          "title": ""
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
+          "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아 리스크의 사법화",
+      "summary_ko": "스캔들이 수사·소송으로 번져 공급사 실사와 조달 분산이 과제가 됐다.",
+      "topics": [
+        "ai_policy",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-10",
+          "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
+          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
+          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-트럼프-fbi-젠슨-황-사건-조사-중.md",
+          "title": "트럼프 \"FBI, 젠슨 황 사건 조사 중\"…주요 AI 행사도 잇달아 불참"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-엔비디아-젠슨-황-주주-집단소송-직면.md",
+          "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 관련 '허위 설명' 쟁점"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-ai는-지금-ai-투자-주춤-에-열린.md",
+          "title": "[AI는 지금] 美 AI 투자 주춤…中에 열린 추격의 틈"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-딥엑스-초저전력-ai-반도체-dx-m.md",
+          "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비"
+        }
+      ]
+    },
     {
       "title": "프런티어 모델 경쟁의 가격 전환",
       "summary_ko": "성능 1위와 가격 인하가 동시에 와 모델 계약 재협상 근거가 생겼다.",
@@ -22,87 +98,19 @@
           "date": "2026-11-10",
           "file": "20261110-meta-launches-muse-e.md",
           "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217162",
-          "title": ""
         }
       ]
     },
     {
-      "title": "엔비디아 리스크의 정책·공급망 전이",
-      "summary_ko": "경영진 스캔들이 수출정책 조사로 번져 조달 다변화가 과제가 됐다.",
+      "title": "에이전트 도입의 신뢰·통제 설계",
+      "summary_ko": "도입 병목이 성능이 아닌 통제에 있어 금융권부터 통제 계층을 갖춘다.",
       "topics": [
-        "ai_policy",
-        "ai_industry",
-        "ai_compute_energy"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-10",
-          "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
-          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217190",
-          "title": ""
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
-          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
-        },
-        {
-          "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "인프라 수요 검증과 자금시장의 괴리",
-      "summary_ko": "확정 수요는 적은데 자금 수요는 강해 계약 가시성이 심사 기준이 됐다.",
-      "topics": [
-        "ai_compute_energy",
-        "ai_industry",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-10",
-          "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
-          "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-goldman-ceo-solomon-.md",
-          "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026110957881",
-          "title": ""
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-the-backlash-about-d.md",
-          "title": "The backlash about data centers might really just be about electricity"
-        }
-      ]
-    },
-    {
-      "title": "규제 강화 속 도입 지속과 에이전트 책임",
-      "summary_ko": "기업은 도입을 멈추지 않지만 금융 에이전트의 책임·보안 설계가 전제가 됐다.",
-      "topics": [
-        "ai_industry",
+        "ai_agents",
         "금융회사 AI",
         "ai_policy",
-        "ai_agents"
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-10",
-          "file": "20261110-민주당-규제-강화-전망에도-기업들-a.md",
-          "title": "美 민주당 규제 강화 전망에도 기업들 “AI 도입·투자 지속”"
-        },
         {
           "date": "2026-11-10",
           "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
@@ -117,6 +125,21 @@
           "date": "2026-11-10",
           "file": "20261110-ai-학습-데이터-0-1-만-조작해도.md",
           "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-ai-실험만-하다-뒤처진다-시스코-기.md",
+          "title": "\"AI 실험만 하다 뒤처진다\"…시스코, 기업 혁신 가로막는 '신뢰 부족' 경고"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-ai-모의창구로-불완전판매-예방-한화.md",
+          "title": "AI 모의창구로 불완전판매 예방…한화손보, 금융AI챌린지 대상"
+        },
+        {
+          "date": "2026-11-10",
+          "file": "20261110-브레인즈컴퍼니-자회사-에이프리카-치타.md",
+          "title": "브레인즈컴퍼니 자회사 에이프리카, ‘치타 AI Gateway’ 국내 보험사 공급"
         }
       ]
     }
