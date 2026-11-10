@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-10T16:13:51.460751+09:00",
-  "run_id": "run_20261110_161351",
-  "summary_ko": "자금·칩 리스크로 인프라 투자가 검증받는 사이 모델은 가격, 도입은 운영 체계로 옮겨간다.",
+  "updated_at": "2026-11-11T08:13:55.570375+09:00",
+  "run_id": "run_20261111_081355",
+  "summary_ko": "인프라 투자가 자금시장 검증을 통과하는 사이 AI는 가격 경쟁과 플랫폼화로 도입 접점을 넓힌다.",
   "issues": [
     {
       "title": "AI 인프라 수요 검증과 자금시장 시험대",
-      "body_ko": "확정 수요가 계획에 못 미치고 대형 공모가 흔들려 계약 가시성이 투자를 가른다.",
+      "body_ko": "IPO 번복과 실적 서프라이즈가 엇갈리며 확정 수요가 투자 판단의 기준이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -24,16 +24,6 @@
           "title": "구글, 사업 차질 빚은 크루소 AI 데이터센터 인수…170억달러 투자"
         },
         {
-          "date": "2026-11-09",
-          "file": "20261109-gs-15조-인공지능-데이터센터-첫-.md",
-          "title": "㈜GS, 15조 인공지능 데이터센터 '첫 고객계약' 연말 승부"
-        },
-        {
-          "date": "2026-11-09",
-          "file": "20261109-ai-투자-늦어진다는데-삼성-sk-h.md",
-          "title": "美 AI 투자 늦어진다는데…삼성·SK HBM 'LTA' 안전할까"
-        },
-        {
           "date": "2026-11-10",
           "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
           "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
@@ -42,16 +32,6 @@
           "date": "2026-11-10",
           "file": "20261110-goldman-ceo-solomon-.md",
           "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-anthropic-reportedly.md",
-          "title": "Anthropic reportedly plans to move forward with IPO plans"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
-          "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
         },
         {
           "date": "2026-11-10",
@@ -64,40 +44,35 @@
           "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)"
         },
         {
-          "date": "2026-11-10",
-          "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
-          "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략"
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-kicks-off-.md",
+          "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-coreweave-beats-on-r.md",
+          "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-스페이스x-텍사스에-32조-ai-데이.md",
+          "title": "스페이스X, 텍사스에 32조 AI 데이터센터·가스발전소 건설 추진"
         }
       ]
     },
     {
       "title": "칩 공급망 리스크와 가속기 다변화",
-      "body_ko": "경영진 의혹이 수사·소송으로 번지며 대안 가속기 확보가 조달 과제가 됐다.",
+      "body_ko": "경영진 의혹이 칩 우회 유출 의혹까지 번져 공급사 제재 리스크가 조달 변수가 됐다.",
       "topics": [
-        "ai_industry",
         "ai_policy",
+        "ai_industry",
         "ai_compute_energy"
       ],
       "articles": [
         {
           "date": "2026-11-09",
-          "file": "20261109-불륜-인정한-젠슨-황-스파이-연루-의.md",
-          "title": "불륜 인정한 젠슨 황, 中 스파이 연루 의혹에 리더십 '흔들'"
-        },
-        {
-          "date": "2026-11-09",
           "file": "20261109-반도체-수출통제-클라우드까지-번진다-.md",
           "title": "美 반도체 수출통제, 클라우드까지 번진다…韓 AI 기업도 영향권"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
-          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
-          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
         },
         {
           "date": "2026-11-10",
@@ -111,25 +86,30 @@
         },
         {
           "date": "2026-11-10",
+          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
+          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
+        },
+        {
+          "date": "2026-11-10",
           "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
           "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-젠슨-황-외도-상대-앨리스-황-10조.md",
+          "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”"
         }
       ]
     },
     {
-      "title": "美 선거 후 규제 재편과 도입 지속의 분리",
-      "body_ko": "규제 방향이 유동적인 가운데 수요 기업은 자체 거버넌스로 도입을 잇는다.",
+      "title": "AI 규제의 실효화와 美 정치 변수",
+      "body_ko": "주 단위 법 시행과 국제 선언으로 벤더 의무가 구체화되고 인프라 입지도 흔들린다.",
       "topics": [
         "ai_policy",
-        "ai_industry",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-09",
-          "file": "20261109-안광섭-ai-진테제-미국-민주당-정말.md",
-          "title": "[안광섭 AI 진테제] 미국 민주당, 정말 AI 투자 속도 꺾을까"
-        },
         {
           "date": "2026-11-09",
           "file": "20261109-트럼프-민주당과-ai-규제-협력할-의.md",
@@ -142,31 +122,35 @@
         },
         {
           "date": "2026-11-10",
-          "file": "20261110-ai는-지금-ai-투자-주춤-에-열린.md",
-          "title": "[AI는 지금] 美 AI 투자 주춤…中에 열린 추격의 틈"
-        },
-        {
-          "date": "2026-11-10",
           "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
           "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-openai-anthropic-fac.md",
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-eight-countries-and-.md",
+          "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-소프트뱅크-미국-ai-데이터센터-사업.md",
+          "title": "소프트뱅크, 미국 AI 데이터센터 사업 재검토…중간선거 후 규제 부담"
         }
       ]
     },
     {
-      "title": "에이전트 도입의 통제 설계와 운영 체계화",
-      "body_ko": "보안·책임 통제에 이어 에이전트를 조직 자산으로 관리하는 체계가 도입 전제가 됐다.",
+      "title": "에이전트의 플랫폼화와 통제 체계",
+      "body_ko": "AI 대화창이 커머스·업무 관문이 되며 에이전트 식별·권한 통제가 도입 전제가 됐다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
-        "ai_industry",
-        "llm_models"
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-09",
-          "file": "20261109-ai-coding-agents-sti.md",
-          "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test"
-        },
         {
           "date": "2026-11-09",
           "file": "20261109-검색에서-실제-행동으로-네이버-ai탭.md",
@@ -174,23 +158,8 @@
         },
         {
           "date": "2026-11-10",
-          "file": "20261110-ai-학습-데이터-0-1-만-조작해도.md",
-          "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어"
-        },
-        {
-          "date": "2026-11-10",
           "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
           "title": "[허정수칼럼] 준비 없이 맞는 금융 AI에이전트 시대"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-ai-실험만-하다-뒤처진다-시스코-기.md",
-          "title": "\"AI 실험만 하다 뒤처진다\"…시스코, 기업 혁신 가로막는 '신뢰 부족' 경고"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-ai-모의창구로-불완전판매-예방-한화.md",
-          "title": "AI 모의창구로 불완전판매 예방…한화손보, 금융AI챌린지 대상"
         },
         {
           "date": "2026-11-10",
@@ -204,24 +173,38 @@
         },
         {
           "date": "2026-11-10",
-          "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
-          "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시"
-        },
-        {
-          "date": "2026-11-10",
           "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
           "title": "AI에 음성까지…진화하는 은행 스마트키오스크"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-openai-turns-chatgpt.md",
+          "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-turns-clau.md",
+          "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-biocatch-launches-ag.md",
+          "title": "BioCatch launches agentic AI detection tech"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-은행-보험사-등-200여-곳-회원-둔.md",
+          "title": "은행·보험사 등 200여 곳 회원 둔 금보원도 해킹 사고"
         }
       ]
     },
     {
-      "title": "모델 가격 경쟁과 국내 생태계·동맹 전략",
-      "body_ko": "최상위 모델 가격 인하와 국산 모델·로봇 생태계 투자가 맞물려 조달 선택지가 넓어진다.",
+      "title": "최상위 모델 가격전과 업무 대체 가속",
+      "body_ko": "1위 경쟁이 비용 경쟁으로 옮겨가고 업무 완수율이 급등해 조달·인력 계획이 바뀐다.",
       "topics": [
         "llm_models",
-        "physical_ai",
         "ai_industry",
-        "ai_compute_energy"
+        "physical_ai"
       ],
       "articles": [
         {
@@ -240,24 +223,18 @@
           "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프"
         },
         {
-          "date": "2026-11-10",
-          "file": "20261110-삼성-현대차-원팀-보폭-확대-로봇-에.md",
-          "title": "삼성·현대차 '원팀' 보폭 확대…로봇·에너지서 새 기회 찾는다"
+          "date": "2026-11-11",
+          "file": "20261111-gemini-4-carbon-arri.md",
+          "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet"
         },
         {
-          "date": "2026-11-10",
-          "file": "20261110-영상-모두의-ai-국민의-삶-바꿀까.md",
-          "title": "[영상] 모두의 AI, 국민의 삶 바꿀까"
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-s-fable-5-.md",
+          "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago"
         },
         {
-          "date": "2026-11-10",
-          "file": "20261110-딥엑스-초저전력-ai-반도체-dx-m.md",
-          "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-리얼월드-엔비디와-손잡고-로봇-손-조.md",
-          "title": "리얼월드, 엔비디와 손잡고 로봇 손 조작 벤치마크 '덱스벤치' 공개"
+          "url": "https://the-decoder.com/google-deepmind-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+          "title": ""
         }
       ]
     }

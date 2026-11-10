@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-11",
+  "updated_at": "2026-11-11T08:13:55.570375+09:00",
+  "run_id": "run_20261111_081355",
+  "summary_ko": "자금시장이 AI를 재검증하는 사이 AI 플랫폼은 업무·커머스 접점을 장악하려 한다.",
+  "issues": [
+    {
+      "title": "AI 자금·인프라 투자의 재가동 신호",
+      "summary_ko": "IPO 확정과 실적 서프라이즈로 둔화 우려가 일부 진정됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-kicks-off-.md",
+          "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-coreweave-beats-on-r.md",
+          "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-스페이스x-텍사스에-32조-ai-데이.md",
+          "title": "스페이스X, 텍사스에 32조 AI 데이터센터·가스발전소 건설 추진"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-소프트뱅크-미국-ai-데이터센터-사업.md",
+          "title": "소프트뱅크, 미국 AI 데이터센터 사업 재검토…중간선거 후 규제 부담"
+        }
+      ]
+    },
+    {
+      "title": "AI 플랫폼의 업무·커머스 접점 장악",
+      "summary_ko": "AI 대화창이 고객 유입과 업무 도구의 관문이 되고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-11",
+          "file": "20261111-openai-turns-chatgpt.md",
+          "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-turns-clau.md",
+          "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217233",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+          "title": ""
+        },
+        {
+          "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "최상위 모델 가격전과 노동 대체 가속",
+      "summary_ko": "비용 경쟁과 업무 완수율 급등이 조달·인력 계획을 흔든다.",
+      "topics": [
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-11",
+          "file": "20261111-gemini-4-carbon-arri.md",
+          "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-s-fable-5-.md",
+          "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago"
+        },
+        {
+          "url": "https://the-decoder.com/google-deepmind-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "규제 실효화와 보안 사고의 겹침",
+      "summary_ko": "벤더 의무가 법제화되는 사이 보안 사고가 통제 강화를 재촉한다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-11",
+          "file": "20261111-openai-anthropic-fac.md",
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-eight-countries-and-.md",
+          "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-은행-보험사-등-200여-곳-회원-둔.md",
+          "title": "은행·보험사 등 200여 곳 회원 둔 금보원도 해킹 사고"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-젠슨-황-외도-상대-앨리스-황-10조.md",
+          "title": "“젠슨 황 외도 상대 앨리스 황, 10조원 엔비디아 AI칩 中 밀반입”"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-grok-build-coding-ag.md",
+          "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI"
+        }
+      ]
+    }
+  ]
+}
