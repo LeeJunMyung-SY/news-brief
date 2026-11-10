@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:13:48+00:00",
+  "generated_at": "2026-11-10T07:14:02+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,49 +12,49 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1620,
+      "count": 1622,
       "latest_date": "2026-11-10"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1638,
+      "count": 1639,
       "latest_date": "2026-11-10"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3791,
+      "count": 3800,
       "latest_date": "2026-11-10"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 570,
+      "count": 571,
       "latest_date": "2026-11-10"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1234,
+      "count": 1238,
       "latest_date": "2026-11-10"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1033,
+      "count": 1035,
       "latest_date": "2026-11-10"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 633,
+      "count": 636,
       "latest_date": "2026-11-10"
     },
     {
@@ -154,6 +154,36 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217183"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-ai와-디지털전환-에이전트를-고용했다.md",
+        "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#agent-governance",
+          "#ai-adoption",
+          "#skt",
+          "#column"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261110000230"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
+        "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#customer-service",
+          "#no-code",
+          "#enterprise-ai",
+          "#product-launch"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261110000406"
       },
       {
         "date": "2026-11-10",
@@ -41708,6 +41738,21 @@
     "ai_policy": [
       {
         "date": "2026-11-10",
+        "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+        "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#data-center",
+          "#power-grid",
+          "#us-congress",
+          "#permitting"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217210"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
         "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
         "importance": 7,
@@ -65453,6 +65498,36 @@
       },
       {
         "date": "2026-11-10",
+        "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
+        "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격",
+        "importance": 7,
+        "tags": [
+          "#tpu",
+          "#ai-chip",
+          "#enterprise-ai",
+          "#confidential-computing",
+          "#vendor-diversification"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217211"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+        "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#data-center",
+          "#power-grid",
+          "#us-congress",
+          "#permitting"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217210"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
         "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
         "importance": 7,
@@ -65484,6 +65559,21 @@
       },
       {
         "date": "2026-11-10",
+        "file": "20261110-앤트로픽-93조-ipo-계획-전달-직.md",
+        "title": "앤트로픽, 93조 IPO 계획 전달 직후 철회…빅테크 35조 투자도 포함",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#investment",
+          "#anthropic",
+          "#capital-markets",
+          "#vendor-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217213"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-엔비디아-국내-ai-스타트업-3곳-투.md",
         "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프",
         "importance": 7,
@@ -65496,6 +65586,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217188"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+        "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)",
+        "importance": 6,
+        "tags": [
+          "#market-sentiment",
+          "#ai-cycle",
+          "#semiconductor",
+          "#us-politics"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261110070851008"
       },
       {
         "date": "2026-11-10",
@@ -65527,6 +65631,21 @@
       },
       {
         "date": "2026-11-10",
+        "file": "20261110-ai와-디지털전환-에이전트를-고용했다.md",
+        "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#agent-governance",
+          "#ai-adoption",
+          "#skt",
+          "#column"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261110000230"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-goldman-ceo-solomon-.md",
         "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
         "importance": 6,
@@ -65539,6 +65658,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
+        "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#onsite-power",
+          "#gas-engine",
+          "#supply-chain",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261110150129"
       },
       {
         "date": "2026-11-10",
@@ -65567,6 +65701,20 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=678170"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-가전-협력사-생산라인도-ax-본격화-.md",
+        "title": "가전 협력사 생산라인도 AX 본격화…프레스부터 조립·물류까지 맡긴다",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ax",
+          "#autonomous-manufacturing",
+          "#supply-chain",
+          "#sme"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261030000232"
       },
       {
         "date": "2026-11-10",
@@ -65610,6 +65758,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=678153"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
+        "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시",
+        "importance": 6,
+        "tags": [
+          "#agent-framework",
+          "#customer-service",
+          "#no-code",
+          "#enterprise-ai",
+          "#product-launch"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261110000406"
       },
       {
         "date": "2026-11-10",
@@ -65683,6 +65846,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261109190807"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-크라우드웍스-인핸스와-제조-암묵지-a.md",
+        "title": "크라우드웍스, 인핸스와 제조 암묵지 AI 전환 협력",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ax",
+          "#partnership",
+          "#public-funding",
+          "#ontology",
+          "#tacit-knowledge"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217217"
       },
       {
         "date": "2026-11-10",
@@ -120307,6 +120485,21 @@
     "physical_ai_robotics": [
       {
         "date": "2026-11-10",
+        "file": "20261110-리얼월드-엔비디와-손잡고-로봇-손-조.md",
+        "title": "리얼월드, 엔비디와 손잡고 로봇 손 조작 벤치마크 '덱스벤치' 공개",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#benchmark",
+          "#partnership",
+          "#nvidia",
+          "#dexterous-manipulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261110135514"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-삼성-현대차-원팀-보폭-확대-로봇-에.md",
         "title": "삼성·현대차 '원팀' 보폭 확대…로봇·에너지서 새 기회 찾는다",
         "importance": 6,
@@ -128577,6 +128770,36 @@
       },
       {
         "date": "2026-11-10",
+        "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
+        "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격",
+        "importance": 7,
+        "tags": [
+          "#tpu",
+          "#ai-chip",
+          "#enterprise-ai",
+          "#confidential-computing",
+          "#vendor-diversification"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217211"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+        "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발",
+        "importance": 7,
+        "tags": [
+          "#regulation",
+          "#data-center",
+          "#power-grid",
+          "#us-congress",
+          "#permitting"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217210"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-미-의회-젠슨-황-조사-압박-중국-a.md",
         "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
         "importance": 7,
@@ -128590,6 +128813,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217195"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+        "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)",
+        "importance": 6,
+        "tags": [
+          "#market-sentiment",
+          "#ai-cycle",
+          "#semiconductor",
+          "#us-politics"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261110070851008"
       },
       {
         "date": "2026-11-10",
@@ -128619,6 +128856,21 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
+        "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#onsite-power",
+          "#gas-engine",
+          "#supply-chain",
+          "#korea"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261110150129"
       },
       {
         "date": "2026-11-10",
@@ -146379,6 +146631,35 @@
       },
       {
         "date": "2026-11-10",
+        "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
+        "title": "AI에 음성까지…진화하는 은행 스마트키오스크",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#ai-adoption",
+          "#voice-ai",
+          "#branch-automation",
+          "#customer-service"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261110141229"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+        "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)",
+        "importance": 6,
+        "tags": [
+          "#market-sentiment",
+          "#ai-cycle",
+          "#semiconductor",
+          "#us-politics"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261110070851008"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-goldman-ceo-solomon-.md",
         "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
         "importance": 6,
@@ -161552,6 +161833,35 @@
     "physical_ai": [
       {
         "date": "2026-11-10",
+        "file": "20261110-가전-협력사-생산라인도-ax-본격화-.md",
+        "title": "가전 협력사 생산라인도 AX 본격화…프레스부터 조립·물류까지 맡긴다",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ax",
+          "#autonomous-manufacturing",
+          "#supply-chain",
+          "#sme"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261030000232"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-리얼월드-엔비디와-손잡고-로봇-손-조.md",
+        "title": "리얼월드, 엔비디와 손잡고 로봇 손 조작 벤치마크 '덱스벤치' 공개",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#benchmark",
+          "#partnership",
+          "#nvidia",
+          "#dexterous-manipulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261110135514"
+      },
+      {
+        "date": "2026-11-10",
         "file": "20261110-삼성-현대차-원팀-보폭-확대-로봇-에.md",
         "title": "삼성·현대차 '원팀' 보폭 확대…로봇·에너지서 새 기회 찾는다",
         "importance": 6,
@@ -161579,6 +161889,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=678137"
+      },
+      {
+        "date": "2026-11-10",
+        "file": "20261110-크라우드웍스-인핸스와-제조-암묵지-a.md",
+        "title": "크라우드웍스, 인핸스와 제조 암묵지 AI 전환 협력",
+        "importance": 6,
+        "tags": [
+          "#manufacturing-ax",
+          "#partnership",
+          "#public-funding",
+          "#ontology",
+          "#tacit-knowledge"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217217"
       },
       {
         "date": "2026-11-09",
@@ -171963,8 +172288,8 @@
     "ai_industry": [
       {
         "date": "2026-11-10",
-        "title": "AI 자금시장의 시험대",
-        "summary": "확정 수요는 적은데 IPO와 주가가 투자 사이클의 가늠자가 됐다.",
+        "title": "AI 자금·인프라 투자의 시험대",
+        "summary": "공모 계획이 흔들리고 규제·증시가 출렁여 투자 사이클이 재검증된다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -171982,20 +172307,36 @@
             "title": "Anthropic reportedly plans to move forward with IPO plans"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261110070800008",
-            "title": ""
-          },
-          {
             "date": "2026-11-10",
             "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
             "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-앤트로픽-93조-ipo-계획-전달-직.md",
+            "title": "앤트로픽, 93조 IPO 계획 전달 직후 철회…빅테크 35조 투자도 포함"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+            "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+            "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
+            "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략"
           }
         ]
       },
       {
         "date": "2026-11-10",
-        "title": "엔비디아 리스크의 사법화",
-        "summary": "스캔들이 수사·소송으로 번져 공급사 실사와 조달 분산이 과제가 됐다.",
+        "title": "엔비디아 리스크와 가속기 대안",
+        "summary": "공급사 리스크가 사법화되며 대안 가속기가 실질 선택지가 됐다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -172026,6 +172367,11 @@
             "date": "2026-11-10",
             "file": "20261110-딥엑스-초저전력-ai-반도체-dx-m.md",
             "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
+            "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격"
           }
         ]
       },
@@ -172048,8 +172394,8 @@
       },
       {
         "date": "2026-11-10",
-        "title": "에이전트 도입의 신뢰·통제 설계",
-        "summary": "도입 병목이 성능이 아닌 통제에 있어 금융권부터 통제 계층을 갖춘다.",
+        "title": "에이전트 도입의 통제·운영 설계",
+        "summary": "통제 계층에 이어 에이전트를 직원처럼 관리할 운영 체계가 과제다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -172080,6 +172426,21 @@
             "date": "2026-11-10",
             "file": "20261110-브레인즈컴퍼니-자회사-에이프리카-치타.md",
             "title": "브레인즈컴퍼니 자회사 에이프리카, ‘치타 AI Gateway’ 국내 보험사 공급"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai와-디지털전환-에이전트를-고용했다.md",
+            "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
+            "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
+            "title": "AI에 음성까지…진화하는 은행 스마트키오스크"
           }
         ]
       },
@@ -180381,8 +180742,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-10",
-        "title": "AI 자금시장의 시험대",
-        "summary": "확정 수요는 적은데 IPO와 주가가 투자 사이클의 가늠자가 됐다.",
+        "title": "AI 자금·인프라 투자의 시험대",
+        "summary": "공모 계획이 흔들리고 규제·증시가 출렁여 투자 사이클이 재검증된다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -180400,20 +180761,36 @@
             "title": "Anthropic reportedly plans to move forward with IPO plans"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261110070800008",
-            "title": ""
-          },
-          {
             "date": "2026-11-10",
             "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
             "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-앤트로픽-93조-ipo-계획-전달-직.md",
+            "title": "앤트로픽, 93조 IPO 계획 전달 직후 철회…빅테크 35조 투자도 포함"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+            "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+            "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
+            "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략"
           }
         ]
       },
       {
         "date": "2026-11-10",
-        "title": "엔비디아 리스크의 사법화",
-        "summary": "스캔들이 수사·소송으로 번져 공급사 실사와 조달 분산이 과제가 됐다.",
+        "title": "엔비디아 리스크와 가속기 대안",
+        "summary": "공급사 리스크가 사법화되며 대안 가속기가 실질 선택지가 됐다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -180444,6 +180821,11 @@
             "date": "2026-11-10",
             "file": "20261110-딥엑스-초저전력-ai-반도체-dx-m.md",
             "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
+            "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격"
           }
         ]
       },
@@ -184739,8 +185121,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-10",
-        "title": "AI 자금시장의 시험대",
-        "summary": "확정 수요는 적은데 IPO와 주가가 투자 사이클의 가늠자가 됐다.",
+        "title": "AI 자금·인프라 투자의 시험대",
+        "summary": "공모 계획이 흔들리고 규제·증시가 출렁여 투자 사이클이 재검증된다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -184758,20 +185140,36 @@
             "title": "Anthropic reportedly plans to move forward with IPO plans"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261110070800008",
-            "title": ""
-          },
-          {
             "date": "2026-11-10",
             "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
             "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-앤트로픽-93조-ipo-계획-전달-직.md",
+            "title": "앤트로픽, 93조 IPO 계획 전달 직후 철회…빅테크 35조 투자도 포함"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+            "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+            "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
+            "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략"
           }
         ]
       },
       {
         "date": "2026-11-10",
-        "title": "에이전트 도입의 신뢰·통제 설계",
-        "summary": "도입 병목이 성능이 아닌 통제에 있어 금융권부터 통제 계층을 갖춘다.",
+        "title": "에이전트 도입의 통제·운영 설계",
+        "summary": "통제 계층에 이어 에이전트를 직원처럼 관리할 운영 체계가 과제다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -184802,6 +185200,21 @@
             "date": "2026-11-10",
             "file": "20261110-브레인즈컴퍼니-자회사-에이프리카-치타.md",
             "title": "브레인즈컴퍼니 자회사 에이프리카, ‘치타 AI Gateway’ 국내 보험사 공급"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai와-디지털전환-에이전트를-고용했다.md",
+            "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
+            "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
+            "title": "AI에 음성까지…진화하는 은행 스마트키오스크"
           }
         ]
       },
@@ -189819,8 +190232,55 @@
     "ai_policy": [
       {
         "date": "2026-11-10",
-        "title": "엔비디아 리스크의 사법화",
-        "summary": "스캔들이 수사·소송으로 번져 공급사 실사와 조달 분산이 과제가 됐다.",
+        "title": "AI 자금·인프라 투자의 시험대",
+        "summary": "공모 계획이 흔들리고 규제·증시가 출렁여 투자 사이클이 재검증된다.",
+        "articles": [
+          {
+            "date": "2026-11-10",
+            "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
+            "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-goldman-ceo-solomon-.md",
+            "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-anthropic-reportedly.md",
+            "title": "Anthropic reportedly plans to move forward with IPO plans"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-nhn-매출-증가분-45-가-기술-g.md",
+            "title": "NHN, 매출 증가분 45%가 기술…GPU가 바꾼 '성장축'"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-앤트로픽-93조-ipo-계획-전달-직.md",
+            "title": "앤트로픽, 93조 IPO 계획 전달 직후 철회…빅테크 35조 투자도 포함"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai-시즌오프-공포-진정되나-여전한-.md",
+            "title": "'AI 시즌오프' 공포 진정되나…여전한 우려 속 코스피 급반등(종합)"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-미-의회-ai-데이터센터-건설-촉진법.md",
+            "title": "미 의회, AI 데이터센터 건설 촉진법 심의…민주당 내부 반발"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-hd건설기계-북미-발전용-엔진-160.md",
+            "title": "HD건설기계, 북미 발전용 엔진 1600억원 수주…AI 전력 수요 공략"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-10",
+        "title": "엔비디아 리스크와 가속기 대안",
+        "summary": "공급사 리스크가 사법화되며 대안 가속기가 실질 선택지가 됐다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -189851,13 +190311,18 @@
             "date": "2026-11-10",
             "file": "20261110-딥엑스-초저전력-ai-반도체-dx-m.md",
             "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
+            "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격"
           }
         ]
       },
       {
         "date": "2026-11-10",
-        "title": "에이전트 도입의 신뢰·통제 설계",
-        "summary": "도입 병목이 성능이 아닌 통제에 있어 금융권부터 통제 계층을 갖춘다.",
+        "title": "에이전트 도입의 통제·운영 설계",
+        "summary": "통제 계층에 이어 에이전트를 직원처럼 관리할 운영 체계가 과제다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -189888,6 +190353,21 @@
             "date": "2026-11-10",
             "file": "20261110-브레인즈컴퍼니-자회사-에이프리카-치타.md",
             "title": "브레인즈컴퍼니 자회사 에이프리카, ‘치타 AI Gateway’ 국내 보험사 공급"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai와-디지털전환-에이전트를-고용했다.md",
+            "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
+            "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
+            "title": "AI에 음성까지…진화하는 은행 스마트키오스크"
           }
         ]
       },
@@ -199194,8 +199674,8 @@
       },
       {
         "date": "2026-11-10",
-        "title": "에이전트 도입의 신뢰·통제 설계",
-        "summary": "도입 병목이 성능이 아닌 통제에 있어 금융권부터 통제 계층을 갖춘다.",
+        "title": "에이전트 도입의 통제·운영 설계",
+        "summary": "통제 계층에 이어 에이전트를 직원처럼 관리할 운영 체계가 과제다.",
         "articles": [
           {
             "date": "2026-11-10",
@@ -199226,6 +199706,21 @@
             "date": "2026-11-10",
             "file": "20261110-브레인즈컴퍼니-자회사-에이프리카-치타.md",
             "title": "브레인즈컴퍼니 자회사 에이프리카, ‘치타 AI Gateway’ 국내 보험사 공급"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai와-디지털전환-에이전트를-고용했다.md",
+            "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-센드버드-쇼핑-예약-고객지원-통합한-.md",
+            "title": "센드버드, 쇼핑·예약·고객지원 통합한 AI 에이전트 출시"
+          },
+          {
+            "date": "2026-11-10",
+            "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
+            "title": "AI에 음성까지…진화하는 은행 스마트키오스크"
           }
         ]
       },
