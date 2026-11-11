@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-11T08:13:55.570375+09:00",
-  "run_id": "run_20261111_081355",
-  "summary_ko": "인프라 투자가 자금시장 검증을 통과하는 사이 AI는 가격 경쟁과 플랫폼화로 도입 접점을 넓힌다.",
+  "updated_at": "2026-11-11T12:15:01.772398+09:00",
+  "run_id": "run_20261111_121501",
+  "summary_ko": "인프라 투자가 자금시장 검증을 통과하는 사이 AI는 가격 경쟁과 현장 도입으로 접점을 넓힌다.",
   "issues": [
     {
       "title": "AI 인프라 수요 검증과 자금시장 시험대",
-      "body_ko": "IPO 번복과 실적 서프라이즈가 엇갈리며 확정 수요가 투자 판단의 기준이 됐다.",
+      "body_ko": "IPO 번복 후 청약 실행과 실적 서프라이즈로 확정 수요가 투자 판단의 기준이 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -57,6 +57,15 @@
           "date": "2026-11-11",
           "file": "20261111-스페이스x-텍사스에-32조-ai-데이.md",
           "title": "스페이스X, 텍사스에 32조 AI 데이터센터·가스발전소 건설 추진"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-anthropic-opens-aust.md",
+          "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261111031400008",
+          "title": ""
         }
       ]
     },
@@ -103,7 +112,7 @@
     },
     {
       "title": "AI 규제의 실효화와 美 정치 변수",
-      "body_ko": "주 단위 법 시행과 국제 선언으로 벤더 의무가 구체화되고 인프라 입지도 흔들린다.",
+      "body_ko": "벤더 의무가 법제화되고 美 인프라 입지가 흔들리자 대체 국가가 유치에 나섰다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -139,12 +148,17 @@
           "date": "2026-11-11",
           "file": "20261111-소프트뱅크-미국-ai-데이터센터-사업.md",
           "title": "소프트뱅크, 미국 AI 데이터센터 사업 재검토…중간선거 후 규제 부담"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-ai픽-과기차관-미국-ai-투자-불확.md",
+          "title": "[AI픽] 과기차관, 미국 AI 투자 불확실성에 \"우리에게 또 다른 기회\""
         }
       ]
     },
     {
-      "title": "에이전트의 플랫폼화와 통제 체계",
-      "body_ko": "AI 대화창이 커머스·업무 관문이 되며 에이전트 식별·권한 통제가 도입 전제가 됐다.",
+      "title": "에이전트 플랫폼화와 금융권 통제·실익",
+      "body_ko": "AI 대화창이 커머스·업무 관문이 되며 금융권은 통제와 비용 실익 입증을 함께 요구받는다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -172,11 +186,6 @@
           "title": "[AI와 디지털전환] 에이전트를 고용했다면, 전담 인사팀부터 만들어야"
         },
         {
-          "date": "2026-11-10",
-          "file": "20261110-ai에-음성까지-진화하는-은행-스마트.md",
-          "title": "AI에 음성까지…진화하는 은행 스마트키오스크"
-        },
-        {
           "date": "2026-11-11",
           "file": "20261111-openai-turns-chatgpt.md",
           "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions"
@@ -195,12 +204,22 @@
           "date": "2026-11-11",
           "file": "20261111-은행-보험사-등-200여-곳-회원-둔.md",
           "title": "은행·보험사 등 200여 곳 회원 둔 금보원도 해킹 사고"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-ai-could-cut-banking.md",
+          "title": "AI could cut banking industry's cost base by 20% - McKinsey's"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-임기범의-ai-혁신-스토리-망분리-전.md",
+          "title": "[임기범의 AI 혁신 스토리] 망분리 전면 해제, 무엇을 확인했나"
         }
       ]
     },
     {
-      "title": "최상위 모델 가격전과 업무 대체 가속",
-      "body_ko": "1위 경쟁이 비용 경쟁으로 옮겨가고 업무 완수율이 급등해 조달·인력 계획이 바뀐다.",
+      "title": "모델 가격전과 현장 업무 대체 가속",
+      "body_ko": "모델 비용 하락과 과업 완수율 급등에 공공 로봇 구매까지 더해 업무 대체가 빨라진다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -218,11 +237,6 @@
           "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하"
         },
         {
-          "date": "2026-11-10",
-          "file": "20261110-엔비디아-국내-ai-스타트업-3곳-투.md",
-          "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프"
-        },
-        {
           "date": "2026-11-11",
           "file": "20261111-gemini-4-carbon-arri.md",
           "title": "Gemini 4 Carbon arrives just in time to feel like yesterday's news in the fastest model cycle yet"
@@ -233,8 +247,14 @@
           "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago"
         },
         {
-          "url": "https://the-decoder.com/google-deepmind-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
-          "title": ""
+          "date": "2026-11-11",
+          "file": "20261111-광주서-제조ax-확산-시동-내년-ai.md",
+          "title": "광주서 제조AX 확산 시동…내년 AI로봇 1700대 공공보급 추진"
+        },
+        {
+          "date": "2026-11-11",
+          "file": "20261111-cj제일제당-산업부-ai-팩토리-사업.md",
+          "title": "CJ제일제당, 산업부 AI 팩토리 사업 참여…식품 제조 혁신 추진"
         }
       ]
     }
