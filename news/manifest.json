@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-11T07:14:46+00:00",
-  "latest_date": "2026-11-11",
+  "generated_at": "2026-11-11T23:18:09+00:00",
+  "latest_date": "2026-11-12",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1256
+      "count": 1261
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1633
+      "count": 1638
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1652
+      "count": 1657
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3824
+      "count": 3839
     },
     {
       "key": "physical_ai_robotics",
@@ -36,13 +36,13 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1246
+      "count": 1253
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1042
+      "count": 1045
     },
     {
       "key": "physical_ai",
@@ -52,6 +52,17 @@
     }
   ],
   "daily": [
+    {
+      "date": "2026-11-12",
+      "runs": [
+        {
+          "time": "08:17",
+          "file": "digest_0817.md",
+          "selected": 17,
+          "new": 173
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "runs": [
@@ -3372,7 +3383,7 @@
       "file": "2026-W46.md",
       "week_start": "2026-11-09",
       "week_end": "2026-11-15",
-      "total_selected_this_week": 218
+      "total_selected_this_week": 258
     },
     {
       "week": "2026-W45",

@@ -1,0 +1,135 @@
+{
+  "date": "2026-11-12",
+  "updated_at": "2026-11-12T08:17:56.911499+09:00",
+  "run_id": "run_20261112_081756",
+  "summary_ko": "AI 자금 검증이 조달 구조로 번지는 사이 금융권 에이전트는 실무로 들어왔다.",
+  "issues": [
+    {
+      "title": "AI 인프라 자금조달의 구조 전환",
+      "summary_ko": "부채 의존이 선급·단기계약으로 옮겨가며 손실·상장 연기가 잇따른다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-12",
+          "file": "20261112-coreweave-turns-to-c.md",
+          "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-엔스케일-350억달러-ipo-연기-검.md",
+          "title": "엔스케일, 350억달러 IPO 연기 검토…AI 데이터센터 투자 불안 여파"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-소프트뱅크-ai-발전-설비-선주문에-.md",
+          "title": "소프트뱅크, AI 발전 설비 선주문에 5조 손실…분기 적자 9조"
+        },
+        {
+          "url": "https://www.etnews.com/20261112000005",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/11/morgan-stanley-ai-bonds-hyperscalers-credit.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "엔비디아 위기와 가속기 종속 약화",
+      "summary_ko": "CEO 해임 국면과 칩 이식 비용 급락이 단일 GPU 조달 전제를 흔든다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-12",
+          "file": "20261112-anthropic-says-ai-is.md",
+          "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-nvidia-is-reportedly.md",
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-jensen-huang-affair-.md",
+          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217294",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 에이전트의 핵심업무 진입",
+      "summary_ko": "에이전트가 상담을 넘어 여신·도매금융·WM 실무로 들어오고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-12",
+          "file": "20261112-금융-ai가-대출전략-짜고-리스크까지.md",
+          "title": "“금융 AI가 대출전략 짜고 리스크까지 관리”…PFCT, ‘에이전트 빌더’ 직접 개발"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-deutsche-bank-and-an.md",
+          "title": "Deutsche Bank and Ant set out roadmap for integrating agentic AI into wholesale banking"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-emirates-nbd-launche.md",
+          "title": "Emirates NBD launches real-time AI market insights for digital wealth customers"
+        }
+      ]
+    },
+    {
+      "title": "AI 지출 집중과 고객접점 통제",
+      "summary_ko": "지출은 소수 기업에 쏠리고 기업은 외부 에이전트 접근을 가리기 시작했다.",
+      "topics": [
+        "ai_industry",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-12",
+          "file": "20261112-us-corporate-ai-spen.md",
+          "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-enterprise-sales-pus.md",
+          "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217282",
+          "title": ""
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-ai가-바꾸는-플랫폼-경쟁-새-지형-.md",
+          "title": "AI가 바꾸는 플랫폼 경쟁 새 지형…\"국내 기업 강점 살릴 정책 필요\""
+        }
+      ]
+    }
+  ]
+}
