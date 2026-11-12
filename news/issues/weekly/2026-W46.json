@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-12T08:17:56.911499+09:00",
-  "run_id": "run_20261112_081756",
-  "summary_ko": "AI 투자가 수익성·조달 구조 검증대에 서는 사이 에이전트는 금융 실무로 진입한다.",
+  "updated_at": "2026-11-12T12:12:20.874061+09:00",
+  "run_id": "run_20261112_121220",
+  "summary_ko": "AI 투자가 수익·조달·지배구조 검증대에 서는 사이 금융 실무 도입은 넓어진다.",
   "issues": [
     {
-      "title": "AI 인프라 수요 검증과 자금시장 시험대",
-      "body_ko": "모델사엔 자금이 몰리나 인프라 기업은 선급·단기계약과 손실로 조달 구조가 바뀐다.",
+      "title": "AI 투자 수익성과 자금시장 시험대",
+      "body_ko": "모델사엔 자본이 몰리고 인프라는 조달 재편, 대기업은 투자 성과를 요구한다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -64,14 +64,29 @@
           "title": "소프트뱅크, AI 발전 설비 선주문에 5조 손실…분기 적자 9조"
         },
         {
-          "url": "https://www.etnews.com/20261112000005",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
           "title": ""
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-ai주-더-갈까-꺾일까-몸값-1-4조.md",
+          "title": "“AI주 더 갈까, 꺾일까”…‘몸값 1.4조 달러’ 앤트로픽 상장에 투심 달렸다"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-ai-투자-이제는-성과-최태원-sk-.md",
+          "title": "'AI 투자, 이제는 성과'…최태원, SK CEO 50여명 소집"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-네이버-ai-팩토리-2조원-규모-계약.md",
+          "title": "네이버 \"AI 팩토리 2조원 규모 계약...美 중간선거 결과 불리하지 않아\""
         }
       ]
     },
     {
       "title": "칩 공급망 리스크와 가속기 다변화",
-      "body_ko": "CEO 해임 국면과 칩 이식 비용 급락이 겹쳐 다중 가속기 조달이 현실화된다.",
+      "body_ko": "CEO 해임 논의와 칩 이식 비용 급락이 겹쳐 다중 가속기 조달이 현실화된다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -109,14 +124,20 @@
           "title": "Nvidia is reportedly preparing to fire Jensen Huang"
         },
         {
-          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-          "title": ""
+          "date": "2026-11-12",
+          "file": "20261112-엔비디아-이사회-젠슨-황-해임-논의-.md",
+          "title": "엔비디아 이사회, 젠슨 황 해임 논의 착수…주가 시간외 8% 급락"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-이재용-회장-충청-온양캠-최첨단-hb.md",
+          "title": "이재용 회장 \"충청 온양캠, 최첨단 HBM 거점으로 변모\""
         }
       ]
     },
     {
       "title": "AI 통제의 실효화와 범위 확장",
-      "body_ko": "에이전트 통제 요건에 칩 임대·학습 데이터 통제까지 겹쳐 실사 범위가 넓어진다.",
+      "body_ko": "에이전트 통제 요건에 의회 소환·데이터 통제까지 겹쳐 실사 범위가 넓어진다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -154,19 +175,20 @@
           "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217294",
-          "title": ""
-        },
-        {
           "date": "2026-11-12",
           "file": "20261112-더존비즈온-ai-경영시스템-국제표준-.md",
           "title": "더존비즈온, AI 경영시스템 국제표준 인증…위험관리 체계 강화"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-미-공화당-젠슨-황-의회-소환장-발부.md",
+          "title": "미 공화당, 젠슨 황 의회 소환장 발부 추진…사임 요구까지 등장"
         }
       ]
     },
     {
       "title": "에이전트의 금융 실무 진입과 접점 통제",
-      "body_ko": "금융 에이전트가 여신·도매금융으로 들어오고 기업은 외부 에이전트 접근을 통제한다.",
+      "body_ko": "금융 AI가 여신·도매금융·사기 대응으로 들어오고 기업은 외부 에이전트를 통제한다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -209,14 +231,15 @@
           "title": "Emirates NBD launches real-time AI market insights for digital wealth customers"
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-          "title": ""
+          "date": "2026-11-12",
+          "file": "20261112-카카오페이증권-ai로-이상거래-탐지-.md",
+          "title": "카카오페이증권, AI로 이상거래 탐지 고도화…금융사기 대응 강화"
         }
       ]
     },
     {
       "title": "모델 가격전과 업무 대체 가속",
-      "body_ko": "저비용 특화 모델과 업무 완수율 급등에 기업 지출 집중이 겹쳐 모델 선택이 원가 문제가 됐다.",
+      "body_ko": "저비용 특화 모델과 업무 완수율 급등에 모델 선택이 원가 문제가 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -247,6 +270,11 @@
           "date": "2026-11-12",
           "file": "20261112-us-corporate-ai-spen.md",
           "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-편의점-휴머노이드-로봇-6대-투입-결.md",
+          "title": "中 편의점, 휴머노이드 로봇 6대 투입…결과는"
         }
       ]
     }
