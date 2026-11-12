@@ -1,0 +1,134 @@
+{
+  "date": "2026-11-13",
+  "updated_at": "2026-11-13T08:18:09.164289+09:00",
+  "run_id": "run_20261113_081809",
+  "summary_ko": "엔비디아 창업자 퇴진이 AI 공급망과 대중 통제를 흔들고, 금융권은 에이전트 방어에 나섰다.",
+  "issues": [
+    {
+      "title": "엔비디아 리더십 공백과 공급 약속 리스크",
+      "summary_ko": "공급사 지배구조가 AI 조달·투자 계약의 직접 변수가 됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-13",
+          "file": "20261113-젠슨-황-엔비디아-ceo-사임-주가-.md",
+          "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
+          "title": ""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-240조-약속-어쩌나-엔비디아-새-c.md",
+          "title": "'240조 약속 어쩌나'…엔비디아 새 CEO에 AI 산업 '초비상'"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-젠슨-황-퇴진에-앤트로픽-ipo도-주.md",
+          "title": "젠슨 황 퇴진에 앤트로픽 IPO도 주목…엔비디아 투자 변수"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "대중 통제의 클라우드·임대 확장",
+      "summary_ko": "칩 판매 규제가 원격 연산 접근까지 넓어져 클라우드도 규제권에 든다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-13",
+          "file": "20261113-미국-중국의-해외-gpu-임대-규제-.md",
+          "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217339",
+          "title": ""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-democrats-launch-nvi.md",
+          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-australia-s-proposed.md",
+          "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
+        }
+      ]
+    },
+    {
+      "title": "금융권의 에이전트·AI 공격 대응",
+      "summary_ko": "에이전트 식별과 AI 해킹 탐지가 금융 채널 방어의 기본이 된다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-13",
+          "file": "20261113-feedzai-helps-banks-.md",
+          "title": "Feedzai helps banks detect AI agents accessing customer accounts"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-금감원-ai해킹-탐지시스템-만든다.md",
+          "title": "금감원, AI해킹 탐지시스템 만든다"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-starling-unveils-ai-.md",
+          "title": "Starling unveils AI-powered 'talk to transact' feature"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261112140700003",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 조달·수익 구조의 재편",
+      "summary_ko": "선급금 조달과 저가 고속 모델이 AI 비용 구조를 다시 짠다.",
+      "topics": [
+        "ai_compute_energy",
+        "llm_models",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-13",
+          "file": "20261113-nebius-tests-the-neo.md",
+          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+          "title": ""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
+          "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678453",
+          "title": ""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-ai-is-coming-for-con.md",
+          "title": "AI is coming for consulting’s billable hours — and its graduate pipeline"
+        }
+      ]
+    }
+  ]
+}

@@ -1,37 +1,22 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-12T16:15:46.798324+09:00",
-  "run_id": "run_20261112_161546",
-  "summary_ko": "AI 투자가 수익·조달·지배구조 검증대에 서는 사이 에이전트는 실무로 들어오며 통제받는다.",
+  "updated_at": "2026-11-13T08:18:09.164289+09:00",
+  "run_id": "run_20261113_081809",
+  "summary_ko": "엔비디아 리더십 붕괴가 AI 투자·조달을 흔들고 통제는 클라우드와 에이전트로 넓어진다.",
   "issues": [
     {
       "title": "AI 투자 수익성과 자금시장 시험대",
-      "body_ko": "모델사엔 공모 자금이 몰리고 인프라는 조달을 재편, 기업은 AI 매출을 증명해야 한다.",
+      "body_ko": "모델사 공모와 선급금 조달이 확산되며 AI 투자는 매출 증명과 재무 체력을 요구받는다.",
       "topics": [
-        "ai_compute_energy",
         "ai_industry",
+        "ai_compute_energy",
         "금융회사 AI"
       ],
       "articles": [
         {
-          "date": "2026-11-09",
-          "file": "20261109-앤트로픽-데이터센터-전력-직접-공급-.md",
-          "title": "앤트로픽, 데이터센터 전력 직접 공급...가스 발전기 4.6조원에 확보"
-        },
-        {
-          "date": "2026-11-10",
-          "file": "20261110-20gw-데이터센터-청사진-확정-수요.md",
-          "title": "20GW 데이터센터 청사진, 확정 수요는 8분의 1 그쳐"
-        },
-        {
           "date": "2026-11-11",
           "file": "20261111-anthropic-kicks-off-.md",
           "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation"
-        },
-        {
-          "date": "2026-11-11",
-          "file": "20261111-coreweave-beats-on-r.md",
-          "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns"
         },
         {
           "date": "2026-11-11",
@@ -50,16 +35,6 @@
         },
         {
           "date": "2026-11-12",
-          "file": "20261112-ai-투자-이제는-성과-최태원-sk-.md",
-          "title": "'AI 투자, 이제는 성과'…최태원, SK CEO 50여명 소집"
-        },
-        {
-          "date": "2026-11-12",
-          "file": "20261112-네이버-ai-팩토리-2조원-규모-계약.md",
-          "title": "네이버 \"AI 팩토리 2조원 규모 계약...美 중간선거 결과 불리하지 않아\""
-        },
-        {
-          "date": "2026-11-12",
           "file": "20261112-앤트로픽-ipo-수배-초과-청약-상장.md",
           "title": "앤트로픽 IPO 수배 초과 청약…상장 후 25조 매수 수요 전망"
         },
@@ -69,26 +44,30 @@
           "title": "한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-영국-ai-칩-스타트업-프랙타일-9-.md",
-          "title": "영국 AI 칩 스타트업 프랙타일, 9.3조 가치로 1조 투자 유치"
+          "date": "2026-11-13",
+          "file": "20261113-nebius-tests-the-neo.md",
+          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-젠슨-황-퇴진에-앤트로픽-ipo도-주.md",
+          "title": "젠슨 황 퇴진에 앤트로픽 IPO도 주목…엔비디아 투자 변수"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+          "title": ""
         }
       ]
     },
     {
-      "title": "칩 공급망 리스크와 가속기 다변화",
-      "body_ko": "엔비디아가 승계 국면에 들고 칩 이식 비용이 급락해 다중 가속기 조달이 현실화된다.",
+      "title": "엔비디아 리더십 공백과 가속기 다변화",
+      "body_ko": "창업자 퇴진으로 공급 약속이 불확실해져 다중 가속기 조달이 현실 과제가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-11-10",
-          "file": "20261110-엔비디아냐-amd냐-기로에-선-k-반.md",
-          "title": "\"엔비디아냐 AMD냐\"...기로에 선 K-반도체"
-        },
         {
           "date": "2026-11-10",
           "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
@@ -110,24 +89,24 @@
           "title": "Nvidia is reportedly preparing to fire Jensen Huang"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-이재용-회장-충청-온양캠-최첨단-hb.md",
-          "title": "이재용 회장 \"충청 온양캠, 최첨단 HBM 거점으로 변모\""
+          "date": "2026-11-13",
+          "file": "20261113-젠슨-황-엔비디아-ceo-사임-주가-.md",
+          "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-블룸버그-엔비디아-이사회-후임-ceo.md",
-          "title": "블룸버그 \"엔비디아 이사회, 후임 CEO 물색...임시 CEO도 거론\""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261112144609",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
           "title": ""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-240조-약속-어쩌나-엔비디아-새-c.md",
+          "title": "'240조 약속 어쩌나'…엔비디아 새 CEO에 AI 산업 '초비상'"
         }
       ]
     },
     {
       "title": "AI 통제의 실효화와 범위 확장",
-      "body_ko": "에이전트 통제에 챗봇 중독 규제와 복원력 정책까지 더해져 실사 범위가 넓어진다.",
+      "body_ko": "칩 통제는 클라우드 임대로, 안전 규제는 모델 감사로 넓어지며 실사 범위가 커진다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -151,29 +130,29 @@
         },
         {
           "date": "2026-11-12",
-          "file": "20261112-jensen-huang-affair-.md",
-          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
-        },
-        {
-          "date": "2026-11-12",
-          "file": "20261112-us-data-brokers-are-.md",
-          "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs"
-        },
-        {
-          "date": "2026-11-12",
           "file": "20261112-eu-ai-챗봇-대화-중독-도-규제-.md",
           "title": "EU, AI 챗봇 '대화 중독'도 규제 추진…SNS·온라인 쇼핑까지 확대"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-공격-막고-복구까지-국가ai전략위-사.md",
-          "title": "\"공격 막고 복구까지\"…국가AI전략위, 사이버 공격 대응 강화"
+          "date": "2026-11-13",
+          "file": "20261113-미국-중국의-해외-gpu-임대-규제-.md",
+          "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-australia-s-proposed.md",
+          "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-democrats-launch-nvi.md",
+          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump"
         }
       ]
     },
     {
       "title": "에이전트의 금융 실무 진입과 접점 통제",
-      "body_ko": "금융 AI가 여신·사기 대응으로 들어오는 한편 은행·항공사는 외부 에이전트를 막는다.",
+      "body_ko": "금융 AI가 핵심 업무와 거래로 들어오는 한편 외부 에이전트 식별·차단이 채널 전략이 됐다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -187,18 +166,8 @@
         },
         {
           "date": "2026-11-11",
-          "file": "20261111-openai-turns-chatgpt.md",
-          "title": "OpenAI turns ChatGPT into a business directory with AI agents that handle customer questions"
-        },
-        {
-          "date": "2026-11-11",
           "file": "20261111-ai-could-cut-banking.md",
           "title": "AI could cut banking industry's cost base by 20% - McKinsey's"
-        },
-        {
-          "date": "2026-11-12",
-          "file": "20261112-금융-ai가-대출전략-짜고-리스크까지.md",
-          "title": "“금융 AI가 대출전략 짜고 리스크까지 관리”…PFCT, ‘에이전트 빌더’ 직접 개발"
         },
         {
           "date": "2026-11-12",
@@ -216,18 +185,29 @@
           "title": "미 주요 은행 이어 항공사도 AI 에이전트 차단…거래·보안 통제 강화"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261112132734",
-          "title": ""
+          "date": "2026-11-13",
+          "file": "20261113-feedzai-helps-banks-.md",
+          "title": "Feedzai helps banks detect AI agents accessing customer accounts"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-금감원-ai해킹-탐지시스템-만든다.md",
+          "title": "금감원, AI해킹 탐지시스템 만든다"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-starling-unveils-ai-.md",
+          "title": "Starling unveils AI-powered 'talk to transact' feature"
         }
       ]
     },
     {
       "title": "모델 가격전과 업무 대체 가속",
-      "body_ko": "저비용 특화 모델과 업무 완수율 급등에 중국 모델 유료화까지 겹쳐 모델 선택이 원가 문제가 됐다.",
+      "body_ko": "저가 고속 모델이 상위 모델을 앞서며 모델 선택과 인력 구조가 원가 문제가 됐다.",
       "topics": [
         "llm_models",
         "ai_industry",
-        "physical_ai"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -241,19 +221,9 @@
           "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago"
         },
         {
-          "date": "2026-11-11",
-          "file": "20261111-광주서-제조ax-확산-시동-내년-ai.md",
-          "title": "광주서 제조AX 확산 시동…내년 AI로봇 1700대 공공보급 추진"
-        },
-        {
           "date": "2026-11-12",
           "file": "20261112-google-joins-the-dec.md",
           "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass"
-        },
-        {
-          "date": "2026-11-12",
-          "file": "20261112-편의점-휴머노이드-로봇-6대-투입-결.md",
-          "title": "中 편의점, 휴머노이드 로봇 6대 투입…결과는"
         },
         {
           "date": "2026-11-12",
@@ -261,9 +231,14 @@
           "title": "알리바바, '큐원4' 첫 모델 공개…가중치·성능 평가 없이 프리뷰 출시"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-레인보우로보틱스-두-발-대신-바퀴-택.md",
-          "title": "레인보우로보틱스, 두 발 대신 바퀴 택했다"
+          "date": "2026-11-13",
+          "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
+          "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-ai-is-coming-for-con.md",
+          "title": "AI is coming for consulting’s billable hours — and its graduate pipeline"
         }
       ]
     }
