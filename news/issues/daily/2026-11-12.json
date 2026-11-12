@@ -1,12 +1,12 @@
 {
   "date": "2026-11-12",
-  "updated_at": "2026-11-12T12:12:20.874061+09:00",
-  "run_id": "run_20261112_121220",
-  "summary_ko": "엔비디아 위기가 정책 리스크로 번지는 사이 AI 투자는 수익화 증명을 요구받는다.",
+  "updated_at": "2026-11-12T16:15:46.798324+09:00",
+  "run_id": "run_20261112_161546",
+  "summary_ko": "엔비디아 승계가 현실화되는 사이 AI는 매출로 증명받고 에이전트 접근은 통제된다.",
   "issues": [
     {
-      "title": "엔비디아 위기의 정책 리스크화",
-      "summary_ko": "해임 논의와 의회 소환이 겹쳐 단일 GPU 조달 전제가 흔들린다.",
+      "title": "엔비디아 승계 국면 진입",
+      "summary_ko": "해임 논의가 후임 물색으로 진전돼 공급사 리스크가 장기화된다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -15,18 +15,8 @@
       "articles": [
         {
           "date": "2026-11-12",
-          "file": "20261112-anthropic-says-ai-is.md",
-          "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days"
-        },
-        {
-          "date": "2026-11-12",
           "file": "20261112-nvidia-is-reportedly.md",
           "title": "Nvidia is reportedly preparing to fire Jensen Huang"
-        },
-        {
-          "date": "2026-11-12",
-          "file": "20261112-jensen-huang-affair-.md",
-          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
         },
         {
           "date": "2026-11-12",
@@ -37,12 +27,31 @@
           "date": "2026-11-12",
           "file": "20261112-미-공화당-젠슨-황-의회-소환장-발부.md",
           "title": "미 공화당, 젠슨 황 의회 소환장 발부 추진…사임 요구까지 등장"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-jensen-huang-affair-.md",
+          "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-anthropic-says-ai-is.md",
+          "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-블룸버그-엔비디아-이사회-후임-ceo.md",
+          "title": "블룸버그 \"엔비디아 이사회, 후임 CEO 물색...임시 CEO도 거론\""
+        },
+        {
+          "url": "https://www.etnews.com/20261112000400",
+          "title": ""
         }
       ]
     },
     {
       "title": "AI 인프라 자금조달의 구조 전환",
-      "summary_ko": "선급·단기계약 전환에 시장은 반등했지만 선투자 손실도 이어진다.",
+      "summary_ko": "조달은 선급·단기화되고 자본은 대안 가속기로 이동한다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -65,14 +74,15 @@
           "title": "소프트뱅크, AI 발전 설비 선주문에 5조 손실…분기 적자 9조"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217298",
-          "title": ""
+          "date": "2026-11-12",
+          "file": "20261112-영국-ai-칩-스타트업-프랙타일-9-.md",
+          "title": "영국 AI 칩 스타트업 프랙타일, 9.3조 가치로 1조 투자 유치"
         }
       ]
     },
     {
       "title": "AI 투자의 수익화 증명 국면",
-      "summary_ko": "AI가 비용 항목에서 계약·매출 단위로 평가받기 시작했다.",
+      "summary_ko": "AI 매출 비중과 공모 수요가 투자 회수의 잣대가 됐다.",
       "topics": [
         "ai_industry",
         "ai_agents",
@@ -81,13 +91,13 @@
       "articles": [
         {
           "date": "2026-11-12",
-          "file": "20261112-us-corporate-ai-spen.md",
-          "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent"
+          "file": "20261112-enterprise-sales-pus.md",
+          "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic"
         },
         {
           "date": "2026-11-12",
-          "file": "20261112-enterprise-sales-pus.md",
-          "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic"
+          "file": "20261112-us-corporate-ai-spen.md",
+          "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent"
         },
         {
           "date": "2026-11-12",
@@ -101,17 +111,28 @@
         },
         {
           "date": "2026-11-12",
-          "file": "20261112-ai주-더-갈까-꺾일까-몸값-1-4조.md",
-          "title": "“AI주 더 갈까, 꺾일까”…‘몸값 1.4조 달러’ 앤트로픽 상장에 투심 달렸다"
+          "file": "20261112-한컴-ai-매출-전체-30-돌파-노마.md",
+          "title": "한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-앤트로픽-ipo-수배-초과-청약-상장.md",
+          "title": "앤트로픽 IPO 수배 초과 청약…상장 후 25조 매수 수요 전망"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-네이버-3분기-역대-최대-매출에도-영.md",
+          "title": "네이버, 3분기 역대 최대 매출에도 영업익↓…'AI 팩토리·에이전트'로 성장 동력 재점화"
         }
       ]
     },
     {
-      "title": "금융 AI의 핵심업무 진입",
-      "summary_ko": "AI가 상담을 넘어 여신·도매금융·사기 대응 실무로 들어온다.",
+      "title": "금융 AI 확산과 에이전트 접근 통제",
+      "summary_ko": "AI는 금융 핵심업무로 들어오고 외부 에이전트는 차단된다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_agents",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -133,6 +154,11 @@
           "date": "2026-11-12",
           "file": "20261112-카카오페이증권-ai로-이상거래-탐지-.md",
           "title": "카카오페이증권, AI로 이상거래 탐지 고도화…금융사기 대응 강화"
+        },
+        {
+          "date": "2026-11-12",
+          "file": "20261112-미-주요-은행-이어-항공사도-ai-에.md",
+          "title": "미 주요 은행 이어 항공사도 AI 에이전트 차단…거래·보안 통제 강화"
         }
       ]
     }
