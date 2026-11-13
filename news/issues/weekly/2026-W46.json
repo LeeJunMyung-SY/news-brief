@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-13T08:18:09.164289+09:00",
-  "run_id": "run_20261113_081809",
-  "summary_ko": "엔비디아 리더십 붕괴가 AI 투자·조달을 흔들고 통제는 클라우드와 에이전트로 넓어진다.",
+  "updated_at": "2026-11-13T12:11:37.332765+09:00",
+  "run_id": "run_20261113_121137",
+  "summary_ko": "엔비디아 리더십 붕괴가 AI 자산 재평가로 번지고 통제는 클라우드·에이전트로 넓어진다.",
   "issues": [
     {
       "title": "AI 투자 수익성과 자금시장 시험대",
-      "body_ko": "모델사 공모와 선급금 조달이 확산되며 AI 투자는 매출 증명과 재무 체력을 요구받는다.",
+      "body_ko": "모델사 공모와 부채 조달이 늘며 AI 투자는 매출 증명과 재무 체력을 요구받는다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -39,29 +39,25 @@
           "title": "앤트로픽 IPO 수배 초과 청약…상장 후 25조 매수 수요 전망"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-한컴-ai-매출-전체-30-돌파-노마.md",
-          "title": "한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-nebius-tests-the-neo.md",
           "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-젠슨-황-퇴진에-앤트로픽-ipo도-주.md",
-          "title": "젠슨 황 퇴진에 앤트로픽 IPO도 주목…엔비디아 투자 변수"
+          "file": "20261113-돈-녹는-속도-유례가-없었다-단-5주.md",
+          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-          "title": ""
+          "date": "2026-11-13",
+          "file": "20261113-ai-투자-열풍에-회사채-쏠림-빅테크.md",
+          "title": "AI 투자 열풍에 회사채 쏠림…빅테크 차입 비용 압박"
         }
       ]
     },
     {
       "title": "엔비디아 리더십 공백과 가속기 다변화",
-      "body_ko": "창업자 퇴진으로 공급 약속이 불확실해져 다중 가속기 조달이 현실 과제가 됐다.",
+      "body_ko": "창업자 퇴진과 승계 정치화로 공급 약속이 불확실해져 다중 가속기 조달이 현실 과제가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -72,11 +68,6 @@
           "date": "2026-11-10",
           "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
           "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격"
-        },
-        {
-          "date": "2026-11-11",
-          "file": "20261111-엔비디아-ceo-스캔들에-ai-투자-.md",
-          "title": "엔비디아, CEO 스캔들에 AI 투자 불안 겹쳐…이틀간 시총 627조 증발"
         },
         {
           "date": "2026-11-12",
@@ -94,13 +85,23 @@
           "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
+          "date": "2026-11-13",
+          "file": "20261113-240조-약속-어쩌나-엔비디아-새-c.md",
+          "title": "'240조 약속 어쩌나'…엔비디아 새 CEO에 AI 산업 '초비상'"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-트럼프-젠슨-황-후임은-팀-쿡-엔비디.md",
+          "title": "트럼프 \"젠슨 황 후임은 팀 쿡\"…엔비디아, 차기 CEO 물색 본격화"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12207628",
           "title": ""
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-240조-약속-어쩌나-엔비디아-새-c.md",
-          "title": "'240조 약속 어쩌나'…엔비디아 새 CEO에 AI 산업 '초비상'"
+          "file": "20261113-블룸버그-삼성전자-데이터센터-냉각업체.md",
+          "title": "블룸버그 \"삼성전자, 美 데이터센터 냉각업체 '모딘' 인수 추진\""
         }
       ]
     },
@@ -145,25 +146,25 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-democrats-launch-nvi.md",
-          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump"
+          "file": "20261113-중국-젠슨-황-사태에-반발-미국-기술.md",
+          "title": "중국, 젠슨 황 사태에 반발…\"미국 기술 제재 구실 안 돼\""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-해커-ai로-각국-기관-공격.md",
+          "title": "中 해커, AI로 각국 기관 공격"
         }
       ]
     },
     {
       "title": "에이전트의 금융 실무 진입과 접점 통제",
-      "body_ko": "금융 AI가 핵심 업무와 거래로 들어오는 한편 외부 에이전트 식별·차단이 채널 전략이 됐다.",
+      "body_ko": "금융 AI가 거래·심사로 들어오고 외부 에이전트 식별·차단이 채널 전략이 됐다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-10",
-          "file": "20261110-허정수칼럼-준비-없이-맞는-금융-ai.md",
-          "title": "[허정수칼럼] 준비 없이 맞는 금융 AI에이전트 시대"
-        },
         {
           "date": "2026-11-11",
           "file": "20261111-ai-could-cut-banking.md",
@@ -198,12 +199,17 @@
           "date": "2026-11-13",
           "file": "20261113-starling-unveils-ai-.md",
           "title": "Starling unveils AI-powered 'talk to transact' feature"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-경주-떠나-춘천으로-핀다-대원저축-앞.md",
+          "title": "경주 떠나 춘천으로…핀다, 대원저축銀 앞세워 ‘AI은행’ 승부수"
         }
       ]
     },
     {
-      "title": "모델 가격전과 업무 대체 가속",
-      "body_ko": "저가 고속 모델이 상위 모델을 앞서며 모델 선택과 인력 구조가 원가 문제가 됐다.",
+      "title": "모델 가격전과 실행형 AI 전환",
+      "body_ko": "저가 고속 모델과 실행형 에이전트가 확산되며 AI 성과가 업무 결과로 측정된다.",
       "topics": [
         "llm_models",
         "ai_industry",
@@ -226,11 +232,6 @@
           "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-알리바바-큐원4-첫-모델-공개-가중치.md",
-          "title": "알리바바, '큐원4' 첫 모델 공개…가중치·성능 평가 없이 프리뷰 출시"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
           "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
@@ -239,6 +240,16 @@
           "date": "2026-11-13",
           "file": "20261113-ai-is-coming-for-con.md",
           "title": "AI is coming for consulting’s billable hours — and its graduate pipeline"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-네카오-3q-수익-ai-투자-규모차로.md",
+          "title": "네카오 3Q 수익, AI 투자 규모차로 희비…‘실행형’ 에이전트에 베팅"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-답변-넘어-업무-완료-로-이동한-공공.md",
+          "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤"
         }
       ]
     }

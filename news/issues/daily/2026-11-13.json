@@ -1,25 +1,22 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T08:18:09.164289+09:00",
-  "run_id": "run_20261113_081809",
-  "summary_ko": "엔비디아 창업자 퇴진이 AI 공급망과 대중 통제를 흔들고, 금융권은 에이전트 방어에 나섰다.",
+  "updated_at": "2026-11-13T12:11:37.332765+09:00",
+  "run_id": "run_20261113_121137",
+  "summary_ko": "엔비디아 승계 혼란이 AI 자산 재평가로 번지고, 금융은 AI 방어와 AI은행 실험에 나섰다.",
   "issues": [
     {
-      "title": "엔비디아 리더십 공백과 공급 약속 리스크",
-      "summary_ko": "공급사 지배구조가 AI 조달·투자 계약의 직접 변수가 됐다.",
+      "title": "엔비디아 승계 정치화와 AI 자산 재평가",
+      "summary_ko": "공급사 지배구조 불안이 AI 투자 회수 압력으로 번진다.",
       "topics": [
         "ai_industry",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "금융회사 AI"
       ],
       "articles": [
         {
           "date": "2026-11-13",
           "file": "20261113-젠슨-황-엔비디아-ceo-사임-주가-.md",
           "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
-          "title": ""
         },
         {
           "date": "2026-11-13",
@@ -32,14 +29,24 @@
           "title": "젠슨 황 퇴진에 앤트로픽 IPO도 주목…엔비디아 투자 변수"
         },
         {
-          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+          "date": "2026-11-13",
+          "file": "20261113-트럼프-젠슨-황-후임은-팀-쿡-엔비디.md",
+          "title": "트럼프 \"젠슨 황 후임은 팀 쿡\"…엔비디아, 차기 CEO 물색 본격화"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-돈-녹는-속도-유례가-없었다-단-5주.md",
+          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12207628",
           "title": ""
         }
       ]
     },
     {
-      "title": "대중 통제의 클라우드·임대 확장",
-      "summary_ko": "칩 판매 규제가 원격 연산 접근까지 넓어져 클라우드도 규제권에 든다.",
+      "title": "대중 통제 강경화와 AI 공격 실전화",
+      "summary_ko": "칩 통제는 강경해지고 AI 공격은 국가 단위로 커졌다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy"
@@ -51,10 +58,6 @@
           "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217339",
-          "title": ""
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-democrats-launch-nvi.md",
           "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump"
@@ -63,12 +66,22 @@
           "date": "2026-11-13",
           "file": "20261113-australia-s-proposed.md",
           "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-중국-젠슨-황-사태에-반발-미국-기술.md",
+          "title": "중국, 젠슨 황 사태에 반발…\"미국 기술 제재 구실 안 돼\""
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-해커-ai로-각국-기관-공격.md",
+          "title": "中 해커, AI로 각국 기관 공격"
         }
       ]
     },
     {
-      "title": "금융권의 에이전트·AI 공격 대응",
-      "summary_ko": "에이전트 식별과 AI 해킹 탐지가 금융 채널 방어의 기본이 된다.",
+      "title": "금융권 AI 방어와 AI은행 실험",
+      "summary_ko": "금융은 에이전트 방어와 AI 네이티브 모델을 함께 시험한다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -91,18 +104,23 @@
           "title": "Starling unveils AI-powered 'talk to transact' feature"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261112140700003",
+          "date": "2026-11-13",
+          "file": "20261113-경주-떠나-춘천으로-핀다-대원저축-앞.md",
+          "title": "경주 떠나 춘천으로…핀다, 대원저축銀 앞세워 ‘AI은행’ 승부수"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence?utm_medium=rssfinextra&utm_source=finextrafeed",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 조달·수익 구조의 재편",
-      "summary_ko": "선급금 조달과 저가 고속 모델이 AI 비용 구조를 다시 짠다.",
+      "title": "AI 인프라 조달의 부채화와 주변 설비 경쟁",
+      "summary_ko": "부채 조달과 주변 설비 인수가 인프라 경쟁의 새 축이다.",
       "topics": [
         "ai_compute_energy",
-        "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "ai_agents"
       ],
       "articles": [
         {
@@ -111,22 +129,29 @@
           "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-          "title": ""
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
           "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=678453",
-          "title": ""
+          "date": "2026-11-13",
+          "file": "20261113-블룸버그-삼성전자-데이터센터-냉각업체.md",
+          "title": "블룸버그 \"삼성전자, 美 데이터센터 냉각업체 '모딘' 인수 추진\""
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-ai-is-coming-for-con.md",
-          "title": "AI is coming for consulting’s billable hours — and its graduate pipeline"
+          "file": "20261113-ai-투자-열풍에-회사채-쏠림-빅테크.md",
+          "title": "AI 투자 열풍에 회사채 쏠림…빅테크 차입 비용 압박"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-네카오-3q-수익-ai-투자-규모차로.md",
+          "title": "네카오 3Q 수익, AI 투자 규모차로 희비…‘실행형’ 에이전트에 베팅"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-답변-넘어-업무-완료-로-이동한-공공.md",
+          "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤"
         }
       ]
     }
