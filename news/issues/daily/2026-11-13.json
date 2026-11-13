@@ -1,15 +1,16 @@
 {
   "date": "2026-11-13",
-  "updated_at": "2026-11-13T12:11:37.332765+09:00",
-  "run_id": "run_20261113_121137",
-  "summary_ko": "엔비디아 승계 혼란이 AI 자산 재평가로 번지고, 금융은 AI 방어와 AI은행 실험에 나섰다.",
+  "updated_at": "2026-11-13T16:12:04.203717+09:00",
+  "run_id": "run_20261113_161204",
+  "summary_ko": "엔비디아 공백이 공급망 안보로 번지는 사이 투자는 부채로 이어지고 금융은 AI 보안·자산관리를 다진다.",
   "issues": [
     {
-      "title": "엔비디아 승계 정치화와 AI 자산 재평가",
-      "summary_ko": "공급사 지배구조 불안이 AI 투자 회수 압력으로 번진다.",
+      "title": "엔비디아 승계 정치화와 공급망 점검",
+      "summary_ko": "공급사 지배구조 불안이 국가 차원의 GPU 조달 점검으로 번졌다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
+        "ai_policy",
         "금융회사 AI"
       ],
       "articles": [
@@ -39,17 +40,23 @@
           "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12207628",
+          "date": "2026-11-13",
+          "file": "20261113-국가ai전략위-젠슨-황-사퇴-긴급회의.md",
+          "title": "국가AI전략위, '젠슨 황 사퇴' 긴급회의…GPU 공급 점검"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12207941",
           "title": ""
         }
       ]
     },
     {
-      "title": "대중 통제 강경화와 AI 공격 실전화",
-      "summary_ko": "칩 통제는 강경해지고 AI 공격은 국가 단위로 커졌다.",
+      "title": "대중 통제 강경화와 프런티어 AI 법적 압박",
+      "summary_ko": "안보 논리와 소송이 겹쳐 AI 공급사의 규제 리스크가 커진다.",
       "topics": [
         "ai_policy",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "llm_models"
       ],
       "articles": [
         {
@@ -69,19 +76,23 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-중국-젠슨-황-사태에-반발-미국-기술.md",
-          "title": "중국, 젠슨 황 사태에 반발…\"미국 기술 제재 구실 안 돼\""
+          "file": "20261113-해커-ai로-각국-기관-공격.md",
+          "title": "中 해커, AI로 각국 기관 공격"
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-해커-ai로-각국-기관-공격.md",
-          "title": "中 해커, AI로 각국 기관 공격"
+          "file": "20261113-미-비영리단체-4곳-오픈ai-등-5개.md",
+          "title": "미 비영리단체 4곳, 오픈AI 등 5개사에 '최첨단 AI 개발 중단' 소송"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217375",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI 방어와 AI은행 실험",
-      "summary_ko": "금융은 에이전트 방어와 AI 네이티브 모델을 함께 시험한다.",
+      "title": "금융권 AI 보안 강화와 서비스 고도화",
+      "summary_ko": "금융은 AI로 방어선을 높이며 데이터 제휴로 서비스를 키운다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -109,29 +120,33 @@
           "title": "경주 떠나 춘천으로…핀다, 대원저축銀 앞세워 ‘AI은행’ 승부수"
         },
         {
-          "url": "https://www.finextra.com/newsarticle/48751/mastercard-opens-singapore-innovation-centre-of-excellence?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "date": "2026-11-13",
+          "file": "20261113-메사쿠어컴퍼니-nh농협은행-인텔-gp.md",
+          "title": "메사쿠어컴퍼니·NH농협은행, 인텔 GPU 기반 비대면 본인확인 구축"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-미래에셋증권-런던증권거래소그룹과-ai.md",
+          "title": "미래에셋증권, 런던증권거래소그룹과 AI 자산관리 서비스 강화 업무협약"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678556",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 인프라 조달의 부채화와 주변 설비 경쟁",
-      "summary_ko": "부채 조달과 주변 설비 인수가 인프라 경쟁의 새 축이다.",
+      "title": "AI 인프라 투자의 부채화와 대형화",
+      "summary_ko": "채권 조달 확대 속에도 초대형 캠퍼스 투자는 멈추지 않는다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry",
-        "ai_agents"
+        "ai_industry"
       ],
       "articles": [
         {
           "date": "2026-11-13",
           "file": "20261113-nebius-tests-the-neo.md",
           "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
-          "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
         },
         {
           "date": "2026-11-13",
@@ -150,8 +165,18 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-답변-넘어-업무-완료-로-이동한-공공.md",
-          "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤"
+          "file": "20261113-구글-아시아서-5조-조달-ai-투자-.md",
+          "title": "구글, 아시아서 5조 조달…AI 투자 위해 채권 발행 확대"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-스페이스x-100조-규모-ai-데이터.md",
+          "title": "스페이스X, 100조 규모 AI 데이터센터 투자…애리조나에 6GW 추가"
+        },
+        {
+          "date": "2026-11-13",
+          "file": "20261113-소프트뱅크-엔비디아-연-1만대-생산능.md",
+          "title": "소프트뱅크·엔비디아, 연 1만대 생산능력 갖춘 독일 휴머노이드 기업에 6600억 투자"
         }
       ]
     }
