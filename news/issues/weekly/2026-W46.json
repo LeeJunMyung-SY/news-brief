@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-13T16:12:04.203717+09:00",
-  "run_id": "run_20261113_161204",
-  "summary_ko": "엔비디아 공백이 공급망 안보로 번지고 AI 투자는 부채와 수익 증명의 시험대에 섰다.",
+  "updated_at": "2026-11-14T08:14:46.247645+09:00",
+  "run_id": "run_20261114_081446",
+  "summary_ko": "엔비디아 공백이 자금·통제 리스크로 번지는 가운데 AI는 결제와 업무 실행으로 깊어졌다.",
   "issues": [
     {
       "title": "AI 투자 수익성과 자금시장 시험대",
-      "body_ko": "공모·채권 조달이 지역을 넓혀 늘며 AI 투자는 매출 증명과 재무 체력을 요구받는다.",
+      "body_ko": "부채 조달이 늘어도 수익을 증명한 모델사로 자금이 몰려 옥석 가리기가 뚜렷하다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -34,21 +34,6 @@
           "title": "소프트뱅크, AI 발전 설비 선주문에 5조 손실…분기 적자 9조"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-앤트로픽-ipo-수배-초과-청약-상장.md",
-          "title": "앤트로픽 IPO 수배 초과 청약…상장 후 25조 매수 수요 전망"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-nebius-tests-the-neo.md",
-          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-돈-녹는-속도-유례가-없었다-단-5주.md",
-          "title": "돈 녹는 속도, 유례가 없었다…단 5주 만에 2400조원 증발한 엔비디아"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-ai-투자-열풍에-회사채-쏠림-빅테크.md",
           "title": "AI 투자 열풍에 회사채 쏠림…빅테크 차입 비용 압박"
@@ -60,25 +45,30 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-스페이스x-100조-규모-ai-데이터.md",
-          "title": "스페이스X, 100조 규모 AI 데이터센터 투자…애리조나에 6GW 추가"
+          "file": "20261113-nebius-tests-the-neo.md",
+          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-anthropic-s-ipo-is-s.md",
+          "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-골드만삭스-ai-투자-2027년-말-.md",
+          "title": "골드만삭스 \"AI 투자, 2027년 말 연간 1865조원 규모…미국 경제성장 주도\""
         }
       ]
     },
     {
       "title": "엔비디아 리더십 공백과 가속기 다변화",
-      "body_ko": "창업자 퇴진이 국가 차원의 GPU 조달 점검으로 번져 다중 가속기 조달이 현실 과제가 됐다.",
+      "body_ko": "창업자 퇴진이 투자 생태계와 국가 GPU 조달로 번져 다중 가속기 전략이 현실 과제가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
         "ai_policy"
       ],
       "articles": [
-        {
-          "date": "2026-11-10",
-          "file": "20261110-구글-ai-에이전트-보안-특화-tpu.md",
-          "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격"
-        },
         {
           "date": "2026-11-12",
           "file": "20261112-anthropic-says-ai-is.md",
@@ -101,24 +91,24 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-트럼프-젠슨-황-후임은-팀-쿡-엔비디.md",
-          "title": "트럼프 \"젠슨 황 후임은 팀 쿡\"…엔비디아, 차기 CEO 물색 본격화"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-블룸버그-삼성전자-데이터센터-냉각업체.md",
-          "title": "블룸버그 \"삼성전자, 美 데이터센터 냉각업체 '모딘' 인수 추진\""
-        },
-        {
-          "date": "2026-11-13",
           "file": "20261113-국가ai전략위-젠슨-황-사퇴-긴급회의.md",
           "title": "국가AI전략위, '젠슨 황 사퇴' 긴급회의…GPU 공급 점검"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-jensen-huang-s-depar.md",
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-젠슨-황-사임에도-gpu-26만장-공.md",
+          "title": "젠슨 황 사임에도 韓 GPU 26만장 공급 유지…정부 점검회의서 재확인"
         }
       ]
     },
     {
       "title": "AI 통제의 실효화와 범위 확장",
-      "body_ko": "칩 통제는 클라우드로, 안전 규제는 감사·소송으로 넓어지며 실사 범위가 커진다.",
+      "body_ko": "칩 통제는 임대·공모 투자자로, 안전 규제는 감사·소송으로 넓어지며 실사 범위가 커진다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -136,16 +126,6 @@
           "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
         },
         {
-          "date": "2026-11-11",
-          "file": "20261111-eight-countries-and-.md",
-          "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration"
-        },
-        {
-          "date": "2026-11-12",
-          "file": "20261112-eu-ai-챗봇-대화-중독-도-규제-.md",
-          "title": "EU, AI 챗봇 '대화 중독'도 규제 추진…SNS·온라인 쇼핑까지 확대"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-미국-중국의-해외-gpu-임대-규제-.md",
           "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러"
@@ -157,19 +137,24 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-해커-ai로-각국-기관-공격.md",
-          "title": "中 해커, AI로 각국 기관 공격"
-        },
-        {
-          "date": "2026-11-13",
           "file": "20261113-미-비영리단체-4곳-오픈ai-등-5개.md",
           "title": "미 비영리단체 4곳, 오픈AI 등 5개사에 '최첨단 AI 개발 중단' 소송"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-former-openai-resear.md",
+          "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-banks-bar-chinese-an.md",
+          "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls"
         }
       ]
     },
     {
-      "title": "에이전트의 금융 실무 진입과 보안 재설계",
-      "body_ko": "금융 AI가 거래·KYC·자산관리로 들어오며 에이전트 식별과 보안 범위 재설계가 과제가 됐다.",
+      "title": "에이전트의 금융 실무 진입과 결제 채널화",
+      "body_ko": "카드망이 에이전트 결제를 수용하며 금융사는 인증·채널·보안 설계를 다시 짜야 한다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -203,24 +188,29 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-경주-떠나-춘천으로-핀다-대원저축-앞.md",
-          "title": "경주 떠나 춘천으로…핀다, 대원저축銀 앞세워 ‘AI은행’ 승부수"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-메사쿠어컴퍼니-nh농협은행-인텔-gp.md",
-          "title": "메사쿠어컴퍼니·NH농협은행, 인텔 GPU 기반 비대면 본인확인 구축"
-        },
-        {
-          "date": "2026-11-13",
           "file": "20261113-미래에셋증권-런던증권거래소그룹과-ai.md",
           "title": "미래에셋증권, 런던증권거래소그룹과 AI 자산관리 서비스 강화 업무협약"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-openai-rebuilt-ai-sh.md",
+          "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-wirex-launches-navok.md",
+          "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-옴니사-원-도쿄-2026-랑가라잔-옴.md",
+          "title": "[옴니사 원 도쿄 2026] 랑가라잔 옴니사 CPO “韓 금융권서 가상 데스크톱 '호라이즌' 역할 커질 것”"
         }
       ]
     },
     {
-      "title": "실행형 AI와 디지털 직원 전환",
-      "body_ko": "저가 모델과 실행형 에이전트가 확산되며 AI가 직원처럼 배치되고 성과가 업무 결과로 측정된다.",
+      "title": "실행형 AI와 산업별 업무 침투",
+      "body_ko": "모델사가 산업별·자체호스팅 에이전트로 업무에 들어오며 성과가 업무 결과로 측정된다.",
       "topics": [
         "llm_models",
         "ai_agents",
@@ -238,24 +228,9 @@
           "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-google-joins-the-dec.md",
-          "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
           "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-ai-is-coming-for-con.md",
-          "title": "AI is coming for consulting’s billable hours — and its graduate pipeline"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-답변-넘어-업무-완료-로-이동한-공공.md",
-          "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤"
         },
         {
           "date": "2026-11-13",
@@ -264,8 +239,28 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-중국-광군제서-ai-쇼핑-급증-상품-.md",
-          "title": "중국 광군제서 AI 쇼핑 급증…상품 검색부터 구매까지 지원"
+          "file": "20261113-답변-넘어-업무-완료-로-이동한-공공.md",
+          "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-앤트로픽-제조업용-클로드-출시-오픈a.md",
+          "title": "앤트로픽, 제조업용 '클로드' 출시…오픈AI와 산업별 AI 시장 경쟁 확대"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-앤트로픽-ai-에이전트-관리-서버도-.md",
+          "title": "앤트로픽, AI 에이전트 관리 서버도 기업이 직접 운영하도록 지원"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-ai-agent-startup-lan.md",
+          "title": "AI agent startup LangChain hits $3B valuation"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-nearly-70-percent-of.md",
+          "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails"
         }
       ]
     }
