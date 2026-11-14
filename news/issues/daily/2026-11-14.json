@@ -1,12 +1,12 @@
 {
   "date": "2026-11-14",
-  "updated_at": "2026-11-14T08:14:46.247645+09:00",
-  "run_id": "run_20261114_081446",
-  "summary_ko": "엔비디아 공백이 투자 생태계로 번지는 사이 에이전트는 결제와 기업 내부 운영으로 깊어졌다.",
+  "updated_at": "2026-11-14T12:12:18.297151+09:00",
+  "run_id": "run_20261114_121218",
+  "summary_ko": "엔비디아 공백이 AI 금융까지 흔드는 사이 에이전트는 결제·통제 체계를 갖춰간다.",
   "issues": [
     {
-      "title": "에이전트 결제의 제도권 진입",
-      "summary_ko": "카드망이 에이전트 결제를 받아들여 금융 채널 설계가 바뀐다.",
+      "title": "에이전트 결제와 실행 통제",
+      "summary_ko": "결제망 수용과 실행 전 통제가 맞물려 에이전트가 실거래 채널이 된다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
@@ -24,23 +24,34 @@
           "title": "Wirex launches Navoka, an AI agent that pays from its own bank account and card"
         },
         {
-          "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+          "date": "2026-11-14",
+          "file": "20261114-hyundai-card-launche.md",
+          "title": "Hyundai Card launches new AI-powered credit card model"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-옴니사-원-도쿄-2026-옴니사-ai.md",
+          "title": "[옴니사 원 도쿄 2026] 옴니사, AI 에이전트 통제 솔루션 '엘라라' 내년 출시"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261113158900017",
           "title": ""
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-hyundai-card-launche.md",
-          "title": "Hyundai Card launches new AI-powered credit card model"
+          "file": "20261114-amazon-has-a-plan-to.md",
+          "title": "Amazon has a plan to index the world’s online shopping data"
         }
       ]
     },
     {
-      "title": "엔비디아 공백의 생태계 파급",
-      "summary_ko": "공급사이자 투자자의 공백이 자금·통제 리스크로 번진다.",
+      "title": "엔비디아 공백의 금융 파급",
+      "summary_ko": "공급사 신뢰에 기댄 투자·인프라 금융 구조가 재평가된다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
-        "ai_policy"
+        "ai_policy",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -55,11 +66,6 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-jensen-huang-s-ouste.md",
-          "title": "Jensen Huang's ouster likely traces back to Nvidia's risky business practices more than his personal life"
-        },
-        {
-          "date": "2026-11-14",
           "file": "20261114-former-openai-resear.md",
           "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models"
         },
@@ -67,16 +73,31 @@
           "date": "2026-11-14",
           "file": "20261114-banks-bar-chinese-an.md",
           "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-젠슨-황-퇴진에-670조원-ai-금융.md",
+          "title": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-ft-엔비디아-차기-수장-선임-위해-.md",
+          "title": "FT “엔비디아, 차기 수장 선임 위해 Arm CEO 접촉”…엔비디아는 부인"
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-로이터-엔비디아-의존-ai-프로젝트-.md",
+          "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”"
         }
       ]
     },
     {
-      "title": "모델사의 버티컬·내부 운영 공략",
-      "summary_ko": "모델사가 산업별·자체호스팅 제품으로 업무 깊숙이 들어간다.",
+      "title": "모델사의 선택과 집중",
+      "summary_ko": "모델사가 수익 분야에 자원을 몰고 컴퓨팅 판단을 최대 리스크로 본다.",
       "topics": [
         "llm_models",
-        "ai_agents",
-        "ai_industry"
+        "ai_industry",
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -91,17 +112,18 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-ai-agent-startup-lan.md",
-          "title": "AI agent startup LangChain hits $3B valuation"
-        },
-        {
-          "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
-          "title": ""
+          "file": "20261114-anthropic-s-ipo-is-s.md",
+          "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history"
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-anthropic-s-ipo-is-s.md",
-          "title": "Anthropic's IPO is six times oversubscribed and on track to become the largest public offering in history"
+          "file": "20261114-아모데이-컴퓨팅-수요-예측이-최대-경.md",
+          "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\""
+        },
+        {
+          "date": "2026-11-14",
+          "file": "20261114-스페이스x-영상-생성-ai-그록-이매.md",
+          "title": "스페이스X, 영상 생성 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중"
         }
       ]
     },
@@ -115,20 +137,12 @@
       ],
       "articles": [
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
-          "title": ""
-        },
-        {
-          "url": "https://www.finextra.com/blogposting/33467/what-the-microsoft-365-outage-should-change-in-a-banks-2027-ai-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
-        },
-        {
           "date": "2026-11-14",
           "file": "20261114-옴니사-원-도쿄-2026-랑가라잔-옴.md",
           "title": "[옴니사 원 도쿄 2026] 랑가라잔 옴니사 CPO “韓 금융권서 가상 데스크톱 '호라이즌' 역할 커질 것”"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217379",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
           "title": ""
         }
       ]
