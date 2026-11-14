@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-15",
+  "updated_at": "2026-11-15T08:12:06.086530+09:00",
+  "run_id": "run_20261115_081206",
+  "summary_ko": "엔비디아 공백이 장기전으로 가는 사이 통제 집행과 범용 AI 확장이 가속된다.",
+  "issues": [
+    {
+      "title": "엔비디아 후계 공방 장기화",
+      "summary_ko": "복귀 압박과 재무통 임시 체제가 겹쳐 생태계 투자가 위축될 수 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-15",
+          "file": "20261115-엔비디아-투자자들-젠슨-황-복귀-검토.md",
+          "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-젠슨-황-투자에-제동-걸었던-cfo가.md",
+          "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-엔비디아-실적-앤트로픽-ipo-ai-.md",
+          "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-asian-governments-re.md",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
+        }
+      ]
+    },
+    {
+      "title": "칩 우회 수출 단속 확대",
+      "summary_ko": "통제 집행이 동남아 경유 경로와 규제기관 자체로 번지고 있다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-15",
+          "file": "20261115-미-재무장관-메가스피드-제재-지연에-.md",
+          "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-말레이시아-메가스피드-ai-칩-재수출.md",
+          "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261114132902",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "범용 모델의 영역 확장",
+      "summary_ko": "범용 모델이 로봇까지 흡수하며 전용 조직·활용법이 재편된다.",
+      "topics": [
+        "llm_models",
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-15",
+          "file": "20261115-openai-reassigns-rob.md",
+          "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-runway-s-open-source.md",
+          "title": "Runway's open-source Praxis-1 turns video AI into a robot controller"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-anthropic-says-outda.md",
+          "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-운전대-없는-테슬라-사이버캡-개인도-.md",
+          "title": "운전대 없는 테슬라 '사이버캡', 개인도 산다…가격은 4000만원"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 커머스 데이터 쟁탈",
+      "summary_ko": "구매 대행 에이전트의 조회처를 선점하려는 데이터 허브 경쟁이 시작됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-15",
+          "file": "20261115-아마존-전-세계-상품-정보-통합-추진.md",
+          "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217392",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

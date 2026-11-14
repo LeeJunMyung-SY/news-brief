@@ -1,12 +1,12 @@
 {
   "week": "2026-W46",
-  "updated_at": "2026-11-14T16:09:07.880574+09:00",
-  "run_id": "run_20261114_160907",
-  "summary_ko": "엔비디아 공백이 자금·통제 리스크로 번지는 가운데 AI는 결제와 업무 실행으로 깊어졌다.",
+  "updated_at": "2026-11-15T08:12:06.086530+09:00",
+  "run_id": "run_20261115_081206",
+  "summary_ko": "엔비디아 공백이 자금·통제 리스크로 번지는 가운데 AI는 결제·로봇·업무 실행으로 영역을 넓혔다.",
   "issues": [
     {
       "title": "AI 투자 수익성과 자금시장 시험대",
-      "body_ko": "부채 조달이 늘어도 수익을 증명한 모델사로 자금이 몰려 옥석 가리기가 뚜렷하다.",
+      "body_ko": "수익을 증명한 모델사로 자금이 몰리고, 다음 주 상장·실적이 사이클의 분수령이 된다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -29,24 +29,9 @@
           "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-소프트뱅크-ai-발전-설비-선주문에-.md",
-          "title": "소프트뱅크, AI 발전 설비 선주문에 5조 손실…분기 적자 9조"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-ai-투자-열풍에-회사채-쏠림-빅테크.md",
           "title": "AI 투자 열풍에 회사채 쏠림…빅테크 차입 비용 압박"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-구글-아시아서-5조-조달-ai-투자-.md",
-          "title": "구글, 아시아서 5조 조달…AI 투자 위해 채권 발행 확대"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-nebius-tests-the-neo.md",
-          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
         },
         {
           "date": "2026-11-14",
@@ -55,24 +40,19 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-골드만삭스-ai-투자-2027년-말-.md",
-          "title": "골드만삭스 \"AI 투자, 2027년 말 연간 1865조원 규모…미국 경제성장 주도\""
-        },
-        {
-          "date": "2026-11-14",
           "file": "20261114-아모데이-컴퓨팅-수요-예측이-최대-경.md",
           "title": "아모데이 \"컴퓨팅 수요 예측이 최대 경영 난제…과잉도 부족도 위험\""
         },
         {
-          "date": "2026-11-14",
-          "file": "20261114-et시선-1-4조달러-앤트로픽-ipo.md",
-          "title": "[ET시선] 1.4조달러 앤트로픽 IPO 뒤에 놓인 거대한 청구서"
+          "date": "2026-11-15",
+          "file": "20261115-엔비디아-실적-앤트로픽-ipo-ai-.md",
+          "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령"
         }
       ]
     },
     {
       "title": "엔비디아 리더십 공백과 가속기 다변화",
-      "body_ko": "창업자 퇴진이 투자·인프라 금융과 국가 GPU 조달로 번져 다중 가속기 전략이 현실 과제가 됐다.",
+      "body_ko": "후계 공방이 장기화되며 벤더 금융 축소와 국가 GPU 조달 점검이 현실 과제가 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -85,19 +65,9 @@
           "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days"
         },
         {
-          "date": "2026-11-12",
-          "file": "20261112-nvidia-is-reportedly.md",
-          "title": "Nvidia is reportedly preparing to fire Jensen Huang"
-        },
-        {
           "date": "2026-11-13",
           "file": "20261113-젠슨-황-엔비디아-ceo-사임-주가-.md",
           "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-240조-약속-어쩌나-엔비디아-새-c.md",
-          "title": "'240조 약속 어쩌나'…엔비디아 새 CEO에 AI 산업 '초비상'"
         },
         {
           "date": "2026-11-13",
@@ -111,39 +81,35 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-젠슨-황-사임에도-gpu-26만장-공.md",
-          "title": "젠슨 황 사임에도 韓 GPU 26만장 공급 유지…정부 점검회의서 재확인"
-        },
-        {
-          "date": "2026-11-14",
           "file": "20261114-젠슨-황-퇴진에-670조원-ai-금융.md",
           "title": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임"
         },
         {
-          "date": "2026-11-14",
-          "file": "20261114-ft-엔비디아-차기-수장-선임-위해-.md",
-          "title": "FT “엔비디아, 차기 수장 선임 위해 Arm CEO 접촉”…엔비디아는 부인"
+          "date": "2026-11-15",
+          "file": "20261115-엔비디아-투자자들-젠슨-황-복귀-검토.md",
+          "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세"
         },
         {
-          "url": "https://www.etnews.com/20261114000017",
-          "title": ""
+          "date": "2026-11-15",
+          "file": "20261115-젠슨-황-투자에-제동-걸었던-cfo가.md",
+          "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-asian-governments-re.md",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
         }
       ]
     },
     {
       "title": "AI 통제의 실효화와 범위 확장",
-      "body_ko": "칩 통제는 임대·공모 투자자로, 안전 규제는 등록·감사·소송으로 넓어지며 실사 범위가 커진다.",
+      "body_ko": "칩 통제는 임대·제3국 재수출로, 안전 규제는 등록·감사·소송으로 넓어지며 실사 범위가 커진다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
         "llm_models"
       ],
       "articles": [
-        {
-          "date": "2026-11-09",
-          "file": "20261109-반도체-수출통제-클라우드까지-번진다-.md",
-          "title": "美 반도체 수출통제, 클라우드까지 번진다…韓 AI 기업도 영향권"
-        },
         {
           "date": "2026-11-11",
           "file": "20261111-openai-anthropic-fac.md",
@@ -156,18 +122,8 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-australia-s-proposed.md",
-          "title": "Australia's proposed AI safety bill would force frontier model makers to open up to independent testing"
-        },
-        {
-          "date": "2026-11-13",
           "file": "20261113-미-비영리단체-4곳-오픈ai-등-5개.md",
           "title": "미 비영리단체 4곳, 오픈AI 등 5개사에 '최첨단 AI 개발 중단' 소송"
-        },
-        {
-          "date": "2026-11-14",
-          "file": "20261114-former-openai-resear.md",
-          "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models"
         },
         {
           "date": "2026-11-14",
@@ -176,30 +132,30 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-로이터-엔비디아-의존-ai-프로젝트-.md",
-          "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”"
-        },
-        {
-          "date": "2026-11-14",
           "file": "20261114-프런티어-ai-규제-틀-안으로-안전관.md",
           "title": "프런티어 AI, 규제 틀 안으로…안전관리 의무화 확산"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-미-재무장관-메가스피드-제재-지연에-.md",
+          "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-말레이시아-메가스피드-ai-칩-재수출.md",
+          "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수"
         }
       ]
     },
     {
       "title": "에이전트의 금융 실무 진입과 결제 채널화",
-      "body_ko": "카드망이 에이전트 결제를 수용하고 실행 통제 솔루션이 나오며 금융사는 인증·채널·보안을 다시 짠다.",
+      "body_ko": "결제망 수용과 상품 데이터 허브 경쟁이 겹쳐 금융사는 인증·채널·데이터 제휴를 다시 짠다.",
       "topics": [
         "ai_agents",
         "금융회사 AI",
         "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-11",
-          "file": "20261111-ai-could-cut-banking.md",
-          "title": "AI could cut banking industry's cost base by 20% - McKinsey's"
-        },
         {
           "date": "2026-11-12",
           "file": "20261112-deutsche-bank-and-an.md",
@@ -216,16 +172,6 @@
           "title": "Feedzai helps banks detect AI agents accessing customer accounts"
         },
         {
-          "date": "2026-11-13",
-          "file": "20261113-금감원-ai해킹-탐지시스템-만든다.md",
-          "title": "금감원, AI해킹 탐지시스템 만든다"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-미래에셋증권-런던증권거래소그룹과-ai.md",
-          "title": "미래에셋증권, 런던증권거래소그룹과 AI 자산관리 서비스 강화 업무협약"
-        },
-        {
           "date": "2026-11-14",
           "file": "20261114-openai-rebuilt-ai-sh.md",
           "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet"
@@ -237,22 +183,23 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-옴니사-원-도쿄-2026-랑가라잔-옴.md",
-          "title": "[옴니사 원 도쿄 2026] 랑가라잔 옴니사 CPO “韓 금융권서 가상 데스크톱 '호라이즌' 역할 커질 것”"
-        },
-        {
-          "date": "2026-11-14",
           "file": "20261114-옴니사-원-도쿄-2026-옴니사-ai.md",
           "title": "[옴니사 원 도쿄 2026] 옴니사, AI 에이전트 통제 솔루션 '엘라라' 내년 출시"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-아마존-전-세계-상품-정보-통합-추진.md",
+          "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다"
         }
       ]
     },
     {
-      "title": "실행형 AI와 산업별 업무 침투",
-      "body_ko": "모델사가 수익 분야로 자원을 몰아 산업별·실행형 에이전트로 업무에 들어오고 있다.",
+      "title": "범용 AI의 업무·물리 영역 확장",
+      "body_ko": "모델사가 산업별·실행형 제품에 집중하고 범용 모델이 로봇까지 흡수해 조직·인력 설계가 바뀐다.",
       "topics": [
         "llm_models",
         "ai_agents",
+        "physical_ai",
         "ai_workforce_training"
       ],
       "articles": [
@@ -268,18 +215,8 @@
         },
         {
           "date": "2026-11-13",
-          "file": "20261113-구글-제미나이-4-하이드로젠-출시-상.md",
-          "title": "구글, '제미나이 4 하이드로젠' 출시…상위 모델 '아르곤' 성능 추월"
-        },
-        {
-          "date": "2026-11-13",
           "file": "20261113-ai-직원-하루-3만7000명-출근-.md",
           "title": "\"AI 직원 하루 3만7000명 출근\"…中 빅테크의 파격 실험  [차이나 워치]"
-        },
-        {
-          "date": "2026-11-13",
-          "file": "20261113-답변-넘어-업무-완료-로-이동한-공공.md",
-          "title": "'답변' 넘어 '업무 완료'로 이동한 공공 AI 중심 | 베스핀글로벌㊤"
         },
         {
           "date": "2026-11-14",
@@ -288,23 +225,18 @@
         },
         {
           "date": "2026-11-14",
-          "file": "20261114-앤트로픽-ai-에이전트-관리-서버도-.md",
-          "title": "앤트로픽, AI 에이전트 관리 서버도 기업이 직접 운영하도록 지원"
-        },
-        {
-          "date": "2026-11-14",
-          "file": "20261114-ai-agent-startup-lan.md",
-          "title": "AI agent startup LangChain hits $3B valuation"
-        },
-        {
-          "date": "2026-11-14",
-          "file": "20261114-nearly-70-percent-of.md",
-          "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails"
-        },
-        {
-          "date": "2026-11-14",
           "file": "20261114-스페이스x-영상-생성-ai-그록-이매.md",
           "title": "스페이스X, 영상 생성 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-openai-reassigns-rob.md",
+          "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-ai프리즘-ai로-일자리-170만개-.md",
+          "title": "[AI프리즘] AI로 일자리 170만개 늘지만…5명 중 1명 직무 바뀐다"
         }
       ]
     }
