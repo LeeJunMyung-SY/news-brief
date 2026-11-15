@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-16",
+  "updated_at": "2026-11-16T08:14:13.576848+09:00",
+  "run_id": "run_20261116_081413",
+  "summary_ko": "엔비디아 공백이 규제·투자 사이클 우려로 번진 하루였다.",
+  "issues": [
+    {
+      "title": "엔비디아 공백, 규제·공급망 리스크로",
+      "summary_ko": "창업자 리스크가 칩 수출통제 강화와 공급망 불확실성으로 확산됐다.",
+      "topics": [
+        "ai_industry",
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-젠슨-황-엔비디아-ceo-복귀-논의-.md",
+          "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-congress-wants-to-ti.md",
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-firm-linked-to-jense.md",
+          "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678663",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 투자 사이클 검증 국면",
+      "summary_ko": "IPO와 조정론이 겹쳐 AI 투자의 수익 증명이 핵심 변수가 됐다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-anthropic-s-ipo-land.md",
+          "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12209261",
+          "title": ""
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 악용, 자격 검증 체계 흔들다",
+      "summary_ko": "생성 AI 부정이 전문자격 신뢰 문제로 번져 제도 대응이 본격화됐다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-수능-코앞인데-ai-부정행위-파문-청.md",
+          "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+          "title": ""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261115038100002",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "자립형 모델과 토큰 단가 경쟁",
+      "summary_ko": "탈엔비디아 오픈모델과 토큰 사업화로 AI 단가 경쟁이 빨라진다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-meituan-releases-a-1.md",
+          "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-lgu-토큰사업-진출-ai-비용-확-.md",
+          "title": "LGU+, 토큰사업 진출…\"AI 비용 확 줄일 것\""
+        }
+      ]
+    }
+  ]
+}

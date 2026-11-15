@@ -1,0 +1,112 @@
+{
+  "week": "2026-W47",
+  "updated_at": "2026-11-16T08:14:13.576848+09:00",
+  "run_id": "run_20261116_081413",
+  "summary_ko": "엔비디아발 불확실성 속 AI 투자의 수익성 검증이 본격화된 주.",
+  "issues": [
+    {
+      "title": "엔비디아 위기와 수출통제 강화",
+      "body_ko": "창업자 리스크가 칩 수출규제 입법과 공급망 재편 압력으로 이어지고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-젠슨-황-엔비디아-ceo-복귀-논의-.md",
+          "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-congress-wants-to-ti.md",
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-firm-linked-to-jense.md",
+          "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678663",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 투자 사이클의 시험대",
+      "body_ko": "대형 IPO와 조정론이 겹치며 수익 증명이 AI 투자 신뢰를 좌우한다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-anthropic-s-ipo-land.md",
+          "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12209261",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "생성 AI 악용과 자격 신뢰",
+      "body_ko": "AI 부정행위가 국가자격 전반의 검증 체계 재설계를 요구하고 있다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-수능-코앞인데-ai-부정행위-파문-청.md",
+          "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261115038100002",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "저비용·자립형 모델 경쟁",
+      "body_ko": "중국산 칩 기반 오픈모델과 토큰 사업화로 AI 단가 경쟁이 가속된다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-meituan-releases-a-1.md",
+          "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-lgu-토큰사업-진출-ai-비용-확-.md",
+          "title": "LGU+, 토큰사업 진출…\"AI 비용 확 줄일 것\""
+        }
+      ]
+    },
+    {
+      "title": "자율주행의 구독 수익화",
+      "body_ko": "AI 기능이 차량 운행권을 좌우하는 구독 모델이 하드웨어 사업을 재편한다.",
+      "topics": [
+        "physical_ai",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-내-돈-주고-산-테슬라-사이버캡-구독.md",
+          "title": "내 돈 주고 산 테슬라 사이버캡…구독료 끊으면 운전도 못 한다"
+        }
+      ]
+    }
+  ]
+}
