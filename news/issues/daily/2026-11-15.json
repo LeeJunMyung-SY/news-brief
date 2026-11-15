@@ -1,12 +1,47 @@
 {
   "date": "2026-11-15",
-  "updated_at": "2026-11-15T08:12:06.086530+09:00",
-  "run_id": "run_20261115_081206",
-  "summary_ko": "엔비디아 공백이 장기전으로 가는 사이 통제 집행과 범용 AI 확장이 가속된다.",
+  "updated_at": "2026-11-15T12:12:08.687309+09:00",
+  "run_id": "run_20261115_121208",
+  "summary_ko": "엔비디아 공백 속에 AI 투자 과열이 금융 리스크로 공식 지목됐다.",
   "issues": [
     {
+      "title": "AI 투자 과열의 금융 리스크화",
+      "summary_ko": "중앙은행 경고로 AI 투자가 금융안정 점검 대상이 됐다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-15",
+          "file": "20261115-엔비디아-실적-앤트로픽-ipo-ai-.md",
+          "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-연준-ai가-금융-위험-불러올-수-자.md",
+          "title": "美연준 “AI가 금융 위험 불러올 수”…자산가치 고평가·부채급증 우려"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-ai-투자붐-2028년-전후-조정-가.md",
+          "title": "\"AI 투자붐, 2028년 전후 조정 가능성…韓 경제도 대비해야\""
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-ai-특수에-ict-수출-703억달러.md",
+          "title": "AI 특수에 ICT 수출 703억달러…증가율 202% '역대 최고'"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261115094533",
+          "title": ""
+        }
+      ]
+    },
+    {
       "title": "엔비디아 후계 공방 장기화",
-      "summary_ko": "복귀 압박과 재무통 임시 체제가 겹쳐 생태계 투자가 위축될 수 있다.",
+      "summary_ko": "리더십 공백이 공급망 재편과 조달 다변화로 이어진다.",
       "topics": [
         "ai_industry",
         "ai_compute_energy"
@@ -24,19 +59,19 @@
         },
         {
           "date": "2026-11-15",
-          "file": "20261115-엔비디아-실적-앤트로픽-ipo-ai-.md",
-          "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령"
+          "file": "20261115-asian-governments-re.md",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
         },
         {
           "date": "2026-11-15",
-          "file": "20261115-asian-governments-re.md",
-          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
+          "file": "20261115-젠슨-황-퇴진에-엔비디아-공급망-재편.md",
+          "title": "젠슨 황 퇴진에 엔비디아 공급망 '재편'…韓 반도체 수요처 다변화 '기회'"
         }
       ]
     },
     {
-      "title": "칩 우회 수출 단속 확대",
-      "summary_ko": "통제 집행이 동남아 경유 경로와 규제기관 자체로 번지고 있다.",
+      "title": "AI 인프라 통제의 전방위화",
+      "summary_ko": "칩 경로부터 데이터센터 입지까지 규제 문턱이 높아진다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy"
@@ -53,18 +88,24 @@
           "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261114132902",
-          "title": ""
+          "date": "2026-11-15",
+          "file": "20261115-수도권-데이터센터-전력계통영향평가-7.md",
+          "title": "수도권 데이터센터 전력계통영향평가 '75점 이상'…16일부터 적용"
+        },
+        {
+          "date": "2026-11-15",
+          "file": "20261115-출시-전-ai는-누가-감시하나-싱크탱.md",
+          "title": "출시 전 AI는 누가 감시하나…美 싱크탱크 경고"
         }
       ]
     },
     {
-      "title": "범용 모델의 영역 확장",
-      "summary_ko": "범용 모델이 로봇까지 흡수하며 전용 조직·활용법이 재편된다.",
+      "title": "범용 모델 확장과 비용 최적화",
+      "summary_ko": "모델 범용화와 함께 경쟁 축이 운영비 효율로 옮겨간다.",
       "topics": [
         "llm_models",
-        "physical_ai",
-        "physical_ai_robotics"
+        "ai_agents",
+        "physical_ai"
       ],
       "articles": [
         {
@@ -79,32 +120,13 @@
         },
         {
           "date": "2026-11-15",
-          "file": "20261115-anthropic-says-outda.md",
-          "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5"
-        },
-        {
-          "date": "2026-11-15",
-          "file": "20261115-운전대-없는-테슬라-사이버캡-개인도-.md",
-          "title": "운전대 없는 테슬라 '사이버캡', 개인도 산다…가격은 4000만원"
-        }
-      ]
-    },
-    {
-      "title": "에이전트 커머스 데이터 쟁탈",
-      "summary_ko": "구매 대행 에이전트의 조회처를 선점하려는 데이터 허브 경쟁이 시작됐다.",
-      "topics": [
-        "ai_agents",
-        "ai_industry"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-15",
           "file": "20261115-아마존-전-세계-상품-정보-통합-추진.md",
           "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217392",
-          "title": ""
+          "date": "2026-11-15",
+          "file": "20261115-lgu-2027년-ai-비용-낮추는-.md",
+          "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출"
         }
       ]
     }
