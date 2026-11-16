@@ -1,15 +1,15 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-16T16:16:10.358292+09:00",
-  "run_id": "run_20261116_161610",
-  "summary_ko": "엔비디아발 불확실성 속 AI 경쟁이 인프라·수익성 검증과 현업 도입으로 옮겨간 주.",
+  "updated_at": "2026-11-17T08:20:15.790495+09:00",
+  "run_id": "run_20261117_082015",
+  "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·수익성 검증 국면으로 옮겨간 주.",
   "issues": [
     {
-      "title": "엔비디아 위기와 공급망 블록화",
-      "body_ko": "창업자 리스크가 수출통제 입법과 동맹국 공급망 재편으로 이어지고 있다.",
+      "title": "엔비디아 공백과 美 AI 통제 강화",
+      "body_ko": "창업자 리스크가 원격 컴퓨트 통제와 국가대표 육성으로 번졌다.",
       "topics": [
-        "ai_industry",
         "ai_policy",
+        "ai_industry",
         "ai_compute_energy"
       ],
       "articles": [
@@ -25,19 +25,28 @@
         },
         {
           "date": "2026-11-16",
-          "file": "20261116-firm-linked-to-jense.md",
-          "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China"
-        },
-        {
-          "date": "2026-11-16",
           "file": "20261116-미국-한국-등-9개국-중국-견제-ai.md",
           "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-미국-중국의-해외-gpu-우회-이용-.md",
+          "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-미국-엔비디아-오픈ai-등-ai-기업.md",
+          "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
+          "title": ""
         }
       ]
     },
     {
       "title": "AI 투자 사이클의 시험대",
-      "body_ko": "AI 이벤트가 증시를 흔들며 수익 증명이 투자 신뢰를 좌우한다.",
+      "body_ko": "부채형 순환금융 경고 속 수익 증명이 투자 신뢰를 가른다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -52,12 +61,21 @@
           "date": "2026-11-16",
           "file": "20261116-젠슨-황-파장-지속-ai-빅위크-경계.md",
           "title": "'젠슨 황' 파장 지속, 'AI 빅위크' 경계감…증시 다시 출렁"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-standing-on-one-leg-.md",
+          "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026111706616",
+          "title": ""
         }
       ]
     },
     {
-      "title": "전력·냉각 인프라 확보전",
-      "body_ko": "AI 데이터센터 속도가 전력·냉각 설비에 달리며 밸류체인이 재편된다.",
+      "title": "전력·자본의 인프라 쏠림",
+      "body_ko": "자본이 전력·냉각·메모리로 몰리며 인프라 밸류체인이 재편된다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -70,11 +88,6 @@
         },
         {
           "date": "2026-11-16",
-          "file": "20261116-삼성-모덱서스-m-a-상장사-협상-플.md",
-          "title": "[삼성-모덱서스 M&A]① 美 상장사 협상…獨 플랙트와 다른 인수 구조"
-        },
-        {
-          "date": "2026-11-16",
           "file": "20261116-ai-데이터센터-가동-속도-경쟁-ls.md",
           "title": "AI 데이터센터 가동 속도 경쟁…LS일렉트릭, 납기 앞세워 추가 수주"
         },
@@ -84,19 +97,23 @@
           "title": "[단독] AI 서버 통째로 액체에…GST, 액침냉각 앞세워 글로벌 빅테크 공략"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-수주잔고-4-3조-쌓은-대한전선-싱가.md",
-          "title": "수주잔고 4.3조 쌓은 대한전선, 싱가포르서 2718억원 규모 계약 확보"
+          "date": "2026-11-17",
+          "file": "20261117-ai인프라-글로벌-큰손-블랙스톤-데이.md",
+          "title": "AI인프라 글로벌 큰손 블랙스톤 \"韓 데이터센터 시장 진출하겠다\""
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-삼성-sk하이닉스-역대-최대-시설투자.md",
+          "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원"
         }
       ]
     },
     {
-      "title": "금융권 현업 주도 AX",
-      "body_ko": "금융권이 코딩 에이전트로 현업 개발을 열며 바텀업 AX를 제도화한다.",
+      "title": "금융권 AX와 AI 보안 위협",
+      "body_ko": "금융권이 현업 AX를 넓히는 동시에 AI 공격의 표적이 되고 있다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_workforce_training"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -113,14 +130,25 @@
           "date": "2026-11-16",
           "file": "20261116-노타-두베에-금융권-특화-ai-코딩-.md",
           "title": "노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-fbi-says-artex-ai-op.md",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-anne-boden-unveils-a.md",
+          "title": "Anne Boden unveils AI-focused banking venture"
         }
       ]
     },
     {
-      "title": "생성 AI 악용과 자격 신뢰",
-      "body_ko": "AI 부정이 국가자격 제재와 시험장 기기 통제로 이어지고 있다.",
+      "title": "AI 악용·일탈의 제재 단계 진입",
+      "body_ko": "AI 부정과 에이전트 일탈이 실제 제재와 소송으로 이어지고 있다.",
       "topics": [
         "ai_policy",
+        "ai_agents",
         "금융회사 AI"
       ],
       "articles": [
@@ -131,23 +159,18 @@
         },
         {
           "date": "2026-11-16",
-          "file": "20261116-한-총리-ai-악용-시험-부정행위-심.md",
-          "title": "한 총리 \"AI 악용 시험 부정행위 심각…수능 코앞, 범정부 역량 총동원\""
-        },
-        {
-          "date": "2026-11-16",
-          "file": "20261116-안경-반사각까지-살핀다-ai-커닝에-.md",
-          "title": "안경 반사각까지 살핀다…AI 커닝에 대기업 채용도 차단책 부심"
-        },
-        {
-          "date": "2026-11-16",
-          "file": "20261116-정부-19일-수능-모든-스마트기기-반.md",
-          "title": "정부, 19일 수능 모든 스마트기기 반납-공공 와이파이 차단 추진"
-        },
-        {
-          "date": "2026-11-16",
           "file": "20261116-세무사-시험-부정행위-대응-tf-개최.md",
           "title": "세무사 시험 부정행위 대응 TF 개최…부정행위자 시험 무효 절차 개시"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-california-sues-open.md",
+          "title": "California sues OpenAI over rogue AI hacking incidents"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai-커닝-논란속-6월-거래소-채용시.md",
+          "title": "'AI 커닝' 논란속 6월 거래소 채용시험서 스마트안경 착용 적발(종합)"
         }
       ]
     }

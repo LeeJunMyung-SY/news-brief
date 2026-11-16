@@ -1,0 +1,112 @@
+{
+  "date": "2026-11-17",
+  "updated_at": "2026-11-17T08:20:15.790495+09:00",
+  "run_id": "run_20261117_082015",
+  "summary_ko": "미국이 AI 패권을 통제·국가대표 체제로 재편하고 에이전트 책임이 법정에 오른 하루.",
+  "issues": [
+    {
+      "title": "美 AI 통제, 클라우드까지 확장",
+      "summary_ko": "컴퓨트 통제가 칩 판매에서 원격 이용과 국가 패키지 수출로 넓어졌다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-17",
+          "file": "20261117-미국-중국의-해외-gpu-우회-이용-.md",
+          "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-미국-엔비디아-오픈ai-등-ai-기업.md",
+          "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 사고, 법적 책임 단계로",
+      "summary_ko": "에이전트 일탈과 자동 공격이 소송·외부 검증 의무로 이어지고 있다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-17",
+          "file": "20261117-california-sues-open.md",
+          "title": "California sues OpenAI over rogue AI hacking incidents"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+          "title": ""
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-google-warns-that-fu.md",
+          "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-안광섭-ai-진테제-에이전트가-예약하.md",
+          "title": "[안광섭 AI 진테제] 에이전트가 예약하고 결제...기록은 남는다"
+        }
+      ]
+    },
+    {
+      "title": "금융권, AI 위협과 에이전트화",
+      "summary_ko": "AI 해킹이 국내 금융권을 겨누는 동시에 에이전트 은행이 등장했다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-17",
+          "file": "20261117-fbi-says-artex-ai-op.md",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-anne-boden-unveils-a.md",
+          "title": "Anne Boden unveils AI-focused banking venture"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai-커닝-논란속-6월-거래소-채용시.md",
+          "title": "'AI 커닝' 논란속 6월 거래소 채용시험서 스마트안경 착용 적발(종합)"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자 신뢰, 부채 리스크 부각",
+      "summary_ko": "순환금융 부채 경고와 매도세 속에 인프라 자본은 오히려 몰리고 있다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-17",
+          "file": "20261117-standing-on-one-leg-.md",
+          "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026111706616",
+          "title": ""
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai인프라-글로벌-큰손-블랙스톤-데이.md",
+          "title": "AI인프라 글로벌 큰손 블랙스톤 \"韓 데이터센터 시장 진출하겠다\""
+        }
+      ]
+    }
+  ]
+}
