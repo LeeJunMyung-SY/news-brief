@@ -1,12 +1,12 @@
 {
   "date": "2026-11-16",
-  "updated_at": "2026-11-16T08:14:13.576848+09:00",
-  "run_id": "run_20261116_081413",
-  "summary_ko": "엔비디아 공백이 규제·투자 사이클 우려로 번진 하루였다.",
+  "updated_at": "2026-11-16T12:12:23.552118+09:00",
+  "run_id": "run_20261116_121223",
+  "summary_ko": "엔비디아 공백 속 AI 경쟁이 공급망·전력 확보전으로 번진 하루.",
   "issues": [
     {
-      "title": "엔비디아 공백, 규제·공급망 리스크로",
-      "summary_ko": "창업자 리스크가 칩 수출통제 강화와 공급망 불확실성으로 확산됐다.",
+      "title": "엔비디아 공백과 공급망 블록화",
+      "summary_ko": "창업자 리스크가 동맹 단위 공급망 재편과 수출통제로 확산됐다.",
       "topics": [
         "ai_industry",
         "ai_policy",
@@ -29,14 +29,49 @@
           "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=678663",
+          "date": "2026-11-16",
+          "file": "20261116-미국-한국-등-9개국-중국-견제-ai.md",
+          "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217436",
           "title": ""
         }
       ]
     },
     {
+      "title": "AI 인프라 병목, 전력·냉각으로",
+      "summary_ko": "AI 데이터센터 경쟁이 칩에서 전력·냉각 설비 확보로 옮겨갔다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-16",
+          "file": "20261116-skt-효성중공업과-기가급-aidc-.md",
+          "title": "SKT, 효성중공업과 기가급 AIDC 전력 인프라 구축 협력"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-삼성-모덱서스-m-a-상장사-협상-플.md",
+          "title": "[삼성-모덱서스 M&A]① 美 상장사 협상…獨 플랙트와 다른 인수 구조"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-ai-데이터센터-가동-속도-경쟁-ls.md",
+          "title": "AI 데이터센터 가동 속도 경쟁…LS일렉트릭, 납기 앞세워 추가 수주"
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-클라우드-3사-ai-열풍에-활짝-데이.md",
+          "title": "韓 클라우드 3사, AI 열풍에 활짝…데이터센터 확장 가속"
+        }
+      ]
+    },
+    {
       "title": "AI 투자 사이클 검증 국면",
-      "summary_ko": "IPO와 조정론이 겹쳐 AI 투자의 수익 증명이 핵심 변수가 됐다.",
+      "summary_ko": "성장의 AI 쏠림과 IPO가 겹쳐 수익 증명이 핵심 변수가 됐다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -48,18 +83,27 @@
           "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12209261",
+          "url": "https://www.hankyung.com/article/202611168084i",
           "title": ""
         },
         {
-          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "url": "https://www.mk.co.kr/news/stock/12209726",
           "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/2026111687436",
+          "title": ""
+        },
+        {
+          "date": "2026-11-16",
+          "file": "20261116-랭체인-ai-에이전트-관리-사업-확대.md",
+          "title": "랭체인, AI 에이전트 관리 사업 확대…기업가치 30억 달러 평가"
         }
       ]
     },
     {
       "title": "AI 악용, 자격 검증 체계 흔들다",
-      "summary_ko": "생성 AI 부정이 전문자격 신뢰 문제로 번져 제도 대응이 본격화됐다.",
+      "summary_ko": "AI 부정이 범정부 대응과 기업 채용 평가 재설계로 번졌다.",
       "topics": [
         "ai_policy",
         "금융회사 AI"
@@ -71,33 +115,18 @@
           "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+          "date": "2026-11-16",
+          "file": "20261116-한-총리-ai-악용-시험-부정행위-심.md",
+          "title": "한 총리 \"AI 악용 시험 부정행위 심각…수능 코앞, 범정부 역량 총동원\""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261116083300002",
           "title": ""
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261115038100002",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "title": "자립형 모델과 토큰 단가 경쟁",
-      "summary_ko": "탈엔비디아 오픈모델과 토큰 사업화로 AI 단가 경쟁이 빨라진다.",
-      "topics": [
-        "llm_models",
-        "ai_agents",
-        "ai_compute_energy"
-      ],
-      "articles": [
-        {
           "date": "2026-11-16",
-          "file": "20261116-meituan-releases-a-1.md",
-          "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
-        },
-        {
-          "date": "2026-11-16",
-          "file": "20261116-lgu-토큰사업-진출-ai-비용-확-.md",
-          "title": "LGU+, 토큰사업 진출…\"AI 비용 확 줄일 것\""
+          "file": "20261116-안경-반사각까지-살핀다-ai-커닝에-.md",
+          "title": "안경 반사각까지 살핀다…AI 커닝에 대기업 채용도 차단책 부심"
         }
       ]
     }
