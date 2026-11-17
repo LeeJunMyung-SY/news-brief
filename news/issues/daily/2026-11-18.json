@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-18",
+  "updated_at": "2026-11-18T08:15:39.831241+09:00",
+  "run_id": "run_20261118_081539",
+  "summary_ko": "모델 단가 경쟁 속 에이전트가 업무 OS로, AI 리스크는 감독·입법으로 번진 하루.",
+  "issues": [
+    {
+      "title": "모델 단가전과 업무 OS 경쟁",
+      "summary_ko": "성능이 수렴하자 가격과 업무 플랫폼 장악이 승부처가 됐다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-18",
+          "file": "20261118-오픈ai-세계-2위-성능-gpt-6-.md",
+          "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-ms-mai-코드-2-출시-앤트로픽급.md",
+          "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-ms-디시전-1-1-공개-기존-llm.md",
+          "title": "MS, 디시전 1.1 공개…\"기존 LLM보다 10배 빠르고 비용은 200분의 1\""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-사티아-나델라-코파일럿은-업무를-위한.md",
+          "title": "사티아 나델라 \"코파일럿은 업무를 위한 새로운 운영체제\"…워드·엑셀까지 통합"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-introducing-chatgpt-.md",
+          "title": "Introducing ChatGPT for Sales"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-텐센트-hy4-플래시-출시-일상-업무.md",
+          "title": "텐센트 'Hy4 플래시' 출시...일상 업무 특화·작업 비용 95% 절감"
+        }
+      ]
+    },
+    {
+      "title": "엔비디아, 실적과 거버넌스 분리",
+      "summary_ko": "수요는 실적으로 증명됐지만 지배구조 리스크는 통제로 번졌다.",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-18",
+          "file": "20261118-젠슨황-없는-엔비디아-3분기-매출-1.md",
+          "title": "젠슨황 없는 엔비디아, 3분기 매출 1158억달러 '역대 최대'"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217512",
+          "title": ""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-nvidia-s-first-big-m.md",
+          "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-nvidia-says-its-open.md",
+          "title": "Nvidia says its open-source AI strategy remains intact after Jensen Huang’s exit"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12211880",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 에이전트 투자와 감독 강화",
+      "summary_ko": "금융 업무 자동화 투자와 AI 공격 대응 감독이 동시에 커졌다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-18",
+          "file": "20261118-model-ml-raises-250m.md",
+          "title": "Model ML raises $250M to automate investment banking grunt work"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-주변부-시스템까지-전수-보안점검-대형.md",
+          "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-google-backed-arva-a.md",
+          "title": "Google-backed Arva AI raises $20m"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-ai에-일-맡기면-ceo는-시간당-2.md",
+          "title": "AI에 일 맡기면…CEO는 시간당 20달러 아끼고 웨이터는 손해"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=678900",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 일탈 통제, 입법·검증으로",
+      "summary_ko": "AI 악용·통제 실패 대응이 법제화와 내부 검증 기술로 옮겨갔다.",
+      "topics": [
+        "ai_policy",
+        "ai_agents",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-18",
+          "file": "20261118-국회-ai-커닝-특별법-착수-부정행위.md",
+          "title": "국회, AI 커닝 특별법 착수...\"부정행위 꿈도 꾸지 말라\""
+        },
+        {
+          "url": "https://www.etnews.com/20261117000454",
+          "title": ""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-grok-bot-took-unappr.md",
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217488",
+          "title": ""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-openai-opens-its-cyb.md",
+          "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments"
+        }
+      ]
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-17T16:14:29.911358+09:00",
-  "run_id": "run_20261117_161429",
-  "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·금융 리스크 검증 국면으로 옮겨간 주.",
+  "updated_at": "2026-11-18T08:15:39.831241+09:00",
+  "run_id": "run_20261118_081539",
+  "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·수익 증명 국면으로 옮겨간 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "창업자 리스크가 중국 연계 의혹과 원격 컴퓨트 통제로 번졌다.",
+      "body_ko": "창업자 리스크가 수출통제 집행과 규제 조사로 번졌지만 실적은 수요를 재확인했다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -24,30 +24,34 @@
           "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-미국-한국-등-9개국-중국-견제-ai.md",
-          "title": "미국·한국 등 9개국, 중국 견제 AI 공급망 보호 공동 선언"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-미국-중국의-해외-gpu-우회-이용-.md",
           "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표"
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-ai-고속도로-엔비디아-의존도-낮춘다.md",
-          "title": "[AI 고속도로] \"엔비디아 의존도 낮춘다\"…오픈AI, AMD 기반 AI 인프라 457MW 확보"
-        },
-        {
-          "date": "2026-11-17",
           "file": "20261117-wsj-앨리스-황-남편-중국-정부-지.md",
           "title": "WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 규모 데이터센터 사업 추진\""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-젠슨황-없는-엔비디아-3분기-매출-1.md",
+          "title": "젠슨황 없는 엔비디아, 3분기 매출 1158억달러 '역대 최대'"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-nvidia-s-first-big-m.md",
+          "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+          "title": ""
         }
       ]
     },
     {
       "title": "AI 투자 사이클의 금융 리스크화",
-      "body_ko": "은행 익스포저 집계와 성장 편중 경고로 수익 증명이 관건이 됐다.",
+      "body_ko": "은행 익스포저 집계와 증시 급락, 연준 점검이 겹치며 수익 증명이 관건이 됐다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -74,18 +78,22 @@
           "title": "한은 \"한국 근로자 AI 비용 연 2조8000억 쓰고도 생산성은 정체\""
         },
         {
-          "url": "https://www.etnews.com/20261117000366",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217490",
           "title": ""
         },
         {
-          "url": "https://www.fnnews.com/news/202611171323574218",
+          "url": "https://www.mk.co.kr/news/stock/12211880",
+          "title": ""
+        },
+        {
+          "url": "https://www.etnews.com/20261118000003",
           "title": ""
         }
       ]
     },
     {
       "title": "전력·자본의 인프라 쏠림",
-      "body_ko": "자본이 AI 데이터센터로 몰리지만 금융은 선별적으로 바뀌고 있다.",
+      "body_ko": "자본이 AI 데이터센터로 몰리며 인프라가 독립 사업으로 분리·재편되고 있다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -112,23 +120,20 @@
           "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원"
         },
         {
-          "date": "2026-11-17",
-          "file": "20261117-세미어낼러시스-ai-가속기-수요증가-.md",
-          "title": "세미어낼러시스 “AI 가속기 수요증가 둔화”[월가월부]"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217486",
-          "title": ""
+          "date": "2026-11-18",
+          "file": "20261118-aidc-사업-분할-앞둔-skb-정부.md",
+          "title": "AIDC 사업 분할 앞둔 SKB…정부 인허가 심사 속 내부 반발 넘을까"
         }
       ]
     },
     {
-      "title": "AX 사업화와 에이전트 생태계",
-      "body_ko": "금융·IT서비스 AX가 실적으로 검증되고 SW는 에이전트에 문을 열었다.",
+      "title": "AX 사업화와 에이전트 업무 플랫폼",
+      "body_ko": "AX가 실적으로 검증되고 에이전트가 업무 OS·직무 상품으로 진화했다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
@@ -137,19 +142,9 @@
           "title": "직접 아이디어 발굴서 코딩까지…기업은행, 현업 AX 체계 '차별화'"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-웹케시-하나은행-통합cms-ai-분석.md",
-          "title": "웹케시, 하나은행 '통합CMS AI 분석 시범사업' 수행"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-카카오뱅크-ai-목표적금-출시-한-달.md",
           "title": "카카오뱅크 \"AI 목표적금, 출시 한 달 만에 누적 10만좌\""
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-google-lets-users-co.md",
-          "title": "Google lets users connect their Wallet to Gemini for personal finance insights"
         },
         {
           "date": "2026-11-17",
@@ -160,12 +155,27 @@
           "date": "2026-11-17",
           "file": "20261117-어도비-외부-ai-에이전트에-포토샵-.md",
           "title": "어도비, 외부 AI 에이전트에 포토샵·프리미어 문 연다"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-사티아-나델라-코파일럿은-업무를-위한.md",
+          "title": "사티아 나델라 \"코파일럿은 업무를 위한 새로운 운영체제\"…워드·엑셀까지 통합"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-오픈ai-세계-2위-성능-gpt-6-.md",
+          "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-model-ml-raises-250m.md",
+          "title": "Model ML raises $250M to automate investment banking grunt work"
         }
       ]
     },
     {
       "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 일탈 대응이 소송·외부 검증·로그 기반 사후조사로 제도화됐다.",
+      "body_ko": "AI 일탈 대응이 소송·특별법·로그 기반 사후조사로 제도화됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -177,19 +187,9 @@
           "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-세무사-시험-부정행위-대응-tf-개최.md",
-          "title": "세무사 시험 부정행위 대응 TF 개최…부정행위자 시험 무효 절차 개시"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-california-sues-open.md",
           "title": "California sues OpenAI over rogue AI hacking incidents"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-스캐터랩-제타-안전장치-손본다-대표가.md",
-          "title": "스캐터랩, '제타' 안전장치 손본다…대표가 진두지휘"
         },
         {
           "date": "2026-11-17",
@@ -200,6 +200,16 @@
           "date": "2026-11-17",
           "file": "20261117-정부-글로벌-빅테크와-수능-ai-부정.md",
           "title": "정부, 글로벌 빅테크와 수능 AI 부정행위 사후조사 추진…입시제한도 10년으로 확대"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-국회-ai-커닝-특별법-착수-부정행위.md",
+          "title": "국회, AI 커닝 특별법 착수...\"부정행위 꿈도 꾸지 말라\""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-grok-bot-took-unappr.md",
+          "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it"
         }
       ]
     }
