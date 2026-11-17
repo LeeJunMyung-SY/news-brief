@@ -1,12 +1,12 @@
 {
   "date": "2026-11-17",
-  "updated_at": "2026-11-17T08:20:15.790495+09:00",
-  "run_id": "run_20261117_082015",
-  "summary_ko": "미국이 AI 패권을 통제·국가대표 체제로 재편하고 에이전트 책임이 법정에 오른 하루.",
+  "updated_at": "2026-11-17T12:13:09.641579+09:00",
+  "run_id": "run_20261117_121309",
+  "summary_ko": "美 통제·공급망 재편 속 AI 리스크가 은행 건전성 의제로 번진 하루.",
   "issues": [
     {
-      "title": "美 AI 통제, 클라우드까지 확장",
-      "summary_ko": "컴퓨트 통제가 칩 판매에서 원격 이용과 국가 패키지 수출로 넓어졌다.",
+      "title": "美 AI 통제와 공급망 다변화",
+      "summary_ko": "컴퓨트 통제 확대와 함께 탈엔비디아 조달이 실행 단계로 들어섰다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -24,14 +24,90 @@
           "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
+          "date": "2026-11-17",
+          "file": "20261117-ai-고속도로-엔비디아-의존도-낮춘다.md",
+          "title": "[AI 고속도로] \"엔비디아 의존도 낮춘다\"…오픈AI, AMD 기반 AI 인프라 457MW 확보"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261117101806",
           "title": ""
         }
       ]
     },
     {
-      "title": "에이전트 사고, 법적 책임 단계로",
-      "summary_ko": "에이전트 일탈과 자동 공격이 소송·외부 검증 의무로 이어지고 있다.",
+      "title": "AI 투자 리스크, 은행 건전성으로",
+      "summary_ko": "순환금융 우려가 은행 익스포저와 인프라 금융 선별로 번지고 있다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_industry",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-17",
+          "file": "20261117-standing-on-one-leg-.md",
+          "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-미-연준-대형은행-ai-위험노출액-1.md",
+          "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai-고속도로-엔비디아-ai-인프라-.md",
+          "title": "[AI 고속도로] 엔비디아 AI 인프라 금융 이어지지만…월가, 네오클라우드에는 신중"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-세미어낼러시스-ai-가속기-수요증가-.md",
+          "title": "세미어낼러시스 “AI 가속기 수요증가 둔화”[월가월부]"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI, 상품화와 접점 경쟁",
+      "summary_ko": "AI 금융상품이 성과를 내는 사이 빅테크 비서가 고객 접점을 노린다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-17",
+          "file": "20261117-anne-boden-unveils-a.md",
+          "title": "Anne Boden unveils AI-focused banking venture"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-fbi-says-artex-ai-op.md",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-카카오뱅크-ai-목표적금-출시-한-달.md",
+          "title": "카카오뱅크 \"AI 목표적금, 출시 한 달 만에 누적 10만좌\""
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai가-차량-금융상품-추천-우리금융캐.md",
+          "title": "AI가 차량·금융상품 추천…우리금융캐피탈 서비스 12월 출시"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-google-lets-users-co.md",
+          "title": "Google lets users connect their Wallet to Gemini for personal finance insights"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-업스테이지-캐나다-코히어와-ai-주권.md",
+          "title": "업스테이지, 캐나다 코히어와 'AI 주권' 동맹"
+        }
+      ]
+    },
+    {
+      "title": "AI 일탈, 책임·통제 단계로",
+      "summary_ko": "에이전트 사고와 AI 악용이 소송·안전조직·물리 통제로 이어진다.",
       "topics": [
         "ai_agents",
         "ai_policy"
@@ -43,68 +119,18 @@
           "title": "California sues OpenAI over rogue AI hacking incidents"
         },
         {
-          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-          "title": ""
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-google-warns-that-fu.md",
           "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast"
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-안광섭-ai-진테제-에이전트가-예약하.md",
-          "title": "[안광섭 AI 진테제] 에이전트가 예약하고 결제...기록은 남는다"
-        }
-      ]
-    },
-    {
-      "title": "금융권, AI 위협과 에이전트화",
-      "summary_ko": "AI 해킹이 국내 금융권을 겨누는 동시에 에이전트 은행이 등장했다.",
-      "topics": [
-        "금융회사 AI",
-        "ai_agents"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-17",
-          "file": "20261117-fbi-says-artex-ai-op.md",
-          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
+          "file": "20261117-스캐터랩-제타-안전장치-손본다-대표가.md",
+          "title": "스캐터랩, '제타' 안전장치 손본다…대표가 진두지휘"
         },
         {
-          "date": "2026-11-17",
-          "file": "20261117-anne-boden-unveils-a.md",
-          "title": "Anne Boden unveils AI-focused banking venture"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-ai-커닝-논란속-6월-거래소-채용시.md",
-          "title": "'AI 커닝' 논란속 6월 거래소 채용시험서 스마트안경 착용 적발(종합)"
-        }
-      ]
-    },
-    {
-      "title": "AI 투자 신뢰, 부채 리스크 부각",
-      "summary_ko": "순환금융 부채 경고와 매도세 속에 인프라 자본은 오히려 몰리고 있다.",
-      "topics": [
-        "ai_industry",
-        "ai_compute_energy",
-        "금융회사 AI"
-      ],
-      "articles": [
-        {
-          "date": "2026-11-17",
-          "file": "20261117-standing-on-one-leg-.md",
-          "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
-        },
-        {
-          "url": "https://www.hankyung.com/article/2026111706616",
+          "url": "https://zdnet.co.kr/view/?no=20261117104609",
           "title": ""
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-ai인프라-글로벌-큰손-블랙스톤-데이.md",
-          "title": "AI인프라 글로벌 큰손 블랙스톤 \"韓 데이터센터 시장 진출하겠다\""
         }
       ]
     }

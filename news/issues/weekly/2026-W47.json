@@ -1,12 +1,12 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-17T08:20:15.790495+09:00",
-  "run_id": "run_20261117_082015",
-  "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·수익성 검증 국면으로 옮겨간 주.",
+  "updated_at": "2026-11-17T12:13:09.641579+09:00",
+  "run_id": "run_20261117_121309",
+  "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·금융 리스크 검증 국면으로 옮겨간 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "창업자 리스크가 원격 컴퓨트 통제와 국가대표 육성으로 번졌다.",
+      "body_ko": "창업자 리스크가 원격 컴퓨트 통제와 공급망 다변화로 번졌다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -39,14 +39,19 @@
           "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
+          "date": "2026-11-17",
+          "file": "20261117-ai-고속도로-엔비디아-의존도-낮춘다.md",
+          "title": "[AI 고속도로] \"엔비디아 의존도 낮춘다\"…오픈AI, AMD 기반 AI 인프라 457MW 확보"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261117101806",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 투자 사이클의 시험대",
-      "body_ko": "부채형 순환금융 경고 속 수익 증명이 투자 신뢰를 가른다.",
+      "title": "AI 투자 사이클의 금융 리스크화",
+      "body_ko": "순환금융 경고가 은행 익스포저 집계로 이어지며 수익 증명이 관건이 됐다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -58,24 +63,30 @@
           "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-젠슨-황-파장-지속-ai-빅위크-경계.md",
-          "title": "'젠슨 황' 파장 지속, 'AI 빅위크' 경계감…증시 다시 출렁"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-standing-on-one-leg-.md",
           "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
         },
         {
-          "url": "https://www.hankyung.com/article/2026111706616",
-          "title": ""
+          "date": "2026-11-17",
+          "file": "20261117-미-연준-대형은행-ai-위험노출액-1.md",
+          "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai-고속도로-엔비디아-ai-인프라-.md",
+          "title": "[AI 고속도로] 엔비디아 AI 인프라 금융 이어지지만…월가, 네오클라우드에는 신중"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-한은-한국-근로자-ai-비용-연-2조.md",
+          "title": "한은 \"한국 근로자 AI 비용 연 2조8000억 쓰고도 생산성은 정체\""
         }
       ]
     },
     {
       "title": "전력·자본의 인프라 쏠림",
-      "body_ko": "자본이 전력·냉각·메모리로 몰리며 인프라 밸류체인이 재편된다.",
+      "body_ko": "자본이 전력·냉각·메모리로 몰리지만 금융은 선별적으로 바뀌고 있다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -92,11 +103,6 @@
           "title": "AI 데이터센터 가동 속도 경쟁…LS일렉트릭, 납기 앞세워 추가 수주"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-단독-ai-서버-통째로-액체에-gst.md",
-          "title": "[단독] AI 서버 통째로 액체에…GST, 액침냉각 앞세워 글로벌 빅테크 공략"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-ai인프라-글로벌-큰손-블랙스톤-데이.md",
           "title": "AI인프라 글로벌 큰손 블랙스톤 \"韓 데이터센터 시장 진출하겠다\""
@@ -105,12 +111,17 @@
           "date": "2026-11-17",
           "file": "20261117-삼성-sk하이닉스-역대-최대-시설투자.md",
           "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-세미어낼러시스-ai-가속기-수요증가-.md",
+          "title": "세미어낼러시스 “AI 가속기 수요증가 둔화”[월가월부]"
         }
       ]
     },
     {
-      "title": "금융권 AX와 AI 보안 위협",
-      "body_ko": "금융권이 현업 AX를 넓히는 동시에 AI 공격의 표적이 되고 있다.",
+      "title": "금융권 AX 확산과 접점 경쟁",
+      "body_ko": "현업 AX와 AI 상품이 성과를 내는 동시에 보안 위협과 빅테크 침투가 커졌다.",
       "topics": [
         "금융회사 AI",
         "ai_agents"
@@ -127,11 +138,6 @@
           "title": "웹케시, 하나은행 '통합CMS AI 분석 시범사업' 수행"
         },
         {
-          "date": "2026-11-16",
-          "file": "20261116-노타-두베에-금융권-특화-ai-코딩-.md",
-          "title": "노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-fbi-says-artex-ai-op.md",
           "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
@@ -140,16 +146,30 @@
           "date": "2026-11-17",
           "file": "20261117-anne-boden-unveils-a.md",
           "title": "Anne Boden unveils AI-focused banking venture"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-카카오뱅크-ai-목표적금-출시-한-달.md",
+          "title": "카카오뱅크 \"AI 목표적금, 출시 한 달 만에 누적 10만좌\""
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-ai가-차량-금융상품-추천-우리금융캐.md",
+          "title": "AI가 차량·금융상품 추천…우리금융캐피탈 서비스 12월 출시"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-google-lets-users-co.md",
+          "title": "Google lets users connect their Wallet to Gemini for personal finance insights"
         }
       ]
     },
     {
       "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 부정과 에이전트 일탈이 실제 제재와 소송으로 이어지고 있다.",
+      "body_ko": "AI 부정과 에이전트 일탈이 소송·범정부 통제·안전조직 신설로 이어졌다.",
       "topics": [
         "ai_policy",
-        "ai_agents",
-        "금융회사 AI"
+        "ai_agents"
       ],
       "articles": [
         {
@@ -171,6 +191,15 @@
           "date": "2026-11-17",
           "file": "20261117-ai-커닝-논란속-6월-거래소-채용시.md",
           "title": "'AI 커닝' 논란속 6월 거래소 채용시험서 스마트안경 착용 적발(종합)"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261117104609",
+          "title": ""
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-스캐터랩-제타-안전장치-손본다-대표가.md",
+          "title": "스캐터랩, '제타' 안전장치 손본다…대표가 진두지휘"
         }
       ]
     }
