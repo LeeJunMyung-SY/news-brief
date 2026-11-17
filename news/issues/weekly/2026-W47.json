@@ -1,12 +1,12 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-17T12:13:09.641579+09:00",
-  "run_id": "run_20261117_121309",
+  "updated_at": "2026-11-17T16:14:29.911358+09:00",
+  "run_id": "run_20261117_161429",
   "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·금융 리스크 검증 국면으로 옮겨간 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "창업자 리스크가 원격 컴퓨트 통제와 공급망 다변화로 번졌다.",
+      "body_ko": "창업자 리스크가 중국 연계 의혹과 원격 컴퓨트 통제로 번졌다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -35,23 +35,19 @@
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-미국-엔비디아-오픈ai-등-ai-기업.md",
-          "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진"
-        },
-        {
-          "date": "2026-11-17",
           "file": "20261117-ai-고속도로-엔비디아-의존도-낮춘다.md",
           "title": "[AI 고속도로] \"엔비디아 의존도 낮춘다\"…오픈AI, AMD 기반 AI 인프라 457MW 확보"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261117101806",
-          "title": ""
+          "date": "2026-11-17",
+          "file": "20261117-wsj-앨리스-황-남편-중국-정부-지.md",
+          "title": "WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 규모 데이터센터 사업 추진\""
         }
       ]
     },
     {
       "title": "AI 투자 사이클의 금융 리스크화",
-      "body_ko": "순환금융 경고가 은행 익스포저 집계로 이어지며 수익 증명이 관건이 됐다.",
+      "body_ko": "은행 익스포저 집계와 성장 편중 경고로 수익 증명이 관건이 됐다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -74,19 +70,22 @@
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-ai-고속도로-엔비디아-ai-인프라-.md",
-          "title": "[AI 고속도로] 엔비디아 AI 인프라 금융 이어지지만…월가, 네오클라우드에는 신중"
-        },
-        {
-          "date": "2026-11-17",
           "file": "20261117-한은-한국-근로자-ai-비용-연-2조.md",
           "title": "한은 \"한국 근로자 AI 비용 연 2조8000억 쓰고도 생산성은 정체\""
+        },
+        {
+          "url": "https://www.etnews.com/20261117000366",
+          "title": ""
+        },
+        {
+          "url": "https://www.fnnews.com/news/202611171323574218",
+          "title": ""
         }
       ]
     },
     {
       "title": "전력·자본의 인프라 쏠림",
-      "body_ko": "자본이 전력·냉각·메모리로 몰리지만 금융은 선별적으로 바뀌고 있다.",
+      "body_ko": "자본이 AI 데이터센터로 몰리지만 금융은 선별적으로 바뀌고 있다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -116,15 +115,20 @@
           "date": "2026-11-17",
           "file": "20261117-세미어낼러시스-ai-가속기-수요증가-.md",
           "title": "세미어낼러시스 “AI 가속기 수요증가 둔화”[월가월부]"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217486",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AX 확산과 접점 경쟁",
-      "body_ko": "현업 AX와 AI 상품이 성과를 내는 동시에 보안 위협과 빅테크 침투가 커졌다.",
+      "title": "AX 사업화와 에이전트 생태계",
+      "body_ko": "금융·IT서비스 AX가 실적으로 검증되고 SW는 에이전트에 문을 열었다.",
       "topics": [
         "금융회사 AI",
-        "ai_agents"
+        "ai_agents",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -139,34 +143,29 @@
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-fbi-says-artex-ai-op.md",
-          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-anne-boden-unveils-a.md",
-          "title": "Anne Boden unveils AI-focused banking venture"
-        },
-        {
-          "date": "2026-11-17",
           "file": "20261117-카카오뱅크-ai-목표적금-출시-한-달.md",
           "title": "카카오뱅크 \"AI 목표적금, 출시 한 달 만에 누적 10만좌\""
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-ai가-차량-금융상품-추천-우리금융캐.md",
-          "title": "AI가 차량·금융상품 추천…우리금융캐피탈 서비스 12월 출시"
+          "file": "20261117-google-lets-users-co.md",
+          "title": "Google lets users connect their Wallet to Gemini for personal finance insights"
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-google-lets-users-co.md",
-          "title": "Google lets users connect their Wallet to Gemini for personal finance insights"
+          "file": "20261117-sk-ax-안팎-ai-드라이브-외형-.md",
+          "title": "SK AX, 안팎 AI 드라이브…외형·내실 두마리 토끼 잡았다"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-어도비-외부-ai-에이전트에-포토샵-.md",
+          "title": "어도비, 외부 AI 에이전트에 포토샵·프리미어 문 연다"
         }
       ]
     },
     {
       "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 부정과 에이전트 일탈이 소송·범정부 통제·안전조직 신설로 이어졌다.",
+      "body_ko": "AI 일탈 대응이 소송·외부 검증·로그 기반 사후조사로 제도화됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
@@ -189,17 +188,18 @@
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-ai-커닝-논란속-6월-거래소-채용시.md",
-          "title": "'AI 커닝' 논란속 6월 거래소 채용시험서 스마트안경 착용 적발(종합)"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261117104609",
-          "title": ""
+          "file": "20261117-스캐터랩-제타-안전장치-손본다-대표가.md",
+          "title": "스캐터랩, '제타' 안전장치 손본다…대표가 진두지휘"
         },
         {
           "date": "2026-11-17",
-          "file": "20261117-스캐터랩-제타-안전장치-손본다-대표가.md",
-          "title": "스캐터랩, '제타' 안전장치 손본다…대표가 진두지휘"
+          "file": "20261117-오픈ai-외부-전문가에-내부-모델-학.md",
+          "title": "오픈AI, 외부 전문가에 내부 모델·학습 데이터 개방...AI 안전성 독립 검증"
+        },
+        {
+          "date": "2026-11-17",
+          "file": "20261117-정부-글로벌-빅테크와-수능-ai-부정.md",
+          "title": "정부, 글로벌 빅테크와 수능 AI 부정행위 사후조사 추진…입시제한도 10년으로 확대"
         }
       ]
     }
