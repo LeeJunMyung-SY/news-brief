@@ -1,23 +1,18 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-18T08:15:39.831241+09:00",
-  "run_id": "run_20261118_081539",
+  "updated_at": "2026-11-18T12:13:11.279291+09:00",
+  "run_id": "run_20261118_121311",
   "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·수익 증명 국면으로 옮겨간 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "창업자 리스크가 수출통제 집행과 규제 조사로 번졌지만 실적은 수요를 재확인했다.",
+      "body_ko": "창업자 공백이 중국 철수와 수출통제 집행으로 이어져 통제가 기업 전략이 됐다.",
       "topics": [
         "ai_policy",
         "ai_industry",
         "ai_compute_energy"
       ],
       "articles": [
-        {
-          "date": "2026-11-16",
-          "file": "20261116-젠슨-황-엔비디아-ceo-복귀-논의-.md",
-          "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진"
-        },
         {
           "date": "2026-11-16",
           "file": "20261116-congress-wants-to-ti.md",
@@ -27,11 +22,6 @@
           "date": "2026-11-17",
           "file": "20261117-미국-중국의-해외-gpu-우회-이용-.md",
           "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-wsj-앨리스-황-남편-중국-정부-지.md",
-          "title": "WSJ \"앨리스 황 남편, 중국 정부 지원받아 13조 규모 데이터센터 사업 추진\""
         },
         {
           "date": "2026-11-18",
@@ -44,14 +34,20 @@
           "title": "Nvidia’s first big move after Jensen Huang’s exit targets national security"
         },
         {
-          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-          "title": ""
+          "date": "2026-11-18",
+          "file": "20261118-nvidia-is-abandoning.md",
+          "title": "Nvidia is abandoning China after Jensen Huang’s ouster"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-엔비디아-이사회-젠슨-황-ceo-복귀.md",
+          "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화"
         }
       ]
     },
     {
       "title": "AI 투자 사이클의 금융 리스크화",
-      "body_ko": "은행 익스포저 집계와 증시 급락, 연준 점검이 겹치며 수익 증명이 관건이 됐다.",
+      "body_ko": "연준·ECB 경고와 순환 투자 균열이 겹치며 AI 투자의 수익 증명이 관건이 됐다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -73,27 +69,19 @@
           "title": "미 연준 \"대형은행 AI 위험노출액 1조달러\"…손실확산 경고"
         },
         {
-          "date": "2026-11-17",
-          "file": "20261117-한은-한국-근로자-ai-비용-연-2조.md",
-          "title": "한은 \"한국 근로자 AI 비용 연 2조8000억 쓰고도 생산성은 정체\""
+          "date": "2026-11-18",
+          "file": "20261118-ecb-ai-과열-경고-거품-꺼지면-.md",
+          "title": "ECB, AI 과열 경고…\"거품 꺼지면 금융시장 연쇄 충격\""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217490",
-          "title": ""
-        },
-        {
-          "url": "https://www.mk.co.kr/news/stock/12211880",
-          "title": ""
-        },
-        {
-          "url": "https://www.etnews.com/20261118000003",
+          "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
           "title": ""
         }
       ]
     },
     {
       "title": "전력·자본의 인프라 쏠림",
-      "body_ko": "자본이 AI 데이터센터로 몰리며 인프라가 독립 사업으로 분리·재편되고 있다.",
+      "body_ko": "자본이 AI 인프라로 몰리며 부품·설비까지 수직 결속되고 인허가 변수도 커졌다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry"
@@ -103,11 +91,6 @@
           "date": "2026-11-16",
           "file": "20261116-skt-효성중공업과-기가급-aidc-.md",
           "title": "SKT, 효성중공업과 기가급 AIDC 전력 인프라 구축 협력"
-        },
-        {
-          "date": "2026-11-16",
-          "file": "20261116-ai-데이터센터-가동-속도-경쟁-ls.md",
-          "title": "AI 데이터센터 가동 속도 경쟁…LS일렉트릭, 납기 앞세워 추가 수주"
         },
         {
           "date": "2026-11-17",
@@ -123,12 +106,21 @@
           "date": "2026-11-18",
           "file": "20261118-aidc-사업-분할-앞둔-skb-정부.md",
           "title": "AIDC 사업 분할 앞둔 SKB…정부 인허가 심사 속 내부 반발 넘을까"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-삼성전기-증설에-또-지갑-여는-엔비디.md",
+          "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261118086700062",
+          "title": ""
         }
       ]
     },
     {
-      "title": "AX 사업화와 에이전트 업무 플랫폼",
-      "body_ko": "AX가 실적으로 검증되고 에이전트가 업무 OS·직무 상품으로 진화했다.",
+      "title": "AX 사업화와 에이전트 거래 확산",
+      "body_ko": "에이전트가 업무 OS를 넘어 결제·송금 등 거래 실행 주체로 확장됐다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -147,54 +139,44 @@
           "title": "카카오뱅크 \"AI 목표적금, 출시 한 달 만에 누적 10만좌\""
         },
         {
-          "date": "2026-11-17",
-          "file": "20261117-sk-ax-안팎-ai-드라이브-외형-.md",
-          "title": "SK AX, 안팎 AI 드라이브…외형·내실 두마리 토끼 잡았다"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-어도비-외부-ai-에이전트에-포토샵-.md",
-          "title": "어도비, 외부 AI 에이전트에 포토샵·프리미어 문 연다"
-        },
-        {
           "date": "2026-11-18",
           "file": "20261118-사티아-나델라-코파일럿은-업무를-위한.md",
           "title": "사티아 나델라 \"코파일럿은 업무를 위한 새로운 운영체제\"…워드·엑셀까지 통합"
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-오픈ai-세계-2위-성능-gpt-6-.md",
-          "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하"
+          "file": "20261118-model-ml-raises-250m.md",
+          "title": "Model ML raises $250M to automate investment banking grunt work"
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-model-ml-raises-250m.md",
-          "title": "Model ML raises $250M to automate investment banking grunt work"
+          "file": "20261118-현대카드-jp모간과-ai-에이전트-실.md",
+          "title": "현대카드, JP모간과 'AI 에이전트' 실증…환전·송금 지형 바꿀까"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-bc카드-스타트업-피클과-ai-에이전.md",
+          "title": "BC카드, 스타트업 피클과 AI 에이전트 서비스 개발 '맞손'"
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-한국은-무료-구글-예약-구매-맡는-a.md",
+          "title": "\"한국은 무료\"...구글, 예약·구매 맡는 AI 비서 확대"
         }
       ]
     },
     {
       "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 일탈 대응이 소송·특별법·로그 기반 사후조사로 제도화됐다.",
+      "body_ko": "AI 일탈 대응이 특별법·사업자 의무·에이전트 격리 기능으로 제도화됐다.",
       "topics": [
         "ai_policy",
         "ai_agents"
       ],
       "articles": [
         {
-          "date": "2026-11-16",
-          "file": "20261116-수능-코앞인데-ai-부정행위-파문-청.md",
-          "title": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사"
-        },
-        {
           "date": "2026-11-17",
           "file": "20261117-california-sues-open.md",
           "title": "California sues OpenAI over rogue AI hacking incidents"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-오픈ai-외부-전문가에-내부-모델-학.md",
-          "title": "오픈AI, 외부 전문가에 내부 모델·학습 데이터 개방...AI 안전성 독립 검증"
         },
         {
           "date": "2026-11-17",
@@ -210,6 +192,15 @@
           "date": "2026-11-18",
           "file": "20261118-grok-bot-took-unappr.md",
           "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261118100027",
+          "title": ""
+        },
+        {
+          "date": "2026-11-18",
+          "file": "20261118-ms-실시간-위험-분석-격리-기능-공.md",
+          "title": "MS, 실시간 위험 분석·격리 기능 공개…\"폭주하는 AI 에이전트 막는다\""
         }
       ]
     }
