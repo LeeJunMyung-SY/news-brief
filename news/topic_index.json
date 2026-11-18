@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-18T03:13:21+00:00",
+  "generated_at": "2026-11-18T07:16:02+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1294,
+      "count": 1295,
       "latest_date": "2026-11-18"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1699,
+      "count": 1702,
       "latest_date": "2026-11-18"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1718,
+      "count": 1721,
       "latest_date": "2026-11-18"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 3989,
+      "count": 3997,
       "latest_date": "2026-11-18"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 589,
-      "latest_date": "2026-11-17"
+      "count": 590,
+      "latest_date": "2026-11-18"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1323,
+      "count": 1326,
       "latest_date": "2026-11-18"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1097,
+      "count": 1100,
       "latest_date": "2026-11-18"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 659,
+      "count": 660,
       "latest_date": "2026-11-18"
     },
     {
@@ -212,6 +212,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-ms-코파일럿-에-상시-업무-수행-a.md",
+        "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-governance",
+          "#copilot",
+          "#ai-adoption",
+          "#autonomous-agent"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217532"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-사티아-나델라-코파일럿은-업무를-위한.md",
         "title": "사티아 나델라 '코파일럿은 업무를 위한 새로운 운영체제'…워드·엑셀까지 통합",
         "importance": 7,
@@ -238,6 +253,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261118095958"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-atlas-finance-benchm.md",
+        "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#investment-banking",
+          "#agent-evaluation",
+          "#research-paper",
+          "#finance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.22085"
       },
       {
         "date": "2026-11-18",
@@ -295,6 +325,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261118104428"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-삼성-스마트싱스도-챗gpt-연동-ai.md",
+        "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산",
+        "importance": 6,
+        "tags": [
+          "#smart-home",
+          "#chatgpt",
+          "#partnership",
+          "#platform-strategy",
+          "#samsung"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261118000237"
       },
       {
         "date": "2026-11-17",
@@ -24774,6 +24819,21 @@
     "llm_models": [
       {
         "date": "2026-11-18",
+        "file": "20261118-앤트로픽-ipo-공모가-80달러-이상.md",
+        "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려",
+        "importance": 8,
+        "tags": [
+          "#ipo",
+          "#investment",
+          "#anthropic",
+          "#valuation",
+          "#capital-markets"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217526"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-오픈ai-세계-2위-성능-gpt-6-.md",
         "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
         "importance": 8,
@@ -43487,6 +43547,36 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
+        "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인",
+        "importance": 7,
+        "tags": [
+          "#nvidia",
+          "#regulation",
+          "#sec",
+          "#governance",
+          "#disclosure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217522"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-오픈ai-nato에-사이버-보안-ai.md",
+        "title": "오픈AI, NATO에 사이버 보안 AI 공급…유럽 정부·기관으로 사업 확대",
+        "importance": 7,
+        "tags": [
+          "#public-sector-ai",
+          "#cybersecurity",
+          "#partnership",
+          "#monetization",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217529"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-주변부-시스템까지-전수-보안점검-대형.md",
         "title": "주변부 시스템까지 전수 보안점검…대형사 평가 연 1회→2회",
         "importance": 7,
@@ -43498,6 +43588,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261117167100002"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
+        "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#us-china",
+          "#cloud-compute",
+          "#geopolitics",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217521"
       },
       {
         "date": "2026-11-18",
@@ -68283,6 +68388,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-앤트로픽-ipo-공모가-80달러-이상.md",
+        "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려",
+        "importance": 8,
+        "tags": [
+          "#ipo",
+          "#investment",
+          "#anthropic",
+          "#valuation",
+          "#capital-markets"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217526"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-오픈ai-세계-2위-성능-gpt-6-.md",
         "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
         "importance": 8,
@@ -68398,6 +68518,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-ms-코파일럿-에-상시-업무-수행-a.md",
+        "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화",
+        "importance": 7,
+        "tags": [
+          "#enterprise-ai",
+          "#agent-governance",
+          "#copilot",
+          "#ai-adoption",
+          "#autonomous-agent"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217532"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-nvidia-is-abandoning.md",
         "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
         "importance": 7,
@@ -68424,6 +68559,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
+        "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인",
+        "importance": 7,
+        "tags": [
+          "#nvidia",
+          "#regulation",
+          "#sec",
+          "#governance",
+          "#disclosure"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217522"
       },
       {
         "date": "2026-11-18",
@@ -68469,6 +68619,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-오픈ai-nato에-사이버-보안-ai.md",
+        "title": "오픈AI, NATO에 사이버 보안 AI 공급…유럽 정부·기관으로 사업 확대",
+        "importance": 7,
+        "tags": [
+          "#public-sector-ai",
+          "#cybersecurity",
+          "#partnership",
+          "#monetization",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217529"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-젠슨황-없는-엔비디아-3분기-매출-1.md",
         "title": "젠슨황 없는 엔비디아, 3분기 매출 1158억달러 '역대 최대'",
         "importance": 7,
@@ -68480,6 +68645,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261118000001"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
+        "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#us-china",
+          "#cloud-compute",
+          "#geopolitics",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217521"
       },
       {
         "date": "2026-11-18",
@@ -68540,6 +68720,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-hbm4-가격-내년-2배-껑충-삼성-.md",
+        "title": "HBM4 가격, 내년 2배 껑충…삼성·SK AI 메모리 사업 '청신호'",
+        "importance": 6,
+        "tags": [
+          "#hbm",
+          "#memory",
+          "#ai-infrastructure",
+          "#pricing",
+          "#semiconductor"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261118120439"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-nhn-kcp-ai-에이전트-결제부터.md",
         "title": "NHN KCP, AI 에이전트 결제부터 블록체인 정산 구현",
         "importance": 6,
@@ -68583,6 +68778,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-삼성-스마트싱스도-챗gpt-연동-ai.md",
+        "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산",
+        "importance": 6,
+        "tags": [
+          "#smart-home",
+          "#chatgpt",
+          "#partnership",
+          "#platform-strategy",
+          "#samsung"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261118000237"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-삼성전기-증설에-또-지갑-여는-엔비디.md",
         "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'",
         "importance": 6,
@@ -68595,6 +68805,21 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=678976"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-현대모비스-액추에이터-개발-손끝에-달.md",
+        "title": "[현대모비스 액추에이터 개발]② '손끝에 달린 수익성' 정의선의 美 IPO 셈법",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#actuator",
+          "#supply-chain",
+          "#hyundai",
+          "#manufacturing"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678903"
       },
       {
         "date": "2026-11-17",
@@ -126030,6 +126255,21 @@
     ],
     "physical_ai_robotics": [
       {
+        "date": "2026-11-18",
+        "file": "20261118-현대모비스-액추에이터-개발-손끝에-달.md",
+        "title": "[현대모비스 액추에이터 개발]② '손끝에 달린 수익성' 정의선의 美 IPO 셈법",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#actuator",
+          "#supply-chain",
+          "#hyundai",
+          "#manufacturing"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678903"
+      },
+      {
         "date": "2026-11-17",
         "file": "20261117-현대모비스-액츄에이터-개발-테슬라도-.md",
         "title": "[현대모비스 액츄에이터 개발]① 테슬라도 고전하는 '로봇 손' 내구성 장벽 넘을까",
@@ -134597,6 +134837,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
+        "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#us-china",
+          "#cloud-compute",
+          "#geopolitics",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217521"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-aidc-사업-분할-앞둔-skb-정부.md",
         "title": "AIDC 사업 분할 앞둔 SKB…정부 인허가 심사 속 내부 반발 넘을까",
         "importance": 6,
@@ -134608,6 +134863,35 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=678816"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-hbm4-가격-내년-2배-껑충-삼성-.md",
+        "title": "HBM4 가격, 내년 2배 껑충…삼성·SK AI 메모리 사업 '청신호'",
+        "importance": 6,
+        "tags": [
+          "#hbm",
+          "#memory",
+          "#ai-infrastructure",
+          "#pricing",
+          "#semiconductor"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261118120439"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-무안-오룡지구-주민들-데이터센터-건립.md",
+        "title": "무안 오룡지구 주민들, 데이터센터 건립 강력 반대",
+        "importance": 6,
+        "tags": [
+          "#data-center",
+          "#local-opposition",
+          "#siting-risk",
+          "#aidc"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261118121100054"
       },
       {
         "date": "2026-11-18",
@@ -153695,6 +153979,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-atlas-finance-benchm.md",
+        "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#investment-banking",
+          "#agent-evaluation",
+          "#research-paper",
+          "#finance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.22085"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-cnbc-digital-finance.md",
         "title": "CNBC Digital Finance Forum recap: Wall Street's AI and crypto future",
         "importance": 6,
@@ -153752,6 +154051,21 @@
       },
       {
         "date": "2026-11-18",
+        "file": "20261118-pfct-카카오뱅크-금융-특화-ai-.md",
+        "title": "PFCT·카카오뱅크, 금융 특화 AI 기술로 국제학회서 논문 채택",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#credit-scoring",
+          "#research-paper",
+          "#kakaobank"
+        ],
+        "source": "매일경제 경제",
+        "url": "https://www.mk.co.kr/news/economy/12212409"
+      },
+      {
+        "date": "2026-11-18",
         "file": "20261118-게시판-우리금융-계열사-ai-성과-공.md",
         "title": "[게시판] 우리금융, 계열사 AI 성과 공유…'AI Day' 개최",
         "importance": 6,
@@ -153778,6 +154092,21 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261118028000030"
+      },
+      {
+        "date": "2026-11-18",
+        "file": "20261118-핀다-확장-청구서-중저신용-노하우-부.md",
+        "title": "[핀다 확장 청구서]② 중저신용 노하우 부재…AI뱅크 헛구호 그치나",
+        "importance": 6,
+        "tags": [
+          "#fintech",
+          "#credit-scoring",
+          "#savings-bank",
+          "#acquisition",
+          "#finance"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678993"
       },
       {
         "date": "2026-11-17",
@@ -169745,6 +170074,21 @@
         "url": "https://www.bloter.net/news/articleView.html?idxno=678899"
       },
       {
+        "date": "2026-11-18",
+        "file": "20261118-현대모비스-액추에이터-개발-손끝에-달.md",
+        "title": "[현대모비스 액추에이터 개발]② '손끝에 달린 수익성' 정의선의 美 IPO 셈법",
+        "importance": 6,
+        "tags": [
+          "#humanoid",
+          "#actuator",
+          "#supply-chain",
+          "#hyundai",
+          "#manufacturing"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678903"
+      },
+      {
         "date": "2026-11-17",
         "file": "20261117-현대모비스-액츄에이터-개발-테슬라도-.md",
         "title": "[현대모비스 액츄에이터 개발]① 테슬라도 고전하는 '로봇 손' 내구성 장벽 넘을까",
@@ -180597,7 +180941,7 @@
       {
         "date": "2026-11-18",
         "title": "금융 AI, 에이전트 거래로 진입",
-        "summary": "결제·송금을 에이전트가 직접 수행하는 금융 인프라 경쟁이 시작됐다.",
+        "summary": "결제·송금을 에이전트가 직접 수행하며 금융사 AI가 실행·내재화 단계로 갔다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -180633,6 +180977,21 @@
             "date": "2026-11-18",
             "file": "20261118-소진공-신한카드-kcb와-소상공인-a.md",
             "title": "소진공, 신한카드·KCB와 '소상공인 AI 경영지원 확대' 협약"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-pfct-카카오뱅크-금융-특화-ai-.md",
+            "title": "PFCT·카카오뱅크, 금융 특화 AI 기술로 국제학회서 논문 채택"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-핀다-확장-청구서-중저신용-노하우-부.md",
+            "title": "[핀다 확장 청구서]② 중저신용 노하우 부재…AI뱅크 헛구호 그치나"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-atlas-finance-benchm.md",
+            "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments"
           }
         ]
       },
@@ -186207,7 +186566,7 @@
       {
         "date": "2026-11-18",
         "title": "금융 AI, 에이전트 거래로 진입",
-        "summary": "결제·송금을 에이전트가 직접 수행하는 금융 인프라 경쟁이 시작됐다.",
+        "summary": "결제·송금을 에이전트가 직접 수행하며 금융사 AI가 실행·내재화 단계로 갔다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -186243,13 +186602,28 @@
             "date": "2026-11-18",
             "file": "20261118-소진공-신한카드-kcb와-소상공인-a.md",
             "title": "소진공, 신한카드·KCB와 '소상공인 AI 경영지원 확대' 협약"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-pfct-카카오뱅크-금융-특화-ai-.md",
+            "title": "PFCT·카카오뱅크, 금융 특화 AI 기술로 국제학회서 논문 채택"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-핀다-확장-청구서-중저신용-노하우-부.md",
+            "title": "[핀다 확장 청구서]② 중저신용 노하우 부재…AI뱅크 헛구호 그치나"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-atlas-finance-benchm.md",
+            "title": "ATLAS-Finance: Benchmarking AI Agents in Realistic Banking Environments"
           }
         ]
       },
       {
         "date": "2026-11-18",
-        "title": "모델 단가전과 업무 OS 경쟁",
-        "summary": "성능이 수렴하자 가격과 에이전트 플랫폼 장악이 승부처가 됐다.",
+        "title": "에이전트, 업무·생활 OS 장악전",
+        "summary": "단가 경쟁 위에서 상시 업무·가전 연동으로 고객 접점 장악전이 본격화됐다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -186275,13 +186649,23 @@
             "date": "2026-11-18",
             "file": "20261118-한국은-무료-구글-예약-구매-맡는-a.md",
             "title": "\"한국은 무료\"...구글, 예약·구매 맡는 AI 비서 확대"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-ms-코파일럿-에-상시-업무-수행-a.md",
+            "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-삼성-스마트싱스도-챗gpt-연동-ai.md",
+            "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산"
           }
         ]
       },
       {
         "date": "2026-11-18",
         "title": "AI 일탈 통제, 입법·플랫폼으로",
-        "summary": "AI 악용 제재는 법제화되고 에이전트 통제는 플랫폼 기능이 됐다.",
+        "summary": "현행법 공백이 드러나며 AI 악용 제재는 특별법, 에이전트 통제는 플랫폼 기능이 됐다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -186299,11 +186683,11 @@
             "title": "MS, 실시간 위험 분석·격리 기능 공개…\"폭주하는 AI 에이전트 막는다\""
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261118100027",
+            "url": "https://www.yna.co.kr/view/AKR20261118115300530",
             "title": ""
           },
           {
-            "url": "https://www.etnews.com/20261118000194",
+            "url": "https://www.etnews.com/20261118000014",
             "title": ""
           }
         ]
@@ -192538,8 +192922,8 @@
     "ai_industry": [
       {
         "date": "2026-11-18",
-        "title": "엔비디아, 中 철수와 리더십 재편",
-        "summary": "창업자 공백이 중국 포기·투자 위축으로 번지며 과열 경고가 커졌다.",
+        "title": "엔비디아 흔들림, 자본은 모델로",
+        "summary": "공급사 리스크가 규제 조사로 번지는 사이 자본은 수익을 증명한 모델 기업으로 향했다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -192562,25 +192946,35 @@
             "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화"
           },
           {
-            "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-            "title": ""
-          },
-          {
-            "date": "2026-11-18",
-            "file": "20261118-삼성전기-증설에-또-지갑-여는-엔비디.md",
-            "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'"
-          },
-          {
             "date": "2026-11-18",
             "file": "20261118-ecb-ai-과열-경고-거품-꺼지면-.md",
             "title": "ECB, AI 과열 경고…\"거품 꺼지면 금융시장 연쇄 충격\""
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
+            "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
+            "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-앤트로픽-ipo-공모가-80달러-이상.md",
+            "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려"
+          },
+          {
+            "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-11-18",
-        "title": "모델 단가전과 업무 OS 경쟁",
-        "summary": "성능이 수렴하자 가격과 에이전트 플랫폼 장악이 승부처가 됐다.",
+        "title": "에이전트, 업무·생활 OS 장악전",
+        "summary": "단가 경쟁 위에서 상시 업무·가전 연동으로 고객 접점 장악전이 본격화됐다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -192606,6 +193000,16 @@
             "date": "2026-11-18",
             "file": "20261118-한국은-무료-구글-예약-구매-맡는-a.md",
             "title": "\"한국은 무료\"...구글, 예약·구매 맡는 AI 비서 확대"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-ms-코파일럿-에-상시-업무-수행-a.md",
+            "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-삼성-스마트싱스도-챗gpt-연동-ai.md",
+            "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산"
           }
         ]
       },
@@ -201742,8 +202146,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-18",
-        "title": "엔비디아, 中 철수와 리더십 재편",
-        "summary": "창업자 공백이 중국 포기·투자 위축으로 번지며 과열 경고가 커졌다.",
+        "title": "엔비디아 흔들림, 자본은 모델로",
+        "summary": "공급사 리스크가 규제 조사로 번지는 사이 자본은 수익을 증명한 모델 기업으로 향했다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -201766,18 +202170,28 @@
             "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화"
           },
           {
-            "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-            "title": ""
-          },
-          {
-            "date": "2026-11-18",
-            "file": "20261118-삼성전기-증설에-또-지갑-여는-엔비디.md",
-            "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'"
-          },
-          {
             "date": "2026-11-18",
             "file": "20261118-ecb-ai-과열-경고-거품-꺼지면-.md",
             "title": "ECB, AI 과열 경고…\"거품 꺼지면 금융시장 연쇄 충격\""
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
+            "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
+            "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-앤트로픽-ipo-공모가-80달러-이상.md",
+            "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려"
+          },
+          {
+            "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+            "title": ""
           }
         ]
       },
@@ -206673,8 +207087,8 @@
     "ai_policy": [
       {
         "date": "2026-11-18",
-        "title": "엔비디아, 中 철수와 리더십 재편",
-        "summary": "창업자 공백이 중국 포기·투자 위축으로 번지며 과열 경고가 커졌다.",
+        "title": "엔비디아 흔들림, 자본은 모델로",
+        "summary": "공급사 리스크가 규제 조사로 번지는 사이 자본은 수익을 증명한 모델 기업으로 향했다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -206697,25 +207111,35 @@
             "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화"
           },
           {
-            "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-            "title": ""
-          },
-          {
-            "date": "2026-11-18",
-            "file": "20261118-삼성전기-증설에-또-지갑-여는-엔비디.md",
-            "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'"
-          },
-          {
             "date": "2026-11-18",
             "file": "20261118-ecb-ai-과열-경고-거품-꺼지면-.md",
             "title": "ECB, AI 과열 경고…\"거품 꺼지면 금융시장 연쇄 충격\""
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
+            "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
+            "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-앤트로픽-ipo-공모가-80달러-이상.md",
+            "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려"
+          },
+          {
+            "url": "https://www.cnbc.com/2026/11/17/jensen-huang-may-be-gone-nvidia-shows-its-still-at-the-center-of-ai-.html",
+            "title": ""
           }
         ]
       },
       {
         "date": "2026-11-18",
         "title": "AI 일탈 통제, 입법·플랫폼으로",
-        "summary": "AI 악용 제재는 법제화되고 에이전트 통제는 플랫폼 기능이 됐다.",
+        "summary": "현행법 공백이 드러나며 AI 악용 제재는 특별법, 에이전트 통제는 플랫폼 기능이 됐다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -206733,11 +207157,11 @@
             "title": "MS, 실시간 위험 분석·격리 기능 공개…\"폭주하는 AI 에이전트 막는다\""
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261118100027",
+            "url": "https://www.yna.co.kr/view/AKR20261118115300530",
             "title": ""
           },
           {
-            "url": "https://www.etnews.com/20261118000194",
+            "url": "https://www.etnews.com/20261118000014",
             "title": ""
           }
         ]
@@ -213202,8 +213626,8 @@
     "llm_models": [
       {
         "date": "2026-11-18",
-        "title": "모델 단가전과 업무 OS 경쟁",
-        "summary": "성능이 수렴하자 가격과 에이전트 플랫폼 장악이 승부처가 됐다.",
+        "title": "에이전트, 업무·생활 OS 장악전",
+        "summary": "단가 경쟁 위에서 상시 업무·가전 연동으로 고객 접점 장악전이 본격화됐다.",
         "articles": [
           {
             "date": "2026-11-18",
@@ -213229,6 +213653,16 @@
             "date": "2026-11-18",
             "file": "20261118-한국은-무료-구글-예약-구매-맡는-a.md",
             "title": "\"한국은 무료\"...구글, 예약·구매 맡는 AI 비서 확대"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-ms-코파일럿-에-상시-업무-수행-a.md",
+            "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화"
+          },
+          {
+            "date": "2026-11-18",
+            "file": "20261118-삼성-스마트싱스도-챗gpt-연동-ai.md",
+            "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산"
           }
         ]
       },
