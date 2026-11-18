@@ -1,12 +1,12 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-18T16:15:48.121207+09:00",
-  "run_id": "run_20261118_161548",
+  "updated_at": "2026-11-19T08:21:22.569178+09:00",
+  "run_id": "run_20261119_082122",
   "summary_ko": "엔비디아 공백 속 AI 경쟁이 통제·책임·수익 증명 국면으로 옮겨간 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "창업자 공백이 SEC 조사·중국 철수·원격접근 통제로 번져 통제가 기업 전략이 됐다.",
+      "body_ko": "창업자 공백이 규제 조사로 번지고 칩 통제는 동남아 입지까지 확장됐다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -40,11 +40,6 @@
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-엔비디아-이사회-젠슨-황-ceo-복귀.md",
-          "title": "엔비디아 이사회, 젠슨 황 CEO 복귀 거부...후임자 물색 본격화"
-        },
-        {
-          "date": "2026-11-18",
           "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
           "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인"
         },
@@ -52,12 +47,22 @@
           "date": "2026-11-18",
           "file": "20261118-중국-미국-반도체-원격-접근-규제에-.md",
           "title": "중국, 미국 반도체 원격 접근 규제에 반발…“강행하면 보복 조치”"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-southeast-asia-s-dat.md",
+          "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-trump-s-latest-land-.md",
+          "title": "Trump’s latest land grab is an AI hub in the Philippines"
         }
       ]
     },
     {
       "title": "AI 투자 사이클의 선별 국면",
-      "body_ko": "과열 경고 속 자본이 수익을 증명한 모델 기업으로 쏠리며 선별 투자가 시작됐다.",
+      "body_ko": "과열 경고 속 자본은 역대 최대 IPO로 수익 증명 기업에 집중됐다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -84,9 +89,19 @@
           "title": "ECB, AI 과열 경고…\"거품 꺼지면 금융시장 연쇄 충격\""
         },
         {
-          "date": "2026-11-18",
-          "file": "20261118-앤트로픽-ipo-공모가-80달러-이상.md",
-          "title": "앤트로픽, IPO 공모가 80달러 이상으로 인상 검토…기관투자자 수요 몰려"
+          "date": "2026-11-19",
+          "file": "20261119-앤트로픽-ipo-공모가-83달러-94.md",
+          "title": "앤트로픽, IPO 공모가 83달러…940억달러 조달 '역대 최대'"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-nvidia-clarifies-whe.md",
+          "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-palo-alto-inks-4-5-b.md",
+          "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
         }
       ]
     },
@@ -120,11 +135,6 @@
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-삼성전기-증설에-또-지갑-여는-엔비디.md",
-          "title": "삼성전기 증설에 또 지갑 여는 엔비디아…MLCC도 '눈독'"
-        },
-        {
-          "date": "2026-11-18",
           "file": "20261118-hbm4-가격-내년-2배-껑충-삼성-.md",
           "title": "HBM4 가격, 내년 2배 껑충…삼성·SK AI 메모리 사업 '청신호'"
         },
@@ -132,17 +142,21 @@
           "date": "2026-11-18",
           "file": "20261118-무안-오룡지구-주민들-데이터센터-건립.md",
           "title": "무안 오룡지구 주민들, 데이터센터 건립 강력 반대"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-openai-says-its-mode.md",
+          "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
         }
       ]
     },
     {
-      "title": "AX 사업화와 에이전트 거래 확산",
-      "body_ko": "에이전트가 상시 업무 수행과 결제·송금까지 맡는 실행 주체로 확장됐다.",
+      "title": "에이전트 거래 확산과 책임 공백",
+      "body_ko": "에이전트가 결제·송금 주체가 됐지만 피해 책임은 아직 비어 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
-        "ai_industry",
-        "llm_models"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -157,53 +171,49 @@
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-사티아-나델라-코파일럿은-업무를-위한.md",
-          "title": "사티아 나델라 \"코파일럿은 업무를 위한 새로운 운영체제\"…워드·엑셀까지 통합"
-        },
-        {
-          "date": "2026-11-18",
-          "file": "20261118-model-ml-raises-250m.md",
-          "title": "Model ML raises $250M to automate investment banking grunt work"
-        },
-        {
-          "date": "2026-11-18",
           "file": "20261118-현대카드-jp모간과-ai-에이전트-실.md",
           "title": "현대카드, JP모간과 'AI 에이전트' 실증…환전·송금 지형 바꿀까"
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-bc카드-스타트업-피클과-ai-에이전.md",
-          "title": "BC카드, 스타트업 피클과 AI 에이전트 서비스 개발 '맞손'"
-        },
-        {
-          "date": "2026-11-18",
-          "file": "20261118-한국은-무료-구글-예약-구매-맡는-a.md",
-          "title": "\"한국은 무료\"...구글, 예약·구매 맡는 AI 비서 확대"
-        },
-        {
-          "date": "2026-11-18",
           "file": "20261118-ms-코파일럿-에-상시-업무-수행-a.md",
           "title": "MS, '코파일럿'에 상시 업무 수행 AI 도입…기업용 에이전트 관리도 강화"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-more-banks-say-custo.md",
+          "title": "More banks say customers using AI agents are on their own — even if they get hacked"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-visa-expands-agentic.md",
+          "title": "Visa expands Agentic Ready programme to acceptance ecosystem"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-klarna-launches-ai-a.md",
+          "title": "Klarna launches AI assistant"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
+          "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
         }
       ]
     },
     {
       "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 일탈 대응이 특별법·사업자 의무·에이전트 격리 기능으로 제도화됐다.",
+      "body_ko": "AI 일탈 대응이 입법·외부 검증과 모델 역량 통제로 제도화됐다.",
       "topics": [
         "ai_policy",
-        "ai_agents"
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
           "date": "2026-11-17",
           "file": "20261117-california-sues-open.md",
           "title": "California sues OpenAI over rogue AI hacking incidents"
-        },
-        {
-          "date": "2026-11-17",
-          "file": "20261117-정부-글로벌-빅테크와-수능-ai-부정.md",
-          "title": "정부, 글로벌 빅테크와 수능 AI 부정행위 사후조사 추진…입시제한도 10년으로 확대"
         },
         {
           "date": "2026-11-18",
@@ -221,8 +231,18 @@
           "title": "MS, 실시간 위험 분석·격리 기능 공개…\"폭주하는 AI 에이전트 막는다\""
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261118115300530",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217541",
           "title": ""
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-anthropic-openai-and.md",
+          "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-마이크로소프트와-산업-내-여러-조직들.md",
+          "title": "마이크로소프트와 산업 내 여러 조직들, AI 모델 및 에이전트에 대한 기업 신뢰 강화를 위해 AI 투명성 이니셔티브 출범"
         }
       ]
     }

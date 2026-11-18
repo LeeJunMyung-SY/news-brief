@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-19",
+  "updated_at": "2026-11-19T08:21:22.569178+09:00",
+  "run_id": "run_20261119_082122",
+  "summary_ko": "에이전트 금융의 책임 공백 속에 자본은 수익 증명 기업으로 쏠린 하루.",
+  "issues": [
+    {
+      "title": "에이전트 금융, 책임이 관건",
+      "summary_ko": "확산 속도를 이제 책임·인증 체계가 결정한다.",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-19",
+          "file": "20261119-more-banks-say-custo.md",
+          "title": "More banks say customers using AI agents are on their own — even if they get hacked"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-visa-expands-agentic.md",
+          "title": "Visa expands Agentic Ready programme to acceptance ecosystem"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-klarna-launches-ai-a.md",
+          "title": "Klarna launches AI assistant"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
+          "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-us-bank-outages-caus.md",
+          "title": "US bank outages caused by software bug at JPMorgan Chase"
+        }
+      ]
+    },
+    {
+      "title": "자본은 수익 증명 기업으로",
+      "summary_ko": "역대 최대 IPO와 보안 M&A로 선별 투자가 굳어졌다.",
+      "topics": [
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-19",
+          "file": "20261119-앤트로픽-ipo-공모가-83달러-94.md",
+          "title": "앤트로픽, IPO 공모가 83달러…940억달러 조달 '역대 최대'"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=679013",
+          "title": ""
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217528",
+          "title": ""
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-palo-alto-inks-4-5-b.md",
+          "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-오픈ai-사이버-보안-코딩보다-큰-사.md",
+          "title": "오픈AI \"사이버 보안, 코딩보다 큰 사업 될 것\"…신성장 동력 육성"
+        }
+      ]
+    },
+    {
+      "title": "컴퓨트 금융·입지의 재편",
+      "summary_ko": "순환금융은 조여지고 컴퓨트 입지는 美 승인에 묶였다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-19",
+          "file": "20261119-nvidia-clarifies-whe.md",
+          "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-southeast-asia-s-dat.md",
+          "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-trump-s-latest-land-.md",
+          "title": "Trump’s latest land grab is an AI hub in the Philippines"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-openai-says-its-mode.md",
+          "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
+        }
+      ]
+    },
+    {
+      "title": "모델 경쟁, 내재화와 통제",
+      "summary_ko": "빅테크는 모델을 내재화하고 각국은 모델 역량을 통제한다.",
+      "topics": [
+        "llm_models",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-19",
+          "file": "20261119-google-ships-gemini-.md",
+          "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-microsoft-is-replaci.md",
+          "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives"
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-기업-파고든-가성비-중국산-ai-트럼.md",
+          "title": "美 기업 파고든 '가성비' 중국산 AI…트럼프 정부 공개 의무화 검토"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217541",
+          "title": ""
+        },
+        {
+          "date": "2026-11-19",
+          "file": "20261119-anthropic-openai-and.md",
+          "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets"
+        }
+      ]
+    }
+  ]
+}
