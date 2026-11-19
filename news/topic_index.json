@@ -1,60 +1,60 @@
 {
-  "generated_at": "2026-11-18T23:21:33+00:00",
+  "generated_at": "2026-11-19T03:15:44+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1301,
+      "count": 1302,
       "latest_date": "2026-11-19"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1708,
+      "count": 1712,
       "latest_date": "2026-11-19"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1727,
+      "count": 1730,
       "latest_date": "2026-11-19"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 4009,
+      "count": 4013,
       "latest_date": "2026-11-19"
     },
     {
       "key": "physical_ai_robotics",
       "label": "Physical Ai Robotics",
       "description": "로봇, 휴머노이드, 피지컬AI,",
-      "count": 592,
+      "count": 593,
       "latest_date": "2026-11-19"
     },
     {
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1330,
+      "count": 1332,
       "latest_date": "2026-11-19"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1105,
+      "count": 1111,
       "latest_date": "2026-11-19"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 662,
+      "count": 663,
       "latest_date": "2026-11-19"
     },
     {
@@ -82,8 +82,8 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 85,
-      "latest_date": "2026-11-16"
+      "count": 87,
+      "latest_date": "2026-11-19"
     },
     {
       "key": "robotics",
@@ -108,6 +108,21 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-singapore-sets-natio.md",
+        "title": "Singapore sets national AI missions for financial services",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#agentic-payments",
+          "#national-strategy",
+          "#singapore"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed"
       },
       {
         "date": "2026-11-19",
@@ -139,6 +154,20 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-메타-직원도-놀랐다-ai-비서-뮤즈-.md",
+        "title": "메타 직원도 놀랐다…AI 비서 뮤즈, 개인 대화 읽고 무단 예약",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-permissions",
+          "#privacy",
+          "#consumer-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119091308"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-ai-먼저-써본-기업이-더-번다-ms.md",
         "title": "'AI 먼저 써본 기업이 더 번다'…MS, 50만 파트너사에 '고객 제로' 전략 제시",
         "importance": 6,
@@ -153,6 +182,20 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-nhn커머스-고도몰에-ai-검색-최적.md",
+        "title": "NHN커머스, 고도몰에 AI 검색 최적화·쇼핑 에이전트 기능 도입",
+        "importance": 6,
+        "tags": [
+          "#agentic-commerce",
+          "#geo",
+          "#webmcp",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119103917"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-satya-nadella-predic.md",
         "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
         "importance": 6,
@@ -164,6 +207,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-디깅노트-금융-진입-노리는-빅테크-a.md",
+        "title": "[디깅노트] 금융 진입 노리는 빅테크 AI, 은행 앱의 미래는",
+        "importance": 6,
+        "tags": [
+          "#banking",
+          "#big-tech",
+          "#customer-channel",
+          "#analysis"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678966"
       },
       {
         "date": "2026-11-19",
@@ -24931,6 +24988,21 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-ai-기업들-미국-ai-모델-우회-접.md",
+        "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산",
+        "importance": 6,
+        "tags": [
+          "#distillation",
+          "#export-control",
+          "#china",
+          "#crypto",
+          "#model-access"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119105124"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-anthropic-openai-and.md",
         "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
         "importance": 6,
@@ -43697,6 +43769,50 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-singapore-sets-natio.md",
+        "title": "Singapore sets national AI missions for financial services",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#agentic-payments",
+          "#national-strategy",
+          "#singapore"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-메타-직원도-놀랐다-ai-비서-뮤즈-.md",
+        "title": "메타 직원도 놀랐다…AI 비서 뮤즈, 개인 대화 읽고 무단 예약",
+        "importance": 7,
+        "tags": [
+          "#safety-incident",
+          "#agent-permissions",
+          "#privacy",
+          "#consumer-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119091308"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-ai-기업들-미국-ai-모델-우회-접.md",
+        "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산",
+        "importance": 6,
+        "tags": [
+          "#distillation",
+          "#export-control",
+          "#china",
+          "#crypto",
+          "#model-access"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119105124"
       },
       {
         "date": "2026-11-19",
@@ -68641,6 +68757,20 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-ai-투자-늘고-메모리값-뛰고-내년-.md",
+        "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다",
+        "importance": 7,
+        "tags": [
+          "#market-forecast",
+          "#ai-infrastructure",
+          "#memory",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119105719"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-google-ships-gemini-.md",
         "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
         "importance": 7,
@@ -68652,6 +68782,20 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-microsoft-ceo-satya-.md",
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#workforce",
+          "#enterprise-ai",
+          "#restructuring"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
       },
       {
         "date": "2026-11-19",
@@ -68738,6 +68882,20 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-nhn커머스-고도몰에-ai-검색-최적.md",
+        "title": "NHN커머스, 고도몰에 AI 검색 최적화·쇼핑 에이전트 기능 도입",
+        "importance": 6,
+        "tags": [
+          "#agentic-commerce",
+          "#geo",
+          "#webmcp",
+          "#ai-adoption"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119103917"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-nvidia-clarifies-whe.md",
         "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
         "importance": 6,
@@ -68778,6 +68936,20 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-빅테크-숨은-약정-4조달러-ecb-a.md",
+        "title": "빅테크 숨은 약정 4조달러…ECB, AI 금융버블 경고",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#financial-stability",
+          "#ecb",
+          "#off-balance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202611196243i"
       },
       {
         "date": "2026-11-19",
@@ -126702,6 +126874,20 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217534"
       },
       {
+        "date": "2026-11-19",
+        "file": "20261119-현대차-다음-성장-조건-애플-인재-영.md",
+        "title": "[현대차 다음 성장 조건] 애플 인재 영입 '자율주행·로봇' 기술 융합",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#talent",
+          "#autonomous-driving",
+          "#robotics"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679077"
+      },
+      {
         "date": "2026-11-18",
         "file": "20261118-현대모비스-액추에이터-개발-손끝에-달.md",
         "title": "[현대모비스 액추에이터 개발]② '손끝에 달린 수익성' 정의선의 美 IPO 셈법",
@@ -135241,6 +135427,20 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-19",
+        "file": "20261119-ai-투자-늘고-메모리값-뛰고-내년-.md",
+        "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다",
+        "importance": 7,
+        "tags": [
+          "#market-forecast",
+          "#ai-infrastructure",
+          "#memory",
+          "#capex"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119105719"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-nvidia-clarifies-whe.md",
         "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
         "importance": 6,
@@ -135295,6 +135495,20 @@
         ],
         "source": "The Verge AI",
         "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-인텔-파운드리-2-5차원-패키징-em.md",
+        "title": "인텔 파운드리, 2.5차원 패키징 'EMIB' 첫 외부 고객사로 MS 확보",
+        "importance": 6,
+        "tags": [
+          "#semiconductor",
+          "#custom-silicon",
+          "#partnership",
+          "#supply-chain"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119100612"
       },
       {
         "date": "2026-11-18",
@@ -154425,6 +154639,35 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-singapore-sets-natio.md",
+        "title": "Singapore sets national AI missions for financial services",
+        "importance": 8,
+        "tags": [
+          "#regulation",
+          "#finance",
+          "#agentic-payments",
+          "#national-strategy",
+          "#singapore"
+        ],
+        "source": "Finextra",
+        "url": "https://www.finextra.com/newsarticle/48781/singapore-sets-national-ai-missions-for-financial-services?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-삼성카드-카드업계-최초로-ai-활용해.md",
+        "title": "삼성카드, 카드업계 최초로 AI 활용해 이상금융거래 탐지",
+        "importance": 8,
+        "tags": [
+          "#card",
+          "#fds",
+          "#ai-adoption",
+          "#fraud-detection"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/2026111840061"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
         "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편",
         "importance": 7,
@@ -154467,6 +154710,20 @@
       },
       {
         "date": "2026-11-19",
+        "file": "20261119-미래에셋생명-직원-26명이-ai로-업.md",
+        "title": "미래에셋생명, 직원 26명이 AI로 업무 개선…20개 본부·실서 37개 과제 추진",
+        "importance": 7,
+        "tags": [
+          "#insurance",
+          "#ai-adoption",
+          "#citizen-developer",
+          "#org-change"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261119000171"
+      },
+      {
+        "date": "2026-11-19",
         "file": "20261119-us-bank-outages-caus.md",
         "title": "US bank outages caused by software bug at JPMorgan Chase",
         "importance": 6,
@@ -154478,6 +154735,48 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48778/us-bank-outages-caused-by-software-bug-at-jpmorgan-chase?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-디깅노트-금융-진입-노리는-빅테크-a.md",
+        "title": "[디깅노트] 금융 진입 노리는 빅테크 AI, 은행 앱의 미래는",
+        "importance": 6,
+        "tags": [
+          "#banking",
+          "#big-tech",
+          "#customer-channel",
+          "#analysis"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=678966"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-빅테크-숨은-약정-4조달러-ecb-a.md",
+        "title": "빅테크 숨은 약정 4조달러…ECB, AI 금융버블 경고",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#financial-stability",
+          "#ecb",
+          "#off-balance"
+        ],
+        "source": "한국경제 경제",
+        "url": "https://www.hankyung.com/article/202611196243i"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-칼라일-ai-시대-pef-경쟁력-au.md",
+        "title": "칼라일 “AI 시대 PEF 경쟁력, AUM 아닌 데이터에” [GAII 2026 Live]",
+        "importance": 6,
+        "tags": [
+          "#asset-management",
+          "#private-equity",
+          "#data-strategy",
+          "#cdo"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12213436"
       },
       {
         "date": "2026-11-18",
@@ -170661,6 +170960,20 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217534"
       },
       {
+        "date": "2026-11-19",
+        "file": "20261119-현대차-다음-성장-조건-애플-인재-영.md",
+        "title": "[현대차 다음 성장 조건] 애플 인재 영입 '자율주행·로봇' 기술 융합",
+        "importance": 6,
+        "tags": [
+          "#org-change",
+          "#talent",
+          "#autonomous-driving",
+          "#robotics"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679077"
+      },
+      {
         "date": "2026-11-18",
         "file": "20261118-삼성중공업-ax-pi센터-출범-lgd.md",
         "title": "삼성중공업, ‘AX/PI센터’ 출범…LGD AI전문가 이영주 영입",
@@ -180317,6 +180630,34 @@
     ],
     "ai_workforce_training": [
       {
+        "date": "2026-11-19",
+        "file": "20261119-microsoft-ceo-satya-.md",
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#workforce",
+          "#enterprise-ai",
+          "#restructuring"
+        ],
+        "source": "TechCrunch AI",
+        "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      },
+      {
+        "date": "2026-11-19",
+        "file": "20261119-미래에셋생명-직원-26명이-ai로-업.md",
+        "title": "미래에셋생명, 직원 26명이 AI로 업무 개선…20개 본부·실서 37개 과제 추진",
+        "importance": 7,
+        "tags": [
+          "#insurance",
+          "#ai-adoption",
+          "#citizen-developer",
+          "#org-change"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261119000171"
+      },
+      {
         "date": "2026-11-16",
         "file": "20261116-직접-아이디어-발굴서-코딩까지-기업은.md",
         "title": "직접 아이디어 발굴서 코딩까지…기업은행, 현업 AX 체계 '차별화'",
@@ -181541,8 +181882,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-19",
-        "title": "에이전트 금융, 책임이 관건",
-        "summary": "확산 속도를 이제 책임·인증 체계가 결정한다.",
+        "title": "에이전트 금융, 신뢰 인프라가 관건",
+        "summary": "확산 속도를 이제 권한·책임 설계와 당국 전략이 결정한다.",
         "articles": [
           {
             "date": "2026-11-19",
@@ -181561,6 +181902,28 @@
           },
           {
             "date": "2026-11-19",
+            "file": "20261119-singapore-sets-natio.md",
+            "title": "Singapore sets national AI missions for financial services"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-메타-직원도-놀랐다-ai-비서-뮤즈-.md",
+            "title": "메타 직원도 놀랐다…AI 비서 뮤즈, 개인 대화 읽고 무단 예약"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-디깅노트-금융-진입-노리는-빅테크-a.md",
+            "title": "[디깅노트] 금융 진입 노리는 빅테크 AI, 은행 앱의 미래는"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "title": "금융 AI, 현업·방어 실무로",
+        "summary": "금융사 AI가 현업 주도 개선과 사기 방어 인프라로 뿌리내린다.",
+        "articles": [
+          {
+            "date": "2026-11-19",
             "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
             "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
           },
@@ -181568,6 +181931,53 @@
             "date": "2026-11-19",
             "file": "20261119-us-bank-outages-caus.md",
             "title": "US bank outages caused by software bug at JPMorgan Chase"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-삼성카드-카드업계-최초로-ai-활용해.md",
+            "title": "삼성카드, 카드업계 최초로 AI 활용해 이상금융거래 탐지"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-미래에셋생명-직원-26명이-ai로-업.md",
+            "title": "미래에셋생명, 직원 26명이 AI로 업무 개선…20개 본부·실서 37개 과제 추진"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-칼라일-ai-시대-pef-경쟁력-au.md",
+            "title": "칼라일 “AI 시대 PEF 경쟁력, AUM 아닌 데이터에” [GAII 2026 Live]"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-19",
+        "title": "자본은 선별, 버블 경고는 확대",
+        "summary": "역대 최대 IPO 이면에서 장부 외 약정 리스크가 부각됐다.",
+        "articles": [
+          {
+            "date": "2026-11-19",
+            "file": "20261119-앤트로픽-ipo-공모가-83달러-94.md",
+            "title": "앤트로픽, IPO 공모가 83달러…940억달러 조달 '역대 최대'"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-palo-alto-inks-4-5-b.md",
+            "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-오픈ai-사이버-보안-코딩보다-큰-사.md",
+            "title": "오픈AI \"사이버 보안, 코딩보다 큰 사업 될 것\"…신성장 동력 육성"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-빅테크-숨은-약정-4조달러-ecb-a.md",
+            "title": "빅테크 숨은 약정 4조달러…ECB, AI 금융버블 경고"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-microsoft-ceo-satya-.md",
+            "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
           }
         ]
       },
@@ -187198,8 +187608,8 @@
     "ai_agents": [
       {
         "date": "2026-11-19",
-        "title": "에이전트 금융, 책임이 관건",
-        "summary": "확산 속도를 이제 책임·인증 체계가 결정한다.",
+        "title": "에이전트 금융, 신뢰 인프라가 관건",
+        "summary": "확산 속도를 이제 권한·책임 설계와 당국 전략이 결정한다.",
         "articles": [
           {
             "date": "2026-11-19",
@@ -187218,13 +187628,18 @@
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
-            "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
+            "file": "20261119-singapore-sets-natio.md",
+            "title": "Singapore sets national AI missions for financial services"
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-us-bank-outages-caus.md",
-            "title": "US bank outages caused by software bug at JPMorgan Chase"
+            "file": "20261119-메타-직원도-놀랐다-ai-비서-뮤즈-.md",
+            "title": "메타 직원도 놀랐다…AI 비서 뮤즈, 개인 대화 읽고 무단 예약"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-디깅노트-금융-진입-노리는-빅테크-a.md",
+            "title": "[디깅노트] 금융 진입 노리는 빅테크 AI, 은행 앱의 미래는"
           }
         ]
       },
@@ -193587,8 +194002,8 @@
     "ai_policy": [
       {
         "date": "2026-11-19",
-        "title": "에이전트 금융, 책임이 관건",
-        "summary": "확산 속도를 이제 책임·인증 체계가 결정한다.",
+        "title": "에이전트 금융, 신뢰 인프라가 관건",
+        "summary": "확산 속도를 이제 권한·책임 설계와 당국 전략이 결정한다.",
         "articles": [
           {
             "date": "2026-11-19",
@@ -193607,20 +194022,25 @@
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
-            "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
+            "file": "20261119-singapore-sets-natio.md",
+            "title": "Singapore sets national AI missions for financial services"
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-us-bank-outages-caus.md",
-            "title": "US bank outages caused by software bug at JPMorgan Chase"
+            "file": "20261119-메타-직원도-놀랐다-ai-비서-뮤즈-.md",
+            "title": "메타 직원도 놀랐다…AI 비서 뮤즈, 개인 대화 읽고 무단 예약"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-디깅노트-금융-진입-노리는-빅테크-a.md",
+            "title": "[디깅노트] 금융 진입 노리는 빅테크 AI, 은행 앱의 미래는"
           }
         ]
       },
       {
         "date": "2026-11-19",
-        "title": "컴퓨트 금융·입지의 재편",
-        "summary": "순환금융은 조여지고 컴퓨트 입지는 美 승인에 묶였다.",
+        "title": "컴퓨트, 지출 급증과 공급망 재편",
+        "summary": "인프라 지출은 치솟고 조달은 美 승인·칩 다변화로 재편된다.",
         "articles": [
           {
             "date": "2026-11-19",
@@ -193634,44 +194054,23 @@
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-trump-s-latest-land-.md",
-            "title": "Trump’s latest land grab is an AI hub in the Philippines"
-          },
-          {
-            "date": "2026-11-19",
-            "file": "20261119-openai-says-its-mode.md",
-            "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-19",
-        "title": "모델 경쟁, 내재화와 통제",
-        "summary": "빅테크는 모델을 내재화하고 각국은 모델 역량을 통제한다.",
-        "articles": [
-          {
-            "date": "2026-11-19",
-            "file": "20261119-google-ships-gemini-.md",
-            "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month"
-          },
-          {
-            "date": "2026-11-19",
             "file": "20261119-microsoft-is-replaci.md",
             "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives"
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-기업-파고든-가성비-중국산-ai-트럼.md",
-            "title": "美 기업 파고든 '가성비' 중국산 AI…트럼프 정부 공개 의무화 검토"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217541",
-            "title": ""
+            "file": "20261119-ai-투자-늘고-메모리값-뛰고-내년-.md",
+            "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다"
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-anthropic-openai-and.md",
-            "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets"
+            "file": "20261119-인텔-파운드리-2-5차원-패키징-em.md",
+            "title": "인텔 파운드리, 2.5차원 패키징 'EMIB' 첫 외부 고객사로 MS 확보"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-ai-기업들-미국-ai-모델-우회-접.md",
+            "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산"
           }
         ]
       },
@@ -200213,24 +200612,569 @@
         ]
       }
     ],
+    "ai_workforce_training": [
+      {
+        "date": "2026-11-19",
+        "title": "금융 AI, 현업·방어 실무로",
+        "summary": "금융사 AI가 현업 주도 개선과 사기 방어 인프라로 뿌리내린다.",
+        "articles": [
+          {
+            "date": "2026-11-19",
+            "file": "20261119-kb금융-생산적-금융-김성현-ax-이.md",
+            "title": "KB금융 '생산적 금융' 김성현·AX 이창권 부문장 사의…거버넌스 재편"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-us-bank-outages-caus.md",
+            "title": "US bank outages caused by software bug at JPMorgan Chase"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-삼성카드-카드업계-최초로-ai-활용해.md",
+            "title": "삼성카드, 카드업계 최초로 AI 활용해 이상금융거래 탐지"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-미래에셋생명-직원-26명이-ai로-업.md",
+            "title": "미래에셋생명, 직원 26명이 AI로 업무 개선…20개 본부·실서 37개 과제 추진"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-칼라일-ai-시대-pef-경쟁력-au.md",
+            "title": "칼라일 “AI 시대 PEF 경쟁력, AUM 아닌 데이터에” [GAII 2026 Live]"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-08",
+        "title": "에이전트 실행 단계와 비용·채널·직무 재설계",
+        "summary": "에이전트 관리층과 외부 AI 대화창 연동이 상용화되는 가운데, 토큰 비용 통제와 인력 재배치가 도입 설계의 필수 항목이 됐다.",
+        "articles": [
+          {
+            "date": "2026-11-08",
+            "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
+            "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
+          },
+          {
+            "date": "2026-11-08",
+            "file": "20261108-aws-여러-ai-에이전트-지휘하는-.md",
+            "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화"
+          },
+          {
+            "date": "2026-11-08",
+            "file": "20261108-아마존-앱-없이-문자로-쇼핑-끝낸다-.md",
+            "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시"
+          },
+          {
+            "date": "2026-11-08",
+            "file": "20261108-ai도-가성비-시대-카페24-토큰-비.md",
+            "title": "AI도 가성비 시대…카페24, '토큰 비용' 관리 나선다"
+          },
+          {
+            "date": "2026-11-08",
+            "file": "20261108-카페24-챗gpt에-ai-개발-운영-.md",
+            "title": "카페24, 챗GPT에 AI 개발·운영 기능 연결…커머스 AX 확장"
+          },
+          {
+            "date": "2026-11-08",
+            "file": "20261108-ai가-바꾸는-가전-생산현장-검사-자.md",
+            "title": "AI가 바꾸는 가전 생산현장…검사 자동화·직무 전환 가속"
+          },
+          {
+            "date": "2026-11-08",
+            "file": "20261108-ai-is-speeding-up-re.md",
+            "title": "AI is speeding up recruitment — and putting agency fees under pressure"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-27",
+        "title": "AI 투자의 부채·인력 청구서",
+        "summary": "연산 조달이 은행 부채와 감원으로 번지며 금융 리스크가 커졌다.",
+        "articles": [
+          {
+            "date": "2026-10-27",
+            "file": "20261027-meta-announces-95-bi.md",
+            "title": "Meta announces $95 billion stock offering to fund AI expansion"
+          },
+          {
+            "date": "2026-10-27",
+            "file": "20261027-microsoft-offers-vol.md",
+            "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push"
+          },
+          {
+            "date": "2026-10-27",
+            "file": "20261027-spacex-locks-in-40b-.md",
+            "title": "SpaceX locks in $40B GPU financing deal with Apollo"
+          },
+          {
+            "date": "2026-10-27",
+            "file": "20261027-단독-ai투자-꺾이면-수출-1천억달러.md",
+            "title": "[단독] “AI투자 꺾이면 수출 1천억달러 타격”…한은의 경고"
+          },
+          {
+            "date": "2026-10-27",
+            "file": "20261027-월가-앤트로픽-ai-칩-확보에-83조.md",
+            "title": "월가, 앤트로픽 AI 칩 확보에 83조 금융 지원…브로드컴 장비 사서 임대"
+          },
+          {
+            "date": "2026-10-27",
+            "file": "20261027-한은-ai발-금융-취약성-누적-한국도.md",
+            "title": "한은 \"AI발 금융 취약성 누적…한국도 전이 리스크 점검해야\""
+          },
+          {
+            "date": "2026-10-27",
+            "file": "20261027-ai-기업-대출-담보-대신-토큰-사용.md",
+            "title": "\"AI 기업 대출, 담보 대신 토큰 사용량 본다\"…中 선전의 금융 실험 [차이나 워치]"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-25",
+        "title": "AI 활용의 부수 비용: 표시 의무와 숙련 공백",
+        "summary": "광고 표시 의무와 주니어 숙련 저해 우려가 AI 활용의 숨은 비용을 드러냈다.",
+        "articles": [
+          {
+            "date": "2026-10-25",
+            "file": "20261025-pennsylvania-will-re.md",
+            "title": "Pennsylvania will require labels on AI-generated ads"
+          },
+          {
+            "date": "2026-10-25",
+            "file": "20261025-ai-makes-junior-pate.md",
+            "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-23",
+        "title": "기업 AI 도입 기준, 성능에서 통제력으로",
+        "summary": "전사 배포·인력 재편과 함께 업무 절차 준수와 거버넌스 체계가 도입 판단의 핵심 기준으로 올라왔다.",
+        "articles": [
+          {
+            "date": "2026-10-23",
+            "file": "20261023-bnk금융-ai-플랫폼-구축-우선협상.md",
+            "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-barclays-to-cut-5-00.md",
+            "title": "Barclays to cut 5,000 jobs amid AI expansion"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-lg-cns-기업용-챗gpt-이용자-.md",
+            "title": "LG CNS, 기업용 챗GPT 이용자 3만명 확보…공급부터 업무 적용 지원"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-uber-puts-all-30-000.md",
+            "title": "Uber puts all 30,000 employees on ChatGPT Work"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-윈웨이-금융권-폐쇄망-ai-개발-에이.md",
+            "title": "윈웨이, 금융권 폐쇄망 AI 개발 에이전트 'WinPilot' 선보여"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-gs칼텍스-ai로-교육부터-보고서까지.md",
+            "title": "GS칼텍스, AI로 교육부터 보고서까지…허세홍 \"개인의 도전 모여 회사 혁신\""
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-단독-lg-현대차-로봇-사업-수장-전.md",
+            "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-달라진-ai-도입-잣대-aws-업스테.md",
+            "title": "달라진 AI 도입 잣대…AWS·업스테이지가 지목한 '통제력' [현장+]"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-더존비즈온-법무법인-세종-ai-거버넌.md",
+            "title": "더존비즈온·법무법인 세종, AI 거버넌스 사업 공동 추진"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-ai-에이전트도-빨리빨리-한국-오픈a.md",
+            "title": "AI 에이전트도 '빨리빨리'...한국, 오픈AI '닷츠' 이용 세계 3위"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-automating-feature-f.md",
+            "title": "Automating Feature Flag Cleanup at Scale with Multi-Agent LLM Systems: An Industrial Experience at DoorDash"
+          },
+          {
+            "date": "2026-10-23",
+            "file": "20261023-the-delegation-divid.md",
+            "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-15",
+        "title": "은행 AI 인력 전략의 두 갈래",
+        "summary": "메가뱅크의 수천 명 AI 개발직 전환과 에이전트 접점 차단·개방 분기가 맞물려 은행 AI 전략이 인력·접점 양면에서 갈리고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-15",
+            "file": "20261015-jpmorgan-chase-block.md",
+            "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts"
+          },
+          {
+            "date": "2026-10-15",
+            "file": "20261015-bbva-joins-meta-back.md",
+            "title": "BBVA joins Meta-backed Personal Agent Protocol initiative"
+          },
+          {
+            "date": "2026-10-15",
+            "file": "20261015-mollie-to-build-bank.md",
+            "title": "Mollie to build banking layer for AI agents"
+          },
+          {
+            "date": "2026-10-15",
+            "file": "20261015-메가뱅크-환골탈태-은행-사무직-수천명.md",
+            "title": "日 메가뱅크 '환골탈태'…은행 사무직 수천명, AI개발직 전환"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-10",
+        "title": "에이전트 확장과 업무 모델 재편",
+        "summary": "에이전트가 병렬 작업팀·쇼핑 창구로 넓어지는 사이 전문 서비스의 시간 과금 모델까지 압박받고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-10",
+            "file": "20261010-anthropic-s-claude-c.md",
+            "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
+          },
+          {
+            "date": "2026-10-10",
+            "file": "20261010-8216-pure-insanity-8.md",
+            "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop"
+          },
+          {
+            "date": "2026-10-10",
+            "file": "20261010-쿠팡이-쌀까-무신사가-쌀까-ai-멀티.md",
+            "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다"
+          },
+          {
+            "date": "2026-10-10",
+            "file": "20261010-ai-is-changing-how-l.md",
+            "title": "AI is changing how lawyers work — and putting the billable hour under pressure"
+          }
+        ]
+      },
+      {
+        "date": "2026-10-02",
+        "title": "금융 접점, 대화형 AI로 개방",
+        "summary": "계좌·검색·여신이 대화형 AI와 외부 에이전트로 직접 연결되고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-02",
+            "file": "20261002-10주만-사줘-다올증권-ai-증권계좌.md",
+            "title": "\"10주만 사줘\"…다올증권, AI-증권계좌 연결 서비스 출시"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-australia-s-wemoney-.md",
+            "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-bloomberg-closes-can.md",
+            "title": "Bloomberg closes Canoe Intelligence acquisition"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-sibos-2026-don-t-jus.md",
+            "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy"
+          },
+          {
+            "date": "2026-10-02",
+            "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
+            "title": "키움증권, 대화형 통합 'AI 검색' 출시"
+          },
+          {
+            "url": "https://www.yna.co.kr/view/AKR20261002049500002",
+            "title": ""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-10-01",
+        "title": "AI 결정, 법과 승인 게이트로",
+        "summary": "에이전트·인사 AI의 최종 판단에 사람과 법적 책임이 다시 묶이고 있다.",
+        "articles": [
+          {
+            "date": "2026-10-01",
+            "file": "20261001-openai-is-sued-over-.md",
+            "title": "OpenAI is sued over rogue AI Hugging Face cyberattack"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-ftc-launches-sweepin.md",
+            "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-here-s-how-tech-lead.md",
+            "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-california-gov-gavin.md",
+            "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto"
+          },
+          {
+            "date": "2026-10-01",
+            "file": "20261001-오픈ai-디시전스-api-ai-에이전.md",
+            "title": "오픈AI '디시전스 API', AI 에이전트 안전장치로 주목"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-30",
+        "title": "도입 성과, 공시 지표로 증명 단계",
+        "summary": "AI 효과를 외부에서 검증 가능한 숫자로 내놓는 기업이 다음 수주에서 앞서간다.",
+        "articles": [
+          {
+            "date": "2026-09-30",
+            "file": "20260930-sibos-2026-google-cl.md",
+            "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-lgu-ai로-상담-대기-47초-5초.md",
+            "title": "LGU+, AI로 상담 대기 47초→5초…AICC 기업시장 공략"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-게시판-bc카드-법률ai로-준법업무-.md",
+            "title": "[게시판] BC카드, 법률AI로 준법업무 혁신…리걸테크기업과 MOU"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
+            "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
+            "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트"
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
+            "title": "HD현대, AI 활용·관리 문화 확산…\"실무 교육으로 '코파일럿' 이용률↑\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
+            "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\""
+          },
+          {
+            "date": "2026-09-30",
+            "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
+            "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다"
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=674714",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-28",
+        "title": "금융권 AI, 운영 단계로",
+        "summary": "은행·운용사가 AI를 실제 고객 서비스와 전사 업무에 올리기 시작했다.",
+        "articles": [
+          {
+            "date": "2026-09-28",
+            "file": "20260928-포지큐브-하나은행에-ai-에이전트-서.md",
+            "title": "포지큐브, 하나은행에 AI 에이전트 서비스 구축...\"금융 AX 가속\""
+          },
+          {
+            "date": "2026-09-28",
+            "file": "20260928-ai가-내-펀드-매일-봐준다-농협은행.md",
+            "title": "AI가 내 펀드 매일 봐준다…농협은행 ‘NH펀드케어’ 출시"
+          },
+          {
+            "date": "2026-09-28",
+            "file": "20260928-한화운용-ai-플랫폼-오딘-오픈-디지.md",
+            "title": "한화운용, AI 플랫폼 '오딘' 오픈…\"디지털 전환 가속\""
+          },
+          {
+            "date": "2026-09-28",
+            "file": "20260928-singapore-to-train-8.md",
+            "title": "Singapore to train 80,000 FS sector employees in AI skills"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-27",
+        "title": "금융·공공, AI를 창구 업무에",
+        "summary": "감원보다 역할 재배치로 AI를 현장 업무에 넣고 있다.",
+        "articles": [
+          {
+            "date": "2026-09-27",
+            "file": "20260927-사이트-박현주-nh농협은행-부행장-a.md",
+            "title": "[人사이트] 박현주 NH농협은행 부행장 “AI와 상담직원이 협업해 고객 금융여정 지원”"
+          },
+          {
+            "date": "2026-09-27",
+            "file": "20260927-스모어톡-신한은행에-숏폼-영상-ai-.md",
+            "title": "스모어톡, 신한은행에 숏폼 영상 AI 공급…금융권 유스케이스 첫 확보"
+          },
+          {
+            "date": "2026-09-27",
+            "file": "20260927-기획처-내부-업무망에-국산-llm-도.md",
+            "title": "기획처, 내부 업무망에 국산 LLM 도입…공무원 AI 활용 확대"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-24",
+        "title": "AI 계약·인력 셈법 재편",
+        "summary": "할인·사용량 과금과 인력 역수입이 도입 ROI 계산을 바꾼다.",
+        "articles": [
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ringg-s-ai-agents-re.md",
+            "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ema-raises-77m-as-ai.md",
+            "title": "Ema raises $77M as AI starts eating into enterprise software and services"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-alibaba-launches-qwe.md",
+            "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
+            "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-ms-코파일럿-슈퍼-앱-전환-맞춰-최.md",
+            "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인"
+          },
+          {
+            "date": "2026-09-24",
+            "file": "20260924-감원하던-아마존의-변심-ai-인력-부.md",
+            "title": "감원하던 아마존의 변심…AI 인력 부족에 전직원 복귀 러브콜"
+          }
+        ]
+      },
+      {
+        "date": "2026-09-21",
+        "title": "금융·현장 AI, 운영에서 상품까지",
+        "summary": "내부 업무 적용에 더해 AI 자체가 판매 상품 라인업으로 올라섰다.",
+        "articles": [
+          {
+            "date": "2026-09-21",
+            "file": "20260921-50대-서민이-투자전략-물어봐도-ai.md",
+            "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 '20대 고소득자'로 보는 까닭은?"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-ant-international-la.md",
+            "title": "Ant International launches financial AI stack"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-삼성화재-ai로-피난훈련-효과-평가한.md",
+            "title": "삼성화재, AI로 피난훈련 효과 평가한다…정량평가 시스템 개발"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-부산-경남은행-신입행원-공개채용-디지.md",
+            "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
+            "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-bnk운용-미국-ai-우주항공-양자컴.md",
+            "title": "BNK운용, '미국 AI·우주항공·양자컴퓨팅 투자' 펀드 출시"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-이규성-삼성서울병원-ax추진단장-ai.md",
+            "title": "이규성 삼성서울병원 AX추진단장 “AI, 사람 대체 아닌 지원 도구…환자 케어 질이 최종 목표”"
+          },
+          {
+            "date": "2026-09-21",
+            "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
+            "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면"
+          },
+          {
+            "url": "https://www.etnews.com/20260921000380",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-09-20",
+        "title": "실행 체계가 성과를 가른다",
+        "summary": "도구 확보가 아니라 지휘 조직과 비용 관리가 도입 성과를 결정하는 국면이다.",
+        "articles": [
+          {
+            "date": "2026-09-20",
+            "file": "20260920-lg이노텍-ai로-최적-부품-탐색-견.md",
+            "title": "LG이노텍, AI로 '최적 부품' 탐색…견적 산출 시간 70% 줄였다"
+          },
+          {
+            "date": "2026-09-20",
+            "file": "20260920-유베이스가-그리는-ai-시대-컨택센터.md",
+            "title": "유베이스가 그리는 AI 시대 컨택센터 생태계는"
+          },
+          {
+            "date": "2026-09-20",
+            "file": "20260920-caio-포럼-2차-세미나-ai-에이.md",
+            "title": "[CAIO 포럼 2차 세미나] “AI 에이전트 시대, '토큰 거버넌스'가 AX 성과 가른다”"
+          },
+          {
+            "date": "2026-09-20",
+            "file": "20260920-사설-caio-지휘시대-우리가-앞서가.md",
+            "title": "[사설] CAIO 지휘시대, 우리가 앞서가자"
+          },
+          {
+            "date": "2026-09-20",
+            "file": "20260920-caio-서밋-2026-하정우-부위원.md",
+            "title": "[CAIO 서밋 2026] 하정우 부위원장 “기업 AX, CEO는 물론 CAIO가 앞장서야”"
+          },
+          {
+            "date": "2026-09-20",
+            "file": "20260920-ai-시대-일의-재편-코더서-검증자로.md",
+            "title": "[AI 시대 일의 재편] 코더서 검증자로…진화하는 SKT 개발자 현장"
+          }
+        ]
+      }
+    ],
     "ai_industry": [
       {
         "date": "2026-11-19",
-        "title": "자본은 수익 증명 기업으로",
-        "summary": "역대 최대 IPO와 보안 M&A로 선별 투자가 굳어졌다.",
+        "title": "자본은 선별, 버블 경고는 확대",
+        "summary": "역대 최대 IPO 이면에서 장부 외 약정 리스크가 부각됐다.",
         "articles": [
           {
             "date": "2026-11-19",
             "file": "20261119-앤트로픽-ipo-공모가-83달러-94.md",
             "title": "앤트로픽, IPO 공모가 83달러…940억달러 조달 '역대 최대'"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679013",
-            "title": ""
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217528",
-            "title": ""
           },
           {
             "date": "2026-11-19",
@@ -200241,13 +201185,23 @@
             "date": "2026-11-19",
             "file": "20261119-오픈ai-사이버-보안-코딩보다-큰-사.md",
             "title": "오픈AI \"사이버 보안, 코딩보다 큰 사업 될 것\"…신성장 동력 육성"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-빅테크-숨은-약정-4조달러-ecb-a.md",
+            "title": "빅테크 숨은 약정 4조달러…ECB, AI 금융버블 경고"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-microsoft-ceo-satya-.md",
+            "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
           }
         ]
       },
       {
         "date": "2026-11-19",
-        "title": "컴퓨트 금융·입지의 재편",
-        "summary": "순환금융은 조여지고 컴퓨트 입지는 美 승인에 묶였다.",
+        "title": "컴퓨트, 지출 급증과 공급망 재편",
+        "summary": "인프라 지출은 치솟고 조달은 美 승인·칩 다변화로 재편된다.",
         "articles": [
           {
             "date": "2026-11-19",
@@ -200261,13 +201215,23 @@
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-trump-s-latest-land-.md",
-            "title": "Trump’s latest land grab is an AI hub in the Philippines"
+            "file": "20261119-microsoft-is-replaci.md",
+            "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives"
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-openai-says-its-mode.md",
-            "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
+            "file": "20261119-ai-투자-늘고-메모리값-뛰고-내년-.md",
+            "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-인텔-파운드리-2-5차원-패키징-em.md",
+            "title": "인텔 파운드리, 2.5차원 패키징 'EMIB' 첫 외부 고객사로 MS 확보"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-ai-기업들-미국-ai-모델-우회-접.md",
+            "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산"
           }
         ]
       },
@@ -209497,8 +210461,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-19",
-        "title": "컴퓨트 금융·입지의 재편",
-        "summary": "순환금융은 조여지고 컴퓨트 입지는 美 승인에 묶였다.",
+        "title": "컴퓨트, 지출 급증과 공급망 재편",
+        "summary": "인프라 지출은 치솟고 조달은 美 승인·칩 다변화로 재편된다.",
         "articles": [
           {
             "date": "2026-11-19",
@@ -209512,13 +210476,23 @@
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-trump-s-latest-land-.md",
-            "title": "Trump’s latest land grab is an AI hub in the Philippines"
+            "file": "20261119-microsoft-is-replaci.md",
+            "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives"
           },
           {
             "date": "2026-11-19",
-            "file": "20261119-openai-says-its-mode.md",
-            "title": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
+            "file": "20261119-ai-투자-늘고-메모리값-뛰고-내년-.md",
+            "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-인텔-파운드리-2-5차원-패키징-em.md",
+            "title": "인텔 파운드리, 2.5차원 패키징 'EMIB' 첫 외부 고객사로 MS 확보"
+          },
+          {
+            "date": "2026-11-19",
+            "file": "20261119-ai-기업들-미국-ai-모델-우회-접.md",
+            "title": "中 AI 기업들, 미국 AI 모델 우회 접근…가상자산 결제 암시장 확산"
           }
         ]
       },
@@ -214463,37 +215437,6 @@
       }
     ],
     "llm_models": [
-      {
-        "date": "2026-11-19",
-        "title": "모델 경쟁, 내재화와 통제",
-        "summary": "빅테크는 모델을 내재화하고 각국은 모델 역량을 통제한다.",
-        "articles": [
-          {
-            "date": "2026-11-19",
-            "file": "20261119-google-ships-gemini-.md",
-            "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month"
-          },
-          {
-            "date": "2026-11-19",
-            "file": "20261119-microsoft-is-replaci.md",
-            "title": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives"
-          },
-          {
-            "date": "2026-11-19",
-            "file": "20261119-기업-파고든-가성비-중국산-ai-트럼.md",
-            "title": "美 기업 파고든 '가성비' 중국산 AI…트럼프 정부 공개 의무화 검토"
-          },
-          {
-            "url": "https://www.aitimes.com/news/articleView.html?idxno=217541",
-            "title": ""
-          },
-          {
-            "date": "2026-11-19",
-            "file": "20261119-anthropic-openai-and.md",
-            "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets"
-          }
-        ]
-      },
       {
         "date": "2026-11-18",
         "title": "에이전트, 업무·생활 OS 장악전",
@@ -220128,527 +221071,6 @@
             "date": "2026-08-07",
             "file": "20260807-핑거-미켈로로보틱스-인수-제조-피지컬.md",
             "title": "핑거, 미켈로로보틱스 인수…제조 피지컬 AI 시장 진출"
-          }
-        ]
-      }
-    ],
-    "ai_workforce_training": [
-      {
-        "date": "2026-11-08",
-        "title": "에이전트 실행 단계와 비용·채널·직무 재설계",
-        "summary": "에이전트 관리층과 외부 AI 대화창 연동이 상용화되는 가운데, 토큰 비용 통제와 인력 재배치가 도입 설계의 필수 항목이 됐다.",
-        "articles": [
-          {
-            "date": "2026-11-08",
-            "file": "20261108-오픈ai-클로드-코드-성공-주역-캣-.md",
-            "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
-          },
-          {
-            "date": "2026-11-08",
-            "file": "20261108-aws-여러-ai-에이전트-지휘하는-.md",
-            "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시…반복 업무까지 자동화"
-          },
-          {
-            "date": "2026-11-08",
-            "file": "20261108-아마존-앱-없이-문자로-쇼핑-끝낸다-.md",
-            "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시"
-          },
-          {
-            "date": "2026-11-08",
-            "file": "20261108-ai도-가성비-시대-카페24-토큰-비.md",
-            "title": "AI도 가성비 시대…카페24, '토큰 비용' 관리 나선다"
-          },
-          {
-            "date": "2026-11-08",
-            "file": "20261108-카페24-챗gpt에-ai-개발-운영-.md",
-            "title": "카페24, 챗GPT에 AI 개발·운영 기능 연결…커머스 AX 확장"
-          },
-          {
-            "date": "2026-11-08",
-            "file": "20261108-ai가-바꾸는-가전-생산현장-검사-자.md",
-            "title": "AI가 바꾸는 가전 생산현장…검사 자동화·직무 전환 가속"
-          },
-          {
-            "date": "2026-11-08",
-            "file": "20261108-ai-is-speeding-up-re.md",
-            "title": "AI is speeding up recruitment — and putting agency fees under pressure"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-27",
-        "title": "AI 투자의 부채·인력 청구서",
-        "summary": "연산 조달이 은행 부채와 감원으로 번지며 금융 리스크가 커졌다.",
-        "articles": [
-          {
-            "date": "2026-10-27",
-            "file": "20261027-meta-announces-95-bi.md",
-            "title": "Meta announces $95 billion stock offering to fund AI expansion"
-          },
-          {
-            "date": "2026-10-27",
-            "file": "20261027-microsoft-offers-vol.md",
-            "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push"
-          },
-          {
-            "date": "2026-10-27",
-            "file": "20261027-spacex-locks-in-40b-.md",
-            "title": "SpaceX locks in $40B GPU financing deal with Apollo"
-          },
-          {
-            "date": "2026-10-27",
-            "file": "20261027-단독-ai투자-꺾이면-수출-1천억달러.md",
-            "title": "[단독] “AI투자 꺾이면 수출 1천억달러 타격”…한은의 경고"
-          },
-          {
-            "date": "2026-10-27",
-            "file": "20261027-월가-앤트로픽-ai-칩-확보에-83조.md",
-            "title": "월가, 앤트로픽 AI 칩 확보에 83조 금융 지원…브로드컴 장비 사서 임대"
-          },
-          {
-            "date": "2026-10-27",
-            "file": "20261027-한은-ai발-금융-취약성-누적-한국도.md",
-            "title": "한은 \"AI발 금융 취약성 누적…한국도 전이 리스크 점검해야\""
-          },
-          {
-            "date": "2026-10-27",
-            "file": "20261027-ai-기업-대출-담보-대신-토큰-사용.md",
-            "title": "\"AI 기업 대출, 담보 대신 토큰 사용량 본다\"…中 선전의 금융 실험 [차이나 워치]"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-25",
-        "title": "AI 활용의 부수 비용: 표시 의무와 숙련 공백",
-        "summary": "광고 표시 의무와 주니어 숙련 저해 우려가 AI 활용의 숨은 비용을 드러냈다.",
-        "articles": [
-          {
-            "date": "2026-10-25",
-            "file": "20261025-pennsylvania-will-re.md",
-            "title": "Pennsylvania will require labels on AI-generated ads"
-          },
-          {
-            "date": "2026-10-25",
-            "file": "20261025-ai-makes-junior-pate.md",
-            "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-23",
-        "title": "기업 AI 도입 기준, 성능에서 통제력으로",
-        "summary": "전사 배포·인력 재편과 함께 업무 절차 준수와 거버넌스 체계가 도입 판단의 핵심 기준으로 올라왔다.",
-        "articles": [
-          {
-            "date": "2026-10-23",
-            "file": "20261023-bnk금융-ai-플랫폼-구축-우선협상.md",
-            "title": "BNK금융, AI 플랫폼 구축 우선협상대상자에 삼성SDS"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-barclays-to-cut-5-00.md",
-            "title": "Barclays to cut 5,000 jobs amid AI expansion"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-lg-cns-기업용-챗gpt-이용자-.md",
-            "title": "LG CNS, 기업용 챗GPT 이용자 3만명 확보…공급부터 업무 적용 지원"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-uber-puts-all-30-000.md",
-            "title": "Uber puts all 30,000 employees on ChatGPT Work"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-윈웨이-금융권-폐쇄망-ai-개발-에이.md",
-            "title": "윈웨이, 금융권 폐쇄망 AI 개발 에이전트 'WinPilot' 선보여"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-gs칼텍스-ai로-교육부터-보고서까지.md",
-            "title": "GS칼텍스, AI로 교육부터 보고서까지…허세홍 \"개인의 도전 모여 회사 혁신\""
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-단독-lg-현대차-로봇-사업-수장-전.md",
-            "title": "[단독] LG, 현대차 '로봇 사업 수장' 전격 영입…피지컬 AI 인재 쟁탈전"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-달라진-ai-도입-잣대-aws-업스테.md",
-            "title": "달라진 AI 도입 잣대…AWS·업스테이지가 지목한 '통제력' [현장+]"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-더존비즈온-법무법인-세종-ai-거버넌.md",
-            "title": "더존비즈온·법무법인 세종, AI 거버넌스 사업 공동 추진"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-ai-에이전트도-빨리빨리-한국-오픈a.md",
-            "title": "AI 에이전트도 '빨리빨리'...한국, 오픈AI '닷츠' 이용 세계 3위"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-automating-feature-f.md",
-            "title": "Automating Feature Flag Cleanup at Scale with Multi-Agent LLM Systems: An Industrial Experience at DoorDash"
-          },
-          {
-            "date": "2026-10-23",
-            "file": "20261023-the-delegation-divid.md",
-            "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-15",
-        "title": "은행 AI 인력 전략의 두 갈래",
-        "summary": "메가뱅크의 수천 명 AI 개발직 전환과 에이전트 접점 차단·개방 분기가 맞물려 은행 AI 전략이 인력·접점 양면에서 갈리고 있다.",
-        "articles": [
-          {
-            "date": "2026-10-15",
-            "file": "20261015-jpmorgan-chase-block.md",
-            "title": "JPMorgan Chase blocks outside AI agents from directly accessing customer accounts"
-          },
-          {
-            "date": "2026-10-15",
-            "file": "20261015-bbva-joins-meta-back.md",
-            "title": "BBVA joins Meta-backed Personal Agent Protocol initiative"
-          },
-          {
-            "date": "2026-10-15",
-            "file": "20261015-mollie-to-build-bank.md",
-            "title": "Mollie to build banking layer for AI agents"
-          },
-          {
-            "date": "2026-10-15",
-            "file": "20261015-메가뱅크-환골탈태-은행-사무직-수천명.md",
-            "title": "日 메가뱅크 '환골탈태'…은행 사무직 수천명, AI개발직 전환"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-10",
-        "title": "에이전트 확장과 업무 모델 재편",
-        "summary": "에이전트가 병렬 작업팀·쇼핑 창구로 넓어지는 사이 전문 서비스의 시간 과금 모델까지 압박받고 있다.",
-        "articles": [
-          {
-            "date": "2026-10-10",
-            "file": "20261010-anthropic-s-claude-c.md",
-            "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows"
-          },
-          {
-            "date": "2026-10-10",
-            "file": "20261010-8216-pure-insanity-8.md",
-            "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop"
-          },
-          {
-            "date": "2026-10-10",
-            "file": "20261010-쿠팡이-쌀까-무신사가-쌀까-ai-멀티.md",
-            "title": "“쿠팡이 쌀까, 무신사가 쌀까”…'AI 멀티 쇼핑' 뜬다"
-          },
-          {
-            "date": "2026-10-10",
-            "file": "20261010-ai-is-changing-how-l.md",
-            "title": "AI is changing how lawyers work — and putting the billable hour under pressure"
-          }
-        ]
-      },
-      {
-        "date": "2026-10-02",
-        "title": "금융 접점, 대화형 AI로 개방",
-        "summary": "계좌·검색·여신이 대화형 AI와 외부 에이전트로 직접 연결되고 있다.",
-        "articles": [
-          {
-            "date": "2026-10-02",
-            "file": "20261002-10주만-사줘-다올증권-ai-증권계좌.md",
-            "title": "\"10주만 사줘\"…다올증권, AI-증권계좌 연결 서비스 출시"
-          },
-          {
-            "date": "2026-10-02",
-            "file": "20261002-australia-s-wemoney-.md",
-            "title": "Australia's WeMoney launches AI and open banking-powered lending assessment service"
-          },
-          {
-            "date": "2026-10-02",
-            "file": "20261002-bloomberg-closes-can.md",
-            "title": "Bloomberg closes Canoe Intelligence acquisition"
-          },
-          {
-            "date": "2026-10-02",
-            "file": "20261002-sibos-2026-don-t-jus.md",
-            "title": "Sibos 2026: Don't just think tech, think talent to achieve broad AI literacy"
-          },
-          {
-            "date": "2026-10-02",
-            "file": "20261002-키움증권-대화형-통합-ai-검색-출시.md",
-            "title": "키움증권, 대화형 통합 'AI 검색' 출시"
-          },
-          {
-            "url": "https://www.yna.co.kr/view/AKR20261002049500002",
-            "title": ""
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=674877",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-10-01",
-        "title": "AI 결정, 법과 승인 게이트로",
-        "summary": "에이전트·인사 AI의 최종 판단에 사람과 법적 책임이 다시 묶이고 있다.",
-        "articles": [
-          {
-            "date": "2026-10-01",
-            "file": "20261001-openai-is-sued-over-.md",
-            "title": "OpenAI is sued over rogue AI Hugging Face cyberattack"
-          },
-          {
-            "date": "2026-10-01",
-            "file": "20261001-ftc-launches-sweepin.md",
-            "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns"
-          },
-          {
-            "date": "2026-10-01",
-            "file": "20261001-here-s-how-tech-lead.md",
-            "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal"
-          },
-          {
-            "date": "2026-10-01",
-            "file": "20261001-california-gov-gavin.md",
-            "title": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto"
-          },
-          {
-            "date": "2026-10-01",
-            "file": "20261001-오픈ai-디시전스-api-ai-에이전.md",
-            "title": "오픈AI '디시전스 API', AI 에이전트 안전장치로 주목"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-30",
-        "title": "도입 성과, 공시 지표로 증명 단계",
-        "summary": "AI 효과를 외부에서 검증 가능한 숫자로 내놓는 기업이 다음 수주에서 앞서간다.",
-        "articles": [
-          {
-            "date": "2026-09-30",
-            "file": "20260930-sibos-2026-google-cl.md",
-            "title": "Sibos 2026: Google Cloud reveals banks are moving from AI copilots to autonomous workflows"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-lgu-ai로-상담-대기-47초-5초.md",
-            "title": "LGU+, AI로 상담 대기 47초→5초…AICC 기업시장 공략"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-게시판-bc카드-법률ai로-준법업무-.md",
-            "title": "[게시판] BC카드, 법률AI로 준법업무 혁신…리걸테크기업과 MOU"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-지니언스-ai-업무-자동화로-주-4-.md",
-            "title": "지니언스, AI 업무 자동화로 '주 4.5일제' 시범 운영"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-kb손해보험-민원-10-줄였다-체계-.md",
-            "title": "KB손해보험 민원 10% 줄였다…체계 고도화 주역은 AI 에이전트"
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-hd현대-ai-활용-관리-문화-확산-.md",
-            "title": "HD현대, AI 활용·관리 문화 확산…\"실무 교육으로 '코파일럿' 이용률↑\""
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-롯데면세점-신세계인터내셔날-ai-전환.md",
-            "title": "롯데면세점·신세계인터내셔날 \"AI 전환의 핵심은 현업\""
-          },
-          {
-            "date": "2026-09-30",
-            "file": "20260930-ai-시대-일의-재편-skb-직원들의.md",
-            "title": "[AI 시대 일의 재편] SKB 직원들의 AI 활용…프로세스가 달라졌다"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=674714",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-28",
-        "title": "금융권 AI, 운영 단계로",
-        "summary": "은행·운용사가 AI를 실제 고객 서비스와 전사 업무에 올리기 시작했다.",
-        "articles": [
-          {
-            "date": "2026-09-28",
-            "file": "20260928-포지큐브-하나은행에-ai-에이전트-서.md",
-            "title": "포지큐브, 하나은행에 AI 에이전트 서비스 구축...\"금융 AX 가속\""
-          },
-          {
-            "date": "2026-09-28",
-            "file": "20260928-ai가-내-펀드-매일-봐준다-농협은행.md",
-            "title": "AI가 내 펀드 매일 봐준다…농협은행 ‘NH펀드케어’ 출시"
-          },
-          {
-            "date": "2026-09-28",
-            "file": "20260928-한화운용-ai-플랫폼-오딘-오픈-디지.md",
-            "title": "한화운용, AI 플랫폼 '오딘' 오픈…\"디지털 전환 가속\""
-          },
-          {
-            "date": "2026-09-28",
-            "file": "20260928-singapore-to-train-8.md",
-            "title": "Singapore to train 80,000 FS sector employees in AI skills"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-27",
-        "title": "금융·공공, AI를 창구 업무에",
-        "summary": "감원보다 역할 재배치로 AI를 현장 업무에 넣고 있다.",
-        "articles": [
-          {
-            "date": "2026-09-27",
-            "file": "20260927-사이트-박현주-nh농협은행-부행장-a.md",
-            "title": "[人사이트] 박현주 NH농협은행 부행장 “AI와 상담직원이 협업해 고객 금융여정 지원”"
-          },
-          {
-            "date": "2026-09-27",
-            "file": "20260927-스모어톡-신한은행에-숏폼-영상-ai-.md",
-            "title": "스모어톡, 신한은행에 숏폼 영상 AI 공급…금융권 유스케이스 첫 확보"
-          },
-          {
-            "date": "2026-09-27",
-            "file": "20260927-기획처-내부-업무망에-국산-llm-도.md",
-            "title": "기획처, 내부 업무망에 국산 LLM 도입…공무원 AI 활용 확대"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-24",
-        "title": "AI 계약·인력 셈법 재편",
-        "summary": "할인·사용량 과금과 인력 역수입이 도입 ROI 계산을 바꾼다.",
-        "articles": [
-          {
-            "date": "2026-09-24",
-            "file": "20260924-ringg-s-ai-agents-re.md",
-            "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
-          },
-          {
-            "date": "2026-09-24",
-            "file": "20260924-ema-raises-77m-as-ai.md",
-            "title": "Ema raises $77M as AI starts eating into enterprise software and services"
-          },
-          {
-            "date": "2026-09-24",
-            "file": "20260924-alibaba-launches-qwe.md",
-            "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent"
-          },
-          {
-            "date": "2026-09-24",
-            "file": "20260924-ai프리즘-ai-투자-환멸의-골짜기-.md",
-            "title": "[AI프리즘] AI 투자 '환멸의 골짜기'…사람 줄이기가 답일까"
-          },
-          {
-            "date": "2026-09-24",
-            "file": "20260924-ms-코파일럿-슈퍼-앱-전환-맞춰-최.md",
-            "title": "MS, 코파일럿 '슈퍼 앱' 전환 맞춰 최대 50% 파격 할인"
-          },
-          {
-            "date": "2026-09-24",
-            "file": "20260924-감원하던-아마존의-변심-ai-인력-부.md",
-            "title": "감원하던 아마존의 변심…AI 인력 부족에 전직원 복귀 러브콜"
-          }
-        ]
-      },
-      {
-        "date": "2026-09-21",
-        "title": "금융·현장 AI, 운영에서 상품까지",
-        "summary": "내부 업무 적용에 더해 AI 자체가 판매 상품 라인업으로 올라섰다.",
-        "articles": [
-          {
-            "date": "2026-09-21",
-            "file": "20260921-50대-서민이-투자전략-물어봐도-ai.md",
-            "title": "50대 서민이 투자전략 물어봐도 ... AI가 그를 '20대 고소득자'로 보는 까닭은?"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-ant-international-la.md",
-            "title": "Ant International launches financial AI stack"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-삼성화재-ai로-피난훈련-효과-평가한.md",
-            "title": "삼성화재, AI로 피난훈련 효과 평가한다…정량평가 시스템 개발"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-부산-경남은행-신입행원-공개채용-디지.md",
-            "title": "부산·경남은행 신입행원 공개채용…디지털 역량 갖춘 인재 선발"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-미래에셋운용-tiger-피지컬ai밸류.md",
-            "title": "미래에셋운용, TIGER 피지컬AI밸류체인 ETF 상장"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-bnk운용-미국-ai-우주항공-양자컴.md",
-            "title": "BNK운용, '미국 AI·우주항공·양자컴퓨팅 투자' 펀드 출시"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-이규성-삼성서울병원-ax추진단장-ai.md",
-            "title": "이규성 삼성서울병원 AX추진단장 “AI, 사람 대체 아닌 지원 도구…환자 케어 질이 최종 목표”"
-          },
-          {
-            "date": "2026-09-21",
-            "file": "20260921-이상직-변호사의-생성과-소멸-28-금.md",
-            "title": "[이상직 변호사의 생성과 소멸] 〈28〉금융이 AI에게 잘하려면"
-          },
-          {
-            "url": "https://www.etnews.com/20260921000380",
-            "title": ""
-          }
-        ]
-      },
-      {
-        "date": "2026-09-20",
-        "title": "실행 체계가 성과를 가른다",
-        "summary": "도구 확보가 아니라 지휘 조직과 비용 관리가 도입 성과를 결정하는 국면이다.",
-        "articles": [
-          {
-            "date": "2026-09-20",
-            "file": "20260920-lg이노텍-ai로-최적-부품-탐색-견.md",
-            "title": "LG이노텍, AI로 '최적 부품' 탐색…견적 산출 시간 70% 줄였다"
-          },
-          {
-            "date": "2026-09-20",
-            "file": "20260920-유베이스가-그리는-ai-시대-컨택센터.md",
-            "title": "유베이스가 그리는 AI 시대 컨택센터 생태계는"
-          },
-          {
-            "date": "2026-09-20",
-            "file": "20260920-caio-포럼-2차-세미나-ai-에이.md",
-            "title": "[CAIO 포럼 2차 세미나] “AI 에이전트 시대, '토큰 거버넌스'가 AX 성과 가른다”"
-          },
-          {
-            "date": "2026-09-20",
-            "file": "20260920-사설-caio-지휘시대-우리가-앞서가.md",
-            "title": "[사설] CAIO 지휘시대, 우리가 앞서가자"
-          },
-          {
-            "date": "2026-09-20",
-            "file": "20260920-caio-서밋-2026-하정우-부위원.md",
-            "title": "[CAIO 서밋 2026] 하정우 부위원장 “기업 AX, CEO는 물론 CAIO가 앞장서야”"
-          },
-          {
-            "date": "2026-09-20",
-            "file": "20260920-ai-시대-일의-재편-코더서-검증자로.md",
-            "title": "[AI 시대 일의 재편] 코더서 검증자로…진화하는 SKT 개발자 현장"
           }
         ]
       }
