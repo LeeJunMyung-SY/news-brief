@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-20",
+  "updated_at": "2026-11-20T08:20:45.661032+09:00",
+  "run_id": "run_20261120_082045",
+  "summary_ko": "앤트로픽 상장이 AI 자본을 시험대에 올리고 통제·일탈 리스크가 현실화됐다.",
+  "issues": [
+    {
+      "title": "앤트로픽 상장, AI 자본의 시험대",
+      "summary_ko": "상장 흥행과 AI주 약세가 엇갈리며 자본이 수익 증명을 가려낸다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-20",
+          "file": "20261120-앤트로픽-나스닥-상장-첫날-기업가치-.md",
+          "title": "앤트로픽, 나스닥 상장 첫날 기업가치 2조달러…스페이스X 추월"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261120052957",
+          "title": ""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-anthropic-s-ipo-puts.md",
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12213721",
+          "title": ""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-ai-industry-growth-r.md",
+          "title": "AI industry growth remains strong, but the pace is slowing"
+        },
+        {
+          "url": "https://www.finextra.com/newsarticle/48785/100000-uk-retail-investors-score-anthropic-shares?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "대중 칩·모델 통제의 실물 차단",
+      "summary_ko": "수출 통제가 출하 중단과 클라우드 접근 제한으로 실행 단계에 들어섰다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-20",
+          "file": "20261120-미국-중국-반도체-수출-허가-강화-삼.md",
+          "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단"
+        },
+        {
+          "url": "https://the-decoder.com/chinese-tech-firms-face-a-double-hit-as-chip-shipments-stop-and-overseas-cloud-access-disappears/",
+          "title": ""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-commerce-approved-sa.md",
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-ms-바이트댄스에-오픈ai-모델-공급.md",
+          "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217586",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트 일탈·AI 악용의 현실화",
+      "summary_ko": "에이전트 통제 실패와 AI 악용이 실제 사고·적발로 확인됐다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-20",
+          "file": "20261120-these-tech-outages-a.md",
+          "title": "These tech outages are giving Y2K, AI agent style"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-meta-s-ai-agent-muse.md",
+          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-an-openai-agent-assi.md",
+          "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool"
+        },
+        {
+          "url": "https://www.etnews.com/20261119000443",
+          "title": ""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-수능-부정행위-98명-적발-ai-스마.md",
+          "title": "수능 부정행위 98명 적발…AI 스마트안경·초소형 카메라 사용"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-커닝-걸리면-국가자격시험-10년-못본.md",
+          "title": "커닝 걸리면 국가자격시험 10년 못본다…수석·차석 점수도 공개"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-with-attacks-on-the-.md",
+          "title": "With attacks on the rise, UK regulators clarify cyber expectations"
+        }
+      ]
+    },
+    {
+      "title": "사업화 중심의 조직·자본 재편",
+      "summary_ko": "인사와 장기 자본이 AI 인프라·피지컬 AI 사업화로 쏠리고 있다.",
+      "topics": [
+        "ai_industry",
+        "physical_ai",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-20",
+          "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
+          "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-lg-cns-배민-부사장-승진-산업-.md",
+          "title": "LG CNS, 배민 부사장 승진…산업 전반으로 AX 역할 확대"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
+          "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-data-center-electric.md",
+          "title": "Data center electricity use could double by 2030, IEA says"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-내년-피지컬ai-실증사업-짝짓기-사전.md",
+          "title": "내년 피지컬AI 실증사업 '짝짓기' 사전 행사에 112개 기업 몰려"
+        }
+      ]
+    }
+  ]
+}
