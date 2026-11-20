@@ -1,7 +1,7 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-20T08:20:45.661032+09:00",
-  "run_id": "run_20261120_082045",
+  "updated_at": "2026-11-20T12:13:49.075976+09:00",
+  "run_id": "run_20261120_121349",
   "summary_ko": "엔비디아 공백과 앤트로픽 상장 속 AI 경쟁이 통제·책임·수익 증명으로 옮겨간 주.",
   "issues": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "title": "앤트로픽 상장과 AI 투자 선별",
-      "body_ko": "역대 최대 상장에도 AI주는 약세여서 자본이 수익을 증명한 기업만 가려내고 있다.",
+      "body_ko": "역대 최대 상장 뒤 아시아 기술주까지 급락해 자본이 수익을 증명한 기업만 가려낸다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -84,22 +84,33 @@
           "title": "앤트로픽, 나스닥 상장 첫날 기업가치 2조달러…스페이스X 추월"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261120052957",
-          "title": ""
-        },
-        {
           "date": "2026-11-20",
           "file": "20261120-anthropic-s-ipo-puts.md",
           "title": "Anthropic’s IPO puts AI’s circular financing boom to the test"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-softbank-plunges-ove.md",
+          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-ai-시장-추가-조정-있을-것-imf.md",
+          "title": "\"AI 시장 추가 조정 있을 것\"…IMF 총재 '경고'"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12214311",
+          "title": ""
         }
       ]
     },
     {
-      "title": "전력·자본의 인프라 쏠림",
-      "body_ko": "전력 수요 배증 전망 속에 장기 자본이 인프라로 향하고 원가 변수는 늘고 있다.",
+      "title": "전력·자본·제도의 인프라 쏠림",
+      "body_ko": "전력 수요 급증 전망 속에 장기 자본과 규제 특례가 인프라 확충으로 모였다.",
       "topics": [
         "ai_compute_energy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -131,12 +142,17 @@
           "date": "2026-11-20",
           "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
           "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-비수도권-50mw-이하-aidc-전력.md",
+          "title": "비수도권 50MW 이하 AIDC 전력평가 면제...지원 기준 구체화"
         }
       ]
     },
     {
-      "title": "에이전트 거래 확산과 책임 공백",
-      "body_ko": "에이전트가 결제 주체가 되는 사이 일탈·장애 사례가 쌓여 책임 설계가 시급해졌다.",
+      "title": "금융 AI의 실행 확산과 책임 공백",
+      "body_ko": "에이전트 결제와 인력 재편이 현실화되는 사이 사고 책임 설계는 뒤처져 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -175,14 +191,24 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-an-openai-agent-assi.md",
-          "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool"
+          "file": "20261120-농협-명퇴금-2배로-신한-우리-12월.md",
+          "title": "농협 명퇴금 2배로…신한·우리 12월 희퇴, 은행권 'AI 인력 재편'"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-미래에셋증권-aws-기반-금융상품-a.md",
+          "title": "미래에셋증권, AWS 기반 금융상품 AI 검색 서비스 운영"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-fca-opens-ai-spotlig.md",
+          "title": "FCA opens AI Spotlight Observatory"
         }
       ]
     },
     {
       "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 부정과 해킹이 실제 적발·공격으로 확인되며 제재가 상시 제도로 굳어졌다.",
+      "body_ko": "AI 부정이 대량 적발되고 자격시험 신뢰까지 흔들리며 제재가 상시 제도로 굳어졌다.",
       "topics": [
         "ai_policy",
         "ai_workforce_training",
@@ -215,13 +241,19 @@
           "title": "커닝 걸리면 국가자격시험 10년 못본다…수석·차석 점수도 공개"
         },
         {
-          "url": "https://www.etnews.com/20261119000443",
-          "title": ""
-        },
-        {
           "date": "2026-11-20",
           "file": "20261120-with-attacks-on-the-.md",
           "title": "With attacks on the rise, UK regulators clarify cyber expectations"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-ai로-세무사-리트-풀어보니-만점-황.md",
+          "title": "AI로 세무사·리트 풀어보니 '만점'…황정아 “전수조사해야”"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-수능-전자기기-부정행위-111건-적발.md",
+          "title": "수능 전자기기 부정행위 111건 적발…실제 사용 5건"
         }
       ]
     }
