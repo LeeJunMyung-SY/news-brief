@@ -1,12 +1,12 @@
 {
   "date": "2026-11-20",
-  "updated_at": "2026-11-20T12:13:49.075976+09:00",
-  "run_id": "run_20261120_121349",
-  "summary_ko": "앤트로픽 상장 뒤 AI주가 흔들리고 금융권은 AI발 인력·서비스 재편에 들어갔다.",
+  "updated_at": "2026-11-20T16:26:33.524066+09:00",
+  "run_id": "run_20261120_162633",
+  "summary_ko": "AI 자본 선별 속에 칩 통제가 계약·소송으로 번지고 금융권은 재편 숙제를 안았다.",
   "issues": [
     {
       "title": "앤트로픽 상장, AI 자본의 시험대",
-      "summary_ko": "상장 흥행에도 아시아 기술주가 급락해 자본의 선별이 뚜렷해졌다.",
+      "summary_ko": "상장 흥행 뒤 급락과 운용업계의 고평가 경계가 겹쳐 선별이 뚜렷해졌다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -33,38 +33,31 @@
           "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12214311",
-          "title": ""
-        },
-        {
           "date": "2026-11-20",
           "file": "20261120-ai-시장-추가-조정-있을-것-imf.md",
           "title": "\"AI 시장 추가 조정 있을 것\"…IMF 총재 '경고'"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261120103634",
-          "title": ""
-        },
-        {
           "date": "2026-11-20",
           "file": "20261120-돈-버는-ai-만-골라-담는다-ai-.md",
           "title": "'돈 버는 AI'만 골라 담는다…AI 모델·플랫폼 ETF 다음달 상장"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
+          "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”"
         }
       ]
     },
     {
-      "title": "금융권 AI, 인력·서비스 재편",
-      "summary_ko": "AI 자동화가 은행 인력 감축과 증권사 지식 서비스로 구체화됐다.",
+      "title": "금융권 AI, 재편에 보안·규격 숙제",
+      "summary_ko": "인력·서비스 재편에 보안 책임과 결제 규격 종속 문제가 더해졌다.",
       "topics": [
         "금융회사 AI",
-        "ai_policy"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-11-20",
-          "file": "20261120-with-attacks-on-the-.md",
-          "title": "With attacks on the rise, UK regulators clarify cyber expectations"
-        },
         {
           "date": "2026-11-20",
           "file": "20261120-농협-명퇴금-2배로-신한-우리-12월.md",
@@ -81,14 +74,29 @@
           "title": "FCA opens AI Spotlight Observatory"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=679234",
+          "date": "2026-11-20",
+          "file": "20261120-with-attacks-on-the-.md",
+          "title": "With attacks on the rise, UK regulators clarify cyber expectations"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
+          "title": "AI 해킹 고도화에…금감원, 코인사업자에 \"사고 발생 시 엄정 대응\""
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=679249",
           "title": ""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-finveriqa-financial-.md",
+          "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification"
         }
       ]
     },
     {
-      "title": "AI 악용·에이전트 일탈의 현실화",
-      "summary_ko": "AI 부정이 수치로 확인되며 시험 제도 자체의 재설계 요구로 번졌다.",
+      "title": "AI 악용·일탈과 평가 제도의 균열",
+      "summary_ko": "최신 모델의 수능 만점까지 확인돼 평가 제도 재설계 압력이 커졌다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -127,19 +135,23 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-수능-전자기기-부정행위-111건-적발.md",
-          "title": "수능 전자기기 부정행위 111건 적발…실제 사용 5건"
+          "file": "20261120-gpt-6-2-아스트라-제미나이-4-.md",
+          "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-seoyun-refusal-induc.md",
+          "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines"
         }
       ]
     },
     {
-      "title": "인프라 통제·특례와 미래사업 인사",
-      "summary_ko": "칩 통제와 국내 규제 특례, 경영진 인사가 모두 AI 인프라와 로봇으로 모였다.",
+      "title": "칩 통제의 확산과 인프라 제도화",
+      "summary_ko": "대중 통제가 계약 취소·소송·조사로 번지는 사이 인허가 입법은 속도를 냈다.",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
-        "ai_industry",
-        "physical_ai"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -154,16 +166,6 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
-          "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
-        },
-        {
-          "date": "2026-11-20",
-          "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
-          "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
-        },
-        {
-          "date": "2026-11-20",
           "file": "20261120-data-center-electric.md",
           "title": "Data center electricity use could double by 2030, IEA says"
         },
@@ -174,13 +176,42 @@
         },
         {
           "date": "2026-11-20",
+          "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
+          "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
+        },
+        {
+          "date": "2026-11-20",
           "file": "20261120-삼성-위기-속-꺼낸-투톱-겸직-마침표.md",
           "title": "삼성, 위기 속 꺼낸 '투톱 겸직' 마침표…전영현·노태문 신사업 집중"
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-로보티즈-젠슨-황-시연-오리-로봇에-.md",
-          "title": "로보티즈, 젠슨 황 시연 오리 로봇에 부품 40억 공급"
+          "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+          "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+          "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+          "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217612",
+          "title": ""
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-senate-passes-baaja-.md",
+          "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+        },
+        {
+          "date": "2026-11-20",
+          "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+          "title": "국산 NPU 7개사 만난 국가AI전략위…\"실증부터 판로까지 지원\""
         }
       ]
     }

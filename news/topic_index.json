@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-20T03:14:00+00:00",
+  "generated_at": "2026-11-20T07:26:47+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1308,
+      "count": 1311,
       "latest_date": "2026-11-20"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1723,
+      "count": 1728,
       "latest_date": "2026-11-20"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1745,
+      "count": 1754,
       "latest_date": "2026-11-20"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 4043,
+      "count": 4053,
       "latest_date": "2026-11-20"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1344,
+      "count": 1349,
       "latest_date": "2026-11-20"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1123,
+      "count": 1128,
       "latest_date": "2026-11-20"
     },
     {
@@ -82,7 +82,7 @@
       "key": "ai_workforce_training",
       "label": "ai_workforce_training",
       "description": "",
-      "count": 90,
+      "count": 92,
       "latest_date": "2026-11-20"
     },
     {
@@ -141,6 +141,36 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-애플-시리-넘어서는-범용-ai-에이전.md",
+        "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#org-change",
+          "#computer-use",
+          "#apple",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217602"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-ai-리더스-가트너가-내다본-2027.md",
+        "title": "[AI 리더스] 가트너가 내다본 2027년…'AI가 기업 SW 시장 바꾼다'",
+        "importance": 6,
+        "tags": [
+          "#coding",
+          "#saas",
+          "#enterprise-ai",
+          "#gartner",
+          "#market-outlook"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119110158"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-apple-may-be-develop.md",
         "title": "Apple may be developing its own AI agent that runs your Mac",
         "importance": 6,
@@ -152,6 +182,36 @@
         ],
         "source": "TechCrunch AI",
         "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-auto-alpha-a-framewo.md",
+        "title": "Auto-Alpha: A Framework for Autonomous Factor Research",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#quant",
+          "#asset-management",
+          "#agent-framework",
+          "#human-in-the-loop"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.25732"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-finveriqa-financial-.md",
+        "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#agent-framework",
+          "#mcp",
+          "#verification"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.25071"
       },
       {
         "date": "2026-11-20",
@@ -167,6 +227,21 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-메타-ai-기기-뮤즈-참-300달러에.md",
+        "title": "메타, AI 기기 '뮤즈 참' 300달러에 연말 출시 추진...1년 무료 5G 제공",
+        "importance": 6,
+        "tags": [
+          "#ai-device",
+          "#meta",
+          "#monetization",
+          "#wearable",
+          "#telecom-bundle"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217601"
       },
       {
         "date": "2026-11-20",
@@ -25177,6 +25252,51 @@
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217557"
       },
       {
+        "date": "2026-11-20",
+        "file": "20261120-엔비디아-dllm-개발사-인셉션-67.md",
+        "title": "엔비디아, dLLM 개발사 인셉션 6700억 이상에 인수 협상",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#nvidia",
+          "#diffusion-llm",
+          "#talent",
+          "#model-strategy"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217611"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-beam-model-technical.md",
+        "title": "Beam Model Technical Report",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#model-release",
+          "#mixture-of-experts",
+          "#inference-efficiency",
+          "#coding"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.26358"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-gpt-6-2-아스트라-제미나이-4-.md",
+        "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG",
+        "importance": 6,
+        "tags": [
+          "#benchmark",
+          "#reasoning",
+          "#korean-llm",
+          "#exam",
+          "#model-comparison"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217604"
+      },
+      {
         "date": "2026-11-19",
         "file": "20261119-google-ships-gemini-.md",
         "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
@@ -44051,6 +44171,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+        "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#amd",
+          "#china",
+          "#short-seller",
+          "#compliance-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217614"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-an-openai-agent-assi.md",
         "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
         "importance": 7,
@@ -44126,6 +44261,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-senate-passes-baaja-.md",
+        "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+        "importance": 7,
+        "tags": [
+          "#permitting-reform",
+          "#regulation",
+          "#data-center",
+          "#energy",
+          "#us-congress"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-with-attacks-on-the-.md",
         "title": "With attacks on the rise, UK regulators clarify cyber expectations",
         "importance": 7,
@@ -44138,6 +44288,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+        "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#gpu-leasing",
+          "#china",
+          "#neocloud",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217613"
       },
       {
         "date": "2026-11-20",
@@ -44156,6 +44321,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+        "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부",
+        "importance": 7,
+        "tags": [
+          "#nvidia",
+          "#investigation",
+          "#export-control",
+          "#securities-law",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120135739"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-커닝-걸리면-국가자격시험-10년-못본.md",
         "title": "커닝 걸리면 국가자격시험 10년 못본다…수석·차석 점수도 공개",
         "importance": 7,
@@ -44170,6 +44350,36 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
+        "title": "AI 해킹 고도화에…금감원, 코인사업자에 '사고 발생 시 엄정 대응'",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#cybersecurity",
+          "#crypto",
+          "#fss"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120134402"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-ai는-지금-ai-고용-충격-대비-a.md",
+        "title": "[AI는 지금] 'AI 고용 충격 대비'…APEC 정상들, 노동자 권리 보호 담은 '선전 전망' 채택",
+        "importance": 6,
+        "tags": [
+          "#apec",
+          "#workforce",
+          "#reskilling",
+          "#labor-policy",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120142917"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-fsd-온로드-기술은-발전하는데-정부.md",
         "title": "[FSD 온로드] 기술은 발전하는데 정부 움직임은 느리다",
         "importance": 6,
@@ -44181,6 +44391,51 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=679230"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-seoyun-refusal-induc.md",
+        "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#exam-integrity",
+          "#ai-glasses",
+          "#vlm",
+          "#safety"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.26033"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-whose-risks-count-wh.md",
+        "title": "Whose Risks Count? What 1,901 AI Incidents Reveal About Corporate Disclosures",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#disclosure",
+          "#ai-incident",
+          "#sec",
+          "#governance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.25841"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+        "title": "국산 NPU 7개사 만난 국가AI전략위…'실증부터 판로까지 지원'",
+        "importance": 6,
+        "tags": [
+          "#npu",
+          "#sovereign-ai",
+          "#ai-semiconductor",
+          "#industrial-policy",
+          "#public-procurement"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120103721"
       },
       {
         "date": "2026-11-20",
@@ -69304,6 +69559,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+        "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#amd",
+          "#china",
+          "#short-seller",
+          "#compliance-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217614"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-anthropic-s-ipo-puts.md",
         "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
         "importance": 7,
@@ -69392,6 +69662,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-senate-passes-baaja-.md",
+        "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+        "importance": 7,
+        "tags": [
+          "#permitting-reform",
+          "#regulation",
+          "#data-center",
+          "#energy",
+          "#us-congress"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-softbank-plunges-ove.md",
         "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
         "importance": 7,
@@ -69422,6 +69707,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+        "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#gpu-leasing",
+          "#china",
+          "#neocloud",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217613"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-삼성-위기-속-꺼낸-투톱-겸직-마침표.md",
         "title": "삼성, 위기 속 꺼낸 '투톱 겸직' 마침표…전영현·노태문 신사업 집중",
         "importance": 7,
@@ -69434,6 +69734,66 @@
         ],
         "source": "블로터",
         "url": "https://www.bloter.net/news/articleView.html?idxno=679238"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-애플-시리-넘어서는-범용-ai-에이전.md",
+        "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
+        "importance": 7,
+        "tags": [
+          "#agent-framework",
+          "#org-change",
+          "#computer-use",
+          "#apple",
+          "#enterprise-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217602"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-엔비디아-dllm-개발사-인셉션-67.md",
+        "title": "엔비디아, dLLM 개발사 인셉션 6700억 이상에 인수 협상",
+        "importance": 7,
+        "tags": [
+          "#acquisition",
+          "#nvidia",
+          "#diffusion-llm",
+          "#talent",
+          "#model-strategy"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217611"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+        "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부",
+        "importance": 7,
+        "tags": [
+          "#nvidia",
+          "#investigation",
+          "#export-control",
+          "#securities-law",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120135739"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-ai-리더스-가트너가-내다본-2027.md",
+        "title": "[AI 리더스] 가트너가 내다본 2027년…'AI가 기업 SW 시장 바꾼다'",
+        "importance": 6,
+        "tags": [
+          "#coding",
+          "#saas",
+          "#enterprise-ai",
+          "#gartner",
+          "#market-outlook"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261119110158"
       },
       {
         "date": "2026-11-20",
@@ -69494,6 +69854,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+        "title": "국산 NPU 7개사 만난 국가AI전략위…'실증부터 판로까지 지원'",
+        "importance": 6,
+        "tags": [
+          "#npu",
+          "#sovereign-ai",
+          "#ai-semiconductor",
+          "#industrial-policy",
+          "#public-procurement"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120103721"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-돈-버는-ai-만-골라-담는다-ai-.md",
         "title": "'돈 버는 AI'만 골라 담는다…AI 모델·플랫폼 ETF 다음달 상장",
         "importance": 6,
@@ -69509,6 +69884,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-메타-ai-기기-뮤즈-참-300달러에.md",
+        "title": "메타, AI 기기 '뮤즈 참' 300달러에 연말 출시 추진...1년 무료 5G 제공",
+        "importance": 6,
+        "tags": [
+          "#ai-device",
+          "#meta",
+          "#monetization",
+          "#wearable",
+          "#telecom-bundle"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217601"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-메타-스마트폰-없이-쓰는-ai-비서-.md",
         "title": "메타, 스마트폰 없이 쓰는 AI 비서 '뮤즈 참' 12월 출시",
         "importance": 6,
@@ -69521,6 +69911,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261120103034"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
+        "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”",
+        "importance": 6,
+        "tags": [
+          "#securities",
+          "#asset-management",
+          "#ai-valuation",
+          "#survey",
+          "#market-risk"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12214620"
       },
       {
         "date": "2026-11-20",
@@ -136454,6 +136859,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+        "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#amd",
+          "#china",
+          "#short-seller",
+          "#compliance-risk"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217614"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-anthropic-s-ipo-puts.md",
         "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
         "importance": 7,
@@ -136512,6 +136932,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-senate-passes-baaja-.md",
+        "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+        "importance": 7,
+        "tags": [
+          "#permitting-reform",
+          "#regulation",
+          "#data-center",
+          "#energy",
+          "#us-congress"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
         "title": "국민연금 'AI전력 다각투자' … KIC '해외자본 韓으로 유치'",
         "importance": 7,
@@ -136524,6 +136959,21 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12213878"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+        "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소",
+        "importance": 7,
+        "tags": [
+          "#export-control",
+          "#gpu-leasing",
+          "#china",
+          "#neocloud",
+          "#regulation"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217613"
       },
       {
         "date": "2026-11-20",
@@ -136542,6 +136992,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+        "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부",
+        "importance": 7,
+        "tags": [
+          "#nvidia",
+          "#investigation",
+          "#export-control",
+          "#securities-law",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120135739"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-ai는-국가-안보자산-투자-꺾이는일-.md",
         "title": "'AI는 국가 안보자산 투자 꺾이는일 없다'",
         "importance": 6,
@@ -136553,6 +137018,21 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12213887"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+        "title": "국산 NPU 7개사 만난 국가AI전략위…'실증부터 판로까지 지원'",
+        "importance": 6,
+        "tags": [
+          "#npu",
+          "#sovereign-ai",
+          "#ai-semiconductor",
+          "#industrial-policy",
+          "#public-procurement"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120103721"
       },
       {
         "date": "2026-11-19",
@@ -155902,6 +156382,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
+        "title": "AI 해킹 고도화에…금감원, 코인사업자에 '사고 발생 시 엄정 대응'",
+        "importance": 6,
+        "tags": [
+          "#finance",
+          "#regulation",
+          "#cybersecurity",
+          "#crypto",
+          "#fss"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120134402"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-ai는-국가-안보자산-투자-꺾이는일-.md",
         "title": "'AI는 국가 안보자산 투자 꺾이는일 없다'",
         "importance": 6,
@@ -155913,6 +156408,36 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12213887"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-auto-alpha-a-framewo.md",
+        "title": "Auto-Alpha: A Framework for Autonomous Factor Research",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#quant",
+          "#asset-management",
+          "#agent-framework",
+          "#human-in-the-loop"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.25732"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-finveriqa-financial-.md",
+        "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#finance",
+          "#agent-framework",
+          "#mcp",
+          "#verification"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.25071"
       },
       {
         "date": "2026-11-20",
@@ -155931,6 +156456,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-whose-risks-count-wh.md",
+        "title": "Whose Risks Count? What 1,901 AI Incidents Reveal About Corporate Disclosures",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#disclosure",
+          "#ai-incident",
+          "#sec",
+          "#governance"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.25841"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-돈-버는-ai-만-골라-담는다-ai-.md",
         "title": "'돈 버는 AI'만 골라 담는다…AI 모델·플랫폼 ETF 다음달 상장",
         "importance": 6,
@@ -155943,6 +156483,21 @@
         ],
         "source": "한국경제 금융",
         "url": "https://www.hankyung.com/article/202611209732i"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
+        "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”",
+        "importance": 6,
+        "tags": [
+          "#securities",
+          "#asset-management",
+          "#ai-valuation",
+          "#survey",
+          "#market-risk"
+        ],
+        "source": "매일경제 증권",
+        "url": "https://www.mk.co.kr/news/stock/12214620"
       },
       {
         "date": "2026-11-19",
@@ -182124,6 +182679,21 @@
       },
       {
         "date": "2026-11-20",
+        "file": "20261120-ai는-지금-ai-고용-충격-대비-a.md",
+        "title": "[AI는 지금] 'AI 고용 충격 대비'…APEC 정상들, 노동자 권리 보호 담은 '선전 전망' 채택",
+        "importance": 6,
+        "tags": [
+          "#apec",
+          "#workforce",
+          "#reskilling",
+          "#labor-policy",
+          "#regulation"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261120142917"
+      },
+      {
+        "date": "2026-11-20",
         "file": "20261120-openai-s-own-researc.md",
         "title": "OpenAI's own researchers now say they value their AI tools more than nearly half their colleagues",
         "importance": 6,
@@ -182136,6 +182706,21 @@
         ],
         "source": "The Decoder",
         "url": "https://the-decoder.com/openais-own-researchers-now-say-they-value-their-ai-tools-more-than-nearly-half-their-colleagues/"
+      },
+      {
+        "date": "2026-11-20",
+        "file": "20261120-seoyun-refusal-induc.md",
+        "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines",
+        "importance": 6,
+        "tags": [
+          "#research-paper",
+          "#exam-integrity",
+          "#ai-glasses",
+          "#vlm",
+          "#safety"
+        ],
+        "source": "arXiv CS.AI",
+        "url": "https://arxiv.org/abs/2611.26033"
       },
       {
         "date": "2026-11-19",
@@ -183391,7 +183976,7 @@
       {
         "date": "2026-11-20",
         "title": "앤트로픽 상장, AI 자본의 시험대",
-        "summary": "상장 흥행에도 아시아 기술주가 급락해 자본의 선별이 뚜렷해졌다.",
+        "summary": "상장 흥행 뒤 급락과 운용업계의 고평가 경계가 겹쳐 선별이 뚜렷해졌다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -183414,29 +183999,26 @@
             "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
           },
           {
-            "url": "https://www.mk.co.kr/news/stock/12214311",
-            "title": ""
-          },
-          {
             "date": "2026-11-20",
             "file": "20261120-ai-시장-추가-조정-있을-것-imf.md",
             "title": "\"AI 시장 추가 조정 있을 것\"…IMF 총재 '경고'"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261120103634",
-            "title": ""
-          },
-          {
             "date": "2026-11-20",
             "file": "20261120-돈-버는-ai-만-골라-담는다-ai-.md",
             "title": "'돈 버는 AI'만 골라 담는다…AI 모델·플랫폼 ETF 다음달 상장"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
+            "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”"
           }
         ]
       },
       {
         "date": "2026-11-20",
-        "title": "인프라 통제·특례와 미래사업 인사",
-        "summary": "칩 통제와 국내 규제 특례, 경영진 인사가 모두 AI 인프라와 로봇으로 모였다.",
+        "title": "칩 통제의 확산과 인프라 제도화",
+        "summary": "대중 통제가 계약 취소·소송·조사로 번지는 사이 인허가 입법은 속도를 냈다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -183450,16 +184032,6 @@
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
-            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
-            "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
-          },
-          {
-            "date": "2026-11-20",
             "file": "20261120-data-center-electric.md",
             "title": "Data center electricity use could double by 2030, IEA says"
           },
@@ -183470,13 +184042,42 @@
           },
           {
             "date": "2026-11-20",
+            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
+            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
+          },
+          {
+            "date": "2026-11-20",
             "file": "20261120-삼성-위기-속-꺼낸-투톱-겸직-마침표.md",
             "title": "삼성, 위기 속 꺼낸 '투톱 겸직' 마침표…전영현·노태문 신사업 집중"
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-로보티즈-젠슨-황-시연-오리-로봇에-.md",
-            "title": "로보티즈, 젠슨 황 시연 오리 로봇에 부품 40억 공급"
+            "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+            "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+            "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+            "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=217612",
+            "title": ""
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-senate-passes-baaja-.md",
+            "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+            "title": "국산 NPU 7개사 만난 국가AI전략위…\"실증부터 판로까지 지원\""
           }
         ]
       },
@@ -192779,7 +193380,7 @@
       {
         "date": "2026-11-20",
         "title": "앤트로픽 상장, AI 자본의 시험대",
-        "summary": "상장 흥행에도 아시아 기술주가 급락해 자본의 선별이 뚜렷해졌다.",
+        "summary": "상장 흥행 뒤 급락과 운용업계의 고평가 경계가 겹쳐 선별이 뚜렷해졌다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -192802,35 +193403,27 @@
             "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
           },
           {
-            "url": "https://www.mk.co.kr/news/stock/12214311",
-            "title": ""
-          },
-          {
             "date": "2026-11-20",
             "file": "20261120-ai-시장-추가-조정-있을-것-imf.md",
             "title": "\"AI 시장 추가 조정 있을 것\"…IMF 총재 '경고'"
           },
           {
-            "url": "https://zdnet.co.kr/view/?no=20261120103634",
-            "title": ""
-          },
-          {
             "date": "2026-11-20",
             "file": "20261120-돈-버는-ai-만-골라-담는다-ai-.md",
             "title": "'돈 버는 AI'만 골라 담는다…AI 모델·플랫폼 ETF 다음달 상장"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
+            "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”"
           }
         ]
       },
       {
         "date": "2026-11-20",
-        "title": "금융권 AI, 인력·서비스 재편",
-        "summary": "AI 자동화가 은행 인력 감축과 증권사 지식 서비스로 구체화됐다.",
+        "title": "금융권 AI, 재편에 보안·규격 숙제",
+        "summary": "인력·서비스 재편에 보안 책임과 결제 규격 종속 문제가 더해졌다.",
         "articles": [
-          {
-            "date": "2026-11-20",
-            "file": "20261120-with-attacks-on-the-.md",
-            "title": "With attacks on the rise, UK regulators clarify cyber expectations"
-          },
           {
             "date": "2026-11-20",
             "file": "20261120-농협-명퇴금-2배로-신한-우리-12월.md",
@@ -192847,8 +193440,23 @@
             "title": "FCA opens AI Spotlight Observatory"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679234",
+            "date": "2026-11-20",
+            "file": "20261120-with-attacks-on-the-.md",
+            "title": "With attacks on the rise, UK regulators clarify cyber expectations"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
+            "title": "AI 해킹 고도화에…금감원, 코인사업자에 \"사고 발생 시 엄정 대응\""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=679249",
             "title": ""
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-finveriqa-financial-.md",
+            "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification"
           }
         ]
       },
@@ -198588,14 +199196,9 @@
     "ai_policy": [
       {
         "date": "2026-11-20",
-        "title": "금융권 AI, 인력·서비스 재편",
-        "summary": "AI 자동화가 은행 인력 감축과 증권사 지식 서비스로 구체화됐다.",
+        "title": "금융권 AI, 재편에 보안·규격 숙제",
+        "summary": "인력·서비스 재편에 보안 책임과 결제 규격 종속 문제가 더해졌다.",
         "articles": [
-          {
-            "date": "2026-11-20",
-            "file": "20261120-with-attacks-on-the-.md",
-            "title": "With attacks on the rise, UK regulators clarify cyber expectations"
-          },
           {
             "date": "2026-11-20",
             "file": "20261120-농협-명퇴금-2배로-신한-우리-12월.md",
@@ -198612,15 +199215,30 @@
             "title": "FCA opens AI Spotlight Observatory"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679234",
+            "date": "2026-11-20",
+            "file": "20261120-with-attacks-on-the-.md",
+            "title": "With attacks on the rise, UK regulators clarify cyber expectations"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
+            "title": "AI 해킹 고도화에…금감원, 코인사업자에 \"사고 발생 시 엄정 대응\""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=679249",
             "title": ""
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-finveriqa-financial-.md",
+            "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification"
           }
         ]
       },
       {
         "date": "2026-11-20",
-        "title": "AI 악용·에이전트 일탈의 현실화",
-        "summary": "AI 부정이 수치로 확인되며 시험 제도 자체의 재설계 요구로 번졌다.",
+        "title": "AI 악용·일탈과 평가 제도의 균열",
+        "summary": "최신 모델의 수능 만점까지 확인돼 평가 제도 재설계 압력이 커졌다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -198654,15 +199272,20 @@
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-수능-전자기기-부정행위-111건-적발.md",
-            "title": "수능 전자기기 부정행위 111건 적발…실제 사용 5건"
+            "file": "20261120-gpt-6-2-아스트라-제미나이-4-.md",
+            "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-seoyun-refusal-induc.md",
+            "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines"
           }
         ]
       },
       {
         "date": "2026-11-20",
-        "title": "인프라 통제·특례와 미래사업 인사",
-        "summary": "칩 통제와 국내 규제 특례, 경영진 인사가 모두 AI 인프라와 로봇으로 모였다.",
+        "title": "칩 통제의 확산과 인프라 제도화",
+        "summary": "대중 통제가 계약 취소·소송·조사로 번지는 사이 인허가 입법은 속도를 냈다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -198676,16 +199299,6 @@
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
-            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
-            "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
-          },
-          {
-            "date": "2026-11-20",
             "file": "20261120-data-center-electric.md",
             "title": "Data center electricity use could double by 2030, IEA says"
           },
@@ -198696,13 +199309,42 @@
           },
           {
             "date": "2026-11-20",
+            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
+            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
+          },
+          {
+            "date": "2026-11-20",
             "file": "20261120-삼성-위기-속-꺼낸-투톱-겸직-마침표.md",
             "title": "삼성, 위기 속 꺼낸 '투톱 겸직' 마침표…전영현·노태문 신사업 집중"
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-로보티즈-젠슨-황-시연-오리-로봇에-.md",
-            "title": "로보티즈, 젠슨 황 시연 오리 로봇에 부품 40억 공급"
+            "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+            "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+            "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+            "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=217612",
+            "title": ""
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-senate-passes-baaja-.md",
+            "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+            "title": "국산 NPU 7개사 만난 국가AI전략위…\"실증부터 판로까지 지원\""
           }
         ]
       },
@@ -205326,8 +205968,49 @@
     "ai_agents": [
       {
         "date": "2026-11-20",
-        "title": "AI 악용·에이전트 일탈의 현실화",
-        "summary": "AI 부정이 수치로 확인되며 시험 제도 자체의 재설계 요구로 번졌다.",
+        "title": "금융권 AI, 재편에 보안·규격 숙제",
+        "summary": "인력·서비스 재편에 보안 책임과 결제 규격 종속 문제가 더해졌다.",
+        "articles": [
+          {
+            "date": "2026-11-20",
+            "file": "20261120-농협-명퇴금-2배로-신한-우리-12월.md",
+            "title": "농협 명퇴금 2배로…신한·우리 12월 희퇴, 은행권 'AI 인력 재편'"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-미래에셋증권-aws-기반-금융상품-a.md",
+            "title": "미래에셋증권, AWS 기반 금융상품 AI 검색 서비스 운영"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-fca-opens-ai-spotlig.md",
+            "title": "FCA opens AI Spotlight Observatory"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-with-attacks-on-the-.md",
+            "title": "With attacks on the rise, UK regulators clarify cyber expectations"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
+            "title": "AI 해킹 고도화에…금감원, 코인사업자에 \"사고 발생 시 엄정 대응\""
+          },
+          {
+            "url": "https://www.bloter.net/news/articleView.html?idxno=679249",
+            "title": ""
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-finveriqa-financial-.md",
+            "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-20",
+        "title": "AI 악용·일탈과 평가 제도의 균열",
+        "summary": "최신 모델의 수능 만점까지 확인돼 평가 제도 재설계 압력이 커졌다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -205361,8 +206044,13 @@
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-수능-전자기기-부정행위-111건-적발.md",
-            "title": "수능 전자기기 부정행위 111건 적발…실제 사용 5건"
+            "file": "20261120-gpt-6-2-아스트라-제미나이-4-.md",
+            "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-seoyun-refusal-induc.md",
+            "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines"
           }
         ]
       },
@@ -211762,8 +212450,8 @@
     "llm_models": [
       {
         "date": "2026-11-20",
-        "title": "AI 악용·에이전트 일탈의 현실화",
-        "summary": "AI 부정이 수치로 확인되며 시험 제도 자체의 재설계 요구로 번졌다.",
+        "title": "AI 악용·일탈과 평가 제도의 균열",
+        "summary": "최신 모델의 수능 만점까지 확인돼 평가 제도 재설계 압력이 커졌다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -211797,8 +212485,13 @@
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-수능-전자기기-부정행위-111건-적발.md",
-            "title": "수능 전자기기 부정행위 111건 적발…실제 사용 5건"
+            "file": "20261120-gpt-6-2-아스트라-제미나이-4-.md",
+            "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-seoyun-refusal-induc.md",
+            "title": "SEOYUN: Refusal-Inducing Exam Documents for AI-Glasses Pipelines"
           }
         ]
       },
@@ -215602,8 +216295,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-20",
-        "title": "인프라 통제·특례와 미래사업 인사",
-        "summary": "칩 통제와 국내 규제 특례, 경영진 인사가 모두 AI 인프라와 로봇으로 모였다.",
+        "title": "칩 통제의 확산과 인프라 제도화",
+        "summary": "대중 통제가 계약 취소·소송·조사로 번지는 사이 인허가 입법은 속도를 냈다.",
         "articles": [
           {
             "date": "2026-11-20",
@@ -215617,16 +216310,6 @@
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
-            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
-            "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
-          },
-          {
-            "date": "2026-11-20",
             "file": "20261120-data-center-electric.md",
             "title": "Data center electricity use could double by 2030, IEA says"
           },
@@ -215637,13 +216320,42 @@
           },
           {
             "date": "2026-11-20",
+            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
+            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
+          },
+          {
+            "date": "2026-11-20",
             "file": "20261120-삼성-위기-속-꺼낸-투톱-겸직-마침표.md",
             "title": "삼성, 위기 속 꺼낸 '투톱 겸직' 마침표…전영현·노태문 신사업 집중"
           },
           {
             "date": "2026-11-20",
-            "file": "20261120-로보티즈-젠슨-황-시연-오리-로봇에-.md",
-            "title": "로보티즈, 젠슨 황 시연 오리 로봇에 부품 40억 공급"
+            "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
+            "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
+            "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-캘리포니아주-법무부-엔비디아에-조사-.md",
+            "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부"
+          },
+          {
+            "url": "https://www.aitimes.com/news/articleView.html?idxno=217612",
+            "title": ""
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-senate-passes-baaja-.md",
+            "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+          },
+          {
+            "date": "2026-11-20",
+            "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
+            "title": "국산 NPU 7개사 만난 국가AI전략위…\"실증부터 판로까지 지원\""
           }
         ]
       },
@@ -220630,53 +221342,6 @@
       }
     ],
     "physical_ai": [
-      {
-        "date": "2026-11-20",
-        "title": "인프라 통제·특례와 미래사업 인사",
-        "summary": "칩 통제와 국내 규제 특례, 경영진 인사가 모두 AI 인프라와 로봇으로 모였다.",
-        "articles": [
-          {
-            "date": "2026-11-20",
-            "file": "20261120-미국-중국-반도체-수출-허가-강화-삼.md",
-            "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-ms-바이트댄스에-오픈ai-모델-공급.md",
-            "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-lg그룹-2027년-임원인사-aidc.md",
-            "title": "LG그룹 2027년 임원인사, AIDC·로봇·피지컬AI 인재 곳곳 발탁"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
-            "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-data-center-electric.md",
-            "title": "Data center electricity use could double by 2030, IEA says"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-비수도권-50mw-이하-aidc-전력.md",
-            "title": "비수도권 50MW 이하 AIDC 전력평가 면제...지원 기준 구체화"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-삼성-위기-속-꺼낸-투톱-겸직-마침표.md",
-            "title": "삼성, 위기 속 꺼낸 '투톱 겸직' 마침표…전영현·노태문 신사업 집중"
-          },
-          {
-            "date": "2026-11-20",
-            "file": "20261120-로보티즈-젠슨-황-시연-오리-로봇에-.md",
-            "title": "로보티즈, 젠슨 황 시연 오리 로봇에 부품 40억 공급"
-          }
-        ]
-      },
       {
         "date": "2026-11-15",
         "title": "범용 AI의 생활금융·물리 영역 확장",
