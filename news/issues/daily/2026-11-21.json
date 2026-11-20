@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-21",
+  "updated_at": "2026-11-21T08:18:37.356758+09:00",
+  "run_id": "run_20261121_081837",
+  "summary_ko": "AI 증시 급락 속에 칩·모델 통제의 균열과 에이전트 접근권이 쟁점이 됐다.",
+  "issues": [
+    {
+      "title": "상장 흥행과 증시 급락의 분리",
+      "summary_ko": "선두 기업 수요는 견조하나 섹터 전반에는 회의가 짙어졌다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-21",
+          "file": "20261121-엔비디아-호실적도-못-막았다-나스닥-.md",
+          "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261120085151008",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12214904",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "칩·모델 조달 통제의 균열",
+      "summary_ko": "허가 집행의 허점이 드러나며 통제가 입지와 모델 출처로 번진다.",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-21",
+          "file": "20261121-미-상무부-중국군-연계-기업에-ai-.md",
+          "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-trump-threatens-trem.md",
+          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-spacex-s-subsidiary-.md",
+          "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-ai-클라우드-잘나가는데-알리바바-반.md",
+          "title": "AI 클라우드 잘나가는데…알리바바, 美 반도체 규제·주주 소송에 '발목'"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 접근권을 둘러싼 충돌",
+      "summary_ko": "화면 조작 에이전트 확산에 앱과 플랫폼이 접근 통제로 맞섰다.",
+      "topics": [
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-21",
+          "file": "20261121-signal-blocks-screen.md",
+          "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-apple-joins-the-race.md",
+          "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
+          "title": ""
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-researcher-plants-2m.md",
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
+        }
+      ]
+    },
+    {
+      "title": "모델 과금·활용의 실무화",
+      "summary_ko": "가격은 용도별로 쪼개지고 에이전트는 운영·결제 실무로 들어왔다.",
+      "topics": [
+        "llm_models",
+        "ai_agents",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-21",
+          "file": "20261121-오픈ai-gpt-6-2-응답-늦게-받.md",
+          "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-오픈ai-코덱스로-챗gpt-성능-문제.md",
+          "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-adyen-merchants-can-.md",
+          "title": "Adyen merchants can offer Klarna in AI agent checkout"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-the-most-misundersto.md",
+          "title": "The most misunderstood graph in AI just got a major update"
+        }
+      ]
+    }
+  ]
+}

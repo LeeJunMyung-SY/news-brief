@@ -1,12 +1,12 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-20T16:26:33.524066+09:00",
-  "run_id": "run_20261120_162633",
-  "summary_ko": "엔비디아 공백과 앤트로픽 상장 속 AI 경쟁이 통제·책임·수익 증명으로 옮겨간 주.",
+  "updated_at": "2026-11-21T08:18:37.356758+09:00",
+  "run_id": "run_20261121_081837",
+  "summary_ko": "최대 상장과 증시 급락이 엇갈린 가운데 통제·책임·수익 증명이 AI 경쟁의 축이 된 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "통제가 출하 중단과 계약 취소, 주주 소송으로 번져 공급사 전반의 리스크가 됐다.",
+      "body_ko": "통제가 계약 취소와 소송으로 번진 데 이어 허가 집행의 허점까지 드러나 불확실성이 커졌다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -40,18 +40,8 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-ms-바이트댄스에-오픈ai-모델-공급.md",
-          "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구"
-        },
-        {
-          "date": "2026-11-20",
           "file": "20261120-문샷-ai-미국-수출-규제에-2000.md",
           "title": "문샷 AI, 미국 수출 규제에 2000억 규모 엔비디아 칩 임대 계약 취소"
-        },
-        {
-          "date": "2026-11-20",
-          "file": "20261120-amd-중국-제재-기업과-거래-의혹에.md",
-          "title": "AMD, 중국 제재 기업과 거래 의혹에 주가 8% 급락...미국 조사 가능성 제기"
         },
         {
           "date": "2026-11-20",
@@ -59,14 +49,30 @@
           "title": "美 캘리포니아주 법무부, 엔비디아에 조사 소환장 발부"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217612",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-미-상무부-중국군-연계-기업에-ai-.md",
+          "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-trump-threatens-trem.md",
+          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-spacex-s-subsidiary-.md",
+          "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-ai-클라우드-잘나가는데-알리바바-반.md",
+          "title": "AI 클라우드 잘나가는데…알리바바, 美 반도체 규제·주주 소송에 '발목'"
         }
       ]
     },
     {
       "title": "앤트로픽 상장과 AI 투자 선별",
-      "body_ko": "역대 최대 상장 뒤 기술주 급락과 고평가 경계가 겹쳐 자본이 수익 증명 기업만 가려낸다.",
+      "body_ko": "역대 최대 상장은 흥행했지만 미국과 국내 증시가 급락해 자본이 수익 증명 기업만 가려낸다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -104,19 +110,27 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-ai-시장-추가-조정-있을-것-imf.md",
-          "title": "\"AI 시장 추가 조정 있을 것\"…IMF 총재 '경고'"
-        },
-        {
-          "date": "2026-11-20",
           "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
           "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-엔비디아-호실적도-못-막았다-나스닥-.md",
+          "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261120085151008",
+          "title": ""
         }
       ]
     },
     {
       "title": "전력·자본·제도의 인프라 쏠림",
-      "body_ko": "전력 수요 급증 전망 속에 장기 자본과 인허가·특례 입법이 인프라 확충으로 모였다.",
+      "body_ko": "인허가 입법은 속도를 냈지만 전력 공급 일정과 해외 입지 과세가 새 변수로 떠올랐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -159,19 +173,18 @@
           "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
         },
         {
-          "date": "2026-11-20",
-          "file": "20261120-국산-npu-7개사-만난-국가ai전략.md",
-          "title": "국산 NPU 7개사 만난 국가AI전략위…\"실증부터 판로까지 지원\""
+          "url": "https://zdnet.co.kr/view/?no=20261120171231",
+          "title": ""
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217615",
+          "url": "https://www.fnnews.com/news/202611201604521193",
           "title": ""
         }
       ]
     },
     {
       "title": "금융 AI의 실행 확산과 책임 공백",
-      "body_ko": "에이전트 결제와 인력 재편이 현실화되는 사이 보안 책임과 결제 규격 설계는 뒤처져 있다.",
+      "body_ko": "에이전트 결제와 인력 재편은 현실이 됐지만 보안 책임과 데이터 경계 설계는 뒤처져 있다.",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -210,25 +223,27 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-fca-opens-ai-spotlig.md",
-          "title": "FCA opens AI Spotlight Observatory"
-        },
-        {
-          "date": "2026-11-20",
           "file": "20261120-ai-해킹-고도화에-금감원-코인사업자.md",
           "title": "AI 해킹 고도화에…금감원, 코인사업자에 \"사고 발생 시 엄정 대응\""
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=679249",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-adyen-merchants-can-.md",
+          "title": "Adyen merchants can offer Klarna in AI agent checkout"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-researcher-plants-2m.md",
+          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
         }
       ]
     },
     {
-      "title": "AI 악용·일탈의 제재 단계 진입",
-      "body_ko": "AI 부정 대량 적발과 최신 모델의 시험 만점이 겹쳐 제재와 평가 재설계가 함께 진행된다.",
+      "title": "에이전트 일탈·악용과 접근 통제",
+      "body_ko": "AI 부정과 에이전트 일탈이 이어지자 제재와 함께 앱·플랫폼의 접근 차단이 시작됐다.",
       "topics": [
         "ai_policy",
+        "ai_agents",
         "ai_workforce_training",
         "llm_models"
       ],
@@ -255,11 +270,6 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-커닝-걸리면-국가자격시험-10년-못본.md",
-          "title": "커닝 걸리면 국가자격시험 10년 못본다…수석·차석 점수도 공개"
-        },
-        {
-          "date": "2026-11-20",
           "file": "20261120-ai로-세무사-리트-풀어보니-만점-황.md",
           "title": "AI로 세무사·리트 풀어보니 '만점'…황정아 “전수조사해야”"
         },
@@ -272,6 +282,20 @@
           "date": "2026-11-20",
           "file": "20261120-gpt-6-2-아스트라-제미나이-4-.md",
           "title": "'GPT-6.2 아스트라'·'제미나이 4 네온', 수능 만점…국산 1위는 LG"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-signal-blocks-screen.md",
+          "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-apple-joins-the-race.md",
+          "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
+          "title": ""
         }
       ]
     }
