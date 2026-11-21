@@ -1,14 +1,15 @@
 {
   "date": "2026-11-21",
-  "updated_at": "2026-11-21T08:18:37.356758+09:00",
-  "run_id": "run_20261121_081837",
-  "summary_ko": "AI 증시 급락 속에 칩·모델 통제의 균열과 에이전트 접근권이 쟁점이 됐다.",
+  "updated_at": "2026-11-21T12:13:41.073353+09:00",
+  "run_id": "run_20261121_121341",
+  "summary_ko": "AI 대표주의 신뢰가 흔들리는 가운데 통제와 접근권이 쟁점이 됐다.",
   "issues": [
     {
-      "title": "상장 흥행과 증시 급락의 분리",
-      "summary_ko": "선두 기업 수요는 견조하나 섹터 전반에는 회의가 짙어졌다.",
+      "title": "AI 대표주의 신뢰 시험",
+      "summary_ko": "상장 효과가 꺾이고 회계 의혹이 겹쳐 선두 기업도 검증 대상이 됐다.",
       "topics": [
         "ai_industry",
+        "ai_compute_energy",
         "금융회사 AI"
       ],
       "articles": [
@@ -18,22 +19,25 @@
           "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-엔비디아-sec-회계-조사에-주가-1.md",
+          "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261120085151008",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-앤트로픽-상장-이틀째-8-5-급락-공.md",
+          "title": "앤트로픽, 상장 이틀째 8.5% 급락...공모가까지 근접"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12214904",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-역대-최대-ipo-성공한-앤트로픽-오.md",
+          "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나"
         }
       ]
     },
     {
-      "title": "칩·모델 조달 통제의 균열",
-      "summary_ko": "허가 집행의 허점이 드러나며 통제가 입지와 모델 출처로 번진다.",
+      "title": "미중 AI 통제의 균열과 합의",
+      "summary_ko": "칩 통제 집행은 정치 쟁점이 되고 군사 AI에는 최소 규범이 섰다.",
       "topics": [
         "ai_policy",
         "ai_compute_energy",
@@ -59,15 +63,26 @@
           "date": "2026-11-21",
           "file": "20261121-ai-클라우드-잘나가는데-알리바바-반.md",
           "title": "AI 클라우드 잘나가는데…알리바바, 美 반도체 규제·주주 소송에 '발목'"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-트럼프-시진핑-군사-ai에-인간-통제.md",
+          "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-미-민주당-엔비디아의-메가스피드-조사.md",
+          "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수"
         }
       ]
     },
     {
-      "title": "에이전트 접근권을 둘러싼 충돌",
-      "summary_ko": "화면 조작 에이전트 확산에 앱과 플랫폼이 접근 통제로 맞섰다.",
+      "title": "에이전트 접근권과 이용 기록 통제",
+      "summary_ko": "화면 접근 차단과 이용 기록 조사로 AI 통제가 실무에 들어왔다.",
       "topics": [
         "ai_agents",
-        "ai_policy"
+        "ai_policy",
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -81,23 +96,25 @@
           "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
-          "title": ""
-        },
-        {
           "date": "2026-11-21",
           "file": "20261121-researcher-plants-2m.md",
           "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-수능-끝나도-ai-부정행위-추적-시험.md",
+          "title": "수능 끝나도 'AI 부정행위' 추적…시험장에 남은 무선 기록까지 살핀다"
         }
       ]
     },
     {
-      "title": "모델 과금·활용의 실무화",
-      "summary_ko": "가격은 용도별로 쪼개지고 에이전트는 운영·결제 실무로 들어왔다.",
+      "title": "모델 활용의 실무화와 연구 확장",
+      "summary_ko": "과금·운영은 실무로 내려오고 활용 범위는 연구와 현장으로 넓어졌다.",
       "topics": [
         "llm_models",
         "ai_agents",
-        "금융회사 AI"
+        "ai_industry",
+        "physical_ai_robotics"
       ],
       "articles": [
         {
@@ -119,6 +136,21 @@
           "date": "2026-11-21",
           "file": "20261121-the-most-misundersto.md",
           "title": "The most misunderstood graph in AI just got a major update"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-앤트로픽-수학자-클로드로-167년-난.md",
+          "title": "앤트로픽 수학자 \"클로드로 167년 난제 리만 가설 증명\"...검증 착수"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-로크웰-오토메이션-애질록스-인수-추진.md",
+          "title": "로크웰 오토메이션, 애질록스 인수 추진…피지컬 AI 강화"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-이노에이엑스-ax-매출-11배-성장-.md",
+          "title": "이노에이엑스, AX 매출 11배 성장…비과세 배당 여력 확보"
         }
       ]
     }

@@ -1,12 +1,12 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-21T08:18:37.356758+09:00",
-  "run_id": "run_20261121_081837",
-  "summary_ko": "최대 상장과 증시 급락이 엇갈린 가운데 통제·책임·수익 증명이 AI 경쟁의 축이 된 주.",
+  "updated_at": "2026-11-21T12:13:41.073353+09:00",
+  "run_id": "run_20261121_121341",
+  "summary_ko": "최대 상장과 증시 급락이 엇갈리며 통제·신뢰·수익 증명이 AI 경쟁의 축이 된 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "통제가 계약 취소와 소송으로 번진 데 이어 허가 집행의 허점까지 드러나 불확실성이 커졌다.",
+      "body_ko": "통제가 계약 취소와 소송으로 번진 데 이어 회계 조사와 집행 개입 의혹까지 겹쳤다.",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -67,12 +67,27 @@
           "date": "2026-11-21",
           "file": "20261121-ai-클라우드-잘나가는데-알리바바-반.md",
           "title": "AI 클라우드 잘나가는데…알리바바, 美 반도체 규제·주주 소송에 '발목'"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-엔비디아-sec-회계-조사에-주가-1.md",
+          "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-미-민주당-엔비디아의-메가스피드-조사.md",
+          "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-트럼프-시진핑-군사-ai에-인간-통제.md",
+          "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용"
         }
       ]
     },
     {
       "title": "앤트로픽 상장과 AI 투자 선별",
-      "body_ko": "역대 최대 상장은 흥행했지만 미국과 국내 증시가 급락해 자본이 수익 증명 기업만 가려낸다.",
+      "body_ko": "역대 최대 상장도 이틀 만에 공모가에 근접해 자본이 수익 증명 기업만 가려낸다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
@@ -119,12 +134,14 @@
           "title": "엔비디아 호실적도 못 막았다…나스닥, 기술주 매도에 5.3% 폭락"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-앤트로픽-상장-이틀째-8-5-급락-공.md",
+          "title": "앤트로픽, 상장 이틀째 8.5% 급락...공모가까지 근접"
         },
         {
-          "url": "https://www.yna.co.kr/view/AKR20261120085151008",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-역대-최대-ipo-성공한-앤트로픽-오.md",
+          "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나"
         }
       ]
     },
@@ -171,14 +188,6 @@
           "date": "2026-11-20",
           "file": "20261120-senate-passes-baaja-.md",
           "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261120171231",
-          "title": ""
-        },
-        {
-          "url": "https://www.fnnews.com/news/202611201604521193",
-          "title": ""
         }
       ]
     },
@@ -240,7 +249,7 @@
     },
     {
       "title": "에이전트 일탈·악용과 접근 통제",
-      "body_ko": "AI 부정과 에이전트 일탈이 이어지자 제재와 함께 앱·플랫폼의 접근 차단이 시작됐다.",
+      "body_ko": "AI 부정과 에이전트 일탈이 이어지자 제재와 사후 추적, 앱·플랫폼의 접근 차단이 시작됐다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -294,8 +303,9 @@
           "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
-          "title": ""
+          "date": "2026-11-21",
+          "file": "20261121-수능-끝나도-ai-부정행위-추적-시험.md",
+          "title": "수능 끝나도 'AI 부정행위' 추적…시험장에 남은 무선 기록까지 살핀다"
         }
       ]
     }
