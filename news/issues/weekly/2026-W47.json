@@ -1,7 +1,7 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-21T12:13:41.073353+09:00",
-  "run_id": "run_20261121_121341",
+  "updated_at": "2026-11-21T16:09:48.303073+09:00",
+  "run_id": "run_20261121_160948",
   "summary_ko": "최대 상장과 증시 급락이 엇갈리며 통제·신뢰·수익 증명이 AI 경쟁의 축이 된 주.",
   "issues": [
     {
@@ -147,7 +147,7 @@
     },
     {
       "title": "전력·자본·제도의 인프라 쏠림",
-      "body_ko": "인허가 입법은 속도를 냈지만 전력 공급 일정과 해외 입지 과세가 새 변수로 떠올랐다.",
+      "body_ko": "인허가는 빨라졌지만 전력 일정·해외 입지 과세에 메모리 인수 시도까지 변수가 늘었다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -188,6 +188,11 @@
           "date": "2026-11-20",
           "file": "20261120-senate-passes-baaja-.md",
           "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors"
+        },
+        {
+          "date": "2026-11-21",
+          "file": "20261121-손정의-한때-sk하이닉스-1조달러-인.md",
+          "title": "손정의, 한때 SK하이닉스 '1조달러 인수' 타진…“현재는 검토 중단”"
         }
       ]
     },
