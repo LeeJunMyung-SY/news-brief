@@ -1,23 +1,18 @@
 {
   "week": "2026-W47",
-  "updated_at": "2026-11-21T16:09:48.303073+09:00",
-  "run_id": "run_20261121_160948",
-  "summary_ko": "최대 상장과 증시 급락이 엇갈리며 통제·신뢰·수익 증명이 AI 경쟁의 축이 된 주.",
+  "updated_at": "2026-11-22T08:21:00+09:00",
+  "run_id": "run_20261122_082100",
+  "summary_ko": "최대 상장 직후 기술주가 약세장에 들며 신뢰·통제·수익 증명이 AI 경쟁의 축이 된 주.",
   "issues": [
     {
       "title": "엔비디아 공백과 美 AI 통제 강화",
-      "body_ko": "통제가 계약 취소와 소송으로 번진 데 이어 회계 조사와 집행 개입 의혹까지 겹쳤다.",
+      "body_ko": "통제가 계약 취소·소송을 거쳐 회계 조사와 순환 금융 감독으로까지 번졌다.",
       "topics": [
         "ai_policy",
         "ai_industry",
         "ai_compute_energy"
       ],
       "articles": [
-        {
-          "date": "2026-11-16",
-          "file": "20261116-congress-wants-to-ti.md",
-          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal"
-        },
         {
           "date": "2026-11-17",
           "file": "20261117-미국-중국의-해외-gpu-우회-이용-.md",
@@ -27,16 +22,6 @@
           "date": "2026-11-18",
           "file": "20261118-미-sec-젠슨-황-사임-후-엔비디아.md",
           "title": "미 SEC, 젠슨 황 사임 후 엔비디아 조사…투자자 공시 위반 여부 확인"
-        },
-        {
-          "date": "2026-11-19",
-          "file": "20261119-트럼프-행정부-미국-기업에-중국산-a.md",
-          "title": "트럼프 행정부, 미국 기업에 중국산 AI 사용 사실 공개 의무화 검토"
-        },
-        {
-          "date": "2026-11-20",
-          "file": "20261120-미국-중국-반도체-수출-허가-강화-삼.md",
-          "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단"
         },
         {
           "date": "2026-11-20",
@@ -55,21 +40,6 @@
         },
         {
           "date": "2026-11-21",
-          "file": "20261121-trump-threatens-trem.md",
-          "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"
-        },
-        {
-          "date": "2026-11-21",
-          "file": "20261121-spacex-s-subsidiary-.md",
-          "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models"
-        },
-        {
-          "date": "2026-11-21",
-          "file": "20261121-ai-클라우드-잘나가는데-알리바바-반.md",
-          "title": "AI 클라우드 잘나가는데…알리바바, 美 반도체 규제·주주 소송에 '발목'"
-        },
-        {
-          "date": "2026-11-21",
           "file": "20261121-엔비디아-sec-회계-조사에-주가-1.md",
           "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락"
         },
@@ -82,22 +52,21 @@
           "date": "2026-11-21",
           "file": "20261121-트럼프-시진핑-군사-ai에-인간-통제.md",
           "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202611211609i",
+          "title": ""
         }
       ]
     },
     {
-      "title": "앤트로픽 상장과 AI 투자 선별",
-      "body_ko": "역대 최대 상장도 이틀 만에 공모가에 근접해 자본이 수익 증명 기업만 가려낸다.",
+      "title": "최대 상장 직후 AI 투매",
+      "body_ko": "역대 최대 상장 직후 기술주가 약세장에 들어, 자본이 수익 증명 기업만 남기고 있다.",
       "topics": [
         "ai_industry",
         "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-11-17",
-          "file": "20261117-standing-on-one-leg-.md",
-          "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion"
-        },
         {
           "date": "2026-11-17",
           "file": "20261117-미-연준-대형은행-ai-위험노출액-1.md",
@@ -120,11 +89,6 @@
         },
         {
           "date": "2026-11-20",
-          "file": "20261120-softbank-plunges-ove.md",
-          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut"
-        },
-        {
-          "date": "2026-11-20",
           "file": "20261120-삼성증권-자문사-ceo-10명-중-6.md",
           "title": "삼성증권 자문사 CEO 10명 중 6명 “AI·기술주 고평가 조정이 최대 위험”"
         },
@@ -139,15 +103,24 @@
           "title": "앤트로픽, 상장 이틀째 8.5% 급락...공모가까지 근접"
         },
         {
-          "date": "2026-11-21",
-          "file": "20261121-역대-최대-ipo-성공한-앤트로픽-오.md",
-          "title": "역대 최대 IPO 성공한 앤트로픽…오픈AI도 증시 입성 탄력 받나"
+          "date": "2026-11-22",
+          "file": "20261122-us-technology-stocks.md",
+          "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up"
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-5천피-무너지고-증시-급락-ai-투매.md",
+          "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202611211616i",
+          "title": ""
         }
       ]
     },
     {
       "title": "전력·자본·제도의 인프라 쏠림",
-      "body_ko": "인허가는 빨라졌지만 전력 일정·해외 입지 과세에 메모리 인수 시도까지 변수가 늘었다.",
+      "body_ko": "인허가는 빨라졌지만 전력 일정과 담보 금융 조건이 인프라 속도를 좌우하게 됐다.",
       "topics": [
         "ai_compute_energy",
         "ai_industry",
@@ -160,11 +133,6 @@
           "title": "SKT, 효성중공업과 기가급 AIDC 전력 인프라 구축 협력"
         },
         {
-          "date": "2026-11-17",
-          "file": "20261117-삼성-sk하이닉스-역대-최대-시설투자.md",
-          "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원"
-        },
-        {
           "date": "2026-11-19",
           "file": "20261119-ai-투자-늘고-메모리값-뛰고-내년-.md",
           "title": "AI 투자 늘고 메모리값 뛰고…내년 인프라 지출 53% 급증한다"
@@ -173,11 +141,6 @@
           "date": "2026-11-20",
           "file": "20261120-data-center-electric.md",
           "title": "Data center electricity use could double by 2030, IEA says"
-        },
-        {
-          "date": "2026-11-20",
-          "file": "20261120-국민연금-ai전력-다각투자-kic-해.md",
-          "title": "국민연금 \"AI전력 다각투자\" … KIC \"해외자본 韓으로 유치\""
         },
         {
           "date": "2026-11-20",
@@ -193,6 +156,20 @@
           "date": "2026-11-21",
           "file": "20261121-손정의-한때-sk하이닉스-1조달러-인.md",
           "title": "손정의, 한때 SK하이닉스 '1조달러 인수' 타진…“현재는 검토 중단”"
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-머스크의-우주-데이터센터-첫-금융-장.md",
+          "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\""
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-울산-sk-ai데이터센터-찾은-ax는.md",
+          "title": "울산 SK AI데이터센터 찾은 李…“韓 AX는 AI 고속도로가 열 것”"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12215325",
+          "title": ""
         }
       ]
     },
@@ -214,11 +191,6 @@
           "date": "2026-11-19",
           "file": "20261119-more-banks-say-custo.md",
           "title": "More banks say customers using AI agents are on their own — even if they get hacked"
-        },
-        {
-          "date": "2026-11-19",
-          "file": "20261119-visa-expands-agentic.md",
-          "title": "Visa expands Agentic Ready programme to acceptance ecosystem"
         },
         {
           "date": "2026-11-19",
@@ -244,17 +216,12 @@
           "date": "2026-11-21",
           "file": "20261121-adyen-merchants-can-.md",
           "title": "Adyen merchants can offer Klarna in AI agent checkout"
-        },
-        {
-          "date": "2026-11-21",
-          "file": "20261121-researcher-plants-2m.md",
-          "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced."
         }
       ]
     },
     {
       "title": "에이전트 일탈·악용과 접근 통제",
-      "body_ko": "AI 부정과 에이전트 일탈이 이어지자 제재와 사후 추적, 앱·플랫폼의 접근 차단이 시작됐다.",
+      "body_ko": "AI 부정과 일탈 대응이 사후 추적·접근 차단을 넘어 자격시험 제도 변경으로 번졌다.",
       "topics": [
         "ai_policy",
         "ai_agents",
@@ -269,11 +236,6 @@
         },
         {
           "date": "2026-11-18",
-          "file": "20261118-국회-ai-커닝-특별법-착수-부정행위.md",
-          "title": "국회, AI 커닝 특별법 착수...\"부정행위 꿈도 꾸지 말라\""
-        },
-        {
-          "date": "2026-11-18",
           "file": "20261118-grok-bot-took-unappr.md",
           "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it"
         },
@@ -281,16 +243,6 @@
           "date": "2026-11-20",
           "file": "20261120-수능-부정행위-98명-적발-ai-스마.md",
           "title": "수능 부정행위 98명 적발…AI 스마트안경·초소형 카메라 사용"
-        },
-        {
-          "date": "2026-11-20",
-          "file": "20261120-ai로-세무사-리트-풀어보니-만점-황.md",
-          "title": "AI로 세무사·리트 풀어보니 '만점'…황정아 “전수조사해야”"
-        },
-        {
-          "date": "2026-11-20",
-          "file": "20261120-these-tech-outages-a.md",
-          "title": "These tech outages are giving Y2K, AI agent style"
         },
         {
           "date": "2026-11-20",
@@ -311,6 +263,16 @@
           "date": "2026-11-21",
           "file": "20261121-수능-끝나도-ai-부정행위-추적-시험.md",
           "title": "수능 끝나도 'AI 부정행위' 추적…시험장에 남은 무선 기록까지 살핀다"
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-내년-회계사시험-ai-부정-대책-골몰.md",
+          "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망"
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-ai-작업-능력-6개월-만에-16시간.md",
+          "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\""
         }
       ]
     }

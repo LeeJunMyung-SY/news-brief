@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-22",
+  "updated_at": "2026-11-22T08:21:00+09:00",
+  "run_id": "run_20261122_082100",
+  "summary_ko": "AI 투매가 실물로 번지는 가운데 인프라는 금융·정책 변수에 묶였다.",
+  "issues": [
+    {
+      "title": "AI 투매, 실물 수요로 전이",
+      "summary_ko": "주가 조정이 반도체 주문과 원자재 수요 전망까지 끌어내리고 있다.",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-22",
+          "file": "20261122-us-technology-stocks.md",
+          "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up"
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-5천피-무너지고-증시-급락-ai-투매.md",
+          "title": "'5천피' 무너지고 美증시 급락…'AI 투매' 추가 충격오나"
+        },
+        {
+          "url": "https://www.hankyung.com/article/202611211616i",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12215325",
+          "title": ""
+        },
+        {
+          "url": "https://www.hankyung.com/article/202611211609i",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 인프라, 금융·정책이 속도 좌우",
+      "summary_ko": "담보 금융 조건과 정부 지원이 연산 자원 확보의 새 변수가 됐다.",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-22",
+          "file": "20261122-머스크의-우주-데이터센터-첫-금융-장.md",
+          "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\""
+        },
+        {
+          "date": "2026-11-22",
+          "file": "20261122-울산-sk-ai데이터센터-찾은-ax는.md",
+          "title": "울산 SK AI데이터센터 찾은 李…“韓 AX는 AI 고속도로가 열 것”"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261121200700",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "자율 작업 지평과 검증 과제",
+      "summary_ko": "맡길 수 있는 일은 커졌지만 결과 검증이 활용의 병목이다.",
+      "topics": [
+        "llm_models",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-22",
+          "file": "20261122-ai-작업-능력-6개월-만에-16시간.md",
+          "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\""
+        },
+        {
+          "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+          "title": ""
+        },
+        {
+          "url": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 부정 대응, 금융 자격시험으로",
+      "summary_ko": "AI 부정 대응이 금융 전문인력 선발 제도까지 바꾸고 있다.",
+      "topics": [
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-22",
+          "file": "20261122-내년-회계사시험-ai-부정-대책-골몰.md",
+          "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망"
+        }
+      ]
+    }
+  ]
+}
