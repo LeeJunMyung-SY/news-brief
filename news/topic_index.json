@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-23T03:13:43+00:00",
+  "generated_at": "2026-11-23T07:15:54+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1322,
+      "count": 1323,
       "latest_date": "2026-11-23"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1742,
+      "count": 1747,
       "latest_date": "2026-11-23"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1775,
+      "count": 1779,
       "latest_date": "2026-11-23"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 4089,
+      "count": 4099,
       "latest_date": "2026-11-23"
     },
     {
@@ -40,22 +40,22 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1364,
+      "count": 1366,
       "latest_date": "2026-11-23"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1144,
+      "count": 1149,
       "latest_date": "2026-11-23"
     },
     {
       "key": "physical_ai",
       "label": "Physical Ai",
       "description": "휴머노이드 로봇, 자율주행, 다크팩토리 등 물리 세계로 확장되는 AI와 제조 현장 AI 전환 — 등장 기사: https://zdnet.co.kr/view/?no=20260601091601, https://www.bloter.net/news/articleView.html?idxno=665395, https://www.etnews.com/20260615000199",
-      "count": 673,
-      "latest_date": "2026-11-21"
+      "count": 674,
+      "latest_date": "2026-11-23"
     },
     {
       "key": "ai_hardware",
@@ -126,6 +126,50 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-몰랐던-금융정보도-ai가-찾아준다-카.md",
+        "title": "'몰랐던 금융정보도 AI가 찾아준다'…카카오페이, 맞춤형 서비스 강화",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#mydata",
+          "#ai-agent",
+          "#kakaopay",
+          "#personalization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123124929"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-이슈플러스-ai-에이전트에-흔들리는-.md",
+        "title": "[이슈플러스] AI 에이전트에 흔들리는 플랫폼 생태계…'데이터 접근권' 약화 우려",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#platform",
+          "#data-access",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000347"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
+        "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#ai-agent",
+          "#agentic-payment",
+          "#trust",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000434"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-ai-coding-agents-ace.md",
         "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
         "importance": 6,
@@ -182,6 +226,20 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-이슈플러스-ai-비서인데요-모두의-a.md",
+        "title": "[이슈플러스] “AI 비서인데요”…모두의 AI 출시 전 등장한 피클",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#voice-ai",
+          "#consumer-ai",
+          "#startup"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000346"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-토큰값-반값인데-ai-청구서는-더-커.md",
         "title": "'토큰값 반값인데 AI 청구서는 더 커졌다'",
         "importance": 6,
@@ -193,6 +251,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261122153419"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-피클-뮤즈-등-ai-에이전트-편리함-.md",
+        "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#safety-incident",
+          "#permission-control",
+          "#privacy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000327"
       },
       {
         "date": "2026-11-23",
@@ -25439,6 +25511,20 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-공구리-통역하는-ai-외국인-근로자도.md",
+        "title": "'공구리' 통역하는 AI…외국인 근로자도 척척 알아듣는다",
+        "importance": 6,
+        "tags": [
+          "#voice-ai",
+          "#ai-adoption",
+          "#openai",
+          "#api-cost"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123135440"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-오픈ai-ai가-연구-작업-절반-스스.md",
         "title": "오픈AI 'AI가 연구 작업 절반 스스로 완료'…7개월 만에 성공률 2배",
         "importance": 6,
@@ -44574,6 +44660,21 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
+        "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#ai-agent",
+          "#agentic-payment",
+          "#trust",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000434"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-재무장관-엔비디아-반도체-수출-의혹-.md",
         "title": "美 재무장관 '엔비디아, 中 반도체 수출 의혹 해명해야'",
         "importance": 7,
@@ -44627,6 +44728,48 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261123095407"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-오픈ai-이사-1년-내-ai-재앙-위.md",
+        "title": "오픈AI 이사 '1년 내 AI 재앙 위험 4%→10% 수준'…개발 중단 촉구",
+        "importance": 6,
+        "tags": [
+          "#ai-safety",
+          "#governance",
+          "#openai",
+          "#frontier-ai"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217696"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-캘리포니아-엔비디아-형사법-위반-가능.md",
+        "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#export-control",
+          "#regulation",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217680"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-피클-뮤즈-등-ai-에이전트-편리함-.md",
+        "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#safety-incident",
+          "#permission-control",
+          "#privacy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000327"
       },
       {
         "date": "2026-11-22",
@@ -70209,6 +70352,20 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-ai-데이터센터-ipo-잇단-차질-데.md",
+        "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#data-center",
+          "#ai-bubble",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217688"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-ai-비용-추적-넘어-통제까지-뱅크샐.md",
         "title": "AI 비용 추적 넘어 통제까지…뱅크샐러드, AWS 관리 바꿨다[현장+]",
         "importance": 7,
@@ -70224,6 +70381,21 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-금융이력-넘어-일상-생활까지-카카오페.md",
+        "title": "금융이력 넘어 일상 생활까지…카카오페이, 신용평가 새 판 짠다",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#credit-scoring",
+          "#alternative-data",
+          "#roi-case",
+          "#kakaopay"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679388"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-데이터브릭스-300조-몸값-투자-유치.md",
         "title": "데이터브릭스, 300조 몸값 투자 유치 추진…기업용 AI 열풍 지속",
         "importance": 7,
@@ -70235,6 +70407,21 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261121090138"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-몰랐던-금융정보도-ai가-찾아준다-카.md",
+        "title": "'몰랐던 금융정보도 AI가 찾아준다'…카카오페이, 맞춤형 서비스 강화",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#mydata",
+          "#ai-agent",
+          "#kakaopay",
+          "#personalization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123124929"
       },
       {
         "date": "2026-11-23",
@@ -70280,6 +70467,20 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-이슈플러스-ai-에이전트에-흔들리는-.md",
+        "title": "[이슈플러스] AI 에이전트에 흔들리는 플랫폼 생태계…'데이터 접근권' 약화 우려",
+        "importance": 7,
+        "tags": [
+          "#ai-agent",
+          "#platform",
+          "#data-access",
+          "#strategy"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000347"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-재무장관-엔비디아-반도체-수출-의혹-.md",
         "title": "美 재무장관 '엔비디아, 中 반도체 수출 의혹 해명해야'",
         "importance": 7,
@@ -70291,6 +70492,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261123094715"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-중국-ai-열풍-급랭-5개월간-기술주.md",
+        "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발",
+        "importance": 7,
+        "tags": [
+          "#ai-bubble",
+          "#china",
+          "#market",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217683"
       },
       {
         "date": "2026-11-23",
@@ -70308,6 +70523,20 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-kt-수자원공사와-피지컬ai-인프라-.md",
+        "title": "KT, 수자원공사와 피지컬AI 인프라 구축 협력",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#partnership",
+          "#public-sector",
+          "#edge-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123110308"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-sk하이닉스-통째로-삼키려-했다-손정.md",
         "title": "'SK하이닉스 통째로 삼키려 했다'...손정의가 검토한 '1조 달러' 인수설",
         "importance": 6,
@@ -70322,6 +70551,20 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-공구리-통역하는-ai-외국인-근로자도.md",
+        "title": "'공구리' 통역하는 AI…외국인 근로자도 척척 알아듣는다",
+        "importance": 6,
+        "tags": [
+          "#voice-ai",
+          "#ai-adoption",
+          "#openai",
+          "#api-cost"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123135440"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-세무서-전화상담-절반-이상-ai가-처.md",
         "title": "세무서 전화상담 절반 이상 AI가 처리…OECD, 한국 사례 소개",
         "importance": 6,
@@ -70333,6 +70576,34 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261121023100002"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-이슈플러스-ai-비서인데요-모두의-a.md",
+        "title": "[이슈플러스] “AI 비서인데요”…모두의 AI 출시 전 등장한 피클",
+        "importance": 6,
+        "tags": [
+          "#ai-agent",
+          "#voice-ai",
+          "#consumer-ai",
+          "#startup"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000346"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-이슈플러스-실적보다-커진-ai-거품론.md",
+        "title": "[이슈플러스] 실적보다 커진 AI 거품론…한국 증시 반등 가로막는 악재",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#market",
+          "#semiconductor",
+          "#hbm"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000353"
       },
       {
         "date": "2026-11-23",
@@ -70361,6 +70632,20 @@
         ],
         "source": "매일경제 증권",
         "url": "https://www.mk.co.kr/news/stock/12215685"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-캘리포니아-엔비디아-형사법-위반-가능.md",
+        "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#export-control",
+          "#regulation",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217680"
       },
       {
         "date": "2026-11-23",
@@ -138037,6 +138322,20 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-23",
+        "file": "20261123-ai-데이터센터-ipo-잇단-차질-데.md",
+        "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류",
+        "importance": 7,
+        "tags": [
+          "#ipo",
+          "#data-center",
+          "#ai-bubble",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217688"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-미국-규제당국-조사에-엔비디아-휘청-.md",
         "title": "미국 규제당국 조사에 엔비디아 휘청... 주가 2주새 32% 하락",
         "importance": 7,
@@ -138132,6 +138431,20 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217663"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-캘리포니아-엔비디아-형사법-위반-가능.md",
+        "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토",
+        "importance": 6,
+        "tags": [
+          "#nvidia",
+          "#export-control",
+          "#regulation",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217680"
       },
       {
         "date": "2026-11-22",
@@ -157803,6 +158116,36 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-금융이력-넘어-일상-생활까지-카카오페.md",
+        "title": "금융이력 넘어 일상 생활까지…카카오페이, 신용평가 새 판 짠다",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#credit-scoring",
+          "#alternative-data",
+          "#roi-case",
+          "#kakaopay"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679388"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-몰랐던-금융정보도-ai가-찾아준다-카.md",
+        "title": "'몰랐던 금융정보도 AI가 찾아준다'…카카오페이, 맞춤형 서비스 강화",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#mydata",
+          "#ai-agent",
+          "#kakaopay",
+          "#personalization"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123124929"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-미래운용-tiger-글로벌llm액티브.md",
         "title": "미래운용, 'TIGER 글로벌LLM액티브' 상장…앤트로픽 편입",
         "importance": 7,
@@ -157831,6 +158174,35 @@
       },
       {
         "date": "2026-11-23",
+        "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
+        "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”",
+        "importance": 7,
+        "tags": [
+          "#banking",
+          "#ai-agent",
+          "#agentic-payment",
+          "#trust",
+          "#governance"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000434"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-중국-ai-열풍-급랭-5개월간-기술주.md",
+        "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발",
+        "importance": 7,
+        "tags": [
+          "#ai-bubble",
+          "#china",
+          "#market",
+          "#investment"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217683"
+      },
+      {
+        "date": "2026-11-23",
         "file": "20261123-ok금융-ai-인재-뽑는다-채용형-인.md",
         "title": "OK금융, 'AI 인재' 뽑는다…채용형 인턴 공개채용",
         "importance": 6,
@@ -157842,6 +158214,20 @@
         ],
         "source": "연합뉴스 경제",
         "url": "https://www.yna.co.kr/view/AKR20261123039100002"
+      },
+      {
+        "date": "2026-11-23",
+        "file": "20261123-이슈플러스-실적보다-커진-ai-거품론.md",
+        "title": "[이슈플러스] 실적보다 커진 AI 거품론…한국 증시 반등 가로막는 악재",
+        "importance": 6,
+        "tags": [
+          "#ai-bubble",
+          "#market",
+          "#semiconductor",
+          "#hbm"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261123000353"
       },
       {
         "date": "2026-11-23",
@@ -174492,6 +174878,20 @@
     ],
     "physical_ai": [
       {
+        "date": "2026-11-23",
+        "file": "20261123-kt-수자원공사와-피지컬ai-인프라-.md",
+        "title": "KT, 수자원공사와 피지컬AI 인프라 구축 협력",
+        "importance": 6,
+        "tags": [
+          "#physical-ai",
+          "#partnership",
+          "#public-sector",
+          "#edge-ai"
+        ],
+        "source": "ZDNet Korea",
+        "url": "https://zdnet.co.kr/view/?no=20261123110308"
+      },
+      {
         "date": "2026-11-21",
         "file": "20261121-로크웰-오토메이션-애질록스-인수-추진.md",
         "title": "로크웰 오토메이션, 애질록스 인수 추진…피지컬 AI 강화",
@@ -185704,8 +186104,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-23",
-        "title": "AI 투매·앤트로픽 상장 충격",
-        "summary": "AI 조정이 증시 하단과 상장 시장까지 흔들고 있다",
+        "title": "AI 투매의 글로벌 확산",
+        "summary": "AI 조정이 증시를 넘어 인프라 자금줄까지 조인다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -185723,19 +186123,26 @@
             "title": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261123040400008",
-            "title": ""
+            "date": "2026-11-23",
+            "file": "20261123-중국-ai-열풍-급랭-5개월간-기술주.md",
+            "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261123075900008",
-            "title": ""
+            "date": "2026-11-23",
+            "file": "20261123-ai-데이터센터-ipo-잇단-차질-데.md",
+            "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이슈플러스-실적보다-커진-ai-거품론.md",
+            "title": "[이슈플러스] 실적보다 커진 AI 거품론…한국 증시 반등 가로막는 악재"
           }
         ]
       },
       {
         "date": "2026-11-23",
-        "title": "금융권 AI 전략·책임 재정비",
-        "summary": "금융사의 AI 경쟁과 사고 책임이 함께 제도화된다",
+        "title": "AI 에이전트 신뢰·통제 설계",
+        "summary": "에이전트의 권한과 사고 책임이 서비스 설계 조건이 됐다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -185744,22 +186151,58 @@
           },
           {
             "date": "2026-11-23",
+            "file": "20261123-금융권-해킹-책임-고객에-떠넘기는-약.md",
+            "title": "금융권, 해킹 책임 고객에 떠넘기는 약관 안 된다"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
+            "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-피클-뮤즈-등-ai-에이전트-편리함-.md",
+            "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이슈플러스-ai-에이전트에-흔들리는-.md",
+            "title": "[이슈플러스] AI 에이전트에 흔들리는 플랫폼 생태계…'데이터 접근권' 약화 우려"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20261123150151",
+            "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-11-23",
+        "title": "금융권 데이터·AI 사업화",
+        "summary": "데이터 결합력이 금융 AI 경쟁의 승부처가 됐다",
+        "articles": [
+          {
+            "date": "2026-11-23",
             "file": "20261123-이재근-kb금융-회장-첫-행보는-정보.md",
             "title": "이재근 KB금융 회장, 첫 행보는 정보보호…'리딩 플랫폼' 대전환 선언"
           },
           {
             "date": "2026-11-23",
-            "file": "20261123-금융권-해킹-책임-고객에-떠넘기는-약.md",
-            "title": "금융권, 해킹 책임 고객에 떠넘기는 약관 안 된다"
-          },
-          {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679358",
-            "title": ""
+            "file": "20261123-ai-비용-추적-넘어-통제까지-뱅크샐.md",
+            "title": "AI 비용 추적 넘어 통제까지…뱅크샐러드, AWS 관리 바꿨다[현장+]"
           },
           {
             "date": "2026-11-23",
-            "file": "20261123-ai-비용-추적-넘어-통제까지-뱅크샐.md",
-            "title": "AI 비용 추적 넘어 통제까지…뱅크샐러드, AWS 관리 바꿨다[현장+]"
+            "file": "20261123-금융이력-넘어-일상-생활까지-카카오페.md",
+            "title": "금융이력 넘어 일상 생활까지…카카오페이, 신용평가 새 판 짠다"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-몰랐던-금융정보도-ai가-찾아준다-카.md",
+            "title": "\"몰랐던 금융정보도 AI가 찾아준다\"…카카오페이, 맞춤형 서비스 강화"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12216118",
+            "title": ""
           }
         ]
       },
@@ -191655,8 +192098,8 @@
     "ai_industry": [
       {
         "date": "2026-11-23",
-        "title": "AI 투매·앤트로픽 상장 충격",
-        "summary": "AI 조정이 증시 하단과 상장 시장까지 흔들고 있다",
+        "title": "AI 투매의 글로벌 확산",
+        "summary": "AI 조정이 증시를 넘어 인프라 자금줄까지 조인다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -191674,11 +192117,49 @@
             "title": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261123040400008",
-            "title": ""
+            "date": "2026-11-23",
+            "file": "20261123-중국-ai-열풍-급랭-5개월간-기술주.md",
+            "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발"
           },
           {
-            "url": "https://www.yna.co.kr/view/AKR20261123075900008",
+            "date": "2026-11-23",
+            "file": "20261123-ai-데이터센터-ipo-잇단-차질-데.md",
+            "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이슈플러스-실적보다-커진-ai-거품론.md",
+            "title": "[이슈플러스] 실적보다 커진 AI 거품론…한국 증시 반등 가로막는 악재"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-23",
+        "title": "금융권 데이터·AI 사업화",
+        "summary": "데이터 결합력이 금융 AI 경쟁의 승부처가 됐다",
+        "articles": [
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이재근-kb금융-회장-첫-행보는-정보.md",
+            "title": "이재근 KB금융 회장, 첫 행보는 정보보호…'리딩 플랫폼' 대전환 선언"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-ai-비용-추적-넘어-통제까지-뱅크샐.md",
+            "title": "AI 비용 추적 넘어 통제까지…뱅크샐러드, AWS 관리 바꿨다[현장+]"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-금융이력-넘어-일상-생활까지-카카오페.md",
+            "title": "금융이력 넘어 일상 생활까지…카카오페이, 신용평가 새 판 짠다"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-몰랐던-금융정보도-ai가-찾아준다-카.md",
+            "title": "\"몰랐던 금융정보도 AI가 찾아준다\"…카카오페이, 맞춤형 서비스 강화"
+          },
+          {
+            "url": "https://www.mk.co.kr/news/stock/12216118",
             "title": ""
           }
         ]
@@ -201213,8 +201694,45 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-23",
-        "title": "엔비디아발 공급망·규제 리스크",
-        "summary": "공급사 리스크가 경영진 책임과 메모리 확보전으로 번졌다",
+        "title": "AI 투매의 글로벌 확산",
+        "summary": "AI 조정이 증시를 넘어 인프라 자금줄까지 조인다",
+        "articles": [
+          {
+            "date": "2026-11-23",
+            "file": "20261123-f4-시장상황-띠라-증안펀드-바로-가.md",
+            "title": "F4 \"시장상황 띠라 증안펀드 바로 가동 준비 착수\""
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-증시-투매에-코스피도-벌벌-월요일이-.md",
+            "title": "美증시 투매에 코스피도 '벌벌'…\"월요일이 두렵다\""
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-6개월간-오픈ai-맡지-마라-앤트로픽.md",
+            "title": "\"6개월간 오픈AI 맡지 마라\"…앤트로픽 IPO에 월가가 반발한 이유"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-중국-ai-열풍-급랭-5개월간-기술주.md",
+            "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-ai-데이터센터-ipo-잇단-차질-데.md",
+            "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이슈플러스-실적보다-커진-ai-거품론.md",
+            "title": "[이슈플러스] 실적보다 커진 AI 거품론…한국 증시 반등 가로막는 악재"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-23",
+        "title": "엔비디아발 공급망·법적 리스크",
+        "summary": "공급사 리스크가 형사 조사와 메모리 확보전으로 번졌다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -201240,6 +201758,11 @@
             "date": "2026-11-23",
             "file": "20261123-sk하이닉스-통째로-삼키려-했다-손정.md",
             "title": "\"SK하이닉스 통째로 삼키려 했다\"...손정의가 검토한 '1조 달러' 인수설"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-캘리포니아-엔비디아-형사법-위반-가능.md",
+            "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토"
           }
         ]
       },
@@ -206413,8 +206936,8 @@
     "ai_policy": [
       {
         "date": "2026-11-23",
-        "title": "엔비디아발 공급망·규제 리스크",
-        "summary": "공급사 리스크가 경영진 책임과 메모리 확보전으로 번졌다",
+        "title": "엔비디아발 공급망·법적 리스크",
+        "summary": "공급사 리스크가 형사 조사와 메모리 확보전으로 번졌다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -206440,13 +206963,18 @@
             "date": "2026-11-23",
             "file": "20261123-sk하이닉스-통째로-삼키려-했다-손정.md",
             "title": "\"SK하이닉스 통째로 삼키려 했다\"...손정의가 검토한 '1조 달러' 인수설"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-캘리포니아-엔비디아-형사법-위반-가능.md",
+            "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토"
           }
         ]
       },
       {
         "date": "2026-11-23",
-        "title": "금융권 AI 전략·책임 재정비",
-        "summary": "금융사의 AI 경쟁과 사고 책임이 함께 제도화된다",
+        "title": "AI 에이전트 신뢰·통제 설계",
+        "summary": "에이전트의 권한과 사고 책임이 서비스 설계 조건이 됐다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -206455,49 +206983,27 @@
           },
           {
             "date": "2026-11-23",
-            "file": "20261123-이재근-kb금융-회장-첫-행보는-정보.md",
-            "title": "이재근 KB금융 회장, 첫 행보는 정보보호…'리딩 플랫폼' 대전환 선언"
-          },
-          {
-            "date": "2026-11-23",
             "file": "20261123-금융권-해킹-책임-고객에-떠넘기는-약.md",
             "title": "금융권, 해킹 책임 고객에 떠넘기는 약관 안 된다"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679358",
+            "date": "2026-11-23",
+            "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
+            "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-피클-뮤즈-등-ai-에이전트-편리함-.md",
+            "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이슈플러스-ai-에이전트에-흔들리는-.md",
+            "title": "[이슈플러스] AI 에이전트에 흔들리는 플랫폼 생태계…'데이터 접근권' 약화 우려"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20261123150151",
             "title": ""
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-ai-비용-추적-넘어-통제까지-뱅크샐.md",
-            "title": "AI 비용 추적 넘어 통제까지…뱅크샐러드, AWS 관리 바꿨다[현장+]"
-          }
-        ]
-      },
-      {
-        "date": "2026-11-23",
-        "title": "개발 제한·데이터 규칙 논의",
-        "summary": "성능 지표와 학습 데이터 계약이 규범의 기준이 된다",
-        "articles": [
-          {
-            "date": "2026-11-23",
-            "file": "20261123-오픈ai-사전학습으로-ai-지능-급성.md",
-            "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\""
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-ai-is-getting-better.md",
-            "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns"
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-심의-받으면-개인정보-ai-학습-가능.md",
-            "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고"
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-ai-학습용-저작물-이용-기준-마련-.md",
-            "title": "AI 학습용 저작물 이용 기준 마련…문체부, 표준계약서 공청회 개최"
           }
         ]
       },
@@ -213372,8 +213878,8 @@
     "ai_agents": [
       {
         "date": "2026-11-23",
-        "title": "금융권 AI 전략·책임 재정비",
-        "summary": "금융사의 AI 경쟁과 사고 책임이 함께 제도화된다",
+        "title": "AI 에이전트 신뢰·통제 설계",
+        "summary": "에이전트의 권한과 사고 책임이 서비스 설계 조건이 됐다",
         "articles": [
           {
             "date": "2026-11-23",
@@ -213382,22 +213888,27 @@
           },
           {
             "date": "2026-11-23",
-            "file": "20261123-이재근-kb금융-회장-첫-행보는-정보.md",
-            "title": "이재근 KB금융 회장, 첫 행보는 정보보호…'리딩 플랫폼' 대전환 선언"
-          },
-          {
-            "date": "2026-11-23",
             "file": "20261123-금융권-해킹-책임-고객에-떠넘기는-약.md",
             "title": "금융권, 해킹 책임 고객에 떠넘기는 약관 안 된다"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679358",
-            "title": ""
+            "date": "2026-11-23",
+            "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
+            "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”"
           },
           {
             "date": "2026-11-23",
-            "file": "20261123-ai-비용-추적-넘어-통제까지-뱅크샐.md",
-            "title": "AI 비용 추적 넘어 통제까지…뱅크샐러드, AWS 관리 바꿨다[현장+]"
+            "file": "20261123-피클-뮤즈-등-ai-에이전트-편리함-.md",
+            "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보"
+          },
+          {
+            "date": "2026-11-23",
+            "file": "20261123-이슈플러스-ai-에이전트에-흔들리는-.md",
+            "title": "[이슈플러스] AI 에이전트에 흔들리는 플랫폼 생태계…'데이터 접근권' 약화 우려"
+          },
+          {
+            "url": "https://zdnet.co.kr/view/?no=20261123150151",
+            "title": ""
           }
         ]
       },
@@ -219972,33 +220483,6 @@
       }
     ],
     "llm_models": [
-      {
-        "date": "2026-11-23",
-        "title": "개발 제한·데이터 규칙 논의",
-        "summary": "성능 지표와 학습 데이터 계약이 규범의 기준이 된다",
-        "articles": [
-          {
-            "date": "2026-11-23",
-            "file": "20261123-오픈ai-사전학습으로-ai-지능-급성.md",
-            "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\""
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-ai-is-getting-better.md",
-            "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns"
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-심의-받으면-개인정보-ai-학습-가능.md",
-            "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고"
-          },
-          {
-            "date": "2026-11-23",
-            "file": "20261123-ai-학습용-저작물-이용-기준-마련-.md",
-            "title": "AI 학습용 저작물 이용 기준 마련…문체부, 표준계약서 공청회 개최"
-          }
-        ]
-      },
       {
         "date": "2026-11-22",
         "title": "자율 작업 지평과 검증 과제",
