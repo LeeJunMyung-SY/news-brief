@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-24",
+  "updated_at": "2026-11-24T08:13:42.112499+09:00",
+  "run_id": "run_20261124_081342",
+  "summary_ko": "엔비디아 복귀로 투심은 반전됐지만 에이전트·금융 AI 사업화는 계속된다",
+  "issues": [
+    {
+      "title": "엔비디아 복귀의 이면",
+      "summary_ko": "경영 공백은 메웠지만 정치·제재 리스크는 길어진다",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-24",
+          "file": "20261124-젠슨-황-복귀에-엔비디아-31-폭등-.md",
+          "title": "젠슨 황 복귀에 엔비디아 31% 폭등…美, '메가스피드 제재·상원 공개 청문' 압박은 계속"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-엔비디아-이사회-젠슨-황을-왜-다시-.md",
+          "title": "엔비디아 이사회, 젠슨 황을 왜 다시 CEO로 불렀나"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261124024310",
+          "title": ""
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-megaspeed-the-compan.md",
+          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+        }
+      ]
+    },
+    {
+      "title": "AI 투자 회수 부담 지속",
+      "summary_ko": "투심 반전에도 차입·현금 부족 우려는 남아 있다",
+      "topics": [
+        "ai_industry",
+        "ai_compute_energy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-24",
+          "file": "20261124-25년-만의-최악-성적표-반도체주-뒤.md",
+          "title": "\"25년 만의 최악 성적표\"…반도체주 뒤흔든 'AI 빚투' 공포 [이슈+]"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217699",
+          "title": ""
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-anthropic-s-appetite.md",
+          "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy"
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12216408",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "에이전트에 넘어가는 업무 권한",
+      "summary_ko": "승인·상담까지 위임되며 책임 배분이 관건이 됐다",
+      "topics": [
+        "ai_agents",
+        "ai_industry",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-24",
+          "file": "20261124-anthropic-launches-c.md",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-sierra-doubles-valua.md",
+          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-wells-fargo-to-custo.md",
+          "title": "Wells Fargo to Customers: Your AI Agent, Your Problem"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-ai-에이전트-피클-확산에-통신3사-.md",
+          "title": "AI 에이전트 '피클' 확산에 통신3사·네이버 '전화 빗장'"
+        }
+      ]
+    },
+    {
+      "title": "금융 AI 상품의 개인화",
+      "summary_ko": "투자 자문이 고객 데이터 기반 AI 상품으로 바뀐다",
+      "topics": [
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-24",
+          "file": "20261124-nh증권-맞춤형-투자전략-제공-ai-.md",
+          "title": "NH증권, 맞춤형 투자전략 제공 'AI 로보어드바이저 서비스' 출시"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-증시-폭락해도-ai는-계속-간다-한투.md",
+          "title": "\"증시 폭락해도 AI는 계속 간다\"…한투운용, AI 밸류체인 TDF 출시"
+        },
+        {
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/economy/12216359",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
