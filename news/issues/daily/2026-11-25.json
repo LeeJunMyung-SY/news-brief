@@ -1,0 +1,120 @@
+{
+  "date": "2026-11-25",
+  "updated_at": "2026-11-25T08:13:45.485663+09:00",
+  "run_id": "run_20261125_081345",
+  "summary_ko": "AI 자산이 재평가되는 사이 에이전트는 수익원이자 규제 대상이 됐다",
+  "issues": [
+    {
+      "title": "에이전트 금융의 규제 편입",
+      "summary_ko": "에이전트 금융 접점이 감독과 접근 통제의 대상이 됐다",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-25",
+          "file": "20261125-as-meta-s-muse-arriv.md",
+          "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-signal-joins-united-.md",
+          "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks"
+        },
+        {
+          "url": "https://www.finextra.com/blogposting/33527/deep-dive-visas-ai-shopping-benchmark-shows-agents-still-buy-when-they-get-it-wrong?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-카드사-임직원-10명중-8명-5년내-.md",
+          "title": "카드사 임직원 10명중 8명…\"5년내 AI 금융결제 상용화\""
+        }
+      ]
+    },
+    {
+      "title": "에이전트의 수익 통로화",
+      "summary_ko": "에이전트가 광고·커머스·SaaS의 새 매출 통로로 자리 잡는다",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-25",
+          "file": "20261125-anthropic-tops-700-m.md",
+          "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-how-meta-is-using-in.md",
+          "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-walmart-teams-up-wit.md",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261124161527",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261124161846",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "AI 자산의 옥석 가리기",
+      "summary_ko": "모델 기업 프리미엄은 깎이고 실수요 인프라만 평가받는다",
+      "topics": [
+        "ai_industry",
+        "금융회사 AI",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-25",
+          "file": "20261125-앤트로픽-상장-나흘-만에-공모가-하회.md",
+          "title": "앤트로픽, 상장 나흘 만에 공모가 하회…고평가 논란·경쟁 심화 부담"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-debt-markets-shud.md",
+          "title": "AI debt markets shudder as Nvidia's top 'banker' returns"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-dell-earnings-beat-o.md",
+          "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=679613",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "제재의 동맹국 확산",
+      "summary_ko": "미국 칩 통제가 동남아 데이터센터 규정으로 번진다",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-25",
+          "file": "20261125-말레이시아-미국-제재-기업-데이터센터.md",
+          "title": "말레이시아, 미국 제재 기업 데이터센터 제한…싱가포르도 칩 우회 차단"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217752",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

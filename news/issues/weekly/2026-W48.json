@@ -1,12 +1,12 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-24T16:17:00.951358+09:00",
-  "run_id": "run_20261124_161700",
-  "summary_ko": "AI 투매와 반등 속 제재는 넓어지고, 비용·책임 규칙이 정비된다",
+  "updated_at": "2026-11-25T08:13:45.485663+09:00",
+  "run_id": "run_20261125_081345",
+  "summary_ko": "AI 자산 재평가 속 제재와 에이전트 통제가 동시에 넓어진다",
   "issues": [
     {
-      "title": "AI 투매와 급반등의 변동성",
-      "body_ko": "AI 쏠림이 시장을 흔들며 인프라와 모델 기업 평가가 갈리기 시작했다",
+      "title": "AI 투매와 자산 재평가",
+      "body_ko": "투매·반등을 거치며 상장 모델 기업과 AI 부채가 먼저 재평가받고 있다",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -22,11 +22,6 @@
           "date": "2026-11-23",
           "file": "20261123-증시-투매에-코스피도-벌벌-월요일이-.md",
           "title": "美증시 투매에 코스피도 '벌벌'…\"월요일이 두렵다\""
-        },
-        {
-          "date": "2026-11-23",
-          "file": "20261123-데이터브릭스-300조-몸값-투자-유치.md",
-          "title": "데이터브릭스, 300조 몸값 투자 유치 추진…기업용 AI 열풍 지속"
         },
         {
           "date": "2026-11-23",
@@ -47,12 +42,27 @@
           "date": "2026-11-24",
           "file": "20261124-황-ceo-복귀에-앤트로픽-주가-역주.md",
           "title": "황 CEO 복귀에 앤트로픽 주가 역주행…오픈웨이트 경쟁 부담"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-앤트로픽-상장-나흘-만에-공모가-하회.md",
+          "title": "앤트로픽, 상장 나흘 만에 공모가 하회…고평가 논란·경쟁 심화 부담"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-debt-markets-shud.md",
+          "title": "AI debt markets shudder as Nvidia's top 'banker' returns"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-dell-earnings-beat-o.md",
+          "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
         }
       ]
     },
     {
-      "title": "칩 공급망 제재의 확산",
-      "body_ko": "CEO 복귀에도 제재가 빅테크 해외 법인과 입법으로 번지며 조달 리스크가 길어진다",
+      "title": "칩 제재의 동맹국 확산",
+      "body_ko": "CEO 복귀에도 제재가 동남아 현지 규정과 입법으로 번져 조달 리스크가 길어진다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -61,38 +71,13 @@
       "articles": [
         {
           "date": "2026-11-23",
-          "file": "20261123-미국-규제당국-조사에-엔비디아-휘청-.md",
-          "title": "미국 규제당국 조사에 엔비디아 휘청... 주가 2주새 32% 하락"
-        },
-        {
-          "date": "2026-11-23",
-          "file": "20261123-재무장관-엔비디아-반도체-수출-의혹-.md",
-          "title": "美 재무장관 \"엔비디아, 中 반도체 수출 의혹 해명해야\""
-        },
-        {
-          "date": "2026-11-23",
           "file": "20261123-캘리포니아-엔비디아-형사법-위반-가능.md",
           "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토"
         },
         {
           "date": "2026-11-24",
-          "file": "20261124-엔비디아-이사회-젠슨-황을-왜-다시-.md",
-          "title": "엔비디아 이사회, 젠슨 황을 왜 다시 CEO로 불렀나"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-megaspeed-the-compan.md",
-          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
-        },
-        {
-          "date": "2026-11-24",
           "file": "20261124-미국-메가스피드-블랙리스트-등재-황-.md",
           "title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-nyt-앨리스-황-중국-정보기관과-1.md",
-          "title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…젠슨 황 복귀에도 조사 계속"
         },
         {
           "date": "2026-11-24",
@@ -108,12 +93,21 @@
           "date": "2026-11-24",
           "file": "20261124-아마존-데카르트의-ai-최적화-기술-.md",
           "title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-말레이시아-미국-제재-기업-데이터센터.md",
+          "title": "말레이시아, 미국 제재 기업 데이터센터 제한…싱가포르도 칩 우회 차단"
+        },
+        {
+          "url": "https://www.bloter.net/news/articleView.html?idxno=679613",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융권 AI 사업화와 책임 설계",
-      "body_ko": "AI 상품 세분화와 함께 통합 플랫폼·확산 통제·사고 책임 기준이 실무화된다",
+      "title": "금융 AI의 사업화와 에이전트 통제",
+      "body_ko": "AI 상품은 세분화되고, 에이전트 금융은 감독·접근 통제 체계로 들어간다",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -137,11 +131,6 @@
         },
         {
           "date": "2026-11-24",
-          "file": "20261124-증시-폭락해도-ai는-계속-간다-한투.md",
-          "title": "\"증시 폭락해도 AI는 계속 간다\"…한투운용, AI 밸류체인 TDF 출시"
-        },
-        {
-          "date": "2026-11-24",
           "file": "20261124-wells-fargo-to-custo.md",
           "title": "Wells Fargo to Customers: Your AI Agent, Your Problem"
         },
@@ -152,45 +141,34 @@
         },
         {
           "date": "2026-11-24",
-          "file": "20261124-삼성운용-kodex-미국ai에이전트액.md",
-          "title": "삼성운용, 'KODEX 미국AI에이전트액티브' ETF에 앤트로픽 편입"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-한화운용-글로벌-ai-병목-인프라-투.md",
-          "title": "한화운용, 글로벌 AI 병목 인프라 투자 ETF 신규 상장"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-간편결제-개인정보-유출-2배-쑥-디지.md",
-          "title": "간편결제 개인정보 유출 2배 쑥…디지털금융 이용률 하락"
-        },
-        {
-          "date": "2026-11-24",
           "file": "20261124-조직-지식-데이터-지능화-통합-ai플.md",
           "title": "조직 지식·데이터 '지능화'…통합 AI플랫폼 만드는 은행"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-as-meta-s-muse-arriv.md",
+          "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-signal-joins-united-.md",
+          "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-카드사-임직원-10명중-8명-5년내-.md",
+          "title": "카드사 임직원 10명중 8명…\"5년내 AI 금융결제 상용화\""
         }
       ]
     },
     {
-      "title": "에이전트의 업무·접점 장악",
-      "body_ko": "에이전트가 승인·실행까지 맡자 인프라 재설계와 접근 통제가 부상했다",
+      "title": "에이전트의 업무·커머스 장악",
+      "body_ko": "에이전트가 승인·판매 채널까지 맡으며 연동 표준과 수익 모델이 굳어진다",
       "topics": [
         "ai_agents",
-        "ai_industry",
-        "ai_policy"
+        "ai_industry"
       ],
       "articles": [
-        {
-          "date": "2026-11-23",
-          "file": "20261123-이슈플러스-ai-에이전트에-흔들리는-.md",
-          "title": "[이슈플러스] AI 에이전트에 흔들리는 플랫폼 생태계…'데이터 접근권' 약화 우려"
-        },
-        {
-          "date": "2026-11-23",
-          "file": "20261123-피클-뮤즈-등-ai-에이전트-편리함-.md",
-          "title": "피클·뮤즈 등 AI 에이전트, 편리함 각광 속 돌발행동 주의보"
-        },
         {
           "date": "2026-11-24",
           "file": "20261124-anthropic-launches-c.md",
@@ -208,27 +186,37 @@
         },
         {
           "date": "2026-11-24",
-          "file": "20261124-lgu-익시오-장애-대응-시간-85-.md",
-          "title": "LGU+, 익시오 장애 대응 시간 85% 줄였다"
-        },
-        {
-          "date": "2026-11-24",
           "file": "20261124-gpu만으론-부족하다-aws가-클라우.md",
           "title": "GPU만으론 부족하다…AWS가 클라우드 설계 바꾸는 이유"
         },
         {
-          "url": "https://www.etnews.com/20261124000028",
+          "date": "2026-11-25",
+          "file": "20261125-anthropic-tops-700-m.md",
+          "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-how-meta-is-using-in.md",
+          "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-walmart-teams-up-wit.md",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261124161527",
           "title": ""
         }
       ]
     },
     {
-      "title": "AI 책임·가격 규칙의 제도화",
-      "body_ko": "안전 소송과 가상 전문가 광고 금지, 대가 기준까지 AI 규칙이 법제화된다",
+      "title": "AI 안전·인력 규칙의 제도화",
+      "body_ko": "모델 통제 논의와 소송, 인력 수급 조정까지 AI 규칙이 제도 안으로 들어온다",
       "topics": [
         "ai_policy",
         "llm_models",
-        "ai_industry"
+        "ai_workforce_training"
       ],
       "articles": [
         {
@@ -240,11 +228,6 @@
           "date": "2026-11-23",
           "file": "20261123-심의-받으면-개인정보-ai-학습-가능.md",
           "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-inss-한국-ai-속도조절-영향력-.md",
-          "title": "INSS \"한국, AI 속도조절 영향력 부족\""
         },
         {
           "date": "2026-11-24",
@@ -262,9 +245,19 @@
           "title": "'AI 가짜 의사' 광고 금지 앞두고…이커머스 셀러 관리 시험대"
         },
         {
-          "date": "2026-11-24",
-          "file": "20261124-벤처비트-페이블-5-2-오퍼스-5-5.md",
-          "title": "벤처비트 \"페이블 5.2, 오퍼스 5.5와 버그 수정 성능 비슷…비용은 3배\""
+          "date": "2026-11-25",
+          "file": "20261125-dozens-of-insiders-s.md",
+          "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-내년-정부-ai-예산-1-6배-확대-.md",
+          "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-시대-공인회계사-선발-문-좁아진.md",
+          "title": "AI 시대 공인회계사 선발 문 좁아진다…내년 최소 1천100명"
         }
       ]
     }
