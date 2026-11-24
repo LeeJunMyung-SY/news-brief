@@ -1,12 +1,12 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-24T08:13:42.112499+09:00",
-  "run_id": "run_20261124_081342",
-  "summary_ko": "AI 투매와 급반등 속 공급사 리스크와 에이전트 책임 규칙이 정비된다",
+  "updated_at": "2026-11-24T12:14:42.391427+09:00",
+  "run_id": "run_20261124_121442",
+  "summary_ko": "AI 투매와 급반등 속 제재 집행과 금융·에이전트 통제 규칙이 정비된다",
   "issues": [
     {
       "title": "AI 투매와 급반등의 변동성",
-      "body_ko": "AI 쏠림이 시장을 급락과 사상 최대 반등 사이로 흔들고 있다",
+      "body_ko": "AI 쏠림이 시장을 흔들며 인프라와 모델 기업 평가가 갈리기 시작했다",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -30,11 +30,6 @@
         },
         {
           "date": "2026-11-23",
-          "file": "20261123-중국-ai-열풍-급랭-5개월간-기술주.md",
-          "title": "중국 AI 열풍 급랭...5개월간 기술주 시총 2300조 증발"
-        },
-        {
-          "date": "2026-11-23",
           "file": "20261123-ai-데이터센터-ipo-잇단-차질-데.md",
           "title": "AI 데이터센터 IPO 잇단 차질…데이원도 50억달러 미국 상장 보류"
         },
@@ -49,14 +44,18 @@
           "title": "\"25년 만의 최악 성적표\"…반도체주 뒤흔든 'AI 빚투' 공포 [이슈+]"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217699",
+          "url": "https://www.mk.co.kr/news/stock/12216782",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
           "title": ""
         }
       ]
     },
     {
       "title": "칩 공급사 지배구조·제재 리스크",
-      "body_ko": "CEO 복귀 이후에도 의회 조사와 거래망 제재가 조달 판단을 좌우한다",
+      "body_ko": "CEO 복귀에도 거래망 제재가 실제 집행되며 조달 리스크가 길어진다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -79,29 +78,30 @@
           "title": "캘리포니아, 엔비디아 형사법 위반 가능성 조사...불법 수익 환수도 검토"
         },
         {
-          "date": "2026-11-23",
-          "file": "20261123-sk하이닉스-통째로-삼키려-했다-손정.md",
-          "title": "\"SK하이닉스 통째로 삼키려 했다\"...손정의가 검토한 '1조 달러' 인수설"
-        },
-        {
           "date": "2026-11-24",
           "file": "20261124-엔비디아-이사회-젠슨-황을-왜-다시-.md",
           "title": "엔비디아 이사회, 젠슨 황을 왜 다시 CEO로 불렀나"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261124024310",
-          "title": ""
-        },
-        {
           "date": "2026-11-24",
           "file": "20261124-megaspeed-the-compan.md",
           "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-미국-메가스피드-블랙리스트-등재-황-.md",
+          "title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-nyt-앨리스-황-중국-정보기관과-1.md",
+          "title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…젠슨 황 복귀에도 조사 계속"
         }
       ]
     },
     {
       "title": "금융권 AI 사업화와 책임 설계",
-      "body_ko": "개인화 자문·AI 상품 출시와 에이전트 사고 책임 논의가 함께 간다",
+      "body_ko": "AI 상품 세분화와 함께 확산 통제·사고 책임 기준이 실무화된다",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -115,18 +115,8 @@
         },
         {
           "date": "2026-11-23",
-          "file": "20261123-금융권-해킹-책임-고객에-떠넘기는-약.md",
-          "title": "금융권, 해킹 책임 고객에 떠넘기는 약관 안 된다"
-        },
-        {
-          "date": "2026-11-23",
           "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
           "title": "이은미 토스뱅크 대표 “AI 에이전트, 권한과 책임 명확해야”"
-        },
-        {
-          "date": "2026-11-23",
-          "file": "20261123-금융이력-넘어-일상-생활까지-카카오페.md",
-          "title": "금융이력 넘어 일상 생활까지…카카오페이, 신용평가 새 판 짠다"
         },
         {
           "date": "2026-11-24",
@@ -142,12 +132,32 @@
           "date": "2026-11-24",
           "file": "20261124-wells-fargo-to-custo.md",
           "title": "Wells Fargo to Customers: Your AI Agent, Your Problem"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-lloyds-publishes-gui.md",
+          "title": "Lloyds publishes guide on scaling AI responsibly"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-삼성운용-kodex-미국ai에이전트액.md",
+          "title": "삼성운용, 'KODEX 미국AI에이전트액티브' ETF에 앤트로픽 편입"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-한화운용-글로벌-ai-병목-인프라-투.md",
+          "title": "한화운용, 글로벌 AI 병목 인프라 투자 ETF 신규 상장"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-간편결제-개인정보-유출-2배-쑥-디지.md",
+          "title": "간편결제 개인정보 유출 2배 쑥…디지털금융 이용률 하락"
         }
       ]
     },
     {
       "title": "에이전트의 업무·접점 장악",
-      "body_ko": "에이전트가 승인·상담·전화까지 맡자 플랫폼이 접근 차단에 나섰다",
+      "body_ko": "에이전트가 승인·상담·전화까지 맡자 운영 관리와 접근 차단이 부상했다",
       "topics": [
         "ai_agents",
         "ai_industry",
@@ -178,15 +188,21 @@
           "date": "2026-11-24",
           "file": "20261124-ai-에이전트-피클-확산에-통신3사-.md",
           "title": "AI 에이전트 '피클' 확산에 통신3사·네이버 '전화 빗장'"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-lgu-익시오-장애-대응-시간-85-.md",
+          "title": "LGU+, 익시오 장애 대응 시간 85% 줄였다"
         }
       ]
     },
     {
-      "title": "개발 속도·안전 책임의 제도화",
-      "body_ko": "속도조절 논의와 안전 허위 홍보 소송이 규범의 기준선을 만든다",
+      "title": "AI 규범과 가격 기준의 제도화",
+      "body_ko": "속도조절·안전 소송에 이어 AI 사업 대가 기준까지 제도권 규칙이 생긴다",
       "topics": [
         "ai_policy",
-        "llm_models"
+        "llm_models",
+        "ai_industry"
       ],
       "articles": [
         {
@@ -200,17 +216,17 @@
           "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고"
         },
         {
-          "date": "2026-11-23",
-          "file": "20261123-오픈ai-이사-1년-내-ai-재앙-위.md",
-          "title": "오픈AI 이사 \"1년 내 AI 재앙 위험 4%→10% 수준\"…개발 중단 촉구"
-        },
-        {
           "date": "2026-11-24",
           "file": "20261124-inss-한국-ai-속도조절-영향력-.md",
           "title": "INSS \"한국, AI 속도조절 영향력 부족\""
         },
         {
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+          "date": "2026-11-24",
+          "file": "20261124-kosa-ai-사업-대가산정-기준-손.md",
+          "title": "KOSA, AI 사업 대가산정 기준 손본다…전문기술 비용 신설"
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261124094957",
           "title": ""
         }
       ]

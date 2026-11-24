@@ -1,12 +1,12 @@
 {
   "date": "2026-11-24",
-  "updated_at": "2026-11-24T08:13:42.112499+09:00",
-  "run_id": "run_20261124_081342",
-  "summary_ko": "엔비디아 복귀로 투심은 반전됐지만 에이전트·금융 AI 사업화는 계속된다",
+  "updated_at": "2026-11-24T12:14:42.391427+09:00",
+  "run_id": "run_20261124_121442",
+  "summary_ko": "엔비디아 복귀 뒤에도 제재는 집행되고, 금융권은 AI 확산 통제를 다듬는다",
   "issues": [
     {
-      "title": "엔비디아 복귀의 이면",
-      "summary_ko": "경영 공백은 메웠지만 정치·제재 리스크는 길어진다",
+      "title": "복귀 뒤에도 이어지는 제재",
+      "summary_ko": "경영 공백은 메웠지만 공급망 제재는 실제 집행 단계로 갔다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -24,23 +24,28 @@
           "title": "엔비디아 이사회, 젠슨 황을 왜 다시 CEO로 불렀나"
         },
         {
-          "url": "https://zdnet.co.kr/view/?no=20261124024310",
-          "title": ""
-        },
-        {
           "date": "2026-11-24",
           "file": "20261124-megaspeed-the-compan.md",
           "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-미국-메가스피드-블랙리스트-등재-황-.md",
+          "title": "미국, 메가스피드 블랙리스트 등재…황 CEO 복귀 당일 AI 칩 공급 차단"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-nyt-앨리스-황-중국-정보기관과-1.md",
+          "title": "NYT \"앨리스 황, 중국 정보기관과 1년 넘게 접촉\"…젠슨 황 복귀에도 조사 계속"
         }
       ]
     },
     {
-      "title": "AI 투자 회수 부담 지속",
-      "summary_ko": "투심 반전에도 차입·현금 부족 우려는 남아 있다",
+      "title": "AI 투자의 선별과 통합",
+      "summary_ko": "반등 속에도 돈은 수익 근거가 있는 플랫폼으로 몰린다",
       "topics": [
         "ai_industry",
-        "ai_compute_energy",
-        "금융회사 AI"
+        "ai_compute_energy"
       ],
       "articles": [
         {
@@ -49,27 +54,36 @@
           "title": "\"25년 만의 최악 성적표\"…반도체주 뒤흔든 'AI 빚투' 공포 [이슈+]"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217699",
-          "title": ""
-        },
-        {
           "date": "2026-11-24",
           "file": "20261124-anthropic-s-appetite.md",
           "title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12216408",
+          "date": "2026-11-24",
+          "file": "20261124-크라우드스트라이크-지스케일러-인수-5.md",
+          "title": "크라우드스트라이크, 지스케일러 인수…59조원 '역대 최대 규모'"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-abb-독일-질라벡-인수-데이터센터-.md",
+          "title": "ABB, 독일 질라벡 인수…데이터센터 냉각 시장 공략"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/24/aws-asia-gains-roi.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12216782",
           "title": ""
         }
       ]
     },
     {
       "title": "에이전트에 넘어가는 업무 권한",
-      "summary_ko": "승인·상담까지 위임되며 책임 배분이 관건이 됐다",
+      "summary_ko": "승인·상담 위임이 늘며 운영 관리와 책임 배분이 관건이 됐다",
       "topics": [
         "ai_agents",
-        "ai_industry",
-        "금융회사 AI"
+        "ai_industry"
       ],
       "articles": [
         {
@@ -91,14 +105,20 @@
           "date": "2026-11-24",
           "file": "20261124-ai-에이전트-피클-확산에-통신3사-.md",
           "title": "AI 에이전트 '피클' 확산에 통신3사·네이버 '전화 빗장'"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-lgu-익시오-장애-대응-시간-85-.md",
+          "title": "LGU+, 익시오 장애 대응 시간 85% 줄였다"
         }
       ]
     },
     {
-      "title": "금융 AI 상품의 개인화",
-      "summary_ko": "투자 자문이 고객 데이터 기반 AI 상품으로 바뀐다",
+      "title": "금융 AI의 상품화와 통제",
+      "summary_ko": "AI 상품은 세분화되고 확산 통제 기준은 실무화된다",
       "topics": [
-        "금융회사 AI"
+        "금융회사 AI",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -112,12 +132,29 @@
           "title": "\"증시 폭락해도 AI는 계속 간다\"…한투운용, AI 밸류체인 TDF 출시"
         },
         {
-          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-          "title": ""
+          "date": "2026-11-24",
+          "file": "20261124-lloyds-publishes-gui.md",
+          "title": "Lloyds publishes guide on scaling AI responsibly"
         },
         {
-          "url": "https://www.mk.co.kr/news/economy/12216359",
-          "title": ""
+          "date": "2026-11-24",
+          "file": "20261124-삼성운용-kodex-미국ai에이전트액.md",
+          "title": "삼성운용, 'KODEX 미국AI에이전트액티브' ETF에 앤트로픽 편입"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-한화운용-글로벌-ai-병목-인프라-투.md",
+          "title": "한화운용, 글로벌 AI 병목 인프라 투자 ETF 신규 상장"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-간편결제-개인정보-유출-2배-쑥-디지.md",
+          "title": "간편결제 개인정보 유출 2배 쑥…디지털금융 이용률 하락"
+        },
+        {
+          "date": "2026-11-24",
+          "file": "20261124-nipa-금융결제원-국산-ai반도체-.md",
+          "title": "NIPA·금융결제원, 국산 AI반도체 금융권 실증 확대"
         }
       ]
     }
