@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-11-25T03:15:44+00:00",
+  "generated_at": "2026-11-25T07:12:58+00:00",
   "topics": [
     {
       "key": "llm_models",
       "label": "Large Language Models and Foundation Models",
       "description": "신규 모델 출시, 벤치마크, 아키텍처 혁신, 스케일링 법칙, 파인튜닝",
-      "count": 1333,
+      "count": 1334,
       "latest_date": "2026-11-25"
     },
     {
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1763,
+      "count": 1766,
       "latest_date": "2026-11-25"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1802,
+      "count": 1805,
       "latest_date": "2026-11-25"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 4141,
+      "count": 4148,
       "latest_date": "2026-11-25"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1388,
+      "count": 1390,
       "latest_date": "2026-11-25"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1172,
+      "count": 1173,
       "latest_date": "2026-11-25"
     },
     {
@@ -140,6 +140,20 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+        "title": "AI 혼자 사고 내면?...'사업자 책임보험 의무화'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#liability",
+          "#insurance",
+          "#ai-agent"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679641"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-brits-wary-about-let.md",
         "title": "Brits wary about letting AI agents make payments for them",
         "importance": 6,
@@ -169,6 +183,20 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+        "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표",
+        "importance": 6,
+        "tags": [
+          "#aiops",
+          "#ai-adoption",
+          "#microsoft",
+          "#reliability"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217761"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-walmart-teams-up-wit.md",
         "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
         "importance": 6,
@@ -194,6 +222,21 @@
         ],
         "source": "AI타임스",
         "url": "https://www.aitimes.com/news/articleView.html?idxno=217741"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
+        "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#partnership",
+          "#citizen-developer",
+          "#public-sector"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217776"
       },
       {
         "date": "2026-11-25",
@@ -25766,6 +25809,20 @@
         "url": "https://www.bloter.net/news/articleView.html?idxno=679612"
       },
       {
+        "date": "2026-11-25",
+        "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+        "title": "트럼프가 젠슨 황을 복귀시킨 이유…'미국 오픈웨이트 AI 수호자'",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#industrial-policy",
+          "#nvidia",
+          "#us-china"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217764"
+      },
+      {
         "date": "2026-11-24",
         "file": "20261124-anthropic-launches-c.md",
         "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -44987,6 +45044,21 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+        "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#regulation",
+          "#cyber-risk",
+          "#stress-test"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261125074300002"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-내년-정부-ai-예산-1-6배-확대-.md",
         "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진",
         "importance": 7,
@@ -45031,6 +45103,20 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+        "title": "AI 혼자 사고 내면?...'사업자 책임보험 의무화'",
+        "importance": 6,
+        "tags": [
+          "#regulation",
+          "#liability",
+          "#insurance",
+          "#ai-agent"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679641"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-dozens-of-insiders-s.md",
         "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures",
         "importance": 6,
@@ -45057,6 +45143,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261125082616"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+        "title": "트럼프가 젠슨 황을 복귀시킨 이유…'미국 오픈웨이트 AI 수호자'",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#industrial-policy",
+          "#nvidia",
+          "#us-china"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217764"
       },
       {
         "date": "2026-11-24",
@@ -70996,6 +71096,21 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-앤트로픽-ai-도입-기업-직원-해고보.md",
+        "title": "앤트로픽 'AI 도입 기업, 직원 해고보다 신규 채용 줄여'",
+        "importance": 8,
+        "tags": [
+          "#ai-adoption",
+          "#workforce",
+          "#org-change",
+          "#hiring",
+          "#roi-case"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217775"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-카카오뱅크-프랑스-ai기업과-파트너십.md",
         "title": "카카오뱅크, 프랑스 AI기업과 파트너십…금융 특화 LLM 개발",
         "importance": 8,
@@ -71097,6 +71212,20 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-어바웃-c-ax-무게-싣는-삼성물산-.md",
+        "title": "[어바웃 C] AX 무게 싣는 삼성물산, 이현아 CAIO 부사장 발탁",
+        "importance": 7,
+        "tags": [
+          "#org-change",
+          "#caio",
+          "#ax",
+          "#construction"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679678"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-ai-debt-markets-shud.md",
         "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
         "importance": 6,
@@ -71108,6 +71237,20 @@
         ],
         "source": "CNBC Technology",
         "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-ai-debt-worries-grow.md",
+        "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+        "importance": 6,
+        "tags": [
+          "#ai-capex",
+          "#debt-market",
+          "#big-tech",
+          "#investment"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
       },
       {
         "date": "2026-11-25",
@@ -71153,6 +71296,20 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+        "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표",
+        "importance": 6,
+        "tags": [
+          "#aiops",
+          "#ai-adoption",
+          "#microsoft",
+          "#reliability"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217761"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-trustly-raises-60m-f.md",
         "title": "Trustly raises $60m from shareholders for AI-powered growth plan",
         "importance": 6,
@@ -71195,6 +71352,35 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
+        "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축",
+        "importance": 6,
+        "tags": [
+          "#ai-adoption",
+          "#enterprise-ai",
+          "#partnership",
+          "#citizen-developer",
+          "#public-sector"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217776"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-스페이스x-테슬라-3-5조달러-합병-.md",
+        "title": "스페이스X·테슬라, 3.5조달러 합병 협상 본격화…연내 타결 추진",
+        "importance": 6,
+        "tags": [
+          "#acquisition",
+          "#tesla",
+          "#spacex",
+          "#mega-deal"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217774"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-앤트로픽-상장-나흘-만에-공모가-하회.md",
         "title": "앤트로픽, 상장 나흘 만에 공모가 하회…고평가 논란·경쟁 심화 부담",
         "importance": 6,
@@ -71221,6 +71407,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261125082616"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+        "title": "트럼프가 젠슨 황을 복귀시킨 이유…'미국 오픈웨이트 AI 수호자'",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#industrial-policy",
+          "#nvidia",
+          "#us-china"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217764"
       },
       {
         "date": "2026-11-25",
@@ -139707,6 +139907,20 @@
       },
       {
         "date": "2026-11-25",
+        "file": "20261125-ai-debt-worries-grow.md",
+        "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
+        "importance": 6,
+        "tags": [
+          "#ai-capex",
+          "#debt-market",
+          "#big-tech",
+          "#investment"
+        ],
+        "source": "CNBC Technology",
+        "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
+      },
+      {
+        "date": "2026-11-25",
         "file": "20261125-data-centers-are-get.md",
         "title": "Data centers are getting their own natural gas power plants",
         "importance": 6,
@@ -139747,6 +139961,20 @@
         ],
         "source": "ZDNet Korea",
         "url": "https://zdnet.co.kr/view/?no=20261125082616"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+        "title": "트럼프가 젠슨 황을 복귀시킨 이유…'미국 오픈웨이트 AI 수호자'",
+        "importance": 6,
+        "tags": [
+          "#open-weights",
+          "#industrial-policy",
+          "#nvidia",
+          "#us-china"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217764"
       },
       {
         "date": "2026-11-25",
@@ -159742,6 +159970,21 @@
         ],
         "source": "매일경제 경제",
         "url": "https://www.mk.co.kr/news/economy/12217899"
+      },
+      {
+        "date": "2026-11-25",
+        "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+        "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련",
+        "importance": 7,
+        "tags": [
+          "#finance",
+          "#banking",
+          "#regulation",
+          "#cyber-risk",
+          "#stress-test"
+        ],
+        "source": "연합뉴스 경제",
+        "url": "https://www.yna.co.kr/view/AKR20261125074300002"
       },
       {
         "date": "2026-11-25",
@@ -188233,8 +188476,8 @@
     "금융회사 AI": [
       {
         "date": "2026-11-25",
-        "title": "금융권 AX의 정책·내재화 가속",
-        "summary": "당국이 AX를 보안 수단으로 밀자 금융사는 모델과 조직을 내재화한다",
+        "title": "금융 AX와 AI 위기대응",
+        "summary": "금융권은 AX를 서두르는 동시에 AI 공격을 위기 시나리오에 넣었다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -188257,20 +188500,21 @@
             "title": "토스증권, 'AI 시그널'에 종목별 주가흐름 짚는 기능 추가"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679627",
-            "title": ""
-          },
-          {
             "date": "2026-11-25",
             "file": "20261125-손바닥으로-결제하고-ai-금융코치도-.md",
             "title": "손바닥으로 결제하고 AI 금융코치도…핀테크 3사 신기술 총출동"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+            "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련"
           }
         ]
       },
       {
         "date": "2026-11-25",
-        "title": "에이전트 금융의 신뢰 관문",
-        "summary": "에이전트 결제는 감독과 소비자 신뢰라는 이중 관문 앞에 섰다",
+        "title": "에이전트 신뢰와 책임 설계",
+        "summary": "에이전트 확산의 조건이 감독·소비자 신뢰에서 사업자 책임으로 넓어졌다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -188291,6 +188535,16 @@
             "date": "2026-11-25",
             "file": "20261125-brits-wary-about-let.md",
             "title": "Brits wary about letting AI agents make payments for them"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+            "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+            "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표"
           }
         ]
       },
@@ -194337,8 +194591,8 @@
     "ai_policy": [
       {
         "date": "2026-11-25",
-        "title": "금융권 AX의 정책·내재화 가속",
-        "summary": "당국이 AX를 보안 수단으로 밀자 금융사는 모델과 조직을 내재화한다",
+        "title": "금융 AX와 AI 위기대응",
+        "summary": "금융권은 AX를 서두르는 동시에 AI 공격을 위기 시나리오에 넣었다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -194361,20 +194615,21 @@
             "title": "토스증권, 'AI 시그널'에 종목별 주가흐름 짚는 기능 추가"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679627",
-            "title": ""
-          },
-          {
             "date": "2026-11-25",
             "file": "20261125-손바닥으로-결제하고-ai-금융코치도-.md",
             "title": "손바닥으로 결제하고 AI 금융코치도…핀테크 3사 신기술 총출동"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+            "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련"
           }
         ]
       },
       {
         "date": "2026-11-25",
-        "title": "에이전트 금융의 신뢰 관문",
-        "summary": "에이전트 결제는 감독과 소비자 신뢰라는 이중 관문 앞에 섰다",
+        "title": "에이전트 신뢰와 책임 설계",
+        "summary": "에이전트 확산의 조건이 감독·소비자 신뢰에서 사업자 책임으로 넓어졌다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -194395,13 +194650,23 @@
             "date": "2026-11-25",
             "file": "20261125-brits-wary-about-let.md",
             "title": "Brits wary about letting AI agents make payments for them"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+            "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+            "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표"
           }
         ]
       },
       {
         "date": "2026-11-25",
-        "title": "AI 자산 재평가와 정치 리스크",
-        "summary": "모델 기업 프리미엄은 깎이고 칩 공급망엔 정부 개입 변수가 붙었다",
+        "title": "AI 자산의 자금·정치 리스크",
+        "summary": "AI 투자는 조달 비용과 정부 개입이라는 두 변수에 동시에 묶였다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -194427,6 +194692,16 @@
             "date": "2026-11-25",
             "file": "20261125-트럼프-젠슨-황-사면도-선택지-사법당.md",
             "title": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ai-debt-worries-grow.md",
+            "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+            "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\""
           }
         ]
       },
@@ -201463,8 +201738,8 @@
     "llm_models": [
       {
         "date": "2026-11-25",
-        "title": "금융권 AX의 정책·내재화 가속",
-        "summary": "당국이 AX를 보안 수단으로 밀자 금융사는 모델과 조직을 내재화한다",
+        "title": "금융 AX와 AI 위기대응",
+        "summary": "금융권은 AX를 서두르는 동시에 AI 공격을 위기 시나리오에 넣었다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -201487,13 +201762,14 @@
             "title": "토스증권, 'AI 시그널'에 종목별 주가흐름 짚는 기능 추가"
           },
           {
-            "url": "https://www.bloter.net/news/articleView.html?idxno=679627",
-            "title": ""
-          },
-          {
             "date": "2026-11-25",
             "file": "20261125-손바닥으로-결제하고-ai-금융코치도-.md",
             "title": "손바닥으로 결제하고 AI 금융코치도…핀테크 3사 신기술 총출동"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+            "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련"
           }
         ]
       },
@@ -205485,8 +205761,8 @@
     "ai_agents": [
       {
         "date": "2026-11-25",
-        "title": "에이전트 금융의 신뢰 관문",
-        "summary": "에이전트 결제는 감독과 소비자 신뢰라는 이중 관문 앞에 섰다",
+        "title": "에이전트 신뢰와 책임 설계",
+        "summary": "에이전트 확산의 조건이 감독·소비자 신뢰에서 사업자 책임으로 넓어졌다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -205507,28 +205783,38 @@
             "date": "2026-11-25",
             "file": "20261125-brits-wary-about-let.md",
             "title": "Brits wary about letting AI agents make payments for them"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+            "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+            "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표"
           }
         ]
       },
       {
         "date": "2026-11-25",
-        "title": "에이전트의 수익 통로화",
-        "summary": "에이전트가 광고·커머스·SaaS의 새 매출 통로로 자리 잡는다",
+        "title": "AI가 바꾸는 채용과 조직",
+        "summary": "AI 효과는 감원보다 채용 동결과 AI 리더십 격상으로 나타난다",
         "articles": [
           {
             "date": "2026-11-25",
-            "file": "20261125-anthropic-tops-700-m.md",
-            "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
+            "file": "20261125-앤트로픽-ai-도입-기업-직원-해고보.md",
+            "title": "앤트로픽 \"AI 도입 기업, 직원 해고보다 신규 채용 줄여\""
           },
           {
             "date": "2026-11-25",
-            "file": "20261125-how-meta-is-using-in.md",
-            "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
+            "file": "20261125-어바웃-c-ax-무게-싣는-삼성물산-.md",
+            "title": "[어바웃 C] AX 무게 싣는 삼성물산, 이현아 CAIO 부사장 발탁"
           },
           {
             "date": "2026-11-25",
-            "file": "20261125-walmart-teams-up-wit.md",
-            "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+            "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
+            "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축"
           }
         ]
       },
@@ -212182,8 +212468,8 @@
     "ai_industry": [
       {
         "date": "2026-11-25",
-        "title": "AI 자산 재평가와 정치 리스크",
-        "summary": "모델 기업 프리미엄은 깎이고 칩 공급망엔 정부 개입 변수가 붙었다",
+        "title": "AI 자산의 자금·정치 리스크",
+        "summary": "AI 투자는 조달 비용과 정부 개입이라는 두 변수에 동시에 묶였다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -212209,28 +212495,38 @@
             "date": "2026-11-25",
             "file": "20261125-트럼프-젠슨-황-사면도-선택지-사법당.md",
             "title": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ai-debt-worries-grow.md",
+            "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+            "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\""
           }
         ]
       },
       {
         "date": "2026-11-25",
-        "title": "에이전트의 수익 통로화",
-        "summary": "에이전트가 광고·커머스·SaaS의 새 매출 통로로 자리 잡는다",
+        "title": "AI가 바꾸는 채용과 조직",
+        "summary": "AI 효과는 감원보다 채용 동결과 AI 리더십 격상으로 나타난다",
         "articles": [
           {
             "date": "2026-11-25",
-            "file": "20261125-anthropic-tops-700-m.md",
-            "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
+            "file": "20261125-앤트로픽-ai-도입-기업-직원-해고보.md",
+            "title": "앤트로픽 \"AI 도입 기업, 직원 해고보다 신규 채용 줄여\""
           },
           {
             "date": "2026-11-25",
-            "file": "20261125-how-meta-is-using-in.md",
-            "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
+            "file": "20261125-어바웃-c-ax-무게-싣는-삼성물산-.md",
+            "title": "[어바웃 C] AX 무게 싣는 삼성물산, 이현아 CAIO 부사장 발탁"
           },
           {
             "date": "2026-11-25",
-            "file": "20261125-walmart-teams-up-wit.md",
-            "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+            "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
+            "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축"
           }
         ]
       },
@@ -221957,8 +222253,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-25",
-        "title": "AI 자산 재평가와 정치 리스크",
-        "summary": "모델 기업 프리미엄은 깎이고 칩 공급망엔 정부 개입 변수가 붙었다",
+        "title": "AI 자산의 자금·정치 리스크",
+        "summary": "AI 투자는 조달 비용과 정부 개입이라는 두 변수에 동시에 묶였다",
         "articles": [
           {
             "date": "2026-11-25",
@@ -221984,6 +222280,16 @@
             "date": "2026-11-25",
             "file": "20261125-트럼프-젠슨-황-사면도-선택지-사법당.md",
             "title": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-ai-debt-worries-grow.md",
+            "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
+          },
+          {
+            "date": "2026-11-25",
+            "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+            "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\""
           }
         ]
       },

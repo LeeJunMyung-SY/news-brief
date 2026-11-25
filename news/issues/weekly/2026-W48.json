@@ -1,12 +1,12 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-25T12:15:33.123911+09:00",
-  "run_id": "run_20261125_121533",
-  "summary_ko": "AI 자산 재평가 속 금융권 AX와 에이전트 통제가 동시에 빨라진다",
+  "updated_at": "2026-11-25T16:12:47.142034+09:00",
+  "run_id": "run_20261125_161247",
+  "summary_ko": "AI 자산 재평가 속 금융 AX는 빨라지고, 에이전트엔 책임 규칙이 붙는다",
   "issues": [
     {
       "title": "AI 투매와 자산 재평가",
-      "body_ko": "투매·반등을 거치며 상장 모델 기업과 AI 부채가 먼저 재평가받고 있다",
+      "body_ko": "투매·반등을 거치며 모델 기업 가치와 AI 부채 조달 여건이 함께 재평가된다",
       "topics": [
         "금융회사 AI",
         "ai_industry",
@@ -57,16 +57,21 @@
           "date": "2026-11-25",
           "file": "20261125-dell-earnings-beat-o.md",
           "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-debt-worries-grow.md",
+          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
         }
       ]
     },
     {
-      "title": "칩 제재의 확산과 정부 개입",
-      "body_ko": "제재가 동맹국 규정으로 번지고 칩 기업엔 정부 지분까지 거론된다",
+      "title": "칩 제재 확산과 정부 개입",
+      "body_ko": "제재는 동맹국 규정으로 번지고 정부는 오픈웨이트를 명분으로 칩 기업에 개입한다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
-        "ai_industry"
+        "llm_models"
       ],
       "articles": [
         {
@@ -103,12 +108,17 @@
           "date": "2026-11-25",
           "file": "20261125-트럼프-젠슨-황-사면도-선택지-사법당.md",
           "title": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+          "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\""
         }
       ]
     },
     {
-      "title": "금융 AX 가속과 에이전트 통제",
-      "body_ko": "금융권은 당국 주도로 AX와 모델 내재화를 서두르며 에이전트엔 통제 장치를 세운다",
+      "title": "금융 AX 가속과 위기 대비",
+      "body_ko": "금융권은 당국 주도로 AX를 서두르며 AI 공격과 에이전트 리스크를 감독 틀에 넣는다",
       "topics": [
         "금융회사 AI",
         "ai_agents",
@@ -169,12 +179,17 @@
           "date": "2026-11-25",
           "file": "20261125-brits-wary-about-let.md",
           "title": "Brits wary about letting AI agents make payments for them"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+          "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련"
         }
       ]
     },
     {
       "title": "에이전트의 업무·커머스 장악",
-      "body_ko": "에이전트가 승인·판매 채널까지 맡으며 연동 표준과 수익 모델이 굳어진다",
+      "body_ko": "에이전트가 승인·운영·판매 채널까지 맡으며 연동 표준과 수익 모델이 굳어진다",
       "topics": [
         "ai_agents",
         "ai_industry"
@@ -209,16 +224,26 @@
           "date": "2026-11-25",
           "file": "20261125-walmart-teams-up-wit.md",
           "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+          "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
+          "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축"
         }
       ]
     },
     {
-      "title": "AI 안전·인력 규칙의 제도화",
-      "body_ko": "모델 통제 논의와 전문직 채용 감소 실증까지 AI 규칙이 제도 안으로 들어온다",
+      "title": "AI 인력·책임 규칙의 제도화",
+      "body_ko": "채용 감소 실증과 에이전트 책임보험 논의로 AI 규칙이 인사·제도 안으로 들어온다",
       "topics": [
         "ai_policy",
-        "llm_models",
-        "ai_industry"
+        "ai_industry",
+        "llm_models"
       ],
       "articles": [
         {
@@ -255,6 +280,16 @@
           "date": "2026-11-25",
           "file": "20261125-ai쇼크-현실로-신입-회계사-채용-수.md",
           "title": "AI쇼크 현실로…“신입 회계사 채용 수요 매년 최대 8.5% 감소”"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-앤트로픽-ai-도입-기업-직원-해고보.md",
+          "title": "앤트로픽 \"AI 도입 기업, 직원 해고보다 신규 채용 줄여\""
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+          "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
         }
       ]
     }

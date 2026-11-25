@@ -1,12 +1,12 @@
 {
   "date": "2026-11-25",
-  "updated_at": "2026-11-25T12:15:33.123911+09:00",
-  "run_id": "run_20261125_121533",
-  "summary_ko": "AI 자산 재평가 속 금융권은 AX를 서두르고 에이전트 신뢰 장치를 짠다",
+  "updated_at": "2026-11-25T16:12:47.142034+09:00",
+  "run_id": "run_20261125_161247",
+  "summary_ko": "금융권은 AX와 AI 위기대응을 함께 다지고, AI 자산은 자금·정치 변수에 흔들린다",
   "issues": [
     {
-      "title": "금융권 AX의 정책·내재화 가속",
-      "summary_ko": "당국이 AX를 보안 수단으로 밀자 금융사는 모델과 조직을 내재화한다",
+      "title": "금융 AX와 AI 위기대응",
+      "summary_ko": "금융권은 AX를 서두르는 동시에 AI 공격을 위기 시나리오에 넣었다",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -34,23 +34,24 @@
           "title": "토스증권, 'AI 시그널'에 종목별 주가흐름 짚는 기능 추가"
         },
         {
-          "url": "https://www.bloter.net/news/articleView.html?idxno=679627",
-          "title": ""
-        },
-        {
           "date": "2026-11-25",
           "file": "20261125-손바닥으로-결제하고-ai-금융코치도-.md",
           "title": "손바닥으로 결제하고 AI 금융코치도…핀테크 3사 신기술 총출동"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
+          "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련"
         }
       ]
     },
     {
-      "title": "에이전트 금융의 신뢰 관문",
-      "summary_ko": "에이전트 결제는 감독과 소비자 신뢰라는 이중 관문 앞에 섰다",
+      "title": "에이전트 신뢰와 책임 설계",
+      "summary_ko": "에이전트 확산의 조건이 감독·소비자 신뢰에서 사업자 책임으로 넓어졌다",
       "topics": [
-        "금융회사 AI",
         "ai_agents",
-        "ai_policy"
+        "ai_policy",
+        "금융회사 AI"
       ],
       "articles": [
         {
@@ -72,12 +73,22 @@
           "date": "2026-11-25",
           "file": "20261125-brits-wary-about-let.md",
           "title": "Brits wary about letting AI agents make payments for them"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
+          "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
+          "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표"
         }
       ]
     },
     {
-      "title": "AI 자산 재평가와 정치 리스크",
-      "summary_ko": "모델 기업 프리미엄은 깎이고 칩 공급망엔 정부 개입 변수가 붙었다",
+      "title": "AI 자산의 자금·정치 리스크",
+      "summary_ko": "AI 투자는 조달 비용과 정부 개입이라는 두 변수에 동시에 묶였다",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -108,31 +119,41 @@
           "date": "2026-11-25",
           "file": "20261125-트럼프-젠슨-황-사면도-선택지-사법당.md",
           "title": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-ai-debt-worries-grow.md",
+          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
+        },
+        {
+          "date": "2026-11-25",
+          "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
+          "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\""
         }
       ]
     },
     {
-      "title": "에이전트의 수익 통로화",
-      "summary_ko": "에이전트가 광고·커머스·SaaS의 새 매출 통로로 자리 잡는다",
+      "title": "AI가 바꾸는 채용과 조직",
+      "summary_ko": "AI 효과는 감원보다 채용 동결과 AI 리더십 격상으로 나타난다",
       "topics": [
-        "ai_agents",
-        "ai_industry"
+        "ai_industry",
+        "ai_agents"
       ],
       "articles": [
         {
           "date": "2026-11-25",
-          "file": "20261125-anthropic-tops-700-m.md",
-          "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
+          "file": "20261125-앤트로픽-ai-도입-기업-직원-해고보.md",
+          "title": "앤트로픽 \"AI 도입 기업, 직원 해고보다 신규 채용 줄여\""
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-how-meta-is-using-in.md",
-          "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
+          "file": "20261125-어바웃-c-ax-무게-싣는-삼성물산-.md",
+          "title": "[어바웃 C] AX 무게 싣는 삼성물산, 이현아 CAIO 부사장 발탁"
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-walmart-teams-up-wit.md",
-          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+          "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
+          "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축"
         }
       ]
     }
