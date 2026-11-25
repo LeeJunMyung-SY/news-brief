@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-26",
+  "updated_at": "2026-11-26T08:14:36.649521+09:00",
+  "run_id": "run_20261126_081436",
+  "summary_ko": "칩 공급 리스크는 신용으로 번지고, 에이전트 공격 현실화로 보안이 도입 전제가 됐다",
+  "issues": [
+    {
+      "title": "에이전트 공격의 현실화",
+      "summary_ko": "AI 공격이 실제 피해로 이어지며 보안 예산과 권한 통제 설계가 급증한다",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "금융회사 AI"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-26",
+          "file": "20261126-ai-에이전트-활용-사이버-공격-확산.md",
+          "title": "AI 에이전트 활용 사이버 공격 확산…이탈리아·스위스 피해 확인"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-back-to-back-cyber-i.md",
+          "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-ai해킹-막자-5대-보안예산-55-증.md",
+          "title": "\"AI해킹 막자\" 5대銀 보안예산 55% 증액"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217763",
+          "title": ""
+        },
+        {
+          "url": "https://zdnet.co.kr/view/?no=20261125222507",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "칩 공급사 리스크의 신용 전이",
+      "summary_ko": "공급사 지배구조 문제가 신용등급과 원격 조달 규제로 번진다",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-26",
+          "file": "20261126-s-p-엔비디아-신용등급-강등-검토-.md",
+          "title": "S&P, 엔비디아 신용등급 강등 검토…“경영·지배구조 체계 악화”"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-nvidia-sellers-seek-.md",
+          "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-us-chip-access-curbs.md",
+          "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
+        },
+        {
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+          "title": ""
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "title": "엔터프라이즈 AI의 신뢰·성과 검증",
+      "summary_ko": "기업 AI 경쟁의 초점이 모델 성능에서 데이터 신뢰와 조직 정착으로 옮겨간다",
+      "topics": [
+        "llm_models",
+        "ai_industry",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-26",
+          "file": "20261126-openai-wants-compani.md",
+          "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-anthropic-study-show.md",
+          "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-오픈ai-기업용-ai-에이전트-정확도.md",
+          "title": "오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 '아테나' 개발 중"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217773",
+          "title": ""
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-amazon-and-meta-are-.md",
+          "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store."
+        }
+      ]
+    },
+    {
+      "title": "금융 AI의 감독 편입과 현장 확산",
+      "summary_ko": "당국은 에이전트를 모델리스크 틀에 넣고 금융사는 심사·컴플라이언스에 AI를 넓힌다",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-26",
+          "file": "20261126-what-the-rbi-s-draft.md",
+          "title": "What the RBI's Draft Model Risk Guidance Means for AI Agents in Banks"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-유수영-신용정보원장-ai-기술보다-이.md",
+          "title": "유수영 신용정보원장 “AI 기술보다 이용자 필요가 먼저”"
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111780/stafford-building-society-adopts-ai-powered-financial-crime-checks?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        },
+        {
+          "url": "https://www.finextra.com/pressarticle/111779/pine-labs-extends-agentic-ai-platform-with-business-intelligence-and-marketing-agents-for-indias-sm?utm_medium=rssfinextra&utm_source=finextrafeed",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}

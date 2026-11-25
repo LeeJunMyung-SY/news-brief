@@ -1,23 +1,18 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-25T16:12:47.142034+09:00",
-  "run_id": "run_20261125_161247",
-  "summary_ko": "AI 자산 재평가 속 금융 AX는 빨라지고, 에이전트엔 책임 규칙이 붙는다",
+  "updated_at": "2026-11-26T08:14:36.649521+09:00",
+  "run_id": "run_20261126_081436",
+  "summary_ko": "AI 자산 재평가가 신용으로 번지고, 금융·에이전트엔 보안과 책임 규칙이 붙는다",
   "issues": [
     {
-      "title": "AI 투매와 자산 재평가",
-      "body_ko": "투매·반등을 거치며 모델 기업 가치와 AI 부채 조달 여건이 함께 재평가된다",
+      "title": "AI 자산 재평가와 신용 압박",
+      "body_ko": "투매·반등을 거치며 모델 기업 가치에 이어 칩 공급사 신용까지 재평가 대상이 됐다",
       "topics": [
-        "금융회사 AI",
         "ai_industry",
-        "ai_compute_energy"
+        "ai_compute_energy",
+        "금융회사 AI"
       ],
       "articles": [
-        {
-          "date": "2026-11-23",
-          "file": "20261123-f4-시장상황-띠라-증안펀드-바로-가.md",
-          "title": "F4 \"시장상황 띠라 증안펀드 바로 가동 준비 착수\""
-        },
         {
           "date": "2026-11-23",
           "file": "20261123-증시-투매에-코스피도-벌벌-월요일이-.md",
@@ -30,18 +25,8 @@
         },
         {
           "date": "2026-11-24",
-          "file": "20261124-젠슨-황-복귀에-엔비디아-31-폭등-.md",
-          "title": "젠슨 황 복귀에 엔비디아 31% 폭등…美, '메가스피드 제재·상원 공개 청문' 압박은 계속"
-        },
-        {
-          "date": "2026-11-24",
           "file": "20261124-25년-만의-최악-성적표-반도체주-뒤.md",
           "title": "\"25년 만의 최악 성적표\"…반도체주 뒤흔든 'AI 빚투' 공포 [이슈+]"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-황-ceo-복귀에-앤트로픽-주가-역주.md",
-          "title": "황 CEO 복귀에 앤트로픽 주가 역주행…오픈웨이트 경쟁 부담"
         },
         {
           "date": "2026-11-25",
@@ -55,19 +40,27 @@
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-dell-earnings-beat-o.md",
-          "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback"
-        },
-        {
-          "date": "2026-11-25",
           "file": "20261125-ai-debt-worries-grow.md",
           "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-s-p-엔비디아-신용등급-강등-검토-.md",
+          "title": "S&P, 엔비디아 신용등급 강등 검토…“경영·지배구조 체계 악화”"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+          "title": ""
+        },
+        {
+          "url": "https://www.mk.co.kr/news/stock/12218470",
+          "title": ""
         }
       ]
     },
     {
-      "title": "칩 제재 확산과 정부 개입",
-      "body_ko": "제재는 동맹국 규정으로 번지고 정부는 오픈웨이트를 명분으로 칩 기업에 개입한다",
+      "title": "칩 제재의 원격 접근·동맹국 확산",
+      "body_ko": "제재가 원격 GPU 접근과 동맹국 규정으로 번지며 중국 연구소 개발까지 늦춘다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -90,46 +83,40 @@
           "title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\""
         },
         {
-          "date": "2026-11-24",
-          "file": "20261124-젠슨-황-복귀에-미-의회-초당적-반발.md",
-          "title": "젠슨 황 복귀에 미 의회 초당적 반발…AI 칩 수출 규제 강화 요구"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-아마존-데카르트의-ai-최적화-기술-.md",
-          "title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입"
-        },
-        {
           "date": "2026-11-25",
           "file": "20261125-말레이시아-미국-제재-기업-데이터센터.md",
           "title": "말레이시아, 미국 제재 기업 데이터센터 제한…싱가포르도 칩 우회 차단"
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-트럼프-젠슨-황-사면도-선택지-사법당.md",
-          "title": "트럼프 \"젠슨 황 사면도 선택지\"...사법당국은 조사 여부 함구"
-        },
-        {
-          "date": "2026-11-25",
           "file": "20261125-트럼프가-젠슨-황을-복귀시킨-이유-미.md",
           "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\""
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-nvidia-sellers-seek-.md",
+          "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-us-chip-access-curbs.md",
+          "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217784",
+          "title": ""
         }
       ]
     },
     {
-      "title": "금융 AX 가속과 위기 대비",
-      "body_ko": "금융권은 당국 주도로 AX를 서두르며 AI 공격과 에이전트 리스크를 감독 틀에 넣는다",
+      "title": "금융 AX와 보안 투자 확대",
+      "body_ko": "금융권은 AX를 서두르며 AI 공격 대비 예산과 감독 틀을 함께 키운다",
       "topics": [
         "금융회사 AI",
-        "ai_agents",
-        "ai_policy"
+        "ai_policy",
+        "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-11-23",
-          "file": "20261123-ai쇼핑비서-실수할라-금융사-머리-맞.md",
-          "title": "\"AI쇼핑비서 실수할라\" 금융사 머리 맞댄다"
-        },
         {
           "date": "2026-11-23",
           "file": "20261123-이은미-토스뱅크-대표-ai-에이전트-.md",
@@ -139,11 +126,6 @@
           "date": "2026-11-24",
           "file": "20261124-nh증권-맞춤형-투자전략-제공-ai-.md",
           "title": "NH증권, 맞춤형 투자전략 제공 'AI 로보어드바이저 서비스' 출시"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-wells-fargo-to-custo.md",
-          "title": "Wells Fargo to Customers: Your AI Agent, Your Problem"
         },
         {
           "date": "2026-11-24",
@@ -157,11 +139,6 @@
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-카드사-임직원-10명중-8명-5년내-.md",
-          "title": "카드사 임직원 10명중 8명…\"5년내 AI 금융결제 상용화\""
-        },
-        {
-          "date": "2026-11-25",
           "file": "20261125-이억원-금융권-ai-제대로-써야-방어.md",
           "title": "이억원 \"금융권 AI 제대로 써야 방어…보안강화 위해 AX 가속\""
         },
@@ -172,24 +149,34 @@
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-경주-떠나-춘천으로-핀다가-저축은행-.md",
-          "title": "경주 떠나 춘천으로…핀다가 저축은행 본점을 옮긴 까닭"
-        },
-        {
-          "date": "2026-11-25",
-          "file": "20261125-brits-wary-about-let.md",
-          "title": "Brits wary about letting AI agents make payments for them"
-        },
-        {
-          "date": "2026-11-25",
           "file": "20261125-고금리-ai-공격속-금융사-무너지면-.md",
           "title": "고금리·AI 공격속 금융사 무너지면…당국 위기대응 점검 훈련"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-ai해킹-막자-5대-보안예산-55-증.md",
+          "title": "\"AI해킹 막자\" 5대銀 보안예산 55% 증액"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-what-the-rbi-s-draft.md",
+          "title": "What the RBI's Draft Model Risk Guidance Means for AI Agents in Banks"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-back-to-back-cyber-i.md",
+          "title": "Back-to-back cyber incidents at US financial investigators and spy agencies follow a string of federal hacks and outages"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-유수영-신용정보원장-ai-기술보다-이.md",
+          "title": "유수영 신용정보원장 “AI 기술보다 이용자 필요가 먼저”"
         }
       ]
     },
     {
       "title": "에이전트의 업무·커머스 장악",
-      "body_ko": "에이전트가 승인·운영·판매 채널까지 맡으며 연동 표준과 수익 모델이 굳어진다",
+      "body_ko": "에이전트가 업무·판매 채널을 맡으며 플랫폼과의 수익 배분 협상이 시작됐다",
       "topics": [
         "ai_agents",
         "ai_industry"
@@ -206,19 +193,9 @@
           "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off"
         },
         {
-          "date": "2026-11-24",
-          "file": "20261124-ai-에이전트-피클-확산에-통신3사-.md",
-          "title": "AI 에이전트 '피클' 확산에 통신3사·네이버 '전화 빗장'"
-        },
-        {
           "date": "2026-11-25",
           "file": "20261125-anthropic-tops-700-m.md",
           "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
-        },
-        {
-          "date": "2026-11-25",
-          "file": "20261125-how-meta-is-using-in.md",
-          "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
         },
         {
           "date": "2026-11-25",
@@ -227,54 +204,44 @@
         },
         {
           "date": "2026-11-25",
-          "file": "20261125-ms-대규모-시스템-장애에-코드-레드.md",
-          "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표"
+          "file": "20261125-how-meta-is-using-in.md",
+          "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent"
         },
         {
-          "date": "2026-11-25",
-          "file": "20261125-네이버클라우드-한수원-한전kdn과-원.md",
-          "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 체계 구축"
+          "date": "2026-11-26",
+          "file": "20261126-amazon-and-meta-are-.md",
+          "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store."
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-오픈ai-기업용-ai-에이전트-정확도.md",
+          "title": "오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 '아테나' 개발 중"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-openai-says-heavy-ch.md",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
         }
       ]
     },
     {
-      "title": "AI 인력·책임 규칙의 제도화",
-      "body_ko": "채용 감소 실증과 에이전트 책임보험 논의로 AI 규칙이 인사·제도 안으로 들어온다",
+      "title": "AI 인력·보안·책임 규칙의 제도화",
+      "body_ko": "채용 감소 실증과 에이전트 공격·책임보험 논의로 AI 규칙이 조직·제도 안에 들어온다",
       "topics": [
         "ai_policy",
         "ai_industry",
-        "llm_models"
+        "ai_agents"
       ],
       "articles": [
-        {
-          "date": "2026-11-23",
-          "file": "20261123-오픈ai-사전학습으로-ai-지능-급성.md",
-          "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\""
-        },
         {
           "date": "2026-11-23",
           "file": "20261123-심의-받으면-개인정보-ai-학습-가능.md",
           "title": "심의 받으면 개인정보 'AI 학습' 가능…특례안 입법예고"
         },
         {
-          "date": "2026-11-24",
-          "file": "20261124-kosa-ai-사업-대가산정-기준-손.md",
-          "title": "KOSA, AI 사업 대가산정 기준 손본다…전문기술 비용 신설"
-        },
-        {
           "date": "2026-11-25",
           "file": "20261125-dozens-of-insiders-s.md",
           "title": "Dozens of insiders say OpenAI and Anthropic's unreleased models have outgrown their safety measures"
-        },
-        {
-          "date": "2026-11-25",
-          "file": "20261125-내년-정부-ai-예산-1-6배-확대-.md",
-          "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진"
-        },
-        {
-          "date": "2026-11-25",
-          "file": "20261125-ai-시대-공인회계사-선발-문-좁아진.md",
-          "title": "AI 시대 공인회계사 선발 문 좁아진다…내년 최소 1천100명"
         },
         {
           "date": "2026-11-25",
@@ -290,6 +257,20 @@
           "date": "2026-11-25",
           "file": "20261125-ai-혼자-사고-내면-사업자-책임보험.md",
           "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-anthropic-study-show.md",
+          "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-ai-에이전트-활용-사이버-공격-확산.md",
+          "title": "AI 에이전트 활용 사이버 공격 확산…이탈리아·스위스 피해 확인"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217763",
+          "title": ""
         }
       ]
     }
