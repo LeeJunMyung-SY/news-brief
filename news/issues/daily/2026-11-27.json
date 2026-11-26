@@ -1,0 +1,131 @@
+{
+  "date": "2026-11-27",
+  "updated_at": "2026-11-27T08:11:02.825257+09:00",
+  "run_id": "run_20261127_081102",
+  "summary_ko": "칩 봉쇄가 동남아로 넓어지고 금융권은 AI 위협 대비와 데이터 기반을 함께 다진다",
+  "issues": [
+    {
+      "title": "칩 봉쇄의 동남아 확산",
+      "summary_ko": "우회 거점이 막히며 중국 모델·칩 자립과 메모리 쟁탈이 동시에 빨라진다",
+      "topics": [
+        "ai_compute_energy",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-27",
+          "file": "20261127-엔비디아-동남아-4개국-ai-서버-출.md",
+          "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-z-ai-glm-5-5-출시-지연-문.md",
+          "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-화웨이-삼성-sk하이닉스-추월-노리고.md",
+          "title": "\"화웨이, 삼성·SK하이닉스 추월 노리고 차세대 HBM 개발\""
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-그래서-뭘-더해-줄-건데-머스크도-진.md",
+          "title": "“그래서 뭘 더해 줄 건데?”…머스크도 진땀 빼게 한 이재용의 한마디"
+        }
+      ]
+    },
+    {
+      "title": "금융권 AI 방어와 데이터 기반",
+      "summary_ko": "감독은 AI 위협 대응 투자를 요구하고 금융사는 데이터 결합을 수익원으로 만든다",
+      "topics": [
+        "금융회사 AI",
+        "ai_policy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-27",
+          "file": "20261127-bofe-says-firms-need.md",
+          "title": "BofE says firms need to invest to keep pace with AI threat"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-농협금융-우량고객-직접-육성-신용도-.md",
+          "title": "농협금융, 우량고객 직접 육성…신용도 개선 땐 은행으로 모시기"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-주택금융-정보-등-64개-개방-ai-.md",
+          "title": "주택금융 정보 등 64개 개방 … AI·자산관리 활용도 높인다"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-credable-acquires-70.md",
+          "title": "CredAble acquires 70% stake in Reql"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-salt-edge-and-neumet.md",
+          "title": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 자동화의 검증 공백",
+      "summary_ko": "공격도 개발도 에이전트가 맡으며 사람의 검증 역량이 병목이 됐다",
+      "topics": [
+        "ai_agents",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-27",
+          "file": "20261127-microsoft-details-ho.md",
+          "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-ai가-작성한-코드-같은-ai가-검토.md",
+          "title": "AI가 작성한 코드, 같은 AI가 검토...개발 조직 절반 가까이 활용"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-코그니션-코딩-모델-swe-2-1-출.md",
+          "title": "코그니션, 코딩 모델 'SWE-2.1' 출시…장기 작업·사이버 보안 성능 강화"
+        }
+      ]
+    },
+    {
+      "title": "AI 가치와 데이터의 재평가",
+      "summary_ko": "효율·신용·데이터 처분 기준이 AI 자산 가치를 다시 매긴다",
+      "topics": [
+        "ai_industry",
+        "ai_policy",
+        "llm_models"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-27",
+          "file": "20261127-11월26일-앤트로픽이-던진-역설-a.md",
+          "title": "[11월26일] 앤트로픽이 던진 역설…AI 기술 발전에 깊어지는 투자자들의 고민"
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-무디스-ai확산에-동일-산업-내-기업.md",
+          "title": "무디스 \"AI확산에 동일 산업 내 기업 간 신용도 격차 확대될 것\""
+        },
+        {
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "title": ""
+        },
+        {
+          "date": "2026-11-27",
+          "file": "20261127-gpt-6-2-astra-users-.md",
+          "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error"
+        }
+      ]
+    }
+  ]
+}
