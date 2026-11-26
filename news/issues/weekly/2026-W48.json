@@ -1,12 +1,12 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-26T08:14:36.649521+09:00",
-  "run_id": "run_20261126_081436",
-  "summary_ko": "AI 자산 재평가가 신용으로 번지고, 금융·에이전트엔 보안과 책임 규칙이 붙는다",
+  "updated_at": "2026-11-26T12:13:07.553549+09:00",
+  "run_id": "run_20261126_121307",
+  "summary_ko": "AI 자산 재평가 속에 보안·책임 규칙이 금융·공공 도입의 전제로 굳어진 한 주",
   "issues": [
     {
       "title": "AI 자산 재평가와 신용 압박",
-      "body_ko": "투매·반등을 거치며 모델 기업 가치에 이어 칩 공급사 신용까지 재평가 대상이 됐다",
+      "body_ko": "모델 기업 공모가 하회와 칩 공급사 신용 경고로 AI 투자에 수익·조달 검증이 붙었다",
       "topics": [
         "ai_industry",
         "ai_compute_energy",
@@ -49,18 +49,19 @@
           "title": "S&P, 엔비디아 신용등급 강등 검토…“경영·지배구조 체계 악화”"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-ai-투자-불안에-기술주-하락-지속-.md",
+          "title": "AI 투자 불안에 기술주 하락 지속…앤트로픽 장중 74달러까지 밀려"
         },
         {
-          "url": "https://www.mk.co.kr/news/stock/12218470",
+          "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
           "title": ""
         }
       ]
     },
     {
       "title": "칩 제재의 원격 접근·동맹국 확산",
-      "body_ko": "제재가 원격 GPU 접근과 동맹국 규정으로 번지며 중국 연구소 개발까지 늦춘다",
+      "body_ko": "제재가 원격 GPU 접근과 동맹국 규정으로 번지며 서비스 단위 수출통제 논의까지 낳았다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -103,14 +104,19 @@
           "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217784",
+          "date": "2026-11-26",
+          "file": "20261126-미-정보당국-앨리스-황-스파이-증거-.md",
+          "title": "미 정보당국 “앨리스 황, 中 스파이 증거 없어”…젠슨 황 복귀 후 의회 기밀 브리핑"
+        },
+        {
+          "url": "https://www.yna.co.kr/view/AKR20261126075600017",
           "title": ""
         }
       ]
     },
     {
       "title": "금융 AX와 보안 투자 확대",
-      "body_ko": "금융권은 AX를 서두르며 AI 공격 대비 예산과 감독 틀을 함께 키운다",
+      "body_ko": "금융권은 AX를 서두르며 보안 예산·감독 틀과 AI용 데이터 개방을 함께 키운다",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -171,12 +177,22 @@
           "date": "2026-11-26",
           "file": "20261126-유수영-신용정보원장-ai-기술보다-이.md",
           "title": "유수영 신용정보원장 “AI 기술보다 이용자 필요가 먼저”"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-금융당국-금융규제-법령해석-개인사업자.md",
+          "title": "금융당국, 금융규제 법령해석·개인사업자 합성데이터 추가 개방"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-uk-reappoints-starli.md",
+          "title": "UK reappoints Starling and Lloyds execs as AI champions"
         }
       ]
     },
     {
       "title": "에이전트의 업무·커머스 장악",
-      "body_ko": "에이전트가 업무·판매 채널을 맡으며 플랫폼과의 수익 배분 협상이 시작됐다",
+      "body_ko": "에이전트가 업무·운영·판매 채널을 맡으며 플랫폼과의 수익 배분 협상이 시작됐다",
       "topics": [
         "ai_agents",
         "ai_industry"
@@ -221,12 +237,17 @@
           "date": "2026-11-26",
           "file": "20261126-openai-says-heavy-ch.md",
           "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-인천공항-ai-에이전트-운영-검증-완.md",
+          "title": "인천공항, AI 에이전트 운영 검증 완료…상황 대응 시간 최대 65% 단축 기대"
         }
       ]
     },
     {
       "title": "AI 인력·보안·책임 규칙의 제도화",
-      "body_ko": "채용 감소 실증과 에이전트 공격·책임보험 논의로 AI 규칙이 조직·제도 안에 들어온다",
+      "body_ko": "채용 감소 실증, 국가 사이버 전략, AI 광고 제재로 AI 규칙이 조직·제도 안에 들어온다",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -269,8 +290,28 @@
           "title": "AI 에이전트 활용 사이버 공격 확산…이탈리아·스위스 피해 확인"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217763",
+          "date": "2026-11-26",
+          "file": "20261126-트럼프-미-대통령-범정부-사이버인프라.md",
+          "title": "트럼프 미 대통령, 범정부 사이버인프라 보호 계획 발표"
+        },
+        {
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217797",
           "title": ""
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-애플-ai-기능-출시-시기-부풀려-광.md",
+          "title": "애플, AI 기능 출시 시기 부풀려 광고… 공정위 제재 착수"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-가명처리-기준-충족-시-drb-심의-.md",
+          "title": "가명처리 기준 충족 시 DRB 심의 면제…복지부, 보건의료데이터 활용 기준 마련"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-유미-s-픽-감원-칼바람-불던-ms-.md",
+          "title": "[유미's 픽] 감원 칼바람 불던 MS, 결국 '코드 레드'…개발자들이 우려한 까닭은"
         }
       ]
     }

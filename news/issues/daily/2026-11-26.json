@@ -1,15 +1,15 @@
 {
   "date": "2026-11-26",
-  "updated_at": "2026-11-26T08:14:36.649521+09:00",
-  "run_id": "run_20261126_081436",
-  "summary_ko": "칩 공급 리스크는 신용으로 번지고, 에이전트 공격 현실화로 보안이 도입 전제가 됐다",
+  "updated_at": "2026-11-26T12:13:07.553549+09:00",
+  "run_id": "run_20261126_121307",
+  "summary_ko": "AI 보안이 국가 의제로 오르고, 도입 성과와 규제 산업 데이터 규칙이 구체화됐다",
   "issues": [
     {
-      "title": "에이전트 공격의 현실화",
-      "summary_ko": "AI 공격이 실제 피해로 이어지며 보안 예산과 권한 통제 설계가 급증한다",
+      "title": "AI 보안의 국가 의제화",
+      "summary_ko": "에이전트 공격 피해가 국가 사이버 전략과 은행 보안 예산 확대로 번진다",
       "topics": [
-        "ai_agents",
         "ai_policy",
+        "ai_agents",
         "금융회사 AI"
       ],
       "articles": [
@@ -29,22 +29,19 @@
           "title": "\"AI해킹 막자\" 5대銀 보안예산 55% 증액"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217763",
-          "title": ""
-        },
-        {
-          "url": "https://zdnet.co.kr/view/?no=20261125222507",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-트럼프-미-대통령-범정부-사이버인프라.md",
+          "title": "트럼프 미 대통령, 범정부 사이버인프라 보호 계획 발표"
         }
       ]
     },
     {
       "title": "칩 공급사 리스크의 신용 전이",
-      "summary_ko": "공급사 지배구조 문제가 신용등급과 원격 조달 규제로 번진다",
+      "summary_ko": "안보 의혹은 옅어졌지만 신용·지배구조 우려가 AI 자산 가격을 누른다",
       "topics": [
         "ai_compute_energy",
-        "ai_policy",
-        "ai_industry"
+        "ai_industry",
+        "ai_policy"
       ],
       "articles": [
         {
@@ -63,22 +60,24 @@
           "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
         },
         {
-          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-미-정보당국-앨리스-황-스파이-증거-.md",
+          "title": "미 정보당국 “앨리스 황, 中 스파이 증거 없어”…젠슨 황 복귀 후 의회 기밀 브리핑"
         },
         {
-          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-ai-투자-불안에-기술주-하락-지속-.md",
+          "title": "AI 투자 불안에 기술주 하락 지속…앤트로픽 장중 74달러까지 밀려"
         }
       ]
     },
     {
-      "title": "엔터프라이즈 AI의 신뢰·성과 검증",
-      "summary_ko": "기업 AI 경쟁의 초점이 모델 성능에서 데이터 신뢰와 조직 정착으로 옮겨간다",
+      "title": "AI 도입 성과의 정량 검증",
+      "summary_ko": "현장 성과 수치가 쌓이는 한편, AI발 감원의 운영 리스크도 드러났다",
       "topics": [
-        "llm_models",
         "ai_industry",
-        "ai_agents"
+        "ai_agents",
+        "llm_models"
       ],
       "articles": [
         {
@@ -97,19 +96,25 @@
           "title": "오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 '아테나' 개발 중"
         },
         {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217773",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-인천공항-ai-에이전트-운영-검증-완.md",
+          "title": "인천공항, AI 에이전트 운영 검증 완료…상황 대응 시간 최대 65% 단축 기대"
         },
         {
           "date": "2026-11-26",
-          "file": "20261126-amazon-and-meta-are-.md",
-          "title": "Amazon and Meta are in talks to end the block on Meta's AI shopping agent Muse in Amazon's online store."
+          "file": "20261126-전남광주-공무원-5000명에-ai-보.md",
+          "title": "전남광주, 공무원 5000명에 AI 보급 추진…영국선 하루 26분 업무시간 절감 보고"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-유미-s-픽-감원-칼바람-불던-ms-.md",
+          "title": "[유미's 픽] 감원 칼바람 불던 MS, 결국 '코드 레드'…개발자들이 우려한 까닭은"
         }
       ]
     },
     {
-      "title": "금융 AI의 감독 편입과 현장 확산",
-      "summary_ko": "당국은 에이전트를 모델리스크 틀에 넣고 금융사는 심사·컴플라이언스에 AI를 넓힌다",
+      "title": "금융·의료 AI 규칙의 구체화",
+      "summary_ko": "감독은 에이전트를 리스크 관리에 넣고, 데이터 활용 기준을 업권별로 정한다",
       "topics": [
         "금융회사 AI",
         "ai_policy"
@@ -126,12 +131,19 @@
           "title": "유수영 신용정보원장 “AI 기술보다 이용자 필요가 먼저”"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111780/stafford-building-society-adopts-ai-powered-financial-crime-checks?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-금융당국-금융규제-법령해석-개인사업자.md",
+          "title": "금융당국, 금융규제 법령해석·개인사업자 합성데이터 추가 개방"
         },
         {
-          "url": "https://www.finextra.com/pressarticle/111779/pine-labs-extends-agentic-ai-platform-with-business-intelligence-and-marketing-agents-for-indias-sm?utm_medium=rssfinextra&utm_source=finextrafeed",
-          "title": ""
+          "date": "2026-11-26",
+          "file": "20261126-가명처리-기준-충족-시-drb-심의-.md",
+          "title": "가명처리 기준 충족 시 DRB 심의 면제…복지부, 보건의료데이터 활용 기준 마련"
+        },
+        {
+          "date": "2026-11-26",
+          "file": "20261126-uk-reappoints-starli.md",
+          "title": "UK reappoints Starling and Lloyds execs as AI champions"
         }
       ]
     }
