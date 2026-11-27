@@ -1,8 +1,8 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-27T16:14:34.203285+09:00",
-  "run_id": "run_20261127_161434",
-  "summary_ko": "AI 자산 재평가와 제재 확산 속에 보안·책임 규칙이 도입 전제로 굳어진 한 주",
+  "updated_at": "2026-11-28T08:14:14.803166+09:00",
+  "run_id": "run_20261128_081414",
+  "summary_ko": "AI 자산 재평가·제재 확산 속 보안·책임 규칙이 도입 전제로 굳어진 한 주",
   "issues": [
     {
       "title": "AI 자산 재평가와 조달 압박",
@@ -42,10 +42,6 @@
           "date": "2026-11-27",
           "file": "20261127-sap-ai-중심-구조조정-추진-최소.md",
           "title": "SAP, AI 중심 구조조정 추진…최소 1만명 감원 검토"
-        },
-        {
-          "url": "https://www.aitimes.com/news/articleView.html?idxno=217878",
-          "title": ""
         }
       ]
     },
@@ -80,11 +76,6 @@
         },
         {
           "date": "2026-11-27",
-          "file": "20261127-유미-s-픽-캐나다-자국-클라우드-쓰.md",
-          "title": "[유미's 픽] 캐나다, 자국 클라우드 쓰면 '파격 지원'…韓 AI 정책 시사점은"
-        },
-        {
-          "date": "2026-11-27",
           "file": "20261127-중국-기업-미국-법인-통해-엔비디아-.md",
           "title": "중국 기업, 미국 법인 통해 엔비디아 첨단 AI 칩 확보…또 다른 규제 허점"
         },
@@ -92,12 +83,17 @@
           "date": "2026-11-27",
           "file": "20261127-eu-ai-양자컴퓨팅-육성에-최대-7.md",
           "title": "EU, AI·양자컴퓨팅 육성에 최대 73조원 '기술 주권 펀드' 추진"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-banned-nvidia-blackw.md",
+          "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
         }
       ]
     },
     {
       "title": "금융 AX와 AI 리스크 의제화",
-      "body_ko": "금융권은 AX·에이전트 금융을 키우고, AI 위협은 보안 투자를 넘어 거시 감독 의제로 올랐다",
+      "body_ko": "금융 AX가 영업 현장·에이전트 결제로 번지고, AI 위협은 거시 감독 의제가 됐다",
       "topics": [
         "금융회사 AI",
         "ai_policy",
@@ -120,11 +116,6 @@
           "title": "\"AI해킹 막자\" 5대銀 보안예산 55% 증액"
         },
         {
-          "date": "2026-11-26",
-          "file": "20261126-what-the-rbi-s-draft.md",
-          "title": "What the RBI's Draft Model Risk Guidance Means for AI Agents in Banks"
-        },
-        {
           "date": "2026-11-27",
           "file": "20261127-bofe-says-firms-need.md",
           "title": "BofE says firms need to invest to keep pace with AI threat"
@@ -135,20 +126,25 @@
           "title": "한국, 내년 아세안+3 의장 맡는다... 'AI와 금융안정성' 의제로"
         },
         {
-          "date": "2026-11-27",
-          "file": "20261127-영국-중앙은행-총재-미공개-최첨단-a.md",
-          "title": "영국 중앙은행 총재 \"미공개 최첨단 AI, 암호화 체계 위협 가능성\""
+          "date": "2026-11-28",
+          "file": "20261128-신한라이프-설계사-10명-중-7명-a.md",
+          "title": "신한라이프 설계사 10명 중 7명…AI비서 '리코' 뒀다[현장+]"
         },
         {
-          "date": "2026-11-27",
-          "file": "20261127-뱅크샐러드가-던진-자율주행-금융-질문.md",
-          "title": "뱅크샐러드가 던진 '자율주행 금융' 질문…AI, 어디까지 맡길까"
+          "date": "2026-11-28",
+          "file": "20261128-truelayer-and-papa-j.md",
+          "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-kb라이프-시니어-포용금융-확장-주역.md",
+          "title": "KB라이프, 시니어 포용금융 확장…주역은 'AI 돌봄로봇'[현장+]"
         }
       ]
     },
     {
       "title": "에이전트의 업무·커머스 장악",
-      "body_ko": "에이전트가 업무 절차와 구매·광고 동선을 장악하며 접근료와 채널 재편이 새 쟁점이 됐다",
+      "body_ko": "에이전트가 업무 데이터와 구매 동선을 쥐려 하자 접근 차단·과금이 새 쟁점이 됐다",
       "topics": [
         "ai_agents",
         "ai_industry"
@@ -158,11 +154,6 @@
           "date": "2026-11-24",
           "file": "20261124-anthropic-launches-c.md",
           "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
-        },
-        {
-          "date": "2026-11-24",
-          "file": "20261124-sierra-doubles-valua.md",
-          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off"
         },
         {
           "date": "2026-11-25",
@@ -181,19 +172,24 @@
         },
         {
           "date": "2026-11-27",
-          "file": "20261127-앤트로픽-mcp-서버에-스킬-도입-에.md",
-          "title": "앤트로픽, MCP 서버에 '스킬' 도입…에이전트에 업무 노하우 전달"
-        },
-        {
-          "date": "2026-11-27",
           "file": "20261127-광고주-82-대행사-빼고-ai-광고-.md",
           "title": "광고주 82%, 대행사 빼고 AI 광고 산다"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-openai-is-building-a.md",
+          "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-ai-shopping-agents-a.md",
+          "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
         }
       ]
     },
     {
       "title": "AI 보안·책임 규칙의 제도화",
-      "body_ko": "에이전트 공격이 실침해로 번지며 당국 점검과 경영 책임을 묻는 규칙이 잇따랐다",
+      "body_ko": "에이전트 공격이 공급사 개발망까지 침투하며 당국 점검과 경영 책임 규칙이 잇따랐다",
       "topics": [
         "ai_policy",
         "ai_industry",
@@ -211,11 +207,6 @@
           "title": "AI 혼자 사고 내면?...\"사업자 책임보험 의무화\""
         },
         {
-          "date": "2026-11-26",
-          "file": "20261126-ai-에이전트-활용-사이버-공격-확산.md",
-          "title": "AI 에이전트 활용 사이버 공격 확산…이탈리아·스위스 피해 확인"
-        },
-        {
           "date": "2026-11-27",
           "file": "20261127-스위스-정부-ai-에이전트-활용-사이.md",
           "title": "스위스 정부 \"AI 에이전트 활용 사이버 공격 5건 확인…4건 침해 성공\""
@@ -229,6 +220,11 @@
           "date": "2026-11-27",
           "file": "20261127-ai-사고-집단소송으로-번질-수도-c.md",
           "title": "\"AI 사고, 집단소송으로 번질 수도…CEO가 직접 챙겨야\""
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-유럽-최대-sw기업-sap-해킹-의심.md",
+          "title": "유럽 최대 SW기업 SAP, 해킹 의심 사고…깃허브 개발망타고 공격"
         }
       ]
     }

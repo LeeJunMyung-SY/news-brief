@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-28",
+  "updated_at": "2026-11-28T08:14:14.803166+09:00",
+  "run_id": "run_20261128_081414",
+  "summary_ko": "금융 현장 AI는 확산되고, 에이전트를 둘러싼 통제·주도권 다툼은 거세졌다",
+  "issues": [
+    {
+      "title": "금융 현장의 AI 비서·에이전트 결제",
+      "summary_ko": "금융 AX가 판매·돌봄 접점과 실결제로 내려왔다",
+      "topics": [
+        "금융회사 AI",
+        "ai_agents",
+        "physical_ai_robotics"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-28",
+          "file": "20261128-신한라이프-설계사-10명-중-7명-a.md",
+          "title": "신한라이프 설계사 10명 중 7명…AI비서 '리코' 뒀다[현장+]"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-kb라이프-시니어-포용금융-확장-주역.md",
+          "title": "KB라이프, 시니어 포용금융 확장…주역은 'AI 돌봄로봇'[현장+]"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-truelayer-and-papa-j.md",
+          "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-인뱅-중저신용-잔액-비중-하락-차주-.md",
+          "title": "인뱅 중저신용 잔액 비중 하락…차주 절반, 신용점수 오른 배경은"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-인젠트-에이전틱-ai-도입-해법-제시.md",
+          "title": "인젠트, 에이전틱 AI 도입 해법 제시…기존 시스템 연계 강화"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 공격과 제재 우회의 통제 공백",
+      "summary_ko": "공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
+      "topics": [
+        "ai_policy",
+        "ai_compute_energy",
+        "ai_agents"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-28",
+          "file": "20261128-유럽-최대-sw기업-sap-해킹-의심.md",
+          "title": "유럽 최대 SW기업 SAP, 해킹 의심 사고…깃허브 개발망타고 공격"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-banned-nvidia-blackw.md",
+          "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+        }
+      ]
+    },
+    {
+      "title": "에이전트 채널·데이터 주도권 다툼",
+      "summary_ko": "에이전트를 둘러싼 데이터·채널 주도권 경쟁이 격화됐다",
+      "topics": [
+        "ai_agents",
+        "ai_industry"
+      ],
+      "articles": [
+        {
+          "date": "2026-11-28",
+          "file": "20261128-openai-is-building-a.md",
+          "title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-ai-shopping-agents-a.md",
+          "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
+        },
+        {
+          "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+          "title": ""
+        }
+      ]
+    }
+  ]
+}
