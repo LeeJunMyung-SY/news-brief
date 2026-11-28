@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:14:28+00:00",
+  "generated_at": "2026-11-28T03:10:20+00:00",
   "topics": [
     {
       "key": "llm_models",
@@ -12,21 +12,21 @@
       "key": "ai_agents",
       "label": "AI Agents and Autonomous Systems",
       "description": "에이전트 AI, 도구 사용(tool use), 멀티에이전트, 자율 코딩, MCP",
-      "count": 1797,
+      "count": 1798,
       "latest_date": "2026-11-28"
     },
     {
       "key": "ai_policy",
       "label": "AI Policy, Regulation and Safety",
       "description": "각국 AI 규제·입법, AI 안전 연구, 정렬(alignment), 윤리, 거버넌스",
-      "count": 1842,
+      "count": 1843,
       "latest_date": "2026-11-28"
     },
     {
       "key": "ai_industry",
       "label": "AI Industry and Business",
       "description": "주요 투자·인수합병, 기업 AI 전략, 주요 파트너십, 상용화 동향",
-      "count": 4192,
+      "count": 4194,
       "latest_date": "2026-11-28"
     },
     {
@@ -40,14 +40,14 @@
       "key": "ai_compute_energy",
       "label": "Ai Compute Energy",
       "description": "AI 데이터센터 전력·GPU 인프라 확보, 컴퓨트와 기후 목표 충돌, 배터리·재생에너지 결합, 전력망, 발전소, 발전 터빈",
-      "count": 1408,
+      "count": 1409,
       "latest_date": "2026-11-28"
     },
     {
       "key": "금융회사 AI",
       "label": "국내외 금융회사 AI",
       "description": "증권사, 은행, 투자자문, 운용사, 금융기관, 로보어드바이저",
-      "count": 1199,
+      "count": 1200,
       "latest_date": "2026-11-28"
     },
     {
@@ -168,6 +168,21 @@
         ],
         "source": "전자신문 IT",
         "url": "https://www.etnews.com/20261127000347"
+      },
+      {
+        "date": "2026-11-28",
+        "file": "20261128-르포-샴푸-주문해줘-ai-에이전트-피.md",
+        "title": "[르포] “샴푸 주문해줘”…AI 에이전트 '피클', 카드결제 성공 뒤 주문번호 오류",
+        "importance": 6,
+        "tags": [
+          "#agentic-commerce",
+          "#payment",
+          "#ai-agent",
+          "#consumer-trust",
+          "#liability"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261127000004"
       },
       {
         "date": "2026-11-28",
@@ -45629,6 +45644,21 @@
         "url": "https://www.etnews.com/20261127000347"
       },
       {
+        "date": "2026-11-28",
+        "file": "20261128-미국-유럽-잇단-사이버-공격-ai-시.md",
+        "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나",
+        "importance": 6,
+        "tags": [
+          "#cybersecurity",
+          "#safety-incident",
+          "#legacy-infra",
+          "#government",
+          "#ai-threat"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217888"
+      },
+      {
         "date": "2026-11-27",
         "file": "20261127-엔비디아-동남아-4개국-ai-서버-출.md",
         "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
@@ -72325,6 +72355,36 @@
         ],
         "source": "한국경제 IT",
         "url": "https://www.hankyung.com/article/2026112752781"
+      },
+      {
+        "date": "2026-11-28",
+        "file": "20261128-오픈ai-애플에-맞소송-협력업체-압박.md",
+        "title": "오픈AI, 애플에 맞소송…'협력업체 압박해 AI 기기 생산 방해'",
+        "importance": 6,
+        "tags": [
+          "#openai",
+          "#apple",
+          "#lawsuit",
+          "#ai-device",
+          "#supply-chain"
+        ],
+        "source": "AI타임스",
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=217889"
+      },
+      {
+        "date": "2026-11-28",
+        "file": "20261128-트럼프-관세에도-수입-사상-최대-ai.md",
+        "title": "트럼프 관세에도 美 수입 사상 최대…AI 설비투자가 증가세 주도",
+        "importance": 6,
+        "tags": [
+          "#ai-capex",
+          "#trade",
+          "#macro",
+          "#data-center",
+          "#tariff"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679933"
       },
       {
         "date": "2026-11-27",
@@ -141722,6 +141782,21 @@
         "url": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/"
       },
       {
+        "date": "2026-11-28",
+        "file": "20261128-트럼프-관세에도-수입-사상-최대-ai.md",
+        "title": "트럼프 관세에도 美 수입 사상 최대…AI 설비투자가 증가세 주도",
+        "importance": 6,
+        "tags": [
+          "#ai-capex",
+          "#trade",
+          "#macro",
+          "#data-center",
+          "#tariff"
+        ],
+        "source": "블로터",
+        "url": "https://www.bloter.net/news/articleView.html?idxno=679933"
+      },
+      {
         "date": "2026-11-27",
         "file": "20261127-엔비디아-동남아-4개국-ai-서버-출.md",
         "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
@@ -162041,6 +162116,21 @@
         ],
         "source": "Finextra",
         "url": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment?utm_medium=rssfinextra&utm_source=finextrafeed"
+      },
+      {
+        "date": "2026-11-28",
+        "file": "20261128-르포-샴푸-주문해줘-ai-에이전트-피.md",
+        "title": "[르포] “샴푸 주문해줘”…AI 에이전트 '피클', 카드결제 성공 뒤 주문번호 오류",
+        "importance": 6,
+        "tags": [
+          "#agentic-commerce",
+          "#payment",
+          "#ai-agent",
+          "#consumer-trust",
+          "#liability"
+        ],
+        "source": "전자신문 IT",
+        "url": "https://www.etnews.com/20261127000004"
       },
       {
         "date": "2026-11-28",
@@ -191007,7 +191097,7 @@
       {
         "date": "2026-11-28",
         "title": "금융 현장의 AI 비서·에이전트 결제",
-        "summary": "금융 AX가 판매·돌봄 접점과 실결제로 내려왔다",
+        "summary": "금융 AX가 실결제로 내려왔지만 오류 책임은 비어 있다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -191033,6 +191123,11 @@
             "date": "2026-11-28",
             "file": "20261128-인젠트-에이전틱-ai-도입-해법-제시.md",
             "title": "인젠트, 에이전틱 AI 도입 해법 제시…기존 시스템 연계 강화"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-르포-샴푸-주문해줘-ai-에이전트-피.md",
+            "title": "[르포] “샴푸 주문해줘”…AI 에이전트 '피클', 카드결제 성공 뒤 주문번호 오류"
           }
         ]
       },
@@ -197270,7 +197365,7 @@
       {
         "date": "2026-11-28",
         "title": "금융 현장의 AI 비서·에이전트 결제",
-        "summary": "금융 AX가 판매·돌봄 접점과 실결제로 내려왔다",
+        "summary": "금융 AX가 실결제로 내려왔지만 오류 책임은 비어 있다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -197296,13 +197391,18 @@
             "date": "2026-11-28",
             "file": "20261128-인젠트-에이전틱-ai-도입-해법-제시.md",
             "title": "인젠트, 에이전틱 AI 도입 해법 제시…기존 시스템 연계 강화"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-르포-샴푸-주문해줘-ai-에이전트-피.md",
+            "title": "[르포] “샴푸 주문해줘”…AI 에이전트 '피클', 카드결제 성공 뒤 주문번호 오류"
           }
         ]
       },
       {
         "date": "2026-11-28",
-        "title": "에이전트 공격과 제재 우회의 통제 공백",
-        "summary": "공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
+        "title": "AI 공격과 제재 우회의 통제 공백",
+        "summary": "노후 인프라와 공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -197313,13 +197413,18 @@
             "date": "2026-11-28",
             "file": "20261128-banned-nvidia-blackw.md",
             "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-미국-유럽-잇단-사이버-공격-ai-시.md",
+            "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나"
           }
         ]
       },
       {
         "date": "2026-11-28",
-        "title": "에이전트 채널·데이터 주도권 다툼",
-        "summary": "에이전트를 둘러싼 데이터·채널 주도권 경쟁이 격화됐다",
+        "title": "에이전트·디바이스 주도권 다툼",
+        "summary": "데이터·채널에 이어 제조 공급망까지 주도권 경쟁이 번졌다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -197330,6 +197435,11 @@
             "date": "2026-11-28",
             "file": "20261128-ai-shopping-agents-a.md",
             "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-오픈ai-애플에-맞소송-협력업체-압박.md",
+            "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\""
           },
           {
             "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
@@ -204250,7 +204360,7 @@
       {
         "date": "2026-11-28",
         "title": "금융 현장의 AI 비서·에이전트 결제",
-        "summary": "금융 AX가 판매·돌봄 접점과 실결제로 내려왔다",
+        "summary": "금융 AX가 실결제로 내려왔지만 오류 책임은 비어 있다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -204276,6 +204386,11 @@
             "date": "2026-11-28",
             "file": "20261128-인젠트-에이전틱-ai-도입-해법-제시.md",
             "title": "인젠트, 에이전틱 AI 도입 해법 제시…기존 시스템 연계 강화"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-르포-샴푸-주문해줘-ai-에이전트-피.md",
+            "title": "[르포] “샴푸 주문해줘”…AI 에이전트 '피클', 카드결제 성공 뒤 주문번호 오류"
           }
         ]
       },
@@ -204961,8 +205076,8 @@
     "ai_policy": [
       {
         "date": "2026-11-28",
-        "title": "에이전트 공격과 제재 우회의 통제 공백",
-        "summary": "공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
+        "title": "AI 공격과 제재 우회의 통제 공백",
+        "summary": "노후 인프라와 공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -204973,6 +205088,11 @@
             "date": "2026-11-28",
             "file": "20261128-banned-nvidia-blackw.md",
             "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-미국-유럽-잇단-사이버-공격-ai-시.md",
+            "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나"
           }
         ]
       },
@@ -212367,8 +212487,8 @@
     "ai_compute_energy": [
       {
         "date": "2026-11-28",
-        "title": "에이전트 공격과 제재 우회의 통제 공백",
-        "summary": "공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
+        "title": "AI 공격과 제재 우회의 통제 공백",
+        "summary": "노후 인프라와 공급망 곳곳의 통제 공백이 실물 사고로 드러났다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -212379,6 +212499,23 @@
             "date": "2026-11-28",
             "file": "20261128-banned-nvidia-blackw.md",
             "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+          },
+          {
+            "date": "2026-11-28",
+            "file": "20261128-미국-유럽-잇단-사이버-공격-ai-시.md",
+            "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나"
+          }
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "title": "AI 설비투자의 거시 파급",
+        "summary": "AI 인프라 투자가 무역수지를 움직이는 거시 변수가 됐다",
+        "articles": [
+          {
+            "date": "2026-11-28",
+            "file": "20261128-트럼프-관세에도-수입-사상-최대-ai.md",
+            "title": "트럼프 관세에도 美 수입 사상 최대…AI 설비투자가 증가세 주도"
           }
         ]
       },
@@ -217908,8 +218045,8 @@
     "ai_industry": [
       {
         "date": "2026-11-28",
-        "title": "에이전트 채널·데이터 주도권 다툼",
-        "summary": "에이전트를 둘러싼 데이터·채널 주도권 경쟁이 격화됐다",
+        "title": "에이전트·디바이스 주도권 다툼",
+        "summary": "데이터·채널에 이어 제조 공급망까지 주도권 경쟁이 번졌다",
         "articles": [
           {
             "date": "2026-11-28",
@@ -217922,8 +218059,25 @@
             "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth"
           },
           {
+            "date": "2026-11-28",
+            "file": "20261128-오픈ai-애플에-맞소송-협력업체-압박.md",
+            "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\""
+          },
+          {
             "url": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
             "title": ""
+          }
+        ]
+      },
+      {
+        "date": "2026-11-28",
+        "title": "AI 설비투자의 거시 파급",
+        "summary": "AI 인프라 투자가 무역수지를 움직이는 거시 변수가 됐다",
+        "articles": [
+          {
+            "date": "2026-11-28",
+            "file": "20261128-트럼프-관세에도-수입-사상-최대-ai.md",
+            "title": "트럼프 관세에도 美 수입 사상 최대…AI 설비투자가 증가세 주도"
           }
         ]
       },
