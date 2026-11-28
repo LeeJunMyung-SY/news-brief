@@ -1,7 +1,7 @@
 {
   "week": "2026-W48",
-  "updated_at": "2026-11-28T12:10:08.868236+09:00",
-  "run_id": "run_20261128_121008",
+  "updated_at": "2026-11-28T16:09:18.341608+09:00",
+  "run_id": "run_20261128_160918",
   "summary_ko": "AI 자산 재평가·제재 확산 속 보안·책임 규칙이 도입 전제로 굳어진 한 주",
   "issues": [
     {
@@ -51,8 +51,8 @@
       ]
     },
     {
-      "title": "칩 제재와 기술주권",
-      "body_ko": "제재가 우회 공급망을 잇달아 끊자 각국은 보조금·지분 펀드로 자국 컴퓨트를 키운다",
+      "title": "칩 제재와 컴퓨트 주권",
+      "body_ko": "제재가 우회 공급망을 조여 암시장 프리미엄이 치솟자 각국은 자국 컴퓨트 건설을 서두른다",
       "topics": [
         "ai_compute_energy",
         "ai_policy",
@@ -93,6 +93,16 @@
           "date": "2026-11-28",
           "file": "20261128-banned-nvidia-blackw.md",
           "title": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-암시장서-엔비디아-b300-서버값-5.md",
+          "title": "中암시장서 엔비디아 'B300' 서버값 5배 폭등…대당 40억원 돌파"
+        },
+        {
+          "date": "2026-11-28",
+          "file": "20261128-gs-동해-ai데이터센터-첫삽-메가프.md",
+          "title": "GS 동해 AI데이터센터 첫삽...메가프로젝트 첫 GW급 착공"
         }
       ]
     },
